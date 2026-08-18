@@ -17,6 +17,7 @@
     "add:winner": "tsx scripts/add-winner.ts"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.31.0",
     "minisearch": "^7.2.0",
