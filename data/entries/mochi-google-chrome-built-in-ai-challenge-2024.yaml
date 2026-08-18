@@ -1,0 +1,16 @@
+id: mochi-google-chrome-built-in-ai-challenge-2024
+project_id: mochi
+hackathon_id: google-chrome-built-in-ai-challenge-2024
+submission_url: https://devpost.com/software/mochi-6i7vuk
+source:
+  platform: devpost
+  url: https://devpost.com/software/mochi-6i7vuk
+awards:
+  - type: category-winner
+    title: Best Real-World Application (Chrome Extension)
+    track: Chrome Extension
+    prize_amount: 12000
+    currency: USD
+verification:
+  status: verified
+  checked_at: 2026-08-18

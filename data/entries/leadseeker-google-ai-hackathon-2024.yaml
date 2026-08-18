@@ -1,0 +1,16 @@
+id: leadseeker-google-ai-hackathon-2024
+project_id: leadseeker
+hackathon_id: google-ai-hackathon-2024
+submission_url: https://devpost.com/software/leadseeker
+source:
+  platform: devpost
+  url: https://devpost.com/software/leadseeker
+awards:
+  - type: category-winner
+    title: Most Valuable to Business
+    track: Most Valuable to Business
+    prize_amount: 5000
+    currency: USD
+verification:
+  status: verified
+  checked_at: 2026-08-18

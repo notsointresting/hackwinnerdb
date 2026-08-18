@@ -1,0 +1,39 @@
+- slug: grand-prize
+  name: "Grand Prize"
+  weight: 0
+- slug: winner
+  name: "Winner"
+  weight: 10
+- slug: first-place
+  name: "1st Place"
+  weight: 20
+- slug: second-place
+  name: "2nd Place"
+  weight: 30
+- slug: third-place
+  name: "3rd Place"
+  weight: 40
+- slug: category-winner
+  name: "Category Winner"
+  weight: 50
+- slug: track-winner
+  name: "Track Winner"
+  weight: 55
+- slug: sponsor-prize
+  name: "Sponsor Prize"
+  weight: 60
+- slug: audience-choice
+  name: "Audience Choice"
+  weight: 70
+- slug: community-choice
+  name: "Community Choice"
+  weight: 75
+- slug: honorable-mention
+  name: "Honorable Mention"
+  weight: 80
+- slug: finalist
+  name: "Finalist"
+  weight: 90
+- slug: other
+  name: "Other"
+  weight: 100

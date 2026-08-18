@@ -1,0 +1,25 @@
+id: leadseeker
+name: Leadseeker
+tagline: AI-assisted B2B lead qualification
+summary: A web app that assembles and qualifies B2B sales leads with Gemini, replacing manual
+  research passes through company data.
+problem: Qualifying outbound leads by hand is slow, repetitive work.
+website_url: https://leadseeker.xyz
+github_url: null
+demo_url: https://leadseeker.xyz
+video_url: null
+categories:
+  - enterprise
+  - artificial-intelligence
+  - productivity
+technologies:
+  - nextjs
+  - react
+  - typescript
+  - postgresql
+  - graphql
+  - gemini
+builders:
+  - name: Jason Filby
+  - name: Petr Popov
+slug: leadseeker

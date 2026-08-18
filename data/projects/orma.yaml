@@ -1,0 +1,25 @@
+id: orma
+name: Orma
+tagline: A memory layer over your browsing history you can chat with
+summary: Orma captures pages as they are browsed and builds a searchable memory that can be queried
+  conversationally, mixing on-device and cloud models.
+problem: Browser history records URLs but not what was actually learned.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+categories:
+  - productivity
+  - artificial-intelligence
+  - data
+technologies:
+  - react
+  - tailwind-css
+  - gemini-nano
+  - openai
+  - chrome-built-in-ai
+  - chrome-extension
+builders:
+  - name: Ron Nakamoto
+    github: ronnakamoto
+slug: orma

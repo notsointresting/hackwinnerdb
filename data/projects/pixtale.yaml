@@ -1,0 +1,22 @@
+id: pixtale
+name: Pixtale
+tagline: Turns trip photos into narrated travel videos
+summary: Pixtale takes a set of holiday photos and produces a narrated video that tells the trip as a story.
+website_url: null
+github_url: https://github.com/sam9111/pixtale
+demo_url: null
+video_url: null
+categories:
+  - media
+  - creative-tools
+  - artificial-intelligence
+technologies:
+  - python
+  - flask
+  - google-cloud
+  - gemini
+builders:
+  - name: Samyuktha Ganeshkumar
+    github: sam9111
+  - name: Mahendra Vishnu Madhavan
+slug: pixtale

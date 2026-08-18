@@ -1,0 +1,20 @@
+id: google-chrome-built-in-ai-challenge-2024
+name: Google Chrome Built-in AI Challenge
+slug: google-chrome-built-in-ai-challenge-2024
+organizer:
+  - Google
+  - Google Chrome
+year: 2024
+start_date: 2024-10-01
+end_date: 2024-12-03
+mode: online
+location: null
+website_url: https://googlechromeai.devpost.com/
+sources:
+  - https://googlechromeai.devpost.com/rules
+  - https://googlechromeai.devpost.com/project-gallery?filter=winner
+platform: devpost
+prize_pool: 76200
+currency: USD
+description: An online challenge from the Chrome team for web apps and extensions built on Chrome's
+  built-in AI APIs, including Gemini Nano running on-device.

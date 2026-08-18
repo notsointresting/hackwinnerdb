@@ -1,0 +1,16 @@
+id: image-describer-google-ai-hackathon-2024
+project_id: image-describer
+hackathon_id: google-ai-hackathon-2024
+submission_url: https://devpost.com/software/image-describer
+source:
+  platform: devpost
+  url: https://devpost.com/software/image-describer
+awards:
+  - type: category-winner
+    title: Most Potential for Community Impact
+    track: Most Potential for Community Impact
+    prize_amount: 5000
+    currency: USD
+verification:
+  status: verified
+  checked_at: 2026-08-18

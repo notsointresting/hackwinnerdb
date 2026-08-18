@@ -1,0 +1,16 @@
+id: opale-google-chrome-built-in-ai-challenge-2024
+project_id: opale
+hackathon_id: google-chrome-built-in-ai-challenge-2024
+submission_url: https://devpost.com/software/opale
+source:
+  platform: devpost
+  url: https://devpost.com/software/opale
+awards:
+  - type: category-winner
+    title: Most Innovative (Chrome Extension)
+    track: Chrome Extension
+    prize_amount: 10000
+    currency: USD
+verification:
+  status: verified
+  checked_at: 2026-08-18

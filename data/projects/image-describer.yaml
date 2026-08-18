@@ -1,0 +1,24 @@
+id: image-describer
+name: Image Describer
+tagline: Chrome extension that describes web images for blind and low-vision users
+summary: A browser extension that generates descriptions of images on any page and announces them as
+  text and audio, using Gemini vision models.
+problem: Most images on the web still ship without usable alternative text.
+solution: Descriptions are generated on demand in the browser rather than depending on site authors.
+website_url: https://chromewebstore.google.com/detail/image-describer/ogoddjgogmlndofcpkljmmdobjpfdolf
+github_url: null
+demo_url: null
+video_url: null
+categories:
+  - accessibility
+  - artificial-intelligence
+  - consumer
+technologies:
+  - react
+  - typescript
+  - gemini
+  - google-cloud
+  - chrome-extension
+builders:
+  - name: Cameron Cundiff
+slug: image-describer

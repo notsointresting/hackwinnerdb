@@ -1,0 +1,33 @@
+- slug: devpost
+  name: "Devpost"
+  homepage: https://devpost.com
+- slug: dorahacks
+  name: "DoraHacks"
+  homepage: https://dorahacks.io
+- slug: mlh
+  name: "Major League Hacking"
+  homepage: https://mlh.io
+- slug: unstop
+  name: "Unstop"
+  homepage: https://unstop.com
+- slug: hackerearth
+  name: "HackerEarth"
+  homepage: https://www.hackerearth.com
+- slug: lablab
+  name: "lablab.ai"
+  homepage: https://lablab.ai
+- slug: hackquest
+  name: "HackQuest"
+  homepage: https://www.hackquest.io
+- slug: ethglobal
+  name: "ETHGlobal"
+  homepage: https://ethglobal.com
+- slug: organizer
+  name: "Organizer announcement"
+  homepage: null
+- slug: github
+  name: "GitHub"
+  homepage: https://github.com
+- slug: other
+  name: "Other"
+  homepage: null

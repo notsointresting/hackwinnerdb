@@ -1,0 +1,16 @@
+id: pixtale-google-ai-hackathon-2024
+project_id: pixtale
+hackathon_id: google-ai-hackathon-2024
+submission_url: https://devpost.com/software/pixtale
+source:
+  platform: devpost
+  url: https://devpost.com/software/pixtale
+awards:
+  - type: category-winner
+    title: Most Impressive Technical Implementation
+    track: Most Impressive Technical Implementation
+    prize_amount: 5000
+    currency: USD
+verification:
+  status: verified
+  checked_at: 2026-08-18

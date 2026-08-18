@@ -1,0 +1,16 @@
+id: orma-google-chrome-built-in-ai-challenge-2024
+project_id: orma
+hackathon_id: google-chrome-built-in-ai-challenge-2024
+submission_url: https://devpost.com/software/orma
+source:
+  platform: devpost
+  url: https://devpost.com/software/orma
+awards:
+  - type: category-winner
+    title: Best Hybrid AI Application (Chrome Extension)
+    track: Chrome Extension
+    prize_amount: 7500
+    currency: USD
+verification:
+  status: verified
+  checked_at: 2026-08-18

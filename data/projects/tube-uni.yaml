@@ -1,0 +1,24 @@
+id: tube-uni
+name: Tube Uni
+tagline: Generates a personal podcast on any topic, sized to your commute
+summary: Tube Uni turns a topic request into a narrated podcast episode whose length is matched to
+  the listener's travel time.
+website_url: https://tubeuni.app
+github_url: null
+demo_url: https://tubeuni.app
+video_url: null
+categories:
+  - education
+  - media
+  - artificial-intelligence
+technologies:
+  - nextjs
+  - typescript
+  - vercel
+  - gemini
+  - google-maps
+builders:
+  - name: Liza Katz
+  - name: Denis Pekerman
+  - name: Amos Meron
+slug: tube-uni

@@ -1,0 +1,20 @@
+id: google-ai-hackathon-2024
+name: Google AI Hackathon
+slug: google-ai-hackathon-2024
+organizer:
+  - Google
+year: 2024
+start_date: 2024-03-18
+end_date: 2024-05-03
+mode: online
+location: null
+website_url: https://googleai.devpost.com/
+sources:
+  - https://googleai.devpost.com/
+  - https://googleai.devpost.com/project-gallery?filter=winner
+platform: devpost
+participant_count: 15476
+prize_pool: 50000
+currency: USD
+description: An online Devpost hackathon run by Google, asking teams to build applications with the
+  Gemini API across nine prize categories.

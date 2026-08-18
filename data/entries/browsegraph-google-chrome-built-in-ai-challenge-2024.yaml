@@ -1,0 +1,14 @@
+id: browsegraph-google-chrome-built-in-ai-challenge-2024
+project_id: browsegraph
+hackathon_id: google-chrome-built-in-ai-challenge-2024
+submission_url: https://devpost.com/software/browsegraph
+source:
+  platform: devpost
+  url: https://devpost.com/software/browsegraph
+awards:
+  - type: category-winner
+    title: Best Hybrid AI Application (Chrome Extension)
+    track: Chrome Extension
+verification:
+  status: verified
+  checked_at: 2026-08-18
