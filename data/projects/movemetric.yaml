@@ -1,0 +1,24 @@
+id: movemetric
+name: MoveMetric
+slug: movemetric
+tagline: MoveMetric turns any webcam into a real-time fitness coach that counts reps, corrects form,
+  personalizes workouts, tracks progress, and connects users with coac
+summary: MoveMetric received the Third Place award at The Vakathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/M3STERM1ND/MoveMetric
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/609/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Akhil Saokar
+  - name: Yash Bhomkar
+  - name: Tejas Tammana
+  - name: Manav Patel

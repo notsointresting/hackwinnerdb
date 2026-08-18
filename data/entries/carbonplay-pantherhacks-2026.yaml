@@ -1,0 +1,14 @@
+id: carbonplay-pantherhacks-2026
+project_id: carbonplay
+hackathon_id: pantherhacks-2026
+submission_url: https://devpost.com/software/carbonplay
+source:
+  platform: devpost
+  url: https://devpost.com/software/carbonplay
+awards:
+  - type: track-winner
+    title: Sustainability Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

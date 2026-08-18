@@ -1,0 +1,25 @@
+id: tallyai
+name: TallyAI
+slug: tallyai
+tagline: TallyAI is an AI productivity app that syncs academic and your schedules, then auto-plans
+  deep work sessions around your habits—aiding you stay organized, reduc
+summary: TallyAI received the Best Beginner Hack award at JACHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kozachokk/JACHacks2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+  - postgresql
+  - react
+builders:
+  - name: Yaroslav Klymiuk
+  - name: Yoonchan Rhie
+  - name: Kian Dehghani
+  - name: Nour Sabir

@@ -1,0 +1,21 @@
+id: lecture2quiz
+name: Lecture2quiz
+slug: lecture2quiz
+tagline: From audio to study packs with Valsea — transcribe, clarify, translate, quiz.
+summary: Lecture2quiz received the Internship/ Full time opportunity award at VALSEA EdTech System
+  Sprint (HCM) in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ltdoanhwork/VALSEA_PROJECT
+demo_url: null
+video_url: https://www.youtube.com/embed/T5zEYT0wtqI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/644/567/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - python
+builders:
+  - name: Doanh Lê

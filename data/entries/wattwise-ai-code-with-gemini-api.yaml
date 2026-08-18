@@ -1,0 +1,14 @@
+id: wattwise-ai-code-with-gemini-api
+project_id: wattwise-ai
+hackathon_id: code-with-gemini-api
+submission_url: https://devpost.com/software/wattwise-ai-pdxnzu
+source:
+  platform: devpost
+  url: https://devpost.com/software/wattwise-ai-pdxnzu
+awards:
+  - type: category-winner
+    title: Best App Deployed on Google Cloud
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,19 @@
+id: fyredup-10-1
+name: FyredUp (10.1)
+slug: fyredup-10-1
+tagline: Autonomous Firefighting Robots for Safety and Efficiency
+summary: FyredUp (10.1) received the [MLH] Best Use of Gemini API award at BeachHacks 9.0 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mhtruong1031/fyrdup
+demo_url: null
+video_url: https://www.youtube.com/embed/OF7C4S_w9Gs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/637/datas/gallery.jpg
+categories:
+  - fintech
+  - robotics
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Minh Truong

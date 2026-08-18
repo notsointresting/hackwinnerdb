@@ -1,0 +1,25 @@
+id: energi
+name: Energi
+slug: energi
+tagline: Transforming clean energy education through data.
+summary: Energi received the Data Analytics track award at DataHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NikEthernet/datahacks2026-gitgud
+demo_url: null
+video_url: https://www.youtube.com/embed/qx_qrPc9YZk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Catherine Hu
+  - name: Eric Lu
+  - name: Nikolas Espinoza
+  - name: SeenaG123

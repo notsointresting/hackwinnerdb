@@ -1,0 +1,20 @@
+id: beacon5
+name: Beacon5
+slug: beacon5
+tagline: Beacon5 is a real-time campus safety app. Any staff member can arm the system school-wide,
+  students signal distress with live GPS, parents get two-way chat, wit
+summary: Beacon5 received the 1st Place Overall award at Synthesis Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/603/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - react
+builders:
+  - name: karstennjlee-alt Lee
+  - name: Aadit Mehta

@@ -1,0 +1,21 @@
+id: spaceatc
+name: SpaceATC
+slug: spaceatc
+tagline: Air traffic control for satellites. When two spacecraft are on a collision course, AI
+  agents negotiate who moves and by how much, a human approves, and the mane
+summary: SpaceATC received the All participant get 1 month of free snap2measure api award at Measure
+  up in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Rishet11/spaceatc
+demo_url: null
+video_url: https://www.youtube.com/embed/CDf91p12s7A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/974/813/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - docker
+  - fastapi
+  - python
+builders:
+  - name: Rishet Mehra

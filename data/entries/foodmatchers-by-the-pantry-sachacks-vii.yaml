@@ -1,0 +1,16 @@
+id: foodmatchers-by-the-pantry-sachacks-vii
+project_id: foodmatchers-by-the-pantry
+hackathon_id: sachacks-vii
+submission_url: https://devpost.com/software/foodmatchers-by-the-pantry
+source:
+  platform: devpost
+  url: https://devpost.com/software/foodmatchers-by-the-pantry
+awards:
+  - type: category-winner
+    title: Best Design w Code
+  - type: category-winner
+    title: Best Overall Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

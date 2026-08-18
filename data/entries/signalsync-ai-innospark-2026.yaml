@@ -1,0 +1,14 @@
+id: signalsync-ai-innospark-2026
+project_id: signalsync-ai
+hackathon_id: innospark-2026
+submission_url: https://devpost.com/software/signalsync-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/signalsync-ai
+awards:
+  - type: other
+    title: InnoSpark 2026 Champion
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

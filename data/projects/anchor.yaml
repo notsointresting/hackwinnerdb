@@ -1,0 +1,25 @@
+id: anchor
+name: Anchor
+slug: anchor
+tagline: What Anchor does essentially is we aim to create an app which alerts users of emergencies
+  in their area, but also to explain why taking action is necessary to t
+summary: Anchor received the The EU Shared Future Prize (by the European Union) award at UNIHACK
+  2026, funded by the European Union in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/jamie-pham/EmergencyAlert--anchor
+demo_url: null
+video_url: https://www.youtube.com/embed/8jHhRRAogj0
+image_url: null
+categories:
+  - other
+technologies:
+  - claude
+  - javascript
+  - openai
+  - react
+builders:
+  - name: Jamie Pham
+  - name: Corey
+  - name: Aarush Manica
+  - name: Mika Boudny

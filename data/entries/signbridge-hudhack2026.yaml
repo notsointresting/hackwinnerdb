@@ -1,0 +1,14 @@
+id: signbridge-hudhack2026
+project_id: signbridge
+hackathon_id: hudhack2026
+submission_url: https://devpost.com/software/signbridge-1mkgji
+source:
+  platform: devpost
+  url: https://devpost.com/software/signbridge-1mkgji
+awards:
+  - type: first-place
+    title: 1st Raspberry Pi 4 Starter Kit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

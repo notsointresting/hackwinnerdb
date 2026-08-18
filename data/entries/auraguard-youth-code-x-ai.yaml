@@ -1,0 +1,14 @@
+id: auraguard-youth-code-x-ai
+project_id: auraguard
+hackathon_id: youth-code-x-ai
+submission_url: https://devpost.com/software/auraguard
+source:
+  platform: devpost
+  url: https://devpost.com/software/auraguard
+awards:
+  - type: other
+    title: Genuine Effort- All in!
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

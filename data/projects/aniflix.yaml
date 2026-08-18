@@ -1,0 +1,19 @@
+id: aniflix
+name: Aniflix
+slug: aniflix
+tagline: Watch your favorite animes and unlock your favorite characters the more you watch!
+summary: Aniflix received the Best Game Development award at HACKMESA 2.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MakinBac0n/Aniflix-Official
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/479/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - javascript
+builders:
+  - name: MakinBac0n Lopez
+  - name: Anires X
+  - name: GenBen

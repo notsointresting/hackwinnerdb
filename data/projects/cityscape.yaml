@@ -1,0 +1,24 @@
+id: cityscape
+name: CityScape
+slug: cityscape
+tagline: Visualize your city's footprint and green spaces using real-world data!
+summary: CityScape received the $500 dollars in API Credits award at Claude Builder Club Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tanvibatchu/city
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/515/575/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mapbox
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Poneesh Kumar
+  - name: anushka punukollu
+  - name: Tanvi B
+  - name: Dvij Barot

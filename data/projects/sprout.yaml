@@ -1,0 +1,27 @@
+id: sprout
+name: Sprout
+slug: sprout
+tagline: Plant seeds of financial freedom
+summary: Sprout received the 1st place North Carolina FidHacks Winners award at North Carolina
+  FidHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/phantomsk/Sprout
+demo_url: null
+video_url: https://www.youtube.com/embed/RkveU99dB2s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/664/029/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - figma
+  - nextjs
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Nia Spence
+  - name: Jenna Lee
+  - name: Zaina Zia
+  - name: Sofia Poingue

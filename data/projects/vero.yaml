@@ -1,0 +1,23 @@
+id: vero
+name: Vero
+slug: vero
+tagline: Multi-agent physical therapy, democratizing care with Claude
+summary: Vero received the 2nd Overall award at SoCal Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AbhigyaGoel/claude-hack-project
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - supabase
+  - typescript
+builders:
+  - name: Abhigya Goel
+  - name: Aadrij Upadya
+  - name: VED VEDERE
+  - name: Matteo Craviotto

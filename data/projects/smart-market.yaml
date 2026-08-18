@@ -1,0 +1,19 @@
+id: smart-market
+name: Smart market
+slug: smart-market
+tagline: "Smart market encompases AI agents that predict best time for selling certain things
+  regarding the market trends and analysis. Business men are now able to have "
+summary: Smart market received the Gift Cards award at Neuu Hack DAy in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Enochtec/markeplace
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - postgresql
+  - react
+builders:
+  - name: Maestro GLX

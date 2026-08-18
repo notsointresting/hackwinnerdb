@@ -1,0 +1,22 @@
+id: rwact
+name: RWAct
+slug: rwact
+tagline: RWAct babysits your xStocks positions, alerts you when something matters, and helps you
+  react instantly through a secure ERC-4337 smart account.
+summary: "RWAct received the Standout Idea Award (Discretionary & Split by Winners) award at xStocks
+  Hackathon EthCC: Market Open in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Otomatorg/otomato-xstocks-hackathon-mobile-app
+demo_url: null
+video_url: https://www.youtube.com/embed/CBV9Ukyus40
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/087/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - react-native
+builders:
+  - name: Etienne Perche
+  - name: Clément Clement
+  - name: Dylan Breugne

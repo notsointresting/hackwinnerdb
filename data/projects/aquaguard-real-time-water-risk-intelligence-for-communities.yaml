@@ -1,0 +1,26 @@
+id: aquaguard-real-time-water-risk-intelligence-for-communities
+name: AquaGuard Real-Time Water Risk Intelligence for Communities
+slug: aquaguard-real-time-water-risk-intelligence-for-communities
+tagline: AquaGuard leverages IBM WatsonX to deliver UN SDG-aligned, real-time water risk
+  intelligence from community data and climate analytics, empowering vulnerable co
+summary: AquaGuard Real-Time Water Risk Intelligence for Communities received the Best UN Hack award
+  at IBM x UNSA Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/faria3islam/ibmz_kyfhs
+demo_url: null
+video_url: https://www.youtube.com/embed/XGLGS8BUZ0o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/032/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: Faria Islam
+  - name: Hadiyah Arif
+  - name: Karanveer Singh Sidhu Sidhu
+  - name: Sura Gaafar

@@ -1,0 +1,23 @@
+id: headroom
+name: Headroom
+slug: headroom
+tagline: A coding agent inside a 32,768-token ceiling, and the harness that measures what
+  compression is really worth. Half the input tokens for the same fix — plus exac
+summary: "Headroom received the 2nd Place award at Build with Paritok: The Token-Efficiency
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Shivang-creator/headroom
+demo_url: null
+video_url: https://www.youtube.com/embed/1XdV1f1fAyo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/059/333/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - python
+  - sqlite
+builders:
+  - name: shivang shirodkar

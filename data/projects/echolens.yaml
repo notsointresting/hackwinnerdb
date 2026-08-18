@@ -1,0 +1,19 @@
+id: echolens
+name: EchoLens
+slug: echolens
+tagline: EchoLens, an AR captioning system that assists deaf students.
+summary: EchoLens received the XR in Education Track 3rd Place - Sponsored by Spectacles award at
+  TigerVerse 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/paritheplatypus/SoundXRay
+demo_url: null
+video_url: https://www.youtube.com/embed/C09DDxJxxc4
+image_url: null
+categories:
+  - education
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: Pari Patel

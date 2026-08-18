@@ -1,0 +1,22 @@
+id: techbuddy
+name: TechBuddy
+slug: techbuddy
+tagline: Your patient, always-available AI companion helping seniors detect scams, master their
+  devices, and understand AI — no app download required.
+summary: TechBuddy received the 3rd Place award at GenLink Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaravjj2/TechBuddy
+demo_url: null
+video_url: https://www.youtube.com/embed/8BC25TdYzFA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/567/787/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Aarav Jain

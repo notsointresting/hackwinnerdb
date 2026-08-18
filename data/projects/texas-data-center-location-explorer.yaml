@@ -1,0 +1,19 @@
+id: texas-data-center-location-explorer
+name: Texas Data Center Location Explorer
+slug: texas-data-center-location-explorer
+tagline: A simple interactive map that reveals where Texas data centers are located, helping people
+  understand the hidden infrastructure behind the digital world.
+summary: Texas Data Center Location Explorer received the Bard Project award at Bard ColorStack
+  Computing for Social Good in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/784/datas/gallery.jpg
+categories:
+  - social-impact
+  - infrastructure
+technologies: []
+builders:
+  - name: Lyanna Bates

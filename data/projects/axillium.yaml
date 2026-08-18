@@ -1,0 +1,21 @@
+id: axillium
+name: Axillium
+slug: axillium
+tagline: A community-first addiction recovery system de-stigmatizing addictions
+summary: Axillium received the Best Overall - 3rd award at Build4Good 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CubeTures/Axillium
+demo_url: null
+video_url: https://www.youtube.com/embed/nQLjDcdGf6M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/009/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - dart
+  - flutter
+  - go
+  - sqlite
+builders:
+  - name: Owen Shadburne
+  - name: Zachary Smith

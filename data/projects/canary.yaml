@@ -1,0 +1,26 @@
+id: canary
+name: Canary
+slug: canary
+tagline: Detecting dangerous gases in real time and mapping their spread to predict hazards early,
+  giving miners time to respond and stay safe.
+summary: Canary received the Societal Impact award at YHack Spring 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tastychez/Canary/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/_pQCWo37ChY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/950/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+  - python
+  - raspberry-pi
+builders:
+  - name: Hong Yi Zhang
+  - name: Lena Conde-Araujo
+  - name: John Tan-Aristy
+  - name: Mateo Otero-Diaz

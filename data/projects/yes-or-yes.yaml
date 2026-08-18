@@ -1,0 +1,20 @@
+id: yes-or-yes
+name: YES? or YES!
+slug: yes-or-yes
+tagline: Giving goldfish root access to everything
+summary: YES? or YES! received the Most Questionable Use of 36 Hours award at LA Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lukietee/YESorYES
+demo_url: null
+video_url: https://www.youtube.com/embed/v2X7dJ6E1E4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/615/336/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - nextjs
+  - redis
+builders:
+  - name: lucas t
+  - name: zig chen
+  - name: Jason Zeng

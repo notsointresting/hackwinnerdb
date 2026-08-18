@@ -1,0 +1,24 @@
+id: voxintel
+name: VoxIntel
+slug: voxintel
+tagline: We built real time voice moderation for games that detects emotion and toxicity, makes
+  quick ban decisions, and provides with full visibility through live dashb
+summary: VoxIntel received the Best use of Airia award at Self Improving Agents Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/348/433/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Sami Ahmed
+  - name: Trishan Koyedi
+  - name: Joyson Gaurea
+  - name: Allan Almeida

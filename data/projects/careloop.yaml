@@ -1,0 +1,26 @@
+id: careloop
+name: CareLoop
+slug: careloop
+tagline: CareLoop is a voice-first healthcare concierge that triages urgency, finds nearby
+  providers, estimates cost, and helps book care from one calm conversation.
+summary: CareLoop received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/VishalDani1602/AIHACK26.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - redis
+  - stripe
+builders:
+  - name: Paria First Star
+  - name: Vishal Jaiminbhai Dani

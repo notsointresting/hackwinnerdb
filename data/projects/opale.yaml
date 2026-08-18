@@ -1,13 +1,13 @@
 id: opale
 name: Opale
 tagline: Reusable AI prompt templates for rewriting and translating anywhere in the browser
-summary: Opale lets a user save prompt templates once and apply them to any text on the web, covering rewriting,
-  translation, and repeated formatting tasks.
+summary: Opale lets a user save prompt templates once and apply them to any text on the web,
+  covering rewriting, translation, and repeated formatting tasks.
 website_url: null
 github_url: https://github.com/Hodisy/opale
 demo_url: null
 video_url: https://www.youtube.com/watch?v=vGY9Du6m65o
-image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/172/106/datas/medium.png
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/166/898/datas/gallery.jpg
 categories:
   - productivity
   - developer-tools

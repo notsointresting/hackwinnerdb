@@ -1,0 +1,31 @@
+id: skillsphere-ai-an-agentic-workforce-intelligence-ecosystem
+name: "SkillSphere AI: An Agentic Workforce Intelligence Ecosystem"
+slug: skillsphere-ai-an-agentic-workforce-intelligence-ecosystem
+tagline: SkillSphere AI is an Agentic AI Career Ecosystem where multiple AI agents work together as
+  a lifelong career companion. Instead of one chatbot, the system deplo
+summary: "SkillSphere AI: An Agentic Workforce Intelligence Ecosystem received the Certificate award
+  at Hack Days in Delhi in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - azure
+  - docker
+  - fastapi
+  - flutter
+  - mongodb
+  - pinecone
+  - polygon
+  - postgresql
+  - python
+  - react
+builders:
+  - name: lakshay yadav
+  - name: Nikunj Shah

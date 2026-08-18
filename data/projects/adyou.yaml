@@ -1,0 +1,22 @@
+id: adyou
+name: ADYou
+slug: adyou
+tagline: ADU permits are costly and complex. ADYOU uses AI and public GIS data to give CA homeowners
+  instant zoning compliance checks before spending thousands on a cons
+summary: ADYou received the Best Runner-Up award at IrvineHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AbhinavSatheesh12/IrvineHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/F7nGbSY4btc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/389/359/datas/medium.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - mapbox
+  - pytorch
+builders:
+  - name: Pranav Sethia
+  - name: Vinay Nekkanti
+  - name: Abhinav Satheesh
+  - name: Pranai Raina

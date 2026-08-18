@@ -1,0 +1,23 @@
+id: quante
+name: QuantE
+slug: quante
+tagline: The market is flooded with millions of words. Most of it is noise. But hidden within a
+  hesitation of a CEO's answer or the subtle shift from 'growth' to 'effeci
+summary: "QuantE received the HackAI General Track: Make Your Mark award at Hack AI 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Vihaan275/QuantE-
+demo_url: null
+video_url: https://www.youtube.com/embed/AJtWWSz8byM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/871/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Vihaan Vuppala
+  - name: Parth Srivastava
+  - name: Ayman Mohammed

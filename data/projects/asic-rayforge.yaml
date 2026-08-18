@@ -1,0 +1,21 @@
+id: asic-rayforge
+name: ASIC-RayForge
+slug: asic-rayforge
+tagline: "ASIC-RayForge is a fully hardware ray tracing pipeline in Verilog, built for Tiny Tapeout,
+  rendering multi-bounce reflections, shadows, and colored lights on a "
+summary: ASIC-RayForge received the Honourable Mention - ASIC award at UofT ASIC Team - IC Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/roshan0282/ttsky-asic-rayforge/tree/final
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/351/204/datas/gallery.jpg
+categories:
+  - iot
+  - creative-tools
+technologies:
+  - c-plus-plus
+builders:
+  - name: Roshan Yan
+  - name: Ayan Ali
+  - name: Peter Leong

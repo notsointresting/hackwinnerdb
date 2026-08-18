@@ -1,0 +1,26 @@
+id: sentineliq-nlp-cyber-threat-phishing-detection
+name: "SentinelIQ: NLP Cyber Threat & Phishing Detection"
+slug: sentineliq-nlp-cyber-threat-phishing-detection
+tagline: SentinelIQ is an advanced linguistic firewall. It uses deep learning and NLP to instantly
+  detect and neutralize zero-day phishing, malicious URLs, and prompt in
+summary: "SentinelIQ: NLP Cyber Threat & Phishing Detection received the Participation Certificates
+  award at Ctrl+V Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/ramakrishnanyadav/INDIANEXT_X_CHITTI2.0
+demo_url: null
+video_url: https://www.youtube.com/embed/Q1I-JejkOUw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/715/248/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: RAMAKRISHNAN YADAV

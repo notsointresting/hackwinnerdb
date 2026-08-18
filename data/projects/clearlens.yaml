@@ -1,0 +1,23 @@
+id: clearlens
+name: ClearLens
+slug: clearlens
+tagline: Your contacts cost too much and you're wearing them too long. ClearLens fixes both.
+summary: "ClearLens received the Product Bundle by Mind the Product award at Mind the Product
+  presents World Product Day: Everyone Ships Now in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kn4gQblv6Zc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/900/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - dart
+  - flutter
+  - python
+  - supabase
+  - vercel
+builders:
+  - name: Iaroslav Chistov

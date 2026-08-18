@@ -1,0 +1,14 @@
+id: descascador-online-codecon-universe-26
+project_id: descascador-online
+hackathon_id: codecon-universe-26
+submission_url: https://devpost.com/software/sinceritify
+source:
+  platform: devpost
+  url: https://devpost.com/software/sinceritify
+awards:
+  - type: other
+    title: 3º lugar
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

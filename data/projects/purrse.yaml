@@ -1,0 +1,24 @@
+id: purrse
+name: Purrse
+slug: purrse
+tagline: Purr-sonal finance doesn't have to be a cat-atstrophe.
+summary: Purrse received the Capital One Challenge award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SXT230118/Purrse
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/235/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+  - vue
+builders:
+  - name: Akshaya Muthusamy
+  - name: Snigdha Tadi
+  - name: Jack
+  - name: laurenspitz

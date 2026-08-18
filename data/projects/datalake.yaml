@@ -1,0 +1,27 @@
+id: datalake
+name: Datalake
+slug: datalake
+tagline: Universities own a multi-billion-dollar AI training corpus they can't sell. Datalake's
+  Wafer agent loop catalogs ownership and labels research in one pass — mes
+summary: Datalake received the Best Inference (Wafer) award at Uncommon Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/namdabest253/datalake
+demo_url: null
+video_url: https://www.youtube.com/embed/2bkNk17GQ9k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/674/068/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - react
+  - sql
+  - sqlite
+  - streamlit
+  - tailwind-css
+  - typescript
+builders:
+  - name: Nam Nguyen
+  - name: eli Saliman

@@ -1,0 +1,24 @@
+id: votetrack
+name: VoteTrack
+slug: votetrack
+tagline: VoteTrack is your personalized AI-powered election guide to help you make informed voting decisions
+summary: VoteTrack received the Best Overall Hack award at HackMHC++ in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dchen024/hackmhc-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/051/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - supabase
+  - typescript
+builders:
+  - name: Tamim Kabir
+  - name: Daniel Chen
+  - name: Wilkens Guervil
+  - name: Bekbol Shiribaiev

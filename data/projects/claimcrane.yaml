@@ -1,0 +1,27 @@
+id: claimcrane
+name: ClaimCrane
+slug: claimcrane
+tagline: AI-powered insurance fraud detection platform. Detects AI-generated images, manipulated
+  documents, and staged evidence across 5 insurance verticals using a dual
+summary: ClaimCrane received the Chubb Challenge Prize award at Stevens QuackHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/manoj1749/ClaimCrane
+demo_url: null
+video_url: https://www.youtube.com/embed/yRR5uPrYbiQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - vercel
+builders:
+  - name: Manoj Sadanala
+  - name: Bhavesh Maurya
+  - name: HUSAIN
+  - name: Milan

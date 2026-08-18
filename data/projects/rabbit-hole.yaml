@@ -1,0 +1,16 @@
+id: rabbit-hole
+name: Rabbit Hole
+slug: rabbit-hole
+tagline: A Perfectly Fair Platformer
+summary: Rabbit Hole received the Honorable Mentions award at Reddit’s Games with a Hook Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ob8Y8k1tjF0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/819/712/datas/gallery.jpg
+categories:
+  - gaming
+technologies: []
+builders:
+  - name: Angus Macapella

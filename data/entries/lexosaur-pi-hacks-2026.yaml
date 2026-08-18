@@ -1,0 +1,14 @@
+id: lexosaur-pi-hacks-2026
+project_id: lexosaur
+hackathon_id: pi-hacks-2026
+submission_url: https://devpost.com/software/lexosaur
+source:
+  platform: devpost
+  url: https://devpost.com/software/lexosaur
+awards:
+  - type: first-place
+    title: 1st Place Award - FinTech
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

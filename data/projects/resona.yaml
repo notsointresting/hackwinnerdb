@@ -1,0 +1,24 @@
+id: resona
+name: Resona
+slug: resona
+tagline: Every emotion has a unique resonance. Resona finds yours and matches it with music that
+  lifts your mood. We don’t just generate random songs—we reason about how
+summary: Resona received the Loveable x HackTech - Best use of Lovable award at Hacktech by Caltech
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/lexie2749/Hachtech_emotional_music
+demo_url: null
+video_url: https://www.youtube.com/embed/MErLdUo90-o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/389/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Maya Yie
+  - name: Saina Nikmehr
+  - name: Lexie Zhou

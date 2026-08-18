@@ -1,0 +1,16 @@
+id: lingo-keanuhackthis-2026
+project_id: lingo
+hackathon_id: keanuhackthis-2026
+submission_url: https://devpost.com/software/lingo-9dk78q
+source:
+  platform: devpost
+  url: https://devpost.com/software/lingo-9dk78q
+awards:
+  - type: second-place
+    title: 2nd Place
+  - type: category-winner
+    title: "[MLH] Best Use of Snowflake API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

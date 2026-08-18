@@ -1,0 +1,23 @@
+id: sign2talk
+name: Sign2Talk
+slug: sign2talk
+tagline: Accelerate communication, break language barriers, and turn signs into speech, this is your
+  Sign 2 Talk
+summary: Sign2Talk received the Driver Development Prize award at DUWiT Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nazho0/sign2talk
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/408/557/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: Arny-123 Abbasinejad
+  - name: shanaz khan
+  - name: ZouXinYu-Angel

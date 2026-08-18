@@ -1,0 +1,24 @@
+id: bronson
+name: Bronson
+slug: bronson
+tagline: Agents run blind. Bronson gives them eyes, a leash, and a wallet. Define any workflow in
+  YAML, watch every step live, be confident in the agent requiring your a
+summary: Bronson received the Best Use of Greptile award at Cursor Hackathon Vancouver in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cursor-team-bronson/bronson
+demo_url: null
+video_url: https://www.youtube.com/embed/m8shS1IL1oc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/658/982/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Shreyan Das
+  - name: Griffin M
+  - name: Shaleen Gorakatar
+  - name: Julien Roy

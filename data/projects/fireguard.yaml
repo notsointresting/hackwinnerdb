@@ -1,0 +1,21 @@
+id: fireguard
+name: FireGuard
+slug: fireguard
+tagline: FireGuard is a wearable firefighter safety system that monitors motion, air quality, and
+  temperature, sending real-time alerts to command when danger is detecte
+summary: FireGuard received the Best Overall award at Rutgers IEEE X HART Build-a-thon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8NdwVxCEdlI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/593/646/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Travis Park
+  - name: Peter Sutula
+  - name: Omar Saad
+  - name: Max Moon

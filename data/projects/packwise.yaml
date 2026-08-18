@@ -1,0 +1,25 @@
+id: packwise
+name: PackWise
+slug: packwise
+tagline: SmartPack turns stressful packing into a smart, personalized travel plan by using AI to
+  understand your trip, what you already own, and the best way to pack eve
+summary: PackWise received the Runner Up award at Hack Days in the 6ix in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Cool-1-2-3-4-5/Travel-helper
+demo_url: null
+video_url: https://www.youtube.com/embed/C6inP6uDqnc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/405/467/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - dart
+  - firebase
+  - flutter
+  - google-cloud
+builders:
+  - name: Hannah Xu
+  - name: Elil thiru
+  - name: Zainab Vadia
+  - name: Ben Zhou

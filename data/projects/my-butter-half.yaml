@@ -1,0 +1,23 @@
+id: my-butter-half
+name: My Butter Half
+slug: my-butter-half
+tagline: Shelter life leaves mothers socially isolated and mentally depleted, and their children
+  feel it too. My Butter Half is a web game that builds community, provide
+summary: My Butter Half received the Diversity in CS Project Hub award at youCode 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sofiyarybchynska-web/my-butter-half.git
+demo_url: null
+video_url: https://www.youtube.com/embed/xAnPJk8XLms
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/368/datas/gallery.jpg
+categories:
+  - healthcare
+  - gaming
+technologies:
+  - figma
+  - javascript
+builders:
+  - name: sofiyarybchynska-web Rybchynska
+  - name: afacher Facher
+  - name: hasna
+  - name: Emily Ding

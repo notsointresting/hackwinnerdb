@@ -1,0 +1,22 @@
+id: knight-scheduler
+name: Knight Scheduler
+slug: knight-scheduler
+tagline: Knight Scheduler helps Calvin students plan their courses and track graduation progress.
+summary: Knight Scheduler received the 3rd Place award at Abstraction Hackathon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sunghun1123/Team-Daebak_Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/wKTUDAqzCt4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/476/727/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - python
+  - react
+  - vercel
+builders:
+  - name: Josh Eilu
+  - name: Kim Sunghun

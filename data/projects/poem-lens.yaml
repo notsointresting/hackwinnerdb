@@ -1,0 +1,19 @@
+id: poem-lens
+name: Poem Lens
+slug: poem-lens
+tagline: Every Poem holds a universe inside it.
+summary: Poem Lens received the All Winners award at LingHacks VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Bulletxdlol/poem-lens
+demo_url: null
+video_url: https://www.youtube.com/embed/KfKUWAFdxYI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/708/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+builders:
+  - name: Mazen Omar

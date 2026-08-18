@@ -1,0 +1,14 @@
+id: miniassit-pantherhack-2026
+project_id: miniassit
+hackathon_id: pantherhack-2026
+submission_url: https://devpost.com/software/miniassit
+source:
+  platform: devpost
+  url: https://devpost.com/software/miniassit
+awards:
+  - type: category-winner
+    title: Best Hardware Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

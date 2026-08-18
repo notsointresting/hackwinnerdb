@@ -1,0 +1,23 @@
+id: checkpoint
+name: Checkpoint
+slug: checkpoint
+tagline: "Checkpoint is a mobile “save my place” button for nurses: with one tap and a quick voice
+  note, it captures where they are in a workflow and makes it safe to res"
+summary: Checkpoint received the 2nd Place award at ZOOTech - Cursor Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dilrajdeol32/CursorHackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/IWnNgcuHqxc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/447/084/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - react-native
+  - typescript
+builders:
+  - name: Deol Dilraj
+  - name: Muhammad  Zian
+  - name: Talha Zafar

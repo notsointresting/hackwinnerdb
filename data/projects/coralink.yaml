@@ -1,0 +1,24 @@
+id: coralink
+name: Coralink
+slug: coralink
+tagline: Track coral health through smart image analysis.
+summary: Coralink received the Best Beginner Hack award at FullyHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KhDuhLVs_WY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/593/326/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - python
+  - react
+  - tensorflow
+builders:
+  - name: Cheyenne Chau
+  - name: leaileen136
+  - name: mileychau

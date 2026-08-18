@@ -1,0 +1,21 @@
+id: unibin
+name: UniBin
+slug: unibin
+tagline: See it. Sort it. Sustain it.
+summary: UniBin received the (Hardware Track) 4x 100 GBP Amazon Gift Card award at HackLondon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VedantSaini12/unibin
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - iot
+technologies:
+  - arduino
+  - python
+builders:
+  - name: Vedant Saini
+  - name: Craig McGeever
+  - name: Wang Chun Tse

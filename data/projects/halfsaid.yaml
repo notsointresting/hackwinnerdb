@@ -1,0 +1,20 @@
+id: halfsaid
+name: Halfsaid
+slug: halfsaid
+tagline: "2M Americans have aphasia: thoughts intact, words stuck. Devices cost $5K–15K and sound
+  robotic. Halfsaid is free in your browser—tap fragments, AI builds the s"
+summary: Halfsaid received the Best User experience award at Youth Code x AI in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aryarahimi1/halfsaid
+demo_url: null
+video_url: https://www.youtube.com/embed/0Y7log6aNCU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/517/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - robotics
+technologies:
+  - claude
+  - python
+builders:
+  - name: Arya RH

@@ -1,0 +1,29 @@
+id: amor-et-cura
+name: Amor Et Cura
+slug: amor-et-cura
+tagline: Built with love and care, so nonprofits can focus on the people they serve.
+summary: "Amor Et Cura received the Best Social Impact award at Women in Computer Science x
+  Opportunity Hack: Spring 2026 Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - groq
+  - llama
+  - postgresql
+  - python
+  - typescript
+  - vercel
+  - whisper
+builders:
+  - name: Maitreyee Atul Deshmukh
+  - name: Jean Johnson

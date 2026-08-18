@@ -1,0 +1,16 @@
+id: blackstar-jachacks-sf
+project_id: blackstar
+hackathon_id: jachacks-sf
+submission_url: https://devpost.com/software/blackstar
+source:
+  platform: devpost
+  url: https://devpost.com/software/blackstar
+awards:
+  - type: category-winner
+    title: Special Awards Best JacHammer
+  - type: other
+    title: AI for Defense
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

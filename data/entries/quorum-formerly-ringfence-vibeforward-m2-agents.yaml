@@ -1,0 +1,16 @@
+id: quorum-formerly-ringfence-vibeforward-m2-agents
+project_id: quorum-formerly-ringfence
+hackathon_id: vibeforward-m2-agents
+submission_url: https://devpost.com/software/ringfence
+source:
+  platform: devpost
+  url: https://devpost.com/software/ringfence
+awards:
+  - type: first-place
+    title: 1st Runner-Up
+  - type: category-winner
+    title: Best use of Geodo
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

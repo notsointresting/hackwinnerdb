@@ -1,0 +1,14 @@
+id: bad-monkey-montyhacks-ix
+project_id: bad-monkey
+hackathon_id: montyhacks-ix
+submission_url: https://devpost.com/software/bad-monkey
+source:
+  platform: devpost
+  url: https://devpost.com/software/bad-monkey
+awards:
+  - type: other
+    title: Interview Cake Licenses
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: plantair
+name: Plantair
+slug: plantair
+tagline: Hunger doesn't stop at the end of the road, neither do we.
+summary: Plantair received the Internship @ GNEC Hackathon award at GNEC Hackathon 2026 Spring -
+  Compete For UN-Affiliated/NGO Internships & Prizes in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3kx_gK_tNuc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/619/247/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - figma
+builders:
+  - name: Lucas Song
+  - name: Leo Li
+  - name: Ethen Tong
+  - name: Yilun Du Du

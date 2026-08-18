@@ -1,0 +1,22 @@
+id: fishflow
+name: FishFlow
+slug: fishflow
+tagline: Hydropower blocks 17 endangered salmon runs from spawning. Fish ladders take weeks to
+  hand-design. FishFlow does it in 30 seconds for 20¢ on AWS.
+summary: FishFlow received the 3rd Place – Cloud for Good award at AWSHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/s5_S2gvPFlw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/675/836/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - anthropic
+  - claude
+  - docker
+  - python
+  - react
+  - typescript
+builders: []

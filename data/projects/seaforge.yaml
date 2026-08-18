@@ -1,0 +1,24 @@
+id: seaforge
+name: SeaForge
+slug: seaforge
+tagline: SeaForge is a software-defined ocean proving ground for autonomous maritime systems,
+  letting engineers test AUVs, USVs and specific materials against real-world
+summary: "SeaForge received the 2nd Place Overall Winner (& OpenAI Track Winner) award at Critical
+  Ops: A DC National Security Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/Sabalpp/Critical-Ops-Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/J_4ytoqkjGI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/577/905/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - robotics
+  - defi
+technologies:
+  - javascript
+builders:
+  - name: Sabal Poudel
+  - name: sdev2098
+  - name: Shashvath Srivatsa
+  - name: Vidur Kumar

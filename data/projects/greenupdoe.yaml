@@ -1,0 +1,21 @@
+id: greenupdoe
+name: GreenUpDoe!
+slug: greenupdoe
+tagline: Explore Detroit. Connecting Neighborhoods.
+summary: GreenUpDoe! received the 2nd Place award at WayneHacks 4 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wassupitzmaha/waynehack
+demo_url: null
+video_url: https://www.youtube.com/embed/7GzSNTZBR4U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/035/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Maha Uddin
+  - name: alpena0089-hash
+  - name: Stephanie Moreno
+  - name: aiso penaloza

@@ -1,0 +1,21 @@
+id: focus-farmer
+name: Focus Farmer
+slug: focus-farmer
+tagline: "Farming focus: locked-in and reclaiming your possibly brain-rotted...brain! A fun way to
+  get into gear for what you want to focus on, with room to relax afterwa"
+summary: Focus Farmer received the ElevenLabs Scale Tier (6 Months) award at Tech(Hack) in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/watch?v=Zxm0_EAxRmM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/654/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - javascript
+  - supabase
+builders:
+  - name: Andrew Nguyen
+  - name: Yuang Zhang
+  - name: Emmanuel Muñoz

@@ -1,0 +1,14 @@
+id: hackdays
+name: HackDays
+slug: hackdays
+organizer: []
+year: 2026
+sources:
+  - https://hackdaysatgcet.devpost.com/
+  - https://hackdaysatgcet.devpost.com/project-gallery?filter=winner
+website_url: https://hackdaysatgcet.devpost.com/
+platform: devpost
+participant_count: 121
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackDays. Imported automatically."

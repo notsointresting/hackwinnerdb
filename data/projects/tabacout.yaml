@@ -1,0 +1,25 @@
+id: tabacout
+name: Tabacout
+slug: tabacout
+tagline: Tobacout reveals the cost of smoking by showing health decline, years of life lost, money
+  spent, and environmental impact, turning your daily habit into a clear
+summary: "Tabacout received the Amazon: Sustainability Challenge Track award at Innovation Hacks 2.0
+  - 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/mido4499/tobacout
+demo_url: null
+video_url: https://www.youtube.com/embed/mFsAyF_ERPc
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - nextjs
+  - typescript
+builders:
+  - name: Dominic Kwan
+  - name: Ahmed Shaheen
+  - name: Bryce Watson

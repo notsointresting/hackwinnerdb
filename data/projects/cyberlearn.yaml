@@ -1,0 +1,24 @@
+id: cyberlearn
+name: CyberLearn
+slug: cyberlearn
+tagline: CyberLearn is an AI-powered cybersecurity training platform that helps people and
+  developers learn how to recognize and avoid common online threats through simp
+summary: CyberLearn received the Best Use of Cybersecurity award at Broncohacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/terabyte-256/broncohacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/St91PsX7-OY
+image_url: null
+categories:
+  - artificial-intelligence
+  - cybersecurity
+technologies:
+  - javascript
+  - python
+  - svelte
+  - typescript
+builders:
+  - name: Jordan Fleming
+  - name: Jennifer Perdomo
+  - name: Maxwell Murase

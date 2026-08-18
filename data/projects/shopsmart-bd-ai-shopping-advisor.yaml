@@ -1,0 +1,24 @@
+id: shopsmart-bd-ai-shopping-advisor
+name: ShopSmart BD — AI Shopping Advisor
+slug: shopsmart-bd-ai-shopping-advisor
+tagline: An AI-powered shopping advisor that understands Bangla, Banglish, and English to help
+  Bangladeshi shoppers find, compare, and choose the right products within t
+summary: ShopSmart BD — AI Shopping Advisor received the 50$ Gift Card award at Build With AI Hack
+  Days @ Southeast University in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/sifatv1/ShopSmart-BD-AI-Shopping-Advisor
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/065/576/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: sifat e rabbi

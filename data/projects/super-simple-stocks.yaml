@@ -1,0 +1,23 @@
+id: super-simple-stocks
+name: Super Simple Stocks
+slug: super-simple-stocks
+tagline: Super Simple Stocks allows for beginners and advanced investors alike to get readable stock
+  advice from in depth multi agent AI research.
+summary: Super Simple Stocks received the [MLH] Best Use of Gemini API award at Hack@URI 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Blockhead1800/SuperSimpleStocks
+demo_url: null
+video_url: https://www.youtube.com/embed/xnctEYV2_0M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/349/266/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Joshua Miller
+  - name: Rocco

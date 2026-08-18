@@ -1,0 +1,24 @@
+id: voicecoach
+name: VoiceCoach
+slug: voicecoach
+tagline: VoiceCoach AI is an autonomous, self-evolving interview coach that prepares candidates for
+  high-stakes roles by adapting to them in real-time.
+summary: VoiceCoach received the Best Use of Neo4j award at Autonomous Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Suhaas15/VoiceCoach.git
+demo_url: null
+video_url: https://www.youtube.com/embed/ZhB4T7uCnME
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/376/705/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Gaurav Hungund
+  - name: Suhaas Srungavarapu
+  - name: Onkar Bedekar
+  - name: Chandan Dhamande

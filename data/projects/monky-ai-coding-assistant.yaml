@@ -1,0 +1,22 @@
+id: monky-ai-coding-assistant
+name: Monky - AI Coding Assistant
+slug: monky-ai-coding-assistant
+tagline: Debug smarter. Code faster
+summary: Monky - AI Coding Assistant received the Participation & Completion Recognition award at
+  Moonshot Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Kshitizjain11/monky
+demo_url: null
+video_url: https://www.youtube.com/embed/vkclW3JjsgQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/433/524/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - nextjs
+builders:
+  - name: Kshitiz Jain

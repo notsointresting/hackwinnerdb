@@ -1,0 +1,14 @@
+id: hack-the-net
+name: Hack The Net
+slug: hack-the-net
+organizer: []
+year: 2026
+sources:
+  - https://hackthenet2026.devpost.com/
+  - https://hackthenet2026.devpost.com/project-gallery?filter=winner
+website_url: https://hackthenet2026.devpost.com/
+platform: devpost
+participant_count: 58
+prize_pool: 100
+currency: USD
+description: "Devpost hackathon: Hack The Net. Imported automatically."

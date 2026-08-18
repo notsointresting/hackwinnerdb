@@ -1,0 +1,14 @@
+id: fde-agent-pre-flight-check-for-enterprise-ai-workflows-uipath-agenthack
+project_id: fde-agent-pre-flight-check-for-enterprise-ai-workflows
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/fde-agent-pre-flight-check-for-enterprise-ai-workflows
+source:
+  platform: devpost
+  url: https://devpost.com/software/fde-agent-pre-flight-check-for-enterprise-ai-workflows
+awards:
+  - type: honorable-mention
+    title: Honorable Mention of UiPath Maestro BPMN
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

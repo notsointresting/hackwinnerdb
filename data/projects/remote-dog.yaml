@@ -1,0 +1,24 @@
+id: remote-dog
+name: Remote Dog
+slug: remote-dog
+tagline: Who doesn't like things that move? Controlled wirelessly through a reclaimed xbox remote.
+  It reacts to motion gestures displaying dynamic expressions. If ur not
+summary: "Remote Dog received the Chrome: Judges Award award at  HARDWIRED 2026 MUEEC X CISSA in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Nerves1142/HardWired
+demo_url: null
+video_url: https://www.youtube.com/embed/nuFEe1rVW0I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/040/902/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+builders:
+  - name: Jintian Shangguan
+  - name: SK Chan
+  - name: Ray Han Cheah
+  - name: JeffJiang987 Jeffrey Jiang

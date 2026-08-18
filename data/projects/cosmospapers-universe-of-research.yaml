@@ -1,0 +1,24 @@
+id: cosmospapers-universe-of-research
+name: "CosmosPapers: Universe of Research"
+slug: cosmospapers-universe-of-research
+tagline: An AI agent powered by Microsoft Copilot that helps researchers instantly discover,
+  analyze, and summarize top tier conference papers helping in hours of tediou
+summary: "CosmosPapers: Universe of Research received the TD SYNNEX & Microsoft: Best Use of
+  Microsoft AI Agent award at CUhackit 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/RunWang123/cosmospaper
+demo_url: null
+video_url: https://www.youtube.com/embed/Lg_tOsKDRHo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/031/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Mithilesh Biradar
+  - name: Hasith Perera

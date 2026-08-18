@@ -1,0 +1,28 @@
+id: smarttruck-ai-powered-delivery-route-optimizer
+name: "SmartTruck: AI-Powered Delivery Route Optimizer"
+slug: smarttruck-ai-powered-delivery-route-optimizer
+tagline: AI-powered logistics co-pilot that optimizes Damm's delivery routes, packs trucks
+  intelligently, and lets dispatchers review, tweak, and commit plans, all in on
+summary: "SmartTruck: AI-Powered Delivery Route Optimizer received the 3rd price - DAMM Challenge
+  award at InterHackBCN in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/felitrejos/damm-frontend
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/641/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Josep Audenis
+  - name: Felipe Trejos
+  - name: Gerard Perez i Carbo
+  - name: Marc Vendrell

@@ -1,0 +1,22 @@
+id: vizzion
+name: Vizzion
+slug: vizzion
+tagline: A digital co-pilot providing real-time hazard detection and spatial awareness for the
+  visually impaired.
+summary: Vizzion received the [MLH] Best Hack Built with Google Antigravity award at Hack AI 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/leosantosss/HACKAI2026
+demo_url: null
+video_url: https://www.youtube.com/embed/vhESwL8it38
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/184/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - opencv
+  - python
+  - pytorch
+builders:
+  - name: Leo Santos
+  - name: rafael amador

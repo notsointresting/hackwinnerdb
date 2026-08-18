@@ -1,0 +1,14 @@
+id: the-vakathon
+name: The Vakathon
+slug: the-vakathon
+organizer: []
+year: 2026
+sources:
+  - https://the-vakathon.devpost.com/
+  - https://the-vakathon.devpost.com/project-gallery?filter=winner
+website_url: https://the-vakathon.devpost.com/
+platform: devpost
+participant_count: 95
+prize_pool: 1000
+currency: USD
+description: "Devpost hackathon: The Vakathon. Imported automatically."

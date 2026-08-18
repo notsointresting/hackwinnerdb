@@ -1,0 +1,14 @@
+id: tactical-momentum-tracker-build-with-gemini
+project_id: tactical-momentum-tracker
+hackathon_id: build-with-gemini
+submission_url: https://devpost.com/software/tactical-momentum-tracker-3seoyz
+source:
+  platform: devpost
+  url: https://devpost.com/software/tactical-momentum-tracker-3seoyz
+awards:
+  - type: category-winner
+    title: Best App Deployed on Google Cloud
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

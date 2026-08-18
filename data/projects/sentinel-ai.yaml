@@ -1,0 +1,26 @@
+id: sentinel-ai
+name: Sentinel AI
+slug: sentinel-ai
+tagline: Sentinel AI intercepts AI-generated code before execution, enforcing real-time governance
+  with AI risk detection and immutable audit trails on Solana.
+summary: Sentinel AI received the Intermediate 1st Place award at SolHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RameezMilk/sentinel-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/dRoym5bZDZU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/831/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - govtech
+technologies:
+  - fastapi
+  - python
+  - react
+  - solana
+  - typescript
+builders:
+  - name: Rameez Malik
+  - name: Ahmed Hassan
+  - name: Pranav Bhagwat

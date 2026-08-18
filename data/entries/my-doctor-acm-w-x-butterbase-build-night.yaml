@@ -1,0 +1,14 @@
+id: my-doctor-acm-w-x-butterbase-build-night
+project_id: my-doctor
+hackathon_id: acm-w-x-butterbase-build-night
+submission_url: https://devpost.com/software/my-doctor-fr96nx
+source:
+  platform: devpost
+  url: https://devpost.com/software/my-doctor-fr96nx
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

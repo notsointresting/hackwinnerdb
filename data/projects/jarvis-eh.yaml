@@ -1,0 +1,25 @@
+id: jarvis-eh
+name: Jarvis Eh?
+slug: jarvis-eh
+tagline: AI-powered assistive glasses for dementia care. Using vision and voice AI, it recognizes
+  faces, recalls memories, grounds users in context, and gently guides th
+summary: Jarvis Eh? received the Most technically complex AI hack award at Hack Canada 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nehadst/jarvis-eh
+demo_url: null
+video_url: https://www.youtube.com/embed/XyCfumJase4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/727/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Hashim Bukhtiar
+  - name: Maaz Ghazi
+  - name: Abdullah khamis
+  - name: Nehad Shikh Trab

@@ -1,0 +1,14 @@
+id: haven-autonomous-agents-hackathon
+project_id: haven
+hackathon_id: autonomous-agents-hackathon
+submission_url: https://devpost.com/software/haven-myl39d
+source:
+  platform: devpost
+  url: https://devpost.com/software/haven-myl39d
+awards:
+  - type: category-winner
+    title: Best use of Tavily Search
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

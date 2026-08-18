@@ -1,0 +1,14 @@
+id: raw-one-device-one-mode-of-being-dmv-hackathon
+project_id: raw-one-device-one-mode-of-being
+hackathon_id: dmv-hackathon
+submission_url: https://devpost.com/software/raw-one-device-one-mode-of-being
+source:
+  platform: devpost
+  url: https://devpost.com/software/raw-one-device-one-mode-of-being
+awards:
+  - type: track-winner
+    title: Track 4
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

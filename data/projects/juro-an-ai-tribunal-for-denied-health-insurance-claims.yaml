@@ -1,0 +1,23 @@
+id: juro-an-ai-tribunal-for-denied-health-insurance-claims
+name: "JURO: An AI Tribunal for Denied Health Insurance Claims"
+slug: juro-an-ai-tribunal-for-denied-health-insurance-claims
+tagline: An adversarial AI tribunal for denied health-insurance claims. Four agents argue both sides
+  in one room. A human delivers the binding ruling on a tamper-evident
+summary: "JURO: An AI Tribunal for Denied Health Insurance Claims received the Stickers award at
+  Measure up in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/insanityatpeak/Juro
+demo_url: null
+video_url: https://www.youtube.com/embed/N3ys8yAu0Vw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/822/192/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - anthropic
+  - fastapi
+  - python
+  - supabase
+builders:
+  - name: Priyanshu R

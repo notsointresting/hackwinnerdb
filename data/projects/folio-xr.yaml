@@ -1,0 +1,16 @@
+id: folio-xr
+name: Folio Xr
+slug: folio-xr
+tagline: This our project for aged people usage and multiple user usage as well
+summary: Folio Xr received the FolioXR award at Hackabury 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/232/datas/gallery.jpg
+categories:
+  - other
+technologies: []
+builders:
+  - name: Dev Barot

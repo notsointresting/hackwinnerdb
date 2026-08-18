@@ -1,0 +1,21 @@
+id: visionary
+name: Visionary
+slug: visionary
+tagline: If we can achieve simple brain-to-computer emulations, how can ai help capture the visual
+  moment from your unique perspective?
+summary: Visionary received the Non-Technical - Second Place award at NeuroHack Spring 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1OY1GvU1DS0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/513/122/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Elaine Zhou
+  - name: Devansh Nigam
+  - name: Naysa Srivastava

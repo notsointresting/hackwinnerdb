@@ -1,0 +1,22 @@
+id: percepta
+name: Percepta
+slug: percepta
+tagline: Decoding Community Perceptions - The browser extension that detects how news framing and
+  intentionally manipulative language shapes the way communities interpre
+summary: Percepta received the Best Video award at MACATHON 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3H5N50G5nZA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/693/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - fastapi
+  - javascript
+builders:
+  - name: Jayden Huang
+  - name: Kartik Pardeshi
+  - name: Shreeneel Tarale
+  - name: Luke Slinchenko

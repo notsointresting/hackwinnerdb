@@ -1,0 +1,14 @@
+id: xraynet-plus-hackdays
+project_id: xraynet-plus
+hackathon_id: hackdays
+submission_url: https://devpost.com/software/xraynet
+source:
+  platform: devpost
+  url: https://devpost.com/software/xraynet
+awards:
+  - type: second-place
+    title: 2nd Runner up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

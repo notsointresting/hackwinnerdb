@@ -1,0 +1,14 @@
+id: left-for-loot-reddit-s-games-with-a-hook-hackathon
+project_id: left-for-loot
+hackathon_id: reddit-s-games-with-a-hook-hackathon
+submission_url: https://devpost.com/software/left-for-loot
+source:
+  platform: devpost
+  url: https://devpost.com/software/left-for-loot
+awards:
+  - type: honorable-mention
+    title: Honorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

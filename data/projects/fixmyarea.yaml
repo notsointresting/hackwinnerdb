@@ -1,0 +1,22 @@
+id: fixmyarea
+name: FixMyArea
+slug: fixmyarea
+tagline: An AI-powered civic engagement platform that digitizes municipal complaints, eliminates
+  redundancy with smart deduplication, and automates escalation.
+summary: FixMyArea received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/abhishek911vish-afk/FixMyArea
+demo_url: null
+video_url: https://www.youtube.com/embed/7Ly8J7pBRPA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/115/490/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: Abhishek Kumar Vishwakarma

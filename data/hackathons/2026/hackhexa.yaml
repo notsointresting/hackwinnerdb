@@ -1,0 +1,14 @@
+id: hackhexa
+name: HackHexa
+slug: hackhexa
+organizer: []
+year: 2026
+sources:
+  - https://hackhexa.devpost.com/
+  - https://hackhexa.devpost.com/project-gallery?filter=winner
+website_url: https://hackhexa.devpost.com/
+platform: devpost
+participant_count: 42
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackHexa. Imported automatically."

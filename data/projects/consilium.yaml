@@ -1,0 +1,24 @@
+id: consilium
+name: CONSILIUM
+slug: consilium
+tagline: "Diagnostic error kills 800K Americans yearly. CONSILIUM is a multi-agent council: AI
+  specialists triage, debate, and cross-examine each case. Multi-specialty de"
+summary: CONSILIUM received the Consumer Healthcare track - 1st place award at JacHacks Spring in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chinnuteja/CONSILIUM
+demo_url: null
+video_url: https://www.youtube.com/embed/0WfSL8U_i08
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/410/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - gemini
+  - python
+  - react
+  - typescript
+  - vertex-ai
+builders:
+  - name: Tony y

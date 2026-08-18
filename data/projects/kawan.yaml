@@ -1,0 +1,30 @@
+id: kawan
+name: Kawan
+slug: kawan
+tagline: An animated accountability companion to keep you productive. Set one goal; Kawan fetches
+  the evidence and verifies you actually did it. Judged privately on Chut
+summary: Kawan received the Corporate - 1st Place award at Chutes Hack Malaysia 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kawan-chjl/dev/
+demo_url: null
+video_url: https://www.youtube.com/embed/B3u5ByG_-jk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/852/802/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - sqlite
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Hee Zi Jie
+  - name: 咕噜 咕噜··
+  - name: Jeremy
+  - name: _

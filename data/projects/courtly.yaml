@@ -1,0 +1,25 @@
+id: courtly
+name: Courtly
+slug: courtly
+tagline: One tool. Under God, indivisible, with liberty and justice for all.
+summary: Courtly received the Sideshift x HackTech - Cash Prize + Interview award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/izATYuYDc4s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/607/258/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - gemini
+  - mongodb
+builders:
+  - name: Ritvik Teegavarapu
+  - name: Justin Berke
+  - name: Ryan Garfinkel
+  - name: Ramsey Alsheikh

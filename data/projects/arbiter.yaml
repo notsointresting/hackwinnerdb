@@ -1,0 +1,20 @@
+id: arbiter
+name: Arbiter
+slug: arbiter
+tagline: "Arbiter sorts recycling from trash at the bin. Pi Camera + MobileNetV3 + servo lever.
+  Locked domain for consistent captures. 97% waste precision, 86% recall on "
+summary: Arbiter received the Top 100 Finalist Award award at Lumora Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaryavlal/Arbiter-
+demo_url: null
+video_url: https://www.youtube.com/embed/edVh3MCFkEE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/829/515/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - opencv
+  - python
+  - pytorch
+builders:
+  - name: Aaryav Lal

@@ -1,0 +1,21 @@
+id: smart-study-planner
+name: Smart Study Planner
+slug: smart-study-planner
+tagline: "Smart Study Planner is a web application that helps students organize and visualize their
+  academic tasks. It uses task ranking and AI to recommend what to work "
+summary: Smart Study Planner received the Best AI Chat Experience with HelloNash.ai award at
+  JACHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Wlszn/JacHackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/kA1nd9N-auM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/032/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Will Elveus
+  - name: Mohamed Amine

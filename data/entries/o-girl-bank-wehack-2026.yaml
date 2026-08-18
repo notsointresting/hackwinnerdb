@@ -1,0 +1,14 @@
+id: o-girl-bank-wehack-2026
+project_id: o-girl-bank
+hackathon_id: wehack-2026
+submission_url: https://devpost.com/software/o-girl-bank
+source:
+  platform: devpost
+  url: https://devpost.com/software/o-girl-bank
+awards:
+  - type: other
+    title: Fidelity Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

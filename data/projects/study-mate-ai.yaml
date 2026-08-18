@@ -1,0 +1,18 @@
+id: study-mate-ai
+name: Study Mate AI
+slug: study-mate-ai
+tagline: AI-Powered Personalized Learning Assistant — Built for Technoviz Summer of Code (TSOC) 2026
+summary: Study Mate AI received the All participant get 1 month of free snap2measure api award at
+  Measure up in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Rasul-projects/studymate-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/EQlM1aRuMwg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/854/542/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Rasul Sk

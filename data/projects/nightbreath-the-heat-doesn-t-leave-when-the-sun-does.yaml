@@ -1,0 +1,22 @@
+id: nightbreath-the-heat-doesn-t-leave-when-the-sun-does
+name: "NightBreath : the heat doesn't leave when the sun does"
+slug: nightbreath-the-heat-doesn-t-leave-when-the-sun-does
+tagline: Nights are heating twice as fast as days. When they don't cool, people die ; mostly in
+  marginalized communities. NightBreath maps this invisible crisis and deli
+summary: "NightBreath : the heat doesn't leave when the sun does received the Best-of-the-Rest (x2)
+  award at The Climate Change-Makers Challenge: 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/jUm8HZNQ9ho
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/538/817/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - typescript
+  - vercel
+builders:
+  - name: Samir _
+  - name: Sofia _

@@ -1,0 +1,21 @@
+id: cropmind
+name: CropMind
+slug: cropmind
+tagline: CropMind is an offline, multilingual AI farming assistant that uses satellite data and
+  computer vision to help farmers detect crop diseases, improve yields, red
+summary: CropMind received the Best Use of Gemini API award at Build With AI x Hackday FUTMINNA 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - sustainability
+technologies: []
+builders:
+  - name: Abdullahi Abdulazeez
+  - name: AbuRumaisau7 Abdullahi
+  - name: Suleiman ABDULLAHI

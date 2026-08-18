@@ -1,0 +1,20 @@
+id: if-my-feelings-were-a-city
+name: If My Feelings Were A City
+slug: if-my-feelings-were-a-city
+tagline: If My Feelings Were a City turns your emotions into a clear, symbolic city map so you can
+  understand what you’re feeling and take one grounded next step.
+summary: If My Feelings Were A City received the Participants award at Code as a Canvas in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AbhinavGGarg/If-My-Feelings-Were-a-City
+demo_url: null
+video_url: https://www.youtube.com/embed/7PhLv1SWIQg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/194/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Teja Varkali
+  - name: Abhinav Garg

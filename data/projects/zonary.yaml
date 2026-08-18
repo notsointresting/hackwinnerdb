@@ -1,0 +1,24 @@
+id: zonary
+name: Zonary
+slug: zonary
+tagline: Zonary unlocks institutional-grade planning intelligence for SMEs, helping them identify
+  residential growth areas before prices move.
+summary: Zonary received the (Serac Track) 4x 100 GBP Amazon Gift Card award at HackLondon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FeZZus/brandonjohnson
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - iot
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Faraz Ahmad
+  - name: Arvin Hadidi
+  - name: Shreyas S
+  - name: Adrian Yip

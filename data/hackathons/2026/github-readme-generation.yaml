@@ -1,0 +1,14 @@
+id: github-readme-generation
+name: "Github readme generation "
+slug: github-readme-generation
+organizer: []
+year: 2026
+sources:
+  - https://github-readme-generation.devpost.com/
+  - https://github-readme-generation.devpost.com/project-gallery?filter=winner
+website_url: https://github-readme-generation.devpost.com/
+platform: devpost
+participant_count: 484
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Github readme generation . Imported automatically."

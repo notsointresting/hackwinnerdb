@@ -1,0 +1,23 @@
+id: lang-land
+name: Lang Land
+slug: lang-land
+tagline: AI powered conversational language learning tool.
+summary: Lang Land received the 2nd place overall award at GDG Hacks 3 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/wAE-zGn3ad0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/637/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - react
+builders:
+  - name: Muzan Al Muzanen
+  - name: Mohammed Al-Oda
+  - name: Dave Persaud
+  - name: Darren Ajobena

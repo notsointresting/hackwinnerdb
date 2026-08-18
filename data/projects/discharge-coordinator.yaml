@@ -1,0 +1,21 @@
+id: discharge-coordinator
+name: Discharge Coordinator
+slug: discharge-coordinator
+tagline: Automates discharge coordination — reads clinical notes, validates CMS rules, and generates
+  Standard Written Orders in seconds instead of hours.
+summary: Discharge Coordinator received the Honorable Mentions award at Agents Assemble - The
+  Healthcare AI Endgame in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/beeQTyvNNjI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/486/998/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Mitchell Coplan

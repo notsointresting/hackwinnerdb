@@ -1,0 +1,19 @@
+id: hide-from-the-vortex
+name: Hide_from_the_vortex
+slug: hide-from-the-vortex
+tagline: This is an app that uses AI to tell you exacly what to do the secound a tornado starts. It
+  uses google maps to help identify best building to hide in and how fa
+summary: Hide_from_the_vortex received the Third Best Overall award at MasseyHacks XII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/y41-y41/HM-weather
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/664/469/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Yazin Alfahham

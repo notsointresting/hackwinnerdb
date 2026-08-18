@@ -1,0 +1,23 @@
+id: jematala
+name: jematala
+slug: jematala
+tagline: Discover your university and cohort; connect through real-world notes and stickers.
+summary: jematala received the People's Choice award at 2026 DevSoc Halftime Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jematala/hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/687/162/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - cloudflare
+  - openai
+  - postgresql
+  - typescript
+builders:
+  - name: Lachlan Shoesmith
+  - name: Jen Lau
+  - name: Taku Kodama
+  - name: MarkQuach12 Quach

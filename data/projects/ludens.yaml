@@ -1,0 +1,20 @@
+id: ludens
+name: Ludens
+slug: ludens
+tagline: "¡Hola! Nuestro proyecto es Ludens , una plataforma educativa web potenciada por IA que
+  adapta su nivel de enseñanza según el grado escolar del estudiante (1° a "
+summary: Ludens received the First Place – Best Use of Gemini API award at Hack Days in Bogotá in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/376/959/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: Nicolas Alejandro López Chaves
+  - name: Maria Paula Erazo

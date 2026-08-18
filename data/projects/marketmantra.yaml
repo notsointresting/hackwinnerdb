@@ -1,0 +1,20 @@
+id: marketmantra
+name: MarketMantra
+slug: marketmantra
+tagline: Python and Streamlit-based asset analytics platform using real-time market data, technical
+  indicators, and ensemble ML models to predict next-day stock and cryp
+summary: MarketMantra received the Participation Prize award at DSH Hacks V1 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Homosapien9/MarketMantra
+demo_url: null
+video_url: https://www.youtube.com/embed/Y3qVueMDonk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/777/371/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - streamlit
+builders:
+  - name: Jatan shah

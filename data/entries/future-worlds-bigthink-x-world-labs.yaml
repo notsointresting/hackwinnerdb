@@ -1,0 +1,14 @@
+id: future-worlds-bigthink-x-world-labs
+project_id: future-worlds
+hackathon_id: bigthink-x-world-labs
+submission_url: https://devpost.com/software/future-worlds
+source:
+  platform: devpost
+  url: https://devpost.com/software/future-worlds
+awards:
+  - type: other
+    title: Education
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: bubbly-brew-co
+name: Bubbly Brew Co.
+slug: bubbly-brew-co
+tagline: Bubbly Brew Co. is a cozy game where you play as a fish serving coffee and matcha and other
+  goodies in an undersea cafe.
+summary: Bubbly Brew Co. received the Best Entertainment award at FullyHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Mar-ty04/FullyHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/2yp95UJu2Fc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/323/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: Vien Le
+  - name: Winston Ta
+  - name: Marsiol Morales
+  - name: el_o Arenas

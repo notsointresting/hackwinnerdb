@@ -1,0 +1,14 @@
+id: a-r-i-a-automated-responsive-intelligent-assistent-predict4good-hackathon
+project_id: a-r-i-a-automated-responsive-intelligent-assistent
+hackathon_id: predict4good-hackathon
+submission_url: https://devpost.com/software/a-r-i-a-automated-responsive-intelligent-assistent
+source:
+  platform: devpost
+  url: https://devpost.com/software/a-r-i-a-automated-responsive-intelligent-assistent
+awards:
+  - type: first-place
+    title: Winner – 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

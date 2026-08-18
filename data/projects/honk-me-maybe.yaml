@@ -1,0 +1,26 @@
+id: honk-me-maybe
+name: Honk Me... Maybe?
+slug: honk-me-maybe
+tagline: We turn you into nature's most honest creature — a goose. Say goodbye to fake bios and
+  filters. Interact with people through custom honks and goose avatars. Cal
+summary: Honk Me... Maybe? received the Best Domain Name from GoDaddy Registry award at Hack Hack
+  Goose in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/OUzagYFG5HA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/190/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - nextjs
+  - supabase
+  - typescript
+builders:
+  - name: Stas Gannutin
+  - name: Arav Agarwal
+  - name: Shreya Goel
+  - name: Hamza Sheikh

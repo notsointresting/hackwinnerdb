@@ -1,0 +1,22 @@
+id: campusops-ai
+name: CampusOps AI
+slug: campusops-ai
+tagline: CampusOps AI turns messy student issues into smart campus actions — routed tickets, formal
+  requests, and admin insights powered by Gemini.
+summary: CampusOps AI received the Best Use of the Google Gemini API award at Knovwy Hack Days 2.0 |
+  Bhopal in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Shaurya-agrawal782/CampusOps-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/635/754/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - mongodb
+  - tailwind-css
+builders:
+  - name: Shaurya agrawal

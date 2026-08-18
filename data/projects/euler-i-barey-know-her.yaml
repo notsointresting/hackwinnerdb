@@ -1,0 +1,21 @@
+id: euler-i-barey-know-her
+name: Euler? I barey know her!
+slug: euler-i-barey-know-her
+tagline: Submission to MariHacks Math Challenge W26. Simulation of physical principles using Euler's
+  method, representation of phase space and determining error in the m
+summary: Euler? I barey know her! received the Advanced | Mathematics Winner award at MariHacks IX
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jps1234321/MariHX.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/454/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Alexis CG
+  - name: jps jps
+  - name: MartinJv2 Martin
+  - name: Jonah W

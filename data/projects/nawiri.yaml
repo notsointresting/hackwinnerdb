@@ -1,0 +1,21 @@
+id: nawiri
+name: NAWIRI
+slug: nawiri
+tagline: In West Africa, families miss aid they're legally entitled to , not because it doesn't
+  exist, but because the system is too hard to navigate. NAWIRI fixes that.
+summary: NAWIRI received the College/Undergraduate - Social Impact award at USAII® Global AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Bsh54/NAWIRI
+demo_url: null
+video_url: https://www.youtube.com/embed/8oelyjpskFw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - vercel
+builders:
+  - name: Frankel Gnonlonfin

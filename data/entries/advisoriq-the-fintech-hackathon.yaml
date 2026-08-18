@@ -1,0 +1,14 @@
+id: advisoriq-the-fintech-hackathon
+project_id: advisoriq
+hackathon_id: the-fintech-hackathon
+submission_url: https://devpost.com/software/advisoriq
+source:
+  platform: devpost
+  url: https://devpost.com/software/advisoriq
+awards:
+  - type: category-winner
+    title: Best Rookie Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

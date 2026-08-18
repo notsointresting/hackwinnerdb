@@ -1,0 +1,24 @@
+id: the-deposition
+name: The Deposition
+slug: the-deposition
+tagline: Gemini generates the crime, the evidence, and a suspect with something to hide. You get
+  twelve questions to break them — and their face tells you when you're cl
+summary: The Deposition received the Certificate award at GABA Hackday in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/DML-8q-sCjc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/965/415/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - google-ai-studio
+  - javascript
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Md. Abidur Rahman Asif

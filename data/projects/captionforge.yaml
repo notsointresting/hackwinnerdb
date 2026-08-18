@@ -1,0 +1,23 @@
+id: captionforge
+name: CaptionForge
+slug: captionforge
+tagline: Audit, repair, and export accessible captions for online video.
+summary: CaptionForge received the Best Project award at Sound for All in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HenryZhao88/CaptionForge
+demo_url: null
+video_url: https://www.youtube.com/embed/9T3O-0Nr-Rw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/040/444/datas/gallery.jpg
+categories:
+  - accessibility
+  - productivity
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+  - whisper
+builders:
+  - name: Henry Zhao

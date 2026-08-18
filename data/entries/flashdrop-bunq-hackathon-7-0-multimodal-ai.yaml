@@ -1,0 +1,14 @@
+id: flashdrop-bunq-hackathon-7-0-multimodal-ai
+project_id: flashdrop
+hackathon_id: bunq-hackathon-7-0-multimodal-ai
+submission_url: https://devpost.com/software/flashdrop-4z6s0c
+source:
+  platform: devpost
+  url: https://devpost.com/software/flashdrop-4z6s0c
+awards:
+  - type: second-place
+    title: Second Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

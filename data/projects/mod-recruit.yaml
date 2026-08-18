@@ -1,0 +1,19 @@
+id: mod-recruit
+name: Mod Recruit
+slug: mod-recruit
+tagline: No Google Forms, no spreadsheets, no external links. Just recruit, review, and onboard your
+  mod team right inside Reddit
+summary: Mod Recruit received the Moderator’s Choice award at Reddit Mod Tools and Migrated Apps
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/_MG3oAaOy1Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/694/972/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - react
+  - redis
+builders: []

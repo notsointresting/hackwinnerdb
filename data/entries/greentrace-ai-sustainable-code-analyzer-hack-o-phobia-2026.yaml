@@ -1,0 +1,14 @@
+id: greentrace-ai-sustainable-code-analyzer-hack-o-phobia-2026
+project_id: greentrace-ai-sustainable-code-analyzer
+hackathon_id: hack-o-phobia-2026
+submission_url: https://devpost.com/software/greentrace-ai-sustainable-code-analyzer
+source:
+  platform: devpost
+  url: https://devpost.com/software/greentrace-ai-sustainable-code-analyzer
+awards:
+  - type: category-winner
+    title: Best use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

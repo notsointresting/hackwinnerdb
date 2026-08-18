@@ -1,0 +1,24 @@
+id: merit
+name: Merit
+slug: merit
+tagline: Proof over Pedigree
+summary: Merit received the Best in Theme Award award at strAIght up! Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/7b4mEjJfI-M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/603/084/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - openai
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Turtlesrqul Fahrein
+  - name: Harish_Kumar20 HK20
+  - name: Hazril Irshah

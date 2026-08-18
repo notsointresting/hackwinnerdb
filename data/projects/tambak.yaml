@@ -1,0 +1,25 @@
+id: tambak
+name: Tambak
+slug: tambak
+tagline: Bukan Tebak, Pakai Tambak
+summary: Tambak received the 2nd Place Agriculture & Food Systems Track award at Garuda Hacks 7.0 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lisamzhr/Tambak-Bokurians
+demo_url: null
+video_url: https://www.youtube.com/embed/_jeTia7mDwo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/914/613/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - figma
+  - mongodb
+  - python
+  - react-native
+builders:
+  - name: khalisa zahra
+  - name: Dimas Andhika Diputra
+  - name: Aliya Syafiqa
+  - name: Sekar Ayu Kinanthi

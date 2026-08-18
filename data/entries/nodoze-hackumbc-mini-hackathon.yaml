@@ -1,0 +1,14 @@
+id: nodoze-hackumbc-mini-hackathon
+project_id: nodoze
+hackathon_id: hackumbc-mini-hackathon
+submission_url: https://devpost.com/software/nodoze-q56hv2
+source:
+  platform: devpost
+  url: https://devpost.com/software/nodoze-q56hv2
+awards:
+  - type: other
+    title: Holy Stone Drones
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

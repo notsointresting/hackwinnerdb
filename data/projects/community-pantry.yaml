@@ -1,0 +1,24 @@
+id: community-pantry
+name: Community Pantry
+slug: community-pantry
+tagline: Food support across Canada
+summary: Community Pantry received the Coffee Chat with Asma Ahmed (IBM Z Sheridan President and
+  Founder of UNSA Sheridan) award at IBM x UNSA Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/wbGV7PMb5Aw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/361/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Belal Ibrahim
+  - name: Dana Simon

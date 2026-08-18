@@ -1,0 +1,21 @@
+id: pager0
+name: Pager0
+slug: pager0
+tagline: An autonomous SRE agent that monitors infrastructure, identifies root causes, verbally
+  briefs engineers via AI phone call, and auto-publishes post-mortems, turn
+summary: Pager0 received the Best Use of Auth0 for AI Agents award at Deep Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nihalnihalani/Pager0
+demo_url: null
+video_url: https://www.youtube.com/embed/-E5YnUbreJI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/498/535/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Charlie Gillet

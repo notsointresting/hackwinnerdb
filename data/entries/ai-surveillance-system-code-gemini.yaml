@@ -1,0 +1,14 @@
+id: ai-surveillance-system-code-gemini
+project_id: ai-surveillance-system
+hackathon_id: code-gemini
+submission_url: https://devpost.com/software/ai-surveillance-system-ndgrkb
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-surveillance-system-ndgrkb
+awards:
+  - type: other
+    title: Gemini Swags and cloud Credits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

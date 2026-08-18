@@ -1,0 +1,14 @@
+id: steph-hack-day
+name: Steph Hack Day
+slug: steph-hack-day
+organizer: []
+year: 2026
+sources:
+  - https://steph-hack-day.devpost.com/
+  - https://steph-hack-day.devpost.com/project-gallery?filter=winner
+website_url: https://steph-hack-day.devpost.com/
+platform: devpost
+participant_count: 16
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Steph Hack Day. Imported automatically."

@@ -1,0 +1,24 @@
+id: purepath
+name: PurePath
+slug: purepath
+tagline: "PurePath is a predictive health platform that transforms real-time environmental and
+  disease data into personalized risk forecasts, enabling travelers to avoid "
+summary: PurePath received the Best Presentation award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AmiBuch/maddata
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - climate
+  - social-impact
+technologies:
+  - claude
+  - gemini
+builders:
+  - name: Dhruvika Uppal
+  - name: Elena Motonishi
+  - name: Ami Buch
+  - name: Lisa Eapen

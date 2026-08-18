@@ -1,0 +1,25 @@
+id: jengabench
+name: JengaBench
+slug: jengabench
+tagline: Evaluates visual-spatial reasoning and strategic decision-making of LLMs in a deterministic
+  3D Jenga environment.
+summary: JengaBench received the Games Track Winner award at SWECCathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/freezexero/jenga-bench
+demo_url: null
+video_url: https://www.youtube.com/embed/wbmDbLmOiEE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/727/418/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Mikhail Aristarkhov
+  - name: Peter Bun
+  - name: Rafay Farah

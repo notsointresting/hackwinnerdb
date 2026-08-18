@@ -1,0 +1,22 @@
+id: insightforge
+name: InsightForge
+slug: insightforge
+tagline: Data-driven design, before the campaign begins - Shift ad campaigns from reactive ad
+  optimization to proactive data-driven approach using customer voice, garner
+summary: InsightForge received the Best use of Presaige API award at ACM Trojan Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/asaran2/trojanHacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/394/728/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+  - media
+technologies:
+  - fastapi
+builders:
+  - name: Arushi Saran
+  - name: Divya Rajput
+  - name: Kaushal Patil

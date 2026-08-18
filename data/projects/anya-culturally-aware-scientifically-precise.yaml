@@ -1,0 +1,27 @@
+id: anya-culturally-aware-scientifically-precise
+name: "Anya : Culturally Aware. Scientifically Precise."
+slug: anya-culturally-aware-scientifically-precise
+tagline: "Anya : A platform that fuses AI risk prediction, micronutrient fortification modeling, and
+  culturally re levant meal access into seamless pipeline for India (Ba"
+summary: "Anya : Culturally Aware. Scientifically Precise. received the First Place award at Fuel
+  the Future in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/SamirXR/Anya
+demo_url: null
+video_url: https://www.youtube.com/embed/wdu76rOG_h4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/487/187/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - fastapi
+  - mapbox
+  - postgresql
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Samir _
+  - name: Harsh Raj

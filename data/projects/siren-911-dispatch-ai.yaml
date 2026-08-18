@@ -1,0 +1,31 @@
+id: siren-911-dispatch-ai
+name: SIREN- 911 Dispatch Ai
+slug: siren-911-dispatch-ai
+tagline: When emergencies overlap and 911 gets overwhelmed, callers are left waiting to hold music.
+  We replace that silent wait with an active AI listener that catches t
+summary: SIREN- 911 Dispatch Ai received the Main Track - 3rd Place award at hack.msa in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ali8hsn/hackathon-project
+demo_url: null
+video_url: https://www.youtube.com/embed/-XcFtoDFr90
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/183/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - anthropic
+  - elevenlabs
+  - gemini
+  - java
+  - javascript
+  - mongodb
+  - python
+  - react
+  - twilio
+  - typescript
+builders:
+  - name: Fouzan ahmed
+  - name: Ali Hussain
+  - name: Jawaad Merali

@@ -1,0 +1,18 @@
+id: gridcast-ibm-x-unsa-hackathon
+project_id: gridcast
+hackathon_id: ibm-x-unsa-hackathon
+submission_url: https://devpost.com/software/gridcast-nsy3up
+source:
+  platform: devpost
+  url: https://devpost.com/software/gridcast-nsy3up
+awards:
+  - type: other
+    title: Coffee Chat with Asma Ahmed (IBM Z Sheridan President and Founder of UNSA Sheridan)
+  - type: other
+    title: Top 10 Teams
+  - type: other
+    title: Sustainability Hack + Climate Change Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

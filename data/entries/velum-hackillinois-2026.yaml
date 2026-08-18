@@ -1,0 +1,14 @@
+id: velum-hackillinois-2026
+project_id: velum
+hackathon_id: hackillinois-2026
+submission_url: https://devpost.com/software/velum
+source:
+  platform: devpost
+  url: https://devpost.com/software/velum
+awards:
+  - type: category-winner
+    title: Best Use of Capital One Nessie (Hackathon API)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

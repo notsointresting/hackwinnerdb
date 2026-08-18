@@ -1,0 +1,14 @@
+id: team-30-cocoon-hard-mode-hardware-x-ai-hackathon
+project_id: team-30-cocoon
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/team-30-cocoon
+source:
+  platform: devpost
+  url: https://devpost.com/software/team-30-cocoon
+awards:
+  - type: other
+    title: GigLabs WORK Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

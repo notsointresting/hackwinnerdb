@@ -1,0 +1,23 @@
+id: cramless
+name: Cramless
+slug: cramless
+tagline: Eliminate the all-nighter. Cramless tailors your schedule to your specific schoolwork and
+  learning style for effortless organization.
+summary: Cramless received the Third place winner award at JACHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NaomieClareEdward/JacHacks2026.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/206/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+builders:
+  - name: Patricia Dolecki
+  - name: LauraaMolinaa Molina
+  - name: Naomie Clare Edward

@@ -1,0 +1,14 @@
+id: frontdesk-mpc-hacks
+project_id: frontdesk
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/n-a-vr3y0b
+source:
+  platform: devpost
+  url: https://devpost.com/software/n-a-vr3y0b
+awards:
+  - type: other
+    title: Dialogue Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

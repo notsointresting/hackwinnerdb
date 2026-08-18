@@ -1,0 +1,14 @@
+id: rubik-s-cube-solver-gdg-winter-2026-hackathon
+project_id: rubik-s-cube-solver
+hackathon_id: gdg-winter-2026-hackathon
+submission_url: https://devpost.com/software/rubik-s-cube-solver-rpkdjq
+source:
+  platform: devpost
+  url: https://devpost.com/software/rubik-s-cube-solver-rpkdjq
+awards:
+  - type: third-place
+    title: Tied 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

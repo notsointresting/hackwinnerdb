@@ -1,0 +1,27 @@
+id: newz
+name: NewZ
+slug: newz
+tagline: Newz turns the footage people are already recording into multi-angle local news,
+  automatically with no editing, no captions, no profiles. Just point, shoot, and
+summary: NewZ received the Sideshift x HackTech - Cash Prize + Interview award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/LiamShalom/newz
+demo_url: null
+video_url: https://www.youtube.com/embed/hkl92P_peek
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/612/917/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - fastapi
+  - gemini
+  - python
+  - typescript
+  - vercel
+builders:
+  - name: Liam Shalom
+  - name: Roan Abraham Howard

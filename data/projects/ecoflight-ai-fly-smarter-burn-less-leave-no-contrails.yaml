@@ -1,0 +1,24 @@
+id: ecoflight-ai-fly-smarter-burn-less-leave-no-contrails
+name: "EcoFlight AI: fly smarter, burn less, leave no contrails."
+slug: ecoflight-ai-fly-smarter-burn-less-leave-no-contrails
+tagline: Our AI reroutes flights in real time dodging contrail-forming ice layers, riding jet
+  streams to cut fuel by 3% & total climate impact by 2.6%. Because the short
+summary: "EcoFlight AI: fly smarter, burn less, leave no contrails. received the Best Use of
+  ElevenLabs award at HackNewHaven 2026 in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/Shrutibrahma/EcoFlight_AI
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Shruti Brahma
+  - name: GaneshMunagala714 Munagala

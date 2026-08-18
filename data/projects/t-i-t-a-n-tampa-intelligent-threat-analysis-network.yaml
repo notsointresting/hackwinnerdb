@@ -1,0 +1,25 @@
+id: t-i-t-a-n-tampa-intelligent-threat-analysis-network
+name: T.I.T.A.N. - Tampa Intelligent Threat Analysis Network
+slug: t-i-t-a-n-tampa-intelligent-threat-analysis-network
+tagline: TITAN is an AI emergency system using parallel agents for floods, roads, and risk. It
+  self-corrects with QA loops and shares real-time updates for faster, equit
+summary: "T.I.T.A.N. - Tampa Intelligent Threat Analysis Network received the Google Cloud: Building
+  a Self-Healing World with Google ADK award at HackUSF 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bUJdIVuoSng
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/079/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Yasa Zaheen
+  - name: Khanbaba Fatullayev
+  - name: Ruhan Jawed Khanani
+  - name: saajid khan

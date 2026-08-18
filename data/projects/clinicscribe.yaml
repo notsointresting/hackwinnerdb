@@ -1,0 +1,28 @@
+id: clinicscribe
+name: ClinicScribe
+slug: clinicscribe
+tagline: ClinicScribe turns clinic conversations into SOAP notes, summaries, translations, and
+  dashboards so clinicians spend less time typing and more time caring.
+summary: "ClinicScribe received the Conversational AI award at Girls in STEM: AI for Social Good
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/elaxuwu/ClinicScribe
+demo_url: null
+video_url: https://www.youtube.com/embed/vK-qdlXqPTA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/572/910/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - cloudflare
+  - javascript
+  - openai
+  - react
+  - redis
+  - supabase
+  - typescript
+builders:
+  - name: Ngọc Thiên Bảo Đỗ
+  - name: Khang Phạm Hoàng

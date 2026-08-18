@@ -1,0 +1,26 @@
+id: notary-an-ai-creative-review-board-for-generative-media
+name: Notary - An AI Creative Review Board for Generative Media
+slug: notary-an-ai-creative-review-board-for-generative-media
+tagline: Screens every AI-generated take against brand and compliance rules, revises the failures
+  with the reasons they failed, escalates what it can't judge to a human,
+summary: "Notary - An AI Creative Review Board for Generative Media received the Feedback prize
+  award at Backblaze Generative Media Hackathon: Build with Genblaze on B2 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Unknown1502/Notary
+demo_url: null
+video_url: https://www.youtube.com/embed/sCmUjYpvsF4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/055/065/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Dheeraj Shrivastav
+  - name: Nikhil Tale

@@ -1,0 +1,19 @@
+id: ori
+name: Ori
+slug: ori
+tagline: Ori Demo is built for environmentally stable and efficiency standards. The main reason is
+  to create a flexible, realistic system on the agentic level, MCP for c
+summary: Ori received the Best Use of Jac award at JacHacks Spring in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/orbitronsystems/ori-Jac-Demo
+demo_url: null
+video_url: https://www.youtube.com/embed/wUXlJ0tSvNA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/489/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+  - climate
+technologies: []
+builders:
+  - name: Ahmed Hammad

@@ -1,0 +1,23 @@
+id: mowajihi-ai
+name: Mowajihi AI
+slug: mowajihi-ai
+tagline: MOWAJIHI IA is an AI-powered guidance platform for Moroccan students that analyzes
+  personality and academic data to deliver personalized education pathways in A
+summary: Mowajihi AI received the BEST DEPLOYED APP USING GOOGLE CLOUD award at Hack Days in Agadir
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/677/194/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - gemini
+builders:
+  - name: Yasser Kouddan
+  - name: Youssef RAMI
+  - name: Oumaima Dakdak
+  - name: Kaoutar Sabry

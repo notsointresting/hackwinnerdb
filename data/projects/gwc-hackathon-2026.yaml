@@ -1,0 +1,21 @@
+id: gwc-hackathon-2026
+name: GWC Hackathon 2026
+slug: gwc-hackathon-2026
+tagline: AccessPark is a simple tool that helps people with disabilities find accessible parking
+  faster. It shows parking spots on a map and lets users see if they’re av
+summary: GWC Hackathon 2026 received the 3rd Place award at JPS Girls Who Code 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/a7qwDfbjvxQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/930/datas/gallery.jpg
+categories:
+  - education
+  - accessibility
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Ananya Mahidhara
+  - name: Vrisha Chheda

@@ -1,0 +1,24 @@
+id: sparky
+name: Sparky
+slug: sparky
+tagline: '"Every child can learn. Not every child learns the same way."'
+summary: Sparky received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VipulMore11/Sparky
+demo_url: null
+video_url: https://www.youtube.com/embed/gU4lAd9PGTI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/774/132/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - nextjs
+  - react
+  - supabase
+builders:
+  - name: Vipul More
+  - name: Tejesh Shigwan 243
+  - name: Urvashi Yadav
+  - name: Ankita jadhav

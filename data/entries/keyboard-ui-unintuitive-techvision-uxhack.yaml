@@ -1,0 +1,14 @@
+id: keyboard-ui-unintuitive-techvision-uxhack
+project_id: keyboard-ui-unintuitive
+hackathon_id: techvision-uxhack
+submission_url: https://devpost.com/software/keyboard-ui-unituative
+source:
+  platform: devpost
+  url: https://devpost.com/software/keyboard-ui-unituative
+awards:
+  - type: other
+    title: "[Hackathons UK] Hackiest Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: interviewiq-pixel-gemini
+project_id: interviewiq
+hackathon_id: pixel-gemini
+submission_url: https://devpost.com/software/interviewiq-iqrlam
+source:
+  platform: devpost
+  url: https://devpost.com/software/interviewiq-iqrlam
+awards:
+  - type: other
+    title: MLH + GEMINI SWAG
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

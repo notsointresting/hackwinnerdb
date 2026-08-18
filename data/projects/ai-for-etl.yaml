@@ -1,0 +1,23 @@
+id: ai-for-etl
+name: AI for ETL
+slug: ai-for-etl
+tagline: "AI for ETL turns prompts into production ready dbt pipelines, Langgraph agent scrapes,
+  loads, tests your data in 30 seconds. This copilot generates the staging "
+summary: AI for ETL received the Best Use of TinyFish award at Ship to Prod - Agentic Engineering
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/utkarsh9630/PipelineCopilot
+demo_url: null
+video_url: https://www.youtube.com/embed/dHCh9YCo6Vw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/007/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - openai
+  - redis
+builders:
+  - name: Leela8256 Dammalapati
+  - name: Utkarsh Tripathi

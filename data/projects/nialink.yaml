@@ -1,0 +1,20 @@
+id: nialink
+name: Nialink
+slug: nialink
+tagline: Index and query the entirety of your Discord server with the power of Nia AI.
+summary: "Nialink received the Track 1: Nozomio Labs (1st place) award at SDxUCSD Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/devhyper/nialink
+demo_url: null
+video_url: https://www.youtube.com/embed/vpsYrznbtuE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/064/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Lucas Jacques
+  - name: Cesar Villegas

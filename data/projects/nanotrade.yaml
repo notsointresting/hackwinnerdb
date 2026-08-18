@@ -1,0 +1,19 @@
+id: nanotrade
+name: NanoTrade
+slug: nanotrade
+tagline: The 2010 Flash Crash cost $1 trillion in 36 minutes. NanoTrade detects the same crash
+  signature in 80 nanoseconds — on a chip smaller than a fingernail. Built o
+summary: NanoTrade received the Third Place - ASIC award at UofT ASIC Team - IC Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/betulcetintas2706/ttsky-nanotrades?tab=readme-ov-file
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/356/140/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies: []
+builders:
+  - name: Betul Cetintas
+  - name: Sehreen Basara
+  - name: Seeron Sivashankar

@@ -1,0 +1,23 @@
+id: can-you-beat-airport-parking-chaos
+name: Can You Beat Airport Parking Chaos
+slug: can-you-beat-airport-parking-chaos
+tagline: There are a range of uncertainties that come with holidays, but where you park your car
+  should not be one of them. Our dynamic Predictive Parking system makes p
+summary: Can You Beat Airport Parking Chaos received the Third Place award at Hackabury 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KwpcYq_wwlY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/603/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - dart
+  - firebase
+  - flutter
+builders:
+  - name: Chipo Mashiri
+  - name: Greendly Guosadia
+  - name: Mohamed Gamhi
+  - name: subendra maharjan

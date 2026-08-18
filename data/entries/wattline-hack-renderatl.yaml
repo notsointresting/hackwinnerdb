@@ -1,0 +1,14 @@
+id: wattline-hack-renderatl
+project_id: wattline
+hackathon_id: hack-renderatl
+submission_url: https://devpost.com/software/wattline
+source:
+  platform: devpost
+  url: https://devpost.com/software/wattline
+awards:
+  - type: category-winner
+    title: Best Hack for Good
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

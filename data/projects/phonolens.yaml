@@ -1,0 +1,21 @@
+id: phonolens
+name: Phonolens
+slug: phonolens
+tagline: see your speech
+summary: Phonolens received the Best Social Impact Award award at FutureAI Global Hackathon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ethanlii0001-droid/phonolens-ui-kit
+demo_url: null
+video_url: https://www.youtube.com/embed/uCi3CCrq1MQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/866/218/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Ethan Li

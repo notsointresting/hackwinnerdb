@@ -1,0 +1,24 @@
+id: icebox
+name: Icebox
+slug: icebox
+tagline: The Icebox replaces traditional timer-based lockboxes and appblocking apps with a physical
+  door controlled by a language model that keeps you accountable to the
+summary: Icebox received the Best Hardware Hack award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ericmxf17/phone-box
+demo_url: null
+video_url: https://www.youtube.com/embed/9NNCRHulSnY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/859/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - c-plus-plus
+  - esp32
+  - gemini
+  - python
+builders:
+  - name: Bailey Min
+  - name: Tom Sharma
+  - name: Jerry Chen
+  - name: Eric Ma

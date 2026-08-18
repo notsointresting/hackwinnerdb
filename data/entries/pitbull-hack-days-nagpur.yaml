@@ -1,0 +1,14 @@
+id: pitbull-hack-days-nagpur
+project_id: pitbull
+hackathon_id: hack-days-nagpur
+submission_url: https://devpost.com/software/pitbull
+source:
+  platform: devpost
+  url: https://devpost.com/software/pitbull
+awards:
+  - type: category-winner
+    title: Best use of Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

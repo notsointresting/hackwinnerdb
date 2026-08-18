@@ -1,0 +1,14 @@
+id: fishnet-hack-uri-2026
+project_id: fishnet
+hackathon_id: hack-uri-2026
+submission_url: https://devpost.com/software/fishnet-5gq8jt
+source:
+  platform: devpost
+  url: https://devpost.com/software/fishnet-5gq8jt
+awards:
+  - type: other
+    title: Ocean's Edge Ventures
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

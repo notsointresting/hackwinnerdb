@@ -1,0 +1,26 @@
+id: carbonplay
+name: CarbonPlay
+slug: carbonplay
+tagline: "CarbonPlay builds league schedules while minimizing travel-related carbon emissions and
+  maintaining fairness (rest, travel). It supports NBA, NHL, and NFL with "
+summary: CarbonPlay received the Sustainability Track Winner award at PantherHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arya-kumar1/CarbonPlay.git
+demo_url: null
+video_url: https://www.youtube.com/embed/UBrjQUVsKBw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/538/537/datas/gallery.jpg
+categories:
+  - healthcare
+  - cybersecurity
+  - climate
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Arya Kumar

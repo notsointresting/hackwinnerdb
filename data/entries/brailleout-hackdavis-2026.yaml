@@ -1,0 +1,16 @@
+id: brailleout-hackdavis-2026
+project_id: brailleout
+hackathon_id: hackdavis-2026
+submission_url: https://devpost.com/software/brailleout
+source:
+  platform: devpost
+  url: https://devpost.com/software/brailleout
+awards:
+  - type: category-winner
+    title: Best Hack for Social Good
+  - type: category-winner
+    title: Best Use of DAC Materials
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

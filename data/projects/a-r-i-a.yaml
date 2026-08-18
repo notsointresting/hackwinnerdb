@@ -1,0 +1,29 @@
+id: a-r-i-a
+name: A.R.I.A.
+slug: a-r-i-a
+tagline: An Academic Resource & Intelligent Advisor. Conversate with your advisor to discuss canvas
+  grades, visualize your degree roadmap, and find jobs instantly on a d
+summary: A.R.I.A. received the Developer award at Boeing presents TruHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JustinAlega/TruHacks26
+demo_url: null
+video_url: https://www.youtube.com/embed/8vBNK7h-ORQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/844/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sqlite
+  - supabase
+  - typescript
+builders:
+  - name: Anshuman Mishra
+  - name: Justin David Alega
+  - name: Maanav Damaraju
+  - name: Ayman Rahman

@@ -1,0 +1,29 @@
+id: redreemer
+name: Redreemer
+slug: redreemer
+tagline: Redreemer turns text messages into a step-by-step path from shelter to savings and with
+  caseworkers in the loop.
+summary: "Redreemer received the State Farm: Financial Wellness Track award at Innovation Hacks 2.0
+  - 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/sumedha092/redreemer.git
+demo_url: null
+video_url: https://www.youtube.com/embed/e6SotJqqSSY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/543/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - postgresql
+  - react
+  - supabase
+  - twilio
+  - typescript
+  - vercel
+builders:
+  - name: Aditya Nolastname
+  - name: Sumedha Gupta

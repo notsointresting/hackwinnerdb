@@ -1,0 +1,14 @@
+id: smartcookie-diamondhacks-2026
+project_id: smartcookie
+hackathon_id: diamondhacks-2026
+submission_url: https://devpost.com/software/smartcookie
+source:
+  platform: devpost
+  url: https://devpost.com/software/smartcookie
+awards:
+  - type: track-winner
+    title: "Track: The Scholar’s Spellbook (Education)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

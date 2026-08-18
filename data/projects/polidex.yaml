@@ -1,0 +1,28 @@
+id: polidex
+name: PoliDex
+slug: polidex
+tagline: The world is breaking, but your vote is your leverage. PoliDex doesn't just find who you
+  agree with today, it helps you vote strategically to shift the politica
+summary: PoliDex received the [MLH] Best Use of MongoDB Atlas award at Hackabull VII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Mungbeanbeanie/hackabull2026
+demo_url: null
+video_url: https://www.youtube.com/embed/b9GZdvsTqDY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/618/026/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - gemini
+  - java
+  - javascript
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: Joshua Song
+  - name: Michael Chung
+  - name: Colin Onevathana

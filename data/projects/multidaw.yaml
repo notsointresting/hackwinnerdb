@@ -1,0 +1,19 @@
+id: multidaw
+name: MultiDAW
+slug: multidaw
+tagline: MultiDAW - browser DAW with Yjs real-time collaboration and AudioWorklet; live co-editing,
+  low latency, and easy local/dev network setup. Allows version control
+summary: MultiDAW received the CADUM's Mobile Prize award at HackTheMountain 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElyesBradai/multiDAW
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/701/881/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - typescript
+builders:
+  - name: elyes Bradai

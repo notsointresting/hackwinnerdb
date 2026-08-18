@@ -1,0 +1,24 @@
+id: vitalis
+name: Vitalis
+slug: vitalis
+tagline: Vitalis uses AI and rPPG (remote photoplethysmography) to estimate heart rate, stress, and
+  fatigue from facial signals in real time, enabling early risk detecti
+summary: Vitalis received the Best use of Gemini API award at Genovate Hack Days in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aarush-1234/Vitalis
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/452/563/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - infrastructure
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - tailwind-css
+builders:
+  - name: Aarush Sharma
+  - name: NIRMALYA GHOSH

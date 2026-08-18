@@ -1,0 +1,14 @@
+id: lionhacks
+name: LionHacks
+slug: lionhacks
+organizer: []
+year: 2026
+sources:
+  - https://lionhackss.devpost.com/
+  - https://lionhackss.devpost.com/project-gallery?filter=winner
+website_url: https://lionhackss.devpost.com/
+platform: devpost
+participant_count: 47
+prize_pool: null
+currency: null
+description: "Devpost hackathon: LionHacks. Imported automatically."

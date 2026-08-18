@@ -1,0 +1,20 @@
+id: sign2graph
+name: sign2graph
+slug: sign2graph
+tagline: Draw it. See it. Understand it.
+summary: sign2graph received the 3rd Place Overall award at STEMist Hacks IV in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/areteeem/sign2graph
+demo_url: null
+video_url: https://www.youtube.com/embed/lqWtenHicS0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/588/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - nextjs
+  - react
+  - typescript
+builders:
+  - name: Kachan Artem

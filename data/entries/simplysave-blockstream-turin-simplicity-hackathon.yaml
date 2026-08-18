@@ -1,0 +1,14 @@
+id: simplysave-blockstream-turin-simplicity-hackathon
+project_id: simplysave
+hackathon_id: blockstream-turin-simplicity-hackathon
+submission_url: https://devpost.com/software/simplysave
+source:
+  platform: devpost
+  url: https://devpost.com/software/simplysave
+awards:
+  - type: third-place
+    title: Third place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

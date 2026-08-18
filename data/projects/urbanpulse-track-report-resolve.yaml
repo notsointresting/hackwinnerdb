@@ -1,0 +1,21 @@
+id: urbanpulse-track-report-resolve
+name: UrbanPulse - Track Report Resolve
+slug: urbanpulse-track-report-resolve
+tagline: UrbanPulse makes reporting civic issues as easy as posting on social media—while ensuring
+  they actually get resolved
+summary: UrbanPulse - Track Report Resolve received the Participation Swag & Benefits award at
+  Quantum Sprint in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/aDhZaxzyG1Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/641/851/datas/gallery.jpg
+categories:
+  - fintech
+  - govtech
+  - media
+technologies:
+  - react
+builders:
+  - name: Praveen Kumar S

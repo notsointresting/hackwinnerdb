@@ -1,0 +1,14 @@
+id: build-with-medo-hackathon
+name: "Build with MeDo Hackathon "
+slug: build-with-medo-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://medo.devpost.com/
+  - https://medo.devpost.com/project-gallery?filter=winner
+website_url: https://medo.devpost.com/
+platform: devpost
+participant_count: 8358
+prize_pool: 50000
+currency: USD
+description: "Devpost hackathon: Build with MeDo Hackathon . Imported automatically."

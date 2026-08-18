@@ -1,0 +1,24 @@
+id: littleloop
+name: Littleloop
+slug: littleloop
+tagline: Kids outgrow clothes fast, creating waste & costs. Many usable items end up in landfills.
+  Littleloop connects local families to share & reuse essentials, reduci
+summary: Littleloop received the [MLH] Best Use of Gemma 4 award at Broncohacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AthenaHacks2026/bronco-hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/6cgxOrEfFf8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/187/datas/gallery.jpg
+categories:
+  - sustainability
+technologies:
+  - figma
+  - gemini
+  - mongodb
+  - react
+builders:
+  - name: Julia Chaidez
+  - name: Jeannette Ruiz
+  - name: Michelle Solares
+  - name: Kenia Velasco

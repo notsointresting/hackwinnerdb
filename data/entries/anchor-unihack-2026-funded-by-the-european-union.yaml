@@ -1,0 +1,14 @@
+id: anchor-unihack-2026-funded-by-the-european-union
+project_id: anchor
+hackathon_id: unihack-2026-funded-by-the-european-union
+submission_url: https://devpost.com/software/fire-tracker-d9uokc
+source:
+  platform: devpost
+  url: https://devpost.com/software/fire-tracker-d9uokc
+awards:
+  - type: other
+    title: The EU Shared Future Prize (by the European Union)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

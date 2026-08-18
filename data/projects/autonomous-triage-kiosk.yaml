@@ -1,0 +1,21 @@
+id: autonomous-triage-kiosk
+name: Autonomous Triage Kiosk
+slug: autonomous-triage-kiosk
+tagline: A robot arm that triages ER patients in under a minute. Takes your vitals, hands you a
+  priority token. Zero wait.
+summary: Autonomous Triage Kiosk received the Best Use of AMD Tech award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rajashekarcs2023/autonomous-triage-kiosk
+demo_url: null
+video_url: https://www.youtube.com/embed/d_XY5jJ6XBA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/268/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - gemini
+  - pytorch
+builders:
+  - name: Rajashekar Vennavelli

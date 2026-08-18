@@ -1,0 +1,21 @@
+id: constitution-compiler
+name: Constitution Compiler
+slug: constitution-compiler
+tagline: Transform Legal Language into Executable Law An AI framework for Computational
+  Constitutional Engineering (CCE)
+summary: Constitution Compiler received the Top 100 Finalist Award award at Moonshot Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CrystalCode0/Constitution-Compiler.git
+demo_url: null
+video_url: https://www.youtube.com/embed/NUhPr-iFT1E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/858/971/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+builders:
+  - name: Vaibhav Vaibhav

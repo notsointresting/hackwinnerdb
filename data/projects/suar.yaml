@@ -1,0 +1,25 @@
+id: suar
+name: SUAR
+slug: suar
+tagline: No signal, no cell towers, no problem — Suar finds survivors phone-to-phone over Bluetooth mesh.
+summary: SUAR received the 3rd Place Safety Track award at Garuda Hacks 7.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anggara-26/suar
+demo_url: null
+video_url: https://www.youtube.com/embed/huxGNQAXpwc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/912/273/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - kotlin
+  - react
+  - react-native
+  - typescript
+builders:
+  - name: Anggara Roshandi
+  - name: Arka Hafidz
+  - name: Dicka Taksa
+  - name: Rizky Amelinda Septiani

@@ -1,0 +1,25 @@
+id: witness
+name: WITNESS
+slug: witness
+tagline: Witness is a noir crime game where your real room becomes the crime scene. You're the
+  detective. The AI is the witness. Your job is to question it, pressure it,
+summary: WITNESS received the First Winner award at Hack Days in Bhopal in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pycat-ops/mlh-project.git
+demo_url: null
+video_url: https://www.youtube.com/embed/JGust-EZuBI
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - firebase
+  - gemini
+  - google-cloud
+  - python
+  - react
+  - typescript
+builders:
+  - name: Prem Choure

@@ -1,0 +1,18 @@
+id: ai-manager
+name: Ai Manager
+slug: ai-manager
+tagline: An AI manager that breaks down your goal, delegates to AI workers, and ships the result.
+summary: Ai Manager received the Best Agent Execution (Composio) award at Harness Engineering Hack
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ahmedmaherpasha1/harness-hack
+demo_url: null
+video_url: https://www.youtube.com/embed/wc4xc27l88w
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: ahmed maher

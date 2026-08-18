@@ -1,0 +1,24 @@
+id: aleithia
+name: Aleithia
+slug: aleithia
+tagline: Enterprise-grade intelligence for small businesses.
+summary: Aleithia received the Best Use of OpenAI API award at HackIllinois 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gt12889/hackillinois2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/808/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - docker
+  - python
+  - react
+builders:
+  - name: Zhuoli Xie
+  - name: Srinivas I B
+  - name: Eva Cullen
+  - name: tuan dinh

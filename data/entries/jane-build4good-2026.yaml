@@ -1,0 +1,14 @@
+id: jane-build4good-2026
+project_id: jane
+hackathon_id: build4good-2026
+submission_url: https://devpost.com/software/jane-kgw2hz
+source:
+  platform: devpost
+  url: https://devpost.com/software/jane-kgw2hz
+awards:
+  - type: first-place
+    title: Poker Bot - 1st
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

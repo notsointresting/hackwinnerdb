@@ -1,0 +1,21 @@
+id: brandcompete
+name: BrandCompete
+slug: brandcompete
+tagline: BrandCompete autonomously monitors competitors, analyses your brand positioning, and
+  delivers ready-to-run counter-campaign briefs before your team even opens S
+summary: BrandCompete received the Best Use of Gensyn award at Multiagents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ShawnAlisson/tokens_hack
+demo_url: null
+video_url: https://www.youtube.com/embed/tGNf5sG2nkA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/653/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - nextjs
+  - typescript
+builders:
+  - name: Shayan A Pahlavan
+  - name: Ali Najafzadeh

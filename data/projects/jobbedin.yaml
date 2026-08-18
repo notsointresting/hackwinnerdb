@@ -1,0 +1,22 @@
+id: jobbedin
+name: JobbedIn
+slug: jobbedin
+tagline: An agentic AI system that researches company details to personalize cover letters and
+  messages to hiring personnel.
+summary: JobbedIn received the AI Agents award at AI For Good Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bachsofttrick/jobbedin
+demo_url: null
+video_url: https://www.youtube.com/embed/oAlqXsWRzLc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/693/244/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - openai
+  - postgresql
+builders:
+  - name: Brian Phan
+  - name: nguyen loc

@@ -1,0 +1,14 @@
+id: punjab-sabak-portal-dsh-hacks-v1
+project_id: punjab-sabak-portal
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/punjab-sabak-portal
+source:
+  platform: devpost
+  url: https://devpost.com/software/punjab-sabak-portal
+awards:
+  - type: other
+    title: Participation Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

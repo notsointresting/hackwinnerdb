@@ -1,0 +1,23 @@
+id: pulmoscan
+name: PulmoScan
+slug: pulmoscan
+tagline: Diving deep into pulmonary health through ML-powered lung cancer detection. Upload a scan,
+  get a diagnosis, and explore the findings inside a real 3D model of t
+summary: PulmoScan received the Google - Build with AI award at Hack Canada 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/garvit1910/pulmoscan-hackcanada
+demo_url: null
+video_url: https://www.youtube.com/embed/rWlR3_esjtg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/407/456/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - python
+  - pytorch
+  - react
+  - typescript
+builders:
+  - name: Daksh Agrawal
+  - name: Yash Sah
+  - name: Garvit Jain

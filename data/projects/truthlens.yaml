@@ -1,0 +1,19 @@
+id: truthlens
+name: TruthLens
+slug: truthlens
+tagline: TruthLens empowers you to detect deepfakes and manipulated media in real time with
+  AI-driven analysis helping businesses and individuals prevent fraud, misinfor
+summary: "TruthLens received the KYXGO Community Pioneer Award award at InnovatorsX: Startup Sprint
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/XiLvBxN7Wi4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/686/104/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - e-commerce
+  - media
+technologies:
+  - javascript
+builders: []

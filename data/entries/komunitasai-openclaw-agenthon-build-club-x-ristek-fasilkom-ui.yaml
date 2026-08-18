@@ -1,0 +1,14 @@
+id: komunitasai-openclaw-agenthon-build-club-x-ristek-fasilkom-ui
+project_id: komunitasai
+hackathon_id: openclaw-agenthon-build-club-x-ristek-fasilkom-ui
+submission_url: https://devpost.com/software/komunitasai
+source:
+  platform: devpost
+  url: https://devpost.com/software/komunitasai
+awards:
+  - type: category-winner
+    title: Best Payment Use Case
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

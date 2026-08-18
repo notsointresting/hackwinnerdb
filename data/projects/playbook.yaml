@@ -1,0 +1,21 @@
+id: playbook
+name: Playbook
+slug: playbook
+tagline: A sales-call agent that gets better at selling between every call
+summary: Playbook received the Best use of Airia award at Self Improving Agents Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/iMzCJzNTFgg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - elevenlabs
+  - supabase
+builders:
+  - name: Akshith Ambekar
+  - name: Omkar Kovvali

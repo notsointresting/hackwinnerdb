@@ -1,0 +1,14 @@
+id: fishbowl-hackhayward-2026
+project_id: fishbowl
+hackathon_id: hackhayward-2026
+submission_url: https://devpost.com/software/fishbowl-8i9rdq
+source:
+  platform: devpost
+  url: https://devpost.com/software/fishbowl-8i9rdq
+awards:
+  - type: first-place
+    title: AI-Driven Entrepreneurship Track (1st Place)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

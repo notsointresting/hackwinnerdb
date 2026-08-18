@@ -1,0 +1,20 @@
+id: optimization-of-chebyshev-polynomial-fir-filter
+name: Optimization of Chebyshev Polynomial FIR Filter
+slug: optimization-of-chebyshev-polynomial-fir-filter
+tagline: This project is an attempt to apply quantum optimization algorithms to find the optimal
+  coefficients for a Chebyshev polynomial FIR filter for a given frequency
+summary: Optimization of Chebyshev Polynomial FIR Filter received the 2nd Place -- IBM Swag award at
+  WQCC Quantum Optimization Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/MrawesomeTech28/Chebyshev-FIR-qOptimization-Spring26-WQCC-Hackathon/blob/main/main.ipynb
+demo_url: null
+video_url: https://www.youtube.com/embed/q1UbUef5Bng
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/631/465/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Marcos Velazquez Ramos
+  - name: Giovanni Maccanelli

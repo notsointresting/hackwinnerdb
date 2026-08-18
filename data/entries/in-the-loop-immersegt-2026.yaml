@@ -1,0 +1,16 @@
+id: in-the-loop-immersegt-2026
+project_id: in-the-loop
+hackathon_id: immersegt-2026
+submission_url: https://devpost.com/software/in-the-loop-xnv1od
+source:
+  platform: devpost
+  url: https://devpost.com/software/in-the-loop-xnv1od
+awards:
+  - type: second-place
+    title: Snap AR 2nd Place Track Winner
+  - type: category-winner
+    title: "ImmerseGT: Best Overall"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

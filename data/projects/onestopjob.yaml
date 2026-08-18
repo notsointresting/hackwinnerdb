@@ -1,0 +1,25 @@
+id: onestopjob
+name: OneStopJob
+slug: onestopjob
+tagline: One stop shop for all your Job Application Needs!!
+summary: OneStopJob received the Best App for UMD Students - Winner award at GDSC HackDay  - Build
+  With AI Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/shr7q/OneStopJob
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/409/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - firebase
+  - google-cloud
+  - nextjs
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Mohammed Amaan Ul Bari

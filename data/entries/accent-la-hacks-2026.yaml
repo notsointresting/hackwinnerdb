@@ -1,0 +1,16 @@
+id: accent-la-hacks-2026
+project_id: accent
+hackathon_id: la-hacks-2026
+submission_url: https://devpost.com/software/accent-cdw2qi
+source:
+  platform: devpost
+  url: https://devpost.com/software/accent-cdw2qi
+awards:
+  - type: track-winner
+    title: "Track: Light The Way"
+  - type: other
+    title: Figma Make Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

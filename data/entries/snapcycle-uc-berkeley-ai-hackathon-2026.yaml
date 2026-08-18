@@ -1,0 +1,14 @@
+id: snapcycle-uc-berkeley-ai-hackathon-2026
+project_id: snapcycle
+hackathon_id: uc-berkeley-ai-hackathon-2026
+submission_url: https://devpost.com/software/rrr-s98zwc
+source:
+  platform: devpost
+  url: https://devpost.com/software/rrr-s98zwc
+awards:
+  - type: finalist
+    title: Finalist
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

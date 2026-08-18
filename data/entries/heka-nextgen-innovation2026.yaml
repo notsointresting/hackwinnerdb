@@ -1,0 +1,14 @@
+id: heka-nextgen-innovation2026
+project_id: heka
+hackathon_id: nextgen-innovation2026
+submission_url: https://devpost.com/software/just-checking-around
+source:
+  platform: devpost
+  url: https://devpost.com/software/just-checking-around
+awards:
+  - type: first-place
+    title: First Runner-Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

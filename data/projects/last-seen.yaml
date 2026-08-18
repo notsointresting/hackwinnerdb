@@ -1,0 +1,26 @@
+id: last-seen
+name: LAST SEEN
+slug: last-seen
+tagline: LAST SEEN — A missing persons mystery game. Dig through evidence, retrace 72 hours of a
+  stranger's life, and uncover the truth. Every clue matters. Every hour c
+summary: LAST SEEN received the Bronze award at hackStoga 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nathanaditya254/hackStoga-26
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - gaming
+technologies:
+  - claude
+  - flask
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Adwait Jella
+  - name: Aditya Nathan
+  - name: Manan Tambi
+  - name: Arnav Pinisetty

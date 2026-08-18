@@ -1,0 +1,22 @@
+id: lendr
+name: Lendr
+slug: lendr
+tagline: Lendr — Borrow from the dorm next door
+summary: Lendr received the Best Use of Google Gemini API award at Hack days in KGI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SuperNova-W/Lendr_Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/NJzNXpT5O4c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/823/442/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - react-native
+  - sql
+  - supabase
+builders: []

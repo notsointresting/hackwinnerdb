@@ -1,0 +1,26 @@
+id: glancescribe
+name: GlanceScribe
+slug: glancescribe
+tagline: Hands-free documentation that runs during the visit, so doctors keep their gloves on, eyes
+  on the patient, and the chart still gets done.
+summary: "GlanceScribe received the Main Track: Healthcare award at Hack Brooklyn in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/WajahatMa/GlanceScribe
+demo_url: null
+video_url: https://www.youtube.com/embed/C1dSdK3tr18
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/622/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - python
+  - swift
+builders:
+  - name: hanyariz Rizvi
+  - name: M4r1um Habib
+  - name: Farsiana Tarique
+  - name: Wajahat Mahmood

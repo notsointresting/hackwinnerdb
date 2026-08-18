@@ -1,0 +1,14 @@
+id: v-i-p-e-r-data-heist-2026
+project_id: v-i-p-e-r
+hackathon_id: data-heist-2026
+submission_url: https://devpost.com/software/v-i-p-e-r
+source:
+  platform: devpost
+  url: https://devpost.com/software/v-i-p-e-r
+awards:
+  - type: category-winner
+    title: Best Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: camera-roll-based-personalization-the-phia-hack
+project_id: camera-roll-based-personalization
+hackathon_id: the-phia-hack
+submission_url: https://devpost.com/software/camera-roll-based-personalization
+source:
+  platform: devpost
+  url: https://devpost.com/software/camera-roll-based-personalization
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

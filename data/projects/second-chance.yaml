@@ -1,0 +1,23 @@
+id: second-chance
+name: Second Chance
+slug: second-chance
+tagline: "Second Chance is a mobile app that helps people rebuild after incarceration with
+  personalized reentry plans, news, local resources, job recommendations, and an "
+summary: Second Chance received the Best UGC award at KiroHacks Cal Poly in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yuwilson105/Kiro_Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/VMeztehLoQ4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - groq
+  - typescript
+builders:
+  - name: Wilson Yu
+  - name: Soe-Ko Ko
+  - name: Ahmed Ufuk Serce
+  - name: Feti S.

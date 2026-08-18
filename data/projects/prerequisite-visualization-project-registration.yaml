@@ -1,0 +1,23 @@
+id: prerequisite-visualization-project-registration
+name: Prerequisite visualization project (registration)
+slug: prerequisite-visualization-project-registration
+tagline: Recall the trouble behind building your class schedule. This website is a complementary
+  class-registration tool that helps you visualize prerequisites and class
+summary: Prerequisite visualization project (registration) received the Third Prize award at Berea
+  College Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/RafaelHermoza/Berea-College-Course-Planning-Navigator.git
+demo_url: null
+video_url: https://www.youtube.com/embed/gb7Zkc_hmPs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/556/830/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Rafael Hermoza
+  - name: Mach Riak Garang
+  - name: AlfajorConMaicillo
+  - name: A.M. Fahad

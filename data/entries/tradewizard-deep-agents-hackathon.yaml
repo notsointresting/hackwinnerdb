@@ -1,0 +1,14 @@
+id: tradewizard-deep-agents-hackathon
+project_id: tradewizard
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/tradewizard-9k1dfu
+source:
+  platform: devpost
+  url: https://devpost.com/software/tradewizard-9k1dfu
+awards:
+  - type: category-winner
+    title: Best Use of Kiro
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

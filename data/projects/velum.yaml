@@ -1,0 +1,24 @@
+id: velum
+name: Velum
+slug: velum
+tagline: Decentralized Encryption To Keep Your Identity
+summary: Velum received the Best Use of Capital One Nessie (Hackathon API) award at HackIllinois
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/MarcDasilva/HackIllinois
+demo_url: null
+video_url: https://www.youtube.com/embed/nEi0dV_jfgo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/877/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - solana
+  - typescript
+builders:
+  - name: Rishi Shah
+  - name: Milind Maheshwari
+  - name: Marc Da Silva
+  - name: Haresh Goyal

@@ -12,6 +12,30 @@ export interface GalleryProject {
   technologiesHint: string[];
 }
 
+export function extractImage(htmlOrBlock: string): string | null {
+  const srcMatch =
+    htmlOrBlock.match(/src="([^"]*(?:software_photos|software_thumbnail_photos)[^"]*)"/i)?.[1] ??
+    htmlOrBlock.match(/data-src="([^"]*(?:software_photos|software_thumbnail_photos)[^"]*)"/i)?.[1] ??
+    htmlOrBlock.match(/<meta[^>]+(?:property|name)="og:image"[^>]+content="([^"]+)"/i)?.[1] ??
+    htmlOrBlock.match(/<meta[^>]+content="([^"]+)"[^>]+(?:property|name)="og:image"/i)?.[1] ??
+    htmlOrBlock.match(/<meta[^>]+itemprop="image"[^>]+content="([^"]+)"/i)?.[1] ??
+    htmlOrBlock.match(/<meta[^>]+itemprop="screenshot"[^>]+content="([^"]+)"/i)?.[1] ??
+    htmlOrBlock.match(/<img[^>]+class="[^"]*software_thumbnail_image[^"]*"[^>]+src="([^"]+)"/i)?.[1] ??
+    null;
+
+  if (!srcMatch) return null;
+  const decoded = decode(srcMatch);
+  if (
+    /thumbnail-placeholder/i.test(decoded) ||
+    /devpost-open-graph/i.test(decoded) ||
+    /devpost_social_icon/i.test(decoded)
+  ) {
+    return null;
+  }
+  if (decoded.startsWith("//")) return `https:${decoded}`;
+  return decoded;
+}
+
 export function parseGallery(html: string): GalleryProject[] {
   const projects: GalleryProject[] = [];
   // Items carry extra grid classes, so key off the stable data attribute.
@@ -23,7 +47,7 @@ export function parseGallery(html: string): GalleryProject[] {
     if (!url) continue;
     const name = block.match(/<h5>\s*([\s\S]*?)\s*<\/h5>/)?.[1];
     const tagline = block.match(/<p class="small tagline">\s*([\s\S]*?)\s*<\/p>/)?.[1];
-    const image = block.match(/src="(https:\/\/[^"]*software_thumbnail_photos[^"]*)"/)?.[1] ?? null;
+    const image = extractImage(block);
     const builders = [...block.matchAll(/<img alt="([^"]+)" class="user-photo/g)].map((m) =>
       decode(m[1]),
     );
@@ -44,6 +68,7 @@ export interface ProjectDetail {
   awards: { hackathonUrl: string; hackathonName: string; title: string }[];
   technologies: string[];
   links: { website: string | null; github: string | null; video: string | null };
+  image: string | null;
 }
 
 export function parseProject(html: string): ProjectDetail {
@@ -74,8 +99,9 @@ export function parseProject(html: string): ProjectDetail {
     html.match(/src="(https:\/\/www\.youtube\.com\/embed\/[^"?]+)/)?.[1] ??
     null;
   const website = html.match(/<nav id="app-links"[\s\S]*?href="(https?:\/\/[^"]+)"/)?.[1] ?? null;
+  const image = extractImage(html);
 
-  return { awards, technologies, links: { website, github, video } };
+  return { awards, technologies, links: { website, github, video }, image };
 }
 
 /** Maps a Devpost "built with" tag onto a canonical slug, or reports it as unknown. */
@@ -89,4 +115,3 @@ export function mapTechnologies(tags: string[], known: Set<string>) {
   }
   return { mapped: [...new Set(mapped)], unknown: [...new Set(unknown)] };
 }
-

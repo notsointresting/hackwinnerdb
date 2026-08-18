@@ -1,0 +1,14 @@
+id: cookie-crumblr-aws-kiro-x-cs-careers-hackathon-at-virginia-tech
+project_id: cookie-crumblr
+hackathon_id: aws-kiro-x-cs-careers-hackathon-at-virginia-tech
+submission_url: https://devpost.com/software/cookie-crumblr
+source:
+  platform: devpost
+  url: https://devpost.com/software/cookie-crumblr
+awards:
+  - type: second-place
+    title: 2nd Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

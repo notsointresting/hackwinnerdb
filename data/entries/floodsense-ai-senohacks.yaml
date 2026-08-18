@@ -1,0 +1,14 @@
+id: floodsense-ai-senohacks
+project_id: floodsense-ai
+hackathon_id: senohacks
+submission_url: https://devpost.com/software/floodsense-ai-fgk9xa
+source:
+  platform: devpost
+  url: https://devpost.com/software/floodsense-ai-fgk9xa
+awards:
+  - type: other
+    title: Senorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

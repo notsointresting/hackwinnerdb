@@ -1,0 +1,22 @@
+id: rumie
+name: Rumie
+slug: rumie
+tagline: Rumie is a roommate-matching app that helps students and renters swipe, match, chat, and
+  find compatible people and housing listings in one place.
+summary: Rumie received the [MLH] Best Use of MongoDB Atlas award at DesignVerse 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/evanoctave/rumie-app
+demo_url: null
+video_url: https://www.youtube.com/embed/kNiRmPgXeLk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/678/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - cloudflare
+  - figma
+  - flutter
+builders:
+  - name: Evan Barreau
+  - name: Anjelo Go

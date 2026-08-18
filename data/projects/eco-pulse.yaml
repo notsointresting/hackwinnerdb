@@ -1,0 +1,28 @@
+id: eco-pulse
+name: Eco-Pulse
+slug: eco-pulse
+tagline: Mapping heat. Planting relief.
+summary: Eco-Pulse received the [GenAI Genesis] Top 2 Teams - Team 1 (Online Only) award at  GenAI
+  Genesis 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Lushenwar/Eco-Pulse
+demo_url: null
+video_url: https://www.youtube.com/embed/wyolutNMcnY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/444/326/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - google-maps
+  - nextjs
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ryan Qi
+  - name: Maksym Lan
+  - name: Ben Zhou
+  - name: Judy Zhu

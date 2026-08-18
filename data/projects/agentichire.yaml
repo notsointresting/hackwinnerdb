@@ -1,0 +1,20 @@
+id: agentichire
+name: AgenticHire
+slug: agentichire
+tagline: Hire 10 AI Engineers next week on board ASAP. Instead of panicking, let's open ASI:One and
+  type one sentence. 5 Fetch.ai agents recruit, rank, and email candida
+summary: AgenticHire received the Best Use of Fetch.ai award at DiamondHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/quachphu/UCSD-HACKATHON
+demo_url: null
+video_url: https://www.youtube.com/embed/81ZDAMTBrfw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/714/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - twilio
+builders:
+  - name: Phu Quach

@@ -1,0 +1,14 @@
+id: kenthackit
+name: KentHackIt
+slug: kenthackit
+organizer: []
+year: 2026
+sources:
+  - https://kenthackit.devpost.com/
+  - https://kenthackit.devpost.com/project-gallery?filter=winner
+website_url: https://kenthackit.devpost.com/
+platform: devpost
+participant_count: 36
+prize_pool: null
+currency: null
+description: "Devpost hackathon: KentHackIt. Imported automatically."

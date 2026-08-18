@@ -1,0 +1,21 @@
+id: college-compass
+name: College Compass
+slug: college-compass
+tagline: Tinder but for finding colleges and friends
+summary: College Compass received the Best Use of Solana award at HACKMESA 2.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gchen0002/FriendMatching-HackMesa
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/064/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Rio-Astro Anderson
+  - name: Guanying Chen
+  - name: cpalacios18-spec Palacios
+  - name: Jesus Vazquez

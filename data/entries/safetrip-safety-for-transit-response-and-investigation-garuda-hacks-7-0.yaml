@@ -1,0 +1,14 @@
+id: safetrip-safety-for-transit-response-and-investigation-garuda-hacks-7-0
+project_id: safetrip-safety-for-transit-response-and-investigation
+hackathon_id: garuda-hacks-7-0
+submission_url: https://devpost.com/software/safetrip-safety-for-transit-response-and-investigation
+source:
+  platform: devpost
+  url: https://devpost.com/software/safetrip-safety-for-transit-response-and-investigation
+awards:
+  - type: first-place
+    title: 1st Place Safety Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: climaguard
+name: ClimaGuard
+slug: climaguard
+tagline: Gemini-powered climate safety for children in 25 UNICEF high-risk countries — multilingual,
+  multimodal, offline-ready.
+summary: ClimaGuard received the Best Use of Gemini API Award award at Hack Days CUET in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ahiraf/ClimaGuard
+demo_url: null
+video_url: https://www.youtube.com/embed/07Hz9mUY9_Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/838/985/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - tailwind-css
+  - typescript
+builders:
+  - name: Fariha Rayhan Mim

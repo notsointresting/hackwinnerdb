@@ -1,0 +1,25 @@
+id: aaas-labs-automated-security-workflow-studio
+name: "AaaS Labs: Automated Security Workflow Studio"
+slug: aaas-labs-automated-security-workflow-studio
+tagline: AaaS Labs lets you talk to your code and domains, then run no‑code security workflows that
+  trigger OWASP/SANS checks, scans, and AI‑generated remediation flowch
+summary: "AaaS Labs: Automated Security Workflow Studio received the Interview Cake Prize award at
+  Maestro Hack Day in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/Guten-Morgen1302/AaaS-Labs-Django-Backend
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/356/947/datas/medium.png
+categories:
+  - artificial-intelligence
+  - fintech
+  - cybersecurity
+technologies:
+  - django
+  - mongodb
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders: []

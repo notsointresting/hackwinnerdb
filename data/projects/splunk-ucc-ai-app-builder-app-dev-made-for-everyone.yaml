@@ -1,0 +1,22 @@
+id: splunk-ucc-ai-app-builder-app-dev-made-for-everyone
+name: Splunk UCC AI App Builder - App dev made for everyone
+slug: splunk-ucc-ai-app-builder-app-dev-made-for-everyone
+tagline: Describe a Splunk add-on in plain English; an AI agent inside Splunk using the Splunk Agent
+  SDK, builds it with ucc-gen, validates with AppInspect, and self-cor
+summary: Splunk UCC AI App Builder - App dev made for everyone received the Best Use of Splunk
+  Developer Tools award at Splunk Agentic Ops Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/livehybrid/ucc-app-builder
+demo_url: null
+video_url: https://www.youtube.com/embed/k6MyGTH24Qg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/776/176/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - react
+builders:
+  - name: William Searle

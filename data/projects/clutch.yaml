@@ -1,0 +1,25 @@
+id: clutch
+name: Clutch
+slug: clutch
+tagline: Turn your deadlines into a competition. AI rates your tasks, you race to beat the clock,
+  and friends see who grinds hardest.
+summary: Clutch received the In person award at HackSB2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/WasimVorvoi/SBHacks2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/275/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - firebase
+  - javascript
+  - swift
+builders:
+  - name: Raghuram Duvvuri
+  - name: Wasim Vorvoi
+  - name: Akhil Kotikalapudi
+  - name: Wasim Vorvoi

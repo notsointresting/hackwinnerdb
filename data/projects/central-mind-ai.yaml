@@ -1,0 +1,25 @@
+id: central-mind-ai
+name: Central Mind AI
+slug: central-mind-ai
+tagline: We built a specialized AI navigator for Central University. It decodes handbooks, menus,
+  and timetables to predict course outlines and simplify student services
+summary: Central Mind AI received the Best use of google gemini model award at CIReN Mini Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/litoguy/ciren_submission
+demo_url: null
+video_url: https://www.youtube.com/embed/w46HggGYtP8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flutter
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Bethel Fiagbetor
+  - name: Ellis Fafali
+  - name: Kevin Afenyo

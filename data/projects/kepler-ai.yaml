@@ -1,0 +1,19 @@
+id: kepler-ai
+name: Kepler-AI
+slug: kepler-ai
+tagline: Combining raw NASA observational data with advanced physical feature engineering to hunt
+  for exoplanets with 96.8% precision.
+summary: Kepler-AI received the 3rd Place award at India High School Exoplanet Data Challenge in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AVadhyanshverma/kepler-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/wqsJeNXIoDY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/041/328/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Adhyansh Verma

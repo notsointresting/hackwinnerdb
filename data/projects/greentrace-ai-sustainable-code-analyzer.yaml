@@ -1,0 +1,22 @@
+id: greentrace-ai-sustainable-code-analyzer
+name: GreenTrace AI – Sustainable Code Analyzer
+slug: greentrace-ai-sustainable-code-analyzer
+tagline: AI-powered tool that analyzes code energy usage and estimates its carbon footprint while
+  suggesting greener and more efficient coding practices.
+summary: GreenTrace AI – Sustainable Code Analyzer received the Best use of Gemini API award at Hack
+  o Phobia 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/apoo8029/GreenTrace-AI-.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/453/483/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: apoo8029 Srivastava

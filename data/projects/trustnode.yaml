@@ -1,0 +1,26 @@
+id: trustnode
+name: TrustNode
+slug: trustnode
+tagline: TrustNode is a 100% offline AI auditor. It evaluates docs against ISO/GDPR using local LLMs
+  and outputs an institutional LaTeX PDF report in minutes. Zero cloud
+summary: TrustNode received the 2º Lugar award at guadalahacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Diego-do-na/TrustNode/
+demo_url: null
+video_url: https://www.youtube.com/embed/PIQIy6iRn2M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/926/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cloud
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Paul Sarmiento
+  - name: Diego_Najera Dominguez Najera
+  - name: Genaro Mercado Morones
+  - name: NC-EC Caceres

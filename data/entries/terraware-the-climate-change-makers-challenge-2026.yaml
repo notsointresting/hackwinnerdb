@@ -1,0 +1,14 @@
+id: terraware-the-climate-change-makers-challenge-2026
+project_id: terraware
+hackathon_id: the-climate-change-makers-challenge-2026
+submission_url: https://devpost.com/software/terraware
+source:
+  platform: devpost
+  url: https://devpost.com/software/terraware
+awards:
+  - type: other
+    title: Mystery Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: buzzkill
+name: Buzzkill
+slug: buzzkill
+tagline: WE SHOOT MOSQUITOES
+summary: "Buzzkill received the QNX: Best Use of QNX award at Hack the 6ix 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/dnexdev/buzzkill
+demo_url: null
+video_url: https://www.youtube.com/embed/bvb7n03Mdh0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/938/135/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - opencv
+  - python
+  - raspberry-pi
+builders:
+  - name: Hetarth Parikh
+  - name: Peter Rong
+  - name: Evan Ma
+  - name: Clement Chung

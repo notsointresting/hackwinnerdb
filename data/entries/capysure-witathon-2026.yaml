@@ -1,0 +1,14 @@
+id: capysure-witathon-2026
+project_id: capysure
+hackathon_id: witathon-2026
+submission_url: https://devpost.com/software/capysure
+source:
+  platform: devpost
+  url: https://devpost.com/software/capysure
+awards:
+  - type: other
+    title: Social Impact
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

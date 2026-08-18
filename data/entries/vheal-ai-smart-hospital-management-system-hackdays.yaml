@@ -1,0 +1,14 @@
+id: vheal-ai-smart-hospital-management-system-hackdays
+project_id: vheal-ai-smart-hospital-management-system
+hackathon_id: hackdays
+submission_url: https://devpost.com/software/vheal-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/vheal-ai
+awards:
+  - type: winner
+    title: Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

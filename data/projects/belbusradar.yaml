@@ -1,0 +1,24 @@
+id: belbusradar
+name: BelBusRadar
+slug: belbusradar
+tagline: One app. Every bus. Every hazard. A safer commute for Belfast
+summary: BelBusRadar received the AI For Everyday Safety - AllState award at HackBelfast in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BVzNnGiyfJM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/484/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: Steph Olaluwoye
+  - name: Emma White
+  - name: Andrew Hamilton
+  - name: kthackett8804

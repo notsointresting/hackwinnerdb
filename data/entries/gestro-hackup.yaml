@@ -1,0 +1,16 @@
+id: gestro-hackup
+project_id: gestro
+hackathon_id: hackup
+submission_url: https://devpost.com/software/gestro
+source:
+  platform: devpost
+  url: https://devpost.com/software/gestro
+awards:
+  - type: other
+    title: JBL Bluetooth Speakers
+  - type: other
+    title: Mechanical Keyboards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

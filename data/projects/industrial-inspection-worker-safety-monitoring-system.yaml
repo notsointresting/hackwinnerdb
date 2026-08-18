@@ -1,0 +1,23 @@
+id: industrial-inspection-worker-safety-monitoring-system
+name: Industrial Inspection & Worker Safety Monitoring System
+slug: industrial-inspection-worker-safety-monitoring-system
+tagline: An autonomous system that inspects pipelines using vision and gas sensors while monitoring
+  workers for distress or unconsciousness, providing real-time alerts a
+summary: Industrial Inspection & Worker Safety Monitoring System received the First Place award at
+  Grizzly Hacks III in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Jay-Aditya-16/pipeline-inspection-drone
+demo_url: null
+video_url: https://www.youtube.com/embed/98pN1uC19kE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/634/604/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - esp32
+  - opencv
+  - pytorch
+builders:
+  - name: Jay Aditya

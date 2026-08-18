@@ -1,0 +1,14 @@
+id: the-good-the-bad-and-the-that-s-it-mountain-madness-2026
+project_id: the-good-the-bad-and-the-that-s-it
+hackathon_id: mountain-madness-2026
+submission_url: https://devpost.com/software/the-good-the-bad-and-the-that-s-it
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-good-the-bad-and-the-that-s-it
+awards:
+  - type: category-winner
+    title: Best Design / UI/UX
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

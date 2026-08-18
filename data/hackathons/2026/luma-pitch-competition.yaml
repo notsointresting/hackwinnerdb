@@ -1,0 +1,14 @@
+id: luma-pitch-competition
+name: LUMA Pitch Competition
+slug: luma-pitch-competition
+organizer: []
+year: 2026
+sources:
+  - https://luma.devpost.com/
+  - https://luma.devpost.com/project-gallery?filter=winner
+website_url: https://luma.devpost.com/
+platform: devpost
+participant_count: 390
+prize_pool: 52800
+currency: USD
+description: "Devpost hackathon: LUMA Pitch Competition. Imported automatically."

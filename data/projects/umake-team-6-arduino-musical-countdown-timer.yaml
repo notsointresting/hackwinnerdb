@@ -1,0 +1,19 @@
+id: umake-team-6-arduino-musical-countdown-timer
+name: "Umake Team 6: Arduino Musical Countdown Timer"
+slug: umake-team-6-arduino-musical-countdown-timer
+tagline: An Arduino-powered musical timer that allows users to adjust a countdown using buttons and
+  plays a melody when the timer reaches zero.
+summary: "Umake Team 6: Arduino Musical Countdown Timer received the Exciting award at UMake 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5D4y6jg-Vl0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/405/255/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - arduino
+builders:
+  - name: Chizaram O
+  - name: Ujiri E.

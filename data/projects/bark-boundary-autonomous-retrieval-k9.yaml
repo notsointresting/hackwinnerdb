@@ -1,0 +1,23 @@
+id: bark-boundary-autonomous-retrieval-k9
+name: BARK - Boundary Autonomous Retrieval K9
+slug: bark-boundary-autonomous-retrieval-k9
+tagline: An autonomous friend that collects and defends your mail!
+summary: BARK - Boundary Autonomous Retrieval K9 received the [MLH] Best Use of Solana award at
+  MakeMIT x Harvard 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/cIwmESXkdr4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/124/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - c-plus-plus
+  - gemini
+  - python
+builders:
+  - name: Sophie Nguyen
+  - name: filthyfil Jasionek
+  - name: Fillip Cutiuba
+  - name: Fahim Taleb

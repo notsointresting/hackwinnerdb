@@ -1,0 +1,30 @@
+id: hackmarket
+name: HackMarket
+slug: hackmarket
+tagline: Devs build powerful AI tools fine-tuned models, agents, vision systems that die on GitHub.
+  HackMarket turns them into plug-and-play APIs startups can buy once a
+summary: HackMarket received the Future Unicorn award at SCU Hack-a-Stack - Endurance Track in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yuvraajb/aicHack
+demo_url: null
+video_url: https://www.youtube.com/embed/CJw9_AGsyf0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/996/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: Samm Cheng
+  - name: Darren Wu
+  - name: Yuvraaj Bhatter
+  - name: Krishna Chandra Gummadi

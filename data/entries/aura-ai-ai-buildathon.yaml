@@ -1,0 +1,14 @@
+id: aura-ai-ai-buildathon
+project_id: aura-ai
+hackathon_id: ai-buildathon
+submission_url: https://devpost.com/software/aura-ai-3gvcru
+source:
+  platform: devpost
+  url: https://devpost.com/software/aura-ai-3gvcru
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

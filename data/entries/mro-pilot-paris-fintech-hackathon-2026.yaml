@@ -1,0 +1,20 @@
+id: mro-pilot-paris-fintech-hackathon-2026
+project_id: mro-pilot
+hackathon_id: paris-fintech-hackathon-2026
+submission_url: https://devpost.com/software/temporaryteamname
+source:
+  platform: devpost
+  url: https://devpost.com/software/temporaryteamname
+awards:
+  - type: other
+    title: Station F Workspace
+  - type: other
+    title: Lovable Credits
+  - type: other
+    title: Portage Ventures
+  - type: first-place
+    title: 1st place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

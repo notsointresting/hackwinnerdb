@@ -1,0 +1,25 @@
+id: echo-vest
+name: Echo Vest
+slug: echo-vest
+tagline: An AI vest designed to assist the visually impaired, it detects objects, vibrates in the
+  corresponding direction, and has voice commands to list any obstruction
+summary: Echo Vest received the Best AI Hack award at HackUSF 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jrodd1203/echo-vest
+demo_url: null
+video_url: https://www.youtube.com/embed/CSyTpQ52ow8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/505/013/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - javascript
+  - python
+builders:
+  - name: Ian Lopez Aguirre
+  - name: Deshawn Allen McInnis
+  - name: Jacob Bhatt
+  - name: Jrodd1203 Rodriguez

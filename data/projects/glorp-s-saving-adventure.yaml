@@ -1,0 +1,20 @@
+id: glorp-s-saving-adventure
+name: Glorp's Saving Adventure
+slug: glorp-s-saving-adventure
+tagline: Help Glorp save money for his vacation by helping him make smart financial choices in our
+  fun filled and educational text adventure!
+summary: Glorp's Saving Adventure received the Hackiest Hack award at Hackabury 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/b6atJQCwZqg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/579/datas/gallery.jpg
+categories:
+  - education
+technologies: []
+builders:
+  - name: Chloe Hilliard
+  - name: sk0rbias
+  - name: Zack Skeels
+  - name: Jamie Cranwell

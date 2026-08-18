@@ -1,0 +1,14 @@
+id: vocal-biomarker-edge-github-readme-generation
+project_id: vocal-biomarker-edge
+hackathon_id: github-readme-generation
+submission_url: https://devpost.com/software/vocal-biomarker-edge
+source:
+  platform: devpost
+  url: https://devpost.com/software/vocal-biomarker-edge
+awards:
+  - type: honorable-mention
+    title: Honorable mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

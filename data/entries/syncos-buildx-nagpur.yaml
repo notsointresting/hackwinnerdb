@@ -1,0 +1,14 @@
+id: syncos-buildx-nagpur
+project_id: syncos
+hackathon_id: buildx-nagpur
+submission_url: https://devpost.com/software/connectx-mhfo27
+source:
+  platform: devpost
+  url: https://devpost.com/software/connectx-mhfo27
+awards:
+  - type: category-winner
+    title: Winner(Best gemini build) – BuildX Nagpur
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

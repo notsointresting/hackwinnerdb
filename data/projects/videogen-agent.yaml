@@ -1,0 +1,21 @@
+id: videogen-agent
+name: VideoGen-Agent
+slug: videogen-agent
+tagline: An autonomous, multi-agent AI system that transforms a collection of static images into a
+  cinematic, narrated, and intelligently sequenced video.
+summary: VideoGen-Agent received the Internship Opportunities award at SUMMER HACKATHON 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shamee12312/VideoGen-Agent
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/733/626/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: shamee K.sharma

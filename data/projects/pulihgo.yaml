@@ -1,0 +1,26 @@
+id: pulihgo
+name: PulihGo
+slug: pulihgo
+tagline: "Dari rumah sakit ke rumah: PulihGo lanjutkan rehab stroke dengan aman."
+summary: PulihGo received the 1st Place Health Track award at Garuda Hacks 7.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/radityawsgtg/Pulihgo.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Wtt5EFFYnNw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/914/461/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - react
+  - react-native
+  - supabase
+  - typescript
+builders:
+  - name: Sulthan Dhiyazka
+  - name: adnankurniawann
+  - name: rafipradiptaas
+  - name: Raditya Wibian Sastaka

@@ -1,0 +1,24 @@
+id: shaded-sheriffs
+name: Shaded Sheriffs
+slug: shaded-sheriffs
+tagline: "With Shaded Sheriffs, we enable vision by description. Our smart glasses capture the world
+  before you, using AI to speak it aloud and turn visual barriers into "
+summary: Shaded Sheriffs received the Best Low Level Hack (Opt-In) award at HooHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HadleyPound-BENG/Shaded_Sheriff_HooHacks
+demo_url: null
+video_url: https://www.youtube.com/embed/LfP7_qhNnTw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/152/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - python
+builders:
+  - name: Hadley Pound
+  - name: Ben Mahdessian

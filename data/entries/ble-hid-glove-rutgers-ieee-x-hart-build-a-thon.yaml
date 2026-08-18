@@ -1,0 +1,14 @@
+id: ble-hid-glove-rutgers-ieee-x-hart-build-a-thon
+project_id: ble-hid-glove
+hackathon_id: rutgers-ieee-x-hart-build-a-thon
+submission_url: https://devpost.com/software/ble-hid-glove
+source:
+  platform: devpost
+  url: https://devpost.com/software/ble-hid-glove
+awards:
+  - type: other
+    title: Productivity/Automation Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

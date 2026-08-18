@@ -1,0 +1,27 @@
+id: project-tusk
+name: Project Tusk
+slug: project-tusk
+tagline: Listen to elephants and translate their voice
+summary: Project Tusk received the iMasons award at HackSMU VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ch1kim0n1/hacksmu26
+demo_url: null
+video_url: https://www.youtube.com/embed/1jlV3-k0aKA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/219/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - nextjs
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Vladislav K
+  - name: Arnav Kumar
+  - name: Tanish Murali
+  - name: Dmitry Moiseenko

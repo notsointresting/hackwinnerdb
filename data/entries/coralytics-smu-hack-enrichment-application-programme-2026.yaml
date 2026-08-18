@@ -1,0 +1,14 @@
+id: coralytics-smu-hack-enrichment-application-programme-2026
+project_id: coralytics
+hackathon_id: smu-hack-enrichment-application-programme-2026
+submission_url: https://devpost.com/software/coralytics-uqfc3i
+source:
+  platform: devpost
+  url: https://devpost.com/software/coralytics-uqfc3i
+awards:
+  - type: third-place
+    title: 3rd Place Team - $50 per team member
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: spendwise-enterprise-internal-tools-hacks
+project_id: spendwise-enterprise
+hackathon_id: internal-tools-hacks
+submission_url: https://devpost.com/software/spendwise-enterprise
+source:
+  platform: devpost
+  url: https://devpost.com/software/spendwise-enterprise
+awards:
+  - type: third-place
+    title: 3rd Best
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

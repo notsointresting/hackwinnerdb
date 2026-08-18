@@ -1,0 +1,19 @@
+id: planwise
+name: PlanWise
+slug: planwise
+tagline: Custom AI plans with a polished and interactive experience.
+summary: PlanWise received the Honorary Participation award at Kindly labs weekly hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shang3301/planwise
+demo_url: null
+video_url: https://www.youtube.com/embed/Tu7pZJeG2Es
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/191/733/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Satish Garg

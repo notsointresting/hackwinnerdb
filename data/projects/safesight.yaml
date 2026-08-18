@@ -1,0 +1,21 @@
+id: safesight
+name: SafeSight
+slug: safesight
+tagline: Safety concerns in semiconductor companies for production employees.
+summary: "SafeSight received the 2nd Place for ZaiNar + SGA-AR in Healthcare Track award at TEL:
+  Spatial Intelligence Ideathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6VpiD-MvqSI
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: Alexis Serrano
+  - name: Karyn Esbensen
+  - name: Zavier Rahmansyah

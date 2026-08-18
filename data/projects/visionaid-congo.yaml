@@ -1,0 +1,23 @@
+id: visionaid-congo
+name: VisionAid Congo
+slug: visionaid-congo
+tagline: Offline multilingual AI-powered interface that aids the visually impaired in the DRC
+summary: VisionAid Congo received the Participation Prize award at DSH Hacks V1 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ackshatiwari/TillyHacks26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/801/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - react
+  - yolo
+builders:
+  - name: Ackshat Tiwari

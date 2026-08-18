@@ -1,0 +1,29 @@
+id: healthkaki
+name: HealthKaki
+slug: healthkaki
+tagline: "One photo. No more confusion. HealthKaki helps seniors understand medical bills, subsidies
+  and medication instructions through simple, spoken guidance they can "
+summary: HealthKaki received the Best Spec-Driven Build award at Kiro Buildfest 2026 Singapore in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wenxuannx/kiro-healthkaki/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/AnTwEZnZKQc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/861/772/datas/medium.png
+categories:
+  - healthcare
+technologies:
+  - gemini
+  - google-cloud
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: NyuJeongSheng Jeong Sheng
+  - name: Ang Ke Ying
+  - name: Owen Leong
+  - name: Wen Xuan Loh

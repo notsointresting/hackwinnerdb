@@ -1,0 +1,25 @@
+id: guido
+name: Guido
+slug: guido
+tagline: Getting where you need to go should never be the hard part.
+summary: Guido received the Most Innovative Hack award at HackUSF 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kwaiidev/guido/
+demo_url: null
+video_url: https://www.youtube.com/embed/L3_JCFhsXaw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/506/019/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - elevenlabs
+  - python
+  - react
+builders:
+  - name: Carlos Catala
+  - name: Michael Rusu
+  - name: Adrian Osorio
+  - name: jason sacerio

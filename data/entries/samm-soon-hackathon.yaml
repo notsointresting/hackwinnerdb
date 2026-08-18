@@ -1,0 +1,14 @@
+id: samm-soon-hackathon
+project_id: samm
+hackathon_id: soon-hackathon
+submission_url: https://devpost.com/software/samm
+source:
+  platform: devpost
+  url: https://devpost.com/software/samm
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] Aucctus Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

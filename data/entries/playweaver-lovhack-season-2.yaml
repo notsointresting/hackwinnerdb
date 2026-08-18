@@ -1,0 +1,16 @@
+id: playweaver-lovhack-season-2
+project_id: playweaver
+hackathon_id: lovhack-season-2
+submission_url: https://devpost.com/software/playweaver
+source:
+  platform: devpost
+  url: https://devpost.com/software/playweaver
+awards:
+  - type: other
+    title: Top 4–6 Projects - Builder Awards
+  - type: other
+    title: DevSwarm Builder Opportunity
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

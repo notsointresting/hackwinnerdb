@@ -1,0 +1,24 @@
+id: polarity
+name: Polarity
+slug: polarity
+tagline: 5 AI agents. One bias score. Polarity analyzes any news article through far-left, left,
+  center, right, and far-right perspectives then tells you exactly where i
+summary: Polarity received the SplashZone award at Hack@URI 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/watch?v=lKMBuyLQAWI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/632/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - supabase
+builders:
+  - name: Prince Thapa
+  - name: alok0814 Shrestha
+  - name: Leandhy Williams

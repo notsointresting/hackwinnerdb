@@ -1,0 +1,14 @@
+id: halfsaid-youth-code-x-ai
+project_id: halfsaid
+hackathon_id: youth-code-x-ai
+submission_url: https://devpost.com/software/halfsaid
+source:
+  platform: devpost
+  url: https://devpost.com/software/halfsaid
+awards:
+  - type: category-winner
+    title: Best User experience
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

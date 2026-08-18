@@ -1,0 +1,23 @@
+id: softeyes
+name: SoftEyes
+slug: softeyes
+tagline: What if your glasses could read the room for you; picking up the cues most people miss, and
+  quietly guiding you through the conversation in real time.
+summary: SoftEyes received the Snap Spectacles Track award at CareXR Hack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jawdataljabi/CareXR-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/StcCCB5jzkQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/158/datas/gallery.jpg
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Ahmad Al-Jabi
+  - name: Jawdat Al-Jabi
+  - name: Rayyan Khan

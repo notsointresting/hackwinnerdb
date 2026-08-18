@@ -1,0 +1,20 @@
+id: agrilearn-ai-a-plant-doctor-for-farmers-who-don-t-have-one
+name: AgriLearn AI —A Plant Doctor for Farmers Who Don't Have One
+slug: agrilearn-ai-a-plant-doctor-for-farmers-who-don-t-have-one
+tagline: Point your phone at a sick crop leaf and get a diagnosis, a treatment plan, and the biology
+  behind it — personalized to your exact farm, weather, and soil, in E
+summary: AgriLearn AI —A Plant Doctor for Farmers Who Don't Have One received the 1st Place award at
+  The Mastery Mentors Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/Jaypts/agrilearn-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/0HG_IBUFVdE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/859/967/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Jay Patel

@@ -1,0 +1,22 @@
+id: deshimarket-pulse-ai
+name: DeshiMarket Pulse AI
+slug: deshimarket-pulse-ai
+tagline: DeshiMarket Pulse AI digitizes Dhaka’s informal trade, using AI to map hidden merchants and
+  bridge them to buyers through simple, Banglish native search.
+summary: DeshiMarket Pulse AI received the Codex Credit of $100 award at Codex Community Meetup -
+  Dhaka in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/inan001/deshimarket-pulse
+demo_url: null
+video_url: https://www.youtube.com/embed/y6d9moyTkWw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/827/819/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: INAN DILIR HAMIM

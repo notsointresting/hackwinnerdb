@@ -1,0 +1,22 @@
+id: quark
+name: Quark
+slug: quark
+tagline: "Wake up at home, not in the ER! This QNX-based companion, keeps and ear on you and lets
+  you talk with it. If you're dozing off, it'll wake you up and alert you "
+summary: Quark received the QNX Challenge award at cuHacking7 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/waaberi/qnx-project
+demo_url: null
+video_url: https://www.youtube.com/embed/l6g9jpqRqhA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/954/datas/gallery.jpg
+categories:
+  - education
+  - infrastructure
+technologies:
+  - raspberry-pi
+  - tensorflow
+builders:
+  - name: Waaberi Ibrahim
+  - name: Haoyan Mai
+  - name: Dan Shan

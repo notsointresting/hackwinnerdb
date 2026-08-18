@@ -1,0 +1,14 @@
+id: tribble-claude-ai-hackathon-machines-of-loving-grace
+project_id: tribble
+hackathon_id: claude-ai-hackathon-machines-of-loving-grace
+submission_url: https://devpost.com/software/tribble
+source:
+  platform: devpost
+  url: https://devpost.com/software/tribble
+awards:
+  - type: winner
+    title: Grand Winner of 2026 Claude AI Hackathon
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

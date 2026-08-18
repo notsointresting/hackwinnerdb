@@ -1,0 +1,14 @@
+id: orbit-compass-gitlab-transcend-hackathon
+project_id: orbit-compass
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/contributor-track-arpit-tripathi
+source:
+  platform: devpost
+  url: https://devpost.com/software/contributor-track-arpit-tripathi
+awards:
+  - type: track-winner
+    title: "Contribute Track: 2 qualified Merged Merge Request"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

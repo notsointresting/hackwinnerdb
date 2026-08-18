@@ -1,0 +1,14 @@
+id: deeppitch-predictive-football-analytics-aqx-sports-analytics-data-bowl-2-0
+project_id: deeppitch-predictive-football-analytics
+hackathon_id: aqx-sports-analytics-data-bowl-2-0
+submission_url: https://devpost.com/software/deeppitch-predictive-football-analytics
+source:
+  platform: devpost
+  url: https://devpost.com/software/deeppitch-predictive-football-analytics
+awards:
+  - type: third-place
+    title: Third Place Honors
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

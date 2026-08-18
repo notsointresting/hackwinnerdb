@@ -1,0 +1,20 @@
+id: scholar-fight-club
+name: Scholar Fight Club
+slug: scholar-fight-club
+tagline: Scholar Fight Club. It's studying, but you actually want to do it.
+summary: Scholar Fight Club received the 1st Place award at Hack The Net in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FNPD3clas9Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/487/380/datas/medium.png
+categories:
+  - cybersecurity
+technologies:
+  - react
+builders:
+  - name: Usayd Islam
+  - name: Pranav Vellanki
+  - name: Yaj Patel
+  - name: Zachary M. Rusafov

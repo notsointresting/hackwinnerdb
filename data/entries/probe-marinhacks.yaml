@@ -1,0 +1,14 @@
+id: probe-marinhacks
+project_id: probe
+hackathon_id: marinhacks
+submission_url: https://devpost.com/software/probe-03dznw
+source:
+  platform: devpost
+  url: https://devpost.com/software/probe-03dznw
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

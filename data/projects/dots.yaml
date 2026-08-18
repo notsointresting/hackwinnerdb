@@ -1,0 +1,27 @@
+id: dots
+name: Dots
+slug: dots
+tagline: Dots transforms floor plans into ADA-compliant tactile maps, providing architects and
+  businesses with a scalable way to ensure universal accessibility through n
+summary: "Dots received the Track: Catalyst For Care award at LA Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/aryanmudgal-tech/dots
+demo_url: null
+video_url: https://www.youtube.com/embed/gWNJgLeBlTY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/613/526/datas/gallery.jpg
+categories:
+  - accessibility
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - sqlite
+  - swift
+builders:
+  - name: Manav Sharma
+  - name: Ayush Srivastava
+  - name: Abhi Ramtel
+  - name: Aryan Mudgal

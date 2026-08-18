@@ -1,0 +1,27 @@
+id: apex-accessibility-scanner-with-xrpl-escrow
+name: "Apex: Accessibility Scanner with XRPL Escrow"
+slug: apex-accessibility-scanner-with-xrpl-escrow
+tagline: Outcome-based accessibility scanning powered by XRPL escrow. Pay only when your audit
+  successfully delivers results.
+summary: "Apex: Accessibility Scanner with XRPL Escrow received the BFN: Samsung Galaxy Fit 3 award
+  at NSBE HACKS 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/samokw/apex
+demo_url: null
+video_url: https://www.youtube.com/embed/BbvLWu_84BI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/226/datas/gallery.jpg
+categories:
+  - fintech
+  - accessibility
+technologies:
+  - claude
+  - docker
+  - react
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Hamid Cassamali
+  - name: Chibuzor Okwusiuno
+  - name: Ashmit Sharma

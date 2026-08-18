@@ -1,0 +1,14 @@
+id: smadex-creative-lab-hackupc-2026
+project_id: smadex-creative-lab
+hackathon_id: hackupc-2026
+submission_url: https://devpost.com/software/smadex-creative-lab
+source:
+  platform: devpost
+  url: https://devpost.com/software/smadex-creative-lab
+awards:
+  - type: first-place
+    title: "[Smadex] 1st place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

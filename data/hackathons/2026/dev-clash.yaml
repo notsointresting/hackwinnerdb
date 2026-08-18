@@ -1,0 +1,14 @@
+id: dev-clash
+name: Dev Clash
+slug: dev-clash
+organizer: []
+year: 2026
+sources:
+  - https://dev-clash.devpost.com/
+  - https://dev-clash.devpost.com/project-gallery?filter=winner
+website_url: https://dev-clash.devpost.com/
+platform: devpost
+participant_count: 64
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Dev Clash. Imported automatically."

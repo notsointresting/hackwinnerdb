@@ -1,0 +1,26 @@
+id: internai-smart-ai-internship-finder-auto-apply-platform
+name: InternAI – Smart AI Internship Finder & Auto-Apply Platform
+slug: internai-smart-ai-internship-finder-auto-apply-platform
+tagline: InternAI is an AI copilot that discovers personalized internships, generates ATS-ready
+  resumes, and auto-applies to opportunities, helping students save time an
+summary: InternAI – Smart AI Internship Finder & Auto-Apply Platform received the Headphone award at
+  Hack Day Kanpur  in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/795/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - groq
+  - python
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Nishant Maurya

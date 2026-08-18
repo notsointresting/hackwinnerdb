@@ -1,0 +1,14 @@
+id: intel-canvas-map-everything-hackdays-prayagraj
+project_id: intel-canvas-map-everything
+hackathon_id: hackdays-prayagraj
+submission_url: https://devpost.com/software/intel-canvas-map-everything
+source:
+  platform: devpost
+  url: https://devpost.com/software/intel-canvas-map-everything
+awards:
+  - type: other
+    title: Stickers
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

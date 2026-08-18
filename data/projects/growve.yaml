@@ -1,0 +1,21 @@
+id: growve
+name: Growve
+slug: growve
+tagline: Small wins, growing into something
+summary: Growve received the Best Gators / Gainesville Focused (2 winners) award at 2026 UF
+  Design-a-thon by GUD in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MxSYmBfCEfk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/392/598/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: rrrachellee Lee
+  - name: Amanda Gilzean
+  - name: Anna Priore
+  - name: Alanna

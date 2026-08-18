@@ -1,0 +1,23 @@
+id: evidence-first-reviewer
+name: Evidence-First Reviewer
+slug: evidence-first-reviewer
+tagline: "Turns GitLab Orbit into an audit layer for AI code review: every claim backed by a
+  runnable graph query, returned rows, and an explicit evidence scope. Don't tr"
+summary: "Evidence-First Reviewer received the Contribute Track: 3 qualified Merged Merge Request
+  award at GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/IVe9T3XtJ34
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/762/295/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - graphql
+  - python
+  - sql
+builders:
+  - name: ChungYi Huang

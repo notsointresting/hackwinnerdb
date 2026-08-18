@@ -1,0 +1,14 @@
+id: calenai-build-with-ai-hack-days-diu
+project_id: calenai
+hackathon_id: build-with-ai-hack-days-diu
+submission_url: https://devpost.com/software/calenai
+source:
+  platform: devpost
+  url: https://devpost.com/software/calenai
+awards:
+  - type: other
+    title: 50$ Gift Card
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

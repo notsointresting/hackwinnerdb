@@ -1,0 +1,24 @@
+id: dave-dynamic-acronym-volleyball-evaluator
+name: DAVE - Dynamic Acronym Volleyball Evaluator
+slug: dave-dynamic-acronym-volleyball-evaluator
+tagline: Our smart volleyball arm sleeve tracks a player's movement and gives personalized feedback
+  to improve form, helping athletes train smarter and improve their gam
+summary: DAVE - Dynamic Acronym Volleyball Evaluator received the 1st Overall Hack award at
+  BloomKnights in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/its-agn/DAVE
+demo_url: null
+video_url: https://www.youtube.com/embed/GxVBeVEfEEY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/883/148/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: Aiden O'Connor
+  - name: Alex Nardi
+  - name: Brandon Stile
+  - name: Adam Brandt

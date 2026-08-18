@@ -1,0 +1,19 @@
+id: trackless-ai
+name: TrackLess AI
+slug: trackless-ai
+tagline: An ocean-themed habit tracker that visualizes daily progress and provides personalized
+  AI-powered habit reviews, helping users stay consistent through meaningfu
+summary: TrackLess AI received the Google AI Pro Postcard award at HackDays Delhi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/414/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+builders:
+  - name: Krish Kumar
+  - name: jatin sharma

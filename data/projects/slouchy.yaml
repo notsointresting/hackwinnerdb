@@ -1,0 +1,17 @@
+id: slouchy
+name: slouchy
+slug: slouchy
+tagline: A grumpy stick figure who lives in your macOS menu bar and asks if you're slouching.
+summary: slouchy received the 2nd Place award at CU Design-a-thon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Sns2zUisGN0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/821/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Mila Scholz

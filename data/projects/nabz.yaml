@@ -1,0 +1,19 @@
+id: nabz
+name: Nabz
+slug: nabz
+tagline: Nabz is an AI-powered platform that matches people with experiences, events and social
+  connections based on their mood and personal rhythm.
+summary: "Nabz received the Hack Day I Demoed Stickers award at HackCafe : May Edition in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/716/279/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - google-cloud
+builders:
+  - name: Aliyeva Jale

@@ -1,0 +1,32 @@
+id: floodsense-pk
+name: FloodSense-PK
+slug: floodsense-pk
+tagline: When monsoon clouds blind optical satellites, FloodSense-PK sees through them. SAR + AI +
+  live river data = early flood warnings for millions of Pakistanis.
+summary: FloodSense-PK received the First Place Overall award at Next Byte Hacks V3 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HAMZOO0/FloodSense-PK-RealTime-Flood-Detection-Sentinel1-UNet
+demo_url: null
+video_url: https://www.youtube.com/embed/iGv6QVicSSQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/895/266/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - cloud
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - groq
+  - mongodb
+  - opencv
+  - python
+  - pytorch
+  - react
+  - streamlit
+  - typescript
+builders:
+  - name: Hamza Sajid
+  - name: Ahmed Yar
+  - name: mohammad shees

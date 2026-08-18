@@ -1,0 +1,20 @@
+id: gesture-controlled-system
+name: Gesture Controlled System
+slug: gesture-controlled-system
+tagline: Gesture Controlled System is an interactive computer vision application that allows users
+  to control their mouse and system actions using hand gestures detected
+summary: Gesture Controlled System received the 3rd Place award at Built with Python Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/atharvamankar17/CS4Everyone-Hackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/m2vCyp_Gj8M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/781/301/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Atharva Mankar

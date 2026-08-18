@@ -1,0 +1,14 @@
+id: quark-cuhacking7
+project_id: quark
+hackathon_id: cuhacking7
+submission_url: https://devpost.com/software/quark-1k0gjs
+source:
+  platform: devpost
+  url: https://devpost.com/software/quark-1k0gjs
+awards:
+  - type: other
+    title: QNX Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

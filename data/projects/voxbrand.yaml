@@ -1,0 +1,22 @@
+id: voxbrand
+name: Voxbrand
+slug: voxbrand
+tagline: Voxbrand help small startup or new startup for make there website more aatractive acc to
+  the brand image we help them by providing color palate , and provide pr
+summary: Voxbrand received the Gift Cards award at HackDay Agra in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SagarGidwani1/Voxbrand
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/969/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - vercel
+builders:
+  - name: Sagar Gidwani
+  - name: Bharti Johari

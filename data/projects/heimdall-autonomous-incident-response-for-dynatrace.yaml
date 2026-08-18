@@ -1,0 +1,30 @@
+id: heimdall-autonomous-incident-response-for-dynatrace
+name: "Heimdall: Autonomous Incident Response for Dynatrace"
+slug: heimdall-autonomous-incident-response-for-dynatrace
+tagline: Autonomous SRE that watches your Dynatrace tenant 24/7, diagnoses production incidents from
+  real spans and Davis CoPilot, and opens a pull request before your p
+summary: "Heimdall: Autonomous Incident Response for Dynatrace received the Dynatrace - 3rd Place
+  award at Google Cloud Rapid Agent Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/dynatrace-oss/dynatrace-mcp
+demo_url: null
+video_url: https://www.youtube.com/embed/vv2nmSKtw8U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/757/718/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - google-cloud
+  - nextjs
+  - postgresql
+  - python
+  - react
+  - redis
+  - supabase
+  - typescript
+  - vertex-ai
+builders: []

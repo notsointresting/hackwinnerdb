@@ -1,0 +1,22 @@
+id: mr-stitch
+name: Mr.Stitch
+slug: mr-stitch
+tagline: Automates context-aware ad insertion into video content
+summary: Mr.Stitch received the Honorable mentions award at GenAI Dev Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ch1kim0n1/ghw-cloud26
+demo_url: null
+video_url: https://www.youtube.com/embed/E-44qOJ0xLM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/451/033/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies:
+  - go
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Vladislav K
+  - name: Monika Jaqeli

@@ -1,0 +1,14 @@
+id: toxguard-multilingual-toxic-comment-classifier-xlm-roberta-neurologic-26-global-nlp-datathon
+project_id: toxguard-multilingual-toxic-comment-classifier-xlm-roberta
+hackathon_id: neurologic-26-global-nlp-datathon
+submission_url: https://devpost.com/software/toxguard-multilingual-toxic-comment-classifier-xlm-roberta
+source:
+  platform: devpost
+  url: https://devpost.com/software/toxguard-multilingual-toxic-comment-classifier-xlm-roberta
+awards:
+  - type: first-place
+    title: First Runner-Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

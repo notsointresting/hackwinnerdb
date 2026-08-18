@@ -1,0 +1,25 @@
+id: engram
+name: Engram
+slug: engram
+tagline: "Engram: Your Life, Remembered!"
+summary: Engram received the 4th Grand Award - Civilization Impact Award award at Moonshot Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jaycodes18/moonshot-engram
+demo_url: null
+video_url: https://www.youtube.com/embed/Y43gKwSsUvw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/847/572/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Srijayan Pallerla
+  - name: Svarna Shukla
+  - name: Sriyansh Senapati
+  - name: Soham Nigade

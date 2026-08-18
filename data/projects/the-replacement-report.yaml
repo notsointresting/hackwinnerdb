@@ -1,0 +1,19 @@
+id: the-replacement-report
+name: The Replacement Report
+slug: the-replacement-report
+tagline: Who fills the gap, and who you can actually afford.
+summary: The Replacement Report received the Third Place Honors award at AQX Sports Analytics Data
+  Bowl 1.0 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/hungr1yuri/the-replacement-report
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/796/943/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - python
+  - typescript
+builders:
+  - name: hungr1yuri Kirm

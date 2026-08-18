@@ -1,0 +1,17 @@
+id: groundwork
+name: Groundwork
+slug: groundwork
+tagline: Designed for the year no one prepares you for.
+summary: Groundwork received the Best Overall (1st Place) award at 2026 UF Design-a-thon by GUD in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/9E27vS_4QEI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/391/903/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Angela Han

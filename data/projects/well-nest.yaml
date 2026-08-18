@@ -1,0 +1,22 @@
+id: well-nest
+name: Well Nest
+slug: well-nest
+tagline: WellNest helps students track mood, sleep, stress, hydration, and exercise, turning daily
+  check-ins into simple wellness insights, relaxation tools, and safer s
+summary: Well Nest received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anaykushwaha/WellNest.git
+demo_url: null
+video_url: https://www.youtube.com/embed/-Ip0qR5mdVo
+image_url: null
+categories:
+  - healthcare
+  - education
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Ariv Chaudhry
+  - name: Anay Kushwaha

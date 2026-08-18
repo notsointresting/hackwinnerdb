@@ -1,0 +1,14 @@
+id: stackphantom-horizon-stem-hackthon
+project_id: stackphantom
+hackathon_id: horizon-stem-hackthon
+submission_url: https://devpost.com/software/stackphantom
+source:
+  platform: devpost
+  url: https://devpost.com/software/stackphantom
+awards:
+  - type: other
+    title: GitHub Hack Days Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

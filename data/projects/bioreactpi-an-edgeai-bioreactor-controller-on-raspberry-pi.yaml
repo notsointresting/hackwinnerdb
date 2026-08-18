@@ -1,0 +1,30 @@
+id: bioreactpi-an-edgeai-bioreactor-controller-on-raspberry-pi
+name: "BioReactPi : An EdgeAI Bioreactor Controller on Raspberry Pi"
+slug: bioreactpi-an-edgeai-bioreactor-controller-on-raspberry-pi
+tagline: "BioReact-Pi: an edge-computing Raspberry Pi that reads live temperature, predicts
+  bacterial growth in real time, and streams it to a dashboard with camera, pH, "
+summary: "BioReactPi : An EdgeAI Bioreactor Controller on Raspberry Pi received the 3rd - Best
+  Overall Hack award at cuHacking7 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Anaskaysar/BioReact-Pi
+demo_url: null
+video_url: https://www.youtube.com/embed/ssAZ3tU2ldw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/596/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - elevenlabs
+  - fastapi
+  - flask
+  - javascript
+  - mongodb
+  - python
+  - raspberry-pi
+builders:
+  - name: Kaysarul Anas
+  - name: Arkesh Rupan
+  - name: Luis Hoi Fan
+  - name: anna ruth

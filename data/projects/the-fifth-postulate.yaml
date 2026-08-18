@@ -1,0 +1,28 @@
+id: the-fifth-postulate
+name: The Fifth Postulate
+slug: the-fifth-postulate
+tagline: An AI creative manager that shows YouTube creators their blind spots, stress-tests career
+  moves before they go public, and protects ideas with expiring cryptogr
+summary: The Fifth Postulate received the Best DIY Software award at SJHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rithika345/sjhacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/M8Zj8IdbhkI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/071/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - blockchain
+  - media
+technologies:
+  - anthropic
+  - claude
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+builders:
+  - name: Aparna Ganapathi Basavapatna
+  - name: Rithika Krishna Perugupalli

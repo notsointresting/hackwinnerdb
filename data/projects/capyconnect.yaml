@@ -1,0 +1,24 @@
+id: capyconnect
+name: CapyConnect
+slug: capyconnect
+tagline: Everyone at some point needs to do an interview to work. Let's make interviews work for everyone.
+summary: CapyConnect received the Improving Access to the Tech Field award at VenusHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zochen/VenusHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/l7DWmKov6Jg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/107/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Hailey Chen
+  - name: Jasmine Houde
+  - name: Anna Chen
+  - name: Zoey Chen

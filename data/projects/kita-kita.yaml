@@ -1,0 +1,28 @@
+id: kita-kita
+name: Kita-Kita
+slug: kita-kita
+tagline: Kita-Kita is a Real-Time Communication and Visual Translator for Deaf and Mute Filipinos
+summary: "Kita-Kita received the Track Winner award at  InnOlympics 2026: To Let Filipinos Dream
+  Without Compromise in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/silhou-00/InnOlympics_iTeam
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/607/500/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - dart
+  - flutter
+  - gemini
+  - kotlin
+  - python
+  - sqlite
+  - tensorflow
+builders:
+  - name: Justin Mark D. Luzano
+  - name: John Richie A. Campo
+  - name: Lance Josh M. Corpuz
+  - name: Mathew Angelo T. Balanlay

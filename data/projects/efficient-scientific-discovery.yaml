@@ -1,0 +1,23 @@
+id: efficient-scientific-discovery
+name: Efficient Scientific Discovery
+slug: efficient-scientific-discovery
+tagline: Evaluate whether agents can identify hidden scientific laws by selecting informative
+  experiments under budget and observation noise.
+summary: Efficient Scientific Discovery received the Futuristic Track Winner award at SWECCathon
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/veryyynice/sweccathon-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/727/360/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Tom Strzyz
+  - name: Muhammadbaqer Al-Ali

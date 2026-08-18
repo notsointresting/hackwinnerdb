@@ -1,0 +1,14 @@
+id: no-route-to-host-kiro-buildfest-2026-singapore
+project_id: no-route-to-host
+hackathon_id: kiro-buildfest-2026-singapore
+submission_url: https://devpost.com/software/no-route-to-host
+source:
+  platform: devpost
+  url: https://devpost.com/software/no-route-to-host
+awards:
+  - type: category-winner
+    title: Best Kiro Power-User
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

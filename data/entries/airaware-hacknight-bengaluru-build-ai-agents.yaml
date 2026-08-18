@@ -1,0 +1,14 @@
+id: airaware-hacknight-bengaluru-build-ai-agents
+project_id: airaware
+hackathon_id: hacknight-bengaluru-build-ai-agents
+submission_url: https://devpost.com/software/airaware-uvqcg0
+source:
+  platform: devpost
+  url: https://devpost.com/software/airaware-uvqcg0
+awards:
+  - type: winner
+    title: Winner - Air Quality & Public Health Companion
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: hunterhacks
+name: HunterHacks
+slug: hunterhacks
+organizer: []
+year: 2026
+sources:
+  - https://hunterhacks-battle-of-boros.devpost.com/
+  - https://hunterhacks-battle-of-boros.devpost.com/project-gallery?filter=winner
+website_url: https://hunterhacks-battle-of-boros.devpost.com/
+platform: devpost
+participant_count: 90
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HunterHacks. Imported automatically."

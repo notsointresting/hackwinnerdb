@@ -1,0 +1,14 @@
+id: rebound-hackhealth-2026
+project_id: rebound
+hackathon_id: hackhealth-2026
+submission_url: https://devpost.com/software/rebound-l42rzs
+source:
+  platform: devpost
+  url: https://devpost.com/software/rebound-l42rzs
+awards:
+  - type: other
+    title: AIR Health Internship
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

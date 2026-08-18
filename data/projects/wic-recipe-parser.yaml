@@ -1,0 +1,22 @@
+id: wic-recipe-parser
+name: WIC Recipe Parser
+slug: wic-recipe-parser
+tagline: WIC Recipe Parser uses AI and computational linguistics to transform any recipe into a
+  WICeligible version, helping millions of lowincome families cook meals us
+summary: WIC Recipe Parser received the Top 10 Teams award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mona1010-7/-wic-recipe-parser
+demo_url: null
+video_url: https://www.youtube.com/embed/8Hut6rdHJqw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/314/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - openai
+  - python
+  - streamlit
+builders:
+  - name: Mona Akhtar

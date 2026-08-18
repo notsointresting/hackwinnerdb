@@ -1,0 +1,19 @@
+id: neuro-glove
+name: Neuro Glove
+slug: neuro-glove
+tagline: Neuro Glove is an integrated edge solution designed to assist in diagnosing neurological or
+  motor disorders, including Parkinson's and carpal tunnel.
+summary: "Neuro Glove received the Best Hardware Hack award at HackDuke: Code For Good 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/-tI08q86h8o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/479/850/datas/gallery.jpg
+categories:
+  - social-impact
+  - creative-tools
+technologies: []
+builders:
+  - name: Jin Yoo
+  - name: Alex Chindris

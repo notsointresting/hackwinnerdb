@@ -1,0 +1,19 @@
+id: ourobouros
+name: Ourobouros
+slug: ourobouros
+tagline: best snake ever!
+summary: Ourobouros received the Third Place award at BattleSnake 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+  - rust
+builders:
+  - name: Dheeraj Motupalli
+  - name: Krish Dholakia

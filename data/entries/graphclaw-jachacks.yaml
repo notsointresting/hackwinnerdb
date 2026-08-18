@@ -1,0 +1,16 @@
+id: graphclaw-jachacks
+project_id: graphclaw
+hackathon_id: jachacks
+submission_url: https://devpost.com/software/project-e54qlw07j9i1
+source:
+  platform: devpost
+  url: https://devpost.com/software/project-e54qlw07j9i1
+awards:
+  - type: first-place
+    title: Agentic AI Track — 1st Place
+  - type: category-winner
+    title: Best use of Base44
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

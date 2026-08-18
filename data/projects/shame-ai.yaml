@@ -1,0 +1,22 @@
+id: shame-ai
+name: Shame.ai
+slug: shame-ai
+tagline: The Instagram AI that humiliates you and your friends.
+summary: Shame.ai received the technical duh award at Stupid Ideas Hackathon (Toronto W26) in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/michaelmazilu/shame.ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/752/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Adam Hjouj
+  - name: Michael Mazilu
+  - name: Nathan Yan
+  - name: Rupert Kahng

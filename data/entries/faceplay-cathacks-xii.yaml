@@ -1,0 +1,14 @@
+id: faceplay-cathacks-xii
+project_id: faceplay
+hackathon_id: cathacks-xii
+submission_url: https://devpost.com/software/faceplay-w5tjkh
+source:
+  platform: devpost
+  url: https://devpost.com/software/faceplay-w5tjkh
+awards:
+  - type: first-place
+    title: Best Buckaroo (Best First Time Hack)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

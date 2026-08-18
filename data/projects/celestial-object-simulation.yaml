@@ -1,0 +1,20 @@
+id: celestial-object-simulation
+name: Celestial Object Simulation
+slug: celestial-object-simulation
+tagline: Various physics simulations of celestial bodies.
+summary: Celestial Object Simulation received the Participant award at Project Stellar in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/normanhnchen/Celestial-Body-Simulator
+demo_url: null
+video_url: https://www.youtube.com/embed/BgqA1W2UqNg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/640/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - gemini
+  - python
+builders:
+  - name: Panda 525
+  - name: Norman Chen

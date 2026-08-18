@@ -1,0 +1,14 @@
+id: housekey-hackudc-2026
+project_id: housekey
+hackathon_id: hackudc-2026
+submission_url: https://devpost.com/software/housekey
+source:
+  platform: devpost
+  url: https://devpost.com/software/housekey
+awards:
+  - type: other
+    title: GRADIANT
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

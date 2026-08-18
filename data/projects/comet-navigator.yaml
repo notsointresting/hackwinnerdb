@@ -1,0 +1,26 @@
+id: comet-navigator
+name: Comet Navigator
+slug: comet-navigator
+tagline: Comet Navigator is a student's all-in-one planner that automatically schedules their day.
+  It fills open gaps with smart tasks, so students stay productive witho
+summary: Comet Navigator received the [SPONSOR] Figma award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NissanArmada/CometNavigator
+demo_url: null
+video_url: https://www.youtube.com/embed/qhjHT0fDWFc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/436/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: Ethan Collins
+  - name: Anirudh Devatha
+  - name: Tom Pham
+  - name: Atharva Mishra

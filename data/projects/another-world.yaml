@@ -1,0 +1,18 @@
+id: another-world
+name: Another World
+slug: another-world
+tagline: Another World is an open-world anime RPG inspired by AdventureQuest, Path of Exile, and
+  Black Desert Online. Explore, complete quests, defeat monsters, earn loo
+summary: Another World received the Best Lifestyle & Game award at Build with MeDo Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/569/733/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Dvil Sean

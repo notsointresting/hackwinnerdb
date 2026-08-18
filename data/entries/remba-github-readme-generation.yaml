@@ -1,0 +1,14 @@
+id: remba-github-readme-generation
+project_id: remba
+hackathon_id: github-readme-generation
+submission_url: https://devpost.com/software/remba
+source:
+  platform: devpost
+  url: https://devpost.com/software/remba
+awards:
+  - type: honorable-mention
+    title: Honorable mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

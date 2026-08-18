@@ -1,0 +1,14 @@
+id: vitreous-cmd-f-2026
+project_id: vitreous
+hackathon_id: cmd-f-2026
+submission_url: https://devpost.com/software/vitreous-n4skuo
+source:
+  platform: devpost
+  url: https://devpost.com/software/vitreous-n4skuo
+awards:
+  - type: other
+    title: UBC CS Project Hub
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

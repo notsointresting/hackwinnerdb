@@ -1,0 +1,25 @@
+id: foodmatchers-by-the-pantry
+name: FoodMatchers by The Pantry
+slug: foodmatchers-by-the-pantry
+tagline: FoodMatchers by The Pantry gives UC Davis students free access to pantry ingredients and
+  personalized recipes, no account needed, no questions asked.
+summary: FoodMatchers by The Pantry received the Best Design w Code award at SacHacks VII in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GabeMerc/UCDPantry_Itemizer
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/362/002/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: WarmestDoughnut Kozintsev
+  - name: GabeMerc Mercado

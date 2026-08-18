@@ -1,0 +1,24 @@
+id: cura-plus-sentinel
+name: Cura+ sentinel
+slug: cura-plus-sentinel
+tagline: Cura+ Sentinel uses AI to analyze symptoms and images, guide users to healthcare, and
+  identify unusual community health patterns early.
+summary: "Cura+ sentinel received the Best App Deployed on Google Cloud award at AI for Campus:
+  Build with MLH in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/_rVdA66LVPQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/737/712/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - react
+  - typescript
+builders:
+  - name: David Kalunga
+  - name: Ambroise Bukaraba

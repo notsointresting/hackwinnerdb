@@ -1,0 +1,22 @@
+id: setmind-by-karaoke-vision
+name: SETMIND by karaoke.vision
+slug: setmind-by-karaoke-vision
+tagline: AI-powered set preparation for DJs. Intelligent track organization and seamless transition
+  planning. Built to help artists perform with more creativity and less
+summary: SETMIND by karaoke.vision received the Second Place award at Hoobit Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Bhargav072007/SETMIND
+demo_url: null
+video_url: https://www.youtube.com/embed/v4fAETmxMKs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/744/761/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Bhargav Malluvajhula
+  - name: Tanush Shah

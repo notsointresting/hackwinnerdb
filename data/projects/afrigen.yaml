@@ -1,0 +1,23 @@
+id: afrigen
+name: AfriGen
+slug: afrigen
+tagline: African ML models are trained on the wrong data. AfriGen fixes that - an AI-powered
+  platform to generate, govern, and validate datasets aligned with real WHO an
+summary: "AfriGen received the 1st place Overall award at Girls in STEM: AI for Social Good
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Valentinetemi/afrigen-solo
+demo_url: null
+video_url: https://www.youtube.com/embed/nggaI87IDts
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/144/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - tailwind-css
+  - typescript
+builders:
+  - name: Temiloluwa Valentine

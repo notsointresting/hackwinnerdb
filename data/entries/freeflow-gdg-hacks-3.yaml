@@ -1,0 +1,14 @@
+id: freeflow-gdg-hacks-3
+project_id: freeflow
+hackathon_id: gdg-hacks-3
+submission_url: https://devpost.com/software/freeflow-qc5ul0
+source:
+  platform: devpost
+  url: https://devpost.com/software/freeflow-qc5ul0
+awards:
+  - type: third-place
+    title: 3rd place overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

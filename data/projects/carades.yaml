@@ -1,0 +1,23 @@
+id: carades
+name: Carades
+slug: carades
+tagline: Looking to fire up your brain cells? Introducing charades with a twist - code your
+  favourite coding concepts with your friends and see who can guess the fastest
+summary: Carades received the 1st Place Winner (Worth up to 3388 CAD) award at cmd-f 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/457/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - firebase
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: An Trinh
+  - name: Joy Li
+  - name: Daniela Frade Noguez

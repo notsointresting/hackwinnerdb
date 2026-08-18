@@ -1,0 +1,14 @@
+id: hydrawav3-catalyst-globehack
+project_id: hydrawav3-catalyst
+hackathon_id: globehack
+submission_url: https://devpost.com/software/hydrawav3-catalyst
+source:
+  platform: devpost
+  url: https://devpost.com/software/hydrawav3-catalyst
+awards:
+  - type: other
+    title: Hydrawav3
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

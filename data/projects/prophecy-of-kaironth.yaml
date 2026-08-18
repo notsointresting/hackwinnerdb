@@ -1,0 +1,20 @@
+id: prophecy-of-kaironth
+name: Prophecy of Kaironth
+slug: prophecy-of-kaironth
+tagline: There's a prophecy, a god, and a dragon. Your destiny is set in stone. Or is it?
+summary: Prophecy of Kaironth received the 3rd Place award at The Cambridge Game Jam 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/396/084/datas/medium.png
+categories:
+  - gaming
+  - media
+technologies:
+  - python
+builders:
+  - name: Andy Wu
+  - name: Enxgmatic
+  - name: Zoie T

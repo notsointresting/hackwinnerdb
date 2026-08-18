@@ -1,0 +1,21 @@
+id: cancer-detector-for-a-cancer-free-world
+name: Cancer Detector for a Cancer Free World
+slug: cancer-detector-for-a-cancer-free-world
+tagline: Cancer cases surface with a rate of about 20-25 million cases per annum, claiming 10-15
+  millions lives annually with no mercy. Hence is the need for early detec
+summary: Cancer Detector for a Cancer Free World received the Best Use of the Google Gemini API
+  award at Hack Days in Bhopal in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/adityagolden2004/Cancer-Detector-for-a-Cancer-Free-World
+demo_url: null
+video_url: https://www.youtube.com/embed/Wmgu7WvFYqE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Aditya Kumar

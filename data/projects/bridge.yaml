@@ -1,0 +1,28 @@
+id: bridge
+name: Bridge
+slug: bridge
+tagline: An evidence-to-action care agent for AAC (Augmentative and Alternative Communication) families.
+summary: Bridge received the Best use of Ghost award at Ship to Prod - Agentic Engineering Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ujwalanettam15/bridge
+demo_url: null
+video_url: https://www.youtube.com/embed/hkk5tnEaF_Y
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - cloudflare
+  - docker
+  - fastapi
+  - javascript
+  - opencv
+  - postgresql
+  - python
+  - react
+  - redis
+builders:
+  - name: neelb1 Billimoria
+  - name: Ujwala Nettam

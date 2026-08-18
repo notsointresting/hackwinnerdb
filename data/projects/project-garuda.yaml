@@ -1,0 +1,26 @@
+id: project-garuda
+name: Project Garuda
+slug: project-garuda
+tagline: Basada en el IoT (Internet de las Cosas) y diseñada específicamente para la Barcelona del
+  futuro, el objetivo principal es monitorizar, gestionar y equilibrar e
+summary: Project Garuda received the 2nd price - Qualcomm Challenge award at InterHackBCN in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ivangarciaberral-hue/Garuda
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/277/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - arduino
+  - claude
+  - elevenlabs
+  - python
+builders:
+  - name: Ivan García Berral
+  - name: Marc Montaner
+  - name: Federico Pompeo Teva
+  - name: Pablo Ruiz

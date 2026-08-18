@@ -1,0 +1,14 @@
+id: revly-bagelhacks-ii
+project_id: revly
+hackathon_id: bagelhacks-ii
+submission_url: https://devpost.com/software/revly
+source:
+  platform: devpost
+  url: https://devpost.com/software/revly
+awards:
+  - type: other
+    title: $300
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

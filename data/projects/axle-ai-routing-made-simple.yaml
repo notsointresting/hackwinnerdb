@@ -1,0 +1,24 @@
+id: axle-ai-routing-made-simple
+name: Axle AI | Routing Made Simple
+slug: axle-ai-routing-made-simple
+tagline: "Dispatcher operating system for mainland US route compliance, fleet visibility, urgent
+  actions, live trip tracking, smart load decisions, proactive alerts, and "
+summary: Axle AI | Routing Made Simple received the Trucker Path award at GlobeHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hackathon-asu/TruckerPath-Slides/
+demo_url: null
+video_url: https://www.youtube.com/embed/uqtM6XExPEg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/235/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Abhinav Ranish
+  - name: Siddharth Sanjay
+  - name: neeharikamandadapu Mandadapu

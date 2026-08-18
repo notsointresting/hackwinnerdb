@@ -1,0 +1,14 @@
+id: futureos-jachacks-spring
+project_id: futureos
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/futureos-f03dgs
+source:
+  platform: devpost
+  url: https://devpost.com/software/futureos-f03dgs
+awards:
+  - type: category-winner
+    title: Best Use of Jac
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

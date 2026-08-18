@@ -1,0 +1,28 @@
+id: blackstar
+name: Blackstar
+slug: blackstar
+tagline: "BlackStar stress-tests hospital power grids before disaster strikes: simulating cascading
+  failures, protecting critical care, and turning every outage into an a"
+summary: Blackstar received the Special Awards Best JacHammer award at JacHacks SF in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/N1tu-Mar/Blackstar
+demo_url: null
+video_url: https://www.youtube.com/embed/hIN0NQ0nIj8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/580/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - claude
+  - docker
+  - javascript
+  - python
+  - react
+  - vercel
+builders:
+  - name: Nityanth  Maramreddy
+  - name: Ryan Rana
+  - name: Azra Bano
+  - name: AyaanFaisal F

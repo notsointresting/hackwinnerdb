@@ -1,0 +1,14 @@
+id: spendly-hunterhacks
+project_id: spendly
+hackathon_id: hunterhacks
+submission_url: https://devpost.com/software/spendly-v9t8b1
+source:
+  platform: devpost
+  url: https://devpost.com/software/spendly-v9t8b1
+awards:
+  - type: track-winner
+    title: "BONUS TRACK: Midtown — Careers & Connections"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

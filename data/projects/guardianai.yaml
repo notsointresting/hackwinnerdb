@@ -1,0 +1,20 @@
+id: guardianai
+name: GuardianAI
+slug: guardianai
+tagline: Predicting NBA player injury risk and optimizing game-day rest using explainable AI.
+summary: GuardianAI received the Honorable Mentions award at AQX Sports Analytics Data Bowl 1.0 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - gaming
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: arun Mahajan
+  - name: Sumedh Chandanshive

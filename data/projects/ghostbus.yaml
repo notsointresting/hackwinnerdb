@@ -1,0 +1,21 @@
+id: ghostbus
+name: GhostBus
+slug: ghostbus
+tagline: "The transit app that shows its evidence: GhostBus tracks the whole GTA and tells you the
+  odds your bus actually comes."
+summary: GhostBus received the Best Video award at RLC Hacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Goofturtles/ghostbus
+demo_url: null
+video_url: https://www.youtube.com/embed/xTjjHyFOfZ8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/056/156/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - react
+builders:
+  - name: arjun sharma

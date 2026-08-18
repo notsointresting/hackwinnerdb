@@ -1,0 +1,14 @@
+id: wildcat-arcade-wildhacks
+project_id: wildcat-arcade
+hackathon_id: wildhacks
+submission_url: https://devpost.com/software/game-k5v89x
+source:
+  platform: devpost
+  url: https://devpost.com/software/game-k5v89x
+awards:
+  - type: grand-prize
+    title: Grand Prize - First Place Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

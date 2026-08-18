@@ -1,0 +1,14 @@
+id: 180-decisions-mindhack-2026
+project_id: 180-decisions
+hackathon_id: mindhack-2026
+submission_url: https://devpost.com/software/180-decisions
+source:
+  platform: devpost
+  url: https://devpost.com/software/180-decisions
+awards:
+  - type: other
+    title: Social Neuropsychological Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

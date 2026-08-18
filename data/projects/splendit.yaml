@@ -1,0 +1,23 @@
+id: splendit
+name: SplendIT
+slug: splendit
+tagline: IT Finance Tracker that allows for manual data input or taking input from a excel file.
+  Shows the forecast for the next 5 years based on previous spending.
+summary: SplendIT received the 5th Place award at Southwest MN Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NoahBlodgett/SplendIT
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - fintech
+  - social-impact
+technologies:
+  - django
+  - python
+builders:
+  - name: Noah Blodgett
+  - name: Hemi Woertink
+  - name: Seeton Erickson

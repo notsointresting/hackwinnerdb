@@ -1,0 +1,14 @@
+id: trustguard-ai-hack-days-in-bhopal-2-o
+project_id: trustguard-ai
+hackathon_id: hack-days-in-bhopal-2-o
+submission_url: https://devpost.com/software/trustguard-ai-v6lt2b
+source:
+  platform: devpost
+  url: https://devpost.com/software/trustguard-ai-v6lt2b
+awards:
+  - type: other
+    title: Innovation Excellence Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

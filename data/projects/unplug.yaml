@@ -1,0 +1,21 @@
+id: unplug
+name: UnPlug
+slug: unplug
+tagline: "Burnout builds quietly. Unplug catches it early, with daily check-ins workers actually
+  trust, and anonymised team health insights for managers. Privacy isn't a "
+summary: UnPlug received the Prosa challenge winner award at Hack Esbjerg in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/patrickhansen12/unplug-api
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/473/331/datas/gallery.jpg
+categories:
+  - healthcare
+  - cybersecurity
+technologies: []
+builders:
+  - name: Patrick Hansen
+  - name: Nelson Veríssimo
+  - name: Victor Maximino
+  - name: Saroj Lamichhane

@@ -1,0 +1,14 @@
+id: calorie-advisor-hack-days-in-bansal
+project_id: calorie-advisor
+hackathon_id: hack-days-in-bansal
+submission_url: https://devpost.com/software/calorie_advisor-d61qxu
+source:
+  platform: devpost
+  url: https://devpost.com/software/calorie_advisor-d61qxu
+awards:
+  - type: first-place
+    title: First Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

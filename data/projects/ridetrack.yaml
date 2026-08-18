@@ -1,0 +1,18 @@
+id: ridetrack
+name: ridetrack
+slug: ridetrack
+tagline: a ride track that can track the location off the ride and can give the user notification
+  where is it and also can seet booking and trafic jam and so on it shoud
+summary: ridetrack received the Build with AI Swags award at Build with AI Hack Days @UITS in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: nafisa juie

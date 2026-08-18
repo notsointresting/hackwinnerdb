@@ -1,0 +1,18 @@
+id: scribblestostudies
+name: ScribblesToStudies
+slug: scribblestostudies
+tagline: Convert your messy notes into organized study guides
+summary: ScribblesToStudies received the 3d pen award at HackPHHS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NinjazGY2497/ScribblesToStudies/
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Gyan Talari
+  - name: Ramit Jadli

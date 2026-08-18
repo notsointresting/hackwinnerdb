@@ -1,0 +1,20 @@
+id: gameiq
+name: GameIQ
+slug: gameiq
+tagline: An NBA analytics dashboard turning real box-score data into player comparisons, MVP
+  rankings, hidden-gem finds, and rule-based scouting reports for coaches, sco
+summary: GameIQ received the Honorable Mentions award at AQX Sports Analytics Data Bowl 2.0 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/amanjangrawork-lab/gameiq
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - gaming
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Aman Jangra
+  - name: Aakash .

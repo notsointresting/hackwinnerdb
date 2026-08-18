@@ -1,0 +1,14 @@
+id: world-cup-monte-carlo-2026-bracket-simulator-aqx-sports-analytics-data-bowl-2-0
+project_id: world-cup-monte-carlo-2026-bracket-simulator
+hackathon_id: aqx-sports-analytics-data-bowl-2-0
+submission_url: https://devpost.com/software/world-cup-monte-carlo-2026-bracket-simulator
+source:
+  platform: devpost
+  url: https://devpost.com/software/world-cup-monte-carlo-2026-bracket-simulator
+awards:
+  - type: first-place
+    title: First Place Honors
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

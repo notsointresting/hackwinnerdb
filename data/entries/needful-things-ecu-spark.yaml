@@ -1,0 +1,14 @@
+id: needful-things-ecu-spark
+project_id: needful-things
+hackathon_id: ecu-spark
+submission_url: https://devpost.com/software/needful-things-ut3svm
+source:
+  platform: devpost
+  url: https://devpost.com/software/needful-things-ut3svm
+awards:
+  - type: first-place
+    title: 1st Place AWS Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

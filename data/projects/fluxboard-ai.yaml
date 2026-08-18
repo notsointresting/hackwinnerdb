@@ -1,0 +1,22 @@
+id: fluxboard-ai
+name: Fluxboard.AI
+slug: fluxboard-ai
+tagline: "Generative AI meets real-time physics: The future of breadboarding"
+summary: Fluxboard.AI received the MLH + GEMINI SWAG award at PIXEL.GEMINI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/StarDust-Git-Code/FLUXBOARD.AI_PUBLIC
+demo_url: null
+video_url: https://www.youtube.com/embed/CFtDzc-3oNA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/330/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - tailwind-css
+builders:
+  - name: Irshad  Ahamed
+  - name: Hariharasudan A
+  - name: Lathikka Gani M C

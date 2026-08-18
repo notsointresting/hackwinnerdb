@@ -1,0 +1,14 @@
+id: skinsense-hack-days-cuet
+project_id: skinsense
+hackathon_id: hack-days-cuet
+submission_url: https://devpost.com/software/skinsense-sq372g
+source:
+  platform: devpost
+  url: https://devpost.com/software/skinsense-sq372g
+awards:
+  - type: other
+    title: Codex $100 Credit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

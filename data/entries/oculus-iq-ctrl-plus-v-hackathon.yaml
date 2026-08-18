@@ -1,0 +1,18 @@
+id: oculus-iq-ctrl-plus-v-hackathon
+project_id: oculus-iq
+hackathon_id: ctrl-plus-v-hackathon
+submission_url: https://devpost.com/software/oculus-iq-3e6zpa
+source:
+  platform: devpost
+  url: https://devpost.com/software/oculus-iq-3e6zpa
+awards:
+  - type: finalist
+    title: Top 100 Finalist Award
+  - type: third-place
+    title: Third place - Impact Award
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

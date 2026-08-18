@@ -1,0 +1,24 @@
+id: tunjuk
+name: Tunjuk
+slug: tunjuk
+tagline: "Tunjuk is an open-source web AI screen tutor. Sign in with Chutes, share any window, ask
+  anything. Every inference call hits your own wallet, Tunjuk holds zero "
+summary: Tunjuk received the University - 1st Place award at Chutes Hack Malaysia 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FarhanDulvi/tunjuk
+demo_url: null
+video_url: https://www.youtube.com/embed/xC_MoxtoS_A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/853/321/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Farhan Dulvi

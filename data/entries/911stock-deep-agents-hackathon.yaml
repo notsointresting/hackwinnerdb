@@ -1,0 +1,14 @@
+id: 911stock-deep-agents-hackathon
+project_id: 911stock
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/911stock
+source:
+  platform: devpost
+  url: https://devpost.com/software/911stock
+awards:
+  - type: category-winner
+    title: "Truefoundry: Best use of AI Gateway"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: splunk-ucc-ai-app-builder-app-dev-made-for-everyone-splunk-agentic-ops-hackathon
+project_id: splunk-ucc-ai-app-builder-app-dev-made-for-everyone
+hackathon_id: splunk-agentic-ops-hackathon
+submission_url: https://devpost.com/software/splunk-ucc-ai-app-builder-app-dev-made-for-everyone
+source:
+  platform: devpost
+  url: https://devpost.com/software/splunk-ucc-ai-app-builder-app-dev-made-for-everyone
+awards:
+  - type: category-winner
+    title: Best Use of Splunk Developer Tools
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

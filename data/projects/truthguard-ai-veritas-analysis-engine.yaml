@@ -1,0 +1,23 @@
+id: truthguard-ai-veritas-analysis-engine
+name: TruthGuard AI — Veritas Analysis Engine
+slug: truthguard-ai-veritas-analysis-engine
+tagline: AI-powered misinformation detection and digital forensics platform that analyzes
+  credibility, bias, psychological manipulation, and timeline inconsistencies wit
+summary: TruthGuard AI — Veritas Analysis Engine received the Honorable Mention award at Academia EU
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Shital24650/TruthGuard_AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/119/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Shital Parab

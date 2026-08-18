@@ -1,0 +1,22 @@
+id: remy-s-recipes
+name: Remy's Recipes
+slug: remy-s-recipes
+tagline: Do you struggle to find authentic and home-made recipes from your childhood? Well, you're
+  not alone!
+summary: Remy's Recipes received the Best Track 2 award at Codebrew 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wammiwi/chefremy
+demo_url: null
+video_url: https://www.youtube.com/embed/jwah3ZTUmAE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/552/474/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Kev T
+  - name: nnxcd Alexandra
+  - name: Potatochip-mj Wang
+  - name: Rachel Chen

@@ -1,0 +1,21 @@
+id: eyecode
+name: EyeCode
+slug: eyecode
+tagline: Multilingual voice-to-code assistant for visually impaired developers.
+summary: EyeCode received the 3rd Place Overall award at Iris Hacks IV in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yusupov-Muhammadyusuf/eyecode
+demo_url: null
+video_url: https://www.youtube.com/embed/p3zHSAKjJqI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/074/209/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - groq
+  - javascript
+  - python
+builders:
+  - name: Muhammadyusuf Yusupov

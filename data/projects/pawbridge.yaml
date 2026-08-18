@@ -1,0 +1,25 @@
+id: pawbridge
+name: PawBridge
+slug: pawbridge
+tagline: 96% of pet owners have no insurance. PawBridge is the AI app that helps them find
+  affordable care, track pet health, and never face a vet bill alone.
+summary: PawBridge received the Monitors award at Product@TAMU Ideathon Spring 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/rusrHYiqc-s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/581/680/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - creative-tools
+technologies:
+  - claude
+  - figma
+  - gemini
+builders:
+  - name: Isabella Kincaid
+  - name: Mackenzie Gunnink
+  - name: Hans Santos
+  - name: Hasnain Rizvi

@@ -1,0 +1,14 @@
+id: jayhawkers-against-hackers-hackku26
+project_id: jayhawkers-against-hackers
+hackathon_id: hackku26
+submission_url: https://devpost.com/software/jayhawkers-against-hackers
+source:
+  platform: devpost
+  url: https://devpost.com/software/jayhawkers-against-hackers
+awards:
+  - type: category-winner
+    title: Best Beginner Project (College/University)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

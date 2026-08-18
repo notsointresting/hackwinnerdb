@@ -1,0 +1,20 @@
+id: national-park-guardian-ai-2c
+name: National Park Guardian AI | 2C
+slug: national-park-guardian-ai-2c
+tagline: This is National Park Guardian AI, a web app that seeks to raise awareness for wildlife
+  conservation through an AI-empowered interactive map and dashboard.
+summary: National Park Guardian AI | 2C received the 1st Place award at WildHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/oliviajinwang/emp_hackfest/tree/main/wildfest2026
+demo_url: null
+video_url: https://www.youtube.com/embed/OkV3xOn7RiI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/079/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Olivia Wang
+  - name: Yutang X.

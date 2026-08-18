@@ -1,0 +1,14 @@
+id: gitlab-transcend-hackathon
+name: GitLab Transcend Hackathon
+slug: gitlab-transcend-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://gitlab-transcend.devpost.com/
+  - https://gitlab-transcend.devpost.com/project-gallery?filter=winner
+website_url: https://gitlab-transcend.devpost.com/
+platform: devpost
+participant_count: 1562
+prize_pool: 20000
+currency: USD
+description: "Devpost hackathon: GitLab Transcend Hackathon. Imported automatically."

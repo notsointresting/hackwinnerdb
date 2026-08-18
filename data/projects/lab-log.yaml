@@ -1,0 +1,27 @@
+id: lab-log
+name: Lab Log
+slug: lab-log
+tagline: LabLog is an AI-powered laboratory notebook that eliminates the friction of documenting
+  experiments in real time.
+summary: Lab Log received the Sideshift x HackTech - Cash Prize + Interview award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3H7VmEGk6hc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/618/421/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - gemini
+  - javascript
+  - typescript
+builders:
+  - name: Matthew Luk
+  - name: Siddhartha Shendrikar
+  - name: Rishi Bhargava
+  - name: Jethro Chu

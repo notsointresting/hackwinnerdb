@@ -1,0 +1,16 @@
+id: votewise-hackbelfast
+project_id: votewise
+hackathon_id: hackbelfast
+submission_url: https://devpost.com/software/votewise-clsg04
+source:
+  platform: devpost
+  url: https://devpost.com/software/votewise-clsg04
+awards:
+  - type: category-winner
+    title: Best Use Of Solana - SuperTeam Ireland
+  - type: category-winner
+    title: Best Startup Potential - TwinPath Ventures
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

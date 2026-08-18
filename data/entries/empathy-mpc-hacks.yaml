@@ -1,0 +1,14 @@
+id: empathy-mpc-hacks
+project_id: empathy
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/empathy-f7klo8
+source:
+  platform: devpost
+  url: https://devpost.com/software/empathy-f7klo8
+awards:
+  - type: other
+    title: Dialogue Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

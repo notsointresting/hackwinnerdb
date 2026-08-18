@@ -1,0 +1,19 @@
+id: asclepius-hackprinceton-spring-26
+project_id: asclepius
+hackathon_id: hackprinceton-spring-26
+submission_url: https://devpost.com/software/asclepius-4rthsu
+source:
+  platform: devpost
+  url: https://devpost.com/software/asclepius-4rthsu
+awards:
+  - type: category-winner
+    title: Best Overall Hack
+  - type: first-place
+    title: AI Research and Alignment Environments by d_model [$500 for 1st, $250 for 2nd, $125 for 3rd
+      (Amazon gift cards)]
+  - type: other
+    title: AI & Tech for Clinical Trials by Regeneron [Cash Prizes]
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

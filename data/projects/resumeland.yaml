@@ -1,0 +1,22 @@
+id: resumeland
+name: ResumeLand
+slug: resumeland
+tagline: Gamification of Job Application & Candidate Screening Process to decrease the emotional
+  distress caused to both applicants and recruiters
+summary: ResumeLand received the MLH - Best Use of Solana award at SproutGT in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/SQ75nhaokhw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/549/697/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - gemini
+  - mongodb
+  - solana
+  - typescript
+builders:
+  - name: Cheerful Chipmunk
+  - name: Sai Gayathri Prakash

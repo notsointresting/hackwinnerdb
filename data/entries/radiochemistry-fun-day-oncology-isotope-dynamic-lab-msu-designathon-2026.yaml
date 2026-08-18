@@ -1,0 +1,14 @@
+id: radiochemistry-fun-day-oncology-isotope-dynamic-lab-msu-designathon-2026
+project_id: radiochemistry-fun-day-oncology-isotope-dynamic-lab
+hackathon_id: msu-designathon-2026
+submission_url: https://devpost.com/software/radiochemistry-fun-day-video-game
+source:
+  platform: devpost
+  url: https://devpost.com/software/radiochemistry-fun-day-video-game
+awards:
+  - type: track-winner
+    title: "[Gamification & Play] Winner of the Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

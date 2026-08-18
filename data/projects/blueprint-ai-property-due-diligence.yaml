@@ -1,0 +1,25 @@
+id: blueprint-ai-property-due-diligence
+name: "BLUEPRINT: AI Property Due Diligence"
+slug: blueprint-ai-property-due-diligence
+tagline: Seven AI agents read public records on any US address, permits, flood zones, EPA data, then
+  run an adversarial AI debate before delivering a buyer risk score. P
+summary: "BLUEPRINT: AI Property Due Diligence received the Elastic - 2nd Place award at Google
+  Cloud Rapid Agent Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/usv240/blueprint
+demo_url: null
+video_url: https://www.youtube.com/embed/VQMb8zruxSs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/735/991/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - python
+  - vertex-ai
+builders:
+  - name: Ujwal Suresh Vanjare
+  - name: Arpita Madhukar Kalburgi

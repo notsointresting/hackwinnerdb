@@ -1,0 +1,22 @@
+id: genomeguard
+name: GenomeGuard
+slug: genomeguard
+tagline: "GenomeGuard: An AI-native codebase immune system. Uses a 4-agent workflow and OpenAI
+  reasoning to catch real-time architectural decay, auto-verify code compilat"
+summary: GenomeGuard received the ChatGPT Plus award at Codex Meetup Dhaka - UIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FatinShadab/GenomeGuard
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/442/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - openai
+  - python
+  - sqlite
+builders:
+  - name: Fatin Shadab

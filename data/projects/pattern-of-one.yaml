@@ -1,0 +1,21 @@
+id: pattern-of-one
+name: Pattern of One
+slug: pattern-of-one
+tagline: An evolving abstract portrait that represents how a person communicates and behaves, rather
+  than what they look like.
+summary: Pattern of One received the Most Creative Projects award at JecHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/PQzLcVAmXR8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/881/435/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - vercel
+builders:
+  - name: rohit singh

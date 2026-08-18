@@ -1,0 +1,17 @@
+id: openbeats
+name: OpenBeats
+slug: openbeats
+tagline: Generative Drum Kits built using OpenUI
+summary: OpenBeats received the Best Use of OpenUI award at Harness Engineering Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FormidableLabs/react-music
+demo_url: null
+video_url: https://www.youtube.com/watch?v=7FRHuVNVCj4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Daniel Bank

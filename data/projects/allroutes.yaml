@@ -1,0 +1,22 @@
+id: allroutes
+name: AllRoutes
+slug: allroutes
+tagline: Routes that prioritize safety.
+summary: AllRoutes received the BeginnerHack award at MarinHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bhargava-gumpula/no-roll-models
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: bhargava-gumpula gumpula
+  - name: soonToBeAFullHandDev ha
+  - name: Carson-Aidan Zanoria
+  - name: John Ha

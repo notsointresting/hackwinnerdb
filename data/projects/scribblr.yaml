@@ -1,0 +1,23 @@
+id: scribblr
+name: Scribblr
+slug: scribblr
+tagline: Your silent lecture partner — a sensor-powered pen holder that captures what professors say
+  and writes the summary for you in real time autonomously.
+summary: Scribblr received the Seed Studio Interactive Signage award at MakeMIT x Harvard 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yd025/Scribblr
+demo_url: null
+video_url: https://www.youtube.com/embed/mRXCumImsr4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/791/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+builders:
+  - name: Selin Ozsaracoglu
+  - name: Yidan Ma
+  - name: Nirmit Shah
+  - name: Jordan Hewitt

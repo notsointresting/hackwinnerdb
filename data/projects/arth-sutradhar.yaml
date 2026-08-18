@@ -1,0 +1,20 @@
+id: arth-sutradhar
+name: Arth-Sutradhar
+slug: arth-sutradhar
+tagline: Bridging village land records to national economics.
+summary: Arth-Sutradhar received the Best Use of Google APIs (Gemini/Cloud) award at Gemini.exe 2.0
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Amitk003/Arth-Sutradhar
+demo_url: null
+video_url: https://www.youtube.com/embed/iEa_zYHeXHA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/799/953/datas/gallery.jpg
+categories:
+  - fintech
+  - iot
+technologies:
+  - fastapi
+  - react-native
+  - vertex-ai
+builders:
+  - name: Amit kumar

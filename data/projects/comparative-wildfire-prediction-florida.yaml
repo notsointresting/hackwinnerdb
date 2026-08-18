@@ -1,0 +1,22 @@
+id: comparative-wildfire-prediction-florida
+name: Comparative Wildfire Prediction - Florida
+slug: comparative-wildfire-prediction-florida
+tagline: Florida leads the U.S. in fire ignitions but is underrepresented in research. This project
+  uses data ablation to test how fuel proxies and ignition factors impr
+summary: Comparative Wildfire Prediction - Florida received the Best Project - Social Impact Track
+  award at Tufts NSDC Datathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/iliketocode2/Wildfire-Analysis-Florida/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/225/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+builders:
+  - name: William Goldman
+  - name: Henry Zhou

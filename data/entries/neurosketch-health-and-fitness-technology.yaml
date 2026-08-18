@@ -1,0 +1,24 @@
+id: neurosketch-health-and-fitness-technology
+project_id: neurosketch
+hackathon_id: health-and-fitness-technology
+submission_url: https://devpost.com/software/neurosketch
+source:
+  platform: devpost
+  url: https://devpost.com/software/neurosketch
+awards:
+  - type: first-place
+    title: 1st - place amazon gift card
+  - type: first-place
+    title: First Place
+  - type: other
+    title: Participation & Completion Recognition
+  - type: other
+    title: Referral & Community Bonus
+  - type: category-winner
+    title: Most impactful
+  - type: first-place
+    title: First Place Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: haven-hacked-2026
+project_id: haven
+hackathon_id: hacked-2026
+submission_url: https://devpost.com/software/haven-2py4jd
+source:
+  platform: devpost
+  url: https://devpost.com/software/haven-2py4jd
+awards:
+  - type: third-place
+    title: Diversity Stream - 3rd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

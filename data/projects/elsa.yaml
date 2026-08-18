@@ -1,0 +1,28 @@
+id: elsa
+name: Elsa
+slug: elsa
+tagline: "ELSA: Elder Living Safety Assistant A safety system for seniors and the people who care
+  for them, connecting Apple Watch bio-metrics monitoring with mobile and "
+summary: Elsa received the 3rd Place Grand Prize award at KiroHacks Cal Poly in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bCIM8rhvYPs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/639/008/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - postgresql
+  - react
+  - react-native
+  - supabase
+  - swift
+  - twilio
+  - typescript
+  - vercel
+builders:
+  - name: Oleks G
+  - name: Luca Verweyen
+  - name: Sabawoon Hakimi

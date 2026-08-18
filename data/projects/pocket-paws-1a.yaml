@@ -1,0 +1,21 @@
+id: pocket-paws-1a
+name: Pocket Paws-1A
+slug: pocket-paws-1a
+tagline: Pocket Paws is a video game designed for young children to help them learn how to take care
+  of the environment around them, learn about different animals, and d
+summary: Pocket Paws-1A received the 1st Place award at WildHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/122/datas/gallery.jpg
+categories:
+  - climate
+  - gaming
+  - media
+technologies:
+  - javascript
+builders:
+  - name: Cecile Guetat
+  - name: A C

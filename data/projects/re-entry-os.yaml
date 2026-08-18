@@ -1,0 +1,23 @@
+id: re-entry-os
+name: Re entry OS
+slug: re-entry-os
+tagline: A multi-agent AI pipeline that automatically orchestrates housing, benefits, and critical
+  scheduling for formerly incarcerated individuals during the make-or-br
+summary: Re entry OS received the 3rd Place award at CTC x Google Gemini Prompt-a-thon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DerrickThrower/reentryos
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - nextjs
+  - supabase
+  - twilio
+builders:
+  - name: Derrick T

@@ -1,0 +1,26 @@
+id: restore
+name: Restore
+slug: restore
+tagline: Desktop focus app that detects cognitive overload and activity guides users through quick
+  recovery actions. Uses simulated heart rate, ai help and activity sign
+summary: Restore received the 1st place award at ZOOTech - Cursor Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jtran217/2026_CursorHackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/KrSHrfzoCxY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/443/425/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - flask
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Johnny Tran
+  - name: Ajay Sallh
+  - name: James Hwang

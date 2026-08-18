@@ -1,0 +1,20 @@
+id: jane
+name: Jane
+slug: jane
+tagline: This is our poker bot :).
+summary: Jane received the Poker Bot - 1st award at Build4Good 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ashlxyzhang/jane-poker-bot
+demo_url: null
+video_url: https://www.youtube.com/embed/KB5TKob9PeA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/681/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Ashley Zhang
+  - name: Nicolas Ladendorf
+  - name: Joshua L
+  - name: Eric Liu

@@ -1,0 +1,24 @@
+id: rouge
+name: Rouge
+slug: rouge
+tagline: Making learning PCB/circuits accessible thru Minecraft!
+summary: Rouge received the Outstanding Project (2nd Place) award at JAMHacks 10 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dhanika-Botejue/rouge
+demo_url: null
+video_url: https://www.youtube.com/embed/FH5FdfEvCSQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/699/datas/gallery.jpg
+categories:
+  - education
+  - accessibility
+technologies:
+  - elevenlabs
+  - java
+  - mongodb
+  - python
+builders:
+  - name: Shreya Sinha
+  - name: Dhanika Botejue
+  - name: Muhammad Ali Hashar
+  - name: Yunyang Zhang

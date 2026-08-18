@@ -1,0 +1,30 @@
+id: sporerisk-ai-powered-early-warning-system-for-valley-fever
+name: SporeRisk - AI Powered Early Warning System for Valley Fever
+slug: sporerisk-ai-powered-early-warning-system-for-valley-fever
+tagline: SporeRisk predicts Valley Fever outbreaks 4–6 months early using AI + free environmental
+  data — protecting Central Valley farmworkers and communities before the
+summary: SporeRisk - AI Powered Early Warning System for Valley Fever received the Polaroid Camera
+  award at HackMerced XI in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/rH2TryPBNRA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/822/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - claude
+  - docker
+  - fastapi
+  - gemini
+  - javascript
+  - python
+  - react
+builders:
+  - name: Samudera Aubreyasta
+  - name: Olo Silitonga
+  - name: Moch Aryaputra
+  - name: rg0047

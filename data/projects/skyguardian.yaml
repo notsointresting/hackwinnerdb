@@ -1,0 +1,28 @@
+id: skyguardian
+name: SkyGuardian
+slug: skyguardian
+tagline: Offline-first aerial recon and situational awareness for dismounted soldiers. SLAM,
+  detection, and on-device tactical reasoning run entirely on a laptop. No clo
+summary: "SkyGuardian received the Autonomous Navigation and Edge AI Track (Hardware): 1st Place
+  award at DS3 x SIC x Bow Capital Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/NewCoder3294/SkyGuardian/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/KsTMO9560BY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/348/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - iot
+  - cloud
+technologies:
+  - fastapi
+  - opencv
+  - python
+  - react
+  - swift
+  - typescript
+  - yolo
+builders:
+  - name: Nicolas Dos Santos
+  - name: Alex Battikha

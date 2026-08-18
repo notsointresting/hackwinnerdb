@@ -1,0 +1,14 @@
+id: agentverse
+name: AgentVerse
+slug: agentverse
+organizer: []
+year: 2026
+sources:
+  - https://agentversemcp.devpost.com/
+  - https://agentversemcp.devpost.com/project-gallery?filter=winner
+website_url: https://agentversemcp.devpost.com/
+platform: devpost
+participant_count: 79
+prize_pool: null
+currency: null
+description: "Devpost hackathon: AgentVerse. Imported automatically."

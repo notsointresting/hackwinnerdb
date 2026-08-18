@@ -1,0 +1,22 @@
+id: crowdcare
+name: CrowdCare
+slug: crowdcare
+tagline: CrowdCare is a platform where verified doctors post medical bills and patients can pay or
+  crowdfund support instantly using low-fee global payments, making heal
+summary: "CrowdCare received the BFN: Meta Glasses award at NSBE HACKS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Baraa710/Ripple-Health.git
+demo_url: null
+video_url: https://www.youtube.com/embed/GRLgG-cx6Fc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/478/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+technologies:
+  - flask
+  - python
+builders:
+  - name: Mafaz Sari
+  - name: Baraa Al-Chalabi
+  - name: Precious Okongwu

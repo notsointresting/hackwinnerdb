@@ -1,0 +1,21 @@
+id: zenflow-your-calm-in-the-chaos
+name: ZenFlow — Your Calm in the Chaos
+slug: zenflow-your-calm-in-the-chaos
+tagline: Burnout builds silently. ZenFlow is an AI workplace companion inside Slack that detects
+  overload patterns, explains the signals, and helps people build healthie
+summary: ZenFlow — Your Calm in the Chaos received the First Place | Slack Agent for Good award at
+  Slack Agent Builder Challenge in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/siKFk6kK5H4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/818/221/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - enterprise
+technologies:
+  - gemini
+  - javascript
+builders: []

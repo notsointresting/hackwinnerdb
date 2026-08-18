@@ -1,0 +1,20 @@
+id: philadelphia-property-tax-assessment-appeal-tool
+name: Philadelphia Property Tax Assessment Appeal Tool
+slug: philadelphia-property-tax-assessment-appeal-tool
+tagline: For Philadelphian home-owners whose property tax is too high, they can answer some simple
+  questions to build a high quality appeal automatically sent to the cit
+summary: Philadelphia Property Tax Assessment Appeal Tool received the 3rd Place - Winner award at
+  Philadelphia Social Justice Hackathon 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Travis Southard

@@ -1,0 +1,14 @@
+id: cld-33-solutions-cloudathon-sjsu-2026
+project_id: cld-33-solutions
+hackathon_id: cloudathon-sjsu-2026
+submission_url: https://devpost.com/software/cld-33-solutions
+source:
+  platform: devpost
+  url: https://devpost.com/software/cld-33-solutions
+awards:
+  - type: second-place
+    title: Cloud Track Silver Medal (2nd Place)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

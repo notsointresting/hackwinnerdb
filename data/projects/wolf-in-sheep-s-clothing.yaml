@@ -1,0 +1,25 @@
+id: wolf-in-sheep-s-clothing
+name: Wolf In Sheep's Clothing
+slug: wolf-in-sheep-s-clothing
+tagline: Every round, someone gets eliminated. You're the only human in a room full of AI agents.
+  Blend in, stay convincing, and survive long enough to uncover the truth
+summary: Wolf In Sheep's Clothing received the [MLH] Best Use of ElevenLabs award at cuHacking7 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jwt2706/wisc
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/841/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: J T
+  - name: A Br

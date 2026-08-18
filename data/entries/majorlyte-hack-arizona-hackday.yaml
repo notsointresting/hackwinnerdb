@@ -1,0 +1,14 @@
+id: majorlyte-hack-arizona-hackday
+project_id: majorlyte
+hackathon_id: hack-arizona-hackday
+submission_url: https://devpost.com/software/wildcat-helper
+source:
+  platform: devpost
+  url: https://devpost.com/software/wildcat-helper
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

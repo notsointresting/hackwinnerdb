@@ -1,0 +1,14 @@
+id: hirezzai-sandcastle
+project_id: hirezzai
+hackathon_id: sandcastle
+submission_url: https://devpost.com/software/hirezzai
+source:
+  platform: devpost
+  url: https://devpost.com/software/hirezzai
+awards:
+  - type: audience-choice
+    title: People's Choice Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

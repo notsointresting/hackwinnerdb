@@ -1,0 +1,14 @@
+id: hackbu
+name: HackBU
+slug: hackbu
+organizer: []
+year: 2026
+sources:
+  - https://hackbu2026.devpost.com/
+  - https://hackbu2026.devpost.com/project-gallery?filter=winner
+website_url: https://hackbu2026.devpost.com/
+platform: devpost
+participant_count: 101
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackBU. Imported automatically."

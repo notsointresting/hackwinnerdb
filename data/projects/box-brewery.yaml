@@ -1,0 +1,21 @@
+id: box-brewery
+name: Box Brewery
+slug: box-brewery
+tagline: You're a witch-turned-cat, desperately trying to recall the recipe for a potion to turn you
+  back into a human! Experiment recipes, brew potions, and trade for i
+summary: Box Brewery received the Logitech MX Master 3S Mouse & Mousepad award at Tech(Hack) in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wangsop/BoxBrewery
+demo_url: null
+video_url: https://www.youtube.com/embed/CMs0MuVFtEI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/942/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - unity
+builders:
+  - name: Sophia Wang
+  - name: Aadya Menon
+  - name: Sruthi Vangavolu
+  - name: Harold Fu

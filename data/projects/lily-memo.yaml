@@ -1,0 +1,22 @@
+id: lily-memo
+name: lily-memo
+slug: lily-memo
+tagline: Lily Memo turns your notes, PDFs, and lectures into AI-generated explanations, diagrams,
+  and full quiz sets you can solve. Lily tutors; Sikun answers on-screen.
+summary: lily-memo received the 1st Place award at DSH Hacks V1 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sikunXchan/lily_memo
+demo_url: null
+video_url: https://www.youtube.com/embed/a8amTpqPOLc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/308/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Ryo Mafune

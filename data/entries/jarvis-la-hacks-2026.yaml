@@ -1,0 +1,14 @@
+id: jarvis-la-hacks-2026
+project_id: jarvis
+hackathon_id: la-hacks-2026
+submission_url: https://devpost.com/software/jarvis-eifsyq
+source:
+  platform: devpost
+  url: https://devpost.com/software/jarvis-eifsyq
+awards:
+  - type: track-winner
+    title: "Track: Agentverse - Search & Discovery of Agents"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

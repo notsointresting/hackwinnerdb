@@ -1,0 +1,20 @@
+id: le-loup-de-broadway
+name: Le Loup de Broadway
+slug: le-loup-de-broadway
+tagline: A web app for creating puppet theater shows. Kids stage scenes using hand puppets detected
+  by webcam, pick backgrounds and music, then watch their film play bac
+summary: Le Loup de Broadway received the Judges' favorites award at HackTheMountain 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tabtouche/hackthemountain
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/701/681/datas/medium.png
+categories:
+  - media
+technologies:
+  - python
+  - typescript
+builders:
+  - name: tabtouche Tabti
+  - name: Thierry Poulin

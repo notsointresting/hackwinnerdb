@@ -1,0 +1,21 @@
+id: agridocai
+name: AgriDocAI
+slug: agridocai
+tagline: Photograph a sick leaf. Get a diagnosis, a treatment, and the biology behind it — in
+  seconds, on the phone already in your pocket.
+summary: AgriDocAI received the 2nd place award at The Blueprint Hackathon  (For All Ages, July
+  17th-31st) in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Jaypts/agri-doc
+demo_url: null
+video_url: https://www.youtube.com/embed/tQAYVAaeSzM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/043/269/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - firebase
+  - gemini
+  - javascript
+builders:
+  - name: Jay Patel

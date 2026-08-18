@@ -1,0 +1,26 @@
+id: sproutgo
+name: SproutGO
+slug: sproutgo
+tagline: A location-based social media app to promote exploration of the world around us and to
+  foster communities of nature-lovers along with improving their understand
+summary: SproutGO received the X-Go Speakers award at MontyHacks IX in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Hellosurlxkc/Sprout-Go
+demo_url: null
+video_url: https://www.youtube.com/embed/nTnOQatDHNc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/719/879/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - javascript
+  - postgresql
+  - python
+  - swift
+  - typescript
+  - vercel
+builders:
+  - name: Ishaan Arya
+  - name: Devi kanumilli
+  - name: shrenik gamini1
+  - name: vyom singh

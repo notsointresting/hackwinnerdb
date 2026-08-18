@@ -1,0 +1,21 @@
+id: voicesre
+name: VoiceSRE
+slug: voicesre
+tagline: VoiceSRE turns phone calls into resolved incidents. An AI agent answers, diagnoses the
+  problem, patches it in a sandbox, and opens a GitHub PR while you stay on
+summary: VoiceSRE received the Best Use of ElevenLabs award at Daytona HackSprint w/ Braintrust -
+  SF, July 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/the-builders-burrow/VoiceSRE
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - nextjs
+builders:
+  - name: Peyton Li

@@ -1,0 +1,25 @@
+id: connectable
+name: ConnectAble
+slug: connectable
+tagline: ConnectAble cuts communication for non-verbal individuals from 45s to 4s. Our AI predicts
+  needs and uses an integrated agent to automate tasks like ordering foo
+summary: ConnectAble received the First Overall award at Hack to the Future - Presented by AISC @ UW
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SNBest1/HTTF_full
+demo_url: null
+video_url: https://www.youtube.com/embed/ufOIpheZ7p0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/202/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aditya Gajula
+  - name: Nipun Saini
+  - name: Alesia  C

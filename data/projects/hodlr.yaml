@@ -1,0 +1,18 @@
+id: hodlr
+name: Hodlr
+slug: hodlr
+tagline: Your future self will thank you. Holdr lets you lock Bitcoin to a date you choose, 3 years,
+  10 years, 30 and walk away. No early withdrawal. Just you, your keys
+summary: Hodlr received the Best Beginner Hack award at Bitcoin++ Open Source Edition in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/916/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: Paul eke

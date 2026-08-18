@@ -1,0 +1,22 @@
+id: voxvitals
+name: VoxVitals
+slug: voxvitals
+tagline: VoxVitals is an AI powered platform that turns patient voice and physiological signals into
+  real time insights to detect risks early and reduce clinical trial d
+summary: VoxVitals received the [MLH] Best Use of Presage award at RevolutionUC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/d75GuusAdWc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/450/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Anshul Raman
+  - name: duybaonguyen3009-ai Nguyễn
+  - name: aniuwho
+  - name: Phong Xuan Thanh Nguyen

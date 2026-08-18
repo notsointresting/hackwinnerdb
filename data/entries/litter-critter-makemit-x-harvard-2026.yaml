@@ -1,0 +1,14 @@
+id: litter-critter-makemit-x-harvard-2026
+project_id: litter-critter
+hackathon_id: makemit-x-harvard-2026
+submission_url: https://devpost.com/software/smart-bin-z83asr
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-bin-z83asr
+awards:
+  - type: other
+    title: Sustainability
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

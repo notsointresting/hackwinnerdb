@@ -1,0 +1,14 @@
+id: where-is-my-bus-hackdays-prayagraj
+project_id: where-is-my-bus
+hackathon_id: hackdays-prayagraj
+submission_url: https://devpost.com/software/where-is-my-bus-zqx8gd
+source:
+  platform: devpost
+  url: https://devpost.com/software/where-is-my-bus-zqx8gd
+awards:
+  - type: other
+    title: Stickers
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: snapcycle
+name: SnapCycle
+slug: snapcycle
+tagline: Recycle like a smart person
+summary: SnapCycle received the Finalist award at UC Berkeley AI Hackathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/prithsk/RRR
+demo_url: null
+video_url: https://www.youtube.com/embed/Z8rMbCB_Mno
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/797/656/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Donggyu Yoon
+  - name: Prithvi S  Krishnan
+  - name: Bryan Chen
+  - name: Joon Choi

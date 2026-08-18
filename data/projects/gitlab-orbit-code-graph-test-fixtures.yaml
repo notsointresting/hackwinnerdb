@@ -1,0 +1,21 @@
+id: gitlab-orbit-code-graph-test-fixtures
+name: GitLab Orbit code-graph test fixtures
+slug: gitlab-orbit-code-graph-test-fixtures
+tagline: A focused integration fixture that locks in GitLab Orbit's code-graph extraction for C#
+  structs, so regressions can't slip through CI unnoticed.
+summary: "GitLab Orbit code-graph test fixtures received the Contribute Track: A qualified Merged
+  Merge Request award at GitLab Transcend Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - rust
+builders:
+  - name: F300 A

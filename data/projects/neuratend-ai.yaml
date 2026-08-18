@@ -1,0 +1,19 @@
+id: neuratend-ai
+name: NEURATEND-AI
+slug: neuratend-ai
+tagline: SMART AI SYSTEM FOR ALL CAMPUS-CLASSROOM ACTIVITIES, TRACK YOURSELF
+summary: NEURATEND-AI received the Best Use of the Google Gemini API award at Hack Days in Oriental
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CodeWithAdnaan/NeuraTend
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/116/835/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Dinkar Sharma

@@ -1,0 +1,20 @@
+id: rhetbench
+name: RhetBench
+slug: rhetbench
+tagline: RhetBench — a benchmark testing whether AI agents can persuade an NPC on a real-world
+  topic. The character's hidden personality determines which persuasion stra
+summary: RhetBench received the AGI & Real World Track Winner award at SWECCathon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lechmazur/persuasion
+demo_url: null
+video_url: https://www.youtube.com/embed/aTzp6b-BDuk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/727/778/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Evan Li

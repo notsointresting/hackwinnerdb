@@ -1,0 +1,22 @@
+id: canary-31
+name: Canary - 31
+slug: canary-31
+tagline: Canary turns live food supply chain news into grocery risk scores and adaptive strategies
+  before prices move.
+summary: Canary - 31 received the Runner Up award at BeachHacks 9.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zlaud/bh26
+demo_url: null
+video_url: https://www.youtube.com/embed/69sSF0kTGbU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/107/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - fastapi
+  - gemini
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: zophia laud

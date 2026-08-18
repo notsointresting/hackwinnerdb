@@ -1,0 +1,24 @@
+id: tennismind
+name: TennisMind
+slug: tennismind
+tagline: TennisMind, an autonomous AI coach that tells you what to do next. Don’t analyze your last
+  shot, win your next one.
+summary: TennisMind received the Best use of InsForge award at Ship to Prod - Agentic Engineering
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/uWPYM99VGGw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/064/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+  - redis
+builders:
+  - name: Pengxu Yu
+  - name: Can Lyu
+  - name: Kanwen Xu

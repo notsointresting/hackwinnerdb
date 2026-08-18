@@ -1,0 +1,22 @@
+id: spolocne-vydavky-shared-expenses
+name: Spoločné výdavky — Shared Expenses
+slug: spolocne-vydavky-shared-expenses
+tagline: Split bills, track debts, settle up
+summary: Spoločné výdavky — Shared Expenses received the [MLH] Best Use of DigitalOcean award at
+  Hack Kosice 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/kassxxv/HackKE_LAMA_TEAM
+demo_url: null
+video_url: https://www.youtube.com/embed/mIchLlREINk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/584/347/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - tailwind-css
+  - typescript
+builders:
+  - name: Filip Fylyp
+  - name: Svitlana Meleshko
+  - name: Artem Lobodiuchenko
+  - name: Oleksandr Lysytsia

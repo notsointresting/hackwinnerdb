@@ -1,0 +1,18 @@
+id: sanjivni
+name: SANJIVNI
+slug: sanjivni
+tagline: Physician–patient app using the Gemini API for personalized health support, reminders,
+  daily check-ins, local updates, and weekly data sharing with doctors to i
+summary: SANJIVNI received the Best use of Google Gemini API award at Hack Days Nashik in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/heetkantariya001-art/Sanjivani
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/927/060/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - kotlin
+builders:
+  - name: Heet Kantariya

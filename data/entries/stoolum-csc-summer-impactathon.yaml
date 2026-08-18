@@ -1,0 +1,14 @@
+id: stoolum-csc-summer-impactathon
+project_id: stoolum
+hackathon_id: csc-summer-impactathon
+submission_url: https://devpost.com/software/stoolum-3q7b6z
+source:
+  platform: devpost
+  url: https://devpost.com/software/stoolum-3q7b6z
+awards:
+  - type: other
+    title: CSC Impact Bronze Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

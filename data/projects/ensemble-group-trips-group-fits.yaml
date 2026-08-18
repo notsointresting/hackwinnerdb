@@ -1,0 +1,21 @@
+id: ensemble-group-trips-group-fits
+name: Ensemble - Group Trips, Group Fits
+slug: ensemble-group-trips-group-fits
+tagline: Ensemble turns every group trip into a shopping event — Airbnb Group Booking meets Spotify
+  Blend, for what you'll wear.
+summary: Ensemble - Group Trips, Group Fits received the Most Creative award at The Phia Hack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/YyECN5snNbk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/162/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Sai Aguru

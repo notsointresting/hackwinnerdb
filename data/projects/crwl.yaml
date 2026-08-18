@@ -1,0 +1,28 @@
+id: crwl
+name: CRWL
+slug: crwl
+tagline: Drop a topic. AI agents crawl the web and label a dataset.
+summary: CRWL received the Best Use of Ghost award at Deep Agents Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shuripurin/crwl
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/498/421/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+  - nextjs
+  - postgresql
+  - python
+  - react
+  - sql
+  - typescript
+builders:
+  - name: Havel Konda
+  - name: Violette D
+  - name: Caleb Chia
+  - name: Owen Krause

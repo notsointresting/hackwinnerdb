@@ -1,0 +1,19 @@
+id: superconducting-qubit-frequency-optimization
+name: Superconducting Qubit Frequency Optimization
+slug: superconducting-qubit-frequency-optimization
+tagline: Uses the quantum optimization algorithm QAOA to optimize the selection resonance
+  frequencies of superconducting qubits in a given qubit layout.
+summary: Superconducting Qubit Frequency Optimization received the 1st Place -- IBM Swag award at
+  WQCC Quantum Optimization Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/Malcollm/SuperconductingQubitOptimizer.git
+demo_url: null
+video_url: https://www.youtube.com/embed/hxFm0Yo-QB8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/625/546/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Malcollm Mohr

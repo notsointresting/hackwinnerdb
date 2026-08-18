@@ -1,0 +1,21 @@
+id: driftgaurd
+name: DriftGaurd
+slug: driftgaurd
+tagline: Securing the vital signs of surgical AI
+summary: DriftGaurd received the All Winners award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rizzly69/DriftGaurd
+demo_url: null
+video_url: https://www.youtube.com/embed/HLkbNJnO9Ok
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/816/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Shivansh Garg
+  - name: Aadit Baheti

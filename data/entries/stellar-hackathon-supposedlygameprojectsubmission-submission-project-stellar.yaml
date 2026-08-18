@@ -1,0 +1,14 @@
+id: stellar-hackathon-supposedlygameprojectsubmission-submission-project-stellar
+project_id: stellar-hackathon-supposedlygameprojectsubmission-submission
+hackathon_id: project-stellar
+submission_url: https://devpost.com/software/stellar_hackathon_supposedlygameprojectsubmission_submission
+source:
+  platform: devpost
+  url: https://devpost.com/software/stellar_hackathon_supposedlygameprojectsubmission_submission
+awards:
+  - type: other
+    title: Participant
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

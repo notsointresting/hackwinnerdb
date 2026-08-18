@@ -1,0 +1,24 @@
+id: playweaver
+name: PlayWeaver
+slug: playweaver
+tagline: PlayWeaver is an AI-powered game prototyping tool that turns a simple natural language
+  conversation into a visual game design document and a fully playable HTML
+summary: PlayWeaver received the Top 4–6 Projects - Builder Awards award at LovHack Season 2 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/elaxuwu/PlayWeaver
+demo_url: null
+video_url: https://www.youtube.com/embed/y-FgiJwzyMM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/500/034/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - cloudflare
+  - javascript
+  - openai
+  - redis
+builders:
+  - name: Ngọc Thiên Bảo Đỗ
+  - name: Khang Phạm Hoàng

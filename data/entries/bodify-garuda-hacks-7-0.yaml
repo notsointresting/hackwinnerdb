@@ -1,0 +1,14 @@
+id: bodify-garuda-hacks-7-0
+project_id: bodify
+hackathon_id: garuda-hacks-7-0
+submission_url: https://devpost.com/software/bodify
+source:
+  platform: devpost
+  url: https://devpost.com/software/bodify
+awards:
+  - type: category-winner
+    title: Best Solo Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

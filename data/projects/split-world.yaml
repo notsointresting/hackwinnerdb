@@ -1,0 +1,23 @@
+id: split-world
+name: Split World
+slug: split-world
+tagline: Act it out. Guess it right. All inside Snapchat.
+summary: Split World received the Best use of Snap Lens Studio award at YHack Spring 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/c4J5046t_68
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/388/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: its-Simy Ramirez
+  - name: Jose Cruz
+  - name: Yeabsira Bizualem
+  - name: yoggs4

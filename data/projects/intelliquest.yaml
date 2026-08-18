@@ -1,0 +1,21 @@
+id: intelliquest
+name: IntelliQuest
+slug: intelliquest
+tagline: Most quiz apps lock you into pre-written questions on fixed topics. IntelliQuest is
+  different as you can type any topic and Perplexity AI instantly generates fr
+summary: IntelliQuest received the Participation Prize award at DSH Hacks V1 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KKtq5BnMi_Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/779/089/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - sqlite
+builders:
+  - name: Rohan Sudagar

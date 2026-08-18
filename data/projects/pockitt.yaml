@@ -1,0 +1,22 @@
+id: pockitt
+name: Pockitt
+slug: pockitt
+tagline: A simple, fun, creative app to chat locally with the community around you
+summary: Pockitt received the Creative Currents award at Hack@URI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/owenc740/Pockitt
+demo_url: null
+video_url: https://www.youtube.com/embed/OupHpF5up8U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/357/017/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - docker
+  - javascript
+  - typescript
+builders:
+  - name: Owen Cunnie
+  - name: Thomas W

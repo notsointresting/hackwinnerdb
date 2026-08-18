@@ -1,0 +1,24 @@
+id: wage-md
+name: Wage.MD
+slug: wage-md
+tagline: Glassdoor is rumor; the US DOL has the real salaries. WAGE.md turns millions of federal
+  filings into a public, agent-queryable, fully-cited salary index.
+summary: Wage.MD received the Best use of Nimble's API or Web Search Agents award at Agentic
+  Engineering Hack in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/bhaveshgupta01/Wage_MD
+demo_url: null
+video_url: https://www.youtube.com/embed/r1BIOnVVrko
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/245/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Bhavesh Gupta

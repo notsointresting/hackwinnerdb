@@ -1,0 +1,21 @@
+id: janus
+name: Janus
+slug: janus
+tagline: A local token compression proxy for coding agents built in rust.
+summary: Janus received the [Sponsored] Google Best Sustainability AI Hack (Online Only) award
+  at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/AP3008/Janus
+demo_url: null
+video_url: https://www.youtube.com/embed/eIc8dNBwlAs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/438/321/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - redis
+  - rust
+builders:
+  - name: Adam P

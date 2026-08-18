@@ -1,0 +1,22 @@
+id: life-agent-os
+name: Life Agent OS
+slug: life-agent-os
+tagline: Life Agent OS is an AI operating system for understanding cities and coordinating
+  humanitarian action.
+summary: "Life Agent OS received the Best Use of DigitalOcean AI Platform in a Social Good Hack
+  award at AI for Social Good: Hack with MLH & DigitalOcean in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ory3zXQnAQQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/877/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Ali Can Acar

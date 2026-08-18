@@ -1,0 +1,22 @@
+id: flourish-wellness-check-in
+name: "Flourish: Wellness Check-In"
+slug: flourish-wellness-check-in
+tagline: A system that turns emotional load into practical support, where being seen comes before
+  being educated.
+summary: "Flourish: Wellness Check-In received the Diversity in CS Project Hub award at youCode 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/sophieJ07/flourish-cwi-youcode-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/864/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - postgresql
+  - supabase
+builders:
+  - name: Sophie Jiang
+  - name: Runtan Zhang
+  - name: Shuri
+  - name: aireneahuja

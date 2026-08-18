@@ -1,0 +1,26 @@
+id: adaptfit
+name: AdaptFit
+slug: adaptfit
+tagline: AdaptFit builds workouts around your abilities, with adaptive exercises and real-time feedback.
+summary: AdaptFit received the High School Track 1 Prize award at PeddieHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DeviDeviDeviKanumilli/PeddieHacks26/
+demo_url: null
+video_url: https://www.youtube.com/embed/D6XZUJ0QQRc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/116/097/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - react
+  - react-native
+  - sqlite
+  - supabase
+  - typescript
+builders:
+  - name: Devi kanumilli
+  - name: Andreas Tsang
+  - name: Ishaan Arya
+  - name: Jamie Qiu

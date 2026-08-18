@@ -1,0 +1,23 @@
+id: heritage-at-risk-from-carthage-to-america
+name: "Heritage at Risk: From Carthage to America"
+slug: heritage-at-risk-from-carthage-to-america
+tagline: "You will step inside AI-generated 3D worlds of endangered heritage sites, from ancient
+  Carthage to America's founding halls. Make a choice: Protect or Do Nothin"
+summary: "Heritage at Risk: From Carthage to America received the MLH: Best Use of ElevenLabs award
+  at ImmerseGT 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/SamDuo/gtHackVR
+demo_url: null
+video_url: https://www.youtube.com/embed/KJzVKd0X0aI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/128/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - javascript
+  - react
+builders:
+  - name: Sam M Duong

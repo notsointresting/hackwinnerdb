@@ -1,0 +1,28 @@
+id: noesis
+name: Noesis
+slug: noesis
+tagline: Noesis is an AI sense-making tool that surfaces student thoughts from notes and nonverbal
+  cues, promoting equity of voice, engagement, and teacher responsivenes
+summary: Noesis received the Responsible AI award at Civic Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/LZDALX_ocxU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/007/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Ana Lindert-Boyes
+  - name: Gia Kim
+  - name: Motunrayo0 Owoborode
+  - name: Desmond Frimpong

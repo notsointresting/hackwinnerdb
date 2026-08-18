@@ -1,0 +1,14 @@
+id: biolattice-tufts-nsdc-datathon
+project_id: biolattice
+hackathon_id: tufts-nsdc-datathon
+submission_url: https://devpost.com/software/biolattice
+source:
+  platform: devpost
+  url: https://devpost.com/software/biolattice
+awards:
+  - type: track-winner
+    title: Best Project - Biotech Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

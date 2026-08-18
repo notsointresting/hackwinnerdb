@@ -1,0 +1,26 @@
+id: flock
+name: Flock
+slug: flock
+tagline: A shared goal space where people grow together.
+summary: Flock received the MLH - Best Use of DigitalOcean Prize award at Stevens QuackHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SomaOhm/Goal-Tracking-App
+demo_url: null
+video_url: https://www.youtube.com/embed/GMOo1Sdo4UY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/392/257/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - fastapi
+  - gemini
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Joshua John
+  - name: Dhruv Somaiya
+  - name: Roland Aranas
+  - name: Shiven P

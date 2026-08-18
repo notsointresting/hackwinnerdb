@@ -1,0 +1,24 @@
+id: ledgershredder
+name: LedgerShredder
+slug: ledgershredder
+tagline: Pay for a group and hate requesting people to pay you back? LedgerShredder turns receipts
+  into shared ledgers; everyone confirms what they owe and accountabilit
+summary: LedgerShredder received the General Track 3rd Place award at HackKU26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gnichol479/KUHacks
+demo_url: null
+video_url: https://www.youtube.com/embed/MBt4zuKuOpU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/734/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - dart
+  - flask
+  - flutter
+  - python
+builders:
+  - name: Asya Erdogan
+  - name: gnichol479 Nichol
+  - name: Adem Erdogan
+  - name: Aamir Abatiyow

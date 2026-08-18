@@ -1,0 +1,20 @@
+id: inbox-invaders
+name: Inbox Invaders
+slug: inbox-invaders
+tagline: Inbox Invaders is a Roblox tower-defense adventure where players protect their computer
+  from alien scammers, phishing emails, fake links, and malware, which all
+summary: Inbox Invaders received the ROBLOX Civility Challenge award at LA Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/jjYTbE1EEbk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/939/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Kian Shandi
+  - name: letchermarlon
+  - name: Mark Mairs
+  - name: AARON ZHANG

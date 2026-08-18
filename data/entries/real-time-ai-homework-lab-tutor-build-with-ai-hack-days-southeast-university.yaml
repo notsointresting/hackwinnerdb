@@ -1,0 +1,16 @@
+id: real-time-ai-homework-lab-tutor-build-with-ai-hack-days-southeast-university
+project_id: real-time-ai-homework-lab-tutor
+hackathon_id: build-with-ai-hack-days-southeast-university
+submission_url: https://devpost.com/software/real-time-ai-homework-lab-tutor
+source:
+  platform: devpost
+  url: https://devpost.com/software/real-time-ai-homework-lab-tutor
+awards:
+  - type: other
+    title: 50$ Gift Card
+  - type: other
+    title: Stickers & Postcards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

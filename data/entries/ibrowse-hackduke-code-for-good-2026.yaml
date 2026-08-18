@@ -1,0 +1,16 @@
+id: ibrowse-hackduke-code-for-good-2026
+project_id: ibrowse
+hackathon_id: hackduke-code-for-good-2026
+submission_url: https://devpost.com/software/ibrowse
+source:
+  platform: devpost
+  url: https://devpost.com/software/ibrowse
+awards:
+  - type: grand-prize
+    title: "Grand Prize: Interactive Media Track"
+  - type: category-winner
+    title: "[MLH] Best Use of Gemini API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

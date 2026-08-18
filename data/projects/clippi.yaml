@@ -1,0 +1,24 @@
+id: clippi
+name: Clippi
+slug: clippi
+tagline: Chat with your clips. Let AI edit your video.
+summary: Clippi received the 3rd Place Winner award at Agentic AI Innovation Challenge 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sherwinvishesh/Clippi
+demo_url: null
+video_url: https://www.youtube.com/embed/hgIqbaxhBpU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/697/466/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - mistral
+  - opencv
+  - react
+builders:
+  - name: Sherwin Vishesh Jathanna
+  - name: katsdivi Kataria

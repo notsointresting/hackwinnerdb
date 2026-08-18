@@ -1,0 +1,20 @@
+id: omnicomm-assistive-communicator
+name: "OmniComm: Assistive_Communicator"
+slug: omnicomm-assistive-communicator
+tagline: I see for you , I hear for you and I speak for you. I am all in one.
+summary: "OmniComm: Assistive_Communicator received the Free-WiLi award at Grizzhacks 8 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - python
+builders:
+  - name: Krunal Mehta
+  - name: nehabhatt01 Bhatt

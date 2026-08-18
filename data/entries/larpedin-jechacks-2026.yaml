@@ -1,0 +1,14 @@
+id: larpedin-jechacks-2026
+project_id: larpedin
+hackathon_id: jechacks-2026
+submission_url: https://devpost.com/software/larpedin
+source:
+  platform: devpost
+  url: https://devpost.com/software/larpedin
+awards:
+  - type: category-winner
+    title: Most Creative Projects
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

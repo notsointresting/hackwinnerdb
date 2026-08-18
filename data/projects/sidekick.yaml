@@ -1,0 +1,21 @@
+id: sidekick
+name: SideKick
+slug: sidekick
+tagline: An app made by women for women to accelerate uni life.
+summary: SideKick received the [MLH] Best Hack Built with Google Antigravity award at DUWiT Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Bapp1212/sidekick
+demo_url: null
+video_url: https://www.youtube.com/embed/xk5NcpcYS98
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/408/469/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - firebase
+  - react-native
+  - typescript
+builders:
+  - name: Beatrix CHAN
+  - name: Damiya Bensne

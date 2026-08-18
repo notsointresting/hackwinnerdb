@@ -1,0 +1,21 @@
+id: enel-edge-network-environment-lattice
+name: enel (edge-network environment lattice)
+slug: enel-edge-network-environment-lattice
+tagline: Turn a drone swarm into a rapid 3DGS digital twin system for mission planning, simulation,
+  and critical operations.
+summary: "enel (edge-network environment lattice) received the 1st Place Overall Winner award at
+  Critical Ops: A DC National Security Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/akshayakula/enel
+demo_url: null
+video_url: https://www.youtube.com/embed/CwgQKKyWOLs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/589/680/datas/medium.png
+categories:
+  - cybersecurity
+  - climate
+  - robotics
+technologies: []
+builders:
+  - name: Akshay Akula
+  - name: Puneet Velidi

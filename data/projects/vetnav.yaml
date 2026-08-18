@@ -1,0 +1,22 @@
+id: vetnav
+name: VetNav
+slug: vetnav
+tagline: This website connects veterans with their local VA hospitals for affordable healthcare,
+  while streamlining access to the benefits they've earned through their s
+summary: VetNav received the Social Good Track award at Grizzhacks 8 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Avien77/VA-Hospital-Finder
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/511/877/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Pablo Avila
+  - name: Sophia Valdezco

@@ -1,0 +1,23 @@
+id: atomic-tales
+name: Atomic Tales
+slug: atomic-tales
+tagline: Atomic Tales is an inclusive AR adventure where users help Pip, an alien from Pizza Planet,
+  get home while learning organic chemistry through playful, neurodive
+summary: Atomic Tales received the 3rd Place award at Reality Hack at AWE 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Tj-RA6EQCCM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/777/995/datas/gallery.jpg
+categories:
+  - education
+  - ar-vr
+technologies:
+  - gemini
+  - openai
+  - typescript
+builders:
+  - name: Krunal  MB Gediya
+  - name: Meghna S
+  - name: Vivek Thakur

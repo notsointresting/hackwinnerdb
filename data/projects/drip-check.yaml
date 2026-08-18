@@ -1,0 +1,25 @@
+id: drip-check
+name: Drip Check
+slug: drip-check
+tagline: A robot that scans your outfit head-to-toe, uses a vision LLM to rate your fit out of 10,
+  looks up garment prices, and roasts your drip out loud.
+summary: "Drip Check received the First Prize: Scrapegraph AI Track award at Robotic Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/emanuelebeffa/drip-check
+demo_url: null
+video_url: https://www.youtube.com/embed/2Chn6sVsIlo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - gemini
+  - python
+  - raspberry-pi
+  - whisper
+builders:
+  - name: Lorenzo Germano
+  - name: Emanuele Beffa
+  - name: Davide Secco

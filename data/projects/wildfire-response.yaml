@@ -1,0 +1,21 @@
+id: wildfire-response
+name: WildFire Response
+slug: wildfire-response
+tagline: "A family-first wildfire command center: official-weighted sources, household status,
+  human-approved agent actions, and optional voice check-ins—without pretendi"
+summary: WildFire Response received the Most Innovative Use of Guild.ai Platform award at Ship to
+  Prod - Agentic Engineering Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/YuvrajGupta1808/Wildfire-Response
+demo_url: null
+video_url: https://www.youtube.com/embed/aWGiSp3kr0E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/155/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies: []
+builders:
+  - name: Yuvraj Gupta
+  - name: pramod thebe

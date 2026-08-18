@@ -1,0 +1,22 @@
+id: frame-a-farm
+name: Frame a Farm
+slug: frame-a-farm
+tagline: "Frame-A-Farm turns your phone's camera feed into a smart, analyzed plant layout plan,
+  instantly analyzing soil type to recommend the best crops using real-time "
+summary: Frame a Farm received the Best Sustainability Hack award at JAMHacks 10 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jvarghesetech/jamhakcs10
+demo_url: null
+video_url: https://www.youtube.com/embed/vlGLtPtluNg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/614/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - c-plus-plus
+  - claude
+  - flask
+  - python
+builders:
+  - name: Vikas Sethuraman
+  - name: John Varghese

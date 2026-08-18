@@ -1,0 +1,14 @@
+id: neurologic-26-global-nlp-datathon
+name: "NeuroLogic '26: Global NLP Datathon"
+slug: neurologic-26-global-nlp-datathon
+organizer: []
+year: 2026
+sources:
+  - https://neurologic26.devpost.com/
+  - https://neurologic26.devpost.com/project-gallery?filter=winner
+website_url: https://neurologic26.devpost.com/
+platform: devpost
+participant_count: 144
+prize_pool: null
+currency: null
+description: "Devpost hackathon: NeuroLogic '26: Global NLP Datathon. Imported automatically."

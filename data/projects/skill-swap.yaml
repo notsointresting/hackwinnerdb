@@ -1,0 +1,21 @@
+id: skill-swap
+name: Skill Swap
+slug: skill-swap
+tagline: Free peer‑to‑peer skill exchange for students—AI‑powered matching, real‑time reminders, and
+  auto‑generated session guides, turning knowledge into a social curre
+summary: Skill Swap received the Best App Deployed on Google Cloud award at IntelliAI Arena in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Swayam7Garg/SwapSkill
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/732/458/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: AJAY KUMAR
+  - name: YASH SUROSHE
+  - name: Swayam  Garg

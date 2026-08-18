@@ -1,0 +1,24 @@
+id: res-q-swarm
+name: Res-Q Swarm
+slug: res-q-swarm
+tagline: A collaborative search and rescue system where an automated drone locates a target and
+  guides a robot dog to deliver vital ground support.
+summary: "Res-Q Swarm received the Grand Prize: Cyberwave Track award at Robotic Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/TommasoMombelli/RobHackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/mPONKFdPbcQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/796/146/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+  - yolo
+builders:
+  - name: Tommaso Mombelli
+  - name: alessio chen
+  - name: Stefano Agnelli
+  - name: Francesco Rinaldi

@@ -1,0 +1,14 @@
+id: mowajihi-ai-hack-days-in-agadir
+project_id: mowajihi-ai
+hackathon_id: hack-days-in-agadir
+submission_url: https://devpost.com/software/mowajihi-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/mowajihi-ai
+awards:
+  - type: category-winner
+    title: BEST DEPLOYED APP USING GOOGLE CLOUD
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

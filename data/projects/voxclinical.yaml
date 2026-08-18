@@ -1,0 +1,23 @@
+id: voxclinical
+name: VoxClinical
+slug: voxclinical
+tagline: A multi agent system that diagnoses disease through the sound of your voice
+summary: VoxClinical received the Top 10 Teams award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nirvaand01/VoxClinical_Final
+demo_url: null
+video_url: https://www.youtube.com/embed/kRZ6JyOswP0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/219/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Saketh Kollipara
+  - name: nirvaand01
+  - name: tanishrvi-lang

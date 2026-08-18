@@ -1,0 +1,22 @@
+id: graphclaw
+name: GraphClaw
+slug: graphclaw
+tagline: Graphclaw is a multi-agent AI platform where memory lives in a property graph, agents are
+  graph walkers, and skills can be installed from the internet at runtim
+summary: GraphClaw received the Agentic AI Track — 1st Place award at JacHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zero-abd/graphclaw
+demo_url: null
+video_url: https://www.youtube.com/embed/rAgFg8S8IJo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/388/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+  - react
+builders:
+  - name: Abdullah Al Mahmud
+  - name: A K M Mahmudul Kabir

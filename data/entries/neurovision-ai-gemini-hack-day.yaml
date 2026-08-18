@@ -1,0 +1,14 @@
+id: neurovision-ai-gemini-hack-day
+project_id: neurovision-ai
+hackathon_id: gemini-hack-day
+submission_url: https://devpost.com/software/neurovision-ai-oie6u3
+source:
+  platform: devpost
+  url: https://devpost.com/software/neurovision-ai-oie6u3
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

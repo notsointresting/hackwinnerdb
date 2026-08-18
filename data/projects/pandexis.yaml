@@ -1,0 +1,29 @@
+id: pandexis
+name: Pandexis
+slug: pandexis
+tagline: Pick a disease and a starting city. Slide R0, masks, travel curbs. World map of likely
+  spread, calibrated 95% bands, AI explainers per region. Built on IBM Clou
+summary: Pandexis received the Coffee Chat with Asma Ahmed (IBM Z Sheridan President and Founder of
+  UNSA Sheridan) award at IBM x UNSA Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Minifigures/ibm-z-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/3uJrlHBsrus
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/389/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Marco Anthony Ayuste
+  - name: Amr Alomari
+  - name: Aous Alomari
+  - name: Aahir Chakraborty-Saha

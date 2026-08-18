@@ -1,0 +1,21 @@
+id: branch
+name: Branch
+slug: branch
+tagline: Autonomous feature-development agent. File a GitHub issue → minutes later a real PR opens
+  against a forked-from-production database
+summary: Branch received the Most Innovative Use of Chainguard Images award at Ship to Prod -
+  Agentic Engineering Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/chinesepowered/hack-apr24/
+demo_url: null
+video_url: https://www.youtube.com/embed/F-5-mgj1U7M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/602/122/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - typescript
+builders:
+  - name: Nelson Lai

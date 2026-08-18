@@ -1,0 +1,27 @@
+id: spotted
+name: Spotted
+slug: spotted
+tagline: Smarter Surveillance
+summary: Spotted received the [MLH] Best Use of Gemma 4 award at Hackabull VII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/huslayer826/Spotted-HackABull2026
+demo_url: null
+video_url: https://www.youtube.com/embed/tlP9PTdhrIg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/336/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: Omar Yousef
+  - name: Fares Ibrahim
+  - name: kareemkemmo
+  - name: Saad

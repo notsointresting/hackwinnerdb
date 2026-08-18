@@ -1,0 +1,14 @@
+id: google-cloud-rapid-agent-hackathon
+name: Google Cloud Rapid Agent Hackathon
+slug: google-cloud-rapid-agent-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://rapid-agent.devpost.com/
+  - https://rapid-agent.devpost.com/project-gallery?filter=winner
+website_url: https://rapid-agent.devpost.com/
+platform: devpost
+participant_count: 14465
+prize_pool: 60000
+currency: USD
+description: "Devpost hackathon: Google Cloud Rapid Agent Hackathon. Imported automatically."

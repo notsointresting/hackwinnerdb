@@ -1,0 +1,21 @@
+id: ai-study-assistant
+name: AI study assistant
+slug: ai-study-assistant
+tagline: A web app where students upload a pdf or lecture notes and the system can summarise the
+  document, generate notes and create power points slides for their studie
+summary: AI study assistant received the Gift Cards award at Nairobi Hack Day in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Lauryn Kelly

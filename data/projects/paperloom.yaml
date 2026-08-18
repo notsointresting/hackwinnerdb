@@ -1,0 +1,21 @@
+id: paperloom
+name: paperLoom
+slug: paperloom
+tagline: What if your paper became the password? PaperLoom turns physical notes and textbooks into
+  secure, AI-powered learning spaces. An ESP32 creates a unique cryptogr
+summary: paperLoom received the Best Vision & Hardware Hack award at STEMist Hacks IV in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NOBA235/paperloom
+demo_url: null
+video_url: https://www.youtube.com/embed/pv6snAXiVeI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/050/193/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - gemini
+  - postgresql
+builders:
+  - name: Noba Aier

@@ -1,0 +1,21 @@
+id: terrapulse
+name: TerraPulse
+slug: terrapulse
+tagline: A globe-first travel discovery experience where cities unfold into landmarks, food,
+  weather, and local stories through immersive design and AI guidance.
+summary: TerraPulse received the Pudding Success On award at DesignVerse 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cyy-07/design-a-hack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/763/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - creative-tools
+technologies:
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: cyy-07 Yiyang

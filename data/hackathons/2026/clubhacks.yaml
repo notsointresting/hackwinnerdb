@@ -1,0 +1,14 @@
+id: clubhacks
+name: ClubHacks
+slug: clubhacks
+organizer: []
+year: 2026
+sources:
+  - https://clubhacks.devpost.com/
+  - https://clubhacks.devpost.com/project-gallery?filter=winner
+website_url: https://clubhacks.devpost.com/
+platform: devpost
+participant_count: 38
+prize_pool: 500
+currency: USD
+description: "Devpost hackathon: ClubHacks. Imported automatically."

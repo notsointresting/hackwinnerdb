@@ -1,0 +1,22 @@
+id: swaptivity-by-palette
+name: Swaptivity by Palette
+slug: swaptivity-by-palette
+tagline: "A social media platform to foster skill sharing! Fear of judgment makes people hesitant to
+  showcase what they’re learning. Incredibly difficult to connect with "
+summary: Swaptivity by Palette received the Overall Winner award at CISSA Design Blitz 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/499/554/datas/gallery.jpg
+categories:
+  - education
+  - media
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Kevin Bryan
+  - name: Muhammad Nusi
+  - name: Aiku Gui

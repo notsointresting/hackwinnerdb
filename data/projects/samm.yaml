@@ -1,0 +1,22 @@
+id: samm
+name: SAMM
+slug: samm
+tagline: Lovable for Consumer Goods
+summary: SAMM received the [Sponsored] Aucctus Track award at SOON Hackathon  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MarcDasilva/Soon2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/675/datas/gallery.jpg
+categories:
+  - consumer
+technologies:
+  - openai
+  - python
+  - react
+builders:
+  - name: Subodh Thallada
+  - name: Mihajlo Micic
+  - name: Akira Takaki
+  - name: Marc Da Silva

@@ -1,0 +1,14 @@
+id: gaba-hackday
+name: GABA Hackday
+slug: gaba-hackday
+organizer: []
+year: 2026
+sources:
+  - https://gaba-hackday.devpost.com/
+  - https://gaba-hackday.devpost.com/project-gallery?filter=winner
+website_url: https://gaba-hackday.devpost.com/
+platform: devpost
+participant_count: 12
+prize_pool: null
+currency: null
+description: "Devpost hackathon: GABA Hackday. Imported automatically."

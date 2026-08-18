@@ -1,0 +1,25 @@
+id: slouch-detectors
+name: Slouch Detectors
+slug: slouch-detectors
+tagline: Real-time posture coaching that keeps your back in check — before the ache kicks in :p
+summary: Slouch Detectors received the 2nd Place award at Abstraction Hackathon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yc62/Slouch_Detector/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/476/861/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - arduino
+  - c-plus-plus
+  - flask
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: John (Yong Hwan) Cho
+  - name: R J

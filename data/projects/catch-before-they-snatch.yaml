@@ -1,0 +1,22 @@
+id: catch-before-they-snatch
+name: Catch Before They Snatch
+slug: catch-before-they-snatch
+tagline: One cop. A city full of suspects. Steal phones, blend into the crowd, and vanish, or catch
+  them before they snatch.
+summary: Catch Before They Snatch received the Rork 2nd Place award at The London Rork Game
+  Hackathon  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/JMvogA4kLbs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/905/datas/gallery.jpg
+categories:
+  - iot
+  - gaming
+technologies:
+  - react
+builders:
+  - name: Dheer Maheshwari
+  - name: Reece Rodrigues
+  - name: Reece Rodrigues

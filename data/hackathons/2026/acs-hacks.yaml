@@ -1,0 +1,14 @@
+id: acs-hacks
+name: ACS Hacks
+slug: acs-hacks
+organizer: []
+year: 2026
+sources:
+  - https://acshacks.devpost.com/
+  - https://acshacks.devpost.com/project-gallery?filter=winner
+website_url: https://acshacks.devpost.com/
+platform: devpost
+participant_count: 15
+prize_pool: null
+currency: null
+description: "Devpost hackathon: ACS Hacks. Imported automatically."

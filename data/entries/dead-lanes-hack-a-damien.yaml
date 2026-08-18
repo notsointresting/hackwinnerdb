@@ -1,0 +1,14 @@
+id: dead-lanes-hack-a-damien
+project_id: dead-lanes
+hackathon_id: hack-a-damien
+submission_url: https://devpost.com/software/dead-lanes
+source:
+  platform: devpost
+  url: https://devpost.com/software/dead-lanes
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

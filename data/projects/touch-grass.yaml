@@ -1,0 +1,20 @@
+id: touch-grass
+name: Touch Grass
+slug: touch-grass
+tagline: An app that forces your to go outside and take a photo to share with your friends
+summary: Touch Grass received the First Place award at Trend Hacker in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/weisenp/touchGrass
+demo_url: null
+video_url: https://www.youtube.com/embed/TPz8OV85FCQ
+image_url: null
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Weisen Peng
+  - name: Sophia Hsu

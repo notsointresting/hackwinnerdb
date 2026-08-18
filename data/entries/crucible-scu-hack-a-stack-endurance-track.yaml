@@ -1,0 +1,14 @@
+id: crucible-scu-hack-a-stack-endurance-track
+project_id: crucible
+hackathon_id: scu-hack-a-stack-endurance-track
+submission_url: https://devpost.com/software/crucible-dzerkc
+source:
+  platform: devpost
+  url: https://devpost.com/software/crucible-dzerkc
+awards:
+  - type: second-place
+    title: 2nd Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

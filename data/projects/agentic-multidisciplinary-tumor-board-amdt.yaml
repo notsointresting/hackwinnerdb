@@ -1,0 +1,21 @@
+id: agentic-multidisciplinary-tumor-board-amdt
+name: Agentic Multidisciplinary Tumor Board (AMDT)
+slug: agentic-multidisciplinary-tumor-board-amdt
+tagline: Orchestration that uses A2A agents to synthesize unstructured FHIR pathology & radiology
+  data into instant Tumor Board briefs. We eliminate hours of manual prep
+summary: Agentic Multidisciplinary Tumor Board (AMDT) received the Honorable Mentions award at
+  Agents Assemble - The Healthcare AI Endgame in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/godmodevegeta/mcp-continuum/tree/main/po-mcp-server
+demo_url: null
+video_url: https://www.youtube.com/embed/s-Vp5zmHziA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/637/032/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Shubham K

@@ -1,0 +1,17 @@
+id: bookmarky
+name: bookmarky
+slug: bookmarky
+tagline: "bookmarky is a interactive space for your bookmarks where your links are alive. nothing is
+  ranked or sorted, the layout is a direct reflection of your bookmark "
+summary: "bookmarky received the Framer Track: 1st Place award at CreateSC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/162wlysTNM4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/567/529/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies: []
+builders:
+  - name: Deep Patel

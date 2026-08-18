@@ -1,0 +1,14 @@
+id: finance-paradise-grizzhacks-8
+project_id: finance-paradise
+hackathon_id: grizzhacks-8
+submission_url: https://devpost.com/software/finance-paradise
+source:
+  platform: devpost
+  url: https://devpost.com/software/finance-paradise
+awards:
+  - type: track-winner
+    title: Fintech Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: transitara-hack-days-patna
+project_id: transitara
+hackathon_id: hack-days-patna
+submission_url: https://devpost.com/software/transitara
+source:
+  platform: devpost
+  url: https://devpost.com/software/transitara
+awards:
+  - type: category-winner
+    title: Best use of Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

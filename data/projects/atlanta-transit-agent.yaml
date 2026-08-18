@@ -1,0 +1,25 @@
+id: atlanta-transit-agent
+name: Atlanta Transit Agent
+slug: atlanta-transit-agent
+tagline: An agent that answers Atlanta transit questions from live data and refuses to tell you what
+  you want to hear. I set out to prove MARTA underserves poor neighbor
+summary: Atlanta Transit Agent received the Best Use of Atlanta Open Data award at Hack RenderATL in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/devfep/hack-renderatl-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/_F238Q3-bzc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/092/230/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - nextjs
+  - python
+  - typescript
+builders:
+  - name: Felix Patawah

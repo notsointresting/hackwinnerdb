@@ -1,0 +1,24 @@
+id: agriconnect
+name: AgriConnect
+slug: agriconnect
+tagline: Connecting harvests with intelligence to enable smarter agricultural procurement. Our
+  tagline is Bridging Harvest, Building Trust.
+summary: AgriConnect received the Best No-Code Hack award at Garuda Hacks 7.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5ai4h4wouOY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/912/000/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - figma
+  - gemini
+builders:
+  - name: Jonah Matthew Santoso
+  - name: Muhammad Fadhil Adheesha Zharif
+  - name: Steven Santoso

@@ -1,0 +1,24 @@
+id: nysee
+name: NYSee
+slug: nysee
+tagline: NYSee turns the chaotic world of New York City into spoken guidance for accessible navigation.
+summary: NYSee received the 3rd Overall Hack award at HackMHC++ in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/amira-abdelmohsen/NYSee
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/504/812/datas/medium.jpg
+categories:
+  - education
+  - accessibility
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: amira-abdelmohsen Abdelmohsen
+  - name: Sahla Taher
+  - name: Anthony Etwaru
+  - name: Kadidja Traore

@@ -1,0 +1,14 @@
+id: legaleasy-quantum-sprint
+project_id: legaleasy
+hackathon_id: quantum-sprint
+submission_url: https://devpost.com/software/legaleasy-aqmjbw
+source:
+  platform: devpost
+  url: https://devpost.com/software/legaleasy-aqmjbw
+awards:
+  - type: other
+    title: "Referral Reward Program for participants:"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

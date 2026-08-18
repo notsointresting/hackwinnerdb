@@ -1,0 +1,23 @@
+id: wavearm
+name: WaveArm
+slug: wavearm
+tagline: "Controlling robots shouldn’t require joysticks. We use a webcam to turn gestures and
+  emotions into real-time robot commands, enabling natural, safe human-robot "
+summary: "WaveArm received the Grand Prize: Devpunks Track award at Robotic Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/AndreaMontalbano/Hackathon-Robotica
+demo_url: null
+video_url: https://www.youtube.com/embed/32ebCxhgnBs
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+builders:
+  - name: Matteo Magnani
+  - name: Andrea Montalbano
+  - name: Elia Coppiardi
+  - name: gianlu morotz

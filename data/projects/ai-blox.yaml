@@ -1,0 +1,25 @@
+id: ai-blox
+name: AI Blox
+slug: ai-blox
+tagline: A visual representation of Python based infrastructure in a drag-and-drop format.
+summary: AI Blox received the Best Real-World Application award at vibeFORWARD in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/XekaiBRCpQk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - langchain
+  - pytorch
+  - typescript
+builders:
+  - name: nathanael-lara Lara
+  - name: Makendy Midouin
+  - name: Buddhsen Tripathi
+  - name: Saisrijith Reddy Maramreddy

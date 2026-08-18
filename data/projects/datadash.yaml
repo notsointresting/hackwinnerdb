@@ -1,0 +1,19 @@
+id: datadash
+name: DataDash
+slug: datadash
+tagline: "As avid enjoyers of good food and gatekept, niche restaurants, we’re tired of being
+  recommended the same restaurants over and over again. That’s why we created "
+summary: DataDash received the Best Presentation award at Data Heist 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kanhaiworld/Datathon2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/078/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Kanhai Mukund Wadekar

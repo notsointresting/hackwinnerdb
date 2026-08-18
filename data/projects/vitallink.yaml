@@ -1,0 +1,23 @@
+id: vitallink
+name: VitalLink
+slug: vitallink
+tagline: Blood donation, matched directly — no middleman, no delay.
+summary: VitalLink received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hassanimtiaz158/VitalLink
+demo_url: null
+video_url: https://www.youtube.com/embed/moohS95Zqio
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/866/238/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Hasan Ali
+  - name: Aman Asjad

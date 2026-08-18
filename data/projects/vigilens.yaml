@@ -1,0 +1,25 @@
+id: vigilens
+name: Vigilens
+slug: vigilens
+tagline: AI system that monitors workplaces using video and specialized agents to detect safety
+  issues and inefficiencies, giving actionable insights, like an AI manager
+summary: Vigilens received the Build The Future of Video Understanding with TwelveLabs award at
+  DiamondHacks 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/RyanDang363/DiamondHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/_rVfNiFHp9o
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Ethan Tran
+  - name: Thomas Cung
+  - name: Ryan Dang
+  - name: Evan Nguyen

@@ -1,0 +1,24 @@
+id: disco-patrol
+name: Disco Patrol
+slug: disco-patrol
+tagline: Disco Patrol is an AI-powered party-safety drone that verifies authorized guests in real
+  time, maintaining a disco display and flashing red instantly when an in
+summary: Disco Patrol received the Sauron Home Security Track award at MakeMIT x Harvard 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/We80v4YlQbE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/362/049/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - creative-tools
+technologies:
+  - opencv
+  - python
+  - raspberry-pi
+  - yolo
+builders:
+  - name: Tristan Robichaud
+  - name: EliasCoumine
+  - name: Cat Arase

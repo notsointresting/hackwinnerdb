@@ -1,0 +1,24 @@
+id: pothole-pilot
+name: Pothole Pilot
+slug: pothole-pilot
+tagline: Pothole Pilot uses AI and dashcams in city vehicles to detect potholes and road cracks in
+  real time. GPS-tagged reports create a live map so cities can prioriti
+summary: Pothole Pilot received the 1st Place award at Technology for Good 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/caleb-brost/TKU-Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/PzFpx925d3M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/434/721/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - react
+  - supabase
+builders:
+  - name: Caleb Brost
+  - name: Aleksei Antoniukov
+  - name: Zach Merrifield

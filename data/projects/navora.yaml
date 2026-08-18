@@ -1,0 +1,21 @@
+id: navora
+name: Navora
+slug: navora
+tagline: Know they’re safe.Even when you’re not there.
+summary: Navora received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Coder-13-11/SafeZone-App
+demo_url: null
+video_url: https://www.youtube.com/embed/3BXNOYOysEs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/952/956/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - java
+  - react
+  - typescript
+builders:
+  - name: Karthikeya Sai

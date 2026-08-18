@@ -1,0 +1,14 @@
+id: nova-ai-hacktech-by-caltech-2026
+project_id: nova-ai
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/nova-ai-xid5pa
+source:
+  platform: devpost
+  url: https://devpost.com/software/nova-ai-xid5pa
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of Backboard - Tile Essentials Pack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

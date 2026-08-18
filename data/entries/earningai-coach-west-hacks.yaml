@@ -1,0 +1,16 @@
+id: earningai-coach-west-hacks
+project_id: earningai-coach
+hackathon_id: west-hacks
+submission_url: https://devpost.com/software/earningai-coach
+source:
+  platform: devpost
+  url: https://devpost.com/software/earningai-coach
+awards:
+  - type: third-place
+    title: 3rd place
+  - type: first-place
+    title: "Charity Donation: 1st, 2nd, & 3rd Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

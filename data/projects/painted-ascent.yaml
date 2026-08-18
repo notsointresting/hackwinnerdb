@@ -1,0 +1,18 @@
+id: painted-ascent
+name: Painted Ascent
+slug: painted-ascent
+tagline: Dans Painted Ascent, on escalade une montagne en plaçant des formes qui transforment le jeu
+  en une œuvre vivante. Plus on monte, plus la création s’illumine, sy
+summary: Painted Ascent received the Women's prize award at HackTheMountain 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/youk25/HackTheMountain
+demo_url: null
+video_url: https://www.youtube.com/embed/1guoXB4wYfE
+image_url: null
+categories:
+  - other
+technologies:
+  - unity
+builders:
+  - name: youk25 Khettal

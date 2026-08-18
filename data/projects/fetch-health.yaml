@@ -1,0 +1,26 @@
+id: fetch-health
+name: Fetch Health
+slug: fetch-health
+tagline: AI assistant for organ transplant
+summary: Fetch Health received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/abhinavprkash/Fetch-Health.git
+demo_url: null
+video_url: https://www.youtube.com/embed/1Fm5qSy5vFM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/803/774/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - anthropic
+  - claude
+  - react
+  - redis
+builders:
+  - name: Krishna Tagdiwala
+  - name: Hemakshi Pandey
+  - name: Chetas Parekh
+  - name: ABHINAV PRAKASH

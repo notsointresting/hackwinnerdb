@@ -1,0 +1,21 @@
+id: limpid
+name: Limpid
+slug: limpid
+tagline: 3D printable device that uses water on your phone lens to identify microplastics in your
+  water! Additionally if sampling water from the ocean can tell you the c
+summary: Limpid received the Mechanical Design & Biotechnology track award at DataHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/CRfZEDVZ0H4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Marshall Flinn
+  - name: Milo Lin
+  - name: SihoChoii Choi

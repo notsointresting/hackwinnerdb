@@ -1,0 +1,20 @@
+id: sleeply
+name: Sleeply
+slug: sleeply
+tagline: Visualize your sleep. Sleeply let's you see what's happening in your brain during a night's
+  rest. Based on inputs, it simulates your brain activity so you can s
+summary: Sleeply received the Best First Time Hack - Bitcamp award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UAVtyrTWnRA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/992/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+builders:
+  - name: Simon Green Thompson

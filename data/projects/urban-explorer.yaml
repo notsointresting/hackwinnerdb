@@ -1,0 +1,17 @@
+id: urban-explorer
+name: Urban Explorer
+slug: urban-explorer
+tagline: Projekt zamerany na preskumavanie okolia.
+summary: Urban Explorer received the 3rd Place award at Hack Day in UPJŠ in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/79stano15/Urban-Explorer.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: Vanda Matušíková
+  - name: Stanislav Soltys

@@ -1,0 +1,25 @@
+id: voxel
+name: Voxel
+slug: voxel
+tagline: Revitalizing education through a headset powered by Augmented Reality and Generative AI.
+summary: Voxel received the [Sponsored] Best AI Hack using IBM Technology (In-Person Only) award
+  at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/georgef166/GenAIGenesis2026
+demo_url: null
+video_url: https://www.youtube.com/embed/at121NtbVyg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/443/851/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - dart
+  - flutter
+  - swift
+builders:
+  - name: Taimoor Aleem
+  - name: George Farag
+  - name: Harsheta  S
+  - name: Yves Donato

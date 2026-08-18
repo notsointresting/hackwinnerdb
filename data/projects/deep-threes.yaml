@@ -1,0 +1,24 @@
+id: deep-threes
+name: Deep Threes
+slug: deep-threes
+tagline: NBA-level shot tracking for any gym, using computer vision that logs who shot, from where,
+  and whether it went in, and player position.
+summary: Deep Threes received the Best Use of MongoDB Atlas award at FullyHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chunkys0up/deep-threes
+demo_url: null
+video_url: https://www.youtube.com/embed/-P6lbOUP2GI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/455/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Andrew TNguyen
+  - name: derektran005
+  - name: Noah Scott
+  - name: Avyakt Rout

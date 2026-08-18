@@ -1,0 +1,20 @@
+id: koleg-opencategory
+name: KoleG_OpenCategory
+slug: koleg-opencategory
+tagline: Datathon Open Category using 18 features for high metrics.
+summary: KoleG_OpenCategory received the Gift Card 1st Place High School award at Data Snax Datathon
+  in St. Louis in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - sql
+builders:
+  - name: Kole Guenther

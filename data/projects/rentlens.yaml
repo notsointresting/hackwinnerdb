@@ -1,0 +1,20 @@
+id: rentlens
+name: RentLens
+slug: rentlens
+tagline: Students lose deposits to fake landlords every semester. Rent Lens verifies every listing
+  before it goes live. Find a home, not a scam.
+summary: RentLens received the Honorable Mention award at Build With AI x Hackday FUTMINNA 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Eunice Bala Jesse
+  - name: Temitayo Omoniyi

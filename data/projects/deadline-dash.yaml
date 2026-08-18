@@ -1,0 +1,20 @@
+id: deadline-dash
+name: Deadline Dash
+slug: deadline-dash
+tagline: Deadline Dash turns school stress into an arcade reflex game, measuring reaction time,
+  accuracy, focus, panic, and leaderboard scores under pressure.
+summary: Deadline Dash received the Best Beginner Hack award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UCkCF0BCpoUxvsktzSttCRjA
+image_url: null
+categories:
+  - gaming
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: Kayla Jia
+  - name: Kaycee Li-shi

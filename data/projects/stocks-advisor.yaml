@@ -1,0 +1,18 @@
+id: stocks-advisor
+name: Stocks Advisor
+slug: stocks-advisor
+tagline: "Our spin on how AI can help users in the real money world; tackling a concept many wish to
+  branch into: Stocks!"
+summary: Stocks Advisor received the Best application within category award at Youth Code x AI in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EWAoICTovNA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/835/639/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies: []
+builders:
+  - name: Anikait Datta
+  - name: Aroma Mahbub

@@ -1,0 +1,26 @@
+id: surgeonai
+name: SurgeonAI
+slug: surgeonai
+tagline: "SurgeonAI: Real-time vision for surgical precision."
+summary: SurgeonAI received the Best in Healthcare award at Vandyhacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Faiz-k490/surgeai
+demo_url: null
+video_url: https://www.youtube.com/embed/GpQovbanUAU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/787/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - flask
+  - javascript
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Faizan A.K.K
+  - name: Rabuor Tindi
+  - name: suess7

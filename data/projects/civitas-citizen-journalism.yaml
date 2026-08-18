@@ -1,0 +1,18 @@
+id: civitas-citizen-journalism
+name: "Civitas: Citizen Journalism"
+slug: civitas-citizen-journalism
+tagline: Rebuilding the fourth estate through community participation.
+summary: "Civitas: Citizen Journalism received the Digi Camera award at MontyHacks IX in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/RandomCodingPerson/civitas
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - media
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Vibhuv Sharma

@@ -1,0 +1,14 @@
+id: food-bridge-skyhigh-george-hacks-x-united-nations-reboot-the-earth-hackathon
+project_id: food-bridge-skyhigh
+hackathon_id: george-hacks-x-united-nations-reboot-the-earth-hackathon
+submission_url: https://devpost.com/software/food-bridge-isqzu0
+source:
+  platform: devpost
+  url: https://devpost.com/software/food-bridge-isqzu0
+awards:
+  - type: winner
+    title: United Nations & FAO Problem Statement Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

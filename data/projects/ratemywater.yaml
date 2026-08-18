@@ -1,0 +1,24 @@
+id: ratemywater
+name: RateMyWater
+slug: ratemywater
+tagline: Is it swimmable? Sippable? A biohazard? Find out.
+summary: RateMyWater received the Best use of MongoDB award at Code-A-Site in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SidmoGoesBrrr/RateMyWater.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/652/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - mongodb
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Ananya Jain
+  - name: Siddhant Mohile
+  - name: Akeen Karkare
+  - name: Kshitij Naramdev

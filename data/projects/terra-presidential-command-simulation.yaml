@@ -1,0 +1,21 @@
+id: terra-presidential-command-simulation
+name: "TERRA: Presidential Command Simulation"
+slug: terra-presidential-command-simulation
+tagline: A real-time geopolitical strategy game where you play as the President of the United
+  States. Make decisions on live world events, manage factions, and shape his
+summary: "TERRA: Presidential Command Simulation received the 2nd Place award at Build with MeDo
+  Hackathon  in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/438/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - javascript
+  - react
+builders: []

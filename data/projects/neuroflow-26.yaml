@@ -1,0 +1,22 @@
+id: neuroflow-26
+name: neuroflow - 26
+slug: neuroflow-26
+tagline: AI study companion built for neurodivergent students. 4 agents collaborate in real-time,
+  researching strategies for your disability, syncing coursework, and sch
+summary: neuroflow - 26 received the Best Use of fetch.ai award at BeachHacks 9.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/quachphu/NeuroFlow
+demo_url: null
+video_url: https://www.youtube.com/embed/U-uGXz10zS4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/485/717/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+builders:
+  - name: Phu Quach
+  - name: Anish Kancherla
+  - name: Anish Kancherla

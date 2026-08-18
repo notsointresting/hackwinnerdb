@@ -1,0 +1,26 @@
+id: theracat
+name: Theracat
+slug: theracat
+tagline: A band and a plush cat that catch anxiety in how you move — and interrupt it before it
+  peaks. There's no app to open, no waiting room. It's already on you, alre
+summary: Theracat received the GRAND PRIZE - Ddoski's Lab Track award at UC Berkeley AI Hackathon
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/emilyLi2020/Theracat
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/806/675/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - elevenlabs
+  - esp32
+  - python
+builders:
+  - name: Wenqing Li
+  - name: Jing Ye
+  - name: Siddhant Sanghi
+  - name: Kevin Wang

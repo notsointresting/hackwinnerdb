@@ -1,0 +1,14 @@
+id: daedalus-jamhacks-10
+project_id: daedalus
+hackathon_id: jamhacks-10
+submission_url: https://devpost.com/software/glebber-stometric
+source:
+  platform: devpost
+  url: https://devpost.com/software/glebber-stometric
+awards:
+  - type: category-winner
+    title: Best Non-GenAI Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

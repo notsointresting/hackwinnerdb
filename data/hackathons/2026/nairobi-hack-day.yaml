@@ -1,0 +1,14 @@
+id: nairobi-hack-day
+name: Nairobi Hack Day
+slug: nairobi-hack-day
+organizer: []
+year: 2026
+sources:
+  - https://nairobi-hack-day.devpost.com/
+  - https://nairobi-hack-day.devpost.com/project-gallery?filter=winner
+website_url: https://nairobi-hack-day.devpost.com/
+platform: devpost
+participant_count: 14
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Nairobi Hack Day. Imported automatically."

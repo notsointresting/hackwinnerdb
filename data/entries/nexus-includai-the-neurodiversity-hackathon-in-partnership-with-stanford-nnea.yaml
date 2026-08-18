@@ -1,0 +1,14 @@
+id: nexus-includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+project_id: nexus
+hackathon_id: includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+submission_url: https://devpost.com/software/nexus-5df2vh
+source:
+  platform: devpost
+  url: https://devpost.com/software/nexus-5df2vh
+awards:
+  - type: track-winner
+    title: "Track Winner: AI for Connection & Wellbeing"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

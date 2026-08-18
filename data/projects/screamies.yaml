@@ -1,0 +1,17 @@
+id: screamies
+name: Screamies
+slug: screamies
+tagline: "Screamies: Keep your data, lose your voice"
+summary: Screamies received the 2nd place award at Dum, Duber and Dumber Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/n3F1_n0h0xI
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: Neha Gupta
+  - name: Afrin Shafeek

@@ -1,0 +1,25 @@
+id: embodied-blocks
+name: Embodied Blocks
+slug: embodied-blocks
+tagline: Modular toys with physical intelligence.
+summary: "Embodied Blocks received the PLAY - Track award at HARD MODE: Hardware x AI Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/bydemihu/embodiedblocks
+demo_url: null
+video_url: https://www.youtube.com/embed/4p6G97eIRZE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/474/251/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+  - openai
+  - python
+  - raspberry-pi
+builders:
+  - name: Demi Hu
+  - name: Alex liao
+  - name: Ching-Wen Chen
+  - name: Adrian Tsao

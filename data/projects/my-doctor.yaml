@@ -1,0 +1,19 @@
+id: my-doctor
+name: My Doctor
+slug: my-doctor
+tagline: Millions struggle to read medical reports. My Doctor is a health literacy app acting as a
+  personal medical translator, turning complex jargon into plain languag
+summary: My Doctor received the Second Place award at ACM-W X Butterbase Build Night in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/josuediazflores/MyDoctor
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/671/306/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - javascript
+builders:
+  - name: Isabella Guzman
+  - name: Josue Diaz

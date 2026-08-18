@@ -1,0 +1,25 @@
+id: sympsense-safe-observable-health-ai
+name: "SympSense: Safe & Observable Health AI"
+slug: sympsense-safe-observable-health-ai
+tagline: A transparency-first AI health assistant that transforms symptom checking into structured,
+  explainable, and calm decision support.
+summary: "SympSense: Safe & Observable Health AI received the Participation & Completion Recognition
+  award at Hyperbloom V2 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Aadya2901/symp-sense
+demo_url: null
+video_url: https://www.youtube.com/embed/--tYGro01OY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/492/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Aadya Patel
+  - name: Anish Kushwaha
+  - name: ANANYA MISHRA

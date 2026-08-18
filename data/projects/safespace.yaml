@@ -1,0 +1,22 @@
+id: safespace
+name: SafeSpace
+slug: safespace
+tagline: Your Sensory Friendly Digital Sanctuary
+summary: SafeSpace received the 2nd Place award at CTC x Google Gemini Prompt-a-thon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sophieelissachoi/ctc-gemini-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/708/314/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+builders:
+  - name: Kailee Kaocharoen
+  - name: Sophie Elissa Choi
+  - name: Harini Suresh
+  - name: Anushka Dubey

@@ -1,0 +1,21 @@
+id: snap-species-3h
+name: Snap Species 3H
+slug: snap-species-3h
+tagline: Snap Species lets users photograph wildlife, get instant AI identification, and report
+  sightings on a map to track and explore biodiversity in real time.
+summary: Snap Species 3H received the 2nd Place award at WildHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anonymous3813/SnapSpecies
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/027/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+builders:
+  - name: anonymous3813 Luo

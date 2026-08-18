@@ -1,0 +1,22 @@
+id: policydiff
+name: policyDiff
+slug: policydiff
+tagline: Real-time payer policy intelligence for proactive denial prevention.
+summary: policyDiff received the Best use of ClickHouse award at Agentic Engineering Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/manoj1749/policyDiff
+demo_url: null
+video_url: https://www.youtube.com/embed/EMDqxOE8Fto
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/703/189/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - gemini
+  - nextjs
+  - python
+builders:
+  - name: Manoj Sadanala
+  - name: Kasanneni Yashwanth

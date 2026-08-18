@@ -1,0 +1,21 @@
+id: lacakin-swarm-intelligence-for-stolen-motorcycles
+name: Lacakin — Swarm Intelligence for Stolen Motorcycles
+slug: lacakin-swarm-intelligence-for-stolen-motorcycles
+tagline: Lacakin is a multi-agent AI system that helps track stolen motorcycles in real time using
+  CCTV, marketplace monitoring, swarm agents, and automated investigatio
+summary: Lacakin — Swarm Intelligence for Stolen Motorcycles received the 1st Place Winner award at
+  OpenClaw Agenthon Build Club x RISTEK Fasilkom UI in 2026. This record was imported automatically;
+  the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/emrsyah/OpenClaw2026_SepedaSanjo_LacakinAi
+demo_url: null
+video_url: https://www.youtube.com/embed/A2ZL1jqqFFE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/670/735/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - sqlite
+builders:
+  - name: Argonaemo Emirsyah
+  - name: sanzoo So

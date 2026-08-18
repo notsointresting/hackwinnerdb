@@ -1,0 +1,27 @@
+id: clara
+name: Clara
+slug: clara
+tagline: This is a new way to learn public speaking. Record your talks, get a diagnostic breakdown
+  of your speaking patterns, and catch mistakes that no human could with
+summary: Clara received the MLH || Best Domain Name from GoDaddy Registry || Digital Gift Card award
+  at HooHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/LoganBradley787/Clara
+demo_url: null
+video_url: https://www.youtube.com/embed/ElaNwViUtOM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/905/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - openai
+  - python
+  - react
+  - typescript
+builders:
+  - name: Pranathi Kandlakunta
+  - name: Logan Bradley
+  - name: Ishan Ajwani

@@ -1,0 +1,16 @@
+id: tailhub-tailcloud-plus-tailtv-hack-canada-2026
+project_id: tailhub-tailcloud-plus-tailtv
+hackathon_id: hack-canada-2026
+submission_url: https://devpost.com/software/tailhub
+source:
+  platform: devpost
+  url: https://devpost.com/software/tailhub
+awards:
+  - type: other
+    title: Tailscale Integration Challenge
+  - type: other
+    title: SPUR - Build a Real Canadian Startup (Top 10)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

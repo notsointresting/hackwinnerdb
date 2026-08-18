@@ -1,0 +1,29 @@
+id: ligands
+name: Ligands
+slug: ligands
+tagline: An AI-powered pipeline that lets you ask a simple question, "Does this drug bind this
+  protein?" and automatically handles all the computational bottlenecks behi
+summary: Ligands received the Best Social Impact award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/J35evMRV2Qw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - graphql
+  - javascript
+  - openai
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Ben Wu
+  - name: Scott Oftedahl
+  - name: Chandhra Gundam
+  - name: Abhinav Raja

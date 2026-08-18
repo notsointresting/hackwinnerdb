@@ -1,0 +1,16 @@
+id: sixth-sense-hackdartmouth-xi
+project_id: sixth-sense
+hackathon_id: hackdartmouth-xi
+submission_url: https://devpost.com/software/sixth-sense-qwch2g
+source:
+  platform: devpost
+  url: https://devpost.com/software/sixth-sense-qwch2g
+awards:
+  - type: other
+    title: AirPod 4
+  - type: other
+    title: $10,000 LiveAvatar Prize Package (Business Plan)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

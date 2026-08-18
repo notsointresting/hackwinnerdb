@@ -1,0 +1,22 @@
+id: seantimothycollins
+name: SeanTimothyCollins
+slug: seantimothycollins
+tagline: Remote controlled robotics reimagined.
+summary: SeanTimothyCollins received the Free-WiLi award at Grizzhacks 8 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fischweinen/GrizzHacks8
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/511/328/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+builders:
+  - name: Linda Tir
+  - name: Zack Lain
+  - name: Trent Hoeffel
+  - name: Axel D

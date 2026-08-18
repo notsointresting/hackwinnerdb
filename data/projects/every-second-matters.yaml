@@ -1,0 +1,22 @@
+id: every-second-matters
+name: Every Second Matters
+slug: every-second-matters
+tagline: We make the same ambulance fleet respond faster to real 911 calls by moving idle units to
+  where the next call is likely to be using a predictive computational m
+summary: Every Second Matters received the 3rd Place award at CSI Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/025/316/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: Krishay Suresh
+  - name: Darren Chan
+  - name: Reid Mariotti

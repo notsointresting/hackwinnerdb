@@ -1,0 +1,17 @@
+id: smart-soil-analyzer
+name: Smart soil Analyzer
+slug: smart-soil-analyzer
+tagline: "Smart Soil Analyzer (SS-C4): Instant AI soil testing in 10s with local voice guidance to
+  boost farm yields and save fertilizer costs."
+summary: Smart soil Analyzer received the Google AI Pro Postcard award at HackDays Delhi in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/get1214/Smart-Soil-Analyzer
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/021/886/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies: []
+builders:
+  - name: Tekleweyni Berhe

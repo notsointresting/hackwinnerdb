@@ -1,0 +1,16 @@
+id: freeme-youcode-2026
+project_id: freeme
+hackathon_id: youcode-2026
+submission_url: https://devpost.com/software/freeme-76b4om
+source:
+  platform: devpost
+  url: https://devpost.com/software/freeme-76b4om
+awards:
+  - type: other
+    title: Diversity in CS Project Hub
+  - type: category-winner
+    title: Best Beginner Team - CWI Stream
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,18 @@
+id: vaani-2-0-linghacks-vii
+project_id: vaani-2-0
+hackathon_id: linghacks-vii
+submission_url: https://devpost.com/software/vaani-2-0
+source:
+  platform: devpost
+  url: https://devpost.com/software/vaani-2-0
+awards:
+  - type: second-place
+    title: 2nd Place
+  - type: other
+    title: Top 10 Teams
+  - type: winner
+    title: All Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

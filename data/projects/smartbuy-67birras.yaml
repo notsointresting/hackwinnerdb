@@ -1,0 +1,23 @@
+id: smartbuy-67birras
+name: SmartBuy - 67Birras
+slug: smartbuy-67birras
+tagline: "SmartBuy for Damm: AI-driven BUY/HEDGE recommendations using Cala.ai. We transform
+  satellite and energy signals into actionable procurement to secure margins ag"
+summary: SmartBuy - 67Birras received the Winner SmartBuy Challenge award at DAMM <&> EHUB in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Guillem-Are/DAMM_2.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - claude
+  - python
+builders:
+  - name: GUILLEM AREVALO MORELL
+  - name: EMMA LEROUX FERNANDEZ-ARMESTO
+  - name: MIKEL CARBONÉS NÚÑEZ

@@ -1,0 +1,23 @@
+id: gmi
+name: GMI!
+slug: gmi
+tagline: A sales and onboarding tool for Romax Digital. Client pastes website URL where the backend
+  scrapes, Gemini analyses it and animates a digital wallet pass with p
+summary: GMI! received the Romax Digital award at Hackabury 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shaynesss/Hackabury-June1-2
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/669/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Shayne Yong
+  - name: Angle 0
+  - name: Michael Altea

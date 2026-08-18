@@ -1,0 +1,28 @@
+id: terraglide
+name: TerraGlide
+slug: terraglide
+tagline: TerraGlide is an autonomous leveler using dual-action parallel linkages for soil
+  redistribution. It features AI human detection that auto-lifts the blade and tr
+summary: "TerraGlide received the Track: Best Hardware Hack (John Deere Mechathon) (1st Place) award
+  at HackIllinois 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TfSRb-YojTk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/389/088/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - esp32
+  - python
+  - pytorch
+  - react
+  - yolo
+builders:
+  - name: JL Liu
+  - name: Kenny-JT Jiang
+  - name: qiufuyuTony Qiu
+  - name: tanoom Tan

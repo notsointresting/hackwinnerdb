@@ -1,0 +1,24 @@
+id: pharmapath
+name: PharmaPath
+slug: pharmapath
+tagline: "PharmaPath is a tool that helps patients and prescribers understand medication access by
+  combining nearby pharmacy discovery with FDA-sourced drug intelligence "
+summary: "PharmaPath received the Best Tech For Good: Gift Card award at RAMHACK 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ycc9Y8oXc6o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/335/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - creative-tools
+technologies:
+  - firebase
+  - react
+builders:
+  - name: Dylan Lim
+  - name: Matthew Shakov
+  - name: Phuc Ta
+  - name: Max Chen

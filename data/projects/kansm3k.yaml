@@ -1,0 +1,24 @@
+id: kansm3k
+name: KANSM3K
+slug: kansm3k
+tagline: A bidirectional AI platform translating sign language to text via Gemini 3 Flash Preview
+  and speech to text in real-time. A technological bridge fostering inclu
+summary: KANSM3K received the 3rd Place - Second Runner-Up award at Gemini Hack Night by CGI Club at
+  ENSA Marrakech in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/OussamaJadoud/Projet-KANSM3K-.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: Oussama Jadoud
+  - name: hiba benzaghar
+  - name: Nihad BENJAIT

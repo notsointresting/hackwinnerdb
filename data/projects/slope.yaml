@@ -1,0 +1,23 @@
+id: slope
+name: Slope
+slug: slope
+tagline: Ship your first PR faster
+summary: Slope received the Best use of Augment Code award at Multimodal Frontier Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Raptors65/slope
+demo_url: null
+video_url: https://www.youtube.com/embed/fDufYlwd5Dc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/825/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - gemini
+  - nextjs
+  - python
+  - typescript
+builders:
+  - name: Lucas Kim

@@ -1,0 +1,25 @@
+id: safe-trace
+name: Safe Trace
+slug: safe-trace
+tagline: Analyse your trace for a safer workplace.
+summary: Safe Trace received the AI Solutions Prize (by Quantium) award at UNIHACK 2026, funded by
+  the European Union in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4PV52FCYNHs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/551/233/datas/medium.png
+categories:
+  - other
+technologies:
+  - claude
+  - fastapi
+  - flask
+  - gemini
+  - python
+  - yolo
+builders:
+  - name: Riley S
+  - name: hurleydiessel Diessel
+  - name: Toby Anderson

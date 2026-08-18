@@ -1,0 +1,19 @@
+id: sidebyside
+name: SideBySide
+slug: sidebyside
+tagline: An App that helps women take one small step when everything feels like too much—by turning
+  lived experiences into simple, doable actions.
+summary: SideBySide received the Diversity in CS Project Hub award at youCode 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/loriane-untz/YouCodeProject
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/483/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - java
+builders:
+  - name: Amy Shen
+  - name: loriane-untz

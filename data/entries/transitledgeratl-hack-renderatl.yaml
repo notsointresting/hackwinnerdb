@@ -1,0 +1,14 @@
+id: transitledgeratl-hack-renderatl
+project_id: transitledgeratl
+hackathon_id: hack-renderatl
+submission_url: https://devpost.com/software/transitledgeratl
+source:
+  platform: devpost
+  url: https://devpost.com/software/transitledgeratl
+awards:
+  - type: category-winner
+    title: Best Use of Tiger Data | Elgato Stream Deck Mini
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

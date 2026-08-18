@@ -1,0 +1,23 @@
+id: plumb
+name: Plumb
+slug: plumb
+tagline: LLMs in your 3D space? Get it Plumb'd right.
+summary: Plumb received the 2nd Place - General Challenge award at MPC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zajalist/plumb
+demo_url: null
+video_url: https://www.youtube.com/embed/a0y5S8qAQfc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/273/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - figma
+  - python
+  - rust
+  - typescript
+  - unreal-engine
+builders:
+  - name: Badr Zejli
+  - name: Farah Mohamed

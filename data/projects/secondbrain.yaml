@@ -1,0 +1,20 @@
+id: secondbrain
+name: Secondbrain
+slug: secondbrain
+tagline: Secondbrain turns everyday conversations into an actionable relationship memory system,
+  automatically capturing who you met, what you promised, and providing th
+summary: "Secondbrain received the Track 1: Nozomio Labs (2nd place) award at SDxUCSD Agent
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/watch?v=eRXtH6MQXSc&amp;feature=youtu.be
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/326/datas/gallery.jpg
+categories:
+  - fintech
+  - productivity
+technologies: []
+builders:
+  - name: Dariel Gutierrez
+  - name: Caleb Dickson

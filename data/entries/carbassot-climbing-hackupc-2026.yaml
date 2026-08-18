@@ -1,0 +1,14 @@
+id: carbassot-climbing-hackupc-2026
+project_id: carbassot-climbing
+hackathon_id: hackupc-2026
+submission_url: https://devpost.com/software/el-carbasot-sml
+source:
+  platform: devpost
+  url: https://devpost.com/software/el-carbasot-sml
+awards:
+  - type: first-place
+    title: "[Mecalux] 1st place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: bibi
+name: Bibi
+slug: bibi
+tagline: Bibi turns the receipt into a private feedback channel — guests tap what they ordered, rate
+  it, get a discount by text, and the owner gets an AI weekly write-up
+summary: Bibi received the Best In Design award at Build It Break It 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MariusGen1/bibi2026
+demo_url: null
+video_url: https://www.youtube.com/embed/oL0LRFNc40U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/659/208/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+technologies:
+  - supabase
+  - twilio
+  - vercel
+builders:
+  - name: Marius Genton

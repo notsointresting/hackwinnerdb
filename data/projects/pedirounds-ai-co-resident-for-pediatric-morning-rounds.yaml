@@ -1,0 +1,24 @@
+id: pedirounds-ai-co-resident-for-pediatric-morning-rounds
+name: PediRounds — AI Co-Resident for Pediatric Morning Rounds
+slug: pedirounds-ai-co-resident-for-pediatric-morning-rounds
+tagline: The safety net between overnight and attending rounds. 4 AI agents catch deterioration,
+  flag unsafe doses, generate I-PASS handoffs, and produce bilingual paren
+summary: PediRounds — AI Co-Resident for Pediatric Morning Rounds received the Honorable Mentions
+  award at Agents Assemble - The Healthcare AI Endgame in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xVe2hb7Kab0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/327/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - sqlite
+builders:
+  - name: Mark Brazinski

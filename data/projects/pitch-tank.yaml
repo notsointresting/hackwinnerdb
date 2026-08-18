@@ -1,0 +1,22 @@
+id: pitch-tank
+name: Pitch Tank
+slug: pitch-tank
+tagline: Imagine walking into a room of VCs fully prepared. With Pitch Tank, practice your startup
+  pitch against AI Sharks modeled after America’s favorite investors—and
+summary: Pitch Tank received the Tencent Cloud Track Winner award at SCU Hack-a-Stack - Sprint Track
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/edrickchang13/sharktank
+demo_url: null
+video_url: https://www.youtube.com/embed/QCSg1f0d4Wc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+builders:
+  - name: Edrick Chang
+  - name: Abraham Bhatti
+  - name: Rishi S

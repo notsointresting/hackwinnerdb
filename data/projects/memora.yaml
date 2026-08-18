@@ -1,0 +1,22 @@
+id: memora
+name: Memora
+slug: memora
+tagline: An AI-powered memory palace that helps you master concepts by teaching them to intelligent mentors
+summary: Memora received the Best AI Hack 3rd award at STEMist Hacks IV in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/R3uwDdDZUgk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/674/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: KEVIN LANG'AT

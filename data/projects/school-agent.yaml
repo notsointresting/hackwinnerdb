@@ -1,0 +1,19 @@
+id: school-agent
+name: School Agent
+slug: school-agent
+tagline: chool Agent – Smart Learning, Instant Answers
+summary: School Agent received the Best Use of the Google Gemini API award at Hack Days in Bansal in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/astha17sunil/School-Agent
+demo_url: null
+video_url: https://www.youtube.com/embed/0aih-WIZjKM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - sqlite
+builders:
+  - name: Astha Rathor

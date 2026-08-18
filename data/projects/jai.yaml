@@ -1,0 +1,25 @@
+id: jai
+name: JAI
+slug: jai
+tagline: "Build hardware as fast as software. JAI uses a multi-agent AI swarm to translate plain
+  English into physics-validated, manufacturing-ready CAD files in under 3 "
+summary: JAI received the InsForge award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/677/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - docker
+  - fastapi
+  - langchain
+  - python
+  - react
+  - stripe
+builders:
+  - name: Sanjay Giridharan

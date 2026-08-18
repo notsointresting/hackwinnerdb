@@ -1,0 +1,14 @@
+id: futurehacks
+name: FutureHacks
+slug: futurehacks
+organizer: []
+year: 2026
+sources:
+  - https://futurehacks.devpost.com/
+  - https://futurehacks.devpost.com/project-gallery?filter=winner
+website_url: https://futurehacks.devpost.com/
+platform: devpost
+participant_count: 265
+prize_pool: 5010
+currency: USD
+description: "Devpost hackathon: FutureHacks. Imported automatically."

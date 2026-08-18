@@ -1,0 +1,23 @@
+id: frostflow-creating-safer-smarter-and-scenic-winter-routes
+name: "FrostFlow: Creating safer, smarter and scenic winter routes"
+slug: frostflow-creating-safer-smarter-and-scenic-winter-routes
+tagline: FrostFlow is a tool that helps commuters plan safer routes,enables maintenance teams to
+  prioritize high-risk areas. FrostFlow also helps reduce salt usage, cost
+summary: "FrostFlow: Creating safer, smarter and scenic winter routes received the Civil,
+  Environmental, Mining or Petroleum - 3rd award at Hacked 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/heheppy123/HACKATHON-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/352/617/datas/gallery.jpg
+categories:
+  - climate
+  - productivity
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Aayush Ghai

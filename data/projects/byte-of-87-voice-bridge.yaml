@@ -1,0 +1,23 @@
+id: byte-of-87-voice-bridge
+name: Byte of 87_Voice Bridge
+slug: byte-of-87-voice-bridge
+tagline: Deaf or non-verbal? VoiceBridge helps you communicate. It shows live transcription and lets
+  you type with head movements to speak aloud giving you a voice and m
+summary: Byte of 87_Voice Bridge received the Hardware 1st award at Hacked 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Donutboy2003/Byte-of-87_VoiceBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/8sy-DKrGF2c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/630/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - python
+  - raspberry-pi
+builders:
+  - name: Ahnaful Hoque
+  - name: Abdul Rahman
+  - name: Bilal Issawi
+  - name: 404foundus

@@ -1,0 +1,25 @@
+id: sentinel-ai-powered-stroke-predictor
+name: "Sentinel: AI Powered Stroke Predictor"
+slug: sentinel-ai-powered-stroke-predictor
+tagline: "Strokes take 7,000,000 lives every single year, making it the second leading cause of
+  death. However, these lives could have been saved if a stroke was treated "
+summary: "Sentinel: AI Powered Stroke Predictor received the Genuine Effort- All in! award at Lumora
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/ItzPekay/Sentinel
+demo_url: null
+video_url: https://www.youtube.com/embed/yam9_EpSXjk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/052/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - python
+  - react
+  - supabase
+  - yolo
+builders:
+  - name: Prakul Kafley
+  - name: vedanth Raju
+  - name: Elnatan Tesfamichael

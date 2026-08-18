@@ -1,0 +1,19 @@
+id: pixel-truth
+name: Pixel Truth
+slug: pixel-truth
+tagline: Play as a detective at the Netropolis Truth Bureau - examine suspicious news posts,
+  interview witnesses, and use your detective tools to expose or verify the tr
+summary: Pixel Truth received the ROBLOX Civility Challenge award at LA Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/s9kt/LA-HACKS-2026-PIXEL-TRUTH
+demo_url: null
+video_url: https://www.youtube.com/embed/D64lghRLjOw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/222/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Leona Chen
+  - name: Pranav Singhal
+  - name: Devin Myers

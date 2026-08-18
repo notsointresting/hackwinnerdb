@@ -1,0 +1,20 @@
+id: momentum-ai
+name: Momentum.ai
+slug: momentum-ai
+tagline: Momentum.ai - Wellbeing at its peak. Build paterns, track progress, grow as a person.
+summary: Momentum.ai received the Third Place award at HSHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shinkensen/HSHacks/tree/merge-ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/734/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - react
+builders:
+  - name: Govind Nair
+  - name: Koushik Karthik
+  - name: Tanishq Kumar

@@ -1,0 +1,14 @@
+id: globewial-women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+project_id: globewial
+hackathon_id: women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+submission_url: https://devpost.com/software/globewial
+source:
+  platform: devpost
+  url: https://devpost.com/software/globewial
+awards:
+  - type: other
+    title: Founding Engineer, World Institute of Action Learning
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

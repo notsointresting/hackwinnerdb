@@ -1,0 +1,14 @@
+id: complete-the-look-the-phia-hack
+project_id: complete-the-look
+hackathon_id: the-phia-hack
+submission_url: https://devpost.com/software/complete-the-look
+source:
+  platform: devpost
+  url: https://devpost.com/software/complete-the-look
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

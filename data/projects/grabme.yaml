@@ -1,0 +1,23 @@
+id: grabme
+name: Grabme
+slug: grabme
+tagline: Built for food rescue, hunger response, and neighborhood-scale coordination. Grabme makes
+  live donations, urgent requests, and community distribution visible in
+summary: Grabme received the Third Place award at Fuel the Future in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Viktor-Nedev/Grabme
+demo_url: null
+video_url: https://www.youtube.com/embed/T1Ayo0iCYSw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/487/201/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - flutter
+  - mapbox
+  - postgresql
+  - react
+  - supabase
+builders:
+  - name: Viktor Nedev

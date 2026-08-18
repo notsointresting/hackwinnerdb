@@ -1,0 +1,22 @@
+id: clarifycare-coach
+name: ClarifyCare Coach
+slug: clarifycare-coach
+tagline: "ClarifyCare Coach: catching the warning signs after discharge, before they turn into an
+  emergency. Thanks for watching."
+summary: ClarifyCare Coach received the TechCommons Hacks V1 - Social Impact Award award at
+  TechCommons Hacks in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/sarveshshanthibooshan-debug/clarifycare-coach
+demo_url: null
+video_url: https://www.youtube.com/embed/vfKCaHzRRz8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/948/470/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - python
+builders:
+  - name: Sarvesh Shanthibooshan

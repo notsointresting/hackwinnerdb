@@ -1,0 +1,14 @@
+id: mzansi-move-color-hacks-plus-northwestern-nsbe
+project_id: mzansi-move
+hackathon_id: color-hacks-plus-northwestern-nsbe
+submission_url: https://devpost.com/software/mzansi-move
+source:
+  platform: devpost
+  url: https://devpost.com/software/mzansi-move
+awards:
+  - type: sponsor-prize
+    title: Best Use of AI Powered by Reach Capital
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

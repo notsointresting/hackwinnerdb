@@ -1,0 +1,16 @@
+id: aether-bitcamp-2026
+project_id: aether
+hackathon_id: bitcamp-2026
+submission_url: https://devpost.com/software/aether-d4v6sb
+source:
+  platform: devpost
+  url: https://devpost.com/software/aether-d4v6sb
+awards:
+  - type: category-winner
+    title: Best Bitcamp Hack - Bitcamp
+  - type: other
+    title: TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

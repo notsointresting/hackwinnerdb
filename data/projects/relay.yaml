@@ -1,0 +1,23 @@
+id: relay
+name: RELAY
+slug: relay
+tagline: RELAY manages Slack Connect channels for CSMs
+summary: RELAY received the Second Place | New Slack Agent award at Slack Agent Builder Challenge in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/slindelow/relay-slack-agent
+demo_url: null
+video_url: https://www.youtube.com/embed/vvf3aMxv6k8
+image_url: null
+categories:
+  - enterprise
+technologies:
+  - anthropic
+  - claude
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - redis
+builders:
+  - name: slindelow Lindelow

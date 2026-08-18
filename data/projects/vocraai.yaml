@@ -1,0 +1,20 @@
+id: vocraai
+name: VocraAI
+slug: vocraai
+tagline: NLP tooling for one of humanity's oldest living languages.
+summary: VocraAI received the All Winners award at LingHacks VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sarangmenon555/Vocra-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/Wt10pMAAIjs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/773/562/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+builders:
+  - name: Sarang Menon

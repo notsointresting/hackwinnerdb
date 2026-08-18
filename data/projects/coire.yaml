@@ -1,0 +1,24 @@
+id: coire
+name: Coire
+slug: coire
+tagline: COIRE is a fully offline natural disaster tool keeping communities connected through
+  community messaging for shared resources and skills, ai assistance, and map
+summary: "Coire received the Grand Prize! award at The Climate Change-Makers Challenge: 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/vnmrsharma/Coir
+demo_url: null
+video_url: https://www.youtube.com/embed/ZF9-Uh3X3og
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/539/179/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - dart
+  - firebase
+  - flutter
+builders:
+  - name: Heba Azeef
+  - name: Vinamra Sharma
+  - name: Khadijah Abduraheman
+  - name: Rita Vidot

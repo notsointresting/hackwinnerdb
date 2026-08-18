@@ -1,0 +1,18 @@
+id: fitprint
+name: FitPrint
+slug: fitprint
+tagline: Eliminating sizing guesswork and reducing fashion return waste through AI-powered body measurement.
+summary: FitPrint received the Most innovative project award at Measure up in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Botirsherov/FitPrint
+demo_url: null
+video_url: https://www.youtube.com/embed/_MQofakQ1VQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/028/901/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Abdulatif Botirsherov

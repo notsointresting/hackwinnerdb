@@ -1,0 +1,14 @@
+id: deredo-hack-days-in-durango
+project_id: deredo
+hackathon_id: hack-days-in-durango
+submission_url: https://devpost.com/software/deredo
+source:
+  platform: devpost
+  url: https://devpost.com/software/deredo
+awards:
+  - type: other
+    title: Premio otorgado por el Municipio
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

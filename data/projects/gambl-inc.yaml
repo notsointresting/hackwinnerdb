@@ -1,0 +1,24 @@
+id: gambl-inc
+name: Gambl.inc
+slug: gambl-inc
+tagline: highly unethical gambling productivity environment made for IT startups/companies. Users
+  must put their income at stake, using several gambling mechanisms to im
+summary: Gambl.inc received the Best Use of Solana award at SotonHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/takymy/RPNB-Soton-Hack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/443/048/datas/gallery.jpg
+categories:
+  - climate
+  - productivity
+technologies:
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Soichiro Oyama-Bacon
+  - name: Katie Holroyd
+  - name: eloisejk Kay
+  - name: Mykyta Chursin

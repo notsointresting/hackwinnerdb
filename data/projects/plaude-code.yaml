@@ -1,0 +1,19 @@
+id: plaude-code
+name: Plaude-Code
+slug: plaude-code
+tagline: A macOS menu bar app that turns a PlayStation controller into keyboard shortcuts and
+  snippets especially for Ghostty and Claude Code, so you can drive your term
+summary: Plaude-Code received the Claude Merch award at Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/417/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - swift
+builders:
+  - name: Ken Wu

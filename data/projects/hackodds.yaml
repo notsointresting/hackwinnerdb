@@ -1,0 +1,27 @@
+id: hackodds
+name: HackOdds
+slug: hackodds
+tagline: Solana-based Polymarket for hackathons
+summary: HackOdds received the Most Innovative Idea award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/veermshah/hacksmu26
+demo_url: null
+video_url: https://www.youtube.com/embed/gmKYY40Durk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/492/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - nextjs
+  - rust
+  - solana
+  - sql
+  - supabase
+  - twilio
+  - typescript
+builders:
+  - name: Veer Shah

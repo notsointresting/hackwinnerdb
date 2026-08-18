@@ -1,0 +1,21 @@
+id: scamshield-ai
+name: ScamShield AI
+slug: scamshield-ai
+tagline: AI-powered cybersecurity platform for scam and phishing detection
+summary: ScamShield AI received the Best Use of the Google Gemini API award at Hack Days in Bhopal
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gopal9508/ScamShield-AI?utm_source=chatgpt.com
+demo_url: null
+video_url: https://www.youtube.com/embed/bnLgf7N6mg0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/672/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Gopal Kumar

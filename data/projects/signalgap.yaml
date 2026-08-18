@@ -1,0 +1,25 @@
+id: signalgap
+name: SignalGap
+slug: signalgap
+tagline: SignalGap finds the waiting-room patient who looks stable only because no one has looked
+  again, separating current clinical risk from the value of fresh reasses
+summary: SignalGap received the Best Technical Execution award at Vitalitics 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nirvairsndhu/SignalGap
+demo_url: null
+video_url: https://www.youtube.com/embed/Rk_uBlKHh5A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/034/905/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Nirvair Sandhu
+  - name: Jujhar Aujla

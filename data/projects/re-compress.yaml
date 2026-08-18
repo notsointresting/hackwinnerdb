@@ -1,0 +1,21 @@
+id: re-compress
+name: Re:Compress
+slug: re-compress
+tagline: A query-aware rewriting layer that extends compression into the regime deletion can't reach
+  — distilled into a 1.5B model, then carried into multi-turn conversa
+summary: Re:Compress received the Best Compression Model for The Token Company award at UC Berkeley
+  AI Hackathon 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Kart-ing/ReCompress
+demo_url: null
+video_url: https://www.youtube.com/embed/2cx1czVpz8I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/803/662/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Kartikey Pandey
+  - name: Parth Kshirsagar

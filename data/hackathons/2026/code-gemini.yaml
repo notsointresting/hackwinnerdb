@@ -1,0 +1,14 @@
+id: code-gemini
+name: Code Gemini
+slug: code-gemini
+organizer: []
+year: 2026
+sources:
+  - https://code-gemini.devpost.com/
+  - https://code-gemini.devpost.com/project-gallery?filter=winner
+website_url: https://code-gemini.devpost.com/
+platform: devpost
+participant_count: 23
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Code Gemini. Imported automatically."

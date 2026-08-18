@@ -1,0 +1,20 @@
+id: no-route-to-host
+name: No Route To Host
+slug: no-route-to-host
+tagline: Diagnose broken networks through a real CLI, where Kiro proves every scenario is solvable
+  before you ever see it.
+summary: No Route To Host received the Best Kiro Power-User award at Kiro Buildfest 2026 Singapore
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sabrinbrin/No-Route-to-Host-
+demo_url: null
+video_url: https://www.youtube.com/embed/2pMVWWb8Evg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/862/516/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - docker
+  - react
+  - typescript
+builders:
+  - name: McChicken Lim

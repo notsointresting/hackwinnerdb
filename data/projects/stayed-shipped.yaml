@@ -1,0 +1,20 @@
+id: stayed-shipped
+name: Stayed Shipped
+slug: stayed-shipped
+tagline: The survival ledger for AI-authored code. Everyone measures whether a change is risky
+  before it merges; Stayed Shipped measures whether it survived after.
+summary: "Stayed Shipped received the Showcase Track: Technological Implementation, Second Place
+  award at GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/fGcahHfqeuU
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Nick Sawinyh

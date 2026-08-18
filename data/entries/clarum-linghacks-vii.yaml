@@ -1,0 +1,16 @@
+id: clarum-linghacks-vii
+project_id: clarum
+hackathon_id: linghacks-vii
+submission_url: https://devpost.com/software/clarum
+source:
+  platform: devpost
+  url: https://devpost.com/software/clarum
+awards:
+  - type: winner
+    title: All Winners
+  - type: honorable-mention
+    title: Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

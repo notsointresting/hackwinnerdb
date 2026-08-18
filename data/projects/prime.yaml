@@ -1,0 +1,26 @@
+id: prime
+name: PRIME
+slug: prime
+tagline: An extension that turns one confirmed gambling site into a fingerprint, preemptively
+  blocking its whole sibling network before anyone ever visits them.
+summary: PRIME received the 2nd Place Safety Track award at Garuda Hacks 7.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jackc/pgx
+demo_url: null
+video_url: https://www.youtube.com/embed/DY97LsE0sv0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/912/705/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+  - postgresql
+  - supabase
+builders:
+  - name: Hakam Avicena  Mustain
+  - name: Muhammad Zulfa Fauzan Nurhuda
+  - name: Bram Pangrib
+  - name: Reinsen Silitonga

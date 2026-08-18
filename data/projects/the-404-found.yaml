@@ -1,0 +1,25 @@
+id: the-404-found
+name: the-404-found
+slug: the-404-found
+tagline: "Northstar: Navigation with Nuance."
+summary: the-404-found received the Honorary Prize award at Hacked 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/48BnahsBE1Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/357/552/datas/medium.png
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - fastapi
+  - google-maps
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Samuel George Rawluk
+  - name: Ibrahim Mansoor
+  - name: Faiz Khan
+  - name: Aarush bhat

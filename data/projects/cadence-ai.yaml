@@ -1,0 +1,22 @@
+id: cadence-ai
+name: Cadence AI
+slug: cadence-ai
+tagline: Cadence is an AI powered healthcare website with major features like an Early disease
+  detector, therapy AI, and more.
+summary: Cadence AI received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BJSK2345/Cadence
+demo_url: null
+video_url: https://www.youtube.com/embed/yyXzXS4VJuQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/946/744/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: jagruth sai Bandla

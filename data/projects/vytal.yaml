@@ -1,0 +1,27 @@
+id: vytal
+name: Vytal
+slug: vytal
+tagline: Your phone is now a vitals monitor. Vytal reads your heart rate from your face camera, then
+  uses AI to triage your symptoms into a plain-language summary you ca
+summary: Vytal received the $500 dollars in API Credits award at Claude Builder Club Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AyushNaaa/Vytal
+demo_url: null
+video_url: https://www.youtube.com/embed/0iNU5Hk6XRE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/520/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - claude
+  - dart
+  - fastapi
+  - flutter
+  - python
+builders:
+  - name: Vibhor7-7 Sharma
+  - name: Divyam Banga
+  - name: Ayush Narayanaswamy
+  - name: Chris Xu

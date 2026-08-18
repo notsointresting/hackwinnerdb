@@ -1,0 +1,14 @@
+id: the-longevity-project-realityshift
+project_id: the-longevity-project
+hackathon_id: realityshift
+submission_url: https://devpost.com/software/smc-dub
+source:
+  platform: devpost
+  url: https://devpost.com/software/smc-dub
+awards:
+  - type: third-place
+    title: Main Track 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

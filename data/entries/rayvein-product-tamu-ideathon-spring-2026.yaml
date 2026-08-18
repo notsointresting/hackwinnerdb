@@ -1,0 +1,14 @@
+id: rayvein-product-tamu-ideathon-spring-2026
+project_id: rayvein
+hackathon_id: product-tamu-ideathon-spring-2026
+submission_url: https://devpost.com/software/rayvein
+source:
+  platform: devpost
+  url: https://devpost.com/software/rayvein
+awards:
+  - type: other
+    title: $50 Giftcard
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

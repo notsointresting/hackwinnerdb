@@ -1,0 +1,14 @@
+id: proximity-pulse-realityshift
+project_id: proximity-pulse
+hackathon_id: realityshift
+submission_url: https://devpost.com/software/proximity-pulse
+source:
+  platform: devpost
+  url: https://devpost.com/software/proximity-pulse
+awards:
+  - type: first-place
+    title: Snap Spectacles 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: tierwise
+name: TierWise
+slug: tierwise
+tagline: Simulate how 500 psychologically-modeled users decide what to pay — then get an
+  AI-generated guide to rewrite your pricing for the minds you're losing.
+summary: TierWise received the iPads award at HACK THE WU in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MichaelGold11/tierwise
+demo_url: null
+video_url: https://www.youtube.com/embed/PPP3Vloi0vg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: MichaelGold11 Goldberg

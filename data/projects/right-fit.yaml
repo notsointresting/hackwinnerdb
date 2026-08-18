@@ -1,0 +1,20 @@
+id: right-fit
+name: Right Fit
+slug: right-fit
+tagline: Community-driven hiring platform where students and employers match through projects and skills.
+summary: Right Fit received the Best Social Media award at MACATHON 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BruceHuangQQ/right_fit
+demo_url: null
+video_url: https://www.youtube.com/embed/Oiq_-8hGLHM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/714/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - nextjs
+  - supabase
+  - typescript
+builders:
+  - name: Bruce Huang
+  - name: Chen Ning Ho

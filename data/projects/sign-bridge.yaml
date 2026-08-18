@@ -1,0 +1,27 @@
+id: sign-bridge
+name: Sign Bridge
+slug: sign-bridge
+tagline: '"Yo también hablo tu idioma" Aplicación de traducción en vivo y aprendizaje de lengua de
+  señas, diseñada para motivar a hablantes de español a comprender y comu'
+summary: Sign Bridge received the Best Use of ElevenLabs award at Hackathon Troyano 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/miguel110301/SignBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/LPJ8bRU6dho
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/762/datas/gallery.jpg
+categories:
+  - education
+  - media
+  - creative-tools
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: dmataguerra Mata Guerra
+  - name: BRYAN MCIHEL GONZALEZ CORDOBA
+  - name: Alexis
+  - name: Miguel Ángel Moreno Sánchez

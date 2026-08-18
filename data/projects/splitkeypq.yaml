@@ -1,0 +1,22 @@
+id: splitkeypq
+name: SplitKeyPQ
+slug: splitkeypq
+tagline: One key isn't enough.
+summary: SplitKeyPQ received the FinHack 2nd Place award at MarinHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/M3STERM1ND/SplitKey-PQ
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/999/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Manav Patel
+  - name: Tejas Tammana
+  - name: Akhil Saokar

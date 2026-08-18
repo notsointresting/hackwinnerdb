@@ -1,0 +1,26 @@
+id: voices-around-us
+name: Voices Around Us
+slug: voices-around-us
+tagline: "Voices Around Us is a mobile-first, location-based storytelling platform where anyone can
+  drop a short personal story tied to the exact physical location where "
+summary: Voices Around Us received the Best in Storytelling award at UCLA Hack on the Hill (HOTH)
+  XIII in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/jonathantchiu/voices-around-us-BUILD
+demo_url: null
+video_url: https://www.youtube.com/embed/ytyMJ3G1t_I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/176/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - sql
+  - supabase
+builders:
+  - name: Jonathan Chiu
+  - name: vedvyas86564 vyas
+  - name: BRYAN QI
+  - name: Eusern

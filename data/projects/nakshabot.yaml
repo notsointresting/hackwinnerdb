@@ -1,0 +1,26 @@
+id: nakshabot
+name: NakshaBot
+slug: nakshabot
+tagline: Turns hours of hand-drawn Census field maps into accurate, ready-to-use HLB layouts in
+  minutes built solo by a Class 12 student, already used by 5000+ enumerato
+summary: NakshaBot received the CSC Impact Gold Award award at CSC Summer Impactathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kashimora798/naksha-bot-2027
+demo_url: null
+video_url: https://www.youtube.com/embed/hCG8YavaatU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/934/965/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - opencv
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Kratagya Singh

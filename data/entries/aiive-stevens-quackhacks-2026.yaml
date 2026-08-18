@@ -1,0 +1,14 @@
+id: aiive-stevens-quackhacks-2026
+project_id: aiive
+hackathon_id: stevens-quackhacks-2026
+submission_url: https://devpost.com/software/aiive
+source:
+  platform: devpost
+  url: https://devpost.com/software/aiive
+awards:
+  - type: other
+    title: Chubb Challenge Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

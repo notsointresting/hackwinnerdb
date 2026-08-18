@@ -1,0 +1,16 @@
+id: heistar-immersegt-2026
+project_id: heistar
+hackathon_id: immersegt-2026
+submission_url: https://devpost.com/software/heistar
+source:
+  platform: devpost
+  url: https://devpost.com/software/heistar
+awards:
+  - type: track-winner
+    title: "ImmerseGT: Gaming Track"
+  - type: honorable-mention
+    title: Snap AR Track Winner Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

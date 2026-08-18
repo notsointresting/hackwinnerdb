@@ -1,0 +1,23 @@
+id: mogux
+name: MogUX
+slug: mogux
+tagline: MogUX turns user testing videos into an evidence-backed UX playbook by detecting
+  frustration in voice, analyzing on-screen context, and autonomously benchmarkin
+summary: MogUX received the Most Innovative Use of Reka's Vision API award at Autonomous Agents
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/MeladKhajepour/mog-ux
+demo_url: null
+video_url: https://www.youtube.com/embed/lI1NCyYVLYA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - flask
+  - python
+builders:
+  - name: Abdullah Waheed
+  - name: Melad Khajepour

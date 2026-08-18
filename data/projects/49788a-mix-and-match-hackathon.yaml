@@ -1,0 +1,21 @@
+id: 49788a-mix-and-match-hackathon
+name: 49788A Mix and Match Hackathon
+slug: 49788a-mix-and-match-hackathon
+tagline: Video for hackathon
+summary: 49788A Mix and Match Hackathon received the Honorary Mention - $15 evaluation award at VEX
+  IQ Mix & Match 2026 ULTIMATE HACKATHON  in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FhfX4YpTQ-8
+image_url: null
+categories:
+  - robotics
+  - media
+  - creative-tools
+technologies: []
+builders:
+  - name: Jason Mei
+  - name: Rex Yeung
+  - name: Nathaniel Wong

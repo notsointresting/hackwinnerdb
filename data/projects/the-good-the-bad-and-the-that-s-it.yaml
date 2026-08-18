@@ -1,0 +1,22 @@
+id: the-good-the-bad-and-the-that-s-it
+name: The Good, The Bad, and The... That's it
+slug: the-good-the-bad-and-the-that-s-it
+tagline: Have you ever found yourself abusing AI for interview prep? Try The Good, The Bad, and
+  The... That's it.
+summary: The Good, The Bad, and The... That's it received the Best Design / UI/UX award at Mountain
+  Madness 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/vladyegorin/mm2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/119/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - claude
+  - typescript
+builders:
+  - name: yegorin vova
+  - name: SpacePiercer Kuzhel
+  - name: Nikolay Do

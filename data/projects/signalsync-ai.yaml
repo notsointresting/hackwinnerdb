@@ -1,0 +1,20 @@
+id: signalsync-ai
+name: SignalSync AI
+slug: signalsync-ai
+tagline: Real-time intelligent traffic optimization using AI-driven signal coordination
+summary: SignalSync AI received the InnoSpark 2026 Champion award at InnoSpark 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/649/800/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - sqlite
+builders:
+  - name: Madhur Kalra
+  - name: Adrita Poddar

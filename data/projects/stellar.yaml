@@ -1,0 +1,23 @@
+id: stellar
+name: Stellar
+slug: stellar
+tagline: A constellation-based dashboard for visualizing experiences and skill growth
+summary: Stellar received the 3rd place Merrimack FidHacks Winners award at Merrimack FidHacks 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chailattee/constellation
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/828/197/datas/medium.png
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - claude
+  - javascript
+  - react
+builders:
+  - name: chailattee Norris
+  - name: Jason Wang
+  - name: Sydney Mak
+  - name: Mihir Gandhi

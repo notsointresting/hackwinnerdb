@@ -1,0 +1,24 @@
+id: repolens
+name: RepoLens
+slug: repolens
+tagline: Turn your GitHub repository into a AI-powered mock interview.
+summary: RepoLens received the Codex $100 Credit award at Hack Days CUET in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stabbed-Yuri/RepoLens/blob/master/AGENTS.md
+demo_url: null
+video_url: https://www.youtube.com/embed/Apfj7QB52i4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/838/903/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - openai
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aadil Mubasshar

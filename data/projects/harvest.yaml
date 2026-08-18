@@ -1,0 +1,27 @@
+id: harvest
+name: Harvest
+slug: harvest
+tagline: A precision agriculture management platform that combines real satellite imagery with AI
+  agents to give farmers zone-level actionable recommendations.
+summary: "Harvest received the Grand Prize: Sustainability Track award at HackDuke: Code For Good
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Aaditya-brrt/hackduke-2026/tree/main
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - fastapi
+  - nextjs
+  - python
+  - supabase
+  - typescript
+builders:
+  - name: Aaditya Denduluri
+  - name: Aaryan
+  - name: Lex Gu
+  - name: Arnav Dhar

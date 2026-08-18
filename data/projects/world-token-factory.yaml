@@ -1,0 +1,23 @@
+id: world-token-factory
+name: World Token Factory
+slug: world-token-factory
+tagline: Resolves your risk from uncertainty with tokens!
+summary: World Token Factory received the Best use of assistant-ui award at Multimodal Frontier
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Sivolc2/WorldTokenFactory
+demo_url: null
+video_url: https://www.youtube.com/embed/9iXeuJLwVIk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/893/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Clovis Vinant-Tang
+  - name: Caleb Strom
+  - name: Ryan George

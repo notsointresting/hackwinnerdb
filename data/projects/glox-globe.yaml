@@ -1,0 +1,20 @@
+id: glox-globe
+name: Glox Globe
+slug: glox-globe
+tagline: Glox Globe is an AI-powered global dashboard that unifies real-time weather, time zones,
+  currency exchange, country analytics, and intelligent insights into one
+summary: Glox Globe received the Participation Certificate award at CodeNova 2026 – National AI &
+  Innovation Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/avglucer
+demo_url: null
+video_url: https://www.youtube.com/embed/J1Rjt6JCVwc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/040/583/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Gaurav W

@@ -1,0 +1,14 @@
+id: focus-guard-pantherhack-2026
+project_id: focus-guard
+hackathon_id: pantherhack-2026
+submission_url: https://devpost.com/software/focus-guard-gd8ax2
+source:
+  platform: devpost
+  url: https://devpost.com/software/focus-guard-gd8ax2
+awards:
+  - type: first-place
+    title: Overall 1st Place Hack(1 team)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

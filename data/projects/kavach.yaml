@@ -1,0 +1,19 @@
+id: kavach
+name: Kavach
+slug: kavach
+tagline: Real-Time Infrastructure Telemetry & Behavioral Threat Correlation Dashboard
+summary: Kavach received the KYXGO Rising Star Award award at Kyxgo hack by Aditya Rai & Yash  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lakshayrao-08/cyber_hack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/671/797/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - infrastructure
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: lakshay yadav

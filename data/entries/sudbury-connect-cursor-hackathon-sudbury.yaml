@@ -1,0 +1,14 @@
+id: sudbury-connect-cursor-hackathon-sudbury
+project_id: sudbury-connect
+hackathon_id: cursor-hackathon-sudbury
+submission_url: https://devpost.com/software/sudbury-connect
+source:
+  platform: devpost
+  url: https://devpost.com/software/sudbury-connect
+awards:
+  - type: category-winner
+    title: Best UI/UX
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

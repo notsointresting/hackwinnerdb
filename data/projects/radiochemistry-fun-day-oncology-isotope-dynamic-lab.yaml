@@ -1,0 +1,23 @@
+id: radiochemistry-fun-day-oncology-isotope-dynamic-lab
+name: "Radiochemistry Fun Day: Oncology Isotope Dynamic Lab"
+slug: radiochemistry-fun-day-oncology-isotope-dynamic-lab
+tagline: Oncology Isotope Dynamic Lab is a game simulation that visualizes how radiopharmaceuticals
+  treat cancer, helping users balance tumor kill and toxicity through i
+summary: "Radiochemistry Fun Day: Oncology Isotope Dynamic Lab received the [Gamification & Play]
+  Winner of the Track award at MSU Designathon 2026 in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zYbMB3bMe98
+image_url: null
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Alexa Annika Calderon
+  - name: Rashawn Carter
+  - name: Vaughn House

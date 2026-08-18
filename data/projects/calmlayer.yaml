@@ -1,0 +1,18 @@
+id: calmlayer
+name: CalmLayer
+slug: calmlayer
+tagline: A crisis mode for the internet. One press turns chaotic, stressful pages into calm,
+  step-by-step experiences for people who are panicked, elderly, injured, or o
+summary: CalmLayer received the 1st Place award at Katy Youth Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jasurcyb/calmlayer
+demo_url: null
+video_url: https://www.youtube.com/embed/uibrhq4I26I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/052/755/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Jasur Maxkamov

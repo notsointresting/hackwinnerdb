@@ -1,0 +1,14 @@
+id: pulse-quantum-sprint
+project_id: pulse
+hackathon_id: quantum-sprint
+submission_url: https://devpost.com/software/pulse-fwla0c
+source:
+  platform: devpost
+  url: https://devpost.com/software/pulse-fwla0c
+awards:
+  - type: other
+    title: Participation Swag & Benefits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

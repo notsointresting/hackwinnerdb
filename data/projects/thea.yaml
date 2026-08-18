@@ -1,0 +1,24 @@
+id: thea
+name: Thea
+slug: thea
+tagline: Thea is an app which lets blind individuals converse with their computer and execute
+  commands where the computer speaks back in real time, bridging the gap of a
+summary: Thea received the Claude Track Winners award at Claude AI Hackathon - Machines of Loving
+  Grace in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kno2sGmwfuo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Nalin Atmakur
+  - name: Denis Romain
+  - name: Aryaa Saravanakumar

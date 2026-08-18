@@ -1,0 +1,14 @@
+id: sanjivni-hack-days-nashik
+project_id: sanjivni
+hackathon_id: hack-days-nashik
+submission_url: https://devpost.com/software/sanjivni
+source:
+  platform: devpost
+  url: https://devpost.com/software/sanjivni
+awards:
+  - type: category-winner
+    title: Best use of Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

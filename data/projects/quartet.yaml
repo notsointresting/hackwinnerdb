@@ -1,0 +1,25 @@
+id: quartet
+name: Quartet
+slug: quartet
+tagline: Quartet is a web application utilising Gemini AI to ask strangers questions picking out key
+  traits for an algorithm that sorts users into groups of four, sugges
+summary: Quartet received the [MLH] Best Use of MongoDB Atlas award at DUWiT Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElianaLara/Quartet
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - flask
+  - gemini
+  - mongodb
+  - python
+builders:
+  - name: Yui Ferguson
+  - name: Amelia Evans
+  - name: SophiaD01
+  - name: Eliana Lara

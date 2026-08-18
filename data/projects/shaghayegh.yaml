@@ -1,0 +1,21 @@
+id: shaghayegh
+name: Shaghayegh
+slug: shaghayegh
+tagline: A living memorial field where every poppy represents a victim, turning a list of names into
+  an interactive space of memory, grief, and remembrance.
+summary: Shaghayegh received the Untold Story award at HuskyHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HS-HuskHack26/Shaghayegh.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/638/508/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies:
+  - python
+  - react
+builders:
+  - name: Hilda Karimpour
+  - name: sarina

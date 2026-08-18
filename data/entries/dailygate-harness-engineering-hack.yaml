@@ -1,0 +1,14 @@
+id: dailygate-harness-engineering-hack
+project_id: dailygate
+hackathon_id: harness-engineering-hack
+submission_url: https://devpost.com/software/dailygate
+source:
+  platform: devpost
+  url: https://devpost.com/software/dailygate
+awards:
+  - type: category-winner
+    title: Most Innovative Use of Agents (Guild.ai)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

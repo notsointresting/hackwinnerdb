@@ -1,0 +1,19 @@
+id: neurotrack
+name: NeuroTrack
+slug: neurotrack
+tagline: Monitor subtle changes in neurological function in individuals living with Multiple Sclerosis.
+summary: NeuroTrack received the 1st Place Prize award at UW Tech Exploration Lab Digital Health
+  Challenge in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/lilpencil1/NeuroTrack
+demo_url: null
+video_url: https://www.youtube.com/embed/c-Y1IIDRYPM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/541/815/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - javascript
+builders:
+  - name: Alexander Kubiak
+  - name: Luray He

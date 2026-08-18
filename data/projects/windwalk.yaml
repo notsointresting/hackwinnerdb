@@ -1,0 +1,25 @@
+id: windwalk
+name: WindWalk
+slug: windwalk
+tagline: Chicago's winters are brutal. Wind chill can make a short walk feel dangerous. WindWalk
+  solves this!
+summary: WindWalk received the iPad Wi-Fi 128GB award at DemonHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Smear6uard/WindWalk/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/49kR_ks88XE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/396/585/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - javascript
+  - python
+  - react-native
+builders:
+  - name: Jenna Abuzerr
+  - name: Sameer Akhtar
+  - name: Buck Stevenson
+  - name: delumiie

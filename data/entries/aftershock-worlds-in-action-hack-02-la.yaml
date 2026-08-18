@@ -1,0 +1,14 @@
+id: aftershock-worlds-in-action-hack-02-la
+project_id: aftershock
+hackathon_id: worlds-in-action-hack-02-la
+submission_url: https://devpost.com/software/scad-team
+source:
+  platform: devpost
+  url: https://devpost.com/software/scad-team
+awards:
+  - type: first-place
+    title: Best Agentic Spatial System - by PICO 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

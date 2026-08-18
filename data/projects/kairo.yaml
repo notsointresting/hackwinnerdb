@@ -1,0 +1,22 @@
+id: kairo
+name: Kairo
+slug: kairo
+tagline: '"An AI coach that breaks overwhelming tasks into small steps for ADHD minds never a
+  countdown, never guilt, just one doable step at a time."'
+summary: Kairo received the Neurodivergent Innovator Award award at IncludAI - The Neurodiversity
+  Hackathon, in Partnership with Stanford NNEA in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kaycee3y/kairo
+demo_url: null
+video_url: https://www.youtube.com/embed/UF80DRQAUAo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/070/320/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - groq
+  - react
+  - typescript
+builders:
+  - name: Kenechukwu Goodluck

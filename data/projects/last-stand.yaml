@@ -1,0 +1,26 @@
+id: last-stand
+name: Last Stand
+slug: last-stand
+tagline: A wave of cursed spirits descends on the sacred garden. Stand at its heart and resist.
+summary: Last Stand received the HeySalad ® Hardware Challenge Prize — Return trip to Shenzhen for
+  Maker Faire in November award at The London Rork Game Hackathon  in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AfthabShiraz/RorkHack
+demo_url: null
+video_url: https://www.youtube.com/embed/xThiwoZMEqk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/612/datas/gallery.jpg
+categories:
+  - iot
+  - gaming
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Afthab Shiraz
+  - name: Nicholas Tchakov

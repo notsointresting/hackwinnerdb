@@ -1,0 +1,14 @@
+id: sante-ai-ai-for-campus-build-with-mlh
+project_id: sante-ai
+hackathon_id: ai-for-campus-build-with-mlh
+submission_url: https://devpost.com/software/sante-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/sante-ai
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

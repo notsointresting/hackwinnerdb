@@ -1,0 +1,14 @@
+id: hack-with-ai
+name: Hack with AI
+slug: hack-with-ai
+organizer: []
+year: 2026
+sources:
+  - https://hack-with-ai-by-code-crate.devpost.com/
+  - https://hack-with-ai-by-code-crate.devpost.com/project-gallery?filter=winner
+website_url: https://hack-with-ai-by-code-crate.devpost.com/
+platform: devpost
+participant_count: 46
+prize_pool: 5000
+currency: USD
+description: "Devpost hackathon: Hack with AI. Imported automatically."

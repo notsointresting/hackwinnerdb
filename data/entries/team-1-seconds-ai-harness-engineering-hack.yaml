@@ -1,0 +1,14 @@
+id: team-1-seconds-ai-harness-engineering-hack
+project_id: team-1-seconds-ai
+hackathon_id: harness-engineering-hack
+submission_url: https://devpost.com/software/seconds-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/seconds-ai
+awards:
+  - type: category-winner
+    title: Best Use of ClickHouse
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: tshark9000
+name: TShark9000
+slug: tshark9000
+tagline: Nice and friendly UI python interface implementing a few things TShark does. We can detect
+  potential malicious executables and render the network in 3d.
+summary: TShark9000 received the Network Analysis award at Synthesis Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/caleblin125/Tshark1/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/913/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Caleb Lin
+  - name: Anthony La
+  - name: Nathan
+  - name: Kaylee Lu

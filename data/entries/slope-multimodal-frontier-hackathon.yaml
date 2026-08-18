@@ -1,0 +1,14 @@
+id: slope-multimodal-frontier-hackathon
+project_id: slope
+hackathon_id: multimodal-frontier-hackathon
+submission_url: https://devpost.com/software/slope-qealuw
+source:
+  platform: devpost
+  url: https://devpost.com/software/slope-qealuw
+awards:
+  - type: category-winner
+    title: Best use of Augment Code
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

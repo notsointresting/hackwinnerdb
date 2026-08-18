@@ -1,0 +1,19 @@
+id: jayhawkers-against-hackers
+name: Jayhawkers Against Hackers
+slug: jayhawkers-against-hackers
+tagline: A tower defense study game themed around Jayhawks and Foxes.
+summary: Jayhawkers Against Hackers received the Best Beginner Project (College/University) award at
+  HackKU26 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Emrillion/Hack-The-Jayhawks-2026/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/XLlpaDqIT5E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/035/datas/gallery.jpg
+categories:
+  - gaming
+technologies: []
+builders:
+  - name: Trey Campbell
+  - name: Simeon Geib
+  - name: iam killroy

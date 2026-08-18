@@ -1,0 +1,22 @@
+id: team-26
+name: Team 26
+slug: team-26
+tagline: "Team 26 tackled real AWS challenges — hosting websites, database failovers, and cloud
+  security. Our biggest lesson: backup first, test safely, always have a way"
+summary: Team 26 received the Honarary Mentions award at Cloudathon@SJSU 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - cybersecurity
+  - productivity
+  - cloud
+technologies: []
+builders:
+  - name: Evie Ho
+  - name: Rudy Cruz
+  - name: Pranav Abhyankar
+  - name: Robyn DeCastro

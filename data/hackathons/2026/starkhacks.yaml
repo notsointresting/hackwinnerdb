@@ -1,0 +1,14 @@
+id: starkhacks
+name: StarkHacks
+slug: starkhacks
+organizer: []
+year: 2026
+sources:
+  - https://starkhacks.devpost.com/
+  - https://starkhacks.devpost.com/project-gallery?filter=winner
+website_url: https://starkhacks.devpost.com/
+platform: devpost
+participant_count: 413
+prize_pool: null
+currency: null
+description: "Devpost hackathon: StarkHacks. Imported automatically."

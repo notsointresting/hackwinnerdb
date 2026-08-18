@@ -1,0 +1,24 @@
+id: banshee
+name: Banshee
+slug: banshee
+tagline: Banshee is a penetration testing platform for voice AI that simulates real attackers to
+  uncover prompt injection, jailbreak, social engineering, and telephony v
+summary: Banshee received the 4th Place - Honorable Mention award at Hack Indy 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/05cwright05/Banshee-Dashboard.com
+demo_url: null
+video_url: https://www.youtube.com/embed/8knemYRetwc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/002/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - openai
+  - twilio
+builders:
+  - name: Caden Wright

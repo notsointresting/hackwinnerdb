@@ -1,0 +1,21 @@
+id: nova-ai
+name: Nova AI
+slug: nova-ai
+tagline: VoiceBridge is an AI agent that learns and executes workflows across any software on your
+  computer - even apps it has never seen before. Already deployed and re
+summary: Nova AI received the [MLH] Best Use of Backboard - Tile Essentials Pack award at Hacktech
+  by Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/quachphu/Caltech-Hackathon-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/wt_w_KeJC2E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/761/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+builders:
+  - name: Phu Quach

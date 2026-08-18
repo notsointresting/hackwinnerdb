@@ -1,0 +1,14 @@
+id: moodleos-code-quest
+project_id: moodleos
+hackathon_id: code-quest
+submission_url: https://devpost.com/software/moodleos
+source:
+  platform: devpost
+  url: https://devpost.com/software/moodleos
+awards:
+  - type: category-winner
+    title: Best API Integration
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: not-so-rc-car
+name: Not So RC Car
+slug: not-so-rc-car
+tagline: This is a game where the objective to guide the robot to the end of an obstacle course.
+  This robot is created using a capacitive sensor antenna as your controll
+summary: Not So RC Car received the Best ECE award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/597IRlhs87c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/630/datas/gallery.jpg
+categories:
+  - robotics
+  - gaming
+  - creative-tools
+technologies:
+  - arduino
+builders:
+  - name: Safwan Shikder
+  - name: Zaid Akari
+  - name: Omar Khurshid

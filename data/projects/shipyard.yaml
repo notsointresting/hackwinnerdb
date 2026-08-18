@@ -1,0 +1,22 @@
+id: shipyard
+name: Shipyard
+slug: shipyard
+tagline: Visualize your repo's production readiness as a 3D city, then ship it with AI agents
+summary: Shipyard received the [GenAI Genesis] Top 2 Teams - Team 2 (In-Person Only) award at  GenAI
+  Genesis 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ryanshabaneh/GenAI-Genesis-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/6MIquQYw3sQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/467/626/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Amr Alomari
+  - name: Aous Alomari
+  - name: Ryan Shabaneh
+  - name: Kelly Gao

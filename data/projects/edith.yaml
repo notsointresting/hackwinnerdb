@@ -1,0 +1,24 @@
+id: edith
+name: Edith
+slug: edith
+tagline: do anything from anywhere
+summary: "Edith received the Fetch.ai: OmegaClaw Skill Forge powered by Agentverse award at LA Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/rishi-golla/lahacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Be9H4JvpBDg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/962/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - swift
+builders:
+  - name: Lucas Kim
+  - name: Owen Li
+  - name: Rishi Golla
+  - name: Angela Zhou

@@ -1,0 +1,22 @@
+id: dfb-da-farming-boys
+name: DFB - Da Farming Boys
+slug: dfb-da-farming-boys
+tagline: "[Please read the write up]"
+summary: DFB - Da Farming Boys received the 3rd Place award at University of Washington Databricks
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/LegendsNeverDl3/Databricks_Hackathon_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/9xnolivQuHE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Andrew Wood
+  - name: Aviel Wood
+  - name: Shiv Vinodshankar
+  - name: Samyag Jhaveri

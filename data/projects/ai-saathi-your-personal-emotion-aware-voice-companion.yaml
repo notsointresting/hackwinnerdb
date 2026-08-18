@@ -1,0 +1,24 @@
+id: ai-saathi-your-personal-emotion-aware-voice-companion
+name: AI Saathi Your Personal, Emotion-Aware Voice Companion
+slug: ai-saathi-your-personal-emotion-aware-voice-companion
+tagline: A smart, voice-first assistant that feels like a real friend understands your mood, speaks
+  your language works hands-free with earbuds, and adapts to your habit
+summary: AI Saathi Your Personal, Emotion-Aware Voice Companion received the Winner award at Hack
+  Days NIET in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/amansingh-develops/AiSaathi-Friend-On-Phone
+demo_url: null
+video_url: https://www.youtube.com/embed/mrf_Nt1js4A
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - gemini
+  - kotlin
+  - sqlite
+builders:
+  - name: Harsh  Kumar Singh
+  - name: Aman Singh Bhadoriya

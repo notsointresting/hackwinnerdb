@@ -1,0 +1,21 @@
+id: cogram
+name: Cogram
+slug: cogram
+tagline: "Zero-LLM procedural memory for coding agents: concept graph with tick-decay + file:line
+  provenance, plus Qwen Cloud for grounded answers. Remembers how past bug"
+summary: Cogram received the TechCommons Hacks V1 - Technical Excellence Award award at TechCommons
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/xqscora/cogram-qwen
+demo_url: null
+video_url: https://www.youtube.com/embed/TD22M79EFc4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: cora zeng

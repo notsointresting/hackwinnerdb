@@ -1,0 +1,23 @@
+id: grey-matter
+name: Grey Matter
+slug: grey-matter
+tagline: Your video has a watch time. Now it has a brain scan. Grey Matter maps cortical activation
+  second by second, so you can see the exact moment attention spikes, d
+summary: Grey Matter received the Claude Track award at Claude Hackathon 2026 Columbia X NYU in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akc2209/claude-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/foVFPAwSgKQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/517/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - media
+technologies:
+  - tailwind-css
+builders:
+  - name: Jessie Li
+  - name: Ashlee Chae
+  - name: Audrey Chan
+  - name: Sunny Liu

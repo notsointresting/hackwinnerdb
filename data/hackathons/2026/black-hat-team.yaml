@@ -1,0 +1,14 @@
+id: black-hat-team
+name: "Black Hat Team "
+slug: black-hat-team
+organizer: []
+year: 2026
+sources:
+  - https://blackhatteam.devpost.com/
+  - https://blackhatteam.devpost.com/project-gallery?filter=winner
+website_url: https://blackhatteam.devpost.com/
+platform: devpost
+participant_count: 14
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Black Hat Team . Imported automatically."

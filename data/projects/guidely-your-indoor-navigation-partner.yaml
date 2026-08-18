@@ -1,0 +1,22 @@
+id: guidely-your-indoor-navigation-partner
+name: Guidely - Your indoor navigation partner
+slug: guidely-your-indoor-navigation-partner
+tagline: Make life easier with AI-powered navigation for the places GPS can't reach.
+summary: Guidely - Your indoor navigation partner received the Third place - Impact Award award at
+  Ctrl+V Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/u_zD118m6oI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/865/029/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - java
+  - python
+builders:
+  - name: Krish Chowdhury

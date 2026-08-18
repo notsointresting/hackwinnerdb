@@ -1,0 +1,24 @@
+id: creativegen-studio
+name: CreativeGen Studio
+slug: creativegen-studio
+tagline: "An AI-powered creative platform that generates Urdu content, posters, captions, stories,
+  voiceovers, and social media designs instantly using Generative AI for "
+summary: CreativeGen Studio received the Google Swag Kit award at Urdu AI Hackathon - Kick-off
+  Session in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/693/655/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: ASMITHA J S SNSCT
+  - name: ARUNIKA S R SNSCT

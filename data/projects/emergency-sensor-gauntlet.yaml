@@ -1,0 +1,26 @@
+id: emergency-sensor-gauntlet
+name: Emergency Sensor Gauntlet
+slug: emergency-sensor-gauntlet
+tagline: A lack of reliable integrated information on one device in low signal environment for
+  disaster environment situations has created a need for our EMS personnel.
+summary: Emergency Sensor Gauntlet received the Second Place award at 2026 MakeNJIT Hardware
+  hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xk4qEP0BzGk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/806/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - arduino
+  - python
+  - pytorch
+builders:
+  - name: Kevin Navarro
+  - name: Ferit Altay
+  - name: Hamdi-korreshi Korreshi
+  - name: Cristian Garcia

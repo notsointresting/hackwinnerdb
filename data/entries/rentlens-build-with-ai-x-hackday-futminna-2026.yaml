@@ -1,0 +1,14 @@
+id: rentlens-build-with-ai-x-hackday-futminna-2026
+project_id: rentlens
+hackathon_id: build-with-ai-x-hackday-futminna-2026
+submission_url: https://devpost.com/software/rentlens-r6bl4v
+source:
+  platform: devpost
+  url: https://devpost.com/software/rentlens-r6bl4v
+awards:
+  - type: honorable-mention
+    title: Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

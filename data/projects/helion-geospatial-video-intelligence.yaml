@@ -1,0 +1,21 @@
+id: helion-geospatial-video-intelligence
+name: Helion | Geospatial Video Intelligence
+slug: helion-geospatial-video-intelligence
+tagline: "Multi-source intelligence fusion for video evidence. Reconstructs a 7-camera investigation
+  in 90 seconds, vs hours manually — with TwelveLabs Pegasus + Marengo "
+summary: Helion | Geospatial Video Intelligence received the 1st Place award at Geospatial Video
+  Intelligence Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/L0UN1aHgHhQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/642/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - nextjs
+builders:
+  - name: Christian Johnson

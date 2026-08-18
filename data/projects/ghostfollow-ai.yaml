@@ -1,0 +1,22 @@
+id: ghostfollow-ai
+name: GhostFollow AI
+slug: ghostfollow-ai
+tagline: LeadSense AI is an autonomous agent that scans online discussions, detects opportunity
+  signals in conversations, and generates personalized outreach to help tea
+summary: GhostFollow AI received the Participation Certificates award at Ctrl+V Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Noufalthecoder/GhostFollow-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/zSTBqPtA5vY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/425/546/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: MOHAMMED NOUFAL V IT
+  - name: TARUNIKA BALAJI CSBS

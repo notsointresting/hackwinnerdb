@@ -1,0 +1,21 @@
+id: the-last-choice
+name: The Last Choice
+slug: the-last-choice
+tagline: Two futures born from the same moment. One where humanity chose discomfort for survival.
+  One where we chose comfort and lost everything. The distance between th
+summary: The Last Choice received the Best Video award at BigThink x World Labs in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zZnU1u8-ViY
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: Anirud Mohan
+  - name: Akhil Shekkari
+  - name: Pranav Deshakulkarni Manjunath

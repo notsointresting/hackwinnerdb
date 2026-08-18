@@ -1,0 +1,23 @@
+id: colour-me-curious
+name: Colour Me Curious
+slug: colour-me-curious
+tagline: An interactive way to explore colour perception, colour mixing, and how the brain builds
+  your perception.
+summary: Colour Me Curious received the MID HACK MADNESS award at CareXR Hack in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4KBhm6TV048
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/487/144/datas/medium.jpg
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies:
+  - typescript
+builders:
+  - name: Brianna He
+  - name: Laura Wang
+  - name: david foubert
+  - name: Erica Cianfarano

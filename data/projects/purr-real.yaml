@@ -1,0 +1,22 @@
+id: purr-real
+name: Purr-Real?
+slug: purr-real
+tagline: Purr-Real is a BeReal-inspired web platform that maps cat sightings through user uploads.
+  It builds an interactive community for documenting cats sightings in l
+summary: Purr-Real? received the Best High School Project award at HackKU26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AJFergus-eng/CatFinder/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/U9lQyAYBkuw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/911/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+builders:
+  - name: JustJoshingYa VINOD
+  - name: Aiden Ferguson
+  - name: Andy Trinh
+  - name: jkookoo Koo

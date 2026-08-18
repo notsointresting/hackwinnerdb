@@ -1,0 +1,22 @@
+id: devil-s-advocate
+name: Devil's Advocate
+slug: devil-s-advocate
+tagline: "Devil's Advocate: Five AI advisors independently red-team your proposal before the room
+  does. Find blind spots, prepare for objections, walk in ready."
+summary: Devil's Advocate received the Track Winner award at Y-Claude Builder Club Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aidankcwu/claude-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/EUp-tvxPdSk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/529/268/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - fastapi
+  - python
+builders:
+  - name: Aidan Wu
+  - name: Lukas Johnson

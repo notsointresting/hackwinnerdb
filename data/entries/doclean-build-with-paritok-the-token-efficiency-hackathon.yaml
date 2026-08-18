@@ -1,0 +1,14 @@
+id: doclean-build-with-paritok-the-token-efficiency-hackathon
+project_id: doclean
+hackathon_id: build-with-paritok-the-token-efficiency-hackathon
+submission_url: https://devpost.com/software/doclean
+source:
+  platform: devpost
+  url: https://devpost.com/software/doclean
+awards:
+  - type: other
+    title: Social Blitz Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

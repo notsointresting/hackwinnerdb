@@ -1,0 +1,21 @@
+id: wear-abouts
+name: Wear_abouts
+slug: wear-abouts
+tagline: Your closet, on the cloud. Rent. Thrift. Repeat.
+summary: Wear_abouts received the SPUR - Build a Real Canadian Startup (Top 10) award at Hack Canada
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/SeBalderrama/HackCanada-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Zg5D4DUUxwY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/661/datas/gallery.jpg
+categories:
+  - cloud
+technologies:
+  - typescript
+builders:
+  - name: Sebastian Balderrama
+  - name: Khoi Nguyen
+  - name: Elliot Nou
+  - name: Sameer Bandha

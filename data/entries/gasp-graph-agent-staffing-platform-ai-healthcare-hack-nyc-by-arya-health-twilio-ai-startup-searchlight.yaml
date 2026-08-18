@@ -1,0 +1,14 @@
+id: gasp-graph-agent-staffing-platform-ai-healthcare-hack-nyc-by-arya-health-twilio-ai-startup-searchlight
+project_id: gasp-graph-agent-staffing-platform
+hackathon_id: ai-healthcare-hack-nyc-by-arya-health-twilio-ai-startup-searchlight
+submission_url: https://devpost.com/software/gasp
+source:
+  platform: devpost
+  url: https://devpost.com/software/gasp
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

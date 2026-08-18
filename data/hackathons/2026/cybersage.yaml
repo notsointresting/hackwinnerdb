@@ -1,0 +1,14 @@
+id: cybersage
+name: cybersage
+slug: cybersage
+organizer: []
+year: 2026
+sources:
+  - https://cybersage.devpost.com/
+  - https://cybersage.devpost.com/project-gallery?filter=winner
+website_url: https://cybersage.devpost.com/
+platform: devpost
+participant_count: 47
+prize_pool: null
+currency: null
+description: "Devpost hackathon: cybersage. Imported automatically."

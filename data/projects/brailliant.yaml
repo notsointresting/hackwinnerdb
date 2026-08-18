@@ -1,0 +1,26 @@
+id: brailliant
+name: Brailliant
+slug: brailliant
+tagline: Built a low-cost Braille reader that converts PDFs into English Braille and displays each
+  letter on a physical 6-dot Braille cell, synchronized with a web app f
+summary: Brailliant received the 2nd Overall Hack award at BloomKnights in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TomasTorrado/Brailliant
+demo_url: null
+video_url: https://www.youtube.com/embed/eGkaFCZrKGw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/924/datas/gallery.jpg
+categories:
+  - accessibility
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+  - python
+  - swift
+builders:
+  - name: Mahinur26 Mahi
+  - name: Tomas Torrado
+  - name: Ayush Pramanik
+  - name: Ian Lopez Aguirre

@@ -1,0 +1,23 @@
+id: herosync-vr
+name: HeroSync VR
+slug: herosync-vr
+tagline: Children aged 6–12 often struggle to express symptoms or emotions in medical settings. Due
+  to anxiety and limited vocabulary.
+summary: HeroSync VR received the Clip Contest award at CareXR Hack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TXs0VHi_3Q4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/245/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+  - ar-vr
+technologies:
+  - unity
+builders:
+  - name: Ly Andy Phok
+  - name: Mouad Essaki
+  - name: . ...
+  - name: mahmoud dabachi

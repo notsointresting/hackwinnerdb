@@ -1,0 +1,24 @@
+id: fin-wise
+name: Fin Wise
+slug: fin-wise
+tagline: Gamified financial literacy for teens — learn budgeting, saving, and investing through
+  interactive lessons and simulated markets.
+summary: "Fin Wise received the Participation Prize award at HackMars 3.0: NEON in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/sleader3221-dot/Fin_Wise
+demo_url: null
+video_url: https://www.youtube.com/embed/n7nLLtITZwU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/718/675/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - hardhat
+  - python
+  - solidity
+  - typescript
+builders:
+  - name: Karthik M a

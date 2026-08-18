@@ -1,0 +1,25 @@
+id: haven
+name: HAVEN
+slug: haven
+tagline: Facing eviction in England? HAVEN checks if your notice is even legal, shows how much time
+  you have, and tells you exactly what to do next — based on the most r
+summary: HAVEN received the College/Undergraduate - Responsible AI award at USAII® Global AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Adiiiiiiiiiiithegoat/haven
+demo_url: null
+video_url: https://www.youtube.com/embed/w7iRuxNnjc0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/791/412/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - groq
+  - javascript
+  - react
+builders:
+  - name: Aditya Ranjith
+  - name: Siddhartha Khajuria

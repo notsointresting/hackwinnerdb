@@ -1,0 +1,24 @@
+id: superstyle
+name: Superstyle
+slug: superstyle
+tagline: See exactly how clothes fit before you buy. Preview every detail, feel certain about every
+  choice, shop with clarity, simplicity, certainty.
+summary: Superstyle received the Best Use of Supermemory award at HackIllinois 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/danielxies/superstyle
+demo_url: null
+video_url: https://www.youtube.com/embed/rtP4I3jpIVE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/470/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - nextjs
+  - typescript
+  - vercel
+builders:
+  - name: Monish Muralicharan
+  - name: Irfan Firosh
+  - name: daniel xie

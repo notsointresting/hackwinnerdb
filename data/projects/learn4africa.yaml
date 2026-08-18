@@ -1,0 +1,25 @@
+id: learn4africa
+name: Learn4Africa
+slug: learn4africa
+tagline: Free AI-powered learning that gets African students hired.
+summary: Learn4Africa received the 3rd Place — Second Runner Up award at Build for Impact — CBC
+  Hackathon @ UR-CST in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Gacaca6/Learn4Africa.git
+demo_url: null
+video_url: https://www.youtube.com/embed/mmUU5tpVpA8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/595/873/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - typescript
+  - vercel
+builders:
+  - name: Gacaca Godwin
+  - name: Macrine ABIKUNDA
+  - name: Eric IRAGABA
+  - name: Giramahoro Henriette Marie

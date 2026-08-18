@@ -1,0 +1,19 @@
+id: fostermatch
+name: FosterMatch
+slug: fostermatch
+tagline: Every foster home has room for one more story. FosterMatch connects shelters and fosters in
+  minutes, so no animal waits for a place to land.
+summary: FosterMatch received the Third Place Overall award at Next Byte Hacks V3 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaanikaagarwal-ui/FosterMatch
+demo_url: null
+video_url: https://www.youtube.com/embed/HfxhKe4zeQ8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/025/594/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Anika Agarwal
+  - name: Neil Agarwal

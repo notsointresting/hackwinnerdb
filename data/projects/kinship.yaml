@@ -1,0 +1,25 @@
+id: kinship
+name: Kinship
+slug: kinship
+tagline: Kinship, a agentic AI companion WebSpatial experience running in the Pico Emulator to bring
+  culturally relevant and curated experiences for people who love auth
+summary: Kinship received the Best WebSpatial Project with PICO award at Worlds in Action Hack
+  [01-SF] in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/vEqok3ssSjE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/448/790/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - javascript
+  - openai
+builders:
+  - name: Glittering World Girl Akilah Martinez
+  - name: Tom Ortega II
+  - name: Myoung Kang
+  - name: Jerry Shu

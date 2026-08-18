@@ -1,0 +1,24 @@
+id: freeme
+name: FreeMe!
+slug: freeme
+tagline: Short notice errands? No problem! FreeMe will find safe, fun, and free drop-off programs
+  for your little one so you can get life done guilt-free.
+summary: FreeMe! received the Diversity in CS Project Hub award at youCode 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/audreyw28/youCode-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Oanf-QxXrtI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/629/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - figma
+  - javascript
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Yeongchae Park
+  - name: Audrey Wang
+  - name: Angie Chen

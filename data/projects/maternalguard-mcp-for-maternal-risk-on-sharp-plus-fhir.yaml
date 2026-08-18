@@ -1,0 +1,21 @@
+id: maternalguard-mcp-for-maternal-risk-on-sharp-plus-fhir
+name: "MaternalGuard: MCP for Maternal Risk on SHARP+FHIR"
+slug: maternalguard-mcp-for-maternal-risk-on-sharp-plus-fhir
+tagline: "5-tool MCP server plus A2A orchestrator that gives healthcare AI the full mother-baby
+  picture from any FHIR R4 workspace: maternal risk, lab trends, SDOH, ACOG-"
+summary: "MaternalGuard: MCP for Maternal Risk on SHARP+FHIR received the Honorable Mentions award
+  at Agents Assemble - The Healthcare AI Endgame in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/JonathanSolvesProblems/maternal-guard-prompt-opinion-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/LnZpT6Wvum8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/277/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Jonathan SolvesProblems

@@ -1,0 +1,28 @@
+id: aletheia
+name: Aletheia
+slug: aletheia
+tagline: Aletheia surfaces class-action settlements you’d never hear about by matching your real
+  purchase history to open claims, then gives you the proof to file.
+summary: Aletheia received the What would you build on top of a user’s purchase data? by KnotAPI [3
+  Prizes] award at HackPrinceton Spring '26 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BO9Y75puo2Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/595/881/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - javascript
+  - supabase
+  - typescript
+builders:
+  - name: Haoran Xu
+  - name: Anish Yenduri
+  - name: Brian Li
+  - name: Adarsh Danda

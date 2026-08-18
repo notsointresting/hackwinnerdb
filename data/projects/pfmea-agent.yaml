@@ -1,0 +1,23 @@
+id: pfmea-agent
+name: pFMEA Agent
+slug: pfmea-agent
+tagline: "AI agent that analyzes manufacturing procedure documents and generates process Failure
+  Mode and Effects Analysis (pFMEA) reports. Uses LangGraph to orchestrate "
+summary: pFMEA Agent received the Best Use of Kiro award at Deep Agents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/magicalpuffin/2026-03-27-deep-agents-hackathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - langchain
+  - python
+  - vercel
+builders:
+  - name: Michael Li
+  - name: Alejandro Huang

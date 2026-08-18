@@ -1,0 +1,14 @@
+id: email-security-simulator-morganhacks-2026
+project_id: email-security-simulator
+hackathon_id: morganhacks-2026
+submission_url: https://devpost.com/software/proxy-filter
+source:
+  platform: devpost
+  url: https://devpost.com/software/proxy-filter
+awards:
+  - type: other
+    title: M&T Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: hearth
+name: HEARTH
+slug: hearth
+tagline: HEARTH helps homeowners manage, predict, and procure maintenance,while giving service
+  providers access to pre-qualified nearby demand.
+summary: HEARTH received the Best use of Ghost award at Ship to Prod - Agentic Engineering Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Hearth-OS/hearth-os
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/189/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - mapbox
+  - redis
+builders:
+  - name: Emahatsion Issac
+  - name: Benjamin Toney
+  - name: Ian Too

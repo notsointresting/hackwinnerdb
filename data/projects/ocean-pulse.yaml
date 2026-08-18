@@ -1,0 +1,22 @@
+id: ocean-pulse
+name: Ocean Pulse
+slug: ocean-pulse
+tagline: The ocean looks fine. It's not. Ocean Pulse sees the crisis coming before it hits the surface.
+summary: Ocean Pulse received the AI/ML track award at DataHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/laura06919-max/datahacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/xutl2aYTvW0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/593/698/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Chau Nguyen
+  - name: Laura Yuan
+  - name: Maggie Shao
+  - name: David Yang

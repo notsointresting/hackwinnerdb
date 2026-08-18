@@ -1,0 +1,20 @@
+id: pureleaf
+name: PureLeaf
+slug: pureleaf
+tagline: 🌿Turning real-world cleanup into a gamified experience that unites users globally.
+summary: PureLeaf received the Best Use of Gemini (GDG Partner Prize) award at ClubHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saragebara/pure-leaf
+demo_url: null
+video_url: https://www.youtube.com/embed/Es1p-tzcCZs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/527/824/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - react-native
+  - typescript
+builders:
+  - name: Sara Gebara

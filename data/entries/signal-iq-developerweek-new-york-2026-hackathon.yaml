@@ -1,0 +1,14 @@
+id: signal-iq-developerweek-new-york-2026-hackathon
+project_id: signal-iq
+hackathon_id: developerweek-new-york-2026-hackathon
+submission_url: https://devpost.com/software/signal-iq
+source:
+  platform: devpost
+  url: https://devpost.com/software/signal-iq
+awards:
+  - type: other
+    title: Nimble - Build an Agentic App That Sees the Live Web
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

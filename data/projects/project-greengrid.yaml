@@ -1,0 +1,21 @@
+id: project-greengrid
+name: Project GreenGrid
+slug: project-greengrid
+tagline: An interactive dashboard that makes U.S. renewable energy data visible. explore solar,
+  wind, and hydro generation by state and see your CO₂ impact in real time.
+summary: Project GreenGrid received the Tech Swag award at FusionHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fibrahim4/greengrid
+demo_url: null
+video_url: https://www.youtube.com/embed/5OexfMz_xVw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/597/168/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Fuahd Ibrahim

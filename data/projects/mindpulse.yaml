@@ -1,0 +1,22 @@
+id: mindpulse
+name: MindPulse
+slug: mindpulse
+tagline: "A simple mood-tracking web app that helps people log daily emotions, spot patterns over
+  time, and build healthier mental health habits — built for UN SDG 3: Goo"
+summary: MindPulse received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ebendttl/MindPulse
+demo_url: null
+video_url: https://www.youtube.com/embed/f3g42BaStNA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/863/778/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Akinseinde Ebenezer

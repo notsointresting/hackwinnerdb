@@ -1,0 +1,14 @@
+id: careersecondbrain-client-optimized-career-architect-hyperbloom-summer-hackathon
+project_id: careersecondbrain-client-optimized-career-architect
+hackathon_id: hyperbloom-summer-hackathon
+submission_url: https://devpost.com/software/careersecondbrain-serverless-career-architect
+source:
+  platform: devpost
+  url: https://devpost.com/software/careersecondbrain-serverless-career-architect
+awards:
+  - type: other
+    title: 1-on-1 research consultation session with one of YRI’s PhD mentors
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

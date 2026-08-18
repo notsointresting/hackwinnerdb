@@ -1,0 +1,29 @@
+id: amy
+name: amy
+slug: amy
+tagline: Amy (amygdala) is the empathy layer that gives vision-language models human-centered data
+  so people stop deciding with half the picture.
+summary: amy received the IFM x Hacktech - Best Use of K2 Think V2 award at Hacktech by Caltech 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jshengdev/hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/iJDsh0IYLgw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/231/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - anthropic
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - typescript
+  - vue
+builders:
+  - name: Jacob Cho
+  - name: johnny sheng
+  - name: Junsoo Kim
+  - name: Emilie Duran

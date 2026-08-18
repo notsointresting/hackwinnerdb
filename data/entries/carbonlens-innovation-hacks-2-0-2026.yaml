@@ -1,0 +1,14 @@
+id: carbonlens-innovation-hacks-2-0-2026
+project_id: carbonlens
+hackathon_id: innovation-hacks-2-0-2026
+submission_url: https://devpost.com/software/carbonlabs
+source:
+  platform: devpost
+  url: https://devpost.com/software/carbonlabs
+awards:
+  - type: track-winner
+    title: "Amazon: Sustainability Challenge Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

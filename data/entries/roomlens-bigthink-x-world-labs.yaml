@@ -1,0 +1,14 @@
+id: roomlens-bigthink-x-world-labs
+project_id: roomlens
+hackathon_id: bigthink-x-world-labs
+submission_url: https://devpost.com/software/roomlens
+source:
+  platform: devpost
+  url: https://devpost.com/software/roomlens
+awards:
+  - type: category-winner
+    title: Best Consumer Product
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

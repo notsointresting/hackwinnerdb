@@ -1,0 +1,14 @@
+id: studyarena-hacklondon-2026
+project_id: studyarena
+hackathon_id: hacklondon-2026
+submission_url: https://devpost.com/software/studyarena
+source:
+  platform: devpost
+  url: https://devpost.com/software/studyarena
+awards:
+  - type: track-winner
+    title: (Knowunity Track) 4x DJI Neo Drone
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

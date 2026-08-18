@@ -1,0 +1,24 @@
+id: healix-ai-the-multimodal-clinical-oracle
+name: "Healix-AI: The Multimodal Clinical Oracle"
+slug: healix-ai-the-multimodal-clinical-oracle
+tagline: A triple-grounded RAG ecosystem providing visually and hearing-impaired patients with
+  zero-hallucination medical trust via real-time voice guidance, high-contra
+summary: "Healix-AI: The Multimodal Clinical Oracle received the 2nd Place – Excellence Award award
+  at Design for Everyone by The Merge in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/LokeshwaranMoorthi/Healix-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/423/457/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - groq
+  - javascript
+  - pinecone
+  - python
+builders:
+  - name: Lokeshwaran Moorthi

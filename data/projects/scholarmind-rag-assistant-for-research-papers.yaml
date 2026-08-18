@@ -1,0 +1,21 @@
+id: scholarmind-rag-assistant-for-research-papers
+name: "ScholarMind: RAG Assistant for Research Papers"
+slug: scholarmind-rag-assistant-for-research-papers
+tagline: "ScholarMind uses Gemini to let students chat with their research papers: get grounded,
+  citation-backed answers, full-paper summaries, and side-by-side compariso"
+summary: "ScholarMind: RAG Assistant for Research Papers received the Best Use of Gemini API award
+  at Code with Gemini API in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/rrameeza196/scholarmind
+demo_url: null
+video_url: https://www.youtube.com/embed/YKc3ffXCFiI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/895/654/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Rameeza tech

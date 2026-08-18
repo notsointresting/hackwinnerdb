@@ -1,0 +1,14 @@
+id: campusops-ai-knovwy-hack-days-2-0-bhopal
+project_id: campusops-ai
+hackathon_id: knovwy-hack-days-2-0-bhopal
+submission_url: https://devpost.com/software/campusops-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/campusops-ai
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

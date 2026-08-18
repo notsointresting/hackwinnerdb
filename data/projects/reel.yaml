@@ -1,0 +1,24 @@
+id: reel
+name: Reel
+slug: reel
+tagline: A scene lives as words until someone spends real money to see if it works. Reel turns a
+  screenplay scene into a fully previsualized cut — shots, stills, motion,
+summary: "Reel received the Feedback prize award at Backblaze Generative Media Hackathon: Build with
+  Genblaze on B2 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BQpuYu9GnlA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/927/172/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - fastapi
+  - llama
+  - python
+  - replicate
+builders:
+  - name: Jason Wold

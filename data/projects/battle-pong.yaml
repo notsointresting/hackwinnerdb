@@ -1,0 +1,19 @@
+id: battle-pong
+name: Battle Pong
+slug: battle-pong
+tagline: Bringing back and upgrading a retro game classic.
+summary: Battle Pong received the 2nd Place award at Hack Indy 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AHJLee19/Battle_Pong.git
+demo_url: null
+video_url: https://www.youtube.com/embed/_FO8z-52k4Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/938/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - javascript
+builders:
+  - name: AHJL Lee

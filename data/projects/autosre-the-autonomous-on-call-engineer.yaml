@@ -1,0 +1,27 @@
+id: autosre-the-autonomous-on-call-engineer
+name: "AutoSRE: The Autonomous On-Call Engineer"
+slug: autosre-the-autonomous-on-call-engineer
+tagline: AutoSRE is an autonomous on-call agent that diagnoses Dynatrace incidents in seconds and
+  queues up the fix, but cannot touch production without your one-tap app
+summary: "AutoSRE: The Autonomous On-Call Engineer received the Dynatrace - 1st Place award at
+  Google Cloud Rapid Agent Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/thylinao1/autosre
+demo_url: null
+video_url: https://www.youtube.com/embed/1OdR7va2Bgo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/750/511/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - google-cloud
+  - python
+  - react
+  - typescript
+  - vertex-ai
+builders:
+  - name: Maksim Silchenko

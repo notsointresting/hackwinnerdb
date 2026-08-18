@@ -1,0 +1,25 @@
+id: benefitsbridge
+name: BenefitsBridge
+slug: benefitsbridge
+tagline: Helps underserved communities access government benefits that would otherwise go unclaimed.
+summary: BenefitsBridge received the 2nd Place award at SP26 Cornell Claude Builders Club
+  Hackathon  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ks2484-wq/benefitsbridge
+demo_url: null
+video_url: https://www.youtube.com/embed/Ji4W5OJ9rNA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Derek Li
+  - name: Kritanu Saha
+  - name: David Diao

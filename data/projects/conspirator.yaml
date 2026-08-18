@@ -1,0 +1,22 @@
+id: conspirator
+name: conspirator
+slug: conspirator
+tagline: I create conspiracies as a service.
+summary: conspirator received the Best Use of Render award at Autonomous Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akhileshrangani4/awsagentshack
+demo_url: null
+video_url: https://www.youtube.com/embed/bNGu21OMSEs
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - javascript
+  - openai
+  - python
+builders:
+  - name: Akhilesh Rangani

@@ -1,0 +1,14 @@
+id: krishinexus-ai-hack-days-in-feni
+project_id: krishinexus-ai
+hackathon_id: hack-days-in-feni
+submission_url: https://devpost.com/software/krishinexus-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/krishinexus-ai
+awards:
+  - type: category-winner
+    title: Best Use of Antigravity
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: eat-cheaper
+name: Eat Cheaper
+slug: eat-cheaper
+tagline: Eat Cheaper helps you find affordable meals around you. You'll know the price to the exact
+  cent — no more menu surprises at the register.
+summary: Eat Cheaper received the [MLH] Best Use of Gemini API award at AI Hackfest in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sunghun1123/Hackfest_SunghunKim
+demo_url: null
+video_url: https://www.youtube.com/embed/gpvmpdtRv7s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/515/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - google-maps
+  - kotlin
+  - postgresql
+  - python
+builders:
+  - name: Kim Sunghun

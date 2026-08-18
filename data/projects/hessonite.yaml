@@ -1,0 +1,25 @@
+id: hessonite
+name: Hessonite
+slug: hessonite
+tagline: "Omni-Fusion is an intelligent, patient-first AI platform that unifies fragmented medical
+  data—like ECGs and vitals—into clear, explainable, and highly accurate "
+summary: Hessonite received the College Track 1 Prize award at PeddieHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nikhil0512-committs/omni-fusion
+demo_url: null
+video_url: https://www.youtube.com/embed/YDTSeNNoZMg
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - nextjs
+  - python
+  - react
+  - typescript
+builders:
+  - name: Bhuvan Malhotra
+  - name: Nikhil Sharma

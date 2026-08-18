@@ -1,0 +1,19 @@
+id: calorie-advisor
+name: Calorie_Advisor
+slug: calorie-advisor
+tagline: '"Calorie Advisor: Your Personal Nutrition Guide."'
+summary: Calorie_Advisor received the First Winner award at Hack Days in Bansal in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jayeshbaraskar2005-art/Visual-Nutrition-Assistant
+demo_url: null
+video_url: https://www.youtube.com/embed/Y6kK7pwy6Pu
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/050/028/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Jayesh Baraskar

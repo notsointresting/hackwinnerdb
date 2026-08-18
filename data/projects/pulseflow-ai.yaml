@@ -1,0 +1,23 @@
+id: pulseflow-ai
+name: PulseFlow AI
+slug: pulseflow-ai
+tagline: A hospital admin tool that detects bottlenecks, manages resources, and optimizes staffing,
+  flow, and capacity to maximize care.
+summary: PulseFlow AI received the Best Use of AI/ML award at HackJPS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DagaVedant/PulseFlow-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/844/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Vedant Daga
+  - name: Ananjay Sharma

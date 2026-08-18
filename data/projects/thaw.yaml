@@ -1,0 +1,29 @@
+id: thaw
+name: Thaw
+slug: thaw
+tagline: "Thaw kills cold outreach. Our AI matches startups, investors and enterprises by mutual
+  intent, delivering verified and consensual warm introductions that build "
+summary: Thaw received the Best Beginner award at HooHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sambriggs262/thaw
+demo_url: null
+video_url: https://www.youtube.com/embed/-S7NV_zc-2I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/645/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - nextjs
+  - postgresql
+  - react
+  - sql
+  - typescript
+  - vercel
+builders:
+  - name: Spencer Wilford
+  - name: sambriggs262 Briggs
+  - name: Patrick Dodds

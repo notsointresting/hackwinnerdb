@@ -1,0 +1,21 @@
+id: visar-edge-lightweight-nlp-intelligence-suite
+name: "​VISAR Edge: Lightweight NLP Intelligence Suite"
+slug: visar-edge-lightweight-nlp-intelligence-suite
+tagline: An edge-optimized, multilingual NLP architecture delivering 99%+ accuracy via lightweight
+  Soft-Voting Ensembles, completely bypassing the latency, API costs, an
+summary: "​VISAR Edge: Lightweight NLP Intelligence Suite received the Grand Champion award at
+  NeuroLogic '26: Global NLP Datathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/RootDeveloperDS/NeuroLogic26_Submission.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/604/250/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+builders:
+  - name: Devansh Sharma

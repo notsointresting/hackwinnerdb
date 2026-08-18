@@ -1,0 +1,21 @@
+id: learnlens-ai
+name: learnlens_ai
+slug: learnlens-ai
+tagline: LearnLens AI turns any YouTube video into an interactive tutor—ask questions, analyze
+  moments, and understand instantly.”
+summary: learnlens_ai received the Participation Swag & Benefits award at Quantum Sprint in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Prathamrev/Learn-Lens-AI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/m-02qgsly18
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/751/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - media
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Pratham Revankar

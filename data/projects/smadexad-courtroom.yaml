@@ -1,0 +1,26 @@
+id: smadexad-courtroom
+name: SmadexAd Courtroom
+slug: smadexad-courtroom
+tagline: An AI-powered courtroom where 5 specialized agents debate ad creatives to deliver
+  explainable, data-driven marketing decisions.
+summary: SmadexAd Courtroom received the [Smadex] 2nd place award at HackUPC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GuillermoCalet/HACKUPC-2-26.git
+demo_url: null
+video_url: https://www.youtube.com/embed/R8XPvXLLxN0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/608/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - fastapi
+  - python
+  - sqlite
+  - streamlit
+builders:
+  - name: Oscar Nagl
+  - name: Guillermo Calet Bernal
+  - name: laiaalaminos Alaminos Vidal
+  - name: Mohamed Dari Bachiri

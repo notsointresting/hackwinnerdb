@@ -1,0 +1,23 @@
+id: excavision
+name: ExcaVision
+slug: excavision
+tagline: Multimodal AI Inspection App for Excavator Technicians
+summary: "ExcaVision received the Track: Best AI Inspection (Honorable Mentions) award at
+  HackIllinois 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/gfires/caterpillar-ai-inspection
+demo_url: null
+video_url: https://www.youtube.com/embed/AmoK_OdPc0E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/887/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Gavin Firestone
+  - name: Stella Chen

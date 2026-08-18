@@ -1,0 +1,14 @@
+id: hack-msa
+name: hack.msa
+slug: hack-msa
+organizer: []
+year: 2026
+sources:
+  - https://hackmsa.devpost.com/
+  - https://hackmsa.devpost.com/project-gallery?filter=winner
+website_url: https://hackmsa.devpost.com/
+platform: devpost
+participant_count: 173
+prize_pool: 5000
+currency: USD
+description: "Devpost hackathon: hack.msa. Imported automatically."

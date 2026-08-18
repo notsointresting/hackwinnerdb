@@ -1,0 +1,18 @@
+id: typesplit
+name: TypeSplit
+slug: typesplit
+tagline: A typing test with a twist!
+summary: TypeSplit received the Best Solo Hack award at Mountain Madness 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adamw-git/TypeSplit
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+builders:
+  - name: adamw-git Watson

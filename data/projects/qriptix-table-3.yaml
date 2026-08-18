@@ -1,0 +1,22 @@
+id: qriptix-table-3
+name: Qriptix Table#3
+slug: qriptix-table-3
+tagline: The next generation of encryption accessible to all.
+summary: Qriptix Table#3 received the 2nd Place - Overall award at VikingHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bluezonesai/Qriptix
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - javascript
+  - postgresql
+builders:
+  - name: Aarush Sharma
+  - name: Vivek Chandrapati
+  - name: prethamrb07 balaji

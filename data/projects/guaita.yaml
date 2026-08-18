@@ -1,0 +1,27 @@
+id: guaita
+name: guAIta
+slug: guaita
+tagline: guAIta replaces forest patrols with a cost-effective Arduino Edge AI network, detecting
+  boars locally to trigger calls and live dashboard alerts that optimize C
+summary: guAIta received the [Qualcomm] 3rd place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/guimCC/guAIta
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/607/650/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - elevenlabs
+  - javascript
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Guim Casadellà Cors
+  - name: Pol Resina Martínez
+  - name: Marc Herrero
+  - name: Gerard Grau García

@@ -1,0 +1,21 @@
+id: larpedin
+name: LARPedIn
+slug: larpedin
+tagline: "Turning average LinkedIn LARP into a sport. Spin a mundane achievement into corporate
+  gold. Three specifically trained AI judges decide: genius? Or just blatant"
+summary: LARPedIn received the Most Creative Projects award at JecHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ax-json/larpdIn
+demo_url: null
+video_url: https://www.youtube.com/embed/QGQjZ0RwV-M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/030/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Aksh Jain

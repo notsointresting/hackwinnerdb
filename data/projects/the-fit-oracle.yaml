@@ -1,0 +1,18 @@
+id: the-fit-oracle
+name: The Fit Oracle
+slug: the-fit-oracle
+tagline: Zero‑waste fashion sizing – two photos, one perfect fit.
+summary: The Fit Oracle received the Grand prize winner award at Measure up in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/violachiang/the-fit-oracle
+demo_url: null
+video_url: https://www.youtube.com/embed/ZpEq7_yksL4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/029/785/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - supabase
+  - typescript
+builders: []

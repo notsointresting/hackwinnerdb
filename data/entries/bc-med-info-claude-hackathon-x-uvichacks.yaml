@@ -1,0 +1,14 @@
+id: bc-med-info-claude-hackathon-x-uvichacks
+project_id: bc-med-info
+hackathon_id: claude-hackathon-x-uvichacks
+submission_url: https://devpost.com/software/bc-med-info
+source:
+  platform: devpost
+  url: https://devpost.com/software/bc-med-info
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

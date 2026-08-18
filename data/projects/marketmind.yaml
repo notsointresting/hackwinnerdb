@@ -1,0 +1,21 @@
+id: marketmind
+name: MarketMind
+slug: marketmind
+tagline: MarketMind is a no-risk stock market simulator designed to help beginners learn how to
+  invest without losing real money.
+summary: MarketMind received the 5th Place award at MorganHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ayomide0727/MarketMind.git
+demo_url: null
+video_url: https://www.youtube.com/embed/s-SaNTvekto
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/496/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: Ayomide Aisida
+  - name: Aisida Olumide
+  - name: masmi112-oss
+  - name: ShelceKR

@@ -1,0 +1,18 @@
+id: twinshield-royalhacks
+project_id: twinshield
+hackathon_id: royalhacks
+submission_url: https://devpost.com/software/twinshield
+source:
+  platform: devpost
+  url: https://devpost.com/software/twinshield
+awards:
+  - type: other
+    title: 12-months of n8n Cloud Pro
+  - type: other
+    title: Swag
+  - type: other
+    title: Rubber ducks
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

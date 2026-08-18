@@ -1,0 +1,18 @@
+id: poseidon
+name: Poseidon
+slug: poseidon
+tagline: SUPER DOPE SNAKE THATLL WIN EVERYTHING - LETS GOOOOOOOOOOOOOOOOOO
+summary: Poseidon received the First Place award at BattleSnake 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/OmRanAlot/njit-battlesnake
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: Om Rana

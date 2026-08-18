@@ -1,0 +1,22 @@
+id: evidencecv
+name: EvidenceCV
+slug: evidencecv
+tagline: Evidence-Based Resume Generation using RAG
+summary: EvidenceCV received the Third Place award at {eHacks} 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Prashanna-Raj-Pandit/EvidenceCV
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/417/965/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Prashanna Raj Pandit
+  - name: Asha Shah

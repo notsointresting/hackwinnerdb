@@ -1,0 +1,24 @@
+id: re-medy
+name: re-medy
+slug: re-medy
+tagline: A medication safety app. Add medications by photo or text, get real-time conflict detection
+  by Gemini, track daily doses, log side effects, and see which medica
+summary: "re-medy received the Best use of Gemini: Google Swag Kits award at BACSA Hacks in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/kikotc/re-medy
+demo_url: null
+video_url: https://www.youtube.com/embed/rIVm1KgMuLI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/415/224/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - react
+  - supabase
+builders:
+  - name: Kiko Chen
+  - name: Cheney Chen
+  - name: Parsa Nabifar

@@ -1,0 +1,23 @@
+id: predictit
+name: Predictit
+slug: predictit
+tagline: Predictit turns your smart glasses into a live sports analyst look at any game, and it
+  reads the scoreboard, estimates who'll win, and tells you how that compar
+summary: Predictit received the Best Use of Google Gemini [Google Gemini] award at BloomKnights in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Sa8JYi881G8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/883/157/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - gemini
+  - javascript
+  - swift
+  - webrtc
+builders:
+  - name: Christina Liu
+  - name: Saicharan Ramineni
+  - name: Chang Dev

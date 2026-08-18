@@ -1,0 +1,24 @@
+id: lingo
+name: Lingo
+slug: lingo
+tagline: Public speaking and interviews are terrifying for most people, so we built a platform that
+  turns mastering your voice into a game.
+summary: Lingo received the 2nd Place award at KeanUHackThis 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NotSllaim/KeanHack-SNN
+demo_url: null
+video_url: https://www.youtube.com/embed/7_zno4l5dRA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/452/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - mongodb
+  - solana
+  - vercel
+builders:
+  - name: NotSlaim Hughes
+  - name: Shane Ruggirello
+  - name: Nurbu Lama

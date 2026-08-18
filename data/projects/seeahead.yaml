@@ -1,0 +1,20 @@
+id: seeahead
+name: SeeAhead
+slug: seeahead
+tagline: AI eyes for life's tricky moments — point, analyze, navigate. Calm guidance for autistic,
+  ADHD & anxious individuals. Help is one tap away!
+summary: SeeAhead received the Best Freshman Team award at SummerBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ArunKarthick19/Tha-Va-Ka
+demo_url: null
+video_url: https://www.youtube.com/embed/_T4bJNeD0ns
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/481/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+  - react-native
+builders:
+  - name: Arun Karthick
+  - name: Ashvak Kalimullakhan

@@ -1,0 +1,20 @@
+id: agentsight
+name: AgentSight
+slug: agentsight
+tagline: "Who watches the MCP agents querying your Splunk data? AgentSight does - native Splunk
+  observability for AI agents: real MCP audit logs, agent-specific detection"
+summary: AgentSight received the Best Use of Splunk Hosted Models award at Splunk Agentic Ops
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/prabhakaran-jm/agentsight
+demo_url: null
+video_url: https://www.youtube.com/embed/_FvqekDuL8M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/763/883/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders: []

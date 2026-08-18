@@ -1,0 +1,25 @@
+id: budget-buddy
+name: Budget Buddy
+slug: budget-buddy
+tagline: '"Ooops! I spent it again." Grow your financial knowledge and stability with your new
+  digital companion Budget Buddy!'
+summary: Budget Buddy received the 3rd Place award at HACKMESA 2.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/digitizednoise/newHackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/o30EpLTPv0M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/028/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - claude
+  - figma
+  - firebase
+  - gemini
+  - javascript
+builders:
+  - name: May Aung
+  - name: KB Sedghinasab
+  - name: 3lectrics
+  - name: DIGITIZEDNOISE

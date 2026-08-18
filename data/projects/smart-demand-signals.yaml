@@ -1,0 +1,20 @@
+id: smart-demand-signals
+name: Smart Demand Signals
+slug: smart-demand-signals
+tagline: 30000 euros guanyats en 20 alertes.
+summary: Smart Demand Signals received the 2nd price - Inibsa Challenge award at InterHackBCN in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/perepages/inibsa-front.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/237/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - mongodb
+  - react
+builders:
+  - name: pere pages

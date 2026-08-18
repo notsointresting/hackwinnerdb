@@ -1,0 +1,23 @@
+id: botornot-team-13
+name: BotOrNot - Team 13
+slug: botornot-team-13
+tagline: "You have one objective: be a bot. Try your best to mimic an AI without dying. You're given
+  a prompt, which you are required to respond to. Your responses are ju"
+summary: BotOrNot - Team 13 received the Entertainment award at BeachHacks 9.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GeorgeParackal/BotOrNot_Game/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/_pZQe_Sm3hw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/251/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - gemini
+  - openai
+builders:
+  - name: George Parackal
+  - name: Tyler Nguyen
+  - name: Benjamin Truong
+  - name: Hunter Vong

@@ -1,0 +1,26 @@
+id: explainify
+name: Explainify
+slug: explainify
+tagline: Type any topic. Get a narrated educational animation in minutes. Designed for
+  neurodivergent learners who thrive on visuals and audio.
+summary: Explainify received the CSC Impact Silver Award award at CSC Summer Impactathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Flowthread/Explainify
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/072/095/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - creative-tools
+technologies:
+  - claude
+  - docker
+  - fastapi
+  - flask
+  - javascript
+  - openai
+  - python
+builders:
+  - name: Nahhitsreal Abiha

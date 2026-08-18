@@ -1,0 +1,28 @@
+id: praxis
+name: Praxis
+slug: praxis
+tagline: Praxis is a QNX-powered rehabilitation tool that turns a simple tracing exercise into
+  measurable, AI-powered insights about a patient's accuracy, stability, and
+summary: "Praxis received the Hack the 6ix: 1st Place award at Hack the 6ix 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/n1mk1/ht6
+demo_url: null
+video_url: https://www.youtube.com/embed/0o__RDlzPAg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/936/074/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - claude
+  - gemini
+  - mongodb
+  - python
+  - raspberry-pi
+builders:
+  - name: Katie Langille
+  - name: Sanvi Kaushik
+  - name: Ananya Maheshwari
+  - name: As Wasti

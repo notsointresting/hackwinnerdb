@@ -1,0 +1,24 @@
+id: investquest
+name: InvestQuest
+slug: investquest
+tagline: Finance can be finnicky, but InvestQuest turns that fear into fun.
+summary: InvestQuest received the [SPONSOR] NRVE award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nishthefish06/InvestQuest
+demo_url: null
+video_url: https://www.youtube.com/embed/kKPGvCHzo4s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/563/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - figma
+  - mongodb
+  - vercel
+builders:
+  - name: Akshaya Muthusamy
+  - name: Snigdha Tadi
+  - name: Nishanth Srinivasan
+  - name: Bhuvi Thiriveedhi

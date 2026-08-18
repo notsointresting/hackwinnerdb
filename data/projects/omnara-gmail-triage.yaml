@@ -1,0 +1,20 @@
+id: omnara-gmail-triage
+name: Omnara Gmail Triage
+slug: omnara-gmail-triage
+tagline: "A CLI that fetches new Gmail messages as JSON and triages them via Omnara, sorting your
+  inbox into priority, junk, and follow-up automatically. The whole thing "
+summary: "Omnara Gmail Triage received the Track 2: Omnara (2nd place) award at SDxUCSD Agent
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/spotshare-nick/omnara-project
+demo_url: null
+video_url: https://www.youtube.com/embed/dQw4w9WgXcQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/421/datas/gallery.jpg
+categories:
+  - fintech
+  - productivity
+technologies:
+  - typescript
+builders:
+  - name: Nicholas McKenna

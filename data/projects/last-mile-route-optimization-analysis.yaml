@@ -1,0 +1,24 @@
+id: last-mile-route-optimization-analysis
+name: Last-Mile Route Optimization Analysis
+slug: last-mile-route-optimization-analysis
+tagline: Using real Amazon delivery data, we optimized last-mile routing with K-Means clustering and
+  geospatial analytics to reduce inefficiency, costs, and CO₂ emission
+summary: Last-Mile Route Optimization Analysis received the ACM-W Data Science Ethics award at AI
+  For Good Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Jayasnehasreesannidhi/Last-Mile-Route-Optimization-Using-K-Means-Clustering-and-Geospatial-Analytics-
+demo_url: null
+video_url: https://www.youtube.com/embed/PhpBVy7zb2Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/696/274/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - vercel
+builders:
+  - name: Jaya Sneha Sannidhi
+  - name: Ram Saran  Venkatasalapathy

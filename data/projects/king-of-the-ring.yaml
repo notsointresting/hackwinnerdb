@@ -1,0 +1,23 @@
+id: king-of-the-ring
+name: King of the Ring
+slug: king-of-the-ring
+tagline: Real-time boxing game using only your phone! We use built-in sensors to turn your device
+  into a motion controller. Step into the arena and become the King of th
+summary: King of the Ring received the Bambu A1 Mini 3D Printer award at EurekaHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kevinyhe/eureka-hacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/SNshtQoToh4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/638/043/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+builders:
+  - name: Kevin Yang
+  - name: Hong Yi (Eric) Wang
+  - name: Kevin He
+  - name: Yichen Xiao

@@ -1,0 +1,16 @@
+id: sentinel-ai-solhacks-2026
+project_id: sentinel-ai
+hackathon_id: solhacks-2026
+submission_url: https://devpost.com/software/sentinel-ai-sj0daq
+source:
+  platform: devpost
+  url: https://devpost.com/software/sentinel-ai-sj0daq
+awards:
+  - type: first-place
+    title: Intermediate 1st Place
+  - type: category-winner
+    title: "[MLH] Best Use of Solana"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: red-flag-detector-group-11
+name: "Red Flag Detector - Group #11"
+slug: red-flag-detector-group-11
+tagline: The AI solution for people who love overthinking. This Chrome Extension will scan your
+  chats for "toxic" patterns that definitely aren't there, giving you the d
+summary: "Red Flag Detector - Group #11 received the Best Gag award at BeachHacks 9.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/tessajholder/red_flag_detector.git
+demo_url: null
+video_url: https://www.youtube.com/embed/TAtodzk4udU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/485/895/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - defi
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Tessa Holder
+  - name: Paige Moua
+  - name: Sofia Haro-Ortiz
+  - name: Melina Hourai

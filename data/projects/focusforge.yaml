@@ -1,0 +1,22 @@
+id: focusforge
+name: FocusForge
+slug: focusforge
+tagline: Master the TEKS, ace the test, FocusForge outshines the rest!
+summary: FocusForge received the Google Gemini swag award at Hack days in hosur in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kanishkarm02-bit/FocusForge
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/543/924/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - gemini
+  - google-ai-studio
+  - javascript
+  - react
+builders:
+  - name: Kanishkar M

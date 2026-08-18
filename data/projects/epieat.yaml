@@ -1,0 +1,21 @@
+id: epieat
+name: EpiEat
+slug: epieat
+tagline: An app that scans your menu, translates it into your language, marks whether a food is safe
+  or not, and orders for you.
+summary: EpiEat received the Best Use of Backboard award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/sr-acOtDyRk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/194/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - figma
+  - gemini
+builders:
+  - name: Sunny Han
+  - name: sanghyun lee
+  - name: NEAL CONWAY

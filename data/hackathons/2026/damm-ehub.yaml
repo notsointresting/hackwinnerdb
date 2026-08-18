@@ -1,0 +1,14 @@
+id: damm-ehub
+name: DAMM <&> EHUB
+slug: damm-ehub
+organizer: []
+year: 2026
+sources:
+  - https://damm-ehub.devpost.com/
+  - https://damm-ehub.devpost.com/project-gallery?filter=winner
+website_url: https://damm-ehub.devpost.com/
+platform: devpost
+participant_count: 32
+prize_pool: 3100
+currency: USD
+description: "Devpost hackathon: DAMM <&> EHUB. Imported automatically."

@@ -1,0 +1,25 @@
+id: revenant
+name: Revenant
+slug: revenant
+tagline: omniate.ca
+summary: Revenant received the [Sponsored] Moorcheh AI Best AI Application that Leverages Efficient
+  Memory (In-Person Only) award at  GenAI Genesis 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akashngb/revenant
+demo_url: null
+video_url: https://www.youtube.com/embed/b8GMDsEriNg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/444/225/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Vedthakar Thakar
+  - name: Seeron Sivashankar
+  - name: Omar Ibrahim
+  - name: Akash Nagabhirava

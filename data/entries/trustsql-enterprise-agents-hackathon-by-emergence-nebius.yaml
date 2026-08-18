@@ -1,0 +1,14 @@
+id: trustsql-enterprise-agents-hackathon-by-emergence-nebius
+project_id: trustsql
+hackathon_id: enterprise-agents-hackathon-by-emergence-nebius
+submission_url: https://devpost.com/software/trustsql-dt5ohf
+source:
+  platform: devpost
+  url: https://devpost.com/software/trustsql-dt5ohf
+awards:
+  - type: honorable-mention
+    title: Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,18 @@
+id: tiefe
+name: tiefe
+slug: tiefe
+tagline: labyrinth of leviathan
+summary: tiefe received the Google AI Pro Postcard award at HackDays Delhi in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/355/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Dice Sad
+  - name: Aayush Pandey

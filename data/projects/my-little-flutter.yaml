@@ -1,0 +1,22 @@
+id: my-little-flutter
+name: My Little Flutter
+slug: my-little-flutter
+tagline: Where small actions becomes big. It shows residents exactly how much methane they just
+  prevented, every deposit earns Eco-Credits; redeemable for grocery vouche
+summary: "My Little Flutter received the Third Prize (x3) award at The Climate Change-Makers
+  Challenge: 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/damin-joo/my-little-flutter-ccc-hackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/WwlLV_jf49M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/815/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - java
+  - javascript
+  - react-native
+builders:
+  - name: Damin Joo
+  - name: Dayoung Joo

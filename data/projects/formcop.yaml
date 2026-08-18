@@ -1,0 +1,24 @@
+id: formcop
+name: FormCop
+slug: formcop
+tagline: Biomechanical ML coaching that perfects your form, and tracks your workout in real-time.
+summary: "FormCop received the Open Challenge First Place: Soundcore Wireless Earbuds award at BACSA
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/faiiyad/UnicornLab
+demo_url: null
+video_url: https://www.youtube.com/embed/H0itNbDoBFI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/415/232/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - gemini
+  - mongodb
+builders:
+  - name: Bryan Yee
+  - name: Martin Lam
+  - name: Rian Mehta
+  - name: Faiyad Ahmed Masnoon

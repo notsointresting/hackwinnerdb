@@ -1,0 +1,19 @@
+id: echo-the-bridge
+name: "Echo: The Bridge"
+slug: echo-the-bridge
+tagline: Bridging Gaps Between Parents and Children Through AI-Powered Daily Quests
+summary: "Echo: The Bridge received the Best Learning & Education App award at Build with MeDo
+  Hackathon  in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/IIGxeXsNZlI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/686/879/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: Nikhil Mankani

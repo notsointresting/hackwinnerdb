@@ -1,0 +1,20 @@
+id: breezi
+name: Breezi
+slug: breezi
+tagline: Breezi facilite les déplacements pour mieux se rassembler, propulse la mégalopole avec une
+  énergie verte et réinvente la maintenance dans les environnements à f
+summary: Breezi received the Prix 3ème place award at StarHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/isa-9/starhack26
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - social-impact
+  - iot
+technologies:
+  - python
+builders:
+  - name: Isabella S

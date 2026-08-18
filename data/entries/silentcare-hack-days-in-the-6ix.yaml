@@ -1,0 +1,14 @@
+id: silentcare-hack-days-in-the-6ix
+project_id: silentcare
+hackathon_id: hack-days-in-the-6ix
+submission_url: https://devpost.com/software/silentcare
+source:
+  platform: devpost
+  url: https://devpost.com/software/silentcare
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

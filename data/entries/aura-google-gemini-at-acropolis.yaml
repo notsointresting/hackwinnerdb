@@ -1,0 +1,14 @@
+id: aura-google-gemini-at-acropolis
+project_id: aura
+hackathon_id: google-gemini-at-acropolis
+submission_url: https://devpost.com/software/aura-u267kb
+source:
+  platform: devpost
+  url: https://devpost.com/software/aura-u267kb
+awards:
+  - type: other
+    title: Google Swag Kits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

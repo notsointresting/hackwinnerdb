@@ -1,0 +1,14 @@
+id: vitalis-genovate-hack-days
+project_id: vitalis
+hackathon_id: genovate-hack-days
+submission_url: https://devpost.com/software/vitalis-t1khig
+source:
+  platform: devpost
+  url: https://devpost.com/software/vitalis-t1khig
+awards:
+  - type: category-winner
+    title: Best use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

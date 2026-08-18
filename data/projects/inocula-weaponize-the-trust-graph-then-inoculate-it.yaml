@@ -1,0 +1,25 @@
+id: inocula-weaponize-the-trust-graph-then-inoculate-it
+name: Inocula - Weaponize the Trust Graph. Then inoculate it.
+slug: inocula-weaponize-the-trust-graph-then-inoculate-it
+tagline: Expose the infection. Build the immunity. Inocula attacks and defends the Bluetooth trust layer.
+summary: Inocula - Weaponize the Trust Graph. Then inoculate it. received the Best Startup Idea
+  award at JacHacks in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/sudarshan-sridhar/Inocula_Weapon.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/234/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - claude
+  - python
+  - raspberry-pi
+  - react
+builders:
+  - name: marcebd Billingslea
+  - name: Jana Hazimeh
+  - name: Sudarshan Sridhar

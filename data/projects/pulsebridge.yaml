@@ -1,0 +1,24 @@
+id: pulsebridge
+name: PulseBridge
+slug: pulsebridge
+tagline: Not every emergency needs a siren.
+summary: "PulseBridge received the HackAI General Track: Make Your Mark award at Hack AI 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/gaurangdhanani/PulseBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/yymPiPEHs9g
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - java
+  - javascript
+  - swift
+  - twilio
+builders:
+  - name: Vedant Deshmukh
+  - name: AvyayRao21 Rao
+  - name: Gaurang Dhanani
+  - name: Koushik Baratam

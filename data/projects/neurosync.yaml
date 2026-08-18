@@ -1,0 +1,18 @@
+id: neurosync
+name: NeuroSync
+slug: neurosync
+tagline: If stress was playing hide and seek, NeuroSync is it
+summary: NeuroSync received the Overall Third Place award at Milpitas Hacks 3 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akshaylakkur/NeuroSyncv2
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+  - swift
+builders:
+  - name: akshaylakkur Lakkur

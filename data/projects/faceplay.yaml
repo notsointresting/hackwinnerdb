@@ -1,0 +1,17 @@
+id: faceplay
+name: FacePlay
+slug: faceplay
+tagline: Walk in. Your song plays. Jarvis for Spotify.
+summary: FacePlay received the Best Buckaroo (Best First Time Hack) award at CatHacks XII in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sri-Galla/FacePlay/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/279/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Srimayi Galla

@@ -1,0 +1,21 @@
+id: skillon
+name: SkillOn
+slug: skillon
+tagline: AI powered career platform, analyzes CVS certificates portfolios Github profiles to
+  identify skills and cover Talent potential generates personalized challenges
+summary: "SkillOn received the Best Use of Gemini API award at AI for Campus: Build with MLH in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5SMkQUvA9c4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/006/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - react
+builders:
+  - name: Jean Jacques Musafiri
+  - name: Justin Bashige

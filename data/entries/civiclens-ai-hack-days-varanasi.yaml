@@ -1,0 +1,14 @@
+id: civiclens-ai-hack-days-varanasi
+project_id: civiclens-ai
+hackathon_id: hack-days-varanasi
+submission_url: https://devpost.com/software/civiclens-ai-9oiy3u
+source:
+  platform: devpost
+  url: https://devpost.com/software/civiclens-ai-9oiy3u
+awards:
+  - type: category-winner
+    title: Best App Deployed on Google Cloud
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: flashdrop
+name: Flashdrop
+slug: flashdrop
+tagline: "FlashDrop turns any real-world item into a live store in seconds: snap it, describe it, AI
+  builds the listing, and bunq powers instant QR payments with live inv"
+summary: Flashdrop received the Second Prize award at bunq Hackathon 7.0 - Multimodal AI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/leyk3po/bunqathon
+demo_url: null
+video_url: https://www.youtube.com/embed/tffgkQfe0x0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/604/293/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - react
+  - sqlite
+builders:
+  - name: Shubhra Mohan Singh
+  - name: Tanishq Gupta
+  - name: Pedro Escobin
+  - name: Devansh Maheshwari

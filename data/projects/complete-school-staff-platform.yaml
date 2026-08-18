@@ -1,0 +1,25 @@
+id: complete-school-staff-platform
+name: Complete School Staff Platform
+slug: complete-school-staff-platform
+tagline: A sealed, verify-only internal comms hub for schools — email, messaging, drive,
+  verification, self-hosted.
+summary: Complete School Staff Platform received the Participation award at TechCommons Hacks in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VolarQuill/schoolnetworkingplatform
+demo_url: null
+video_url: https://www.youtube.com/embed/Q5p33_oF4zY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/952/838/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - sqlite
+  - supabase
+  - vercel
+builders:
+  - name: Muhammed Saud

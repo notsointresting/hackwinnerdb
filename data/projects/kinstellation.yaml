@@ -1,0 +1,22 @@
+id: kinstellation
+name: Kinstellation
+slug: kinstellation
+tagline: '"For communities where knowledge lives in stories, not databases. Kinstellation maps
+  Indigenous kinship, memory, and connection as a living constellation — incl'
+summary: Kinstellation received the Best Track 3 award at Codebrew 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Eeva-cyber/kinstellation_codebrew.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/552/596/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Ee Va Tan
+  - name: Angelo Miguel Vinluan
+  - name: Kaya Tan
+  - name: jackiexie25-arch

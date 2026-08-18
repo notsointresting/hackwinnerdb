@@ -1,0 +1,21 @@
+id: tando-s-ark
+name: Tando's Ark
+slug: tando-s-ark
+tagline: "\"Tando's Ark\" upgrades Tando with Bark (Second's Ark implementation) eliminating its
+  Lightning channel and inbound-liquidity overhead while unlocking 0-fee Ark "
+summary: Tando's Ark received the Honorable Mentions award at Bitcoin++ Open Source Edition in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - flutter
+  - typescript
+builders:
+  - name: Shamsudeen Adedokun
+  - name: Matthew Vuk

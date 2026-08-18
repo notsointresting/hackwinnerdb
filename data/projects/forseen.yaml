@@ -1,0 +1,30 @@
+id: forseen
+name: Forseen
+slug: forseen
+tagline: Your guided path through regulatory complexity.
+summary: Forseen received the Best Use of Hermes -- Nous Research award at YHack Spring 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/xyaei/forseen
+demo_url: null
+video_url: https://www.youtube.com/embed/S-HOp3EjmWo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/721/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - mongodb
+  - openai
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Boris Chu
+  - name: Verna Lin
+  - name: Amani Bobo
+  - name: Ruby Wu

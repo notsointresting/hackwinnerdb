@@ -1,0 +1,23 @@
+id: givespot
+name: GiveSpot
+slug: givespot
+tagline: GiveSpot removes barriers like travel and scheduling and brings nonprofit support into your
+  neighbourhood through community pop up events.
+summary: GiveSpot received the Diversity in CS Project Hub award at youCode 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nb488/youCode2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/750/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - sql
+  - supabase
+  - typescript
+builders:
+  - name: Natalia Blanco
+  - name: Carina Huang
+  - name: aishah0 Olopade
+  - name: Yixuanlisa Li

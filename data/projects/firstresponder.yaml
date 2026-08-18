@@ -1,0 +1,26 @@
+id: firstresponder
+name: FirstResponder
+slug: firstresponder
+tagline: Free crisis coordination for Slack. Upload your org's data and it runs the response to any
+  emergency - fire, active threat, cyber, medical - using your real bui
+summary: FirstResponder received the Second Place | Slack Agent for Organizations award at Slack
+  Agent Builder Challenge in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/4KInc/firstresponder-slack
+demo_url: null
+video_url: https://www.youtube.com/embed/lPF6BNL5PD0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/892/683/datas/medium.png
+categories:
+  - healthcare
+  - cybersecurity
+  - enterprise
+technologies:
+  - anthropic
+  - claude
+  - docker
+  - google-cloud
+  - python
+  - sqlite
+builders:
+  - name: Heartlin Machado

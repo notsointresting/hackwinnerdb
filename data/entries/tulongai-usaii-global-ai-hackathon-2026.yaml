@@ -1,0 +1,14 @@
+id: tulongai-usaii-global-ai-hackathon-2026
+project_id: tulongai
+hackathon_id: usaii-global-ai-hackathon-2026
+submission_url: https://devpost.com/software/tulongai
+source:
+  platform: devpost
+  url: https://devpost.com/software/tulongai
+awards:
+  - type: other
+    title: College/Undergraduate Runner Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

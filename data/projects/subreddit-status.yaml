@@ -1,0 +1,19 @@
+id: subreddit-status
+name: Subreddit Status
+slug: subreddit-status
+tagline: "App to monitor subreddit modqueue, modmail, community stats, etc. in Discord or Slack to
+  help mod teams keep a pulse on their subreddit status from the comfort "
+summary: Subreddit Status received the Best New Mod Tool Honorable Mentions award at Reddit Mod
+  Tools and Migrated Apps Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/669/236/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Duncan Sikkila

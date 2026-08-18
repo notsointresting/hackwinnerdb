@@ -1,0 +1,20 @@
+id: secure-me-if-you-can
+name: Secure Me If You Can
+slug: secure-me-if-you-can
+tagline: Play as an security AI in control of safe house.
+summary: Secure Me If You Can received the Most Creative award at vsHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaronw-dev/secure-me-if-you-can
+demo_url: null
+video_url: https://www.youtube.com/embed/jkmt_dD-YL4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/888/782/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - unity
+builders:
+  - name: Aaron W
+  - name: Albert Mugasha (IngeniousMC)

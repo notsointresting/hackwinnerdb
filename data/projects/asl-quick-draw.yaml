@@ -1,0 +1,26 @@
+id: asl-quick-draw
+name: ASL Quick Draw
+slug: asl-quick-draw
+tagline: ASL Quick Draw is a Wild West duel where players face off in real-time to see who can
+  “draw” the correct ASL sign fastest. Our mission is to make ASL learning h
+summary: "ASL Quick Draw received the Capgemini: Re-imagining the Streaming Industry Post - M&A
+  award at CUhackit 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/mG87m29DDgE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/397/354/datas/medium.png
+categories:
+  - education
+  - accessibility
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Adithya lakshmikanth
+  - name: Parker Anderson
+  - name: Krishna Mohan
+  - name: Varun Menon

@@ -1,0 +1,19 @@
+id: launchpad3d
+name: Launchpad3D
+slug: launchpad3d
+tagline: This projects consists of both hardware and software elements. Tracked through a Microbit
+  and supplying the speed, velocity, acceleration and height of our rock
+summary: Launchpad3D received the Best Overall Execution award at Project Stellar in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Tinkering-Townsperson/Launchpad3D
+demo_url: null
+video_url: https://www.youtube.com/embed/MISkYmQKLBQ
+image_url: null
+categories:
+  - iot
+technologies:
+  - python
+builders:
+  - name: Miguella297 Ivanov
+  - name: Paya Maroufi

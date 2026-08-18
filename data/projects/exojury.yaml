@@ -1,0 +1,21 @@
+id: exojury
+name: ExoJury
+slug: exojury
+tagline: "Every Kepler candidate gets a fair trial: a calibrated verdict, a 95% statistical
+  guarantee, and an AI-written opinion — from a pipeline that found real errors "
+summary: ExoJury received the Rising Star Award For the strongest solo participant, no team. award
+  at India High School Exoplanet Data Challenge in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Shaun2highh/exojury
+demo_url: null
+video_url: https://www.youtube.com/embed/pzAVVA1vE8k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/057/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Shaurya Ranjan

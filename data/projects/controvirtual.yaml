@@ -1,0 +1,25 @@
+id: controvirtual
+name: ControVirtual
+slug: controvirtual
+tagline: A 40 y/o operator shouldn't lose their job because of an illness or injury. We fix this by
+  putting them back in the scene, with LeRobot arms and real-time visua
+summary: ControVirtual received the Best Use of AMD Tech award at StarkHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sdewhitt/StarkHacks-Team-Too
+demo_url: null
+video_url: https://www.youtube.com/embed/dwojocvoZOk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+  - pytorch
+  - unity
+builders:
+  - name: Aditya Gandhi
+  - name: Elliott Miller
+  - name: Seth DeWhitt
+  - name: Jack White

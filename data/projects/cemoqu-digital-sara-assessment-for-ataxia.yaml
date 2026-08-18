@@ -1,0 +1,18 @@
+id: cemoqu-digital-sara-assessment-for-ataxia
+name: CeMoQu — Digital SARA Assessment for Ataxia
+slug: cemoqu-digital-sara-assessment-for-ataxia
+tagline: CeMoQu brings neurological testing into the home by digitizing the SARA sitting test using
+  AI and computer vision, allowing simple assessment of ataxia severity
+summary: CeMoQu — Digital SARA Assessment for Ataxia received the Best Social Impact Hack award at
+  Los Altos Hacks X in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/DayeonLim/CeMoQu
+demo_url: null
+video_url: https://www.youtube.com/embed/YPaCfl5AkII
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/523/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies: []
+builders:
+  - name: Dayeon Lim

@@ -1,0 +1,24 @@
+id: heatguard
+name: HeatGuard
+slug: heatguard
+tagline: Real-time adaptive heat safety decisions for outdoor crews in the Gulf State region.
+summary: HeatGuard received the Third Place award at Health in Climate London Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fcistud/heatguard#
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/800/892/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+  - python
+  - typescript
+builders:
+  - name: Meera Madhavan
+  - name: Mariam Ihab
+  - name: Baraka Mu'azu
+  - name: Don Aborah

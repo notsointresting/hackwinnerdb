@@ -1,0 +1,22 @@
+id: illuminate
+name: Illuminate
+slug: illuminate
+tagline: "Have you ever opened someone else’s project and not known where to start? Illuminate scans
+  the code and displays the entire architecture: the graph, connections"
+summary: Illuminate received the [Jetbrains] challenge award at Hack Kosice 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Hach2026-Kosice-plshelp
+demo_url: null
+video_url: https://www.youtube.com/embed/Cng7vELC9Wk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/584/092/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - kotlin
+  - openai
+builders:
+  - name: Assem Kabdulla
+  - name: Maksym Hotvianskyi
+  - name: Kryzhanovskyi Kyrylo
+  - name: Tetiana Klimenko

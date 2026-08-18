@@ -1,0 +1,22 @@
+id: ivy
+name: Ivy
+slug: ivy
+tagline: I'm Ivy, a self-aware plant monitor that's tired of being thirsty!
+summary: "Ivy received the WiC: Best Hardware award at WiCHacks '26 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/arielnotoreo/Ivy_WiCHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/qhmu52peG9Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/386/065/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - javascript
+builders:
+  - name: McKenzie Lam
+  - name: Ariel Cthwe
+  - name: Presley Smith

@@ -1,0 +1,20 @@
+id: mathrace
+name: MathRace
+slug: mathrace
+tagline: A curriculum-aligned math game for Georgian elementary classrooms that works on a single
+  shared screen. no devices, no accounts, just a projector and a class re
+summary: MathRace received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/HBMHfywTadE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+builders:
+  - name: Andria Lashkhi

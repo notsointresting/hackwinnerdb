@@ -1,0 +1,27 @@
+id: notegarden
+name: NoteGarden
+slug: notegarden
+tagline: NoteGarden is an all-in-one student app that brings together your calendar, to-do lists,
+  document scanning, study tools, and AR navigation—everything you need t
+summary: NoteGarden received the [MLH] Best .Tech Domain Name award at JACHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kube-slide/JACHACKS_2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/517/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: BobRossette Nikkhoo
+  - name: KubeSlide
+  - name: kaluawa-a Kalu-Awa
+  - name: DylanMassouras Massouras

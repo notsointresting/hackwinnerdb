@@ -1,0 +1,22 @@
+id: coopsync-assistant
+name: CoopSync Assistant
+slug: coopsync-assistant
+tagline: Chrome extension that analyzes WaterlooWorks job listings, compares them with a user’s
+  resume, scores job–resume matches using AI, highlights skill gaps, and su
+summary: CoopSync Assistant received the First Place - Per Person On Team award at EngHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sissiequ/Enghacks-project
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/496/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Sissie Qu
+  - name: Yuyang Mei
+  - name: Zhimo2120

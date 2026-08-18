@@ -1,0 +1,14 @@
+id: sharkbyte-hacklondon-2026
+project_id: sharkbyte
+hackathon_id: hacklondon-2026
+submission_url: https://devpost.com/software/sharkbyte-8v5m1c
+source:
+  platform: devpost
+  url: https://devpost.com/software/sharkbyte-8v5m1c
+awards:
+  - type: track-winner
+    title: (Hardware Track) 4x Nintendo Switch 2 (w/ a game!)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

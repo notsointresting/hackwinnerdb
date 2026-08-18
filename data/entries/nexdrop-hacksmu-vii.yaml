@@ -1,0 +1,14 @@
+id: nexdrop-hacksmu-vii
+project_id: nexdrop
+hackathon_id: hacksmu-vii
+submission_url: https://devpost.com/software/rivertwin
+source:
+  platform: devpost
+  url: https://devpost.com/software/rivertwin
+awards:
+  - type: category-winner
+    title: Best Use of Auth0
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

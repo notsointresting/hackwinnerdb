@@ -1,0 +1,14 @@
+id: sonarpath-fullyhacks-2026
+project_id: sonarpath
+hackathon_id: fullyhacks-2026
+submission_url: https://devpost.com/software/sonarpath
+source:
+  platform: devpost
+  url: https://devpost.com/software/sonarpath
+awards:
+  - type: category-winner
+    title: Best Social Impact / Sustainability
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

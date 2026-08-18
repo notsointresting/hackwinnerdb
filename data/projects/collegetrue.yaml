@@ -1,0 +1,20 @@
+id: collegetrue
+name: CollegeTrue
+slug: collegetrue
+tagline: See what college really costs before it's too late. Enter 3 schools, get your real monthly
+  loan payment as a % of your first paycheck. No sugarcoating.
+summary: CollegeTrue received the 2nd place award at West Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Bear876/collegetrue
+demo_url: null
+video_url: https://www.youtube.com/embed/XDmmy0WsmY0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/723/477/datas/medium.png
+categories:
+  - education
+  - fintech
+technologies:
+  - javascript
+builders:
+  - name: Kanav Sah
+  - name: Arjun Siddhaiyan

@@ -1,0 +1,18 @@
+id: skynet-hacktech-by-caltech-2026
+project_id: skynet
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/skynet-a461oz
+source:
+  platform: devpost
+  url: https://devpost.com/software/skynet-a461oz
+awards:
+  - type: category-winner
+    title: Best Creativity - Logitech MX MASTER 4 Mice
+  - type: other
+    title: Ironsite x HackTech - Cash Prize
+  - type: other
+    title: Palohouse x HackTech - 10-day stay @ Palo Alto Hackerhouse + $20k SAFE investment
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,28 @@
+id: savesurance
+name: SaveSurance
+slug: savesurance
+tagline: Know what to challenge before you pay your medical bill. SaveSurance uses AI to analyze
+  charges, uncover protections and aid, and prepare disputes, letters, and
+summary: SaveSurance received the [MLH] Best Use of ElevenLabs award at RevolutionUC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UAgarwal7/SaveSurance
+demo_url: null
+video_url: https://www.youtube.com/embed/85ZXlTD9gWQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: Praniil Nagaraj
+  - name: Ayush Madhav Kumar

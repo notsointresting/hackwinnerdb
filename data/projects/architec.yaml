@@ -1,0 +1,28 @@
+id: architec
+name: Architec
+slug: architec
+tagline: The data to audit every building already exists. We just built the pipeline.
+summary: Architec received the Grand Prize - Third Place Overall award at WildHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sarakhan7/wildhacks
+demo_url: null
+video_url: https://www.youtube.com/embed/DJn0MT8fPDU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/489/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - elevenlabs
+  - fastapi
+  - gemini
+  - mapbox
+  - postgresql
+  - python
+  - react
+  - supabase
+builders:
+  - name: Sara Khan
+  - name: Inika Goyal
+  - name: Alan Tai
+  - name: Krithin Ravindra Narayan

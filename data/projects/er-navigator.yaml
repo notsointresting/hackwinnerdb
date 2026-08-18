@@ -1,0 +1,20 @@
+id: er-navigator
+name: ER Navigator
+slug: er-navigator
+tagline: AI guide for international students navigating Canadian ERs — triage explained, insurance
+  help, and multilingual phrasebook. No medical advice.
+summary: ER Navigator received the Amazon Gift Card ($100) award at UTSC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aarnachp19-cmyk/er_navigator
+demo_url: null
+video_url: https://www.youtube.com/embed/JJDLktUEX0E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/239/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+builders:
+  - name: aarnachp19-cmyk Chopra

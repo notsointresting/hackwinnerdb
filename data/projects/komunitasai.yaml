@@ -1,0 +1,23 @@
+id: komunitasai
+name: KomunitasAI
+slug: komunitasai
+tagline: "KomunitasAI is an autonomous digital treasurer for Indonesian communities such as
+  neighborhood groups, rotating savings groups, cooperatives,events, and shared "
+summary: KomunitasAI received the Best Payment Use Case award at OpenClaw Agenthon Build Club x
+  RISTEK Fasilkom UI in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/oPhFASulCdI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/670/287/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - docker
+  - postgresql
+  - typescript
+builders:
+  - name: Ahmad Nadhif

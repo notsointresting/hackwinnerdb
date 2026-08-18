@@ -1,0 +1,17 @@
+id: case-closed
+name: Case Closed
+slug: case-closed
+tagline: Case Closed turns vague feature asks into “directionally wrong” evidence artifacts, letting
+  teams sleuth out bad assumptions before they build the wrong thing.
+summary: Case Closed received the Production Prize award at UHackathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/139/datas/gallery.jpg
+categories:
+  - other
+technologies: []
+builders:
+  - name: Justin Myers

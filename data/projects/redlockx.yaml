@@ -1,0 +1,27 @@
+id: redlockx
+name: RedLockX
+slug: redlockx
+tagline: AI-Powered Detection & Prevention of Prompt Injection & Jailbreak Attacks
+summary: RedLockX received the Audience Favourite award at AI for Civic Innovation Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/blackXmask/RedLockX
+demo_url: null
+video_url: https://www.youtube.com/embed/XO-U1XqzXk8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/764/546/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - python
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Abd ullah
+  - name: haseeb ihsan
+  - name: Muhammad Uzair
+  - name: Shaheer Ahmad

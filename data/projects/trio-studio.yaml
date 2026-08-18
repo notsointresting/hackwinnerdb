@@ -1,0 +1,22 @@
+id: trio-studio
+name: Trio Studio
+slug: trio-studio
+tagline: La musique en direct rendue portable et accessible ! En solo ou en duo, créez des œuvres
+  musicales et exportez facilement vos meilleures créations.
+summary: Trio Studio received the Category Winner award at HackTheMountain 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/clem2004/Trio-Studio
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/701/823/datas/gallery.jpg
+categories:
+  - accessibility
+  - media
+technologies:
+  - vue
+builders:
+  - name: Clément Gauthier
+  - name: Jean-Félix Morency
+  - name: justinette Gauthier
+  - name: Zachary Bastien

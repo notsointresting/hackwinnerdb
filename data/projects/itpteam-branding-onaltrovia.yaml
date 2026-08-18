@@ -1,0 +1,26 @@
+id: itpteam-branding-onaltrovia
+name: ITPTeam_Branding_OnAltrovia
+slug: itpteam-branding-onaltrovia
+tagline: 'Altrovia: Where mil-gov rigor meets AI logic. We distilled clinical complexity into a
+  symbol of "Rational Courage" that transforms data into precise, with full '
+summary: ITPTeam_Branding_OnAltrovia received the Branding Overall Winner award at Designathon
+  Spring 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/JUYRsbb58Rc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/580/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - e-commerce
+  - govtech
+technologies:
+  - figma
+  - javascript
+  - vercel
+builders:
+  - name: Qian Li (ludwig.peking)
+  - name: Qian Kurt
+  - name: Minglu Zhong
+  - name: Ziyi Yuan

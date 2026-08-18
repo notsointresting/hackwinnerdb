@@ -1,0 +1,25 @@
+id: igisubizo-muhinzi-app-season-aware-ai-advisor
+name: "Igisubizo Muhinzi App: Season-Aware AI Advisor"
+slug: igisubizo-muhinzi-app-season-aware-ai-advisor
+tagline: A season-aware AI advisor using real NISR survey data to provide evidence-based crop
+  recommendations and agronomic advice for Rwandan smallholder farmers.
+summary: "Igisubizo Muhinzi App: Season-Aware AI Advisor received the Loving Grace Ethics Award
+  award at Build for Impact — CBC Hackathon @ UR-CST in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/igifaru/IM_App.git
+demo_url: null
+video_url: https://www.youtube.com/embed/WkGTXbdRGo8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/220/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - flutter
+  - python
+builders:
+  - name: David NDUNGUTSE
+  - name: Methuselem MUNYANEZA
+  - name: Etienne TUYIHAMYE

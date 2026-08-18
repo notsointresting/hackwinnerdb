@@ -1,0 +1,23 @@
+id: classbridge
+name: ClassBridge
+slug: classbridge
+tagline: AI that turns any difficult worksheet into a personalized learning pack — simplified
+  explanations, bilingual translation, study cards, and practice questions in
+summary: ClassBridge received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rohan5commit/classbridge-hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/0ZiKhgpZubk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/951/784/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - nextjs
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: ROHAN SANTHOSH

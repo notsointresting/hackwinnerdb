@@ -1,0 +1,23 @@
+id: interviewbio
+name: iNTERVIEWBIO
+slug: interviewbio
+tagline: iNTERVIEWBIO monitors real-time biometrics to enable candidates’ stress consciousness in
+  interviews, aiming to improve and better understand interview performan
+summary: iNTERVIEWBIO received the [MLH] Best Use of Presage award at AthenaHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/limeiy1/AthenaHacks
+demo_url: null
+video_url: https://www.youtube.com/embed/PCeRtU-ezoI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/086/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - swift
+builders:
+  - name: limeiy1 Li
+  - name: Ines Rahioui
+  - name: Wai Yan Grace Chen
+  - name: Choleeee Ng

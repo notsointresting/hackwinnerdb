@@ -1,0 +1,28 @@
+id: tabula
+name: Tabula
+slug: tabula
+tagline: Collective intelligence for small businesses.
+summary: Tabula received the Personal AI Agent award at YHack Spring 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ponita05/yhack
+demo_url: null
+video_url: https://www.youtube.com/embed/sNmu29CJM5U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/508/343/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - fastapi
+  - mongodb
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Ponita Ty
+  - name: Victor Park
+  - name: Ethan Ignatius
+  - name: Chris Um

@@ -1,0 +1,14 @@
+id: minemobs-reform-hacks
+project_id: minemobs
+hackathon_id: reform-hacks
+submission_url: https://devpost.com/software/minemobs
+source:
+  platform: devpost
+  url: https://devpost.com/software/minemobs
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

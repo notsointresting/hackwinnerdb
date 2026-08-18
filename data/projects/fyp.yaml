@@ -1,0 +1,16 @@
+id: fyp
+name: FYP
+slug: fyp
+tagline: An experience that directs your future
+summary: FYP received the 1st Place award at Hack Your Life in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/724/351/datas/gallery.jpg
+categories:
+  - education
+technologies: []
+builders:
+  - name: Epshie Mehra

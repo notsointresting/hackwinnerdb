@@ -1,0 +1,19 @@
+id: alien-dating-simulator
+name: Alien dating simulator
+slug: alien-dating-simulator
+tagline: "1"
+summary: Alien dating simulator received the Participant award at Project Stellar in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cpy114514/Alien-Dating-simulator
+demo_url: null
+video_url: https://www.youtube.com/embed/quVPncSFQ1k
+image_url: null
+categories:
+  - other
+technologies:
+  - unity
+builders:
+  - name: Pinyuan Chen
+  - name: the radio demon
+  - name: William Wen

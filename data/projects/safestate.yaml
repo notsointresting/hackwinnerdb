@@ -1,0 +1,24 @@
+id: safestate
+name: SafeState
+slug: safestate
+tagline: "A recall is just a PDF until something acts on it. SafeState blocks recalled products from
+  being resold in real time, and warns the people who already own one. "
+summary: "SafeState received the Most Original award at H0: Hack the Zero Stack with Vercel v0 and
+  AWS Databases in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/usv240/safestate
+demo_url: null
+video_url: https://www.youtube.com/embed/VEX2oXiXjf8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/841/200/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - postgresql
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Ujwal Suresh Vanjare
+  - name: Arpita Madhukar Kalburgi

@@ -1,0 +1,20 @@
+id: rootnet-ai
+name: RootNet AI
+slug: rootnet-ai
+tagline: AI-powered smart irrigation inspired by nature's underground root networks
+summary: RootNet AI received the Participation Certificate award at 1st Nature's Blueprint Ideathon
+  2026 !! in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/N2WFZFKGtik
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/819/375/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Sindhu Suri

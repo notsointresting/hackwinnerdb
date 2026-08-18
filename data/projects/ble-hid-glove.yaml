@@ -1,0 +1,24 @@
+id: ble-hid-glove
+name: BLE HID Glove
+slug: ble-hid-glove
+tagline: A Bluetooth/USB-C conected glove which turns your hand into a mouse for presentations or
+  osu! style rhythm games.
+summary: BLE HID Glove received the Productivity/Automation Challenge award at Rutgers IEEE X HART
+  Build-a-thon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Bowen1314/Magic-Glove
+demo_url: null
+video_url: https://www.youtube.com/embed/XAPJt8rxFtA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: Purple-Chicken Kurasinski
+  - name: LucasYanzy
+  - name: Bowen Rui

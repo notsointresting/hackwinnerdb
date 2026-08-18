@@ -1,0 +1,14 @@
+id: handspeaker-realityshift
+project_id: handspeaker
+hackathon_id: realityshift
+submission_url: https://devpost.com/software/handspeaker
+source:
+  platform: devpost
+  url: https://devpost.com/software/handspeaker
+awards:
+  - type: second-place
+    title: Snap Spectacles 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

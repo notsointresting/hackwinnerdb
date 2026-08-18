@@ -1,0 +1,23 @@
+id: food-mapping
+name: Food_Mapping
+slug: food-mapping
+tagline: Boston lacks a clear view of how food moves from farms to neighborhoods. We’re building an
+  interactive foodshed map that unifies scattered data to reveal gaps a
+summary: Food_Mapping received the Original Research award at Civic Hacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jaysonsao/equitable
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - google-maps
+  - mongodb
+builders:
+  - name: Jayson Sao
+  - name: YanWirdiny Moise
+  - name: Apurvaa Prabhu
+  - name: Amulya Penikalapati

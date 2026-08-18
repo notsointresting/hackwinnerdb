@@ -1,0 +1,14 @@
+id: sift-hacktech-by-caltech-2026
+project_id: sift
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/sift-84wjig
+source:
+  platform: devpost
+  url: https://devpost.com/software/sift-84wjig
+awards:
+  - type: other
+    title: YC x HackTech - YC Office Hours
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

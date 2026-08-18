@@ -1,0 +1,22 @@
+id: struggle-scran
+name: Struggle & Scran
+slug: struggle-scran
+tagline: A website to help students create recipes with limited ingredients, and find the cheapest
+  supermarket to buy the items they need.
+summary: Struggle & Scran received the [Main Track] 3rd place award at KentHackIt in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ikm6/Trial
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/450/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Hebz-sys Owen
+  - name: DeniTheeDataScientist
+  - name: Ikeoluwa Modebelu
+  - name: Varisha Sohail

@@ -1,0 +1,14 @@
+id: liftoff
+name: Liftoff
+slug: liftoff
+organizer: []
+year: 2026
+sources:
+  - https://liftoff.devpost.com/
+  - https://liftoff.devpost.com/project-gallery?filter=winner
+website_url: https://liftoff.devpost.com/
+platform: devpost
+participant_count: 63
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Liftoff. Imported automatically."

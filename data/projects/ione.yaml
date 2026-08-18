@@ -1,0 +1,25 @@
+id: ione
+name: ione.
+slug: ione
+tagline: the first ai tutor grounded by a knowledge graph.
+summary: ione. received the [MLH] Best Use of ElevenLabs award at Broncohacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MatthewKim323/ione
+demo_url: null
+video_url: https://www.youtube.com/embed/u_ryjmTRWyo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/614/592/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Matthew Kim
+  - name: Joshua Kim
+  - name: Noah Yang
+  - name: irenechong-web Chong

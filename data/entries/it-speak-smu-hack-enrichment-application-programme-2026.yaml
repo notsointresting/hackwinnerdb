@@ -1,0 +1,14 @@
+id: it-speak-smu-hack-enrichment-application-programme-2026
+project_id: it-speak
+hackathon_id: smu-hack-enrichment-application-programme-2026
+submission_url: https://devpost.com/software/itspeak
+source:
+  platform: devpost
+  url: https://devpost.com/software/itspeak
+awards:
+  - type: second-place
+    title: 2nd Place Team - $100 per team member
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

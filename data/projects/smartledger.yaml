@@ -1,0 +1,20 @@
+id: smartledger
+name: SmartLedger
+slug: smartledger
+tagline: An AI financial literacy mentor that educates individuals on topics, such as saving,
+  investing, debt management, and more.
+summary: SmartLedger received the Runner up award at HACK GGC VI in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RDpr0gr4mm31ng/SmartLedger
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies: []
+builders:
+  - name: RDpr0gr4mm31ng DeLoach II
+  - name: Luis Hernandez Jr

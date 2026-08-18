@@ -1,0 +1,14 @@
+id: rollaway-ai-for-social-good-hack-with-mlh-digitalocean
+project_id: rollaway
+hackathon_id: ai-for-social-good-hack-with-mlh-digitalocean
+submission_url: https://devpost.com/software/rollaway
+source:
+  platform: devpost
+  url: https://devpost.com/software/rollaway
+awards:
+  - type: category-winner
+    title: Best Beginner Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

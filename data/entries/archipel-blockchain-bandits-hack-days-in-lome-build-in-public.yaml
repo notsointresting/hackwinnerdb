@@ -1,0 +1,14 @@
+id: archipel-blockchain-bandits-hack-days-in-lome-build-in-public
+project_id: archipel-blockchain-bandits
+hackathon_id: hack-days-in-lome-build-in-public
+submission_url: https://devpost.com/software/archipel-blockchain-bandits
+source:
+  platform: devpost
+  url: https://devpost.com/software/archipel-blockchain-bandits
+awards:
+  - type: other
+    title: Google Cloud and MLH Swag
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

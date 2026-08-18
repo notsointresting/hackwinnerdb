@@ -1,0 +1,14 @@
+id: spotr-cuhacking7
+project_id: spotr
+hackathon_id: cuhacking7
+submission_url: https://devpost.com/software/spotr-khgabe
+source:
+  platform: devpost
+  url: https://devpost.com/software/spotr-khgabe
+awards:
+  - type: other
+    title: Marketing Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

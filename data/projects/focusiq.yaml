@@ -1,0 +1,23 @@
+id: focusiq
+name: FocusIQ
+slug: focusiq
+tagline: "Brain-aware test prep: An AI tutor that adapts to your focus and fatigue in real time using EEG."
+summary: FocusIQ received the 1st Best Overall Hack award at LotusHacks x HackHarvard x GenAI Fund
+  Vietnam Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/NeoDiuZ/lotushack-dev
+demo_url: null
+video_url: https://www.youtube.com/embed/BlIUY4ZnvLo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/156/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - c-plus-plus
+  - javascript
+  - typescript
+builders:
+  - name: Mo Khambhati
+  - name: Kaushik Manian
+  - name: Neo DiuZ
+  - name: Raymond Loong Ng

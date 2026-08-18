@@ -1,0 +1,22 @@
+id: persist
+name: Persist
+slug: persist
+tagline: The first autonomous prior authorization agent that doesn't just submit, but fights every denial.
+summary: Persist received the Consumer Healthcare track - 2nd place award at JacHacks Spring in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1jH-H-h2Y2c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/682/173/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+  - social-impact
+technologies:
+  - react
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Patrick Wang

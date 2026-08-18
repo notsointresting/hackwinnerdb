@@ -1,0 +1,23 @@
+id: bloomwatch
+name: BloomWatch
+slug: bloomwatch
+tagline: A community-powered conservation platform that transforms everyday wildlife observation
+  into measurable environmental impact.​
+summary: BloomWatch received the Best Presentation award at WildHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EDV4023/BloomWatch
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/102/datas/gallery.jpg
+categories:
+  - climate
+technologies:
+  - firebase
+  - google-cloud
+  - python
+  - streamlit
+builders:
+  - name: Rithvik Arulvelan
+  - name: Ethan Vaiz
+  - name: Nikhil  Bonthu

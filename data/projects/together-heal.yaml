@@ -1,0 +1,24 @@
+id: together-heal
+name: Together Heal
+slug: together-heal
+tagline: A platform where patients can connect with others facing similar health challenges, share
+  experiences, support each other emotionally, and heal together through
+summary: Together Heal received the KYXGO Rising Star Award award at Kyxgo hack by Aditya Rai &
+  Yash  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/650/508/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - cybersecurity
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+builders:
+  - name: Vishesh Meena

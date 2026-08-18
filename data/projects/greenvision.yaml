@@ -1,0 +1,21 @@
+id: greenvision
+name: GreenVision
+slug: greenvision
+tagline: A computer vision application using the google API to categorize trash waste and recycle waste.
+summary: GreenVision received the Sustainability Winner award at Dolphin Hacks  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Shahad Hossain
+  - name: Zyokoji Contreras
+  - name: Muharem Ficic
+  - name: Krystian Gawecki

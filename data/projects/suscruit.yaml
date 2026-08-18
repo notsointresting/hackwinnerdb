@@ -1,0 +1,19 @@
+id: suscruit
+name: SusCruit
+slug: suscruit
+tagline: "Suscruit: Because “you’re a great fit for this role” should not ruin your life."
+summary: "SusCruit received the Grand Prize: Second Place award at Hack Brooklyn in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/95BjZf3MYmE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/555/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Ceen S Gabbai

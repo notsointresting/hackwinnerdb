@@ -1,0 +1,22 @@
+id: film2future-community-portal
+name: Film2Future Community Portal
+slug: film2future-community-portal
+tagline: This is a community-oriented platform where students discover opportunities and grow
+  together through communication.
+summary: Film2Future Community Portal received the Best Hack for Film2Future award at Hack2Impact
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UAxOHHQTdUA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/641/607/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - mongodb
+  - react
+builders:
+  - name: Xinyuan Li
+  - name: NICHOLAS KE

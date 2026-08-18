@@ -1,0 +1,23 @@
+id: team-44-public-services
+name: Team 44 Public Services
+slug: team-44-public-services
+tagline: the analysis of homelessness and it's correlation with government subsidized shelter
+summary: Team 44 Public Services received the Best Insights award at SDSS Datathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Breadiii/Breadiii.github.io
+demo_url: null
+video_url: https://www.youtube.com/embed/DNnAhCA80D4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/394/378/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Ancientrains Shen
+  - name: Gede Deanova Wikayana Fachrie
+  - name: Breadiii
+  - name: Cable Xie

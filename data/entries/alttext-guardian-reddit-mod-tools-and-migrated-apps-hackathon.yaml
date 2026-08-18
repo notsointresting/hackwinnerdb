@@ -1,0 +1,14 @@
+id: alttext-guardian-reddit-mod-tools-and-migrated-apps-hackathon
+project_id: alttext-guardian
+hackathon_id: reddit-mod-tools-and-migrated-apps-hackathon
+submission_url: https://devpost.com/software/alttext-guardian
+source:
+  platform: devpost
+  url: https://devpost.com/software/alttext-guardian
+awards:
+  - type: honorable-mention
+    title: Best New Mod Tool Honorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

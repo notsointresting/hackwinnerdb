@@ -1,0 +1,25 @@
+id: arcflow
+name: arcflow
+slug: arcflow
+tagline: arcflow is a no-code, entirely local AI pipeline builder that lets you drag, drop, and
+  deploy privacy first sensor workflows directly on your Snapdragon NPU
+summary: arcflow received the 1st Place - Qualcomm Track award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aditya-harsh11/MadData-26
+demo_url: null
+video_url: https://www.youtube.com/embed/ZmeUEur-WIM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/358/206/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - productivity
+technologies:
+  - fastapi
+  - python
+  - tailwind-css
+  - typescript
+builders:
+  - name: Aditya Harshavardhan
+  - name: Soham Kolhe
+  - name: Nishadraj Bhava

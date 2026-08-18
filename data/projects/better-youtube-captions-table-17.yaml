@@ -1,0 +1,22 @@
+id: better-youtube-captions-table-17
+name: Better Youtube Captions (Table 17)
+slug: better-youtube-captions-table-17
+tagline: Tired of bad YouTube auto gen captions? Better YouTube Captions uses a Chrome extension,
+  FFmpeg, ElevenLabs, Gemini, and Vultr Cloud to stream highly accurate s
+summary: Better Youtube Captions (Table 17) received the [MLH] Best Use of ElevenLabs award at
+  BeachHacks 9.0 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/itskishankumar/better-youtube-captions
+demo_url: null
+video_url: https://www.youtube.com/embed/A1Q-ZcRObZ0
+image_url: null
+categories:
+  - fintech
+  - cloud
+  - media
+technologies:
+  - elevenlabs
+  - gemini
+builders:
+  - name: Kishan Kumar

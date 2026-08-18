@@ -1,0 +1,27 @@
+id: alpharesearch
+name: alphaResearch
+slug: alpharesearch
+tagline: Analysts track 10k-word transcripts for 8-15 stocks. AI tools offer fragments; alpha
+  research provides the unified, peer-level analysis needed to decode drivers
+summary: alphaResearch received the Best Use of Gemini award at GDSC HackDay  - Build With AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/gselez6761/earnings-research-agent
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/432/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - openai
+  - pinecone
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Annu Sharma
+  - name: Gregory Seleznev

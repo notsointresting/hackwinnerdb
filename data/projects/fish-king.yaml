@@ -1,0 +1,24 @@
+id: fish-king
+name: Fish King
+slug: fish-king
+tagline: Connect and Compete with local fishermen to become king of the lake. Leverage our ensemble
+  of ML models to find the best spots to fish
+summary: Fish King received the Most Uncommon award at Uncommon Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FxvjO9epjNk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - c-plus-plus
+  - claude
+  - python
+  - sql
+  - sqlite
+builders:
+  - name: XanderD24 Deanhardt

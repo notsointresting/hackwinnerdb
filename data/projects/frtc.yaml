@@ -1,0 +1,26 @@
+id: frtc
+name: FRTC
+slug: frtc
+tagline: Uber for fraud detection. Datasets, analysis, reports.
+summary: "FRTC received the Best all around application award at vibeFORWARD: M2—Agents in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ikV0gohnOrs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/742/522/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Olena Teslia
+  - name: Nolan Hu
+  - name: Buddhsen Tripathi
+  - name: Joy van Oranje

@@ -1,0 +1,19 @@
+id: curiosync
+name: CurioSync
+slug: curiosync
+tagline: We are solving the AI confidence gap for teenage girls aged 13-19, where the bottleneck is
+  fear of judgment and self-doubt. Our solution helps them use AI in th
+summary: CurioSync received the AIF Award award at strAIght up! Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/PmUpNBr8UNo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/603/058/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Tan Aik Wee

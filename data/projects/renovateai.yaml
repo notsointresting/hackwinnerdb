@@ -1,0 +1,24 @@
+id: renovateai
+name: RenovateAI
+slug: renovateai
+tagline: RenovateAI helps contractors target the right homes, not waste money on broad marketing. It
+  ranks real, geocoded properties using permit, location, and home-dat
+summary: RenovateAI received the Claude AI Sponsor Prize award at WildHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bx0nqwR_QhY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/082/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - docker
+  - gemini
+  - postgresql
+  - react
+builders:
+  - name: Logan Quadros
+  - name: Tej Prattipati
+  - name: Nick_Wang

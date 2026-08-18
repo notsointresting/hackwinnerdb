@@ -1,0 +1,14 @@
+id: arta-autonomous-red-team-agent-bot-to-agent-by-mlh-hack-days
+project_id: arta-autonomous-red-team-agent
+hackathon_id: bot-to-agent-by-mlh-hack-days
+submission_url: https://devpost.com/software/arta-autonomous-red-team-agent
+source:
+  platform: devpost
+  url: https://devpost.com/software/arta-autonomous-red-team-agent
+awards:
+  - type: other
+    title: Google Swag Kits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

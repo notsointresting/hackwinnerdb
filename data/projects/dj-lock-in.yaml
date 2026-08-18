@@ -1,0 +1,20 @@
+id: dj-lock-in
+name: DJ Lock-In
+slug: dj-lock-in
+tagline: An accessible, gesture-controlled focus sound environment
+summary: DJ Lock-In received the Technical - Third Place award at NeuroHack Spring 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/asthana7/DJ-LOCK-IN
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: asthana7 Asthana

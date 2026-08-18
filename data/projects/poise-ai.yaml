@@ -1,0 +1,23 @@
+id: poise-ai
+name: Poise.ai
+slug: poise-ai
+tagline: Poise.ai is interview practice that trains the whole you, not just whether you can solve
+  the problem, but whether you can sell the solution.
+summary: Poise.ai received the [MLH] Best Use of Gemini API || Google Swag Kits award at HackKU26 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/876ajw06/Poise.ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/406/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Pranav Amatapu
+  - name: Alex Wichern
+  - name: Hameem Mohammed

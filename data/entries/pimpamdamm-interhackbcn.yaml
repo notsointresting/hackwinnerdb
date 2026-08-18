@@ -1,0 +1,18 @@
+id: pimpamdamm-interhackbcn
+project_id: pimpamdamm
+hackathon_id: interhackbcn
+submission_url: https://devpost.com/software/pimpamdamm
+source:
+  platform: devpost
+  url: https://devpost.com/software/pimpamdamm
+awards:
+  - type: first-place
+    title: 1st price - DAMM Challenge
+  - type: category-winner
+    title: "[MLH] Best Use of Vultr"
+  - type: category-winner
+    title: "[MLH] Best Domain Name from GoDaddy Registry"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

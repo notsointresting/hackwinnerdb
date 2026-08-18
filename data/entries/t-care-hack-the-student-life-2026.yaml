@@ -1,0 +1,14 @@
+id: t-care-hack-the-student-life-2026
+project_id: t-care
+hackathon_id: hack-the-student-life-2026
+submission_url: https://devpost.com/software/t-care-2lei6y
+source:
+  platform: devpost
+  url: https://devpost.com/software/t-care-2lei6y
+awards:
+  - type: category-winner
+    title: Best Project for Improving Access to Campus Support Services
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

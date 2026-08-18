@@ -1,0 +1,25 @@
+id: healthy-home-audit
+name: Healthy Home Audit
+slug: healthy-home-audit
+tagline: Healthy Home Audit maps environmental health risk by ZIP code across LA/OC. Using XGBoost
+  and public data, it reveals asthma, cardio, and pollution inequality t
+summary: Healthy Home Audit received the Best Visualization award at Data Heist 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AaronVillegas5/Datathon2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/783/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Aaron Kyle Villegas
+  - name: Daniel Nguyen Vo
+  - name: Alex Jonathan Truax
+  - name: samuelacook-web Cook

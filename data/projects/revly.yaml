@@ -1,0 +1,23 @@
+id: revly
+name: Revly
+slug: revly
+tagline: Revly gives streamers a new way to own their monetization not instead of relying on
+  platform ads, they can turn any object in their stream into a live ad, keepi
+summary: Revly received the $300 award at BagelHacks II in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/iFMStLxqJQI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/715/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Yueran Lu
+  - name: bohan wang
+  - name: Sivabalan Muthurajan
+  - name: Zayan Khan

@@ -1,0 +1,14 @@
+id: careerpathfinder-hoothacks
+project_id: careerpathfinder
+hackathon_id: hoothacks
+submission_url: https://devpost.com/software/careerpathfinder
+source:
+  platform: devpost
+  url: https://devpost.com/software/careerpathfinder
+awards:
+  - type: other
+    title: Cash Prize (150 per team)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: nightsafe
+name: NightSafe
+slug: nightsafe
+tagline: AI that helps city planners score road corridors according to street feature risks,
+  estimate the cost of acting now versus waiting, and decide where to put nigh
+summary: NightSafe received the Graduate (Masters/Doctoral) - Responsible AI award at USAII® Global
+  AI Hackathon 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Mokshu3242/NightSafe
+demo_url: null
+video_url: https://www.youtube.com/embed/w9DDkUeQRmg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/792/615/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Mokshad Ketan Sankhe
+  - name: Nayina Elsa Aniyan

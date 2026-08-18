@@ -1,0 +1,21 @@
+id: moodbrew
+name: MoodBrew
+slug: moodbrew
+tagline: "As college students, we relied on random coffee runs to survive long study nights, but
+  never knew which drinks actually helped us focus or avoid crashing. What "
+summary: MoodBrew received the The Perfect Blend award at DesignVerse 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/397/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: elisadon D'sa
+  - name: Sangeet Barkataki

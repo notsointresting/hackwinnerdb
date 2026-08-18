@@ -1,0 +1,22 @@
+id: vigilance-q-the-pharma-quality-watchtower
+name: "Vigilance 'Q': The Pharma Quality Watchtower"
+slug: vigilance-q-the-pharma-quality-watchtower
+tagline: Agentic Quality Case Management - AI investigates. Human decides. Patients stay protected.
+summary: "Vigilance 'Q': The Pharma Quality Watchtower received the People's Choice award at UiPath
+  AgentHack in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/deepaksreeram/Vigilance-Q
+demo_url: null
+video_url: https://www.youtube.com/embed/Lvjl69mIhxE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/814/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies: []
+builders:
+  - name: Avala Parameswara Reddy
+  - name: Preethi Murali
+  - name: Deepak Sreeram
+  - name: Pallavi Kummari

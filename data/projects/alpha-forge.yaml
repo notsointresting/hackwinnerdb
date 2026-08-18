@@ -1,0 +1,26 @@
+id: alpha-forge
+name: Alpha Forge
+slug: alpha-forge
+tagline: "AlphaForge is an AI-powered platform that analyzes market data, news, competitors, and
+  company performance to generate actionable insights and smart investment "
+summary: "Alpha Forge received the Third Place Winner award at InnovatorsX: Startup Sprint in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Saumya-singh2101/AlphaForge
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/875/640/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - e-commerce
+  - creative-tools
+technologies:
+  - fastapi
+  - gemini
+  - groq
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Saumya Singh

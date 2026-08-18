@@ -1,0 +1,21 @@
+id: chemlingua
+name: ChemLingua
+slug: chemlingua
+tagline: "Bridging the gap between raw atomic metrics and natural language: a serverless chemistry
+  dashboard combining reactive periodic grids, real-time 3D molecular vis"
+summary: ChemLingua received the All Winners award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BenjaminD68/ChemSim
+demo_url: null
+video_url: https://www.youtube.com/embed/OM0nlDUNx5Y
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Benjamin Dong

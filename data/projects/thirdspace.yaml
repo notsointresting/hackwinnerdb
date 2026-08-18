@@ -1,0 +1,19 @@
+id: thirdspace
+name: ThirdSpace
+slug: thirdspace
+tagline: A service to connect people with similar interests by location and incentivize community,
+  connection, and trust.
+summary: ThirdSpace received the Best Prototype award at MSU Designathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Pux0wmPVXOE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/485/303/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Ishan Sandhu
+  - name: Michelle Parson

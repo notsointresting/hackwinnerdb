@@ -1,0 +1,21 @@
+id: agriscout-ai
+name: AgriScout AI
+slug: agriscout-ai
+tagline: "AgriScout is an autonomous agentic field scout: drone confirms issues over zones, then a
+  ground robot performs various tasks for action"
+summary: AgriScout AI received the Best Use of Gemini API award at HackDavis 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rajashekarcs2023/davis-hack-26
+demo_url: null
+video_url: https://www.youtube.com/embed/i1VZR8Yzdp4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/503/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - robotics
+technologies:
+  - gemini
+builders:
+  - name: Rajashekar Vennavelli
+  - name: Shaarav Prasad

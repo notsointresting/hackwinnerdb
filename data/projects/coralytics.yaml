@@ -1,0 +1,27 @@
+id: coralytics
+name: Coralytics
+slug: coralytics
+tagline: Transform your social media data into a living 3D coral reef that reveals sentiment,
+  topics, and engagement insights.
+summary: Coralytics received the 3rd Place Team - $50 per team member award at SMU .Hack Enrichment
+  Application Programme 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Matthewkhlr/Coralytics
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/018/515/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - fastapi
+  - firebase
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: SO HONG YAO _
+  - name: YEO YU SONG SEAN _
+  - name: WAN JIA QIAN _
+  - name: Matthewkhlr

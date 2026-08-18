@@ -1,0 +1,21 @@
+id: pcpartpixr
+name: PCPartPiXR
+slug: pcpartpixr
+tagline: Picking your PC parts in XR
+summary: "PCPartPiXR received the PICO: Best WebSpatial Project award at ImmerseGT 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/tjwhelan/pcpartpixr
+demo_url: null
+video_url: https://www.youtube.com/embed/XL4xWzgt1bA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/691/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - cloudflare
+  - react
+  - typescript
+builders:
+  - name: Tyler Whelan

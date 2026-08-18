@@ -1,0 +1,14 @@
+id: gitsync
+name: GITSYNC
+slug: gitsync
+organizer: []
+year: 2026
+sources:
+  - https://gitsync.devpost.com/
+  - https://gitsync.devpost.com/project-gallery?filter=winner
+website_url: https://gitsync.devpost.com/
+platform: devpost
+participant_count: 52
+prize_pool: null
+currency: null
+description: "Devpost hackathon: GITSYNC. Imported automatically."

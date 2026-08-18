@@ -1,0 +1,25 @@
+id: weather-based-nucelar-power-derating-prediction
+name: Weather Based Nucelar Power Derating Prediction
+slug: weather-based-nucelar-power-derating-prediction
+tagline: '"Forecasting nuclear power loss before the heat hits — 14 days of cooling-water derating
+  risk for a $200M/year industry blind spot.'
+summary: Weather Based Nucelar Power Derating Prediction received the AI for Environmental
+  Sustainability award at Hack Arizona 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NateDeMoro/Team_10_HackArizona
+demo_url: null
+video_url: https://www.youtube.com/embed/2VMITxl23yE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - typescript
+builders:
+  - name: Peyton Nagle

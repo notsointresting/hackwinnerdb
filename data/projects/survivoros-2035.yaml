@@ -1,0 +1,22 @@
+id: survivoros-2035
+name: SurvivorOS 2035
+slug: survivoros-2035
+tagline: An AI-powered survival simulator where users navigate a futuristic 2035 world shaped by AI,
+  automation, job disruption, and digital chaos using Google Gemini.
+summary: SurvivorOS 2035 received the MLH + GEMINI SWAG award at PIXEL GEMINI 2.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Tanya-garg10/SurvivorOS-2035.git
+demo_url: null
+video_url: https://www.youtube.com/embed/lU9ZkR2ZvkA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/672/960/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - vercel
+builders:
+  - name: Tanya Garg

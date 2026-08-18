@@ -1,0 +1,23 @@
+id: quava
+name: Quava
+slug: quava
+tagline: "Cut Composio tool-result tokens by over 80% before they hit your LLM: without changing a
+  single tool the agent calls."
+summary: Quava received the [Sponsored] Composio Track award at SOON Hackathon  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ManagementMO/Aperture/tree/demo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/655/213/datas/medium.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - claude
+  - python
+  - react
+  - redis
+builders:
+  - name: Mohammed Elshrief
+  - name: Phlo
+  - name: Evan Johnstone

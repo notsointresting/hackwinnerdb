@@ -1,0 +1,14 @@
+id: horizons-firehacks
+project_id: horizons
+hackathon_id: firehacks
+submission_url: https://devpost.com/software/horizons-w2lryp
+source:
+  platform: devpost
+  url: https://devpost.com/software/horizons-w2lryp
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

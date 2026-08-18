@@ -1,0 +1,21 @@
+id: arialine
+name: Arialine
+slug: arialine
+tagline: Turn Mermaid & Markdown into gorgeous native Slack canvases or interactive pages — fully
+  versioned, with built-in decision history. Diagram, decide, ship, revie
+summary: Arialine received the First Place | Slack Agent for Organizations award at Slack Agent
+  Builder Challenge in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zFLTRDugY_Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/892/274/datas/gallery.jpg
+categories:
+  - enterprise
+technologies:
+  - claude
+  - postgresql
+  - python
+builders:
+  - name: dusy4 Haiduk

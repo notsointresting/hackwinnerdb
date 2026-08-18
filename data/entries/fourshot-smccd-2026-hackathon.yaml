@@ -1,0 +1,14 @@
+id: fourshot-smccd-2026-hackathon
+project_id: fourshot
+hackathon_id: smccd-2026-hackathon
+submission_url: https://devpost.com/software/fourshot
+source:
+  platform: devpost
+  url: https://devpost.com/software/fourshot
+awards:
+  - type: first-place
+    title: "Game Development Track: 1st place: Secret Prize (Per team member)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

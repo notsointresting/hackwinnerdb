@@ -1,0 +1,14 @@
+id: lit-ai-for-good-hackathon
+project_id: lit
+hackathon_id: ai-for-good-hackathon
+submission_url: https://devpost.com/software/lit-20f6co
+source:
+  platform: devpost
+  url: https://devpost.com/software/lit-20f6co
+awards:
+  - type: other
+    title: ACM-W Data Science Ethics
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

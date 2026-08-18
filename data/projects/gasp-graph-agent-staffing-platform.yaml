@@ -1,0 +1,24 @@
+id: gasp-graph-agent-staffing-platform
+name: Gasp - Graph Agent Staffing Platform
+slug: gasp-graph-agent-staffing-platform
+tagline: A voice AI that answers every call for home-health agencies, back-filling call-outs,
+  matching patients, logging meds, and bridging languages, while holding perf
+summary: Gasp - Graph Agent Staffing Platform received the Third Place award at AI Healthcare Hack
+  NYC - by Arya Health & Twilio AI Startup Searchlight in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gokulnpc/gasp
+demo_url: null
+video_url: https://www.youtube.com/embed/GWC7FeHA8iY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/880/634/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - twilio
+builders:
+  - name: Pooja Thakur
+  - name: Adithya Srinivasa Raghavan
+  - name: Sriram Madhiyalagan

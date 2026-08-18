@@ -1,0 +1,20 @@
+id: amongus-midnight
+name: AmongUs Midnight
+slug: amongus-midnight
+tagline: V1 Among Us but on Midnight Chain
+summary: AmongUs Midnight received the Gaming Track award at Midnight Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SoumyaEXE/Among-Midnight
+demo_url: null
+video_url: https://www.youtube.com/embed/FlShAnZUWGc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/939/669/datas/gallery.jpg
+categories:
+  - blockchain
+technologies:
+  - python
+builders:
+  - name: Subarna Maity
+  - name: Soumyadeep Dey
+  - name: Ayush Kumar
+  - name: Sourish Panda

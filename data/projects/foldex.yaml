@@ -1,0 +1,26 @@
+id: foldex
+name: Foldex
+slug: foldex
+tagline: Providing patient clarity for genomic testing
+summary: Foldex received the Finalist Award award at SP26 Cornell Claude Builders Club Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/donte-truong/foldex
+demo_url: null
+video_url: https://www.youtube.com/embed/7xf8cmcUyIo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/274/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Jayden Lim
+  - name: Ricky Ye
+  - name: Colin Park
+  - name: Donte Truong

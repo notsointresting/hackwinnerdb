@@ -1,0 +1,18 @@
+id: declaro
+name: Declaro
+slug: declaro
+tagline: Voice-first legal aid for refugees and immigrants in 65+ languages
+summary: Declaro received the Honorable mentions award at GenAI Dev Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aryansaksena/declaro
+demo_url: null
+video_url: https://www.youtube.com/embed/qs2C42aNxgg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/491/178/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Aryan Saksena

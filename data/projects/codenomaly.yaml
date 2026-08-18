@@ -1,0 +1,22 @@
+id: codenomaly
+name: Codenomaly
+slug: codenomaly
+tagline: Find anomalies (errors) in code. Work together. Don't let the bugs pile up.
+summary: Codenomaly received the Gaming Prize award at Stevens QuackHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stephwasnttaken/codenomaly
+demo_url: null
+video_url: https://www.youtube.com/embed/HxcTBWAZP1w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/537/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - tailwind-css
+builders:
+  - name: Naima Sana
+  - name: Stephen Mertyl
+  - name: Kira Archer
+  - name: Marilyn Anderson

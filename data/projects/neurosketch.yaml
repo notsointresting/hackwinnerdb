@@ -1,0 +1,23 @@
+id: neurosketch
+name: NeuroSketch
+slug: neurosketch
+tagline: "NeuroSketch: An AI-powered screening tool that helps paramedical workers detect early
+  signs of Parkinson’s through simple motor, voice, and movement tests anywh"
+summary: NeuroSketch received the 1st - place amazon gift card award at Health and Fitness
+  Technology in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/BySimi/NeuroSketch
+demo_url: null
+video_url: https://www.youtube.com/embed/CmgFPUcbX3M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/300/152/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - opencv
+  - python
+  - streamlit
+builders: []

@@ -1,0 +1,21 @@
+id: idle-pet-village
+name: Idle Pet Village
+slug: idle-pet-village
+tagline: An infinite RPG where the story is never pre-written, and the world is drawn the moment you
+  look at it.
+summary: Idle Pet Village received the Best Design award at AI Game Week in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/charusui/Idle-Pet-Village
+demo_url: null
+video_url: https://www.youtube.com/embed/5TcgI2b5NvA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/604/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - gemini
+  - react
+builders:
+  - name: Shakira Santos

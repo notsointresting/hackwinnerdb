@@ -1,0 +1,25 @@
+id: reuniteus
+name: ReuniteUS
+slug: reuniteus
+tagline: Governments don't know what citizens think. Citizens don't have time to stay informed.
+  REUNITEUS fixes both — in under 10 seconds a day.
+summary: ReuniteUS received the Claude Track Winners award at Claude AI Hackathon - Machines of
+  Loving Grace in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3BSGtXY5GR4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - flask
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Frank Zhu
+  - name: blakehrobinson-design Robinson

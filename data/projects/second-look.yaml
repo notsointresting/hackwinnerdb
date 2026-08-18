@@ -1,0 +1,21 @@
+id: second-look
+name: Second Look
+slug: second-look
+tagline: Second Look is one search across every secondhand sports marketplace, and an AI that shows
+  you the gear actually worn before you buy it. Used gear, presented li
+summary: Second Look received the High School Track 2 Prize award at PeddieHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Goofturtles/second-look
+demo_url: null
+video_url: https://www.youtube.com/embed/DRTbkFc0idg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/112/647/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - javascript
+builders:
+  - name: arjun sharma

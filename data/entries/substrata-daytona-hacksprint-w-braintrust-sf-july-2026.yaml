@@ -1,0 +1,16 @@
+id: substrata-daytona-hacksprint-w-braintrust-sf-july-2026
+project_id: substrata
+hackathon_id: daytona-hacksprint-w-braintrust-sf-july-2026
+submission_url: https://devpost.com/software/stratalearn
+source:
+  platform: devpost
+  url: https://devpost.com/software/stratalearn
+awards:
+  - type: first-place
+    title: 1st Prize
+  - type: category-winner
+    title: Best Use of Fireworks AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

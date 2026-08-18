@@ -1,0 +1,18 @@
+id: senolarity
+name: senolarity
+slug: senolarity
+tagline: what's your musical similarity? what's your musical senolarity?
+summary: senolarity received the Senorable Mentions award at senohacks. in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - media
+technologies:
+  - claude
+builders:
+  - name: Trisha Thakkar
+  - name: Ishan Shah

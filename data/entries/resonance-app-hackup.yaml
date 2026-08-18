@@ -1,0 +1,14 @@
+id: resonance-app-hackup
+project_id: resonance-app
+hackathon_id: hackup
+submission_url: https://devpost.com/software/resonance-app
+source:
+  platform: devpost
+  url: https://devpost.com/software/resonance-app
+awards:
+  - type: other
+    title: G305 Mice and Mousepads
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

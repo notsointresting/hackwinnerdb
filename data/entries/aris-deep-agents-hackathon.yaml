@@ -1,0 +1,14 @@
+id: aris-deep-agents-hackathon
+project_id: aris
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/aris-tdbpy3
+source:
+  platform: devpost
+  url: https://devpost.com/software/aris-tdbpy3
+awards:
+  - type: category-winner
+    title: "Truefoundry: Best use of AI Gateway"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

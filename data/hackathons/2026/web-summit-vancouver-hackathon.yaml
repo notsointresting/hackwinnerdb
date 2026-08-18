@@ -1,0 +1,14 @@
+id: web-summit-vancouver-hackathon
+name: Web Summit Vancouver Hackathon
+slug: web-summit-vancouver-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://van26-hack.devpost.com/
+  - https://van26-hack.devpost.com/project-gallery?filter=winner
+website_url: https://van26-hack.devpost.com/
+platform: devpost
+participant_count: 91
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Web Summit Vancouver Hackathon. Imported automatically."

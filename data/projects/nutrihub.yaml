@@ -1,0 +1,20 @@
+id: nutrihub
+name: NutriHub
+slug: nutrihub
+tagline: NutriHub is an offline-first mobile nutrition tracker built with Expo. The MVP focus is
+  fast local food logging, with Supabase used as a lean cloud layer for au
+summary: NutriHub received the 4th Place award at MorganHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ArchieDD10/NutriHub
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - cloud
+technologies:
+  - postgresql
+  - supabase
+  - typescript
+builders:
+  - name: ArchieDD10 Deguzman

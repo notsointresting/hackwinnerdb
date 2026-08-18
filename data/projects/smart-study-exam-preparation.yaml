@@ -1,0 +1,22 @@
+id: smart-study-exam-preparation
+name: Smart Study Exam Preparation
+slug: smart-study-exam-preparation
+tagline: Smart Study uses AI to help students prepare smarter by generating summaries, quizzes,
+  answers, flashcards, and adaptive study plans from their notes.
+summary: Smart Study Exam Preparation received the Corporate - 3rd Place award at Chutes Hack
+  Malaysia 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/vishaldev78/studysmart
+demo_url: null
+video_url: https://www.youtube.com/embed/1mBm8rHTFU4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/851/489/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Vishal Kumar

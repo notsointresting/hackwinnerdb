@@ -1,0 +1,24 @@
+id: braillequest
+name: BrailleQuest
+slug: braillequest
+tagline: BrailleQuest is an audio story game that helps visually impaired kids learn braille using a
+  physical braille device to turn letters into words, cast spells, sol
+summary: BrailleQuest received the Best Reach award at HuskyHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SahilGupta721/BrailleQuest
+demo_url: null
+video_url: https://www.youtube.com/embed/DxrkzQoPOzA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/638/665/datas/gallery.jpg
+categories:
+  - social-impact
+  - gaming
+  - media
+technologies:
+  - figma
+  - typescript
+builders:
+  - name: Sahil Gupta
+  - name: Rita Zhang
+  - name: Ethan Um
+  - name: Ada Walia

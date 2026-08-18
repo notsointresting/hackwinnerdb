@@ -1,0 +1,18 @@
+id: xena-protocol-royalhacks
+project_id: xena-protocol
+hackathon_id: royalhacks
+submission_url: https://devpost.com/software/xena-protocol
+source:
+  platform: devpost
+  url: https://devpost.com/software/xena-protocol
+awards:
+  - type: other
+    title: Tickets to TechBBQ
+  - type: other
+    title: Swag
+  - type: other
+    title: Rubber ducks
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

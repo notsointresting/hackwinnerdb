@@ -1,0 +1,23 @@
+id: sidekik
+name: Sidekik
+slug: sidekik
+tagline: Speak in a meeting. Sidekik ships the work before you walk out.
+summary: Sidekik received the Best Use of CLod award at Cursor Hackathon Vancouver in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Matteo567/Cursor_Hackathon_Submission
+demo_url: null
+video_url: https://www.youtube.com/embed/Y2e3KYX4-r4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/658/718/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - swift
+builders:
+  - name: Omar Abu Sharar
+  - name: Matteo Sotelo
+  - name: Linh Hoang
+  - name: Mark Skrypnyk

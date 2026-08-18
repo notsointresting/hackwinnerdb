@@ -1,0 +1,27 @@
+id: mindlog
+name: MindLog
+slug: mindlog
+tagline: A stress‑aware digital journaling app that supplements your traditional morning journal.
+summary: MindLog received the [MLH] Best Use of MongoDB Atlas award at AthenaHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hannahlee4786/MindLog/tree/chloe
+demo_url: null
+video_url: https://www.youtube.com/embed/-e-bI-zNCnE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/875/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - python
+  - swift
+  - typescript
+builders:
+  - name: Chloe Chang
+  - name: Hannah Lee
+  - name: Boyue Dong
+  - name: Hailey Tien

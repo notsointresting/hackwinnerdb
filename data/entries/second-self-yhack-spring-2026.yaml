@@ -1,0 +1,16 @@
+id: second-self-yhack-spring-2026
+project_id: second-self
+hackathon_id: yhack-spring-2026
+submission_url: https://devpost.com/software/second-self-giwmxh
+source:
+  platform: devpost
+  url: https://devpost.com/software/second-self-giwmxh
+awards:
+  - type: other
+    title: Personal AI Agent
+  - type: category-winner
+    title: Best Use of Hermes -- Nous Research
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

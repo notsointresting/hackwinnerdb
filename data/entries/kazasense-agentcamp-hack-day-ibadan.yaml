@@ -1,0 +1,14 @@
+id: kazasense-agentcamp-hack-day-ibadan
+project_id: kazasense
+hackathon_id: agentcamp-hack-day-ibadan
+submission_url: https://devpost.com/software/kazasense
+source:
+  platform: devpost
+  url: https://devpost.com/software/kazasense
+awards:
+  - type: other
+    title: MLH Prizes and GitHub
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

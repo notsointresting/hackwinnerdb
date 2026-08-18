@@ -1,0 +1,18 @@
+id: node0
+name: Node0
+slug: node0
+tagline: Go from idea to hardware, fast.
+summary: Node0 received the Best Solo Hack – Presented by Framework award at Los Altos Hacks X in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shlok-madhekar/los-altos-proj
+demo_url: null
+video_url: https://www.youtube.com/embed/Q1P35eKmB-w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/556/146/datas/gallery.jpg
+categories:
+  - iot
+technologies:
+  - flask
+  - python
+builders:
+  - name: Shlok Madhekar

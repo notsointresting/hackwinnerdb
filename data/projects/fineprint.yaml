@@ -1,0 +1,25 @@
+id: fineprint
+name: Fineprint
+slug: fineprint
+tagline: An AI-powered tool that analyzes lease agreements and contracts to identify risky clauses,
+  explain them in plain English, and provide actionable recommendations
+summary: Fineprint received the Best AI Project + Featherless credits award at ClubHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Emadedin1/Fineprint
+demo_url: null
+video_url: https://www.youtube.com/embed/PtyG8UHksWg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/929/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - react
+  - vercel
+builders:
+  - name: Omar ElKott
+  - name: Emadedin Elmontaser
+  - name: Omar Waled
+  - name: Mohammad Labak

@@ -1,0 +1,21 @@
+id: labmateai
+name: LabMateAi
+slug: labmateai
+tagline: LabMate AI is an interactive, virtual science lab where students run real physics
+  experiments and get instant AI-mentored feedback in-browser without hardware.
+summary: LabMateAi received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Zarosky00/virtualLabAI
+demo_url: null
+video_url: https://www.youtube.com/embed/WPi1SOhZmSE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/777/733/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - tailwind-css
+  - typescript
+builders:
+  - name: Zarosky00 Kumar

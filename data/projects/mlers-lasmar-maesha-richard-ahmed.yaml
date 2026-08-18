@@ -1,0 +1,23 @@
+id: mlers-lasmar-maesha-richard-ahmed
+name: MLers – (Lasmar, Maésha, Richard, Ahmed)
+slug: mlers-lasmar-maesha-richard-ahmed
+tagline: "Challenge 3: Detecting Alzheimer's disease from EEG, a step to early detection to Alzheimer's!"
+summary: "MLers – (Lasmar, Maésha, Richard, Ahmed) received the 1st Place: EEG Challenge (Challenge
+  #3) award at PharmaHacks 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/RichardG-PU/mlers-ensemble
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/488/948/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Lasmar Khalifa
+  - name: Richard Gajda
+  - name: Ahmed Gara Ali
+  - name: Maésha Mahmud Mahmud

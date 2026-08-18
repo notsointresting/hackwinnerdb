@@ -1,0 +1,14 @@
+id: periodiq-liftoff
+project_id: periodiq
+hackathon_id: liftoff
+submission_url: https://devpost.com/software/periodic-za74ec
+source:
+  platform: devpost
+  url: https://devpost.com/software/periodic-za74ec
+awards:
+  - type: winner
+    title: Liftoff General Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

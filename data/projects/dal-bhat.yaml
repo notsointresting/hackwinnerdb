@@ -1,0 +1,23 @@
+id: dal-bhat
+name: Dal Bhat
+slug: dal-bhat
+tagline: Land Runner turns your runs into a strategy game—claim territory on a live map, compete
+  with others, and stay motivated to run daily.
+summary: Dal Bhat received the Fourth Place award at {eHacks} 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sahrohit/land-runner.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/118/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - firebase
+  - google-maps
+  - react-native
+builders:
+  - name: Rohit Sah
+  - name: Prajwal DC
+  - name: Abin Timilsina
+  - name: Puspha Raj Pandeya

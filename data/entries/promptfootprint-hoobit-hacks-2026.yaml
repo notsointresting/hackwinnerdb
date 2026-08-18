@@ -1,0 +1,14 @@
+id: promptfootprint-hoobit-hacks-2026
+project_id: promptfootprint
+hackathon_id: hoobit-hacks-2026
+submission_url: https://devpost.com/software/promptfootprint
+source:
+  platform: devpost
+  url: https://devpost.com/software/promptfootprint
+awards:
+  - type: other
+    title: Fourth & Fifth Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

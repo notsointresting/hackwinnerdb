@@ -1,0 +1,25 @@
+id: proposture
+name: ProPosture
+slug: proposture
+tagline: Real-time posture coaching for your desk setup.
+summary: ProPosture received the Computer Vision award at AI For Good Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EthanHarter934/ProPosture
+demo_url: null
+video_url: https://www.youtube.com/embed/9wI8wVDzEus
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/695/918/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - opencv
+  - pytorch
+  - react
+builders:
+  - name: Ethan Harter
+  - name: Kevin Sabbe
+  - name: Sam Willard
+  - name: trevflax

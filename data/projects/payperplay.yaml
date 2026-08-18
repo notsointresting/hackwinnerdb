@@ -1,0 +1,23 @@
+id: payperplay
+name: PayPerPlay
+slug: payperplay
+tagline: Pay per second for what you watch — real-time USDC micropayments for YouTube and Prime
+  Video on Solana.
+summary: PayPerPlay received the MLH || Best Use of Solana || Ledger Nano S Plus award at
+  HackDartmouth XI in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/khuzaymaa918/PayPerPlay
+demo_url: null
+video_url: https://www.youtube.com/embed/3Pf06-bp4g4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/735/datas/gallery.jpg
+categories:
+  - fintech
+  - media
+technologies:
+  - solana
+  - sqlite
+  - typescript
+builders:
+  - name: Khuzayma Mushtaq
+  - name: Manas

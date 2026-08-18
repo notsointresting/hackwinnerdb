@@ -1,0 +1,20 @@
+id: beacon
+name: Beacon
+slug: beacon
+tagline: The Map that Gives Back
+summary: Beacon received the Housing Dignity Second Place award at Milpitas Hacks 3 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pavik11/Beacon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/135/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Pavi Kalra
+  - name: Rachita Chaudhari
+  - name: Trisha Agarwal

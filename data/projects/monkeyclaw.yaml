@@ -1,0 +1,24 @@
+id: monkeyclaw
+name: MonkeyClaw
+slug: monkeyclaw
+tagline: "MonkeyClaw: Probing, patching, and protecting the NVIDIA NemoClaw ecosystem."
+summary: MonkeyClaw received the Best Use of NemoClaw award at NemoClaw NVIDIA x ASUS Hackathon @
+  UCSC in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/justin06lee/monkeyclaw
+demo_url: null
+video_url: https://www.youtube.com/embed/lGUpU6ZbG0k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/673/513/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - fastapi
+  - python
+  - sqlite
+builders:
+  - name: Cofee Coder
+  - name: ezzy1630 Rappeport
+  - name: Justin Lee

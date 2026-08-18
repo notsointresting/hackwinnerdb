@@ -1,0 +1,23 @@
+id: popoff
+name: POPOFF
+slug: popoff
+tagline: This project addresses the issue of unrecycled clothing by creating a space where users can
+  share and sell their outfits, using AI in the creation of these boar
+summary: POPOFF received the Sustainability Track award at Broncohacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kennetha13/POPOFF.git
+demo_url: null
+video_url: https://www.youtube.com/embed/npwC2qwM3H4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/914/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - stripe
+  - supabase
+  - typescript
+builders:
+  - name: Alexander Andriyan
+  - name: Ayla Santos
+  - name: Edwin Diaz
+  - name: Kennetha13 Ang

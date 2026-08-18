@@ -1,0 +1,24 @@
+id: check-chef-pantry
+name: Check&Chef Pantry
+slug: check-chef-pantry
+tagline: Find delicious recipes with an easy-to-use ingredient checklist.
+summary: Check&Chef Pantry received the Best Design (No Code)/Best UI award at SacHacks VII in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nergisRahimzade/SacHacks-Project---CRC-Team
+demo_url: null
+video_url: https://www.youtube.com/embed/w3qKeKxyMNE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/372/041/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - figma
+  - javascript
+  - react
+builders:
+  - name: Nathan Rivera
+  - name: Nergis Rahimzade
+  - name: Jonathan Kwong
+  - name: Alex Lal

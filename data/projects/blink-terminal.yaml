@@ -1,0 +1,23 @@
+id: blink-terminal
+name: Blink (Terminal)
+slug: blink-terminal
+tagline: "Blink: the intelligent terminal where you speak in natural language and your coding agents
+  work in parallel, merging the code by themselves. A Canvas Terminal m"
+summary: Blink (Terminal) received the United Ventures Grant award at HackRome in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3Xb8gtjqypM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/273/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Nayde valerio monteforte
+  - name: ManuGiuly26 Murolo
+  - name: lucatozziGZ Luca Tozzi

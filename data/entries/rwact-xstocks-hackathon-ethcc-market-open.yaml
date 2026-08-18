@@ -1,0 +1,14 @@
+id: rwact-xstocks-hackathon-ethcc-market-open
+project_id: rwact
+hackathon_id: xstocks-hackathon-ethcc-market-open
+submission_url: https://devpost.com/software/rwact
+source:
+  platform: devpost
+  url: https://devpost.com/software/rwact
+awards:
+  - type: winner
+    title: Standout Idea Award (Discretionary & Split by Winners)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: starhack
+name: StarHack
+slug: starhack
+organizer: []
+year: 2026
+sources:
+  - https://starhack-polystar.devpost.com/
+  - https://starhack-polystar.devpost.com/project-gallery?filter=winner
+website_url: https://starhack-polystar.devpost.com/
+platform: devpost
+participant_count: 46
+prize_pool: 1275
+currency: USD
+description: "Devpost hackathon: StarHack. Imported automatically."

@@ -1,0 +1,23 @@
+id: nest-newborn-maternal-safe-transition
+name: "NEST: Newborn & Maternal Safe Transition"
+slug: nest-newborn-maternal-safe-transition
+tagline: Fragmented charts cost lives. NEST saves mothers and newborns by orchestrating 5 AI agents
+  that synthesize complex FHIR data into a unified, evidence-backed dis
+summary: "NEST: Newborn & Maternal Safe Transition received the Honorable Mentions award at Agents
+  Assemble - The Healthcare AI Endgame in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/GauravS11112003/NEST-MCP-Server
+demo_url: null
+video_url: https://www.youtube.com/embed/XNFU0ZbqBhs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/664/578/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Gaurav Shrivastava
+  - name: Aishwarya Khot

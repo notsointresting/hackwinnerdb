@@ -1,0 +1,19 @@
+id: techbuddy-ai
+name: TechBuddy AI
+slug: techbuddy-ai
+tagline: TechBuddy AI is a simple, senior-friendly web application that provides clear, step-by-step
+  guidance for common technology tasks.
+summary: TechBuddy AI received the Vercel Monthly Plan award at AI For Good in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MohammadZayaan/techbuddy-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/Him5ykqlWp0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/576/583/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: mohammad zayaan

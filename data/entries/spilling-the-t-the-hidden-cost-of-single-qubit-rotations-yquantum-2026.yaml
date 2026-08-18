@@ -1,0 +1,14 @@
+id: spilling-the-t-the-hidden-cost-of-single-qubit-rotations-yquantum-2026
+project_id: spilling-the-t-the-hidden-cost-of-single-qubit-rotations
+hackathon_id: yquantum-2026
+submission_url: https://devpost.com/software/calbits
+source:
+  platform: devpost
+  url: https://devpost.com/software/calbits
+awards:
+  - type: first-place
+    title: QuEra - 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: eco-audit
+name: Eco-Audit
+slug: eco-audit
+tagline: Scan any product, instantly see how sustainable the brand really is. EcoAudit turns your
+  camera into an eco-conscience, track your impact, compare brands, and s
+summary: "Eco-Audit received the Environment Track: Owala Water Bottle with Straw award at RAMHACK
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/kaori-kaori/EcoAudit
+demo_url: null
+video_url: https://www.youtube.com/embed/o8PwJvL-4CA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/188/datas/gallery.jpg
+categories:
+  - education
+  - sustainability
+  - social-impact
+technologies:
+  - claude
+  - javascript
+builders:
+  - name: Kaori Garcia
+  - name: Miles Ehrlich
+  - name: ricardobmc Membreno

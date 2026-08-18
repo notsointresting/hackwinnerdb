@@ -1,0 +1,20 @@
+id: cry-baby-s-garden
+name: Cry Baby's Garden
+slug: cry-baby-s-garden
+tagline: A eerie gardening game to arouse the alien's deepest emotions...
+summary: Cry Baby's Garden received the Best Beginner Hack award at Liftoff in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JJoelouis2/Crybabies-Garden/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/533/datas/gallery.jpg
+categories:
+  - productivity
+  - gaming
+technologies:
+  - python
+builders:
+  - name: Eddie Wang
+  - name: William Li
+  - name: Alvin Lu

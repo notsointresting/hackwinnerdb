@@ -1,0 +1,14 @@
+id: shieldnet-impact-creation
+project_id: shieldnet
+hackathon_id: impact-creation
+submission_url: https://devpost.com/software/shieldnet-cagprz
+source:
+  platform: devpost
+  url: https://devpost.com/software/shieldnet-cagprz
+awards:
+  - type: other
+    title: Membership
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

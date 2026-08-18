@@ -1,0 +1,14 @@
+id: citypulse-hackmhc-plus-plus
+project_id: citypulse
+hackathon_id: hackmhc-plus-plus
+submission_url: https://devpost.com/software/citypulse-dnapf8
+source:
+  platform: devpost
+  url: https://devpost.com/software/citypulse-dnapf8
+awards:
+  - type: second-place
+    title: 2nd Overall Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: pali
+name: Pali
+slug: pali
+tagline: A communication companion that gives people with cerebral palsy a voice—turning personal
+  gestures into spoken words in real time.
+summary: Pali received the Intermediate 2nd Place award at SolHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/daviskgit/PALI-GestureRecognitionForCerebralPalsy
+demo_url: null
+video_url: https://www.youtube.com/embed/pFMDcUiu2fA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/296/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - python
+builders:
+  - name: Davis Griffin
+  - name: Yashasree Gadipalli
+  - name: Ira Sharma

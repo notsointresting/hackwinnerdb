@@ -1,0 +1,23 @@
+id: road-copilot
+name: Road Copilot
+slug: road-copilot
+tagline: A retrofit driving copilot that plans safer routes, watches lane position, and speaks when
+  it matters.
+summary: Road Copilot received the General 3rd place award at BlasterHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - google-maps
+  - opencv
+  - python
+  - react-native
+  - typescript
+builders:
+  - name: yusuf morsy

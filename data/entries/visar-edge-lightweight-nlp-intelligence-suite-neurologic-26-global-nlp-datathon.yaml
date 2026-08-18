@@ -1,0 +1,14 @@
+id: visar-edge-lightweight-nlp-intelligence-suite-neurologic-26-global-nlp-datathon
+project_id: visar-edge-lightweight-nlp-intelligence-suite
+hackathon_id: neurologic-26-global-nlp-datathon
+submission_url: https://devpost.com/software/visar-edge-lightweight-nlp-suite
+source:
+  platform: devpost
+  url: https://devpost.com/software/visar-edge-lightweight-nlp-suite
+awards:
+  - type: other
+    title: Grand Champion
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

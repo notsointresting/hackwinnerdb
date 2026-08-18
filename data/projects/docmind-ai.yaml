@@ -1,0 +1,23 @@
+id: docmind-ai
+name: DocMind AI
+slug: docmind-ai
+tagline: DocMind AI transforms static documents into an intelligent AI assistant using Google
+  Gemini, enabling users to chat with, summarize, and learn from their docume
+summary: DocMind AI received the Best use of gemini award at Hack day bhopal in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jaybisen08/DocMind-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/HXtgzeYQ4Mg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/900/103/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - gemini
+  - javascript
+  - typescript
+  - vercel
+builders:
+  - name: Jay Bisen

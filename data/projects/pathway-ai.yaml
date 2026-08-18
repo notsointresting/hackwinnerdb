@@ -1,0 +1,27 @@
+id: pathway-ai
+name: Pathway AI
+slug: pathway-ai
+tagline: "PathwayAI is an offline first AI learning platform for Tier 2/3 students, running locally
+  with LLaMA and Groq to deliver personalized learning, mentorship, and "
+summary: Pathway AI received the Top 10 winners each receive a free .xyz domain — launch your
+  project with a real web presence! (valued at $150) award at Hyperbloom V2 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Saumya-singh2101/Pathwayaisub
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/473/015/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - groq
+  - javascript
+  - llama
+  - opencv
+  - react
+  - supabase
+builders:
+  - name: Saumya Singh

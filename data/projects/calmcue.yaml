@@ -1,0 +1,28 @@
+id: calmcue
+name: CalmCue
+slug: calmcue
+tagline: A self-improving voice chat accessibility agent that learns your tolerance and reduces
+  sensory overload by dynamically leveling volume, ducking overlap, and sum
+summary: CalmCue received the Best use of Modulate's APIs award at Self Improving Agents Hack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lakshyaaditi/CalmCue
+demo_url: null
+video_url: https://www.youtube.com/embed/rrsV2iYS5Kc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - docker
+  - nextjs
+  - postgresql
+  - react
+  - sql
+  - typescript
+builders:
+  - name: Tripti Tripathi
+  - name: Lakshya Sinha
+  - name: Trinav Rattan
+  - name: Harsh Doshi

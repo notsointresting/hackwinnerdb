@@ -1,0 +1,14 @@
+id: bronson-cursor-hackathon-vancouver
+project_id: bronson
+hackathon_id: cursor-hackathon-vancouver
+submission_url: https://devpost.com/software/bronson
+source:
+  platform: devpost
+  url: https://devpost.com/software/bronson
+awards:
+  - type: category-winner
+    title: Best Use of Greptile
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

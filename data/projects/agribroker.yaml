@@ -1,0 +1,24 @@
+id: agribroker
+name: AgriBroker
+slug: agribroker
+tagline: You need 500 tomatoes under $250? AgriBroker's agents optimize prices and pays the best
+  order. Farmer's produce surplus reduced and customers happy with cheap o
+summary: AgriBroker received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Ai-Hackathon-2026-Berk/AgriBroker
+demo_url: null
+video_url: https://www.youtube.com/embed/oDr4soAX2kM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/802/203/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - stripe
+builders:
+  - name: Alexis Sabourin
+  - name: Caden Minami
+  - name: Jennifer Petsko
+  - name: Jerry Fu

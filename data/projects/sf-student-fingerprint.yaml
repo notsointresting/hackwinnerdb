@@ -1,0 +1,27 @@
+id: sf-student-fingerprint
+name: SF (Student Fingerprint)
+slug: sf-student-fingerprint
+tagline: "A website for educators. SF helps minimize the use of generative AI in student work by
+  capturing a timeline of actions on given assignments, which teachers can "
+summary: SF (Student Fingerprint) received the MLH - Best Use of Snowflake API Prize award at
+  Stevens QuackHacks 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Waybo26/SF.git
+demo_url: null
+video_url: https://www.youtube.com/embed/6Nws1xZbPUA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/649/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - react
+  - sql
+  - sqlite
+  - typescript
+builders:
+  - name: Lenny Yanza
+  - name: Wesley Nabo
+  - name: Jordan Benzon
+  - name: Jett Higgins

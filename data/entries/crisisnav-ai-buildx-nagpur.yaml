@@ -1,0 +1,14 @@
+id: crisisnav-ai-buildx-nagpur
+project_id: crisisnav-ai
+hackathon_id: buildx-nagpur
+submission_url: https://devpost.com/software/crisisnav-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/crisisnav-ai
+awards:
+  - type: other
+    title: Runner-Up – BuildX Nagpur
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

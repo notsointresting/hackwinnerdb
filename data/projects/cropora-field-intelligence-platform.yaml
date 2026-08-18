@@ -1,0 +1,21 @@
+id: cropora-field-intelligence-platform
+name: Cropora - Field Intelligence Platform
+slug: cropora-field-intelligence-platform
+tagline: Know your fields before the season starts.
+summary: Cropora - Field Intelligence Platform received the Best Sustainability Hack - Bitcamp award
+  at Bitcamp 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Ayush Atul Vispute

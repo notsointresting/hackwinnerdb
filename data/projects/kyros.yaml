@@ -1,0 +1,22 @@
+id: kyros
+name: Kyros
+slug: kyros
+tagline: Kyros is an AI-powered robotic desk assistant that understands voice commands with Gemini
+  and moves in MuJoCo, showing how robots can interact naturally with pe
+summary: Kyros received the Best 3D Robot Simulation award at MLH HackDays by RoBorregos 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/oscarcarrh/Kyros_lamp
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/664/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - python
+builders:
+  - name: Oscar Carranza Hernández
+  - name: Valentina Gonzalez Benedossi
+  - name: Ricardo Gaspar Ochoa

@@ -1,0 +1,18 @@
+id: create-something
+name: Create Something
+slug: create-something
+tagline: Everyone can create Something
+summary: "Create Something received the Figma Design Track: Honorable Mention award at CreateSC 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BcUxohula-0
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Sophie Cao
+  - name: Jonathan Ho

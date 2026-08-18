@@ -1,0 +1,14 @@
+id: seaforge-critical-ops-a-dc-national-security-hackathon
+project_id: seaforge
+hackathon_id: critical-ops-a-dc-national-security-hackathon
+submission_url: https://devpost.com/software/skun-works
+source:
+  platform: devpost
+  url: https://devpost.com/software/skun-works
+awards:
+  - type: second-place
+    title: 2nd Place Overall Winner (& OpenAI Track Winner)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: advisoriq
+name: AdvisorIQ
+slug: advisoriq
+tagline: Options-implied volatility meets ML-predicted realised vol so your clients portfolio can
+  react to forward looking risk signals, not yesterday's price history.
+summary: AdvisorIQ received the Best Rookie Hack award at The FinTech Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samg3003/WFS-FinTech-HackathonSAM/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/ptKnYRW2vjU
+image_url: null
+categories:
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - pytorch
+builders:
+  - name: Leon Forde

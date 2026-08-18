@@ -1,0 +1,17 @@
+id: wheel-estate
+name: WHEEL-ESTATE
+slug: wheel-estate
+tagline: There's only so much you can do with one spacebar. Why not 8-directional movement?
+summary: WHEEL-ESTATE received the Second Place award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nickcyran/WHEEL-ESTATE
+demo_url: null
+video_url: https://www.youtube.com/embed/Y134AF94UQc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/615/855/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies: []
+builders:
+  - name: Nick Cyran

@@ -1,0 +1,14 @@
+id: flashai-studio-urdu-ai-hackathon-kick-off-session
+project_id: flashai-studio
+hackathon_id: urdu-ai-hackathon-kick-off-session
+submission_url: https://devpost.com/software/flashai-studio
+source:
+  platform: devpost
+  url: https://devpost.com/software/flashai-studio
+awards:
+  - type: other
+    title: Google Swag Kit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

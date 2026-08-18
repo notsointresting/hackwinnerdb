@@ -1,0 +1,22 @@
+id: prompt-shield
+name: Prompt Shield
+slug: prompt-shield
+tagline: Prompt Shield is an open-source AI Agent Security Firewall that detects and blocks prompt
+  injections, jailbreaks, data exfiltration, and tool abuse for secure A
+summary: Prompt Shield received the win award at Hack Day Jabalpur 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/code-with-kishan/Prompt_shield.git
+demo_url: null
+video_url: https://www.youtube.com/embed/cd4vxKs7jag
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/122/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - kubernetes
+  - langchain
+  - python
+builders: []

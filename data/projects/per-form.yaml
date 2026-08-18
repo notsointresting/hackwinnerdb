@@ -1,0 +1,26 @@
+id: per-form
+name: Per-Form
+slug: per-form
+tagline: "Blind workouts are over: no feedback, one bad rep from injury. Pur-Form is a smart mirror
+  w/wearables & edge AI that watches your form, counts reps, instant ale"
+summary: Per-Form received the Best Use of AMD Tech award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abhinav-Avasarala/StarOptimizers
+demo_url: null
+video_url: https://www.youtube.com/embed/r3HFMXeblTw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/255/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - opencv
+  - python
+builders:
+  - name: Krish Kathpalia
+  - name: A AVASARALA
+  - name: Sai Nelluri

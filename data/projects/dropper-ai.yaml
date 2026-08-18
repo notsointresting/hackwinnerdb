@@ -1,0 +1,26 @@
+id: dropper-ai
+name: dropper.ai
+slug: dropper-ai
+tagline: Small e-commerce shops can't afford expensive auditors; but dropper.ai automates that. Ask
+  it to review your website and gain insight about accessibility, compe
+summary: dropper.ai received the Best Solo Hack award at DiamondHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/benhuang3/diamondhacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/xf9lcPkMyF8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/331/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - claude
+  - fastapi
+  - javascript
+  - nextjs
+  - python
+  - sqlite
+  - typescript
+builders:
+  - name: Benjamin Huang

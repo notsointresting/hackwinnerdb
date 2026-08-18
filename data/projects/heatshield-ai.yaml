@@ -1,0 +1,27 @@
+id: heatshield-ai
+name: HeatShield AI
+slug: heatshield-ai
+tagline: AI-powered heat-safe routing that helps people avoid high-risk streets and helps cities
+  identify where shade, water stations, and cooling centers can create the
+summary: HeatShield AI received the Participation Certificate award at CodeNova 2026 – National AI &
+  Innovation Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/mohamedhhashim34-art/HeatShield-AI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/qrcD5uH2nnI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/041/930/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - typescript
+builders:
+  - name: mohamed hamdy
+  - name: Ibrahim Saied

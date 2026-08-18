@@ -1,0 +1,22 @@
+id: pitchready
+name: PitchReady
+slug: pitchready
+tagline: PitchReady is a browser based presentation coach that uses webcam eye tracking and speech
+  recognition to give students live feedback on eye contact, filler word
+summary: PitchReady received the Best Design award at Hack to the Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ayaank-2005/WLU-Hackathon-Pitch-Ready
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/401/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - typescript
+builders:
+  - name: Ayaan Khan
+  - name: Daniel Guy
+  - name: Stephen Coufie
+  - name: Lado

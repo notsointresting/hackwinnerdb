@@ -1,0 +1,14 @@
+id: mindease-ai-hack-days-jabalpur
+project_id: mindease-ai
+hackathon_id: hack-days-jabalpur
+submission_url: https://devpost.com/software/mindease-ai-tgw1pc
+source:
+  platform: devpost
+  url: https://devpost.com/software/mindease-ai-tgw1pc
+awards:
+  - type: other
+    title: SWAG
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: food-canteen-connect-build-the-future-with-ai-from-code-to-no-code
+project_id: food-canteen-connect
+hackathon_id: build-the-future-with-ai-from-code-to-no-code
+submission_url: https://devpost.com/software/food-canteen-connect
+source:
+  platform: devpost
+  url: https://devpost.com/software/food-canteen-connect
+awards:
+  - type: category-winner
+    title: Best Web Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: fieldscope
+name: Fieldscope
+slug: fieldscope
+tagline: A local NLP platform that turns research papers into topic specific knowledge graphs and
+  positions new papers within those scientific landscapes to create analy
+summary: Fieldscope received the Top 10 Teams award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sram7870/LingHacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/772/754/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Dhruv Avirneni
+  - name: Siva Ram

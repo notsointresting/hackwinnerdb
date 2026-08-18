@@ -1,0 +1,27 @@
+id: livia
+name: Livia
+slug: livia
+tagline: Upload your condo balance sheet. Livia finds suspicious costs, benchmarks the building, and
+  drafts the questions residents should ask to keep their admin accoun
+summary: Livia received the Rome Future Week Grant award at HackRome in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/302/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - fastapi
+  - mapbox
+  - openai
+  - python
+  - react
+  - twilio
+  - typescript
+builders:
+  - name: Matthias Kullbach

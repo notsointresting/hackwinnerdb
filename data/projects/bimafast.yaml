@@ -1,0 +1,17 @@
+id: bimafast
+name: BimaFast
+slug: bimafast
+tagline: Aiding small business owners
+summary: BimaFast received the Best project on creative track award at GITSYNC in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nyumuharon/BimaFast.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Grosserjuncture nyumu

@@ -1,0 +1,14 @@
+id: phishlens-stemist-hacks-iv
+project_id: phishlens
+hackathon_id: stemist-hacks-iv
+submission_url: https://devpost.com/software/phishlens-uzveqd
+source:
+  platform: devpost
+  url: https://devpost.com/software/phishlens-uzveqd
+awards:
+  - type: first-place
+    title: Best Security or Privacy Hack 1st
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

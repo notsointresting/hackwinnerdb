@@ -1,0 +1,21 @@
+id: ohr
+name: oHR
+slug: ohr
+tagline: "oHR turns one resume upload into a fully vetted candidate, AI agents cross-examine every
+  claim round after round, AI assisted candidate interview tailored from "
+summary: oHR received the Best Use of Fillmore by Metaview award at Loop Engineering Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/msdakot/oHR
+demo_url: null
+video_url: https://www.youtube.com/embed/uYyUSGxMayw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - python
+  - whisper
+builders:
+  - name: Dhruvi Kothari

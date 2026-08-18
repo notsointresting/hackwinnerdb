@@ -1,0 +1,26 @@
+id: kolana
+name: Kolana
+slug: kolana
+tagline: Kolana is the wallet that recognizes your friends. Point your phone at someone, say "pay
+  twenty bucks," and Solana handles the rest — no usernames, no wallet ad
+summary: "Kolana received the Best Use of Solana award at HackHCC: Code Runners in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/nandhanalahari/Larpus.git
+demo_url: null
+video_url: https://www.youtube.com/embed/NA6fsye41ig
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/413/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react-native
+  - solana
+  - typescript
+builders:
+  - name: Lokesh Penugonda
+  - name: Fawaz Jamshed
+  - name: Nandhan Alahari
+  - name: Arpit Khavate

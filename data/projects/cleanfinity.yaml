@@ -1,0 +1,25 @@
+id: cleanfinity
+name: Cleanfinity
+slug: cleanfinity
+tagline: The last thing anyone wants to worry about is cleanup. We handle that for you. Our robotic
+  system sorts away anything from hazardous materials to desk trash.
+summary: Cleanfinity received the Best Use of AMD Tech award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nekiwo/StarkHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/vW_dKjSqL08
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/503/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+  - python
+  - sqlite
+builders:
+  - name: Krish Konda
+  - name: Sai Mutyala
+  - name: Georgi Panchev
+  - name: Neerav Poluri

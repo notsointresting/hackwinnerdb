@@ -1,0 +1,24 @@
+id: rebound
+name: REBOUND
+slug: rebound
+tagline: REBOUND. Recover smarter. Bounce back stronger.
+summary: REBOUND received the AIR Health Internship award at HackHealth 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mzhang0213/hackhealth2026/tree/master
+demo_url: null
+video_url: https://www.youtube.com/embed/lyvcOC6pZxo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/470/640/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - javascript
+  - python
+  - react-native
+  - typescript
+builders:
+  - name: Phillips Le
+  - name: Michael Zhang
+  - name: Nghia Trang

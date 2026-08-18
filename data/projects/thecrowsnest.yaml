@@ -1,0 +1,21 @@
+id: thecrowsnest
+name: TheCrowsNest
+slug: thecrowsnest
+tagline: TheCrowsNest is a community-based, AI-powered platform. It allows students to upload and
+  view course-related documents, enabling tailored experiences for each E
+summary: TheCrowsNest received the 1st Place General Track award at ECU Spark in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TahubCS/TheCrowsNest
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/474/261/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: JacobGittHub Heminway

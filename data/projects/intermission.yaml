@@ -1,0 +1,19 @@
+id: intermission
+name: Intermission
+slug: intermission
+tagline: A pause before the scroll
+summary: "Intermission received the Track 2: Almost There, First Place award at CATALYST 2026: UI/UX
+  Designathon in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/nyPiL_P8MZA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/685/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: NEELESH ROY
+  - name: Annette Seo

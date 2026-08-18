@@ -1,0 +1,19 @@
+id: pickperfect
+name: PickPerfect
+slug: pickperfect
+tagline: Type your vibe. Skip the scroll. PickPerfect.
+summary: PickPerfect received the [Major League Hacking] Best Use of Gemini API award at Hack With
+  SWiCS in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Mardiat-Iman/WSWIcs-hack
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Iman Ibrahim

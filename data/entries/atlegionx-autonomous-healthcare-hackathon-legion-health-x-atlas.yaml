@@ -1,0 +1,14 @@
+id: atlegionx-autonomous-healthcare-hackathon-legion-health-x-atlas
+project_id: atlegionx
+hackathon_id: autonomous-healthcare-hackathon-legion-health-x-atlas
+submission_url: https://devpost.com/software/atlegionx
+source:
+  platform: devpost
+  url: https://devpost.com/software/atlegionx
+awards:
+  - type: first-place
+    title: First Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

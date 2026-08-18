@@ -1,0 +1,14 @@
+id: nativebook-claude-builder-club-hackathon
+project_id: nativebook
+hackathon_id: claude-builder-club-hackathon
+submission_url: https://devpost.com/software/nativebook
+source:
+  platform: devpost
+  url: https://devpost.com/software/nativebook
+awards:
+  - type: other
+    title: Claude Merch
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

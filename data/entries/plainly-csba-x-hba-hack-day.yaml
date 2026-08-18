@@ -1,0 +1,14 @@
+id: plainly-csba-x-hba-hack-day
+project_id: plainly
+hackathon_id: csba-x-hba-hack-day
+submission_url: https://devpost.com/software/plainly-x824ez
+source:
+  platform: devpost
+  url: https://devpost.com/software/plainly-x824ez
+awards:
+  - type: category-winner
+    title: Best Use of Featherless AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

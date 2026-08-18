@@ -1,0 +1,14 @@
+id: prism-sachacks-vii
+project_id: prism
+hackathon_id: sachacks-vii
+submission_url: https://devpost.com/software/prism-av20cw
+source:
+  platform: devpost
+  url: https://devpost.com/software/prism-av20cw
+awards:
+  - type: honorable-mention
+    title: Honorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

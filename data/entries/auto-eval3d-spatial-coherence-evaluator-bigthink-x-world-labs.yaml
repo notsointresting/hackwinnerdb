@@ -1,0 +1,14 @@
+id: auto-eval3d-spatial-coherence-evaluator-bigthink-x-world-labs
+project_id: auto-eval3d-spatial-coherence-evaluator
+hackathon_id: bigthink-x-world-labs
+submission_url: https://devpost.com/software/auto-eval3d-spatial-coherence-evaluator
+source:
+  platform: devpost
+  url: https://devpost.com/software/auto-eval3d-spatial-coherence-evaluator
+awards:
+  - type: category-winner
+    title: Best Scientific & Engineering Application
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

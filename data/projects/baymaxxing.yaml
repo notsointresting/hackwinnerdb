@@ -1,0 +1,23 @@
+id: baymaxxing
+name: Baymaxxing
+slug: baymaxxing
+tagline: This project's aim is to optimize the coverage of warehouse space in the most
+  cost-efficient possible.
+summary: Baymaxxing received the [Mecalux] 2nd place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/P-Santin/HACK2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/607/472/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Pelayo Santín Álvarez
+  - name: martaboix
+  - name: miquelsam
+  - name: Pau Milà

@@ -1,0 +1,20 @@
+id: matchlock
+name: MatchLock
+slug: matchlock
+tagline: Reveal nothing until it's mutual — private deal-matching on Midnight.
+summary: MatchLock received the Best Beginner Hack award at Midnight Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ThunderRoar/MatchLock
+demo_url: null
+video_url: https://www.youtube.com/embed/e53jswiXld4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/935/478/datas/gallery.jpg
+categories:
+  - blockchain
+technologies:
+  - docker
+  - react
+  - typescript
+builders:
+  - name: Shreyas Rao
+  - name: Tejas Rao

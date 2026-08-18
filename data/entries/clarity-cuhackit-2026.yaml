@@ -1,0 +1,18 @@
+id: clarity-cuhackit-2026
+project_id: clarity
+hackathon_id: cuhackit-2026
+submission_url: https://devpost.com/software/clarity-yn4hwx
+source:
+  platform: devpost
+  url: https://devpost.com/software/clarity-yn4hwx
+awards:
+  - type: other
+    title: "Core: Hack for Good"
+  - type: category-winner
+    title: "[MLH] Best Use of ElevenLabs"
+  - type: other
+    title: "Clemson School of Computing Capstone: Industry Impact Challenge"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

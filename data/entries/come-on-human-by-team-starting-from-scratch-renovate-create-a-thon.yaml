@@ -1,0 +1,14 @@
+id: come-on-human-by-team-starting-from-scratch-renovate-create-a-thon
+project_id: come-on-human-by-team-starting-from-scratch
+hackathon_id: renovate-create-a-thon
+submission_url: https://devpost.com/software/come-on-human-by-team-starting-from-scratch
+source:
+  platform: devpost
+  url: https://devpost.com/software/come-on-human-by-team-starting-from-scratch
+awards:
+  - type: other
+    title: Scratch - Sony Headphones
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

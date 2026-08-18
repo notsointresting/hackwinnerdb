@@ -1,0 +1,26 @@
+id: kairos-kos
+name: KAIROS KOS
+slug: kairos-kos
+tagline: AI that actually knows you. Connect your files, watch your knowledge become a 3D galaxy,
+  and get multi-perspective answers from agent swarm grounded in your act
+summary: KAIROS KOS received the [MLH] Best Use of Gemini API award at MorganHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/theaayushstha1/kairos-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/xl8ZSPaKRfE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/745/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - docker
+  - gemini
+  - postgresql
+  - python
+  - supabase
+  - typescript
+builders:
+  - name: Aayush Shrestha
+  - name: Mingma Lama
+  - name: Great-Anthony Umukoro
+  - name: Cameron Williams

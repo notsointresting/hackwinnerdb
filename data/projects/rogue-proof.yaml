@@ -1,0 +1,22 @@
+id: rogue-proof
+name: Rogue Proof
+slug: rogue-proof
+tagline: We love AI, everyone use's AI. But what happens if someone prompt injects your AI? What
+  information and data can you lose? Rogue Proof, how to protect your syst
+summary: Rogue Proof received the [MLH] Best Use of Gemini API award at HackMerced XI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DumDumSu/rogueproof
+demo_url: null
+video_url: https://www.youtube.com/embed/VMUW1V9LY5Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/051/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - gemini
+  - python
+builders:
+  - name: Brian Su
+  - name: John Clarke

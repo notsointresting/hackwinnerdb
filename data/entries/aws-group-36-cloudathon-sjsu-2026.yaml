@@ -1,0 +1,14 @@
+id: aws-group-36-cloudathon-sjsu-2026
+project_id: aws-group-36
+hackathon_id: cloudathon-sjsu-2026
+submission_url: https://devpost.com/software/project-vk3izn
+source:
+  platform: devpost
+  url: https://devpost.com/software/project-vk3izn
+awards:
+  - type: other
+    title: Honarary Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: lily-memo-dsh-hacks-v1
+project_id: lily-memo
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/lily-memo
+source:
+  platform: devpost
+  url: https://devpost.com/software/lily-memo
+awards:
+  - type: first-place
+    title: 1st Place
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - Aniko.ai
+  - type: other
+    title: Special Awards - Crackd.it
+  - type: other
+    title: Special Awards - InterviewCake
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

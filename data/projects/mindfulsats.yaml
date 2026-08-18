@@ -1,0 +1,19 @@
+id: mindfulsats
+name: MindfulSats
+slug: mindfulsats
+tagline: Where your goals meet real accountability
+summary: MindfulSats received the Honorable Mentions award at Bitcoin++ Open Source Edition in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TonyNakamoto/MindfulSats
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/468/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Tony Nakamoto

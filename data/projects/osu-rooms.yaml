@@ -1,0 +1,22 @@
+id: osu-rooms
+name: OSU Rooms
+slug: osu-rooms
+tagline: An app that lets users see classrooms/labs/lecture halls they may have used at OSU and rank
+  their overall experience with them. A tool for OSU students.
+summary: OSU Rooms received the Amazon Gift Cards award at GDG Winter 2026 Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bobjoerules/osu-rooms
+demo_url: null
+video_url: https://www.youtube.com/embed/ye7mpnkQkVM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/398/157/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+  - react-native
+  - typescript
+builders:
+  - name: Miles Chase

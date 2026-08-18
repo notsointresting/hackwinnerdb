@@ -1,0 +1,25 @@
+id: elderwatch
+name: ElderWatch
+slug: elderwatch
+tagline: Sometimes we need a helping hand in taking care of our loved ones.
+summary: ElderWatch received the [MLH] Best Use of Snowflake API award at HackUSF 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Humbertxx/hack_usf
+demo_url: null
+video_url: https://www.youtube.com/embed/WgvDVIN2REs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/728/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - sql
+builders:
+  - name: Kevin Rodriguez
+  - name: Anthony Calabrese
+  - name: Humberto Bohorquez
+  - name: abSWU Barsoum

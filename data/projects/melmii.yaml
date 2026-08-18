@@ -1,0 +1,22 @@
+id: melmii
+name: MELMII
+slug: melmii
+tagline: Sight for all
+summary: MELMII received the Internship @ Global NGO Executive Committee (GNEC) award at GNEC
+  Hackathon 2026 Spring - Compete For UN-Affiliated/NGO Internships & Prizes in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Alex-likes-owls/Object-detection
+demo_url: null
+video_url: https://www.youtube.com/embed/TLW2xhWSNpQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/640/065/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - yolo
+builders:
+  - name: Tselmeg Uranchimeg
+  - name: Onis Soyol-Erdene

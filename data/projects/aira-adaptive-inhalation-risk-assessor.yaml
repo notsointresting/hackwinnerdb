@@ -1,0 +1,25 @@
+id: aira-adaptive-inhalation-risk-assessor
+name: AIRA - Adaptive Inhalation Risk Assessor
+slug: aira-adaptive-inhalation-risk-assessor
+tagline: Medicine has always relied on careful listening. AIRA is a low cost breathing monitor that
+  detects irregular breathing in real time and gives voice alerts to ma
+summary: AIRA - Adaptive Inhalation Risk Assessor received the [MLH] Best Use of Vultr award at
+  WEHack 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/varshashash5/AIRA
+demo_url: null
+video_url: https://www.youtube.com/embed/kdIs4rqVNNc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/138/datas/gallery.jpg
+categories:
+  - healthcare
+  - accessibility
+technologies:
+  - arduino
+  - elevenlabs
+  - flask
+  - python
+builders:
+  - name: Shradha Gupta
+  - name: Varsha Shashishekar
+  - name: Waziha Khan

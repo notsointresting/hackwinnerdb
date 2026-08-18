@@ -1,0 +1,19 @@
+id: carebridge
+name: CareBridge
+slug: carebridge
+tagline: Where family intuition meets clinical care . Creating a direct, real-time lifeline between
+  families and healthcare providers to ensure early intervention and pr
+summary: CareBridge received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Pritam-pixel-coder/SDG-3
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/866/095/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - react
+builders:
+  - name: Pritam Chanda

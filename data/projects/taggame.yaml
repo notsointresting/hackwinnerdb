@@ -1,0 +1,23 @@
+id: taggame
+name: TagGame
+slug: taggame
+tagline: Imagine Google Street View ,but it's a game.You and your friends are dropped into a
+  real-world 3D environment, not a cartoon, not a map, an actual photorealisti
+summary: TagGame received the Best Game award at BigThink x World Labs in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/suryaprasath07/big-think-game
+demo_url: null
+video_url: https://www.youtube.com/embed/rQKOC_iFUrE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/563/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - nextjs
+builders:
+  - name: Bala Swapnika Gopi
+  - name: Harshitha Gaddambachahalli Raghukumar
+  - name: Mounika Teppola
+  - name: Surya Prasath Jayakumar

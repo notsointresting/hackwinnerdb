@@ -1,0 +1,24 @@
+id: leaf-lens
+name: Leaf Lens
+slug: leaf-lens
+tagline: Helping farmers detect plant diseases early with the power of AI
+summary: Leaf Lens received the Participation Certificate award at CodeNova 2026 – National AI &
+  Innovation Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/aZgFxX-0bVU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/041/536/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Jeeva Jothi J
+  - name: Keerthana_Shree_ V
+  - name: Jeevika Jeevika
+  - name: mithra rajkumar

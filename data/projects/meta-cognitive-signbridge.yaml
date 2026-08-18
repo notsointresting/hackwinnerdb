@@ -1,0 +1,21 @@
+id: meta-cognitive-signbridge
+name: Meta-Cognitive SignBridge
+slug: meta-cognitive-signbridge
+tagline: Medical-grade multimodal AI platform for the DHH community—real-time sign language
+  translation, emergency communication, and legal document accessibility powere
+summary: Meta-Cognitive SignBridge received the Best Idea award at Sound for All in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DurveshGawade/META-COGNITIVE-MIRROR.git
+demo_url: null
+video_url: https://www.youtube.com/embed/j9HJV-C4hhY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/833/758/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - accessibility
+technologies:
+  - gemini
+  - react
+  - typescript
+builders: []

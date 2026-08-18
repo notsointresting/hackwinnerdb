@@ -1,0 +1,27 @@
+id: cortex
+name: Cortex
+slug: cortex
+tagline: A predictive career pathfinding engine that turns fragmented campus data into a
+  personalized, interactive student roadmap
+summary: Cortex received the [SPONSOR] Nebula Labs award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Blizzyboii/hackai26
+demo_url: null
+video_url: https://www.youtube.com/embed/Gt2-FpDb_GA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/437/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: Priti See
+  - name: Sahas Sharma
+  - name: Anish Reddy Alle
+  - name: Sunay Shehaan

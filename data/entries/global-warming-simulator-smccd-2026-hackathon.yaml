@@ -1,0 +1,14 @@
+id: global-warming-simulator-smccd-2026-hackathon
+project_id: global-warming-simulator
+hackathon_id: smccd-2026-hackathon
+submission_url: https://devpost.com/software/global-warming-simulator
+source:
+  platform: devpost
+  url: https://devpost.com/software/global-warming-simulator
+awards:
+  - type: second-place
+    title: "Embedded Systems Track: 2nd place: $50 Amazon Gift card (per team member)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

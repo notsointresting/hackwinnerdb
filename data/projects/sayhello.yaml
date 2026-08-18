@@ -1,0 +1,21 @@
+id: sayhello
+name: SayHello!
+slug: sayhello
+tagline: GTM Harness that enriches the story behind every lead, before you even say hello
+summary: "SayHello! received the Conquer with Context: Best Use of Airbyte's Agent Engine award at
+  Harness Engineering Hack in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Jshengdev/sayhello
+demo_url: null
+video_url: https://www.youtube.com/embed/Ny0pZNd9jR4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/763/856/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+builders:
+  - name: Johnny Sheng
+  - name: johnny sheng

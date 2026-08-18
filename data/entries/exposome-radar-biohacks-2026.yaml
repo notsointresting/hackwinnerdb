@@ -1,0 +1,14 @@
+id: exposome-radar-biohacks-2026
+project_id: exposome-radar
+hackathon_id: biohacks-2026
+submission_url: https://devpost.com/software/exposome-radar
+source:
+  platform: devpost
+  url: https://devpost.com/software/exposome-radar
+awards:
+  - type: other
+    title: Lava Lamp
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

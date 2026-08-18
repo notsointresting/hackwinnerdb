@@ -1,0 +1,16 @@
+id: island-adventure-hackku26
+project_id: island-adventure
+hackathon_id: hackku26
+submission_url: https://devpost.com/software/island-adventure
+source:
+  platform: devpost
+  url: https://devpost.com/software/island-adventure
+awards:
+  - type: other
+    title: Hacker’s Choice Award
+  - type: other
+    title: Security Benefit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

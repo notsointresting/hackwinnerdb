@@ -1,0 +1,22 @@
+id: coder
+name: Coder
+slug: coder
+tagline: Coder is an automated multi-agent AI software engineer that converts natural language into
+  production-ready projects through planner,architect,coder,reviewer,fi
+summary: Coder received the All participant get 1 month of free snap2measure api award at Measure up
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RajanyaSaha-27/Coder
+demo_url: null
+video_url: https://www.youtube.com/embed/a
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/020/188/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - groq
+  - javascript
+  - langchain
+  - python
+  - react
+builders:
+  - name: Rajanya Saha

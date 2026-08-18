@@ -1,0 +1,26 @@
+id: proxy-agentic-ai-for-consumer-justice
+name: PROXY — Agentic AI for Consumer Justice
+slug: proxy-agentic-ai-for-consumer-justice
+tagline: Autonomous multi-agent AI that investigates disputes across 8 domains, self-corrects
+  hallucinations, verifies every citation, and drafts ready-to-send appeals —
+summary: PROXY — Agentic AI for Consumer Justice received the 3rd Prize award at Aethera Hacks in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rakeshselvaraj0108/Proxy
+demo_url: null
+video_url: https://www.youtube.com/embed/M_n-Z1yxMUg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/897/818/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - consumer
+technologies:
+  - docker
+  - fastapi
+  - langchain
+  - nextjs
+  - python
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Rakesh S

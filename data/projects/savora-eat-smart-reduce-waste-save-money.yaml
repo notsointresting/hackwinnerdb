@@ -1,0 +1,22 @@
+id: savora-eat-smart-reduce-waste-save-money
+name: Savora - Eat Smart. Reduce waste. Save money.
+slug: savora-eat-smart-reduce-waste-save-money
+tagline: Savora is an AI-powered food assistant that helps you decide what to cook and what to use
+  first, reducing waste and saving money.
+summary: Savora - Eat Smart. Reduce waste. Save money. received the Best Sustainability Project
+  award at Scarlet Hacks in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Leelavathi-R/Savora
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/532/991/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Leelavathi Raja

@@ -1,0 +1,22 @@
+id: rgb-led-the-rgb-stands-for-rube-goldberg
+name: RGB LED (The RGB stands for Rube GoldBerg)
+slug: rgb-led-the-rgb-stands-for-rube-goldberg
+tagline: A basic LED‑on‑button idea evolved into a multi‑component setup involving fans, sensors,
+  Discord bots communicating with each other, and Twitch colour detection
+summary: RGB LED (The RGB stands for Rube GoldBerg) received the [Hackathons UK] Hackiest Hack award
+  at SotonHack in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/443/673/datas/medium.png
+categories:
+  - other
+technologies:
+  - python
+  - raspberry-pi
+builders:
+  - name: Tashifeen Ahmad
+  - name: miles campbell
+  - name: Theo Walsh

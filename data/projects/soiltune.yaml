@@ -1,0 +1,25 @@
+id: soiltune
+name: SoilTune
+slug: soiltune
+tagline: Farmers lose up to 75% of their yield to guesswork. SoilTune reads your soil live and turns
+  it into an strategic plan.
+summary: SoilTune received the Loveable x HackTech - Best use of Lovable award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/sat-malla/soiltune-hacktech-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/T-HqT7hshOI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/691/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - langchain
+  - supabase
+builders:
+  - name: Vincent Hsiao
+  - name: Aaron H
+  - name: Sathvik Malla
+  - name: Kedar Vanikar

@@ -1,0 +1,20 @@
+id: turing-blend
+name: Turing Blend
+slug: turing-blend
+tagline: A reverse Turing Test social deduction game where you’re the only human trying to pass as AI.
+summary: Turing Blend received the [MLH] Best Use of Gemini API award at MPC Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/th3maxspe3d/turing-blend-game
+demo_url: null
+video_url: https://www.youtube.com/embed/tm_P11gH7PY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/662/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - gaming
+technologies:
+  - react
+builders:
+  - name: Ali Meguellati
+  - name: Cheela-Zz Zhu
+  - name: Maxim Qu

@@ -1,0 +1,23 @@
+id: the-unspillable
+name: The Unspillable
+slug: the-unspillable
+tagline: We built an affordable, self-stabilizing smart spoon. By instantly counteracting hand
+  tremors with a 2-axis sensor-motor system, we help Parkinson's and essenti
+summary: The Unspillable received the Best Hardware Hack - Bitcamp award at Bitcamp 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/7ixI50nMe54
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/566/293/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: Han Lin
+  - name: S4ndman10
+  - name: Chris Beegan

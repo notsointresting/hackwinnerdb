@@ -1,0 +1,14 @@
+id: alwaysthere-the-vakathon
+project_id: alwaysthere
+hackathon_id: the-vakathon
+submission_url: https://devpost.com/software/alwaysthere
+source:
+  platform: devpost
+  url: https://devpost.com/software/alwaysthere
+awards:
+  - type: first-place
+    title: First place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

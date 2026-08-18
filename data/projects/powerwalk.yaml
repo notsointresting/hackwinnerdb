@@ -1,0 +1,24 @@
+id: powerwalk
+name: Powerwalk
+slug: powerwalk
+tagline: Wearable that prevents falls in seniors by rerouting foot sensation to the calf.
+summary: Powerwalk received the Analog Devices Sensor Fusion award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/n0KDcd0AQXs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/863/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - esp32
+  - javascript
+  - python
+builders:
+  - name: Sherry Li
+  - name: Apoorva Saurav
+  - name: Hudson Etkin
+  - name: Rohan Bala

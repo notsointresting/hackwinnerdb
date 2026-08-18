@@ -1,0 +1,14 @@
+id: national-park-guardian-ai-2c-wildhack
+project_id: national-park-guardian-ai-2c
+hackathon_id: wildhack
+submission_url: https://devpost.com/software/national-park-guardian-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/national-park-guardian-ai
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

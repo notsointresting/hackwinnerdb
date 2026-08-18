@@ -1,0 +1,20 @@
+id: pq-liquid-wallet
+name: PQ Liquid Wallet
+slug: pq-liquid-wallet
+tagline: A Liquid wallet that signs and spends with hash-based, quantum-resistant signatures built
+  on Simplicity, funded and tested on Liquid Testnet.
+summary: PQ Liquid Wallet received the First place award at Blockstream Turin Simplicity Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BlockstreamResearch/shrincs-simplicity-verifier
+demo_url: null
+video_url: https://www.youtube.com/embed/ssSqu7b5z9A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/677/605/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - rust
+builders:
+  - name: silvio meneguzzo
+  - name: Nicola Sorbetto

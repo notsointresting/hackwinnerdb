@@ -1,0 +1,20 @@
+id: civos
+name: CivOS
+slug: civos
+tagline: CivOS is a simulation system that lets users stress-test civilization-scale decisions
+  through stochastic scenario modeling before real-world deployment.
+summary: CivOS received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/864/595/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Isaac Lu

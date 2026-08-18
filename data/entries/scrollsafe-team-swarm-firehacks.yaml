@@ -1,0 +1,14 @@
+id: scrollsafe-team-swarm-firehacks
+project_id: scrollsafe-team-swarm
+hackathon_id: firehacks
+submission_url: https://devpost.com/software/scrollsafe-9xb8ah
+source:
+  platform: devpost
+  url: https://devpost.com/software/scrollsafe-9xb8ah
+awards:
+  - type: track-winner
+    title: R&I track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

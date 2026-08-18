@@ -1,0 +1,19 @@
+id: lore-hexalovers
+name: Lore Hexalovers
+slug: lore-hexalovers
+tagline: Nuestra solución.
+summary: Lore Hexalovers received the Creative Logic Award award at HackHexa in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/camsanu/hackhexa-team-lorehexalovers
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: Cam Sandoval
+  - name: Ahn-cell SALGADO
+  - name: VICTORIA GARCIA
+  - name: gabrielle-2008

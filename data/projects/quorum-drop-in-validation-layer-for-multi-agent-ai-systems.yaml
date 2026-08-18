@@ -1,0 +1,26 @@
+id: quorum-drop-in-validation-layer-for-multi-agent-ai-systems
+name: "Quorum : drop-in validation layer for multi-agent AI Systems"
+slug: quorum-drop-in-validation-layer-for-multi-agent-ai-systems
+tagline: Quorum is a validation layer for multi-agent AI systems, running on platforms like
+  Fetch.ai's ASI:One - that prevents upstream hallucinations from cascading int
+summary: "Quorum : drop-in validation layer for multi-agent AI Systems received the Best Use of The
+  Agentverse by Fetch AI award at UC Berkeley AI Hackathon 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/mohiitt/Quorum
+demo_url: null
+video_url: https://www.youtube.com/embed/8BivgXe7MMM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/806/197/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - fastapi
+  - python
+  - redis
+  - typescript
+builders:
+  - name: Mansi Gupta
+  - name: Jainil Narendrakumar Rana
+  - name: Mohit Manoj Barade

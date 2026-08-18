@@ -1,0 +1,19 @@
+id: splain
+name: Splain
+slug: splain
+tagline: Don't just study it. Splain it.
+summary: Splain received the Merit Award award at AI for Learning & Development Build Challenge — AI
+  Collective HR + Regent in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3rAF7ktE07o
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Sade’ Deschamps

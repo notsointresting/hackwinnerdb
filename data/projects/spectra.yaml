@@ -1,0 +1,25 @@
+id: spectra
+name: SPECTRA
+slug: spectra
+tagline: Turning iPhone's $25 LiDAR into industrial-grade dense depth maps. On-device, real-time, no cloud.
+summary: "SPECTRA received the Track: Flicker To Flow award at LA Hacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/M_QiPFWFkys
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/329/datas/gallery.jpg
+categories:
+  - social-impact
+  - cloud
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - pytorch
+  - swift
+builders:
+  - name: Ajay Shah
+  - name: Benjamin Jiang
+  - name: Junfeng Lin
+  - name: William Wang

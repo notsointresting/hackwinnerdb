@@ -1,0 +1,17 @@
+id: gobuddygo
+name: GoBuddyGo
+slug: gobuddygo
+tagline: GoBuddyGo is a mobile application that creates a fun, shared activity that can be enjoyed
+  by GoBabyGo drivers and their siblings!
+summary: GoBuddyGo received the Legos award at HACK THE WU in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/aXD8bHWNOko
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/337/datas/gallery.jpg
+categories:
+  - education
+technologies: []
+builders:
+  - name: Andy Nguyen

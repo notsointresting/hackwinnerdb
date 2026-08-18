@@ -1,0 +1,14 @@
+id: jasm-ai-deepcare-deep-agents-hackathon
+project_id: jasm-ai-deepcare
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/jasm-ai-deepcare
+source:
+  platform: devpost
+  url: https://devpost.com/software/jasm-ai-deepcare
+awards:
+  - type: category-winner
+    title: Most Ab-Norm-al use of Bland
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

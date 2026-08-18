@@ -1,0 +1,24 @@
+id: sudbury-connect
+name: Sudbury Connect
+slug: sudbury-connect
+tagline: Sudbury Connect is a bilingual, fully accessible directory that instantly connects seniors,
+  students, and kids to local food, mental health, or legal aid in jus
+summary: Sudbury Connect received the Best UI/UX award at Cursor Hackathon Sudbury in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mollyviau/sudbury-connect
+demo_url: null
+video_url: https://www.youtube.com/embed/c4cG5knvhEQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/834/052/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - accessibility
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Molly Viau
+  - name: Audrey Goudi
+  - name: Alex Yator

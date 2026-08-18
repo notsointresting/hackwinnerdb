@@ -1,0 +1,23 @@
+id: crisisgrid
+name: CrisisGrid
+slug: crisisgrid
+tagline: CrisisGrid helps emergency teams rank crisis incidents, assign scarce resources, and reduce
+  response ETA with live maps, optimization, and AI command briefs.
+summary: CrisisGrid received the First Place Winner award at Design4Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/m40ma0/CrisisGrid
+demo_url: null
+video_url: https://www.youtube.com/embed/QVVCGfFQzd8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/521/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Liang Ang Yee

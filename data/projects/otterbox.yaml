@@ -1,0 +1,22 @@
+id: otterbox
+name: OtterBox
+slug: otterbox
+tagline: OtterBox is an AI social network. Your personal agent coordinates calendars, notes, and
+  social graphs with friends' agents to seamlessly schedule events and del
+summary: OtterBox received the Best AI Hack award at Synthesis Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/flappybird1084/otter-agent
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/544/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Avinash Senthil
+  - name: Rian Butala
+  - name: Tyler Cruz
+  - name: hunterisaac Li

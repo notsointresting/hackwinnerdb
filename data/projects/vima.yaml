@@ -1,0 +1,26 @@
+id: vima
+name: vima.
+slug: vima
+tagline: visual intelligence for multimodal annotation
+summary: vima. received the Ironsite x HackTech - Cash Prize award at Hacktech by Caltech 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/philip-chen6/vima
+demo_url: null
+video_url: https://www.youtube.com/embed/G9wj1YA0DYI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/883/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - fastapi
+  - gemini
+  - python
+  - solana
+builders:
+  - name: joshua  lin
+  - name: Philip Chen
+  - name: lucas-309 He
+  - name: stephen hung

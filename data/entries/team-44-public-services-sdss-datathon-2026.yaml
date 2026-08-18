@@ -1,0 +1,14 @@
+id: team-44-public-services-sdss-datathon-2026
+project_id: team-44-public-services
+hackathon_id: sdss-datathon-2026
+submission_url: https://devpost.com/software/public_services-data-file
+source:
+  platform: devpost
+  url: https://devpost.com/software/public_services-data-file
+awards:
+  - type: category-winner
+    title: Best Insights
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

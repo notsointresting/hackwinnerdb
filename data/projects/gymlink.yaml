@@ -1,0 +1,24 @@
+id: gymlink
+name: GymLink
+slug: gymlink
+tagline: GymLink is a social fitness and workout tracking app designed for weightlifters and gym
+  enthusiasts. It combines detailed exercise logging with competitive soci
+summary: GymLink received the 2nd Place award at HACKMESA 2.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VicL0656/HackMESA-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Q-lSmhU--q4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/014/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+technologies:
+  - claude
+  - javascript
+  - python
+builders:
+  - name: VicL0656 Lopez
+  - name: valenest001
+  - name: Christopher Hernandez
+  - name: Juan

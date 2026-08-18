@@ -1,0 +1,20 @@
+id: toot
+name: toot
+slug: toot
+tagline: No Tower! No internet! No servers! - Your complete offline messaging solution
+summary: toot received the 1st Place - General Challenge award at MPC Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DubeSebastien90/BluetoothPropagationMPC
+demo_url: null
+video_url: https://www.youtube.com/embed/kFMCiqk6QuA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/385/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - kotlin
+  - react-native
+builders:
+  - name: Sébastien Dubé
+  - name: David Mosquera
+  - name: Lamine Gueye

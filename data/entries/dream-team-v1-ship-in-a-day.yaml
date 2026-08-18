@@ -1,0 +1,14 @@
+id: dream-team-v1-ship-in-a-day
+project_id: dream-team-v1
+hackathon_id: ship-in-a-day
+submission_url: https://devpost.com/software/dream-team-v1
+source:
+  platform: devpost
+  url: https://devpost.com/software/dream-team-v1
+awards:
+  - type: third-place
+    title: 3rd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

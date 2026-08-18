@@ -1,0 +1,25 @@
+id: ally-ai
+name: Ally AI
+slug: ally-ai
+tagline: Ally is an emotionally intelligent AI companion that remembers you, understands your
+  feelings, and offers support that feels personal, consistent, and human.
+summary: Ally AI received the 2nd Place Prize award at UW Tech Exploration Lab Digital Health
+  Challenge in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1e_u2OZiBiw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/541/768/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Adnan Fazulbhoy
+  - name: Sanjit Saji

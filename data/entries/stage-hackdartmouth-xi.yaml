@@ -1,0 +1,18 @@
+id: stage-hackdartmouth-xi
+project_id: stage
+hackathon_id: hackdartmouth-xi
+submission_url: https://devpost.com/software/stage-uw07ol
+source:
+  platform: devpost
+  url: https://devpost.com/software/stage-uw07ol
+awards:
+  - type: other
+    title: Nintendo Switch
+  - type: other
+    title: Razor/Logtiech Gaming Mouse
+  - type: category-winner
+    title: MLH || Best Use of Gemini API || Google Swag Kits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,27 @@
+id: offres-plus-offpay
+name: OFFRes + OFFPay
+slug: offres-plus-offpay
+tagline: OFFRes + OFFPay is a disaster-ready survival system enabling offline payments, resource
+  mapping, and AI assistance—keeping communities connected, secure, and op
+summary: OFFRes + OFFPay received the Capital One Track award at Vandyhacks XII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chrisguzman77/OffRes
+demo_url: null
+video_url: https://www.youtube.com/embed/3rGQIKwkFLA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/487/025/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: George Dorton IV
+  - name: Christopher Guzman
+  - name: Viet Nguyen
+  - name: Aden Kallery

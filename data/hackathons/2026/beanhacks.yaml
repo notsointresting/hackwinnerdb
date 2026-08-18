@@ -1,0 +1,14 @@
+id: beanhacks
+name: BeanHacks
+slug: beanhacks
+organizer: []
+year: 2026
+sources:
+  - https://beanhacks.devpost.com/
+  - https://beanhacks.devpost.com/project-gallery?filter=winner
+website_url: https://beanhacks.devpost.com/
+platform: devpost
+participant_count: 37
+prize_pool: null
+currency: null
+description: "Devpost hackathon: BeanHacks. Imported automatically."

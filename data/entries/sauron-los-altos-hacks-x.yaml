@@ -1,0 +1,14 @@
+id: sauron-los-altos-hacks-x
+project_id: sauron
+hackathon_id: los-altos-hacks-x
+submission_url: https://devpost.com/software/sauron-sfbc74
+source:
+  platform: devpost
+  url: https://devpost.com/software/sauron-sfbc74
+awards:
+  - type: second-place
+    title: "[Palantir] Best Use of Palantir AIP – 2nd Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

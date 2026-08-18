@@ -1,0 +1,25 @@
+id: projectdna
+name: ProjectDNA
+slug: projectdna
+tagline: Students spend hundreds of hours building projects, but employers only see a resume.
+  ProjectDNA bridges that gap.
+summary: ProjectDNA received the Third Place award at Hoobit Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/praventhika02/ProjectDNA
+demo_url: null
+video_url: https://www.youtube.com/embed/5jv6wheDW3E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/821/096/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - figma
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Raghavan Praventhika
+  - name: Iniyan
+  - name: Venkatesan Mithreyan

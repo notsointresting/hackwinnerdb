@@ -1,0 +1,14 @@
+id: handoff-slack-agent-builder-challenge
+project_id: handoff
+hackathon_id: slack-agent-builder-challenge
+submission_url: https://devpost.com/software/carebridge-4vm7on
+source:
+  platform: devpost
+  url: https://devpost.com/software/carebridge-4vm7on
+awards:
+  - type: category-winner
+    title: Most Innovative Slack Agent
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

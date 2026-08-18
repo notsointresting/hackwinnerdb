@@ -1,0 +1,25 @@
+id: google-meet-premium-autonomous-meeting-autopilot
+name: "Google Meet Premium: Autonomous Meeting Autopilot"
+slug: google-meet-premium-autonomous-meeting-autopilot
+tagline: No one likes pointless meetings. Google Meet Premium is an autonomous autopilot that
+  prevents context switching. Uses real time sentiment analysis to immediatel
+summary: "Google Meet Premium: Autonomous Meeting Autopilot received the Best Use of DigitalOcean
+  award at Multimodal Frontier Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/stevenybusiness-svg/google-multimodal-hackathon-sf
+demo_url: null
+video_url: https://www.youtube.com/embed/uXlNxxF_lr4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - gemini
+  - google-cloud
+  - javascript
+  - python
+builders:
+  - name: Steven Yang

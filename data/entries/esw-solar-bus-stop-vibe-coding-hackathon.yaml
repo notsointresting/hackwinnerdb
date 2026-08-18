@@ -1,0 +1,14 @@
+id: esw-solar-bus-stop-vibe-coding-hackathon
+project_id: esw-solar-bus-stop
+hackathon_id: vibe-coding-hackathon
+submission_url: https://devpost.com/software/esw-solar-bus-stop
+source:
+  platform: devpost
+  url: https://devpost.com/software/esw-solar-bus-stop
+awards:
+  - type: other
+    title: ESW Favorite
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

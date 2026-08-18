@@ -1,0 +1,19 @@
+id: satiate
+name: Satiate
+slug: satiate
+tagline: Satiate acts as a digital speed bump for junk food cravings. It blocks unhealthy sites
+  until you score >90% on an SDG 3 quiz, turning impulsive clicks into heal
+summary: Satiate received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Amaterus1125/Satiate
+demo_url: null
+video_url: https://www.youtube.com/embed/QY0KJWBcR20
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/409/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Harshit Sharma

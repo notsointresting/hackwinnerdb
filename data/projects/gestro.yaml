@@ -1,0 +1,19 @@
+id: gestro
+name: gestro
+slug: gestro
+tagline: The world's first browser-based paint studio where you draw with your hands and get
+  inspired by AI. No brushes. No tablets. No stylus. Just your webcam and your
+summary: gestro received the JBL Bluetooth Speakers award at HackUP in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bazarkua/gestro
+demo_url: null
+video_url: https://www.youtube.com/embed/RmLCBObq6vY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/284/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - firebase
+  - typescript
+builders:
+  - name: Adilbek Bazarkulov

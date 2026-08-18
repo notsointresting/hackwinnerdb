@@ -1,0 +1,26 @@
+id: launchgate-ai
+name: LaunchGate AI
+slug: launchgate-ai
+tagline: LaunchGate AI is an AI-powered release governance platform that uses collaborative
+  specialist agents to review software releases, identify risks, and generate a
+summary: LaunchGate AI received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aditya-myst/LaunchGateAI
+demo_url: null
+video_url: https://www.youtube.com/embed/Y6XbOQnC1To
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/863/839/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - fastapi
+  - langchain
+  - openai
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: codeviAditya Aditya kumar jha

@@ -1,0 +1,20 @@
+id: filter
+name: Filter
+slug: filter
+tagline: Filter is an opensource PR spam checker that flags low-quality and AI-generated pull request spam.
+summary: Filter received the Solve Open Source Contribution Spam award at Bitcoin++ Open Source
+  Edition in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Johnosezele/filter
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/894/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: John Osezele

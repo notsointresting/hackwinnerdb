@@ -1,0 +1,23 @@
+id: localpulse-business-insights
+name: LocalPulse - Business Insights
+slug: localpulse-business-insights
+tagline: LocalPulse helps small shops by scanning Google/Yelp reviews, revealing what customers love
+  or hate so they can fix critical flaws and thrive in this data drive
+summary: LocalPulse - Business Insights received the Productivity Booster award at ML Empowerment
+  Build Challenge in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Cashlin3/LocalPulse-AI-Automated-Local-Business-Review-Classification-System
+demo_url: null
+video_url: https://www.youtube.com/embed/xvPr_FKDEU0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/777/293/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - java
+  - python
+  - streamlit
+builders:
+  - name: Mano Rakshitha
+  - name: Cashlin C

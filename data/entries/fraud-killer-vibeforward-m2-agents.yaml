@@ -1,0 +1,14 @@
+id: fraud-killer-vibeforward-m2-agents
+project_id: fraud-killer
+hackathon_id: vibeforward-m2-agents
+submission_url: https://devpost.com/software/fraud-killer
+source:
+  platform: devpost
+  url: https://devpost.com/software/fraud-killer
+awards:
+  - type: second-place
+    title: 2nd Runner-Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

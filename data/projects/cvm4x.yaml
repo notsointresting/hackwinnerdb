@@ -1,0 +1,26 @@
+id: cvm4x
+name: CVM4X
+slug: cvm4x
+tagline: Smart home security camera that uses object detection to automate the process of viewing
+  footage and sending alerts
+summary: CVM4X received the AI/ML Hack Challenge award at Rutgers IEEE X HART Build-a-thon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anethula/IEEExRUHART26
+demo_url: null
+video_url: https://www.youtube.com/embed/A0gpIwoOT50
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/124/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - opencv
+  - postgresql
+  - python
+builders:
+  - name: Arnav Nethula
+  - name: Preeyam Shah

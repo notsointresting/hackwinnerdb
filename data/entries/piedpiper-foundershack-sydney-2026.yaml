@@ -1,0 +1,14 @@
+id: piedpiper-foundershack-sydney-2026
+project_id: piedpiper
+hackathon_id: foundershack-sydney-2026
+submission_url: https://devpost.com/software/piedpiper
+source:
+  platform: devpost
+  url: https://devpost.com/software/piedpiper
+awards:
+  - type: first-place
+    title: 1st Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

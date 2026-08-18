@@ -1,0 +1,22 @@
+id: streammaps
+name: StreamMaps
+slug: streammaps
+tagline: StreamMaps is a map based web app that estimates how much upstream habitat each
+  river/stream barrier blocks.
+summary: StreamMaps received the 2nd Place award at WildHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/213/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Max Chtcherbatchenko
+  - name: Arnav Jha
+  - name: Pratham Balaji
+  - name: Sidhaanth Kapoor

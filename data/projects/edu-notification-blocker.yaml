@@ -1,0 +1,18 @@
+id: edu-notification-blocker
+name: edu-notification-blocker
+slug: edu-notification-blocker
+tagline: Trying to study and don't want to silence notifications manually? Be lazy with us!
+summary: edu-notification-blocker received the 1st Place Overall award at BigRedHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/matthewrackley/edu-notification-blocker
+demo_url: null
+video_url: https://www.youtube.com/embed/lLGoUW8vyRA
+image_url: null
+categories:
+  - ar-vr
+  - gaming
+technologies:
+  - typescript
+builders:
+  - name: Matthew Rackley

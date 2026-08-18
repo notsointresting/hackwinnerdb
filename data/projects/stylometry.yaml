@@ -1,0 +1,22 @@
+id: stylometry
+name: STYLOMETRY
+slug: stylometry
+tagline: "STYLOMETRY: The forensic guardrail for your GitLab pipeline"
+summary: STYLOMETRY received the GitLab - 2nd Place award at Google Cloud Rapid Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/annatchijova/stylometry
+demo_url: null
+video_url: https://www.youtube.com/embed/yrocVxE7qXE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/736/359/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - sqlite
+builders:
+  - name: Olga Vasilieva
+  - name: Anna Tchijova

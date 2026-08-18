@@ -1,0 +1,21 @@
+id: siap
+name: Siap
+slug: siap
+tagline: Siap turns application packs into cited eligibility checks and an ordered action plan using
+  four confidential Chutes AI agents, without retaining raw documents.
+summary: Siap received the University - 2nd Place award at Chutes Hack Malaysia 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zT1BgMpxJE8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/850/835/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Ahmed Ashraf

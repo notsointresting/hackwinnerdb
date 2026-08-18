@@ -1,0 +1,16 @@
+id: lumina-ai
+name: Lumina Ai
+slug: lumina-ai
+tagline: ai travelling companion
+summary: Lumina Ai received the Grand Winner award at Hack with AI in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/i6LKGhzzJxk
+image_url: null
+categories:
+  - artificial-intelligence
+technologies: []
+builders:
+  - name: Shashank Dwivedi

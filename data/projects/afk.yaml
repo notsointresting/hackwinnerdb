@@ -1,0 +1,21 @@
+id: afk
+name: AFK
+slug: afk
+tagline: Away From Keyboard. Literally. Finally.
+summary: AFK received the [MLH] Best Use of ElevenLabs award at cmd-f 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jessicapatricia012/AFK-Chrome-Extension.git
+demo_url: null
+video_url: https://www.youtube.com/embed/i4Z_jDbsMF4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/864/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - javascript
+builders:
+  - name: Jennifer Saphira Evani Tjen
+  - name: Jennifer Olive Tanojo
+  - name: jessicapatricia012 Patricia
+  - name: Charmaine Halim

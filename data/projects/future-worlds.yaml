@@ -1,0 +1,22 @@
+id: future-worlds
+name: Future Worlds
+slug: future-worlds
+tagline: Climate change statistics don't matter. People need a visual. Our web app shows what the
+  Earth will look like if we don't act using AI world generation.
+summary: Future Worlds received the Education award at BigThink x World Labs in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KingXaney/Future-Worlds
+demo_url: null
+video_url: https://www.youtube.com/embed/CfF1VzZDYMg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/228/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Sheel Shah
+  - name: Xinnan Huang

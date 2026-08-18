@@ -1,0 +1,21 @@
+id: swarmgridai
+name: SWARMGRIDAI
+slug: swarmgridai
+tagline: An open-source, browser-native swarm intelligence platform using MOPSO and Gemini AI to
+  optimize renewable energy grids. Bringing $100k+ enterprise grid-modelin
+summary: SWARMGRIDAI received the KYXGO Excellence Award award at Kyxgo hack by Aditya Rai &
+  Yash  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/kris07hna/EnergySwarm
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/680/316/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - enterprise
+technologies:
+  - typescript
+builders:
+  - name: Krishna R

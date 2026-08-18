@@ -1,0 +1,23 @@
+id: censorit
+name: CensorIt
+slug: censorit
+tagline: As concerns over privacy in this digital age grow, creators need tools they can rely on.
+  Our AI-powered tool solves this by detecting and blurring license plate
+summary: CensorIt received the Most Innovative award at HACKMESA 2.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FelipeReyesSag/obs-backgroundremoval.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/435/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - cybersecurity
+technologies:
+  - c-plus-plus
+  - javascript
+builders:
+  - name: emely6002 Alley
+  - name: Alejuakbark
+  - name: Felipe Reyes

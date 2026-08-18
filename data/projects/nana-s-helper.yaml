@@ -1,0 +1,27 @@
+id: nana-s-helper
+name: Nana's Helper
+slug: nana-s-helper
+tagline: You can’t always be there for loved ones, and that can be hard. You want to be by their
+  side, remind them of what they forget, and protect them from what they d
+summary: Nana's Helper received the 2nd Place award at Vandyhacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/theVedanta/Nanas-Helper
+demo_url: null
+video_url: https://www.youtube.com/embed/NdX6mBO4SM8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/539/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - mongodb
+  - openai
+  - python
+  - react
+  - swift
+builders:
+  - name: Gia Minh Do
+  - name: Vedanta Somnathe
+  - name: James Benjamin Kovakas

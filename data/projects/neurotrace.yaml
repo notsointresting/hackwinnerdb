@@ -1,0 +1,22 @@
+id: neurotrace
+name: NeuroTrace
+slug: neurotrace
+tagline: Agentic AI pipeline that maps speech into neuroscience.
+summary: NeuroTrace received the Language Cognition Award award at MindHack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LarryWg/MindHack.git
+demo_url: null
+video_url: https://www.youtube.com/embed/BYwO3dt7vFs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/896/987/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Larry Wang
+  - name: Sham Khraino
+  - name: Jensen Chen

@@ -1,0 +1,22 @@
+id: safe-space
+name: Safe Space
+slug: safe-space
+tagline: "SafeSpace uses privacy first audio intelligence to recognize vocal tension and energy
+  shifts. This eases hyper-vigilance, helping women move from survival mode "
+summary: Safe Space received the 2nd Place - CWI Stream award at youCode 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dishika12/safe-space
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/536/855/datas/medium.png
+categories:
+  - cybersecurity
+technologies:
+  - flask
+  - python
+builders:
+  - name: Ashish Dawar
+  - name: Sarah Raheja
+  - name: Tejas Shanbhag
+  - name: Dishika Taneja

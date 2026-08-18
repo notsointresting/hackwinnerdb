@@ -1,0 +1,21 @@
+id: rootstock
+name: Rootstock
+slug: rootstock
+tagline: Rootstock preserves knowledge for nonprofits by capturing decisions, relationships, and
+  history from tools like Gmail, Slack, and Google Drive so when staff lea
+summary: Rootstock received the 3rd Place - SAP Stream award at youCode 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LightAwesome/institutional-shadow
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/631/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - langchain
+  - openai
+  - python
+  - streamlit
+builders:
+  - name: M. Touseef

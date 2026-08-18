@@ -1,0 +1,25 @@
+id: knockout
+name: Knockout
+slug: knockout
+tagline: Don't get knocked out
+summary: Knockout received the Symptom Management Grand Prize award at HackRare 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AntoDono/knockout
+demo_url: null
+video_url: https://www.youtube.com/embed/GMeiR8b8-wc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/317/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Youwei (Anthony) Zhen
+  - name: Dat Tran
+  - name: Dishita Agarwal
+  - name: Claudia Fernandez Perez

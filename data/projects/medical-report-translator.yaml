@@ -1,0 +1,19 @@
+id: medical-report-translator
+name: Medical report translator
+slug: medical-report-translator
+tagline: I designed UI/UX mock-up a tool that turns complex medical reports into simple,
+  easy-to-understand insights, so anyone can understand their health without medic
+summary: Medical report translator received the Participants award at Code as a Canvas in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/GM17e-m6Ki4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/476/970/datas/gallery.jpg
+categories:
+  - healthcare
+  - media
+  - creative-tools
+technologies: []
+builders:
+  - name: daksha gowda

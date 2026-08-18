@@ -1,0 +1,21 @@
+id: dusty-self-destructing-robot
+name: Dusty - Self Destructing Robot
+slug: dusty-self-destructing-robot
+tagline: Dusty is a ai vacuum robot that is depressed. You can conversate with her to help her heal
+  and continue living or convince her to go to the scrapyard forever.
+summary: "Dusty - Self Destructing Robot received the #challengers (not the movie) award at Stupid
+  Ideas Hackathon (Waterloo W26) in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - robotics
+technologies:
+  - gemini
+  - python
+builders:
+  - name: arshyag146 Ghasemi

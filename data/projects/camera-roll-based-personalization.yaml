@@ -1,0 +1,21 @@
+id: camera-roll-based-personalization
+name: Camera-roll based personalization
+slug: camera-roll-based-personalization
+tagline: Analyze your entire closet using camera data.
+summary: Camera-roll based personalization received the 1st Place award at The Phia Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arjunrawal1/phiaHacksPersonalization
+demo_url: null
+video_url: https://www.youtube.com/embed/MvT91C5_6WY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/631/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - react
+  - react-native
+  - replicate
+builders:
+  - name: arjun rawal

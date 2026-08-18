@@ -1,0 +1,14 @@
+id: exploreswe
+name: .exploreSWE
+slug: exploreswe
+organizer: []
+year: 2026
+sources:
+  - https://exploreswe.devpost.com/
+  - https://exploreswe.devpost.com/project-gallery?filter=winner
+website_url: https://exploreswe.devpost.com/
+platform: devpost
+participant_count: 34
+prize_pool: null
+currency: null
+description: "Devpost hackathon: .exploreSWE. Imported automatically."

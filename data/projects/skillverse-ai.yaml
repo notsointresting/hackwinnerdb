@@ -1,0 +1,29 @@
+id: skillverse-ai
+name: SkillVerse AI
+slug: skillverse-ai
+tagline: An AI-powered career operating system that helps students discover career paths, identify
+  skill gaps, build projects, prepare for interviews, and connect with i
+summary: SkillVerse AI received the Stickers award at Hackdays Prayagraj  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - firebase
+  - langchain
+  - nextjs
+  - openai
+  - pinecone
+  - postgresql
+  - python
+  - typescript
+  - whisper
+builders:
+  - name: Purple Wite

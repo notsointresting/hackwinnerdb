@@ -1,0 +1,26 @@
+id: porpoise-connecting-you-to-a-mission-that-needs-you
+name: "Porpoise: Connecting you to a mission that needs you"
+slug: porpoise-connecting-you-to-a-mission-that-needs-you
+tagline: A nonprofit scheduling system connecting the volunteer who's free to the moment they’re needed.
+summary: "Porpoise: Connecting you to a mission that needs you received the 1st Place - SAP Stream
+  award at youCode 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/jooleyaz/porpoise-youcode2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/396/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - flask
+  - postgresql
+  - python
+  - react
+  - supabase
+  - twilio
+  - typescript
+builders:
+  - name: Lily W
+  - name: S. L.
+  - name: jooleyaz Zhong

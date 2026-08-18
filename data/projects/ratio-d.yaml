@@ -1,0 +1,25 @@
+id: ratio-d
+name: Ratio'd
+slug: ratio-d
+tagline: One bad post can end everything. Ratio'd throws you into a live social media pile-on and
+  makes you fight your way out. Can you survive the internet?
+summary: Ratio'd received the Apple Airpods 4 award at HackHounds 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Wondrfish/Ratio-d
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/639/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - fastapi
+  - openai
+  - python
+  - react
+  - whisper
+builders:
+  - name: Ajani Johnson

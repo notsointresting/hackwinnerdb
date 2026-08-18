@@ -1,0 +1,20 @@
+id: changeshield-ai-splunk-agentic-changeops-commander
+name: "ChangeShield AI: Splunk Agentic ChangeOps Commander"
+slug: changeshield-ai-splunk-agentic-changeops-commander
+tagline: Splunk-grounded AI agents that catch risky deployments before they become incidents,
+  scoring deploy risk, finding root cause, and writing human-approved fixes b
+summary: "ChangeShield AI: Splunk Agentic ChangeOps Commander received the Best Use of Splunk MCP
+  Server award at Splunk Agentic Ops Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/xiaodouzi666/ChangeShield
+demo_url: null
+video_url: https://www.youtube.com/embed/F3SwN1OxOCA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/776/973/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies: []
+builders:
+  - name: Frank douzi

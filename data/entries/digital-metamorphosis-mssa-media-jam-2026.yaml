@@ -1,0 +1,14 @@
+id: digital-metamorphosis-mssa-media-jam-2026
+project_id: digital-metamorphosis
+hackathon_id: mssa-media-jam-2026
+submission_url: https://devpost.com/software/digital-metamorphosis
+source:
+  platform: devpost
+  url: https://devpost.com/software/digital-metamorphosis
+awards:
+  - type: other
+    title: The Media Jam Public Voting Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: mediscan-girls-in-stem-ai-for-social-good-hackathon
+project_id: mediscan
+hackathon_id: girls-in-stem-ai-for-social-good-hackathon
+submission_url: https://devpost.com/software/mediscan-vy51ur
+source:
+  platform: devpost
+  url: https://devpost.com/software/mediscan-vy51ur
+awards:
+  - type: category-winner
+    title: BEST AI PROJECT
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

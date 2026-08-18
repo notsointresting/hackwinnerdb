@@ -1,0 +1,20 @@
+id: farmawatch
+name: FarmaWatch
+slug: farmawatch
+tagline: Autonomous agent that watches FDA drug recalls, cross-checks them against your patient
+  roster, and the moment someone is taking a recalled drug, sends an instan
+summary: FarmaWatch received the Best Use of Truefoundry award at Harness Engineering Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kiwis01/FarmaWatcher
+demo_url: null
+video_url: https://www.youtube.com/embed/t12dc04aHGI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/763/854/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+builders:
+  - name: Carlos Quihuis
+  - name: Carlos Alberto Rodríguez

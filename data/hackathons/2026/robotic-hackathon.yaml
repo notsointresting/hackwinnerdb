@@ -1,0 +1,14 @@
+id: robotic-hackathon
+name: Robotic Hackathon
+slug: robotic-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://robotic-hackathon.devpost.com/
+  - https://robotic-hackathon.devpost.com/project-gallery?filter=winner
+website_url: https://robotic-hackathon.devpost.com/
+platform: devpost
+participant_count: 45
+prize_pool: 873
+currency: USD
+description: "Devpost hackathon: Robotic Hackathon. Imported automatically."

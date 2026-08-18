@@ -1,0 +1,14 @@
+id: infinity-hackday
+name: Infinity Hackday
+slug: infinity-hackday
+organizer: []
+year: 2026
+sources:
+  - https://infinity-hackday.devpost.com/
+  - https://infinity-hackday.devpost.com/project-gallery?filter=winner
+website_url: https://infinity-hackday.devpost.com/
+platform: devpost
+participant_count: 26
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Infinity Hackday. Imported automatically."

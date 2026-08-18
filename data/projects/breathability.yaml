@@ -1,0 +1,26 @@
+id: breathability
+name: Breathability
+slug: breathability
+tagline: Breathability is a website to help determined a route of walking from a starting location
+  to the destination with the best air quality.
+summary: Breathability received the Best Pre-University Hack award at Garuda Hacks 7.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SycthePlays/Breathability_Website
+demo_url: null
+video_url: https://www.youtube.com/embed/XKlsNxGwnN4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/912/732/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - figma
+  - supabase
+  - vercel
+builders:
+  - name: Bhreadz Pribadi
+  - name: SycthePlays Satria
+  - name: Noby Ghazali
+  - name: Nathan

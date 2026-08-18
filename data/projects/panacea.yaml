@@ -1,0 +1,25 @@
+id: panacea
+name: Panacea
+slug: panacea
+tagline: Interactive virus spread simulator for social awareness, educating the public on how
+  pandemic safety policies shape real outcomes with an accessible platform to
+summary: Panacea received the Most Technically Challenging Hack award at HackDavis 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Viharitejomurtula/Panacea
+demo_url: null
+video_url: https://www.youtube.com/embed/-H-0A9Hcswk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/656/693/datas/medium.png
+categories:
+  - accessibility
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Raksshana Harish Babu
+  - name: Varun Nair
+  - name: Vihari Tejomurtula

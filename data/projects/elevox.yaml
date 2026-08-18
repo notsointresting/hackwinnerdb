@@ -1,0 +1,24 @@
+id: elevox
+name: EleVox
+slug: elevox
+tagline: Brings elephant communication back to life from noise—revealing signals about behavior,
+  stress, and movement that were previously lost
+summary: EleVox received the Best Use of DigitalOcean Gradient™ AI award at HackSMU VII in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hrhuynguyen/ElephantsNoise/blob/main/Elephant_Voice.ipynb
+demo_url: null
+video_url: https://www.youtube.com/embed/39pZ5VqTMNQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/880/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - react
+builders:
+  - name: Thanh Tam Do
+  - name: Thanh Trung Do
+  - name: My Banh
+  - name: Huy Nguyen

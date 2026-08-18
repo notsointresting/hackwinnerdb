@@ -1,0 +1,22 @@
+id: filament-fillies
+name: Filament Fillies
+slug: filament-fillies
+tagline: A website that automatically analysis yeast filaments
+summary: Filament Fillies received the [Academic] Detecting and Tracking Transient Protein Filaments
+  in Living Cells Challenge award at BioHackathon Edinburgh 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/briandaniel14/biohack
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - python
+  - react
+builders:
+  - name: Brian Daniel

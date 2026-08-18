@@ -1,0 +1,22 @@
+id: workleak
+name: WorkLeak
+slug: workleak
+tagline: WorkLeak finds where company workflows leak time and money. It scans tickets, meetings,
+  approvals, and PRs, then ranks delays by cost and recommends fixes.
+summary: WorkLeak received the 2nd Best award at Internal Tools Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/m40ma0/workleak
+demo_url: null
+video_url: https://www.youtube.com/embed/yNxuSaeMiqI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/642/datas/gallery.jpg
+categories:
+  - productivity
+technologies:
+  - firebase
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Liang Ang Yee

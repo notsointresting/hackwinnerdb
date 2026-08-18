@@ -1,0 +1,14 @@
+id: seismoarch-iot-model-ai-autonomous-smart-city-hackathon-2026
+project_id: seismoarch-iot-model
+hackathon_id: ai-autonomous-smart-city-hackathon-2026
+submission_url: https://devpost.com/software/seismoarch-iot-model-u96tgv
+source:
+  platform: devpost
+  url: https://devpost.com/software/seismoarch-iot-model-u96tgv
+awards:
+  - type: second-place
+    title: 3rd Prize — Second Runner Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

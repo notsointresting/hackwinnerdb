@@ -1,0 +1,23 @@
+id: ice-in-his-veins
+name: Ice in His Veins
+slug: ice-in-his-veins
+tagline: Every "ice in his veins" claim in football media is a highlight reel with no denominator.
+  This is the denominator.
+summary: Ice in His Veins received the Second Place Honors award at AQX Sports Analytics Data Bowl
+  2.0 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Sithranjan-Suresh/ice-in-his-veins
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/872/443/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies:
+  - javascript
+  - python
+  - react
+  - vercel
+builders:
+  - name: Sithranjan Suresh

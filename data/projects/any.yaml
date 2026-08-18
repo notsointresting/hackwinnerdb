@@ -1,0 +1,25 @@
+id: any
+name: Any%
+slug: any
+tagline: A speedrun platform for monotonous everyday tasks. Take the fast lane with Any%. Compete
+  with your friends and family to create an enjoyable, lighthearted compe
+summary: Any% received the Best Creative Presentation award at Hack to the Future in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ArynShah/AnyPercent
+demo_url: null
+video_url: https://www.youtube.com/embed/rH5l5CPWUp0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/831/datas/gallery.jpg
+categories:
+  - education
+  - climate
+  - creative-tools
+technologies:
+  - firebase
+  - react
+  - vercel
+builders:
+  - name: Aryan Shah
+  - name: Noah Yamin
+  - name: Ojas Chindarkar
+  - name: Spencer Gagnon

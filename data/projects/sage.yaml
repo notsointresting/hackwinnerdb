@@ -1,0 +1,22 @@
+id: sage
+name: Sage
+slug: sage
+tagline: An AI-powered guide that makes everyday technology simple for seniors.
+summary: Sage received the 1st Place award at GenLink Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/isaacgong0311-hash/GenLink-App,https://genlink-app.vercel.app/
+demo_url: null
+video_url: https://www.youtube.com/embed/q37P0HEgdmU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/575/053/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - typescript
+  - vercel
+builders:
+  - name: Isaac Gong
+  - name: akash Cherala

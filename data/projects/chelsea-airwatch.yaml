@@ -1,0 +1,20 @@
+id: chelsea-airwatch
+name: Chelsea AirWatch
+slug: chelsea-airwatch
+tagline: Breathe smarter. Move safer. Live healthier.
+summary: Chelsea AirWatch received the Air Quality Data Viz award at Civic Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TristanDS95/CivicHack2026
+demo_url: null
+video_url: https://www.youtube.com/embed/XGlHdeNuics
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/133/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies: []
+builders:
+  - name: Vaishnavi Wagh
+  - name: Sakshi Nikam
+  - name: Tristan Sahagian
+  - name: derickhoward09 Howard

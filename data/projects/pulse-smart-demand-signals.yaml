@@ -1,0 +1,29 @@
+id: pulse-smart-demand-signals
+name: Pulse - Smart Demand Signals
+slug: pulse-smart-demand-signals
+tagline: "Convierte el histórico de compras de Inibsa en alertas comerciales accionables: a quién
+  llamar hoy, qué vender, por qué motivo y con qué urgencia. Detecta deman"
+summary: Pulse - Smart Demand Signals received the [MLH] Best Use of Gemini API award at
+  InterHackBCN in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/criisshg/interhackBCN.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/306/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - postgresql
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: chuancag Huanca
+  - name: Pol Beltran Moncada
+  - name: PauVidalMartin
+  - name: Martí Gasol Cos

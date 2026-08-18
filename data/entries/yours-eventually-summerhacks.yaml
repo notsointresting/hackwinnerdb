@@ -1,0 +1,14 @@
+id: yours-eventually-summerhacks
+project_id: yours-eventually
+hackathon_id: summerhacks
+submission_url: https://devpost.com/software/yours-eventually
+source:
+  platform: devpost
+  url: https://devpost.com/software/yours-eventually
+awards:
+  - type: category-winner
+    title: Best Use of Reve
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

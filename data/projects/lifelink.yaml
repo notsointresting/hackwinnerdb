@@ -1,0 +1,24 @@
+id: lifelink
+name: LifeLink
+slug: lifelink
+tagline: Clinicians ask ASI:One for blood in plain English, a swarm of Fetch.ai agents finds blood
+  centers, allocates units, manages payment, and proves delivery through
+summary: LifeLink received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/2rR3Mup_OXU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/803/694/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - stripe
+  - typescript
+builders:
+  - name: Gitika Rath
+  - name: Aldridge Fonseca

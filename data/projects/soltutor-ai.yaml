@@ -1,0 +1,22 @@
+id: soltutor-ai
+name: SOLTutor.ai
+slug: soltutor-ai
+tagline: SOLTutor.ai gives Virginia students AI-guided SOL simulations with instant reasoning
+  feedback, while teachers get live misconception insights and targeted retea
+summary: SOLTutor.ai received the 1st Place award at AI for Learning & Development Build Challenge —
+  AI Collective HR + Regent in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/765/699/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Brian Miller

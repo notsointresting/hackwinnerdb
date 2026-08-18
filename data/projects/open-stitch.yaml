@@ -1,0 +1,24 @@
+id: open-stitch
+name: Open Stitch
+slug: open-stitch
+tagline: Open Stitch is an AI video editing pipeline that turns raw clips into fully edited videos
+  from natural language prompts using ASR, vision-language models, agent
+summary: Open Stitch received the [MLH] Best Use of Gemini API award at CUhackit 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KyleZheng1284/open-stitch
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/149/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - fastapi
+  - postgresql
+  - redis
+  - typescript
+builders:
+  - name: LapFung Chan
+  - name: Himanshu Pallath
+  - name: Kyle Zheng

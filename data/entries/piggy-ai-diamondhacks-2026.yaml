@@ -1,0 +1,14 @@
+id: piggy-ai-diamondhacks-2026
+project_id: piggy-ai
+hackathon_id: diamondhacks-2026
+submission_url: https://devpost.com/software/piggy-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/piggy-ai
+awards:
+  - type: third-place
+    title: 3rd Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: firstresponder-relay
+name: FirstResponder-Relay
+slug: firstresponder-relay
+tagline: When 911 lines flood during a wildfire, FirstResponder Relay triages overflow calls in 13+
+  languages, locates callers inside active fire zones, and translates d
+summary: FirstResponder-Relay received the Finalist award at UC Berkeley AI Hackathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/806/147/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - mapbox
+  - python
+  - react
+  - redis
+  - tailwind-css
+  - vercel
+builders:
+  - name: Moksh Aggarwal

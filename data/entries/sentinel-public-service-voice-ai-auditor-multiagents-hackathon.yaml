@@ -1,0 +1,14 @@
+id: sentinel-public-service-voice-ai-auditor-multiagents-hackathon
+project_id: sentinel-public-service-voice-ai-auditor
+hackathon_id: multiagents-hackathon
+submission_url: https://devpost.com/software/sentinel-public-service-voice-ai-auditor
+source:
+  platform: devpost
+  url: https://devpost.com/software/sentinel-public-service-voice-ai-auditor
+awards:
+  - type: category-winner
+    title: Best Use of Tavily Search
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

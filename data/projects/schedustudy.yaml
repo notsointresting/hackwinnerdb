@@ -1,0 +1,17 @@
+id: schedustudy
+name: ScheduStudy
+slug: schedustudy
+tagline: Enter the Study, Recieve the Plan
+summary: ScheduStudy received the 3d pen award at HackPHHS 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/diFFp2NklCk
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Kensley Lovius

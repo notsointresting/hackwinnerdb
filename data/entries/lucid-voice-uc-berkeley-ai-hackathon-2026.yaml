@@ -1,0 +1,16 @@
+id: lucid-voice-uc-berkeley-ai-hackathon-2026
+project_id: lucid-voice
+hackathon_id: uc-berkeley-ai-hackathon-2026
+submission_url: https://devpost.com/software/lucid-voice
+source:
+  platform: devpost
+  url: https://devpost.com/software/lucid-voice
+awards:
+  - type: grand-prize
+    title: GRAND PRIZE - Ddoski's World Track
+  - type: finalist
+    title: Finalist
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

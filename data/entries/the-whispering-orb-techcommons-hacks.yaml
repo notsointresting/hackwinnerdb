@@ -1,0 +1,24 @@
+id: the-whispering-orb-techcommons-hacks
+project_id: the-whispering-orb
+hackathon_id: techcommons-hacks
+submission_url: https://devpost.com/software/the-whispering-orb
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-whispering-orb
+awards:
+  - type: category-winner
+    title: Best With MeDo
+  - type: other
+    title: Top 25 Projects Utilizing ElevenLabs
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Swags and Stickers
+  - type: winner
+    title: Domain Excellence Winners (10 Categories)
+  - type: other
+    title: Participation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

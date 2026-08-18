@@ -1,0 +1,22 @@
+id: sanjeevani
+name: Sanjeevani
+slug: sanjeevani
+tagline: Be your own doctor with a fast, lightweight Flask web app that provides direct access to
+  medical data, symptom checking, and local hospital routing.
+summary: Sanjeevani received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cu-sanjay/Sanjeevani
+demo_url: null
+video_url: https://www.youtube.com/embed/-FGHROmR2kw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/864/592/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - flask
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Sanjay Choudhary

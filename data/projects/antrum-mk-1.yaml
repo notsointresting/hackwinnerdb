@@ -1,0 +1,26 @@
+id: antrum-mk-1
+name: Antrum MK 1
+slug: antrum-mk-1
+tagline: Lost underground? No GPS, no signal. Our handheld devices track each other using motion
+  sensors and radio; giving cavers a live compass pointing straight to the
+summary: Antrum MK 1 received the MAIN PRIZE - First Place award at UNIHACK 2026, funded by the
+  European Union in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/jenul-ferdinand/unihack2026
+demo_url: null
+video_url: https://www.youtube.com/watch?v=CsPicsmCib0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/439/341/datas/gallery.jpg
+categories:
+  - infrastructure
+technologies:
+  - c-plus-plus
+  - esp32
+  - mongodb
+  - typescript
+  - vercel
+builders:
+  - name: Jenul Ferdinand
+  - name: Maria Demina
+  - name: Christopher  Whalley
+  - name: Manan Chavda

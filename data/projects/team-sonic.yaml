@@ -1,0 +1,25 @@
+id: team-sonic
+name: Team Sonic
+slug: team-sonic
+tagline: Team Sonic is a multilingual, voice-first AI learning companion built for displaced and
+  underserved students
+summary: Team Sonic received the BUILD54 Hackathon Champion award at BUILD ZERO HACKATHON- NAIROBI
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/fCTwva9TjpY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/719/334/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - django
+  - java
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ray nene
+  - name: Francis Kioko

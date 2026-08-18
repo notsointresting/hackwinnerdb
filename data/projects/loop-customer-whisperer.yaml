@@ -1,0 +1,20 @@
+id: loop-customer-whisperer
+name: Loop — Customer Whisperer
+slug: loop-customer-whisperer
+tagline: The teammate who's already read the thread.
+summary: Loop — Customer Whisperer received the Best Technological Implementation award at Slack
+  Agent Builder Challenge in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/nn81gHyVFU0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/883/335/datas/gallery.jpg
+categories:
+  - enterprise
+technologies:
+  - javascript
+builders:
+  - name: Abhishek Sinha
+  - name: Sidra Khan
+  - name: Mohammed Sameed

@@ -1,0 +1,23 @@
+id: aegis-dev
+name: Aegis.dev
+slug: aegis-dev
+tagline: Fully autonomous software agent that detects, diagnoses, fixes, and deploys production bugs
+  - with autonomous rollback capability.
+summary: Aegis.dev received the 3rd place award at GenAI Dev Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/iz-Manik/Aegis.dev
+demo_url: null
+video_url: https://www.youtube.com/embed/_z9odZBOo5A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/251/898/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - postgresql
+  - python
+builders:
+  - name: Manik Chauhan
+  - name: Tanishq Chauhan

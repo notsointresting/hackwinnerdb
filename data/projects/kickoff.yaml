@@ -1,0 +1,22 @@
+id: kickoff
+name: KickOff
+slug: kickoff
+tagline: Seven Gemini 3 agents move 82,500 World Cup fans to MetLife Stadium — reasoning over live
+  MongoDB Atlas via MCP, every decision a database write streamed onto a
+summary: KickOff received the MongoDB - 2nd Place award at Google Cloud Rapid Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - python
+  - typescript
+builders:
+  - name: abssi mustapha

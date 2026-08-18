@@ -1,0 +1,14 @@
+id: denial-rescue-rossmd-agentic-engineering-hack
+project_id: denial-rescue-rossmd
+hackathon_id: agentic-engineering-hack
+submission_url: https://devpost.com/software/denial-rescue-rossmd
+source:
+  platform: devpost
+  url: https://devpost.com/software/denial-rescue-rossmd
+awards:
+  - type: winner
+    title: Top Overall Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

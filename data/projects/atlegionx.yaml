@@ -1,0 +1,21 @@
+id: atlegionx
+name: AtLegionX
+slug: atlegionx
+tagline: A proactive mental health agent that learns from the patient in real-time before they even
+  decide to present to a physician while building an auditable timeline
+summary: AtLegionX received the First Place award at Autonomous Healthcare Hackathon | Legion Health
+  x Atlas in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/civiliangame/AHH
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Yilun Zhang
+  - name: Phillip Hwang

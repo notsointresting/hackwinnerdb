@@ -1,0 +1,16 @@
+id: mariobros
+name: MarioBros
+slug: mariobros
+tagline: The perfect city doesn't exist, but we can try to make one better.
+summary: MarioBros received the Team Leadership award at HackHexa in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: victorianm12 Navar

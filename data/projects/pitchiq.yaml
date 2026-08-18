@@ -1,0 +1,26 @@
+id: pitchiq
+name: PitchIQ
+slug: pitchiq
+tagline: An AI-native football intelligence platform that uses Gemini to generate structured,
+  coach-style tactical match analysis with grounded data and cloud-native dep
+summary: PitchIQ received the Best App Deployed on Google Cloud Award award at Hack Days CUET in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sourovchy/pitchiq
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/839/653/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - firebase
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sourov Chowdhury

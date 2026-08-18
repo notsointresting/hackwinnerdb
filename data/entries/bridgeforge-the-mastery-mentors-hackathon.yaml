@@ -1,0 +1,14 @@
+id: bridgeforge-the-mastery-mentors-hackathon
+project_id: bridgeforge
+hackathon_id: the-mastery-mentors-hackathon
+submission_url: https://devpost.com/software/bridgeforge
+source:
+  platform: devpost
+  url: https://devpost.com/software/bridgeforge
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

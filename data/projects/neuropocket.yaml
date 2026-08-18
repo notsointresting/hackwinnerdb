@@ -1,0 +1,20 @@
+id: neuropocket
+name: NeuroPocket
+slug: neuropocket
+tagline: An on-device AI health assistant powered by Gemma 2B — 100% private, beautifully optimized,
+  and requires absolutely no internet.
+summary: NeuroPocket received the AI award at The Final of Chapter of GDG in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bluedorsey/NeuroPocket
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/720/812/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - kotlin
+builders:
+  - name: Aditya Pandey

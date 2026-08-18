@@ -1,0 +1,22 @@
+id: k-means-bike
+name: K-Means Bike
+slug: k-means-bike
+tagline: K-Means Bike uses machine learning to tell the story of how Chicagoans ride Divvy bikes.
+summary: K-Means Bike received the [MLH] Best Use of DigitalOcean award at WildHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/choeunice/kmeans-bike
+demo_url: null
+video_url: https://www.youtube.com/embed/mBl7A5B485I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/053/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: haneen jassim
+  - name: Eunice Cho
+  - name: Alfred Forcadela
+  - name: Htin Lwin Htoo Than

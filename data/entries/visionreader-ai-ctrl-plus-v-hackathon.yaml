@@ -1,0 +1,14 @@
+id: visionreader-ai-ctrl-plus-v-hackathon
+project_id: visionreader-ai
+hackathon_id: ctrl-plus-v-hackathon
+submission_url: https://devpost.com/software/visionreader-ai-rcdz9l
+source:
+  platform: devpost
+  url: https://devpost.com/software/visionreader-ai-rcdz9l
+awards:
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

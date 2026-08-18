@@ -1,0 +1,24 @@
+id: healix-ai-a-deterministic-clinical-intelligence-framework
+name: "Healix-AI: A Deterministic Clinical Intelligence Framework"
+slug: healix-ai-a-deterministic-clinical-intelligence-framework
+tagline: A deterministic AI guardian delivering radical healthcare accessibility for blind and deaf
+  communities through real-time voice, vision-to-speech, and clinically
+summary: "Healix-AI: A Deterministic Clinical Intelligence Framework received the Best Use Of Gemini
+  API award at Quick with Gemini in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/LokeshwaranMoorthi/Healix-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/355/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - groq
+  - javascript
+  - python
+  - tailwind-css
+builders:
+  - name: Lokeshwaran Moorthi

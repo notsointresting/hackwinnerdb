@@ -1,0 +1,26 @@
+id: commutr
+name: Commutr
+slug: commutr
+tagline: The smarter way of commuting
+summary: Commutr received the [SPONSOR] Nebula Labs award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DanielEnis01/Commutr
+demo_url: null
+video_url: https://www.youtube.com/embed/UCs95glatJU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/485/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - figma
+  - flask
+  - google-cloud
+  - google-maps
+  - javascript
+  - python
+  - react
+builders:
+  - name: Daniel Enis
+  - name: Tyler Belken

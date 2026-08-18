@@ -1,0 +1,27 @@
+id: snapfit
+name: SnapFit
+slug: snapfit
+tagline: Snap a photo of any furniture and get an interactive 3D assembly guide — AI segments the
+  parts, plans the steps, and coaches you through building it in MR.
+summary: SnapFit received the Best 3D GenAI Character, Brand or Product Integration - by TRIPO 1st
+  Place award at Worlds in Action Hack [02-LA] in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ZQC8848/SnapFit
+demo_url: null
+video_url: https://www.youtube.com/embed/jSwV0_1Vo5o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/943/476/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Qinchuan Zhang
+  - name: Will Park
+  - name: Cecil Boey

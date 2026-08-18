@@ -1,0 +1,14 @@
+id: misty-the-atlassian-x-mistral-x-aisoc-hack
+project_id: misty
+hackathon_id: the-atlassian-x-mistral-x-aisoc-hack
+submission_url: https://devpost.com/software/basement-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/basement-ai
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

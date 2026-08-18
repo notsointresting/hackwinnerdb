@@ -1,0 +1,15 @@
+id: predicting-koi-disposition-without-nasa-s-vetting-flags-india-high-school-exoplanet-data-challenge
+project_id: predicting-koi-disposition-without-nasa-s-vetting-flags
+hackathon_id: india-high-school-exoplanet-data-challenge
+submission_url: https://devpost.com/software/predicting-koi-disposition-without-nasa-s-vetting-flags
+source:
+  platform: devpost
+  url: https://devpost.com/software/predicting-koi-disposition-without-nasa-s-vetting-flags
+awards:
+  - type: audience-choice
+    title: "Best Explainability Award: Submission that makes complex ML most understandable to a
+      layman-audience."
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

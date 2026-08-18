@@ -1,0 +1,22 @@
+id: equipe-19-cann-go
+name: Équipe 19 - CanN'Go
+slug: equipe-19-cann-go
+tagline: "La canne blanche classique s'arrête au sol;notre canne intelligente voit en 3D. Elle
+  détecte les obstacles en hauteur et en mouvement pour offrir une autonomie "
+summary: Équipe 19 - CanN'Go received the Prix 2ème place award at StarHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hiba1204/STARHACK2026.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - social-impact
+  - iot
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: Elias Kassas
+  - name: elyes Bradai

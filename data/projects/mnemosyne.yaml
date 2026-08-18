@@ -1,0 +1,20 @@
+id: mnemosyne
+name: Mnemosyne
+slug: mnemosyne
+tagline: Mnemosyne is the first sparse-memory substrate that lets language models learn continuously
+  without retraining — replacing dense attention with a biologically-p
+summary: Mnemosyne received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zIROKa2GEGg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/861/036/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: AMAN MAURYA

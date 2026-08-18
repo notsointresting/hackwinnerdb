@@ -1,0 +1,23 @@
+id: dandi
+name: Dandi
+slug: dandi
+tagline: Dandi is a bio-smart ear cuff that tracks women’s hormones, glucose, and sleep in real
+  time, turning subtle body signals into clear data and actionable insights
+summary: Dandi received the Most Impact award at FigBuild 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ARy32Mv2iKg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/417/883/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+  - react
+  - typescript
+builders:
+  - name: Queenie Hsiao
+  - name: Jenn Choi
+  - name: Jackie Nam
+  - name: Beverly Yip

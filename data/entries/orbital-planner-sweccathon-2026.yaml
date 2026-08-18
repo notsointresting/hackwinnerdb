@@ -1,0 +1,14 @@
+id: orbital-planner-sweccathon-2026
+project_id: orbital-planner
+hackathon_id: sweccathon-2026
+submission_url: https://devpost.com/software/orbital-planner
+source:
+  platform: devpost
+  url: https://devpost.com/software/orbital-planner
+awards:
+  - type: track-winner
+    title: AGI & Real World Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

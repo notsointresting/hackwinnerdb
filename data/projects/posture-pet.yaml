@@ -1,0 +1,26 @@
+id: posture-pet
+name: Posture Pet
+slug: posture-pet
+tagline: "Meet Posture Pet: an AI Tamagotchi that physically mirrors your posture. A cam-free
+  wearable that syncs IMU data via Wi-Fi and BLE, drooping the bot when you sl"
+summary: Posture Pet received the Best Use of AMD Tech award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aman-katyal/posture-pet
+demo_url: null
+video_url: https://www.youtube.com/embed/oRx5zPtNSt0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/664/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - c-plus-plus
+  - javascript
+  - python
+builders:
+  - name: Andrew Bogdan
+  - name: Aman Katyal
+  - name: Francis Hasin
+  - name: Sam Nadol

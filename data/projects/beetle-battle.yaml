@@ -1,0 +1,27 @@
+id: beetle-battle
+name: Beetle Battle
+slug: beetle-battle
+tagline: Code, Compete, Create An educational syntax game that teaches you how to code by making you
+  compete with your friends and family, or even a bot.
+summary: Beetle Battle received the Athena’s Favorite award at AthenaHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ximecamacho/athenahacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/J67ubqeXgWc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/811/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - figma
+  - gemini
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Allyson T Le
+  - name: Ximena Camacho
+  - name: Khushi Mukeshbhai Patel
+  - name: Samantha Reap

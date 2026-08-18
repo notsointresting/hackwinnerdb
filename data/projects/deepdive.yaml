@@ -1,0 +1,21 @@
+id: deepdive
+name: DeepDive
+slug: deepdive
+tagline: "A scroll-driven deep-sea expedition with silhouette creature reveals, real
+  breath-to-oxygen mic input, sonar mechanics, and ocean pollution cleanup, built with "
+summary: DeepDive received the 1st Overall, Amazon Gift Cards award at Code-A-Site in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samridh10exe/ocean-explorer
+demo_url: null
+video_url: https://www.youtube.com/embed/gxyUczTjppc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/425/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Elita Hazel Gorimanikonda
+  - name: Vianna Chen
+  - name: S Samridh
+  - name: Tristan Lin

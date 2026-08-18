@@ -1,0 +1,29 @@
+id: sharkbyte
+name: SharkByte
+slug: sharkbyte
+tagline: Students are already carrying an NFC-enabled university ID card. SharkByte turns every tap
+  -checking into a society event or lecture, booking out equipment - in
+summary: SharkByte received the (Hardware Track) 4x Nintendo Switch 2 (w/ a game!) award at
+  HackLondon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5a60ux8VRLw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/355/103/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - cloudflare
+  - esp32
+  - flask
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Mahraz Ahmed
+  - name: Dheer Maheshwari
+  - name: Vayun Khare
+  - name: Adam Axelrod

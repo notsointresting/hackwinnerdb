@@ -1,0 +1,20 @@
+id: agentic-workflow-compiler
+name: Agentic Workflow Compiler
+slug: agentic-workflow-compiler
+tagline: Paste live URLs into a node graph. Agents discover data shapes, compile tested TypeScript
+  extractors, and freeze reusable workflows—agentic at build time, deter
+summary: Agentic Workflow Compiler received the Top Overall Winners award at Multiagents Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ghcpuman902/agentic-workflow-compiler
+demo_url: null
+video_url: https://www.youtube.com/embed/QSXDoPnnfsY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/578/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - typescript
+builders:
+  - name: Mangle Kuo

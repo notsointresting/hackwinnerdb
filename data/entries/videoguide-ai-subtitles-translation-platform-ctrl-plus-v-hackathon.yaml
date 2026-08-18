@@ -1,0 +1,14 @@
+id: videoguide-ai-subtitles-translation-platform-ctrl-plus-v-hackathon
+project_id: videoguide-ai-subtitles-translation-platform
+hackathon_id: ctrl-plus-v-hackathon
+submission_url: https://devpost.com/software/videoguide-ai-subtitles-sign-language-translator
+source:
+  platform: devpost
+  url: https://devpost.com/software/videoguide-ai-subtitles-sign-language-translator
+awards:
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

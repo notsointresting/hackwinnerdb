@@ -1,0 +1,19 @@
+id: the-statement-of-randolph-carter
+name: The Statement of Randolph Carter
+slug: the-statement-of-randolph-carter
+tagline: Adaption of "The Statement of Randolph Carter" by H.P. Lovecraft (1920) explore the world
+  in a choose your own adventure!
+summary: The Statement of Randolph Carter received the Best Solo award at SillyHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/521/259/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+builders:
+  - name: William Ramsay

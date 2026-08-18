@@ -1,0 +1,21 @@
+id: sillypult
+name: Sillypult
+slug: sillypult
+tagline: lets get silly
+summary: Sillypult received the Best Hardware Project award at SillyHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sinj3d/silly-pult
+demo_url: null
+video_url: https://www.youtube.com/embed/M533I-RpqVk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/167/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - c-plus-plus
+  - nextjs
+  - swift
+builders:
+  - name: Jihee Ryu
+  - name: Ian Chan
+  - name: Shenghua Jin

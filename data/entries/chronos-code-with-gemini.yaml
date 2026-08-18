@@ -1,0 +1,14 @@
+id: chronos-code-with-gemini
+project_id: chronos
+hackathon_id: code-with-gemini
+submission_url: https://devpost.com/software/chronos-i5kwq9
+source:
+  platform: devpost
+  url: https://devpost.com/software/chronos-i5kwq9
+awards:
+  - type: category-winner
+    title: Best Use Of Gemini
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: lang-land-gdg-hacks-3
+project_id: lang-land
+hackathon_id: gdg-hacks-3
+submission_url: https://devpost.com/software/lang-land
+source:
+  platform: devpost
+  url: https://devpost.com/software/lang-land
+awards:
+  - type: second-place
+    title: 2nd place overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

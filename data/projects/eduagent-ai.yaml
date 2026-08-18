@@ -1,0 +1,24 @@
+id: eduagent-ai
+name: EduAgent AI
+slug: eduagent-ai
+tagline: EduAgent AI transforms documents, notes, and images into a personalized AI tutor that
+  teaches, quizzes, and remembers your learning journey.
+summary: EduAgent AI received the Honorable Mention award at Build With AI x Hackday FUTMINNA 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/raymond-williamsX/SMART-AI-TUTOR
+demo_url: null
+video_url: https://www.youtube.com/embed/bJWSJDNcRqo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/753/263/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Raymond Iorliam
+  - name: Caleb Kalejaiye

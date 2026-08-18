@@ -1,0 +1,14 @@
+id: neighborly-youth-x-code-youth-code-x-ai
+project_id: neighborly-youth-x-code
+hackathon_id: youth-code-x-ai
+submission_url: https://devpost.com/software/neighborly-youth-x-code
+source:
+  platform: devpost
+  url: https://devpost.com/software/neighborly-youth-x-code
+awards:
+  - type: category-winner
+    title: Best User experience
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

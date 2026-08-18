@@ -1,0 +1,23 @@
+id: hume
+name: HUME
+slug: hume
+tagline: A deterministic pipeline shielded by a mathematical firewall. It updates beliefs via
+  evidence strength, quarantines single-source claims, and flags structural O
+summary: "HUME received the CORTEX BioSciences: GROUD TRUTH award at Hack the 6ix 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Ollienel777/GROUND-TRUTH-HT6
+demo_url: null
+video_url: https://www.youtube.com/embed/DPPyim3nklU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/976/926/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Deacon Sham
+  - name: Owen Chen
+  - name: Matthew Zhu
+  - name: Nelson Kang

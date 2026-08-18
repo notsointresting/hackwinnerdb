@@ -1,0 +1,20 @@
+id: hoddle
+name: Hoddle
+slug: hoddle
+tagline: Data-driven routing for a safer walk. Take the brightest route home.
+summary: Hoddle received the Best Design award at MACATHON 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/0I9wCSs5G0E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/555/202/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - google-maps
+  - python
+builders:
+  - name: Rahul Mudaliar
+  - name: Eshal Bari
+  - name: Abbas Quettawala

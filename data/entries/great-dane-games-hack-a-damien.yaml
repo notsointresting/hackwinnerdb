@@ -1,0 +1,14 @@
+id: great-dane-games-hack-a-damien
+project_id: great-dane-games
+hackathon_id: hack-a-damien
+submission_url: https://devpost.com/software/great-dane-games
+source:
+  platform: devpost
+  url: https://devpost.com/software/great-dane-games
+awards:
+  - type: other
+    title: Fifth Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

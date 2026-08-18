@@ -1,0 +1,16 @@
+id: calmcue-self-improving-agents-hack
+project_id: calmcue
+hackathon_id: self-improving-agents-hack
+submission_url: https://devpost.com/software/sensory-overload-shield
+source:
+  platform: devpost
+  url: https://devpost.com/software/sensory-overload-shield
+awards:
+  - type: category-winner
+    title: Best use of Modulate's APIs
+  - type: category-winner
+    title: Best use of Lightdash
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

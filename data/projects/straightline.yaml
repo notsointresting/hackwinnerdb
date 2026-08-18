@@ -1,0 +1,23 @@
+id: straightline
+name: Straightline
+slug: straightline
+tagline: Dismantling mobility barriers through simulated environments
+summary: Straightline received the Best Use of Browser Use award at DiamondHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Alex-Bonev/straightline
+demo_url: null
+video_url: https://www.youtube.com/embed/cQRUjOVXm4E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/845/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - claude
+  - nextjs
+  - supabase
+builders:
+  - name: Clarissa Saputra
+  - name: Alex Bonev
+  - name: Nicole

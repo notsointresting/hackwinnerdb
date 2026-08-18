@@ -1,0 +1,21 @@
+id: power-defense
+name: Power Defense
+slug: power-defense
+tagline: Power Defense is a tower-defense strategy game where you utilize sustainable energy sources
+  to power weapons and defend a city against zombies.
+summary: Power Defense received the Judge's Award award at Hack For The World 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bfjesso/hackathon-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/loPVI5rdt94
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/316/datas/gallery.jpg
+categories:
+  - education
+  - sustainability
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Bennett Jesso
+  - name: Jack Krzyzanowski

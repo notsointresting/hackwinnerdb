@@ -1,0 +1,21 @@
+id: munchi
+name: MUNCHI
+slug: munchi
+tagline: Eliminate Food Waste on Campus.
+summary: MUNCHI received the Best Use of Vercel award at Broncohacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MMf1FQwJY0A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/445/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - nextjs
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Yong Thu La Wong

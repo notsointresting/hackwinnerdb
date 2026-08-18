@@ -1,0 +1,25 @@
+id: anya
+name: Anya
+slug: anya
+tagline: A platform that fuses AI risk prediction, micronutrient fortification modeling, and
+  culturally re levant meal access into seamless pipeline for India (Basically
+summary: Anya received the 1st Place Overall - $300 in Featherless credits + $250 cash prize award
+  at Iris Hacks IV in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Dishank-Sen/Anya
+demo_url: null
+video_url: https://www.youtube.com/embed/KHUIgJuU12M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/077/673/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - mapbox
+  - postgresql
+  - python
+  - react
+  - tensorflow
+builders:
+  - name: Dishank Sen

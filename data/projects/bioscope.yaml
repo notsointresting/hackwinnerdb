@@ -1,0 +1,25 @@
+id: bioscope
+name: BioScope
+slug: bioscope
+tagline: BioScope simulates species removal across San Diego ecosystems, showing which species
+  impact specific environments the most. 432K observations, real cascade ana
+summary: BioScope received the UI/UX Design + Web Development track award at DataHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Allghelierce/Bioscope.git
+demo_url: null
+video_url: https://www.youtube.com/embed/R6QAX09ipwc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/465/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - python
+  - tailwind-css
+  - typescript
+builders:
+  - name: Audrey Miller
+  - name: Saahithi Myneedu
+  - name: Cesar Villegas
+  - name: Prisha Maiti

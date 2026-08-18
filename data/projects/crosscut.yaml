@@ -1,0 +1,23 @@
+id: crosscut
+name: CrossCut
+slug: crosscut
+tagline: Run What Matters !!
+summary: "CrossCut received the Showcase Track: Potential Impact, First Place award at GitLab
+  Transcend Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/rahulgunwanistudy-2005
+demo_url: null
+video_url: https://www.youtube.com/embed/i0acwNFepRo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: pritesh kumar
+  - name: Rahul Gunwani

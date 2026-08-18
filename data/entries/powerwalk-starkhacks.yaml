@@ -1,0 +1,14 @@
+id: powerwalk-starkhacks
+project_id: powerwalk
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/powerwalk-lazmgb
+source:
+  platform: devpost
+  url: https://devpost.com/software/powerwalk-lazmgb
+awards:
+  - type: other
+    title: Analog Devices Sensor Fusion
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

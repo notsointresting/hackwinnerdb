@@ -1,0 +1,20 @@
+id: signal-atlas
+name: Signal Atlas
+slug: signal-atlas
+tagline: Signal Atlas turns global news into an interactive map and personalized AI newscasts,
+  making it easier to explore, understand, and listen to the world.
+summary: Signal Atlas received the First Place - Intermediate award at Weber State AI Hackathon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bw3356K9kPs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/524/402/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Ashe ​

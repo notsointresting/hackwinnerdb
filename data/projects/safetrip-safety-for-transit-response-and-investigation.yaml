@@ -1,0 +1,29 @@
+id: safetrip-safety-for-transit-response-and-investigation
+name: SafeTrip, Safety for Transit Response and Investigation
+slug: safetrip-safety-for-transit-response-and-investigation
+tagline: SafeTrip turns CCTV and commuter reports into real-time alerts, coordinated officer
+  response, and searchable evidence, helping Jakarta’s transit operators act a
+summary: SafeTrip, Safety for Transit Response and Investigation received the 1st Place Safety Track
+  award at Garuda Hacks 7.0 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/ShibainuID/safetrip
+demo_url: null
+video_url: https://www.youtube.com/embed/DOi-GC6uMGQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/912/278/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - opencv
+  - postgresql
+  - python
+  - typescript
+  - vercel
+builders:
+  - name: Abel  Gani
+  - name: tiffany chu
+  - name: Jason Edward Salim
+  - name: Athilla Zaidan

@@ -1,0 +1,22 @@
+id: biolattice
+name: BioLattice
+slug: biolattice
+tagline: Illuminating the hidden architecture of biomedical research by transforming disconnected
+  abstracts into a navigable, 3D map of evidence.
+summary: BioLattice received the Best Project - Biotech Track award at Tufts NSDC Datathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UOo9__IuFhA
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Raphael Orcino

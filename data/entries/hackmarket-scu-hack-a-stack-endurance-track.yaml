@@ -1,0 +1,14 @@
+id: hackmarket-scu-hack-a-stack-endurance-track
+project_id: hackmarket
+hackathon_id: scu-hack-a-stack-endurance-track
+submission_url: https://devpost.com/software/hackmarket
+source:
+  platform: devpost
+  url: https://devpost.com/software/hackmarket
+awards:
+  - type: other
+    title: Future Unicorn
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

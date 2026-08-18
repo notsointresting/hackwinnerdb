@@ -1,0 +1,21 @@
+id: sentinel-public-service-voice-ai-auditor
+name: Sentinel - Public Service Voice AI Auditor
+slug: sentinel-public-service-voice-ai-auditor
+tagline: Autonomously audits AI voice agents in public services for EU and UK compliance, deriving
+  cited breaches through a Prometheux reasoning graph. Catches the agent
+summary: Sentinel - Public Service Voice AI Auditor received the Best Use of Tavily Search award at
+  Multiagents Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/JinalP-03/sentinel-audit
+demo_url: null
+video_url: https://www.youtube.com/embed/J3ALfjO_Qtg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/422/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - nextjs
+builders:
+  - name: Jinal Parekh

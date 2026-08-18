@@ -1,0 +1,14 @@
+id: suar-garuda-hacks-7-0
+project_id: suar
+hackathon_id: garuda-hacks-7-0
+submission_url: https://devpost.com/software/suar
+source:
+  platform: devpost
+  url: https://devpost.com/software/suar
+awards:
+  - type: third-place
+    title: 3rd Place Safety Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

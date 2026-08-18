@@ -1,0 +1,14 @@
+id: hoothacks
+name: HootHacks
+slug: hoothacks
+organizer: []
+year: 2026
+sources:
+  - https://hoothacks.devpost.com/
+  - https://hoothacks.devpost.com/project-gallery?filter=winner
+website_url: https://hoothacks.devpost.com/
+platform: devpost
+participant_count: 35
+prize_pool: 450
+currency: USD
+description: "Devpost hackathon: HootHacks. Imported automatically."

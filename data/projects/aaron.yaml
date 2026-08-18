@@ -1,0 +1,24 @@
+id: aaron
+name: Aaron
+slug: aaron
+tagline: A self improving engineer that joins your google meets, contributes to the discussion in
+  real time, and ships code before the meeting ends.
+summary: Aaron received the Best use of Modulate's APIs award at Self Improving Agents Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/VbQ1rdQCVCo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/348/348/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: Tim Tan
+  - name: Ibrahim Syed
+  - name: Bini Park
+  - name: Timothy Wang

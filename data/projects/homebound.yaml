@@ -1,0 +1,22 @@
+id: homebound
+name: HomeBound
+slug: homebound
+tagline: Personalized, intelligent, property recommendation system tailored to you and your needs.
+summary: HomeBound received the WEHack General Track award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dana-I/HomeBound
+demo_url: null
+video_url: https://www.youtube.com/embed/VWFIbqfUpw8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/631/388/datas/medium.png
+categories:
+  - other
+technologies:
+  - flask
+  - javascript
+  - python
+  - pytorch
+  - sqlite
+builders:
+  - name: Dana Ibrahim
+  - name: Hadeel Hassanien

@@ -1,0 +1,21 @@
+id: whims
+name: Whims
+slug: whims
+tagline: A daily shared activity that gets students off their phones and into the real world,
+  improving mental health through action instead of idle self-reflection.
+summary: Whims received the 1st Place Award - Healthcare award at Pi Hacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jusmasjusmas/quest
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/432/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - fintech
+technologies:
+  - figma
+  - react
+builders:
+  - name: Justin Mason

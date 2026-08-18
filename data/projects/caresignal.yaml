@@ -1,0 +1,23 @@
+id: caresignal
+name: CareSignal
+slug: caresignal
+tagline: Find trusted care faster with AI-powered facility search, location insights, and trust
+  signals that help patients compare options and make confident care decisi
+summary: CareSignal received the 3rd Place Gift Card award at Databricks Apps & Agents for Good
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/aerkothalanka/caretrust
+demo_url: null
+video_url: https://www.youtube.com/embed/pAZOcWWU3Fk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/781/316/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Rishi Kothalanka
+  - name: Neelima Talasila

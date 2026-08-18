@@ -1,0 +1,22 @@
+id: xern-ai
+name: Xern AI
+slug: xern-ai
+tagline: Xern AI turns messy feedback into build-ready product specs, generating evidence-backed
+  proposals with user quotes, UI/data model ideas, and engineering tasks f
+summary: Xern AI received the First place award at LUMA Pitch Competition in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BaconMan1168/xern-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/7VK8KcJMZzg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/634/824/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - stripe
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Daniel Guirao

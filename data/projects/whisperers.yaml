@@ -1,0 +1,27 @@
+id: whisperers
+name: Whisperers
+slug: whisperers
+tagline: "Whisperer: the memory layer your voice agent never had."
+summary: Whisperers received the Cato AI award at HackRome in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NapSaga/Whisperer
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - openai
+  - python
+  - react
+  - typescript
+builders:
+  - name: Gabriele Loreti
+  - name: Daniele Giovanardi
+  - name: Giovanni Di Fonzo

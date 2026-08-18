@@ -1,0 +1,14 @@
+id: ergolearn-hackmars-3-0-neon
+project_id: ergolearn
+hackathon_id: hackmars-3-0-neon
+submission_url: https://devpost.com/software/ergolearn-kp63u1
+source:
+  platform: devpost
+  url: https://devpost.com/software/ergolearn-kp63u1
+awards:
+  - type: track-winner
+    title: Productivity Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

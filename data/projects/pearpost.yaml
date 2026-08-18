@@ -1,0 +1,23 @@
+id: pearpost
+name: PearPost
+slug: pearpost
+tagline: A serverless agent communication network where personal AI agents discover each other,
+  exchange messages, delegate tasks, and coordinate decisions from develope
+summary: PearPost received the [Skyscanner] 1st place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EternalRecursion121/post
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/278/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Emily Yee
+  - name: Samuel Ratnam
+  - name: Maiya Zhanaidarova
+  - name: Leila Wan

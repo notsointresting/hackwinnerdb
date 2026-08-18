@@ -1,0 +1,26 @@
+id: visacurator
+name: VisaCurator
+slug: visacurator
+tagline: "Your AI visa companion: Recommendations, Risk analysis, Document verification, Travel
+  plans, and traveler connections, all in one place."
+summary: VisaCurator received the Focused Lab Best Corporate Innovation Project award at Scarlet
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/saiabhi1908/VisaCurator
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/906/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+  - stripe
+  - tailwind-css
+builders:
+  - name: Sai Abhinav Kolli
+  - name: Satya Mani Srujan Dommeti
+  - name: Srilekha Manjunath

@@ -1,0 +1,14 @@
+id: specrag-built-with-python-hackathon
+project_id: specrag
+hackathon_id: built-with-python-hackathon
+submission_url: https://devpost.com/software/specrag-42wy9l
+source:
+  platform: devpost
+  url: https://devpost.com/software/specrag-42wy9l
+awards:
+  - type: other
+    title: CS4Everyone Innovation Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

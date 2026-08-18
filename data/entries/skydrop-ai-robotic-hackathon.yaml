@@ -1,0 +1,14 @@
+id: skydrop-ai-robotic-hackathon
+project_id: skydrop-ai
+hackathon_id: robotic-hackathon
+submission_url: https://devpost.com/software/skydrop-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/skydrop-ai
+awards:
+  - type: grand-prize
+    title: "Grand Prize: SkyEu Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

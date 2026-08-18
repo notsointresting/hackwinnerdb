@@ -1,0 +1,23 @@
+id: vitrine
+name: Vitrine
+slug: vitrine
+tagline: Vitrine - a software marketplace where every product ships with a live, runnable preview,
+  and where AI agents fill technical specs, verify quality, rank listing
+summary: Vitrine received the ChatGPT Plus award at Codex Meetup Dhaka - UIU in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MdAhbab/vitrine
+demo_url: null
+video_url: https://www.youtube.com/embed/JhVXCnlovhk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/750/425/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - openai
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Md Ahbab Hamid Khan

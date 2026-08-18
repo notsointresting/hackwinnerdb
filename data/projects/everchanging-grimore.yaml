@@ -1,0 +1,23 @@
+id: everchanging-grimore
+name: Everchanging Grimore
+slug: everchanging-grimore
+tagline: An LLM Dungeon Master tracks your playstyle to compose unique spells and adaptive enemy
+  spawns in this reactive, AI-driven roguelike.
+summary: Everchanging Grimore received the Most Entertaining Game award at Hackiethon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/IJ-hackies/MelbourneHack-Hackiethon-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/GSL-hCWdvF8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/516/725/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - gemini
+  - python
+  - unity
+builders:
+  - name: Iden McElhone
+  - name: Jorvan Low

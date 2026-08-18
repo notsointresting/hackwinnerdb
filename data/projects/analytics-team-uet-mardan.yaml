@@ -1,0 +1,22 @@
+id: analytics-team-uet-mardan
+name: Analytics team UET Mardan
+slug: analytics-team-uet-mardan
+tagline: An intelligent air quality monitoring pipeline featuring adaptive anomaly detection,
+  seasonal analysis, and real-time smog alerts for Pakistan.
+summary: Analytics team UET Mardan received the 3rd Prize award at SmogNet Datathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/697/253/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Hammad Ahmad
+  - name: Ibad Ur Rahman
+  - name: Syed Ansar
+  - name: Nasir Khan

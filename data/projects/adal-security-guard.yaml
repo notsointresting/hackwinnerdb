@@ -1,0 +1,24 @@
+id: adal-security-guard
+name: AdaL Security Guard
+slug: adal-security-guard
+tagline: AI security reviewer that blocks risky `git push`es and auto-comments findings on every
+  commit — one-line install, no API keys.
+summary: AdaL Security Guard received the Best Use of Adal AI award at SCU Hack-a-Stack - Endurance
+  Track in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/alex0huang/hackthonadal
+demo_url: null
+video_url: https://www.youtube.com/embed/rbxLIiEmiJ0
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - javascript
+  - python
+builders:
+  - name: Yufan Weng
+  - name: alex0huang huang

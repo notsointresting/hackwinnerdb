@@ -1,0 +1,29 @@
+id: socialbytes
+name: SocialBytes
+slug: socialbytes
+tagline: Social Bytes is your AI-powered nutritional ecosystem that can transform a simple photo
+  into a personalized health journey!
+summary: SocialBytes received the [MLH] Best Hack Built with Google Antigravity award at HackMerced
+  XI in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/An-Actual-g00se/Hack-Merced-XI
+demo_url: null
+video_url: https://www.youtube.com/embed/jphmiJXbYzU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/749/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+  - vercel
+builders:
+  - name: Bode Polhemus
+  - name: Bailey McCalmont
+  - name: Arnold Rocha
+  - name: Napoleon Serna

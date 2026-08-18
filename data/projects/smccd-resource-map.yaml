@@ -1,0 +1,24 @@
+id: smccd-resource-map
+name: SMCCD Resource Map
+slug: smccd-resource-map
+tagline: "A visual map of student resources (internships, scholarships, clubs, events) across all
+  three SMCCD colleges. Search, filter, or add new resources by pasting a "
+summary: "SMCCD Resource Map received the Improving SMCCD Track: 3rd place: $30 Amazon Gift card
+  (per team member) award at SMCCD 2026 Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Aqualatic/26Hack
+demo_url: null
+video_url: https://www.youtube.com/embed/8fVuEVwdtRA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - supabase
+  - vercel
+builders:
+  - name: Jayden A

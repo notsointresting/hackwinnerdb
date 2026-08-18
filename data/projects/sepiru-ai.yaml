@@ -1,0 +1,23 @@
+id: sepiru-ai
+name: Sepiru AI
+slug: sepiru-ai
+tagline: AI shouldn't be a privilege. Sepiru AI makes data intelligence free, private, and
+  multilingual, empowering everyone to make informed decisions regardless of wea
+summary: Sepiru AI received the Best UI/UX Award award at FutureAI Global Hackathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SARazzaq/Sepiru-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/_eSoLRVqE8I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/841/757/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - groq
+  - javascript
+  - llama
+  - python
+builders:
+  - name: Sk Abdur Razzaq

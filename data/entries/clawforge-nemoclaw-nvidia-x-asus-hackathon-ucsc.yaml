@@ -1,0 +1,14 @@
+id: clawforge-nemoclaw-nvidia-x-asus-hackathon-ucsc
+project_id: clawforge
+hackathon_id: nemoclaw-nvidia-x-asus-hackathon-ucsc
+submission_url: https://devpost.com/software/clawforge
+source:
+  platform: devpost
+  url: https://devpost.com/software/clawforge
+awards:
+  - type: category-winner
+    title: Best Use of Brev
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

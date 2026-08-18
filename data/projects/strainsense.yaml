@@ -1,0 +1,24 @@
+id: strainsense
+name: StrainSense
+slug: strainsense
+tagline: StrainSense turns your camera into a real-time movement coach—detecting hidden posture
+  issues, mapping strain, and guiding you with personalized, live correctio
+summary: StrainSense received the Third Place award at Claude Builders AI Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/myselfadityaranjan/mcgillcbchacksw26
+demo_url: null
+video_url: https://www.youtube.com/embed/gMVEnK5Bmbw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/096/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aditya Ranjan
+  - name: Will Callaghan
+  - name: Brendan Carney

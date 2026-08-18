@@ -1,0 +1,25 @@
+id: hallmark
+name: Hallmark
+slug: hallmark
+tagline: "Governed AI creative: generate ad campaigns that can prove where they came from."
+summary: "Hallmark received the Feedback prize award at Backblaze Generative Media Hackathon: Build
+  with Genblaze on B2 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/23f2001033/b2genblaze
+demo_url: null
+video_url: https://www.youtube.com/embed/C0DIuO0-_i4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/049/295/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: AMAN MAURYA

@@ -1,0 +1,23 @@
+id: sepsiscare
+name: SepsisCare
+slug: sepsiscare
+tagline: "A RL project in healthcare: adjusts sepsis treatment dosages (e.g., fluids, vasopressors)
+  based on patient's blood pressure and lactate levels."
+summary: SepsisCare received the Participation Swag & Benefits award at Quantum Sprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SK625/SepsisCare
+demo_url: null
+video_url: https://www.youtube.com/embed/-LD4RGBfGhg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/259/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+  - creative-tools
+technologies:
+  - docker
+  - fastapi
+builders:
+  - name: Soumya Kumari
+  - name: Shruthi Shankar
+  - name: Shreya Tyagi

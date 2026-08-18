@@ -1,0 +1,21 @@
+id: ai-genie-quest
+name: AI-Genie Quest
+slug: ai-genie-quest
+tagline: An age-adaptive AI tutor powered by Gemini that dynamically transforms its UI, tone, and
+  complexity to teach kids Artificial Intelligence at their own pace.
+summary: AI-Genie Quest received the MLH + GEMINI SWAG award at PIXEL GEMINI 2.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/deepaknailwal/genie-ai-academy
+demo_url: null
+video_url: https://www.youtube.com/embed/IqfJb0vRDR8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/672/792/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - tailwind-css
+builders:
+  - name: Deepanshu .

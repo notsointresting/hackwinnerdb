@@ -1,0 +1,21 @@
+id: trustguard-ai
+name: TrustGuard-AI
+slug: trustguard-ai
+tagline: AI that protects job seekers from scams
+summary: TrustGuard-AI received the Innovation Excellence Award award at Hack Days in Bhopal 2.O in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/116/625/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Akash Patel

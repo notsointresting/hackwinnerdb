@@ -1,0 +1,14 @@
+id: mariobros-hackhexa
+project_id: mariobros
+hackathon_id: hackhexa
+submission_url: https://devpost.com/software/mariobros
+source:
+  platform: devpost
+  url: https://devpost.com/software/mariobros
+awards:
+  - type: other
+    title: Team Leadership
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

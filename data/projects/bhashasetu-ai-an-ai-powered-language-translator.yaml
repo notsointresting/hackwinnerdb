@@ -1,0 +1,21 @@
+id: bhashasetu-ai-an-ai-powered-language-translator
+name: BhashaSetu AI- An AI Powered Language Translator
+slug: bhashasetu-ai-an-ai-powered-language-translator
+tagline: Breaking language barriers with AI-powered real-time voice translation.
+summary: BhashaSetu AI- An AI Powered Language Translator received the SWAG award at HACK DAYS
+  JABALPUR in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/755/215/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - gemini
+  - python
+builders:
+  - name: Saksham Jain

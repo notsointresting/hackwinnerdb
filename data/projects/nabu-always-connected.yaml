@@ -1,0 +1,24 @@
+id: nabu-always-connected
+name: Nabu- Always connected
+slug: nabu-always-connected
+tagline: 'Nabu is an AI companion that "sees" through Gemini and "speaks" with empathetic, cloned
+  voices via ElevenLabs. We turn cold technology into a familiar presence '
+summary: Nabu- Always connected received the [MLH] Best Use of ElevenLabs award at Hack Kosice 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/fw9zHzhhDfE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/916/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - mongodb
+  - python
+builders:
+  - name: Neil Burt Martin
+  - name: Yassir Omari
+  - name: Einar Jensen

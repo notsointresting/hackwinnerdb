@@ -1,0 +1,21 @@
+id: augur
+name: AUGUR
+slug: augur
+tagline: Hospitals have dashboards. We built a twin that tells you what the intervention is worth.
+summary: AUGUR received the First Place award at Vitalitics 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/GH41dcS2yJ0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/058/646/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Maham Zehra
+  - name: Abdul Sammi Khan

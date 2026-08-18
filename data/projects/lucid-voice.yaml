@@ -1,0 +1,29 @@
+id: lucid-voice
+name: Lucid Voice
+slug: lucid-voice
+tagline: "Lucid Voice gives people who can't speak their voice back: a few taps become a full
+  sentence in their own voice, shaped to who they're talking to, and fully pri"
+summary: Lucid Voice received the GRAND PRIZE - Ddoski's World Track award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/dbhargav-uw/Lucid-Voice
+demo_url: null
+video_url: https://www.youtube.com/embed/3OAKS2ppySo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/800/163/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - pytorch
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+  - whisper
+builders:
+  - name: Dhruv Bhargava
+  - name: Rishabh Bhargava

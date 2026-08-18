@@ -1,0 +1,14 @@
+id: linkup-hack-days-in-jabalpur
+project_id: linkup
+hackathon_id: hack-days-in-jabalpur
+submission_url: https://devpost.com/software/linkup-02dbuj
+source:
+  platform: devpost
+  url: https://devpost.com/software/linkup-02dbuj
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: claimlens-gemini-powered-reimbursement-document-review
+name: ClaimLens：Gemini Powered Reimbursement Document Review
+slug: claimlens-gemini-powered-reimbursement-document-review
+tagline: "A Gemini-powered multi-agent reimbursement reviewer that reads invoices and PDFs,
+  structures expenses, checks policy and payment evidence, flags cross-currency "
+summary: ClaimLens：Gemini Powered Reimbursement Document Review received the Best App Deployed on
+  Google Cloud award at Build with Gemini in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hallwoo-code/ClaimLens-Gemini-Powered-Reimbursement-Document-Review
+demo_url: null
+video_url: https://www.youtube.com/embed/QBD1nhiKJes
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/812/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Wu Hall

@@ -1,0 +1,22 @@
+id: phoenix
+name: Phoenix
+slug: phoenix
+tagline: Media optimisation using GEM
+summary: Phoenix received the [Secondary Challenge] Best Business Idea in Biology & Biotech award at
+  BioHackathon Edinburgh 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/Bilal143260/phoenix_biohackathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Hannah Uddin
+  - name: Starry5kies
+  - name: Noor Ul Zain

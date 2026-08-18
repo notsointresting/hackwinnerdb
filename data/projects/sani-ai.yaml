@@ -1,0 +1,22 @@
+id: sani-ai
+name: SANI AI
+slug: sani-ai
+tagline: SaniAI is an AI health triage & epidemic sentinel for Uganda. Has an installable PWA audio
+  I/O, it works on weak networks to provide instant, life-saving triage
+summary: SANI AI received the Best Use of Gemini API award at Build with AI Makerere Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Alexis-Mupole/SANI_AI
+demo_url: null
+video_url: https://www.youtube.com/embed/hxsOpa22LYs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/830/350/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - typescript
+builders:
+  - name: Alexis Mupole
+  - name: Kizito Ronald

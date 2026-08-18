@@ -1,0 +1,24 @@
+id: recoverx
+name: RecoverX
+slug: recoverx
+tagline: RecoverX is an AI-powered rehab assistant that uses a laptop camera to monitor post-surgery
+  physiotherapy exercises and provide real-time voice feedback, helpin
+summary: RecoverX received the Gift Cards award at HackDay Agra in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - tailwind-css
+  - typescript
+  - webrtc
+builders:
+  - name: Pulkit Kulshreshtha
+  - name: Gauri Singh
+  - name: Varun Khandelwal

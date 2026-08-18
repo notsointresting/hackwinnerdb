@@ -1,0 +1,14 @@
+id: aerogreen-hacknewhaven-2026
+project_id: aerogreen
+hackathon_id: hacknewhaven-2026
+submission_url: https://devpost.com/software/aerogreen
+source:
+  platform: devpost
+  url: https://devpost.com/software/aerogreen
+awards:
+  - type: category-winner
+    title: Best Use of Solana
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

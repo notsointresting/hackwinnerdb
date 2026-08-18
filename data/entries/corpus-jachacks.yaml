@@ -1,0 +1,16 @@
+id: corpus-jachacks
+project_id: corpus
+hackathon_id: jachacks
+submission_url: https://devpost.com/software/corpus-43v970
+source:
+  platform: devpost
+  url: https://devpost.com/software/corpus-43v970
+awards:
+  - type: category-winner
+    title: Best Use of Insforge (YC P26)
+  - type: category-winner
+    title: Best Use of Backboard
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

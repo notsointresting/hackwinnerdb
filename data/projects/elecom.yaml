@@ -1,0 +1,23 @@
+id: elecom
+name: Elecom
+slug: elecom
+tagline: Turning noisy wildlife recordings into clean, interpretable signals, unlocking the first
+  step toward understanding elephant communication.
+summary: Elecom received the Best Use of Gemini API award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Advaith-1506/elecom-uc
+demo_url: null
+video_url: https://www.youtube.com/embed/fVE27WZifiw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/560/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - pytorch
+  - react
+  - vercel
+builders:
+  - name: Advaith Madala

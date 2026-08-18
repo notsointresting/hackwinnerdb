@@ -1,0 +1,22 @@
+id: access-rain
+name: Access Rain
+slug: access-rain
+tagline: Rainwater Harvesting Prospecting Engine
+summary: Access Rain received the Best Use of AI award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pranayjeetarora/Access_Rain_Nexus.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/573/415/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Pranayjeet Arora
+  - name: Mohamed Asad
+  - name: iMythic Broski

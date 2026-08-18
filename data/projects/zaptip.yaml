@@ -1,0 +1,19 @@
+id: zaptip
+name: Zaptip
+slug: zaptip
+tagline: Zaptip is a Chrome extension that adds a Zap button to GitHub profiles and repos. Drop your
+  Lightning address in your bio, anyone with the extension can tip you
+summary: Zaptip received the Honorable Mentions award at Bitcoin++ Open Source Edition in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Camillarhi/zaptip
+demo_url: null
+video_url: https://www.youtube.com/embed/IMNVlOGk5mk
+image_url: null
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Rita Anene

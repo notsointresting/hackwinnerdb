@@ -1,0 +1,14 @@
+id: hack-days-at-trent
+name: Hack Days at Trent
+slug: hack-days-at-trent
+organizer: []
+year: 2026
+sources:
+  - https://hack-days-at-trent.devpost.com/
+  - https://hack-days-at-trent.devpost.com/project-gallery?filter=winner
+website_url: https://hack-days-at-trent.devpost.com/
+platform: devpost
+participant_count: 16
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Days at Trent. Imported automatically."

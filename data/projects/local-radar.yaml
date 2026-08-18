@@ -1,0 +1,21 @@
+id: local-radar
+name: Local Radar
+slug: local-radar
+tagline: Local Radar combines actual neighborhoods, businesses, permits, reviews, hiring signals and
+  local news from US Cities, and then uses an AI pipeline to provide a
+summary: Local Radar received the Best Idea award at RLC Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/leo-malinen/Hackathons/tree/main/RLC-hacks_localradar
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/096/940/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Leo M

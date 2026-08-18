@@ -1,0 +1,24 @@
+id: post-x-be-terna-customer-request-processing
+name: Post x BE-terna - Customer request processing
+slug: post-x-be-terna-customer-request-processing
+tagline: An AI-powered customer service assistant for a bus operator that classifies emails,
+  retrieves relevant information, drafts accurate replies, and keeps humans in
+summary: Post x BE-terna - Customer request processing received the Honorable Mention of UiPath
+  Maestro Case award at UiPath AgentHack in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/patrickwirth-beterna/postauto-complaint-solution
+demo_url: null
+video_url: https://www.youtube.com/embed/BxaLvMrr2R8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/847/311/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - javascript
+builders:
+  - name: Patrick Wirth
+  - name: Hector Malécot
+  - name: Filip Cernik
+  - name: Maximilian Ullrich

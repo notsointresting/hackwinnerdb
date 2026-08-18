@@ -1,0 +1,20 @@
+id: scrubai
+name: ScrubAI
+slug: scrubai
+tagline: AI that watches and listens as surgeons scrub in, verifying every step of the sterile
+  protocol in real time using computer vision and speech recognition.
+summary: ScrubAI received the The Conservatory Lab Track award at WEHack 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akao335/ScrubAI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/683/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - python
+builders:
+  - name: Alison Kao
+  - name: KASISH JAIN
+  - name: Melissa Mejia

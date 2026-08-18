@@ -1,0 +1,22 @@
+id: luminafy
+name: Luminafy
+slug: luminafy
+tagline: AI-powered grading that actually works. Upload assignments, set your rules, and let AI
+  grade, detect plagiarism, and provide feedback in seconds. Perfect for te
+summary: "Luminafy received the Top 4–10 Teams: 60% discount on any internship award at HackVision
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/517/899/datas/medium.png
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - blockchain
+technologies:
+  - javascript
+  - nextjs
+  - openai
+builders:
+  - name: Emran widad

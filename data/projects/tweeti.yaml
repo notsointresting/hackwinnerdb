@@ -1,0 +1,23 @@
+id: tweeti
+name: tweeti
+slug: tweeti
+tagline: Can a machine read between the lines of a tweet and pick the right emoji? We trained 5
+  models to find out and the mistakes were more interesting than the accura
+summary: tweeti received the People's Choice award at Data Heist 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bvazrala/uci_datathon_2026_project
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/507/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Bala Kausik Vazrala
+  - name: Vishal Srivastava
+  - name: Boris Chica
+  - name: Sparsh Paras Virwaney

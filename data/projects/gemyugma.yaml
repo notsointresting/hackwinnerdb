@@ -1,0 +1,19 @@
+id: gemyugma
+name: GemYugma
+slug: gemyugma
+tagline: Developed a Lost & Found Management System using Node.js, Express, MongoDB, and EJS.
+  Application for reporting and viewing lost and found items.
+summary: GemYugma received the Best Use of the Google Gemini API award at Hack Days in Oriental in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MrunaliniPachpute/GemYugma
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/115/871/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Choure Ji

@@ -1,0 +1,22 @@
+id: scanproof
+name: ScanProof
+slug: scanproof
+tagline: Your model says 99.9%. ScanProof says whether that's worth anything.
+summary: ScanProof received the Third Place award at Vitalitics 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HenryZhao88/ScanProof
+demo_url: null
+video_url: https://www.youtube.com/embed/pLgeJrApsaQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/038/657/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+  - typescript
+builders:
+  - name: Henry Zhao

@@ -1,0 +1,14 @@
+id: project-ampm-hack-the-6ix-2026
+project_id: project-ampm
+hackathon_id: hack-the-6ix-2026
+submission_url: https://devpost.com/software/project-ampm
+source:
+  platform: devpost
+  url: https://devpost.com/software/project-ampm
+awards:
+  - type: category-winner
+    title: "QNX: Best Use of QNX"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: toiletgo
+name: ToiletGO
+slug: toiletgo
+tagline: When nature calls, 4.2 stars isn't enough. Give yourself the relief you deserve - ToiletGO
+summary: ToiletGO received the Most Entertaining Pitch award at UNIHACK 2026, funded by the European
+  Union in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/shiimee/UNIHACK-2026-TOILETGO-
+demo_url: null
+video_url: https://www.youtube.com/embed/byKtrG2CdOs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/439/249/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+  - google-maps
+  - python
+  - typescript
+builders:
+  - name: Jason Lin
+  - name: Alex Meyzis
+  - name: Clarence Antonmeryl
+  - name: Chloe Tan

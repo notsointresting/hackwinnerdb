@@ -1,0 +1,25 @@
+id: bob-vr
+name: Bob VR
+slug: bob-vr
+tagline: There are over 20 million wrist fractures annually. Bob VR gamifies the subsequent 6 weeks
+  of physical therapy and provides physician-like feedback to guide rec
+summary: Bob VR received the Espressif Innovation in Smart Home/City award at StarkHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MZxrPns1KYM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/587/471/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - c-plus-plus
+  - python
+builders:
+  - name: Samuel Landon
+  - name: Mattia Cox
+  - name: alberto mazza
+  - name: Martina Maiorana

@@ -1,0 +1,26 @@
+id: minecraft-companion
+name: Minecraft Companion
+slug: minecraft-companion
+tagline: A customizable personal AI assistant that plays Minecraft with you.
+summary: Minecraft Companion received the Keychron K8 Wireless Mechanical Keyboard award at
+  EurekaHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/CDX-1/minecraft-companion
+demo_url: null
+video_url: https://www.youtube.com/embed/FvIL3GcQaow
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - arduino
+  - elevenlabs
+  - gemini
+  - openai
+  - typescript
+builders:
+  - name: Awsaf Syed
+  - name: Ayaan Sajjad
+  - name: Alec Li

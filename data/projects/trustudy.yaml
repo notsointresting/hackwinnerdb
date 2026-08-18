@@ -1,0 +1,24 @@
+id: trustudy
+name: TruStudy
+slug: trustudy
+tagline: All your courses, deadlines, and to-dos in one place, powered by a multi-agent RAG system
+  that extracts from PDFs, slides, images, and videos so you can chat wi
+summary: TruStudy received the Developer award at Boeing presents TruHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/baohuy1303/tru-study
+demo_url: null
+video_url: https://www.youtube.com/embed/uZVnux7hdBE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/127/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - fastapi
+  - langchain
+  - python
+  - react
+  - typescript
+builders:
+  - name: Huy B. Huynh

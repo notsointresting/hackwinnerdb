@@ -1,0 +1,16 @@
+id: merit-straight-up-hackathon
+project_id: merit
+hackathon_id: straight-up-hackathon
+submission_url: https://devpost.com/software/merit-mxfge7
+source:
+  platform: devpost
+  url: https://devpost.com/software/merit-mxfge7
+awards:
+  - type: category-winner
+    title: Best in Theme Award
+  - type: other
+    title: AIF Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

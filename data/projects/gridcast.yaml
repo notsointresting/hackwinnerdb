@@ -1,0 +1,28 @@
+id: gridcast
+name: GridCast
+slug: gridcast
+tagline: Saving the Earth 1 watt at a time
+summary: GridCast received the Coffee Chat with Asma Ahmed (IBM Z Sheridan President and Founder of
+  UNSA Sheridan) award at IBM x UNSA Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nzouh/GridCast
+demo_url: null
+video_url: https://www.youtube.com/embed/-OHXRK749SA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/801/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Abdelhamid Sabir
+  - name: Nabil Zouhari
+  - name: Rayane Boussanni

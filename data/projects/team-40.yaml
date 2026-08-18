@@ -1,0 +1,20 @@
+id: team-40
+name: Team 40
+slug: team-40
+tagline: AWS Jam
+summary: Team 40 received the Cloud Track Bronze Medal (3rd Place) award at Cloudathon@SJSU 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - cybersecurity
+  - productivity
+technologies: []
+builders:
+  - name: Sanat Singhal
+  - name: Shruthi Raghavan
+  - name: Hoang Pham
+  - name: Jeriel Goh

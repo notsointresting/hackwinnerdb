@@ -1,0 +1,23 @@
+id: warmintro
+name: WarmIntro
+slug: warmintro
+tagline: Stop applying cold. Start connecting warm. AI-powered recruiting pipeline that turns your
+  alumni network into job offers - with the math to prove it.
+summary: WarmIntro received the Track Winner award at Y-Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dremix10/WarmIntro/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/e18MxMjlanE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/059/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Demetris Chrysostomou
+  - name: Christos Economides

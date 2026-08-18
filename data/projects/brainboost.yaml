@@ -1,0 +1,21 @@
+id: brainboost
+name: BrainBoost
+slug: brainboost
+tagline: A gamified digital platform that helps patients with brain illnesses rebuild cognitive
+  skills, track recovery, and regain confidence - while giving clinicians r
+summary: BrainBoost received the Finalist award at UW Tech Exploration Lab Digital Health Challenge
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/himccoder/BrainBoost
+demo_url: null
+video_url: https://www.youtube.com/embed/HEDhCQI93H0
+image_url: null
+categories:
+  - healthcare
+technologies:
+  - postgresql
+  - react
+  - supabase
+builders:
+  - name: Himnish Chhabra
+  - name: Shilin Chhabra

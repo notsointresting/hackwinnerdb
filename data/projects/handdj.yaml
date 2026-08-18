@@ -1,0 +1,19 @@
+id: handdj
+name: HandDJ
+slug: handdj
+tagline: Compose electronic music just by wiggling your fingers, hand positions swapping live
+  instruments in real time. Once you're done, go full party mode. Be both the
+summary: HandDJ received the Best use of Snap Lens Studio award at YHack Spring 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/cohE1Eti1dU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/078/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Ian Tinney

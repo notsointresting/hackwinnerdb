@@ -1,0 +1,23 @@
+id: connectunes
+name: Connectunes
+slug: connectunes
+tagline: New York Times Games style minigames but based on your personal Spotify statistics!
+summary: "Connectunes received the WiC: Best Game Hack award at WiCHacks '26 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/madisavage/wichacks2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/559/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - gaming
+technologies:
+  - figma
+  - javascript
+builders:
+  - name: Katie N
+  - name: Madison Savage
+  - name: Amber Goldhagen
+  - name: Andrea Egan

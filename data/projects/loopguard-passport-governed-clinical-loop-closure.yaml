@@ -1,0 +1,20 @@
+id: loopguard-passport-governed-clinical-loop-closure
+name: LoopGuard Passport — Governed Clinical Loop Closure
+slug: loopguard-passport-governed-clinical-loop-closure
+tagline: Prevent the diagnostic harm that begins the moment a follow-up falls silent.
+summary: LoopGuard Passport — Governed Clinical Loop Closure received the 2nd Prize award at Agents
+  Assemble - The Healthcare AI Endgame in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/BoBbY-dev-0099/loopguard-passport
+demo_url: null
+video_url: https://www.youtube.com/embed/rYQLjo_GDj4
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Aayush Sigdel

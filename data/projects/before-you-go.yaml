@@ -1,0 +1,20 @@
+id: before-you-go
+name: Before You Go
+slug: before-you-go
+tagline: Before You Go lets kids step into the doctor's shoes in VR, so nothing is a surprise when
+  it's their turn. Built for Children's Hospital. Built in 48 hours.
+summary: Before You Go received the Overall Second Place award at CareXR Hack in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AdamMTK-NB/BeforeYouGo
+demo_url: null
+video_url: https://www.youtube.com/embed/70d2WVGRg7E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/646/datas/gallery.jpg
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies:
+  - unity
+builders:
+  - name: Adam Maatouk

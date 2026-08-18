@@ -1,0 +1,22 @@
+id: scam-swarm
+name: Scam Swarm
+slug: scam-swarm
+tagline: Real-time multi-agent AI forensics to intercept digital fraud before it happens.
+summary: Scam Swarm received the Best Use of Google APIs (Gemini/Cloud) award at Gemini.exe 2.0 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/immanuel-thomas-j/Scam-Swarm-Immanuel
+demo_url: null
+video_url: https://www.youtube.com/embed/s5-9-mTKe9o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/799/172/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - iot
+technologies:
+  - firebase
+  - gemini
+  - groq
+  - react
+builders:
+  - name: Immanuel Thomas J

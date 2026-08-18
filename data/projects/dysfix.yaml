@@ -1,0 +1,21 @@
+id: dysfix
+name: DysFix
+slug: dysfix
+tagline: DysFix is a calm AI reading assistant for dyslexic students. We don't fix dyslexia - we fix
+  the design failure of systems never built for neurodivergent brains.
+summary: DysFix received the First Place award at AI4Good Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Anaaya Singhania
+  - name: Harshika Bajaj

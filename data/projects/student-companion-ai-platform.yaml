@@ -1,0 +1,29 @@
+id: student-companion-ai-platform
+name: Student Companion AI Platform
+slug: student-companion-ai-platform
+tagline: Student Companion AI Platform - is an ai-driven student support platform that streamline
+  easy access to academic resources, information and opportunities 24/7 a
+summary: Student Companion AI Platform received the Participation Prize award at Claude Builders
+  Club Hackathon @ ALU in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/711/706/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - claude
+  - docker
+  - hugging-face
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Andrew Boima
+  - name: Dieudonne Ngum
+  - name: David Ndizeye

@@ -1,0 +1,24 @@
+id: bedside
+name: Bedside
+slug: bedside
+tagline: A zero-friction, privacy-first web app replacing the paper binder at the hospice bedside.
+summary: "Bedside received the Best Use of DigitalOcean AI Platform in a Social Good Hack award at
+  AI for Social Good: Hack with MLH & DigitalOcean in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/mYDCzuC2XRI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/880/667/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - figma
+  - javascript
+  - react
+  - supabase
+builders:
+  - name: Sydney Nguyen
+  - name: Michelle Bui

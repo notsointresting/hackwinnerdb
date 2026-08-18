@@ -1,0 +1,16 @@
+id: faro-adahacks-2026
+project_id: faro
+hackathon_id: adahacks-2026
+submission_url: https://devpost.com/software/faro-ch0i9s
+source:
+  platform: devpost
+  url: https://devpost.com/software/faro-ch0i9s
+awards:
+  - type: first-place
+    title: "General Stream: 1st Place"
+  - type: category-winner
+    title: Best Potential Community Impact
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

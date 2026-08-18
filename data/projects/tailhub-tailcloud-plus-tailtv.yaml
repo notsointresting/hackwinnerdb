@@ -1,0 +1,23 @@
+id: tailhub-tailcloud-plus-tailtv
+name: "tailhub: tailcloud + tailtv"
+slug: tailhub-tailcloud-plus-tailtv
+tagline: A private, tailnet-native camera and storage experience built on Tailscale.
+summary: "tailhub: tailcloud + tailtv received the Tailscale Integration Challenge award at Hack
+  Canada 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/hiatus770/canadahack
+demo_url: null
+video_url: https://www.youtube.com/embed/Eq4lmirJxC8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/079/datas/gallery.jpg
+categories:
+  - cloud
+technologies:
+  - fastapi
+  - go
+  - opencv
+  - python
+  - sqlite
+builders:
+  - name: Anastasiya Volgina
+  - name: Rosie Chai

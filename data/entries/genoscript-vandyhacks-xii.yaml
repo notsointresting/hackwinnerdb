@@ -1,0 +1,14 @@
+id: genoscript-vandyhacks-xii
+project_id: genoscript
+hackathon_id: vandyhacks-xii
+submission_url: https://devpost.com/software/genoscript
+source:
+  platform: devpost
+  url: https://devpost.com/software/genoscript
+awards:
+  - type: category-winner
+    title: Best Use of AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

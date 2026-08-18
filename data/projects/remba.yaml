@@ -1,0 +1,20 @@
+id: remba
+name: Remba
+slug: remba
+tagline: Remba is an AI WhatsApp companion tackling chronic drug non-adherence for UN SDG3. It
+  parses text to schedule alerts and texts a chosen mentor if consecutive do
+summary: Remba received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Roamer15/remba
+demo_url: null
+video_url: https://www.youtube.com/embed/mkzVqTYo6TQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/726/804/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - typescript
+builders:
+  - name: Beleke Ian

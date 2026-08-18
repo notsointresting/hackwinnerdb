@@ -1,0 +1,25 @@
+id: proximity-pulse
+name: Proximity Pulse
+slug: proximity-pulse
+tagline: Proximity Pulse uses AR to make CPR training accessible to everyone. Using Snap Spectacles,
+  we provide real-time feedback to turn bystanders into life-savers in
+summary: Proximity Pulse received the Snap Spectacles 1st Place award at RealityShift in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LaurenThoman/CPR-Guide-AR
+demo_url: null
+video_url: https://www.youtube.com/embed/n7xnRRmU5LM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/600/329/datas/medium.png
+categories:
+  - healthcare
+  - accessibility
+  - social-impact
+technologies:
+  - claude
+  - javascript
+  - typescript
+builders:
+  - name: Sriya Pratipati
+  - name: Lauren Thoman
+  - name: Preston T.
+  - name: Sai Raina

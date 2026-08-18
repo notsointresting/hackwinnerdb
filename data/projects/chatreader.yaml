@@ -1,0 +1,19 @@
+id: chatreader
+name: ChatReader
+slug: chatreader
+tagline: ChatReader is a web extension that turns ChatGPT into a structured workspace. Users can
+  send multiple prompts, annotate responses, and branch follow-up question
+summary: ChatReader received the Amazon Gift Card ($100) award at UTSC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cindyweng236/ChatReader.git
+demo_url: null
+video_url: https://www.youtube.com/embed/l5bVenkVUIg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/764/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Cindy Weng

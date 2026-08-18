@@ -1,0 +1,21 @@
+id: handspeaker
+name: HandSpeaker
+slug: handspeaker
+tagline: Real-time sign language translation using AR-powered dynamic gesture understanding.
+summary: HandSpeaker received the Snap Spectacles 2nd Place award at RealityShift in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ZQC8848/SnapHackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/YDRRSMW5VbY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/544/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: Qinchuan Zhang
+  - name: Sakura-kurt Xu
+  - name: SETAREH KARGAHI

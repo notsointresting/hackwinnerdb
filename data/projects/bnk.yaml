@@ -1,0 +1,22 @@
+id: bnk
+name: BNK
+slug: bnk
+tagline: We are here to improve the soil health
+summary: BNK received the Top 10 Best Performers award at 1st Nature's Blueprint Ideathon 2026 !! in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/AMTEkQgqVtg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/764/556/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - social-impact
+technologies:
+  - ethereum
+  - react
+  - solidity
+builders:
+  - name: Ritesha Sadul
+  - name: Sanika Pathak

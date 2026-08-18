@@ -1,0 +1,24 @@
+id: code-snap
+name: Code Snap
+slug: code-snap
+tagline: Explore any codebase as an interactive 3D architecture map in AR, turning complex systems
+  into spatial layers you can tap, expand, and understand!
+summary: Code Snap received the XR in Education Track 1st Place - Sponsored by Spectacles award at
+  TigerVerse 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Anshuman12321/TigerVerse-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/-sCkx6G3SNQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/618/408/datas/medium.png
+categories:
+  - education
+  - ar-vr
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Anshuman Mishra
+  - name: Maanav Damaraju
+  - name: Dheeraj M
+  - name: Jack Kidnie

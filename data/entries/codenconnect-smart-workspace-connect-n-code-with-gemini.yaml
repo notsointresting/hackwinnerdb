@@ -1,0 +1,14 @@
+id: codenconnect-smart-workspace-connect-n-code-with-gemini
+project_id: codenconnect-smart-workspace
+hackathon_id: connect-n-code-with-gemini
+submission_url: https://devpost.com/software/codenconnect-smart-workspace
+source:
+  platform: devpost
+  url: https://devpost.com/software/codenconnect-smart-workspace
+awards:
+  - type: category-winner
+    title: Best Use Of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

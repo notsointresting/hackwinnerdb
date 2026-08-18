@@ -1,0 +1,23 @@
+id: curiocity
+name: CurioCity
+slug: curiocity
+tagline: CurioCity is a Spatial, Social, AI learning experience that lets you capture, explore,
+  reflect, and compete with friends.
+summary: CurioCity received the 1st Place award at Reality Hack at AWE 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kaifengwu001/TriviaWorld
+demo_url: null
+video_url: https://www.youtube.com/embed/CSgOjyew7rY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/157/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - gemini
+  - supabase
+builders:
+  - name: Tracy (Xinran) Li
+  - name: Uttam Grandhi
+  - name: Kai Feng Wu

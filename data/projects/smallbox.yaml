@@ -1,0 +1,22 @@
+id: smallbox
+name: SmallBox
+slug: smallbox
+tagline: One dashboard to run your whole business, website, finances, and marketing. Powered by IBM
+  AI. Built for the 400 million small businesses that Shopify wasn't de
+summary: SmallBox received the Coffee Chat with Asma Ahmed (IBM Z Sheridan President and Founder of
+  UNSA Sheridan) award at IBM x UNSA Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AryanKansagara/SmallBox
+demo_url: null
+video_url: https://www.youtube.com/embed/H_ic6Z16sz8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/122/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies: []
+builders:
+  - name: Angelo Rivera
+  - name: Aryan Kansagara
+  - name: Kurlan Beeharry

@@ -1,0 +1,19 @@
+id: arvp-electric-skateboard
+name: ARVP_Electric Skateboard
+slug: arvp-electric-skateboard
+tagline: A self designed and built electric skateboards from parts.
+summary: ARVP_Electric Skateboard received the Civil, Environmental, Mining or Petroleum - 2nd award
+  at Hacked 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - productivity
+  - social-impact
+  - creative-tools
+technologies: []
+builders:
+  - name: Adam Marshall

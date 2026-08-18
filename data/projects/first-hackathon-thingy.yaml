@@ -1,0 +1,18 @@
+id: first-hackathon-thingy
+name: first hackathon thingy
+slug: first-hackathon-thingy
+tagline: survive alone on your spacecraft, managing resources to venture further and make new discoveries
+summary: first hackathon thingy received the Participant award at Project Stellar in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/klokeus/projectStellar-Clodoxys
+demo_url: null
+video_url: https://www.youtube.com/embed/EoISE2GvfDU
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Klo Keus
+  - name: Thriveting han

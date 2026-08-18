@@ -1,0 +1,22 @@
+id: zen
+name: Zen
+slug: zen
+tagline: Google gives you a list. Zen guides you through, tells you where you qualify, explains why
+  in your language, and follows through until help actually arrives. Th
+summary: Zen received the College/Undergraduate Grand Prize award at USAII® Global AI Hackathon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/droca05/zen_sd.git
+demo_url: null
+video_url: https://www.youtube.com/embed/4HO-q0L216o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/807/280/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - supabase
+builders:
+  - name: Diego José Roca Rodríguez
+  - name: Steffany Mishell Lara Muy

@@ -1,0 +1,14 @@
+id: emergegpt-enterprise-agents-hackathon-by-emergence-nebius
+project_id: emergegpt
+hackathon_id: enterprise-agents-hackathon-by-emergence-nebius
+submission_url: https://devpost.com/software/emergegpt
+source:
+  platform: devpost
+  url: https://devpost.com/software/emergegpt
+awards:
+  - type: honorable-mention
+    title: Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

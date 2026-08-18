@@ -1,0 +1,21 @@
+id: foodwill
+name: Foodwill
+slug: foodwill
+tagline: Foodwill is a Waste Exchange Platform that is designed to connect people who have surplus
+  food with those who need it.
+summary: Foodwill received the Beginner's Award award at Hack For The World 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Misri2806/Hackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/fWDCje5IJqs
+image_url: null
+categories:
+  - education
+  - social-impact
+  - creative-tools
+technologies:
+  - java
+  - javascript
+builders:
+  - name: Kaylie Austin

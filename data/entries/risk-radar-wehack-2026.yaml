@@ -1,0 +1,14 @@
+id: risk-radar-wehack-2026
+project_id: risk-radar
+hackathon_id: wehack-2026
+submission_url: https://devpost.com/software/risk-radar-6mv83t
+source:
+  platform: devpost
+  url: https://devpost.com/software/risk-radar-6mv83t
+awards:
+  - type: other
+    title: State Farm Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

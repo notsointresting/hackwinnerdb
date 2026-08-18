@@ -1,0 +1,28 @@
+id: arenaos-ai-intelligent-smart-stadium-operating-system
+name: "ArenaOS AI: Intelligent Smart Stadium Operating System"
+slug: arenaos-ai-intelligent-smart-stadium-operating-system
+tagline: ArenaOS AI is an AI-powered Digital Twin that unifies live stadium operations, predictive
+  analytics, and an AI Copilot into one intelligent command center for f
+summary: "ArenaOS AI: Intelligent Smart Stadium Operating System received the Participation
+  Certificate award at CodeNova 2026 – National AI & Innovation Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/divyanshkumar333/ArenaOS-AI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/vGjC0EyJhHU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/042/012/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - openai
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Divyansh Kumar
+  - name: Vivekjeet patel

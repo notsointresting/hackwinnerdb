@@ -1,0 +1,16 @@
+id: nimbus-la-hacks-2026
+project_id: nimbus
+hackathon_id: la-hacks-2026
+submission_url: https://devpost.com/software/nimbus-q025jc
+source:
+  platform: devpost
+  url: https://devpost.com/software/nimbus-q025jc
+awards:
+  - type: other
+    title: "Arista Networks: Connect the Dots Challenge"
+  - type: sponsor-prize
+    title: High Quality Sponsormaxxing
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

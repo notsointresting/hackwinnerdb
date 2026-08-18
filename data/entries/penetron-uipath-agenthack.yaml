@@ -1,0 +1,16 @@
+id: penetron-uipath-agenthack
+project_id: penetron
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/penetron
+source:
+  platform: devpost
+  url: https://devpost.com/software/penetron
+awards:
+  - type: honorable-mention
+    title: Honorable Mention of UiPath Test Cloud
+  - type: first-place
+    title: Best First-Time Builder
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

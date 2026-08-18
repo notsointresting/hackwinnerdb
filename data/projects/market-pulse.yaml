@@ -1,0 +1,20 @@
+id: market-pulse
+name: Market_Pulse
+slug: market-pulse
+tagline: AI-powered multi-agent financial sentiment platform that transforms real-time market news
+  into actionable sentiment scores, trend insights, and visual analytics
+summary: Market_Pulse received the Participation Prize award at Measure up in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RajanyaSaha-27/Market_Pulse
+demo_url: null
+video_url: https://www.youtube.com/embed/uwZ9YS9QNLQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/019/820/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - python
+  - streamlit
+builders:
+  - name: Rajanya Saha

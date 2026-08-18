@@ -1,0 +1,14 @@
+id: founder-os-the-fintech-hackathon
+project_id: founder-os
+hackathon_id: the-fintech-hackathon
+submission_url: https://devpost.com/software/founder-os-z7dhkb
+source:
+  platform: devpost
+  url: https://devpost.com/software/founder-os-z7dhkb
+awards:
+  - type: category-winner
+    title: Best 'Solution for Startups' Stream
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

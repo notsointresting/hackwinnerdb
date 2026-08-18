@@ -1,0 +1,26 @@
+id: papertrial
+name: PaperTrial
+slug: papertrial
+tagline: Defend your thesis before the real defense destroys you.
+summary: PaperTrial received the Google Swag Kits award at Bot To Agent by MLH Hack Days in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abhi6537/PaperTrial
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/621/754/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - langchain
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Abhinandan Ghosh

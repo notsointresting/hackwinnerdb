@@ -1,0 +1,14 @@
+id: selfheal-qa-uipath-agenthack
+project_id: selfheal-qa
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/selfheal-qa
+source:
+  platform: devpost
+  url: https://devpost.com/software/selfheal-qa
+awards:
+  - type: category-winner
+    title: Best Cross-Platform Integration
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

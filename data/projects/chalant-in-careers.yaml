@@ -1,0 +1,23 @@
+id: chalant-in-careers
+name: Chalant in Careers
+slug: chalant-in-careers
+tagline: Step into Chalant in Careers! Explore real jobs, chat with virtual characters, and test
+  your knowledge and communication skills in different careers. Stay chala
+summary: Chalant in Careers received the Best First Year Game award at Hackiethon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/raniamnda/hackiethon-chalant-in-careers
+demo_url: null
+video_url: https://www.youtube.com/embed/fmFDd1VHHAE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/516/770/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - openai
+  - python
+builders:
+  - name: Michelle Yap
+  - name: Cheryl Brawijaya
+  - name: Rania Amanda

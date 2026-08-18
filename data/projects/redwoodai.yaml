@@ -1,0 +1,23 @@
+id: redwoodai
+name: RedwoodAI
+slug: redwoodai
+tagline: An AI-powered underwriting platform that redacts PII from title documents using NER and
+  pattern models, then predicts property climate risk with SASB-aligned ML
+summary: RedwoodAI received the Best Use of AI in Real Estate - 2nd Place – First American award at
+  IrvineHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/diyadesai1/RedwoodAI
+demo_url: null
+video_url: https://www.youtube.com/embed/FOa1SPl2KsI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/913/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - climate
+technologies:
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: Diya Desai
+  - name: Esha Shivakumar

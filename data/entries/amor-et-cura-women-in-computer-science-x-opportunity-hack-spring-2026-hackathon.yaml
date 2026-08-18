@@ -1,0 +1,14 @@
+id: amor-et-cura-women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+project_id: amor-et-cura
+hackathon_id: women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+submission_url: https://devpost.com/software/amor-et-cura
+source:
+  platform: devpost
+  url: https://devpost.com/software/amor-et-cura
+awards:
+  - type: category-winner
+    title: Best Social Impact
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

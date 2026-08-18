@@ -1,0 +1,23 @@
+id: medi-twin-solo-overall-health-ai-ml
+name: Medi-Twin (Solo, Overall, Health, AI/ML)
+slug: medi-twin-solo-overall-health-ai-ml
+tagline: "We all react to substances differently, yet medication bottles usually give everyone the
+  same dosage. Medi-Twin is a 'Digital Twin' of your body, aiding in the "
+summary: Medi-Twin (Solo, Overall, Health, AI/ML) received the Fitbit award at HackHounds 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CheickLy/MediTwin
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/553/087/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Cheick Ly

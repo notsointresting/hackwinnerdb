@@ -1,0 +1,22 @@
+id: flashai-studio
+name: flashai-studio
+slug: flashai-studio
+tagline: An AI-powered EdTech suite that instantly transforms raw study data (CSV) into interactive
+  flashcards and dynamic quizzes for smarter active recall
+summary: flashai-studio received the Google Swag Kit award at Urdu AI Hackathon - Kick-off Session
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/704/124/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Muhammad Hussai

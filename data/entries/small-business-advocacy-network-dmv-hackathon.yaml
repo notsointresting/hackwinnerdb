@@ -1,0 +1,14 @@
+id: small-business-advocacy-network-dmv-hackathon
+project_id: small-business-advocacy-network
+hackathon_id: dmv-hackathon
+submission_url: https://devpost.com/software/small-business-advocacy-network
+source:
+  platform: devpost
+  url: https://devpost.com/software/small-business-advocacy-network
+awards:
+  - type: track-winner
+    title: Track 3
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: uniguide-waynehacks-4
+project_id: uniguide
+hackathon_id: waynehacks-4
+submission_url: https://devpost.com/software/uniguide-wevnca
+source:
+  platform: devpost
+  url: https://devpost.com/software/uniguide-wevnca
+awards:
+  - type: audience-choice
+    title: People's Choice
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

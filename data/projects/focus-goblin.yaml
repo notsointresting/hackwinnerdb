@@ -1,0 +1,19 @@
+id: focus-goblin
+name: Focus Goblin
+slug: focus-goblin
+tagline: An AI-powered browser extension that detects procrastination and intervenes before
+  doomscrolling takes over.
+summary: "Focus Goblin received the Hack Day I Demoed Stickers award at HackCafe : May Edition in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/VieqSWo176A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/716/229/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Raul Jafarli

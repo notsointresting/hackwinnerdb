@@ -1,0 +1,21 @@
+id: fieldfinder
+name: FieldFinder
+slug: fieldfinder
+tagline: AI maps every career, course, university, and opportunity in any field, personalized to
+  exactly where you are in school.
+summary: FieldFinder received the Best application within category award at Youth Code x AI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/jTOYhSYYWg4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/471/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - claude
+  - groq
+  - javascript
+  - llama
+builders:
+  - name: Stepan Dovbush

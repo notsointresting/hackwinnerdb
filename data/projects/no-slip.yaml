@@ -1,0 +1,22 @@
+id: no-slip
+name: No-slip
+slug: no-slip
+tagline: intellegent slippage-minimization system
+summary: No-slip received the [MLH] Best Use of Solana award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wehackteam/no-slip
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Jiyoung Jeong
+  - name: Leo Frost
+  - name: Heeyeon Koo
+  - name: Sunghoon Park

@@ -1,0 +1,25 @@
+id: medilin
+name: Medilin
+slug: medilin
+tagline: Calls the doctor for you. Fill out a form in any language, our AI calls the clinic and
+  books your appointment. No phone calls, no language barriers, no hassle
+summary: Medilin received the Intermediate 3rd Place award at SolHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6ZJPniNFspk
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - nextjs
+  - typescript
+builders:
+  - name: Amodh Dhakal
+  - name: Greg Ecklund
+  - name: Kelias10
+  - name: kevinsocoplopez-arch Socop-Lopez

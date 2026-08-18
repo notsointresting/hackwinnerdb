@@ -1,0 +1,25 @@
+id: nextbuy
+name: NextBuy
+slug: nextbuy
+tagline: ¿Qué piensan mis clientes y qué quieren comprar? Es la pregunta del millón para los
+  vendedores. Inibsa, la distribuidora de productos para clínicas dentales, no
+summary: NextBuy received the 3rd price - Inibsa Challenge award at InterHackBCN in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ChenghengLi/NextBuy
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/981/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - tailwind-css
+builders:
+  - name: Hui Chen
+  - name: xuyaooo Yao
+  - name: Hao Chen
+  - name: Pengcheng Chen

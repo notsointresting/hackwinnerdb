@@ -1,0 +1,14 @@
+id: hack2dawn
+name: Hack2Dawn
+slug: hack2dawn
+organizer: []
+year: 2026
+sources:
+  - https://hack2dawn.devpost.com/
+  - https://hack2dawn.devpost.com/project-gallery?filter=winner
+website_url: https://hack2dawn.devpost.com/
+platform: devpost
+participant_count: 15
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack2Dawn. Imported automatically."

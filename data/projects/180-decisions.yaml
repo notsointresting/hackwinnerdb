@@ -1,0 +1,19 @@
+id: 180-decisions
+name: 180 Decisions
+slug: 180-decisions
+tagline: Diabetics make 180 extra decisions everyday leading to a much more stressful day to day
+  life. This app simulates that and allows non diabetics to experience wha
+summary: 180 Decisions received the Social Neuropsychological Award award at MindHack 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ed1vh/180-Decisions-
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/480/344/datas/medium.png
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Owen Lok

@@ -1,0 +1,26 @@
+id: safestreets
+name: SafeStreets
+slug: safestreets
+tagline: "AI spots a street hazard from imagery, proves it with city data, and hands you the fix,
+  the funding, the official to contact, and a before/after render — ready "
+summary: SafeStreets received the Best Use of Claude award at UC Berkeley AI Hackathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/SIy97mAQ4YY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/806/618/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - mapbox
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Echo Xiao
+  - name: Alex Chin
+  - name: Aryan Vashishta
+  - name: Karthik Sabhanayakam

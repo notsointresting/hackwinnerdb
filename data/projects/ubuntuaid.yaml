@@ -1,0 +1,17 @@
+id: ubuntuaid
+name: UbuntuAid
+slug: ubuntuaid
+tagline: Disasters break networks, not communities. UbuntuAid connects neighbors in seconds.
+  2G-ready, SMS-fallback. Low bandwidth, high impact.
+summary: UbuntuAid received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LaplaceMkhabela/UbuntuAid
+demo_url: null
+video_url: https://www.youtube.com/embed/NUs6iipEnUQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/867/426/datas/gallery.jpg
+categories:
+  - education
+technologies: []
+builders:
+  - name: Sabelo Mkhabela

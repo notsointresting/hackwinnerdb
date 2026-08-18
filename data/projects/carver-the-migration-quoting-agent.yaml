@@ -1,0 +1,20 @@
+id: carver-the-migration-quoting-agent
+name: Carver - The migration-quoting agent
+slug: carver-the-migration-quoting-agent
+tagline: Carver is a GitLab Duo agent that quotes a legacy migration from your Orbit dependency graph.
+summary: "Carver - The migration-quoting agent received the Showcase Track: Design and Usability,
+  First Place award at GitLab Transcend Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MMKtIjuMYhs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/819/031/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Anes Mulalic

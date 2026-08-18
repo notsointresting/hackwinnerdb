@@ -1,0 +1,14 @@
+id: lootboard-soon-hackathon
+project_id: lootboard
+hackathon_id: soon-hackathon
+submission_url: https://devpost.com/software/lootboard
+source:
+  platform: devpost
+  url: https://devpost.com/software/lootboard
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] Chatforce Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

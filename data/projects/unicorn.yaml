@@ -1,0 +1,22 @@
+id: unicorn
+name: unicorn
+slug: unicorn
+tagline: A UofT Student, Professor, and Alumni Matching Service
+summary: unicorn received the Best Project for Strengthening Academic and Career Connections across
+  UofT award at Hack The Student Life 2026  in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jessicali31807-byte/unicorn2.0
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/431/841/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: Jessica Li
+  - name: Sara Fathy Ahmed
+  - name: Sylvia Wang
+  - name: Ishita Suresh

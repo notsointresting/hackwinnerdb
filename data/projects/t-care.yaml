@@ -1,0 +1,26 @@
+id: t-care
+name: T-Care
+slug: t-care
+tagline: T-Care transforms the way students access campus services by combining AI understanding
+  with real campus navigation.
+summary: T-Care received the Best Project for Improving Access to Campus Support Services award at
+  Hack The Student Life 2026  in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/dereksun00/T-Care
+demo_url: null
+video_url: https://www.youtube.com/embed/mp79nKQ7nzA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/431/824/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - google-maps
+  - react
+  - typescript
+builders:
+  - name: Derek Sun
+  - name: ryantrain Tran
+  - name: Jenny Bian
+  - name: William Li

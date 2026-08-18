@@ -1,0 +1,24 @@
+id: appmaxxing
+name: Appmaxxing
+slug: appmaxxing
+tagline: AI agents that build, run, and distribute 1000s of apps for you, 24/7
+summary: Appmaxxing received the ElevenLabs Coupons award at HackRome in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/youssbim/AppMaxing-1
+demo_url: null
+video_url: https://www.youtube.com/embed/XfX9arXdSGY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/450/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - openai
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Youssef Bimezzagh
+  - name: Erik Cah

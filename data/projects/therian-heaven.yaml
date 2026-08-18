@@ -1,0 +1,22 @@
+id: therian-heaven
+name: Therian Heaven
+slug: therian-heaven
+tagline: Therian Heaven é uma plataforma full-stack de adoção e cuidados para Therians (pessoas que
+  se identificam como aimais)! Oferecemos o que o petshop da esquina si
+summary: Therian Heaven received the 1º lugar award at Codecon Universe 26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NicolasSG/therian-heaven
+demo_url: null
+video_url: https://www.youtube.com/embed/bvSEhLZUv8M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/580/datas/gallery.jpg
+categories:
+  - productivity
+technologies:
+  - mongodb
+  - vercel
+builders:
+  - name: Gisela Elia
+  - name: Mayza Ynara
+  - name: Luiz Hondo
+  - name: Nícolas Gomes

@@ -1,0 +1,24 @@
+id: cure-ai
+name: Cure AI
+slug: cure-ai
+tagline: Where AI Detects Before Symptoms Speak.
+summary: "Cure AI received the People's Choice award at HackMars 3.0: NEON in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/JayendraUpadhyay/Cure_AI
+demo_url: null
+video_url: https://www.youtube.com/embed/a43Md-iSiUU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/724/738/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - vercel
+builders:
+  - name: Jayendra Upadhyay

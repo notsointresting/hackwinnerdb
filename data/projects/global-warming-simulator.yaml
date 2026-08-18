@@ -1,0 +1,20 @@
+id: global-warming-simulator
+name: Global Warming Simulator
+slug: global-warming-simulator
+tagline: Interactive map to show how temperature was changing at every country annually and monthly.
+summary: "Global Warming Simulator received the Embedded Systems Track: 2nd place: $50 Amazon Gift
+  card (per team member) award at SMCCD 2026 Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/z4t0ich1/GlobalWarmingSimulator
+demo_url: null
+video_url: https://www.youtube.com/embed/xnjyosYUlm8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/600/993/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Kirill Loginov

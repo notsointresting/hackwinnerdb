@@ -1,0 +1,22 @@
+id: sentinel-air-trafic-control
+name: SENTINEL Air Trafic Control
+slug: sentinel-air-trafic-control
+tagline: Azure-based infra that ingests live plane transponder data and runs parallel geospatial
+  routing, trajectory simulation, weather modeling, and conflict detection
+summary: SENTINEL Air Trafic Control received the Most technically complex/impressive award at SEP X
+  Microsoft for Startups Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/hganesh2024/SENTINEL-ATC-USCxMfs
+demo_url: null
+video_url: https://www.youtube.com/embed/il98ypjfIH4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/988/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - python
+  - typescript
+builders:
+  - name: Hari Ganesh

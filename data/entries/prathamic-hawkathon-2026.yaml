@@ -1,0 +1,14 @@
+id: prathamic-hawkathon-2026
+project_id: prathamic
+hackathon_id: hawkathon-2026
+submission_url: https://devpost.com/software/prathamic
+source:
+  platform: devpost
+  url: https://devpost.com/software/prathamic
+awards:
+  - type: first-place
+    title: First Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

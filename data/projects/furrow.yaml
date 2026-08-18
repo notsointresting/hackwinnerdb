@@ -1,0 +1,28 @@
+id: furrow
+name: Furrow
+slug: furrow
+tagline: Turning farm chaos into clear, voice-driven action.
+summary: Furrow received the Best Bitcamp Hack - Bitcamp award at Bitcamp 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/IshaanKalra2103/Furrow/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/vhvkrNTlWko
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/142/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - groq
+  - openai
+  - postgresql
+  - python
+  - vercel
+builders:
+  - name: Sathya Gnanakumar
+  - name: Ishaan kalra
+  - name: Saurav Patel

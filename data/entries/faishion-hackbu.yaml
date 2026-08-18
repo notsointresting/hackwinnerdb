@@ -1,0 +1,14 @@
+id: faishion-hackbu
+project_id: faishion
+hackathon_id: hackbu
+submission_url: https://devpost.com/software/faishion
+source:
+  platform: devpost
+  url: https://devpost.com/software/faishion
+awards:
+  - type: category-winner
+    title: Best Beginner Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

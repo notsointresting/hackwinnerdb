@@ -1,0 +1,23 @@
+id: calevent
+name: CalEvent
+slug: calevent
+tagline: "Do you want to find local events near you? CalEvent has you covered! They search for
+  events near you and compiles them in an easy-to-use digital bulletin board "
+summary: CalEvent received the [MLH] Best Use of DigitalOcean || Retro Wireless Mouse award at
+  HackKU26 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/heathwhitehead/Calevent
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/300/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - figma
+  - javascript
+  - mongodb
+  - react-native
+builders:
+  - name: Heath Whitehead
+  - name: Anika Vydier

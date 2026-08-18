@@ -1,0 +1,18 @@
+id: 0xearth
+name: 0xEarth
+slug: 0xearth
+tagline: Welcome to 0xEarth! We have 3 main features which are Memory Vault, Silent Frequency, and
+  Personal Diary. Each feature has it's own unique concept and goal.
+summary: 0xEarth received the Best Beginner Hack award at Liftoff in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Ekroop Kaur Sandhu

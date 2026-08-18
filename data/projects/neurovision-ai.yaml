@@ -1,0 +1,23 @@
+id: neurovision-ai
+name: NeuroVision AI
+slug: neurovision-ai
+tagline: Where AI Meets Life-Saving Precision.
+summary: NeuroVision AI received the Best Use of Gemini API award at Gemini Hack day  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stephenrodrick17-cloud/Neurovision-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/tImlG94woSo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/605/471/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - ar-vr
+technologies:
+  - gemini
+  - javascript
+  - opencv
+  - python
+  - pytorch
+  - streamlit
+builders:
+  - name: Stephen Rodrick

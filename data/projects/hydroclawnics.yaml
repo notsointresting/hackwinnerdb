@@ -1,0 +1,24 @@
+id: hydroclawnics
+name: HydroClawNics
+slug: hydroclawnics
+tagline: Hydroclawnics is an autonomous AI agent that manages a hydroponic farm, constantly
+  monitoring pods across temperature, pH, EC, humidity, water levels, etc, then
+summary: HydroClawNics received the Best for UCSC award at NemoClaw NVIDIA x ASUS Hackathon @ UCSC
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GalexY727/Hydroclawnics
+demo_url: null
+video_url: https://www.youtube.com/embed/LMlvrjDb_M0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/673/309/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - fastapi
+  - react
+builders:
+  - name: Alexander Hamilton
+  - name: Lucas Peterson
+  - name: Carmen Tan

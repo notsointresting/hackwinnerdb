@@ -1,0 +1,14 @@
+id: farecity-hunterhacks
+project_id: farecity
+hackathon_id: hunterhacks
+submission_url: https://devpost.com/software/farecity
+source:
+  platform: devpost
+  url: https://devpost.com/software/farecity
+awards:
+  - type: track-winner
+    title: Staten Island (Environment Track)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

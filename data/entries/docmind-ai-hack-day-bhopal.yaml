@@ -1,0 +1,14 @@
+id: docmind-ai-hack-day-bhopal
+project_id: docmind-ai
+hackathon_id: hack-day-bhopal
+submission_url: https://devpost.com/software/docmind-ai-hvpcgj
+source:
+  platform: devpost
+  url: https://devpost.com/software/docmind-ai-hvpcgj
+awards:
+  - type: category-winner
+    title: Best use of gemini
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

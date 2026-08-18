@@ -1,0 +1,24 @@
+id: phalanx
+name: Phalanx
+slug: phalanx
+tagline: Autonomous CVE response that forks your dependency state into parallel remediation
+  hypotheses, cancels false positives mid-flight, and ships the winner with cry
+summary: Phalanx received the Most Innovative Use of Chainguard Images award at Ship to Prod -
+  Agentic Engineering Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/ElijahUmana/phalanx
+demo_url: null
+video_url: https://www.youtube.com/embed/raOOVmiU3y4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/212/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - postgresql
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: Elijah Umana

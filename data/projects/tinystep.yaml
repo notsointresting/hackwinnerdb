@@ -1,0 +1,24 @@
+id: tinystep
+name: TinyStep
+slug: tinystep
+tagline: Paste in an assignment, get back steps so small that starting stops being the hard part.
+summary: "TinyStep received the Track Winner: AI for K–12 Learning award at IncludAI - The
+  Neurodiversity Hackathon, in Partnership with Stanford NNEA in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/JackP900/TinyStep
+demo_url: null
+video_url: https://www.youtube.com/embed/P5jT2rpUwnM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - flask
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Jack Page
+  - name: Sean Cryan

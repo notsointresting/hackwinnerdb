@@ -1,0 +1,20 @@
+id: aaaa
+name: Aaaa
+slug: aaaa
+tagline: Hhg
+summary: Aaaa received the Second Place Prize award at Hack the Drone - MATLAB Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AstroHakim/MATLAB_HACKATON_29_05_2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/716/382/datas/medium.jpg
+categories:
+  - education
+  - robotics
+technologies: []
+builders:
+  - name: Omar Hakim Ebenaimine
+  - name: francesco gaspari
+  - name: Alessandro Riggio
+  - name: Jacopo Coccimiglio

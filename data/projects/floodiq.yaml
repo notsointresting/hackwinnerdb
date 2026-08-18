@@ -1,0 +1,25 @@
+id: floodiq
+name: FloodIQ
+slug: floodiq
+tagline: FEMA's flood maps are a coin flip. Insurers know the truth but won't share it. FloodIQ
+  gives every homebuyer the risk analysis that only insiders had — before y
+summary: FloodIQ received the Entrepreneurship & Product track award at DataHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/fWpquwJObaI
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - python
+  - vercel
+builders:
+  - name: Kylan Huynh
+  - name: Max Ha
+  - name: Nalin Joshi
+  - name: Saksham Raheja

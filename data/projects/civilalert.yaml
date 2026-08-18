@@ -1,0 +1,22 @@
+id: civilalert
+name: CivilAlert
+slug: civilalert
+tagline: See a problem. Report it right. CivicAlert automatically routes environmental issues to the
+  correct authorities.
+summary: CivilAlert received the certificate and invited to publish book award at forinovation in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/venkatgudipati1/CivicAlert
+demo_url: null
+video_url: https://www.youtube.com/embed/eUOkf-AHYPE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/000/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - climate
+technologies:
+  - javascript
+builders:
+  - name: Venkat Gudipati
+  - name: Srijayan Pallerla
+  - name: Sriyansh Senapati

@@ -1,0 +1,16 @@
+id: industrial-inspection-worker-safety-monitoring-system-grizzly-hacks-iii
+project_id: industrial-inspection-worker-safety-monitoring-system
+hackathon_id: grizzly-hacks-iii
+submission_url: https://devpost.com/software/industrial-inspection-worker-safety-monitoring-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/industrial-inspection-worker-safety-monitoring-system
+awards:
+  - type: first-place
+    title: First Place
+  - type: other
+    title: Participation Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: beyond
+name: Beyond
+slug: beyond
+tagline: Beyond finds important signals in large text data, saving hours of manual analysis.
+summary: Beyond received the [SPONSOR] Figma award at Hack AI 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akhilmishr13/Beyond2
+demo_url: null
+video_url: https://www.youtube.com/embed/OOPrsWtwwZA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/825/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - figma
+  - gemini
+  - python
+builders:
+  - name: Jainish Patel
+  - name: Akhil Mishra
+  - name: Amit Patel
+  - name: Pratik Alkutkar

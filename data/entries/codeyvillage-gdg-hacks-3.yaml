@@ -1,0 +1,14 @@
+id: codeyvillage-gdg-hacks-3
+project_id: codeyvillage
+hackathon_id: gdg-hacks-3
+submission_url: https://devpost.com/software/cozyvillage
+source:
+  platform: devpost
+  url: https://devpost.com/software/cozyvillage
+awards:
+  - type: category-winner
+    title: Best "Gamification" Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

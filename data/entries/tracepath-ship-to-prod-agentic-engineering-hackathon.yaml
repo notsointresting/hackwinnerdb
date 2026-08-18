@@ -1,0 +1,14 @@
+id: tracepath-ship-to-prod-agentic-engineering-hackathon
+project_id: tracepath
+hackathon_id: ship-to-prod-agentic-engineering-hackathon
+submission_url: https://devpost.com/software/tracepath-ewops5
+source:
+  platform: devpost
+  url: https://devpost.com/software/tracepath-ewops5
+awards:
+  - type: category-winner
+    title: Most Innovative Use of Guild.ai Platform
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

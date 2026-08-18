@@ -1,0 +1,22 @@
+id: blinkbounties
+name: BlinkBounties
+slug: blinkbounties
+tagline: With SOLANA - Drop a ticket. Win iconic art. No whales, No waiting
+summary: BlinkBounties received the [MLH] Best Use of Solana award at Hack AI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abhijith-utla/BlinkBounties
+demo_url: null
+video_url: https://www.youtube.com/embed/x3DAQk4wy3A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/249/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - rust
+  - solana
+  - typescript
+builders:
+  - name: Deeksha Bandi
+  - name: Abhijith Utla

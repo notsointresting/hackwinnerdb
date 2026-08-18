@@ -1,0 +1,25 @@
+id: cl-ai
+name: CL.AI
+slug: cl-ai
+tagline: A real Linux and Git terminal in your browser, turned into a speedrun game.You get
+  missions, race the clock, and climb the leaderboard by solving hands-on comma
+summary: CL.AI received the Best Design / UX / Idea award at Bath Hack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/abkuut/bathhack26
+demo_url: null
+video_url: https://www.youtube.com/embed/D6zgatGIaRo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/507/378/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - docker
+  - fastapi
+  - python
+  - typescript
+builders:
+  - name: Utkarsh Bhamidimarri
+  - name: rikhil05
+  - name: Srikar N

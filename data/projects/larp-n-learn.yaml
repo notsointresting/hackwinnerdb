@@ -1,0 +1,22 @@
+id: larp-n-learn
+name: Larp N Learn
+slug: larp-n-learn
+tagline: Larp N Learn - Larp your way to learning
+summary: Larp N Learn received the Best Game award at HackPrinceton Spring '26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NicholasChanng/larpnlearn
+demo_url: null
+video_url: https://www.youtube.com/embed/WZLA0zIi6W4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/600/276/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Sai Nellutla
+  - name: Nicholas Channg
+  - name: tmehrish Mehrish

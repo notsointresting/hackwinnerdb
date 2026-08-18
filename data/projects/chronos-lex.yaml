@@ -1,0 +1,22 @@
+id: chronos-lex
+name: CHRONOS-LEX
+slug: chronos-lex
+tagline: A "Terms of Service" (ToS) shredder. Most people sign away their digital souls because
+  legal jargon is intentionally dense.
+summary: CHRONOS-LEX received the Best Use of Google Gemini award at JagHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/d3fault56/JagHack_ToS.git
+demo_url: null
+video_url: https://www.youtube.com/embed/pCvgHrpLRT4
+image_url: null
+categories:
+  - cybersecurity
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Dyllon Reyes
+  - name: Isabella Villarreal
+  - name: juicejuarez
+  - name: Emmanuel lawson

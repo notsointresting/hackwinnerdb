@@ -1,0 +1,14 @@
+id: atlas-tel-spatial-intelligence-ideathon
+project_id: atlas
+hackathon_id: tel-spatial-intelligence-ideathon
+submission_url: https://devpost.com/software/atlas-fxq2c4
+source:
+  platform: devpost
+  url: https://devpost.com/software/atlas-fxq2c4
+awards:
+  - type: second-place
+    title: "2nd Place for SGA-AR: Find the Opportunity Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

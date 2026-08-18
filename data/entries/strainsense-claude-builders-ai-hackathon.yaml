@@ -1,0 +1,14 @@
+id: strainsense-claude-builders-ai-hackathon
+project_id: strainsense
+hackathon_id: claude-builders-ai-hackathon
+submission_url: https://devpost.com/software/strainsense
+source:
+  platform: devpost
+  url: https://devpost.com/software/strainsense
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

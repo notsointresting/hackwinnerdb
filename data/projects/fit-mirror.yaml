@@ -1,0 +1,23 @@
+id: fit-mirror
+name: Fit Mirror
+slug: fit-mirror
+tagline: Earn and exchange crypto by working out!!
+summary: Fit Mirror received the [MLH] Best Use of Solana award at Broncohacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kurayamidesu6/Fit_Mirror
+demo_url: null
+video_url: https://www.youtube.com/embed/s1ncLsoqJ-U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/940/datas/gallery.jpg
+categories:
+  - blockchain
+technologies:
+  - gemini
+  - javascript
+  - react
+  - solana
+builders:
+  - name: Ryan Barcarse
+  - name: Jan Kirvey Montemayor
+  - name: Samuel Barcarse
+  - name: Aldo Fernandez

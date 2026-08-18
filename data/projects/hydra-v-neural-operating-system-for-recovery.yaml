@@ -1,0 +1,23 @@
+id: hydra-v-neural-operating-system-for-recovery
+name: "Hydra-V : Neural Operating System for Recovery"
+slug: hydra-v-neural-operating-system-for-recovery
+tagline: HYDRA-V uses a camera to measure HRV, movement, and CNS state, then adapts Hydrawav3
+  therapy in real time , making recovery personalized, responsive, and driven
+summary: "Hydra-V : Neural Operating System for Recovery received the Hydrawav3 award at GlobeHack
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Manavpatel06/Hydra-V.git
+demo_url: null
+video_url: https://www.youtube.com/embed/5VMFtfT6AhI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/595/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Manav Patel
+  - name: Reya attri
+  - name: Deep Nayak

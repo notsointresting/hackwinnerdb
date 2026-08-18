@@ -1,0 +1,22 @@
+id: voiceagent
+name: VoiceAgent
+slug: voiceagent
+tagline: Hands messy? VoiceAgent gives your Mac a brain. It understands your screen to skip ads,
+  scroll recipes, and run apps. Pure agentic power for a truly touchless d
+summary: VoiceAgent received the Spring – Most Likely to Become a Startup award at ProduHacks 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AllanT102/produhacks-26
+demo_url: null
+video_url: https://www.youtube.com/embed/xTb1bEJQdok
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/846/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - elevenlabs
+  - python
+builders:
+  - name: Davooood90 Liu
+  - name: Allan Tan
+  - name: Jay Park

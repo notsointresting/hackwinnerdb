@@ -1,0 +1,23 @@
+id: mirror-living-organisational-conscience
+name: "Mirror: Living organisational conscience."
+slug: mirror-living-organisational-conscience
+tagline: Every organisation has two versions of itself; the one it describes in all-hands meetings,
+  and the one that shows up in its actual decisions. MIRROR tells you e
+summary: "Mirror: Living organisational conscience. received the Best Work & Productivity Tool award
+  at Build with MeDo Hackathon  in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Kz_JeZcNCO8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/681/609/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Supriya Rai

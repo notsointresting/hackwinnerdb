@@ -1,0 +1,22 @@
+id: learn-buddy
+name: Learn Buddy
+slug: learn-buddy
+tagline: Elementary school teachers just relax, we are here to make your daily workload lighter.
+summary: Learn Buddy received the Swag Kit award at Quantum Sprint in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jayshah6699/hackxplore
+demo_url: null
+video_url: https://www.youtube.com/embed/EhbKL3V-9I0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/425/340/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+  - enterprise
+technologies:
+  - azure
+  - opencv
+  - python
+builders:
+  - name: Jay Shah
+  - name: Kira Cheung

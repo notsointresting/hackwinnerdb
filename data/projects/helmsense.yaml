@@ -1,0 +1,22 @@
+id: helmsense
+name: HelmSense
+slug: helmsense
+tagline: HelmSense turns any helmet into an AI‑powered crash guardian that detects serious impacts
+  and auto‑alerts your loved ones with your live location in seconds.
+summary: HelmSense received the Participation & Completion Recognition award at HackVision in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/369/913/datas/medium.png
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - blockchain
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - react
+builders: []

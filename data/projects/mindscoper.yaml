@@ -1,0 +1,26 @@
+id: mindscoper
+name: MindScoper
+slug: mindscoper
+tagline: "MindScoper uses Gemini AI to turn therapy sessions into interactive mental health maps,
+  extracting symptoms, emotions, and behavioral patterns into a knowledge "
+summary: "MindScoper received the Open Challenge Second Place: INIU Portable Chargers award at BACSA
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/hassan-nabil/BASCA-Hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/YNjZQtbuS6g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/415/265/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Hassan Nabil
+  - name: Codeq Reznichenko
+  - name: winniegusy Gu
+  - name: Andrea Shie

@@ -1,0 +1,19 @@
+id: math-sat-browser-extension-tutor
+name: Math SAT Browser Extension Tutor
+slug: math-sat-browser-extension-tutor
+tagline: Democratizing SAT excellence through local models
+summary: Math SAT Browser Extension Tutor received the Participation Prize award at DSH Hacks V1 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Cm30V/satmathextension/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/P65vH11gNVw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/778/386/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Cm30V Mei

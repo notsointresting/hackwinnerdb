@@ -1,0 +1,28 @@
+id: culturact
+name: CulturAct
+slug: culturact
+tagline: An AI-powered civic all-in-one platform that helps communities understand how laws affect
+  language, identity, heritage, belonging, and everyday life before thos
+summary: CulturAct received the Cultural 2nd Place award at SolHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Monkeyboyandpandamix/SolHacks-Project.git
+demo_url: null
+video_url: https://www.youtube.com/embed/lGeufC7V_y8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/505/059/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - govtech
+technologies:
+  - elevenlabs
+  - firebase
+  - gemini
+  - react
+  - solana
+  - typescript
+builders:
+  - name: Mohammad Agha Mohammadi
+  - name: Kunal Krishna
+  - name: Callum Guan
+  - name: Sai.Hein Moe Hein

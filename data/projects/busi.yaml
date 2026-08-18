@@ -1,0 +1,22 @@
+id: busi
+name: BUSI
+slug: busi
+tagline: Busi uses weighted parameters and SQLite3 to calculate business viability scores. By
+  pairing LLM-driven weights with geographic APIs, we pinpoint the ideal spot
+summary: BUSI received the Best Use of Melissa Data award at Data Heist 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anish-100/datathon-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/573/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Anish Bhandarkar
+  - name: Zachary Niu
+  - name: Alex Misra

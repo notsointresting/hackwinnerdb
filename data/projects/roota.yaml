@@ -1,0 +1,24 @@
+id: roota
+name: Roota
+slug: roota
+tagline: https://github.com/KevRamirezM/Roota
+summary: Roota received the 3º Lugar award at guadalahacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KevRamirezM/Roota
+demo_url: null
+video_url: https://www.youtube.com/embed/qCabpJNVJqk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - rust
+  - typescript
+builders:
+  - name: Kevin Ramirez
+  - name: Erick Oseguera
+  - name: Jose Arturo
+  - name: Daniel Alejandro  Martínez Navarro

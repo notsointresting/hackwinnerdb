@@ -1,0 +1,23 @@
+id: caseflow
+name: CaseFlow
+slug: caseflow
+tagline: Open-source case management platform for nonprofits. AI-powered voice notes, client
+  tracking, and reporting—all for under $30/month.
+summary: "CaseFlow received the Best AI Usage award at Women in Computer Science x Opportunity Hack:
+  Spring 2026 Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Rishabh meena
+  - name: Dhruv Patel
+  - name: Prisha Nag

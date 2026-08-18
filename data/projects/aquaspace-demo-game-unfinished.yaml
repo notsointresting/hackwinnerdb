@@ -1,0 +1,17 @@
+id: aquaspace-demo-game-unfinished
+name: "AquaSpace: Demo Game [UNFINISHED]"
+slug: aquaspace-demo-game-unfinished
+tagline: Unfinished science fiction horror game set under the sea.
+summary: "AquaSpace: Demo Game [UNFINISHED] received the Gift Certificate award at CYHacks '26 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/605/770/datas/medium.png
+categories:
+  - education
+  - gaming
+technologies: []
+builders:
+  - name: Hotri Paidipati

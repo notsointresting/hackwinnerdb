@@ -1,0 +1,23 @@
+id: little-loop
+name: Little Loop
+slug: little-loop
+tagline: A closed loop circular operating system for Carter's garments
+summary: Little Loop received the Make & Remake - sponsored by Carter's award at Play with Purpose
+  Hackathon presented by Cox Enterprises in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/darkeneddd/little-loop
+demo_url: null
+video_url: https://www.youtube.com/embed/S6zAYvQ472o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/782/602/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Antara Vadhera
+  - name: Kanushi Dua
+  - name: Sheona Diwakar

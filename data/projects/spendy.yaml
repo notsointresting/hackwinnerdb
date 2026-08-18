@@ -1,0 +1,25 @@
+id: spendy
+name: Spendy
+slug: spendy
+tagline: An AI-powered banking app that transforms passive expense tracking into active financial coaching
+summary: "Spendy received the RBC Custom Challenges: Personal Finance Platforms award at Mountain
+  Madness 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/notwinston/Mountain_Madness_2026-Racoonwork.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/494/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - gemini
+  - react-native
+  - supabase
+  - typescript
+builders:
+  - name: hyuns02 Cho
+  - name: Lucas Nguyen
+  - name: tmuntaseer06 Muntaseer
+  - name: winston thov

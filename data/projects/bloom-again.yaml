@@ -1,0 +1,21 @@
+id: bloom-again
+name: Bloom Again
+slug: bloom-again
+tagline: Bloom Again is an app to help people rediscover themselves. From tracking hobbies to
+  getting connected in community events, empty nesters have the opportunity t
+summary: Bloom Again received the Best Overall (Runner-up) award at 2026 UF Design-a-thon by GUD in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/SzrXfzUIlPM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/893/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Bryce Williams
+  - name: Anneliese Ibanez
+  - name: Matas Ambrukaitis
+  - name: Amrita Ketireddy

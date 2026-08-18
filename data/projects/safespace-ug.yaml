@@ -1,0 +1,24 @@
+id: safespace-ug
+name: safespace_ug
+slug: safespace-ug
+tagline: "SafeSpace UG: Anonymous AI mental health support for UG students. Mood tracking,
+  journaling & peer groups — no signup, no names, no stigma."
+summary: safespace_ug received the Anthropic API Credits award at Claude Builder Hackathon, UG in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sakibumumuni/safespace1_ug.git
+demo_url: null
+video_url: https://www.youtube.com/embed/XBBegXF5gW8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/500/761/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - mongodb
+  - python
+builders:
+  - name: Sakibu Mumuni
+  - name: Maron Kabukuor Amenyah
+  - name: Ephraim Sowah-Ablorh

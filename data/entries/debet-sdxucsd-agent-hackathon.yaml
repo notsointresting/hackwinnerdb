@@ -1,0 +1,14 @@
+id: debet-sdxucsd-agent-hackathon
+project_id: debet
+hackathon_id: sdxucsd-agent-hackathon
+submission_url: https://devpost.com/software/debet-8mgxwa
+source:
+  platform: devpost
+  url: https://devpost.com/software/debet-8mgxwa
+awards:
+  - type: second-place
+    title: "Track 3: Forum (2nd place)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

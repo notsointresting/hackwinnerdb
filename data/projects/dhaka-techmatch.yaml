@@ -1,0 +1,21 @@
+id: dhaka-techmatch
+name: Dhaka TechMatch
+slug: dhaka-techmatch
+tagline: An AI tool matching students' resumes to real Dhaka tech jobs, generating a strict 3-month
+  learning roadmap to bridge the local skill gap.
+summary: Dhaka TechMatch received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alvi164/Dhaka-TechMatch
+demo_url: null
+video_url: https://www.youtube.com/embed/GlbjpbDo6UI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/749/014/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - python
+  - streamlit
+builders:
+  - name: syad mehedi hasan alvi

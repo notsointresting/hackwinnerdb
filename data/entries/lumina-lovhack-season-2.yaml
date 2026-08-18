@@ -1,0 +1,16 @@
+id: lumina-lovhack-season-2
+project_id: lumina
+hackathon_id: lovhack-season-2
+submission_url: https://devpost.com/software/lumina-brl9dw
+source:
+  platform: devpost
+  url: https://devpost.com/software/lumina-brl9dw
+awards:
+  - type: other
+    title: DevSwarm Builder Opportunity
+  - type: third-place
+    title: 3rd Place - Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

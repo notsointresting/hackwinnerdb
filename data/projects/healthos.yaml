@@ -1,0 +1,20 @@
+id: healthos
+name: HealthOS
+slug: healthos
+tagline: Upload any medical report, scan, or prescription and instantly create an AI Health Twin
+  that explains your health, prepares doctor visits, and predicts future o
+summary: HealthOS received the Best Use of Gemini API award at Hacks day Bhopal in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/madhavansingh/HealthOS.git
+demo_url: null
+video_url: https://www.youtube.com/embed/66c1yEQ0D0w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/451/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Madhavan Singh Parihar

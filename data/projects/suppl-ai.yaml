@@ -1,0 +1,27 @@
+id: suppl-ai
+name: suppl.ai
+slug: suppl-ai
+tagline: See the supply chain shock before it hits your P&L. Agentic signal to approved mitigation
+  in under 60 seconds.
+summary: suppl.ai received the Build What Actually Runs Monday by Eragon [Mac Mini] award at
+  HackPrinceton Spring '26 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/asmhwang/Hack-Princeton
+demo_url: null
+video_url: https://www.youtube.com/embed/xQxHhdojpgk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/583/857/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - postgresql
+  - python
+  - typescript
+builders:
+  - name: Tony Yu
+  - name: Andrew Hwang
+  - name: Armaan Agrawal

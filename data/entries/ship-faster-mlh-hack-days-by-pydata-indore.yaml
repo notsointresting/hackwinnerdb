@@ -1,0 +1,14 @@
+id: ship-faster-mlh-hack-days-by-pydata-indore
+project_id: ship-faster
+hackathon_id: mlh-hack-days-by-pydata-indore
+submission_url: https://devpost.com/software/ship-faster
+source:
+  platform: devpost
+  url: https://devpost.com/software/ship-faster
+awards:
+  - type: category-winner
+    title: Best Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: chameleon
+name: Chameleon
+slug: chameleon
+tagline: Chameleon uses AI to find the perfect moment in any video and seamlessly insert sponsor
+  ads. No cuts, no interruptions, just native content that audiences actua
+summary: "Chameleon received the TwelveLabs: Clemson Tigers Video Intelligence Challenge award at
+  CUhackit 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/isbrandon02/Chameleon
+demo_url: null
+video_url: https://www.youtube.com/embed/jlDsO41Yi70
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/370/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Andy Chen
+  - name: Jason Nguyen
+  - name: Tristan Yi
+  - name: isbrandon02 Cheng

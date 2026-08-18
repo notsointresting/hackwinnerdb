@@ -1,0 +1,26 @@
+id: sansight
+name: SANSight
+slug: sansight
+tagline: "Space travel is going commercial — but SANS silently destroys astronaut vision with no
+  accessible early detection. SANSight uses AI to catch it before symptoms "
+summary: SANSight received the Best Use of Hardware award at Catapult 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/9dsn/SANSight.git
+demo_url: null
+video_url: https://www.youtube.com/embed/2c7lv7lC7Mw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/529/764/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - groq
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sneha Chavan
+  - name: mithu-sivali Sivalingapandian
+  - name: Samvida Batchu
+  - name: ramvasan25 Srinivasan

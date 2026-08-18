@@ -1,0 +1,25 @@
+id: superpumped
+name: Superpumped
+slug: superpumped
+tagline: Superpumped turns wasted rooftop rainwater into revenue for cooling towers. AI finds
+  buildings, calculates viability score, and verifies leads via automated cal
+summary: Superpumped received the Grundfos award at HackSMU VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anishalle/hacksmu26
+demo_url: null
+video_url: https://www.youtube.com/embed/VSFgHgLU3x8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/357/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - flask
+  - twilio
+builders:
+  - name: Sahas Sharma
+  - name: Anish Reddy Alle
+  - name: Adarsh Goura
+  - name: Sunay Shehaan

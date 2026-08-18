@@ -1,0 +1,23 @@
+id: eroute
+name: ERoute
+slug: eroute
+tagline: Smarter emergency room routing saves time and lives.
+summary: ERoute received the Google - Build with AI award at Hack Canada 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/phintruong/ERoute
+demo_url: null
+video_url: https://www.youtube.com/embed/TzBemCA95J0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/925/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - mapbox
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: Dhanika Botejue
+  - name: Phineas Truong
+  - name: Amogh Merudi
+  - name: Jack Le

@@ -1,0 +1,21 @@
+id: lyriclang
+name: LyricLang
+slug: lyriclang
+tagline: Imagine you could learn languages with Bad Bunny lyrics. Well you don't have to imagine anymore.
+summary: LyricLang received the 2nd Place award at Reform Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VMotta1/Lyric2Lang
+demo_url: null
+video_url: https://www.youtube.com/embed/ptJ2kzmszlA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/559/957/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - claude
+  - react
+  - typescript
+builders:
+  - name: Yahya Elzayat
+  - name: Vivek Motta

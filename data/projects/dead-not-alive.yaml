@@ -1,0 +1,21 @@
+id: dead-not-alive
+name: Dead... Not Alive!
+slug: dead-not-alive
+tagline: A little game about a town on the borders of the Wild West. Many wanted individuals are
+  hiding out in the town, attracting a stampede of competing bounty hunter
+summary: Dead... Not Alive! received the Best Wild West (Opt-in) award at HooHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/binh3huynh/HooHack_2026_Sub
+demo_url: null
+video_url: https://www.youtube.com/embed/p5qleZmT5D8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/483/097/datas/medium.png
+categories:
+  - education
+  - social-impact
+  - gaming
+technologies:
+  - unity
+builders:
+  - name: an2huynh Huynh
+  - name: Binh Huynh

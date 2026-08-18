@@ -1,0 +1,19 @@
+id: accessai
+name: AccessAI
+slug: accessai
+tagline: AccessAI is an AI tool that converts images and documents into simple text, summaries,
+  translations, and voice output instantly in the browser to make informati
+summary: AccessAI received the Participation Certificates award at Ctrl+V Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/GOdYMYb4ibE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies: []
+builders:
+  - name: Yash Baraiya

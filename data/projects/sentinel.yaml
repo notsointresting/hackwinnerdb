@@ -1,0 +1,23 @@
+id: sentinel
+name: Sentinel
+slug: sentinel
+tagline: Predict, Prevent, Intervene
+summary: Sentinel received the Third award at TillyHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wizardstrike1/sentinal
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - gemini
+  - react
+builders:
+  - name: Agastya Mittal
+  - name: Kedar Kalluri
+  - name: Leo Su
+  - name: Zaman Zahid

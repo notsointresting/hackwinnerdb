@@ -1,0 +1,21 @@
+id: convoyage
+name: Convoyage
+slug: convoyage
+tagline: Airports track planes to the second, but lose disabled passengers between handoffs.
+  Convoyage gives staff a live terminal map, and families a real-time link. No
+summary: "Convoyage received the 2nd Place for ZaiNar + SGA-AR in Healthcare Track award at TEL:
+  Spatial Intelligence Ideathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/2brpkMdxMxM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: Akash Gogate
+  - name: Advait Namboodiri

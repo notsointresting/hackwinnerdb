@@ -1,0 +1,20 @@
+id: binge-shortfilm
+name: Binge Shortfilm
+slug: binge-shortfilm
+tagline: Binge is an original abstract multimedia short film about the metamorphosis of the cycle of
+  life. This film contains explicit themes of blood, gore, substance a
+summary: Binge Shortfilm received the The Media Jam Grand Prize award at MSSA Media Jam 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/uQ3rvbyMIXo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/396/927/datas/medium.png
+categories:
+  - media
+  - creative-tools
+technologies: []
+builders:
+  - name: Max G
+  - name: Rayna Arora
+  - name: Kim Chi Tran

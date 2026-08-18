@@ -1,0 +1,25 @@
+id: fallback
+name: FallBack
+slug: fallback
+tagline: "Fall detection without cameras or wearables — seniors keep their dignity, families get
+  instant alerts. One radar on the wall. No footage captured. No device to "
+summary: FallBack received the Best in Theme Award award at strAIght up! Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pufferfish3e/fallback
+demo_url: null
+video_url: https://www.youtube.com/embed/6RMIih41ais
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/603/197/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - esp32
+  - openai
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Kendrick Slamat
+  - name: Moiz Khambhati

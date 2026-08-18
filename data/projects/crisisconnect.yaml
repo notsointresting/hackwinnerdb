@@ -1,0 +1,24 @@
+id: crisisconnect
+name: CrisisConnect
+slug: crisisconnect
+tagline: Crisis Connection is an AI-powered crisis map where people can post needs or offers, while
+  AI prioritizes urgent cases and voice tools allow anyone to ask for h
+summary: CrisisConnect received the 2nd Place Winner (Worth up to 820 CAD) award at cmd-f 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rey-hanah/Cmd-f2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/803/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - typescript
+  - vercel
+builders:
+  - name: Jiayin Liang
+  - name: Aurora A.
+  - name: Rey Shahir

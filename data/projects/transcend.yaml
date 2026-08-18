@@ -1,0 +1,21 @@
+id: transcend
+name: Transcend
+slug: transcend
+tagline: A semantic reasoning layer (W3C stack) on top of GitLab Orbit — transcending beyond
+  multi-hop blast-radius and other Orbit's native APIs by federating with othe
+summary: "Transcend received the Showcase Track: Quality of the idea, First Place award at GitLab
+  Transcend Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8r9Rnea0sCY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/816/382/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+builders:
+  - name: Adrianna Janik

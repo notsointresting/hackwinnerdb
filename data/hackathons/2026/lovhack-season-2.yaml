@@ -1,0 +1,14 @@
+id: lovhack-season-2
+name: LovHack Season 2
+slug: lovhack-season-2
+organizer: []
+year: 2026
+sources:
+  - https://lovhack-season2.devpost.com/
+  - https://lovhack-season2.devpost.com/project-gallery?filter=winner
+website_url: https://lovhack-season2.devpost.com/
+platform: devpost
+participant_count: 424
+prize_pool: 500
+currency: USD
+description: "Devpost hackathon: LovHack Season 2. Imported automatically."

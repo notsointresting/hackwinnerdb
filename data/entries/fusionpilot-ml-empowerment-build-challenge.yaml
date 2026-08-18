@@ -1,0 +1,14 @@
+id: fusionpilot-ml-empowerment-build-challenge
+project_id: fusionpilot
+hackathon_id: ml-empowerment-build-challenge
+submission_url: https://devpost.com/software/fusionpilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/fusionpilot
+awards:
+  - type: other
+    title: AI for Education
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

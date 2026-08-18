@@ -1,0 +1,26 @@
+id: voixa-voice-ai-video-learning-for-spanish-and-english
+name: "VOIXA: Voice & AI Video Learning for Spanish and English"
+slug: voixa-voice-ai-video-learning-for-spanish-and-english
+tagline: VOIXA is an AI learning system for Spanish speaking students that turns course materials
+  into voice or text chat, explainer videos, quizzes, and flashcards, sup
+summary: "VOIXA: Voice & AI Video Learning for Spanish and English received the Cultural 3rd Place
+  award at SolHacks 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Shrayas555/Voixa
+demo_url: null
+video_url: https://www.youtube.com/embed/Jx7vS4PrNM0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/501/799/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: Shrayas Raju
+  - name: Abhinandan Baranidharan

@@ -1,0 +1,21 @@
+id: placepulse-ai
+name: PlacePulse AI
+slug: placepulse-ai
+tagline: PlacePulse AI turns any place into a structured cultural intelligence dossier.
+summary: PlacePulse AI received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Atia-Farha/PlacePulse-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/750/060/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - openai
+  - redis
+  - sqlite
+builders:
+  - name: Atia Farha

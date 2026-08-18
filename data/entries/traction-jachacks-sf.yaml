@@ -1,0 +1,14 @@
+id: traction-jachacks-sf
+project_id: traction
+hackathon_id: jachacks-sf
+submission_url: https://devpost.com/software/traction-6se7mr
+source:
+  platform: devpost
+  url: https://devpost.com/software/traction-6se7mr
+awards:
+  - type: first-place
+    title: Agentic AI Track 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

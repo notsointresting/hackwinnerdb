@@ -1,0 +1,28 @@
+id: mugen-ai
+name: Mugen AI
+slug: mugen-ai
+tagline: Create your AI powered app arsenal tailored to you and your data
+summary: Mugen AI received the MLH || Best Use of ElevenLabs || Wireless Earbuds award at HooHacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/torrinconrath/hoohacks-2026
+demo_url: null
+video_url: https://www.youtube.com/watch?v=8s-NKe-2ZAk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/480/537/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - fastapi
+  - python
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Sahlar Salehi
+  - name: Torrin Conrath

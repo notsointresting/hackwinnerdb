@@ -1,0 +1,19 @@
+id: clearsign
+name: ClearSign
+slug: clearsign
+tagline: "Ever signed a contract you didn't fully understand? ClearSign reads legal documents for
+  you, highlights what actually matters, and explains it in plain English "
+summary: ClearSign received the Amazon Gift Card ($100) award at UTSC Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: Gordon Z

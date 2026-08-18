@@ -1,0 +1,24 @@
+id: storyforge
+name: StoryForge
+slug: storyforge
+tagline: Storyforge is an AI-powered interactive storytelling app where your choices shape the
+  narrative in real time. It generates cinematic scenes, dynamic visuals, an
+summary: StoryForge received the THE ALT award at SharkHack 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Oj857ztRcgY
+image_url: null
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - social-impact
+technologies:
+  - openai
+  - python
+  - react
+builders:
+  - name: rohinimachavolu Machavolu
+  - name: Shrivarshini Narayanan
+  - name: SHIVAM SINGH

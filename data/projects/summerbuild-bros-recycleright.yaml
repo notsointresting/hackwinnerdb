@@ -1,0 +1,23 @@
+id: summerbuild-bros-recycleright
+name: Summerbuild Bros - RecycleRight
+slug: summerbuild-bros-recycleright
+tagline: "From the moment you decide to the moment you drop it off, RecycleRight helps Singaporeans
+  recycle right: scan any item for an instant verdict, learn the why, an"
+summary: Summerbuild Bros - RecycleRight received the 2nd Runner-up award at SummerBuild 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bryan2804/recycle-right
+demo_url: null
+video_url: https://www.youtube.com/embed/blkHTHoGfHY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/933/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react-native
+builders:
+  - name: Weibin Chan
+  - name: Bryan Lee Chong Han
+  - name: daaavidsim

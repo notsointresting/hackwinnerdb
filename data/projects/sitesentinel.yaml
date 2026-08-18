@@ -1,0 +1,30 @@
+id: sitesentinel
+name: SiteSentinel
+slug: sitesentinel
+tagline: A pre-shift safety kiosk that catches missing PPE and unfit workers before they walk on the
+  job site, multilingual, edge-AI, $35 of hardware.
+summary: SiteSentinel received the [MLH] Best Use of Auth0 AI Agents award at KeanUHackThis 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KingDavid204/sitesentinel
+demo_url: null
+video_url: https://www.youtube.com/embed/w41JK7ZUTdk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/431/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+  - elevenlabs
+  - mongodb
+  - nextjs
+  - opencv
+  - python
+  - raspberry-pi
+  - react
+  - typescript
+builders:
+  - name: Luis Lazo
+  - name: Santiago Beltran Serrato
+  - name: Richard Arcos

@@ -1,0 +1,20 @@
+id: cyrano
+name: Cyrano
+slug: cyrano
+tagline: The network is the new resume.
+summary: Cyrano received the MLT20 AI Buildathon Judges Finalists award at MLT20 AI Buildathon
+  (Powered by WNCP AI) in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/dodubiyi-dev/cyrano
+demo_url: null
+video_url: https://www.youtube.com/embed/orOnDTihvBY
+image_url: null
+categories:
+  - other
+technologies:
+  - anthropic
+  - claude
+  - javascript
+builders:
+  - name: Michael Odubiyi

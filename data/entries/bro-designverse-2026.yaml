@@ -1,0 +1,18 @@
+id: bro-designverse-2026
+project_id: bro
+hackathon_id: designverse-2026
+submission_url: https://devpost.com/software/bro-fq68bo
+source:
+  platform: devpost
+  url: https://devpost.com/software/bro-fq68bo
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of ElevenLabs"
+  - type: category-winner
+    title: "[MLH] Best Use of Solana"
+  - type: category-winner
+    title: "[MLH] Best Use of Backboard"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

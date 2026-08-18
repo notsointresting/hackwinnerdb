@@ -1,0 +1,18 @@
+id: healthtwin-guardian-ai-github-readme-generation
+project_id: healthtwin-guardian-ai
+hackathon_id: github-readme-generation
+submission_url: https://devpost.com/software/healthtwin-guardian-ai-5fgp0i
+source:
+  platform: devpost
+  url: https://devpost.com/software/healthtwin-guardian-ai-5fgp0i
+awards:
+  - type: honorable-mention
+    title: Honorable mention
+  - type: first-place
+    title: First place - CTRL-V Champion
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

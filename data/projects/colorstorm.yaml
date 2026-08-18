@@ -1,0 +1,19 @@
+id: colorstorm
+name: ColorStorm
+slug: colorstorm
+tagline: Color picker meets the Storm from Fortnite, Kahoot, and Osu
+summary: ColorStorm received the 2nd Overall, Mechanical Keyboard award at Code-A-Site in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ganud/color-royale
+demo_url: null
+video_url: https://www.youtube.com/embed/k7DD-sbF9m8
+image_url: null
+categories:
+  - other
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Alvin Zhu
+  - name: Alvin Zhu

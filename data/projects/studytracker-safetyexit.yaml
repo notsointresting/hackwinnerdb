@@ -1,0 +1,22 @@
+id: studytracker-safetyexit
+name: StudyTracker/SafetyExit
+slug: studytracker-safetyexit
+tagline: A discreet app (disguised as a to-do list) that helps survivors document incidents, locate
+  shelters, and create safety exit plans. It is designed for women with
+summary: StudyTracker/SafetyExit received the 2nd Place award at JPS Girls Who Code 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/G4RTlbjLqdU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/494/datas/gallery.jpg
+categories:
+  - education
+  - cybersecurity
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Sara Chitnis
+  - name: Kyra Jahagirdar
+  - name: Trisha Ojha

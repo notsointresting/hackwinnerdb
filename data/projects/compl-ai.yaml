@@ -1,0 +1,23 @@
+id: compl-ai
+name: compl.ai
+slug: compl-ai
+tagline: 90% of biotech startups never reach patients — not because the science fails, but because
+  nobody maps the path. Compl.ai does. Regulatory clarity, IP risks, tes
+summary: compl.ai received the - Best Data Science Hack award at SacHacks VII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sumanthgb/compl_AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/367/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - fastapi
+  - python
+builders:
+  - name: Aparna Ganapathi Basavapatna
+  - name: Sumanth Ganapathi Basavapatna

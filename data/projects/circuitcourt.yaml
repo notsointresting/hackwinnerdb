@@ -1,0 +1,23 @@
+id: circuitcourt
+name: CircuitCourt
+slug: circuitcourt
+tagline: Finds, minimizes, and replays the event histories that make safety firmware miss real
+  hazards—then verifies the repair on the same evidence.
+summary: CircuitCourt received the Best Simulated Use of Circuit 1st award at STEMist Hacks IV in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KUlecnfpPxk
+image_url: null
+categories:
+  - education
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+  - python
+builders:
+  - name: Aditya Chandran Arvind
+  - name: Pranav Reddy Challa

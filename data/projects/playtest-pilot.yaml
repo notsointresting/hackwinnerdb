@@ -1,0 +1,27 @@
+id: playtest-pilot
+name: Playtest Pilot
+slug: playtest-pilot
+tagline: Playtest Pilot is a unified QA workspace for Unity developers, helping developers
+  streamline playtesting, track issues, and optimize hardware settings in one pl
+summary: Playtest Pilot received the Best Game Development Tool award at SJHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fastesteash/SJHack2026
+demo_url: null
+video_url: https://www.youtube.com/embed/JX-m_ynwwFo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/352/datas/gallery.jpg
+categories:
+  - iot
+  - media
+  - creative-tools
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - react
+  - unity
+builders:
+  - name: Quoc Anh Khoa Nguyen
+  - name: Eashan Patel
+  - name: Sharif Ahnaf Al Qaabi
+  - name: Evie Ho

@@ -1,0 +1,25 @@
+id: tomo-together
+name: Tomo Together
+slug: tomo-together
+tagline: Touch grass again!
+summary: "Tomo Together received the Unifold: Best Use of Unifold award at Hack the 6ix 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/a4ye/ht6-app
+demo_url: null
+video_url: https://www.youtube.com/embed/mevA9J067dw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/938/505/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mongodb
+  - react
+  - react-native
+  - typescript
+builders:
+  - name: patrick wei
+  - name: Aaron Ye
+  - name: Anita Jiang
+  - name: Emil Alexander Vinu

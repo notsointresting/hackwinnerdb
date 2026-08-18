@@ -1,0 +1,23 @@
+id: post-care-for-discharged-heart-disease-patients
+name: Post care for discharged heart disease patients
+slug: post-care-for-discharged-heart-disease-patients
+tagline: AI platform for hospitals to manage and monitor heart related disease patients after being
+  discharged.
+summary: Post care for discharged heart disease patients received the Best Innovation Award award at
+  Changbal Innovation Hack 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/819/073/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - sqlite
+  - typescript
+builders:
+  - name: Kyung Myung Ko

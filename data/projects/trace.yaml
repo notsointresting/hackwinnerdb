@@ -1,0 +1,23 @@
+id: trace
+name: Trace
+slug: trace
+tagline: Welcome to TRACE, the Tool for Ranking Analysis of Criminal Evidence.
+summary: "Trace received the Closed Challenge Winner: M96 Wireless Gaming Keyboards award at BACSA
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/JoshuaFranceTCD/TRACE
+demo_url: null
+video_url: https://www.youtube.com/embed/ID6hf5KLUGY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/415/090/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - vercel
+builders:
+  - name: Joshua France
+  - name: Shiyi Zhang

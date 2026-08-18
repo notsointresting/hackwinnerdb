@@ -1,0 +1,23 @@
+id: pin-on-expand
+name: Pin-On-Expand
+slug: pin-on-expand
+tagline: Paritok told me it saved 64% on a session that billed 69% more than no compression at all.
+  Here's the measurement, and the fix.
+summary: "Pin-On-Expand received the Most Valuable Feedback Prize award at Build with Paritok: The
+  Token-Efficiency Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/GauravGupte20/paritok-pin-on-expand
+demo_url: null
+video_url: https://www.youtube.com/embed/FgxjaIQIi4Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/038/759/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - fastapi
+  - python
+builders:
+  - name: Gaurav Gupte

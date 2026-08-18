@@ -1,0 +1,22 @@
+id: cultural-x-ray-decoding-the-cultural-context-of-language
+name: Cultural X-Ray - Decoding the Cultural Context of Language
+slug: cultural-x-ray-decoding-the-cultural-context-of-language
+tagline: "Students, workers, and tourists going abroad often face a significant problem: literal
+  translations are misleading. A language must be learned with culture, and"
+summary: Cultural X-Ray - Decoding the Cultural Context of Language received the Top 10 Teams award
+  at LingHacks VII in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/yizou1104/cultural-x-ray/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/zkSQlneDt7s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/295/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Yi Zou

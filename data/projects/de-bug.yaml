@@ -1,0 +1,21 @@
+id: de-bug
+name: De-Bug
+slug: de-bug
+tagline: A game where you are De-Bug. Your goal is to platform and solve programming challenges.
+summary: De-Bug received the Game Jam 1st place award at BlasterHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lillyphan/De-Bug
+demo_url: null
+video_url: https://www.youtube.com/embed/k2cu-zIfALg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/530/571/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - c-plus-plus
+builders:
+  - name: Carlos Sandoval
+  - name: lillyphan Phan
+  - name: Sophie Kawi
+  - name: adam ettachfini

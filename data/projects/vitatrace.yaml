@@ -1,0 +1,23 @@
+id: vitatrace
+name: VitaTrace
+slug: vitatrace
+tagline: Every drop traced. Every life counted.
+summary: VitaTrace received the Third Place award at STEMINATE HACKS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/swaroop2005/VitaTrace.git
+demo_url: null
+video_url: https://www.youtube.com/embed/PhqL45W2tcM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/770/033/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+builders:
+  - name: Reenu  Supreeta

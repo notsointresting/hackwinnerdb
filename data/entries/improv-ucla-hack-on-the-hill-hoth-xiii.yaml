@@ -1,0 +1,14 @@
+id: improv-ucla-hack-on-the-hill-hoth-xiii
+project_id: improv
+hackathon_id: ucla-hack-on-the-hill-hoth-xiii
+submission_url: https://devpost.com/software/improv-j0zstb
+source:
+  platform: devpost
+  url: https://devpost.com/software/improv-j0zstb
+awards:
+  - type: category-winner
+    title: Best Beginner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

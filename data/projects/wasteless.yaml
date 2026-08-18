@@ -1,0 +1,22 @@
+id: wasteless
+name: WasteLess
+slug: wasteless
+tagline: WasteLess is your web app companion to help you meal plan to prevent expiring food!
+summary: WasteLess received the Academics' Choice Prize award at Hack With SWiCS in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ahall789/food-waste-project-swics#
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/722/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - mongodb
+  - python
+  - streamlit
+builders:
+  - name: G May Betts
+  - name: aliceLeanV Lean
+  - name: Sakshi Kokane
+  - name: ahall789

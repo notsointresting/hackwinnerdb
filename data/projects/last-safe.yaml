@@ -1,0 +1,26 @@
+id: last-safe
+name: Last Safe
+slug: last-safe
+tagline: The last safe you'll ever need. Shared only with the ones who need it. Secure,
+  decentralized, peer to peer digital inheritance. You own your data. No servers. N
+summary: Last Safe received the [MLH] Best Use of Solana award at HackUPC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ivanAleksandrov09/hackUPC2026-dead-mans-switch
+demo_url: null
+video_url: https://www.youtube.com/embed/sTYerZ1FspA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/606/142/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react-native
+  - rust
+  - solana
+  - typescript
+builders:
+  - name: Serafim Kovachevich
+  - name: Erik LH
+  - name: Eetu Pakkanen
+  - name: Ivan Alexandrov

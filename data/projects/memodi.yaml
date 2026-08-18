@@ -1,0 +1,28 @@
+id: memodi
+name: Memodi
+slug: memodi
+tagline: Memodi is a voice-first AI memory companion that helps people with cognitive decline recall
+  routines, people, places, and objects through calm, personalized sup
+summary: Memodi received the 1st Place – Serverless Solutions award at AWSHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/811/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - anthropic
+  - base
+  - claude
+  - fastapi
+  - openai
+  - opencv
+  - python
+  - react
+  - yolo
+builders:
+  - name: Gagan Shiva Kumara
+  - name: Sky Bisht
+  - name: Atishay Jain

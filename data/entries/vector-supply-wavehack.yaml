@@ -1,0 +1,14 @@
+id: vector-supply-wavehack
+project_id: vector-supply
+hackathon_id: wavehack
+submission_url: https://devpost.com/software/vector-supply
+source:
+  platform: devpost
+  url: https://devpost.com/software/vector-supply
+awards:
+  - type: other
+    title: 3-D Pen
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

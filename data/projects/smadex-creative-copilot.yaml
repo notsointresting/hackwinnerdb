@@ -1,0 +1,23 @@
+id: smadex-creative-copilot
+name: Smadex Creative Copilot
+slug: smadex-creative-copilot
+tagline: "Creative Copilot turns raw ad data into actionable insight: an ML pipeline scores,
+  clusters and explains creatives, while a Gemini-powered dashboard flags fatig"
+summary: Smadex Creative Copilot received the [HackUPC] 3rd place award at HackUPC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lalig777/Smadex-Challenge
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Alejandro Vivero
+  - name: Eulàlia Gaya

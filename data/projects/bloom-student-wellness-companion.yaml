@@ -1,0 +1,20 @@
+id: bloom-student-wellness-companion
+name: Bloom – Student Wellness Companion
+slug: bloom-student-wellness-companion
+tagline: A friendly wellness companion that helps students build healthier habits through daily
+  check-ins, gentle insights, and supportive conversations—not judgment. In
+summary: Bloom – Student Wellness Companion received the Honorable mention award at Github readme
+  generation  in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8JUFq8D1nqo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/622/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Vaibhav Jaiswal

@@ -1,0 +1,19 @@
+id: mindecho
+name: MindEcho
+slug: mindecho
+tagline: A reflection for you
+summary: MindEcho received the YRI Fellowship discounted seat award at Hyperbloom Summer Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xTfuFXvo4ew
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Vaibhav JhunJhunwala

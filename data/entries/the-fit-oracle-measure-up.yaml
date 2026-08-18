@@ -1,0 +1,14 @@
+id: the-fit-oracle-measure-up
+project_id: the-fit-oracle
+hackathon_id: measure-up
+submission_url: https://devpost.com/software/the-fit-oracle
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-fit-oracle
+awards:
+  - type: grand-prize
+    title: Grand prize winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: swarmed-ai
+name: SwarMed AI
+slug: swarmed-ai
+tagline: SwarMed AI speeds up ER triage with real-time vitals scoring for doctors, while decoding
+  complex lab reports into spoken regional languages for families to ease
+summary: SwarMed AI received the Participation Certificate award at CodeNova 2026 – National AI &
+  Innovation Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/harishdcse2025-hash/SwarMed-AI-Smart-Ward-Emergency-Response-Network-
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/037/234/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - tailwind-css
+builders:
+  - name: HARISH D

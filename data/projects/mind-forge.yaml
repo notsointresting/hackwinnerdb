@@ -1,0 +1,26 @@
+id: mind-forge
+name: Mind Forge
+slug: mind-forge
+tagline: An AI-powered mental wellness platform that helps users build healthier habits through
+  intelligent conversations, guided journaling, mood tracking, and personal
+summary: Mind Forge received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Zephyrex21/mind-forge
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/866/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Saurabh Raj Shekhar
+  - name: sumit gupta
+  - name: GAURAV

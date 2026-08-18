@@ -1,0 +1,24 @@
+id: warrant
+name: Warrant
+slug: warrant
+tagline: Know your rights instantly. Warrant is a real-time ICE activity map with an AI panic button
+  that explains your legal rights in English & Spanish and alerts your
+summary: Warrant received the Best use of Reconstruct award at HackDavis 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bnha4212/Hack-Davis-Ice-Man#repository-layout
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/656/104/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - javascript
+  - mapbox
+  - mongodb
+  - react
+builders:
+  - name: Zakari Bautista
+  - name: Evan Lee
+  - name: Brandon Wei Nham

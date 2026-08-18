@@ -1,0 +1,27 @@
+id: dactyl
+name: DACTYL
+slug: dactyl
+tagline: "Dactyl: real-time bidirectional ASL translation glasses that turns sign language into
+  speech and spoken words into caption letting hearing and deaf people talk "
+summary: DACTYL received the 1st Place award at MorganHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thegirwhocodes/Dactyl-Final
+demo_url: null
+video_url: https://www.youtube.com/embed/wOSZCw0LH74
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/839/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - groq
+  - javascript
+  - opencv
+  - python
+  - tensorflow
+  - whisper
+builders:
+  - name: Tomisin Adebari
+  - name: Eniola Niranoluwa
+  - name: Naomi Ivie
+  - name: tobi adebari

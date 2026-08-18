@@ -1,0 +1,28 @@
+id: thewasteman
+name: TheWasteMan
+slug: thewasteman
+tagline: Ever thought of a smart police for waste? Meet the R Pi that not only examines your food,
+  but also assists in providing valuable data for your waste using AI.
+summary: TheWasteMan received the DH 5 Overall 1st Place Winner - Beats Headphones award at
+  DeerHacks V (2026) in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/riaasehgal/thewasteman
+demo_url: null
+video_url: https://www.youtube.com/embed/gIeeHQIhxdc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/385/026/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - raspberry-pi
+  - react
+  - sqlite
+builders:
+  - name: Harsh Dhabalia
+  - name: Riaa Sehgal
+  - name: Henry Zhao
+  - name: Jun Li

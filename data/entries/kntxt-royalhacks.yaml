@@ -1,0 +1,20 @@
+id: kntxt-royalhacks
+project_id: kntxt
+hackathon_id: royalhacks
+submission_url: https://devpost.com/software/kntxt
+source:
+  platform: devpost
+  url: https://devpost.com/software/kntxt
+awards:
+  - type: other
+    title: Tickets to TechBBQ
+  - type: other
+    title: 3-months of Lovable Pro
+  - type: other
+    title: Swag
+  - type: other
+    title: Rubber ducks
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

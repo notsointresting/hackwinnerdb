@@ -1,0 +1,21 @@
+id: shelterstrain
+name: ShelterStrain
+slug: shelterstrain
+tagline: “Can we develop a predictive and simulation framework to identify when and where Toronto’s
+  shelter system operates under critical capacity pressure?”
+summary: ShelterStrain received the Best Model award at SDSS Datathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KelvinPogo/sdss_datathon_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/dfTL1m4LxCk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/394/325/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Kevin Pogoryelovskyy
+  - name: Masaru Morisako

@@ -1,0 +1,21 @@
+id: fetch-tify
+name: FETCH-TIFY
+slug: fetch-tify
+tagline: FETCH-TIFY, a Spotify playlist generator, built with fetch.ai.
+summary: FETCH-TIFY received the Best Use of fetch.ai award at BeachHacks 9.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jay-gleeson/beachhacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/YVRadPIPdEM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/654/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - openai
+  - python
+builders:
+  - name: Jay Gleeson
+  - name: Connor Darling
+  - name: Joseph Huynh

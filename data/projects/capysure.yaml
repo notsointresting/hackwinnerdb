@@ -1,0 +1,24 @@
+id: capysure
+name: CapySure
+slug: capysure
+tagline: Women are underrepresented in the trade industry, and many women/non-binary people would
+  feel more comfortable with a female/non-binary tradesperson. Our app co
+summary: CapySure received the Social Impact award at Witathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/orgs/wit26a/repositories
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/246/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - python
+  - sqlite
+  - swift
+builders:
+  - name: kaitlynlouisedwyer18 Dwyer
+  - name: Charlotte C
+  - name: Kimberly Leary
+  - name: Carissa Choi

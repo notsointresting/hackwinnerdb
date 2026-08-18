@@ -1,0 +1,14 @@
+id: genovate-hack-days
+name: Genovate Hack Days
+slug: genovate-hack-days
+organizer: []
+year: 2026
+sources:
+  - https://genovate-hack-days.devpost.com/
+  - https://genovate-hack-days.devpost.com/project-gallery?filter=winner
+website_url: https://genovate-hack-days.devpost.com/
+platform: devpost
+participant_count: 20
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Genovate Hack Days. Imported automatically."

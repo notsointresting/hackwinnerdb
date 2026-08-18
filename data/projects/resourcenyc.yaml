@@ -1,0 +1,25 @@
+id: resourcenyc
+name: ResourceNYC
+slug: resourcenyc
+tagline: Welfare programs exist but finding them is a maze. ResourceNYC uses AI to instantly match
+  anyone, in any language, to food, health, and housing help they actual
+summary: ResourceNYC received the Queens (Diversity Track) award at HunterHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AJUNNYC/resourcenyc
+demo_url: null
+video_url: https://www.youtube.com/embed/JI9yLXWjIoU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/635/151/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - supabase
+builders:
+  - name: Shameel Khandokar
+  - name: Aryan Seyam
+  - name: Kendi Lleshi
+  - name: AJUNNYC Jun

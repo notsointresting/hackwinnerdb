@@ -1,0 +1,14 @@
+id: bloom-catalyst-2026-ui-ux-designathon
+project_id: bloom
+hackathon_id: catalyst-2026-ui-ux-designathon
+submission_url: https://devpost.com/software/lorem-ipsum-fapctr
+source:
+  platform: devpost
+  url: https://devpost.com/software/lorem-ipsum-fapctr
+awards:
+  - type: honorable-mention
+    title: "Track 3: After The Fact, Honorable Mention"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

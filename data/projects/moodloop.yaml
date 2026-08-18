@@ -1,0 +1,22 @@
+id: moodloop
+name: MoodLoop
+slug: moodloop
+tagline: Keep in the loop with your mood, right in your pocket
+summary: MoodLoop received the Best Wellness Related Hack award at cmd-f 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kparibhasha/mood-loop
+demo_url: null
+video_url: https://www.youtube.com/embed/y88fhFku3mo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/443/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - figma
+  - llama
+  - python
+builders:
+  - name: Bella Wang
+  - name: Doyel Kapoor
+  - name: Paribhasha

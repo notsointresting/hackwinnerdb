@@ -1,0 +1,23 @@
+id: flaresight-ai-driven-solar-flare-monitoring-satellite-conrol
+name: FlareSight:AI-Driven Solar Flare Monitoring&Satellite Conrol
+slug: flaresight-ai-driven-solar-flare-monitoring-satellite-conrol
+tagline: "Our AI system uses two CNN models—Continuum (optical) and Magnetogram (magnetic)—to
+  forecast space weather. Using API data, it predicts risks early, triggering "
+summary: "FlareSight:AI-Driven Solar Flare Monitoring&Satellite Conrol received the 3rd Place: $50
+  Amazon Gift Card + Certificate award at HackVision in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/adakilinc/FlareSight-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/BR5arEG0mW8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/408/565/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - blockchain
+technologies:
+  - python
+  - tensorflow
+builders:
+  - name: Ada KILINÇ
+  - name: DefneNil Pekdemir

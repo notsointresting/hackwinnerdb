@@ -1,0 +1,20 @@
+id: esw-solar-bus-stop
+name: ESW Solar Bus Stop
+slug: esw-solar-bus-stop
+tagline: C++ code for ESQ Solar Bus Stop Project
+summary: ESW Solar Bus Stop received the ESW Favorite award at Vibe Coding Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EricL0512/rpi-vibe-coding-hackathon-2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: WeihaoWu30 Wu
+  - name: Eric Lin

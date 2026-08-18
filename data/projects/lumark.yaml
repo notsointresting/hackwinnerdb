@@ -1,0 +1,25 @@
+id: lumark
+name: Lumark
+slug: lumark
+tagline: El proyecto consiste en el desarrollo de un copiloto de marketing impulsado por
+  inteligencia artificial, para ayudar a negocios a crear, gestionar y optimizar s
+summary: Lumark received the Best Use of MongoDB Atlas award at Hackathon Troyano 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/karenca01/hackathon_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/0IcTqgh2bJQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/730/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Karen Cervantes Alvarez
+  - name: Diego Martell Rodríguez
+  - name: Mateo Dwyer
+  - name: JESUS ENRIQUE LOPEZ ZAVALA

@@ -1,0 +1,18 @@
+id: monky-ai-coding-assistant-moonshot-hackathon
+project_id: monky-ai-coding-assistant
+hackathon_id: moonshot-hackathon
+submission_url: https://devpost.com/software/monky-ai-coding-assistant-mfuw8q
+source:
+  platform: devpost
+  url: https://devpost.com/software/monky-ai-coding-assistant-mfuw8q
+awards:
+  - type: other
+    title: Participation & Completion Recognition
+  - type: finalist
+    title: Top 100 Finalist Award
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

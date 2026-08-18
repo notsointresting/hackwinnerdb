@@ -1,0 +1,21 @@
+id: real-time-ai-homework-lab-tutor
+name: Real-Time AI Homework & Lab Tutor
+slug: real-time-ai-homework-lab-tutor
+tagline: An interactive AI tutor using Gemini 2.0 Flash to observe a student's screen and voice in
+  real time, guiding them through math and code errors via Socratic ques
+summary: Real-Time AI Homework & Lab Tutor received the 50$ Gift Card award at Build With AI Hack
+  Days @ Southeast University in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/065/632/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - google-ai-studio
+  - javascript
+builders:
+  - name: Tasmeoul Miyad

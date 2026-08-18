@@ -1,0 +1,25 @@
+id: catfish-a-moodle-assignments-exporter
+name: "catFish: A Moodle Assignments Exporter"
+slug: catfish-a-moodle-assignments-exporter
+tagline: Tired of manually adding your assignments to your personal calendar each semester? We were
+  too. Now you can do it in just 3 easy steps, no download required!
+summary: "catFish: A Moodle Assignments Exporter received the Best UI/UX award at Grizzhacks 8 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/radish64/GrizzHacks26-moodle-exporter
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/210/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+builders:
+  - name: Hannah Fosnaugh
+  - name: Marian Morales Jimenez
+  - name: River Dyke

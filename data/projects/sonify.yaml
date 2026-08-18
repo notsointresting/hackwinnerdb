@@ -1,0 +1,21 @@
+id: sonify
+name: Sonify
+slug: sonify
+tagline: World First Generative Music Sheet Copilot, One note at a time - Let's change the world!
+summary: Sonify received the [GenAI Genesis] TOP 10 Team - Finalists (In-Person Only) award
+  at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/TOMWANGZZ1236/Genesis_Sonify
+demo_url: null
+video_url: https://www.youtube.com/embed/gB4hxTHZlUw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - react
+builders:
+  - name: Tom Wang
+  - name: Bill Yang

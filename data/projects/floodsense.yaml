@@ -1,0 +1,19 @@
+id: floodsense
+name: Floodsense
+slug: floodsense
+tagline: FloodSense BD is an AI-powered flood risk intelligence web application designed to help
+  people in Bangladesh understand potential flood risks in their region in
+summary: Floodsense received the Build with AI Swags award at Build with AI Hack Days @UITS in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mrstealthcoder/floodsense
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/324/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies: []
+builders:
+  - name: Shahriar Srabon

@@ -1,0 +1,23 @@
+id: tide-together
+name: Tide Together
+slug: tide-together
+tagline: Predict diabetes risk from context, finds nearby food on Google Maps, refers to real
+  nutritional menus, and ranks the top three smarter picks— grounded in pract
+summary: Tide Together received the Best UI/UX award at FullyHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Martindn-Ha/FullyHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/xsxWxMhHuGI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/499/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - cloudflare
+  - gemini
+  - python
+  - react-native
+  - typescript
+builders:
+  - name: Martin Ha

@@ -1,0 +1,19 @@
+id: kirobuildfest
+name: KIROBuildFest
+slug: kirobuildfest
+tagline: Robotics simulation in your browser. Upload URDF, simulate physics, validate control — no
+  install, no GPU, free.
+summary: KIROBuildFest received the Best Overall - BuildFest Champion award at Kiro Buildfest 2026
+  Singapore in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - robotics
+technologies:
+  - python
+builders:
+  - name: stafford:) Ho

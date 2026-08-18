@@ -1,0 +1,14 @@
+id: elenchus-cursor-hackathon-toronto-tech-week
+project_id: elenchus
+hackathon_id: cursor-hackathon-toronto-tech-week
+submission_url: https://devpost.com/software/elenchus-cvohb1
+source:
+  platform: devpost
+  url: https://devpost.com/software/elenchus-cvohb1
+awards:
+  - type: category-winner
+    title: Best Project with ElevenLabs
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

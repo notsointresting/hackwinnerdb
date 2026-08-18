@@ -1,0 +1,26 @@
+id: la48-cinemascout
+name: LA48 CinemaScout
+slug: la48-cinemascout
+tagline: A spatial cinematography copilot for planning, previewing, and refining camera shots inside
+  interactive 3D environments.
+summary: LA48 CinemaScout received the Best Interactive World Experience - by World Labs Runner-Up
+  award at Worlds in Action Hack [02-LA] in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/vbKmJVHd1Rg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/943/958/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - anthropic
+  - claude
+  - openai
+  - unity
+builders:
+  - name: Skylar Knight
+  - name: makumasaka
+  - name: Vishnu Sai Vardhan Bodapati

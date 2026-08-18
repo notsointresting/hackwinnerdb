@@ -1,0 +1,14 @@
+id: swaptivity-by-palette-cissa-design-blitz-2026
+project_id: swaptivity-by-palette
+hackathon_id: cissa-design-blitz-2026
+submission_url: https://devpost.com/software/swaptivity-palette
+source:
+  platform: devpost
+  url: https://devpost.com/software/swaptivity-palette
+awards:
+  - type: winner
+    title: Overall Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

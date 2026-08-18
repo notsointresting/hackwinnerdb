@@ -1,0 +1,27 @@
+id: unscripted-your-script-your-story-you-play
+name: "Unscripted: Your script, Your story, You play."
+slug: unscripted-your-script-your-story-you-play
+tagline: Unscripted is live multiplayer where every match is its own AI-generated episode- hidden
+  roles, real drama, new story every time. Think Among Us, but you are ac
+summary: "Unscripted: Your script, Your story, You play. received the MLH - Best Use of ElevenLabs
+  award at SproutGT in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/gargisurange-bit/sproutgthack2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/2NnHAe_L8ps
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/566/048/datas/medium.png
+categories:
+  - artificial-intelligence
+  - creative-tools
+technologies:
+  - claude
+  - elevenlabs
+  - figma
+  - java
+  - javascript
+  - python
+builders:
+  - name: MalharRathodd Rathod
+  - name: Aditi Ashok
+  - name: Gargi Surange

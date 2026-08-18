@@ -1,0 +1,14 @@
+id: looseleaf-irvinehacks-2026
+project_id: looseleaf
+hackathon_id: irvinehacks-2026
+submission_url: https://devpost.com/software/looseleaf
+source:
+  platform: devpost
+  url: https://devpost.com/software/looseleaf
+awards:
+  - type: second-place
+    title: Best UI/UX Hack - 2nd Place – Opennote
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

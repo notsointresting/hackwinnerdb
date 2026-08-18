@@ -1,0 +1,22 @@
+id: arta-autonomous-red-team-agent
+name: ARTA — Autonomous Red Team Agent
+slug: arta-autonomous-red-team-agent
+tagline: ARTA is an autonomous, self-healing penetration testing agent that transforms single IP
+  address into a professional executive audit report by orchestrating a fu
+summary: ARTA — Autonomous Red Team Agent received the Google Swag Kits award at Bot To Agent by MLH
+  Hack Days in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/astral-sh/uv
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/621/848/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - nextjs
+  - python
+builders:
+  - name: Piyush Paul

@@ -1,0 +1,23 @@
+id: peersuade
+name: Peersuade
+slug: peersuade
+tagline: A real-time 1v1 debate game where two players compete to win a fictional Australian
+  election by out-arguing each other in front of AI-simulated voters.
+summary: Peersuade received the Most Fun Idea award at UNIHACK 2026, funded by the European Union in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/uFC8aKw5F-0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/438/261/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - gaming
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: Melvin Darial Yogiana
+  - name: Zitian Qin
+  - name: Giselle Angela
+  - name: Danar Prakosa

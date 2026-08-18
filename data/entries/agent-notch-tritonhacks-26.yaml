@@ -1,0 +1,14 @@
+id: agent-notch-tritonhacks-26
+project_id: agent-notch
+hackathon_id: tritonhacks-26
+submission_url: https://devpost.com/software/agent-notch
+source:
+  platform: devpost
+  url: https://devpost.com/software/agent-notch
+awards:
+  - type: category-winner
+    title: Most Innovative
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

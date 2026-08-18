@@ -1,0 +1,27 @@
+id: frontier-finance
+name: Frontier Finance
+slug: frontier-finance
+tagline: Imagine a word where everyone had the knowledge necessary to thrive.
+summary: Frontier Finance received the MLH || Best Use of Solana || Ledger Nano S Plus award at
+  HooHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/TheeGreenGenie/HooHacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/434/datas/gallery.jpg
+categories:
+  - education
+  - fintech
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - python
+  - solana
+  - stripe
+  - tensorflow
+  - typescript
+builders:
+  - name: Solomon Shasanmi

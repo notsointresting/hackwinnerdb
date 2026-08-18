@@ -1,0 +1,26 @@
+id: clawforge
+name: ClawForge
+slug: clawforge
+tagline: ClawForge helps small businesses create custom AI agents for any purpose, powered by
+  NemoClaw safety, from calls and bookings to support and daily operations, w
+summary: ClawForge received the Best Use of Brev award at NemoClaw NVIDIA x ASUS Hackathon @ UCSC in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/animvsh/clawforge
+demo_url: null
+video_url: https://www.youtube.com/embed/N9ZKgs9UvGE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/673/511/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - cloudflare
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Paras Gandhi
+  - name: animesh Alang
+  - name: Adithya Pradeep
+  - name: Giwin Vincent Edwin Omesh

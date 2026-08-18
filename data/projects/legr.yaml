@@ -1,0 +1,26 @@
+id: legr
+name: LEGR
+slug: legr
+tagline: "Rocket Money on steroids: a fleet of autonomous finance agents for startups."
+summary: LEGR received the Best Business and Enterprise Hack award at HackPrinceton Spring '26 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Brownies-HackPrinceton/LEGR
+demo_url: null
+video_url: https://www.youtube.com/embed/uQTMf-YxHzU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/809/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - claude
+  - javascript
+  - openai
+  - postgresql
+  - python
+builders:
+  - name: Karan Pratap Singh
+  - name: Anthony Quispilaya
+  - name: Sadman  Mazumder
+  - name: Kautilya Veer

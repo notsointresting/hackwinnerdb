@@ -1,0 +1,17 @@
+id: haru-talk
+name: haru talk
+slug: haru-talk
+tagline: does your dairy with chat and voice
+summary: haru talk received the REWARD award at Zero2One hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - creative-tools
+technologies: []
+builders:
+  - name: wonsun lee

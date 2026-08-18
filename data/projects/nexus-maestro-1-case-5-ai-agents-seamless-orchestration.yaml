@@ -1,0 +1,26 @@
+id: nexus-maestro-1-case-5-ai-agents-seamless-orchestration
+name: "Nexus Maestro: 1 Case, 5 AI Agents, Seamless Orchestration"
+slug: nexus-maestro-1-case-5-ai-agents-seamless-orchestration
+tagline: "Maestro Case turns a single fraud call into a live multi-agent investigation: AI scoring,
+  parallel SIP calls to vendors and carriers, human-in-the-loop review, "
+summary: "Nexus Maestro: 1 Case, 5 AI Agents, Seamless Orchestration received the Most Creative
+  Solution award at UiPath AgentHack in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/7TxXWJeBiY0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/840/598/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - fastapi
+  - python
+  - react
+  - redis
+  - webrtc
+builders:
+  - name: Russel Alfeche
+  - name: Mohamed Hanif

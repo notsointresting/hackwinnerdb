@@ -1,0 +1,26 @@
+id: bless-you-polar-bear
+name: Bless You Polar Bear
+slug: bless-you-polar-bear
+tagline: Bless You Polar Bear is an AI companion that detects sneezes to offer blessings and health
+  tips, bridging cultural gaps and loneliness.
+summary: Bless You Polar Bear received the Sustainability award at MakeMIT x Harvard 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NaemBi-Bap-MAKE-MIT-2026-Team/sneezing_detection.git
+demo_url: null
+video_url: https://www.youtube.com/embed/c71X75K6KHc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/032/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - creative-tools
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Hyomin Chung
+  - name: Mirinae Park
+  - name: 지후 이
+  - name: 박인성 (InSung Bahk)

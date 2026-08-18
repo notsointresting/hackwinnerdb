@@ -1,0 +1,14 @@
+id: merged-mr-fix-docs-clarify-that-avg-works-on-numerics-gitlab-transcend-hackathon
+project_id: merged-mr-fix-docs-clarify-that-avg-works-on-numerics
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/merged-mr-fix-docs-clarify-that-avg-works-on-numerics
+source:
+  platform: devpost
+  url: https://devpost.com/software/merged-mr-fix-docs-clarify-that-avg-works-on-numerics
+awards:
+  - type: track-winner
+    title: "Contribute Track: A qualified Merged Merge Request"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

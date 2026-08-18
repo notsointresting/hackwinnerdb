@@ -1,0 +1,14 @@
+id: setmind-by-karaoke-vision-hoobit-hacks-2026
+project_id: setmind-by-karaoke-vision
+hackathon_id: hoobit-hacks-2026
+submission_url: https://devpost.com/software/setmind
+source:
+  platform: devpost
+  url: https://devpost.com/software/setmind
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

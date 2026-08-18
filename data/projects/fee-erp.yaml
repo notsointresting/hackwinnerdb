@@ -1,0 +1,20 @@
+id: fee-erp
+name: Fee ERP
+slug: fee-erp
+tagline: Our fee management ERP, is used by schools to manage their fee statements, acoounts and
+  notify parents or guardians of remaining school fee balances
+summary: Fee ERP received the Gift Cards award at Neuu Hack DAy in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Enochtec/laravel_erp
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - postgresql
+builders:
+  - name: Protech Hub
+  - name: Hat Juma
+  - name: Enock Juma

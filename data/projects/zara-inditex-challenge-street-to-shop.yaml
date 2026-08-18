@@ -1,0 +1,20 @@
+id: zara-inditex-challenge-street-to-shop
+name: "Zara / Inditex challenge: street-to-shop"
+slug: zara-inditex-challenge-street-to-shop
+tagline: Dada una foto de "bundle" (outfit, modelo en la calle, campaña de ropa), localizamos cada
+  prenda y buscamos los 15 productos más parecidos del catálogo de Indit
+summary: "Zara / Inditex challenge: street-to-shop received the INDITEX TECH award at HackUDC 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/385/065/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - python
+  - pytorch
+  - yolo
+builders:
+  - name: Lucas Canle de Andrés

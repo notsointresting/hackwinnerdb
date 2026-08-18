@@ -1,0 +1,16 @@
+id: sift-deep-agents-hackathon
+project_id: sift
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/sift-yowran
+source:
+  platform: devpost
+  url: https://devpost.com/software/sift-yowran
+awards:
+  - type: category-winner
+    title: Most Ab-Norm-al use of Bland
+  - type: other
+    title: "Airbyte: Conquer with Context"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

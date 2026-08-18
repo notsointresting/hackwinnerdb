@@ -1,0 +1,22 @@
+id: orbitguard
+name: OrbitGuard
+slug: orbitguard
+tagline: The satellite collision simulation app for the future
+summary: OrbitGuard received the [MLH] Best Use of Vultr award at HackLondon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KhushM7/HackLondon/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/354/426/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - fastapi
+  - python
+  - sqlite
+  - typescript
+builders:
+  - name: Ethan Olchik
+  - name: Khush Mehta

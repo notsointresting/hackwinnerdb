@@ -1,0 +1,18 @@
+id: syncshift
+name: SyncShift
+slug: syncshift
+tagline: SyncShift is an AI-powered shift scheduling software built for college campuses. Right
+  person, right shift, right now.
+summary: SyncShift received the Business award at Boeing presents TruHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DungLe-304/TruHacks2026-Business
+demo_url: null
+video_url: https://www.youtube.com/embed/aBGKj-787ww
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/465/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Dung Le

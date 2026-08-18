@@ -1,0 +1,14 @@
+id: post-x-be-terna-customer-request-processing-uipath-agenthack
+project_id: post-x-be-terna-customer-request-processing
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/post-x-be-terna
+source:
+  platform: devpost
+  url: https://devpost.com/software/post-x-be-terna
+awards:
+  - type: honorable-mention
+    title: Honorable Mention of UiPath Maestro Case
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: ludens-hack-days-in-bogota
+project_id: ludens
+hackathon_id: hack-days-in-bogota
+submission_url: https://devpost.com/software/ludens
+source:
+  platform: devpost
+  url: https://devpost.com/software/ludens
+awards:
+  - type: first-place
+    title: First Place – Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: sdg-12-food-waste-reduction-intelligence-platform-mmust-hackday
+project_id: sdg-12-food-waste-reduction-intelligence-platform
+hackathon_id: mmust-hackday
+submission_url: https://devpost.com/software/sdg-12-food-waste-reduction-intelligence-platform
+source:
+  platform: devpost
+  url: https://devpost.com/software/sdg-12-food-waste-reduction-intelligence-platform
+awards:
+  - type: other
+    title: Google Swag Pack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

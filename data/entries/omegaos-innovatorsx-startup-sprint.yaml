@@ -1,0 +1,18 @@
+id: omegaos-innovatorsx-startup-sprint
+project_id: omegaos
+hackathon_id: innovatorsx-startup-sprint
+submission_url: https://devpost.com/software/omegaos
+source:
+  platform: devpost
+  url: https://devpost.com/software/omegaos
+awards:
+  - type: finalist
+    title: Top 100 Finalist Award
+  - type: second-place
+    title: Second Place Winner
+  - type: other
+    title: Membership
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

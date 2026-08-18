@@ -1,0 +1,22 @@
+id: gradient-descent
+name: Gradient Descent
+slug: gradient-descent
+tagline: Use your math skills to explore the universe! Play the campaign, create custom levels, and
+  compete with others for the fastest times.
+summary: Gradient Descent received the Honorable Mentions award at Reddit’s Games with a Hook
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ayaanma/gradient-descent/
+demo_url: null
+video_url: https://www.youtube.com/embed/Uaoh7ZH0VZ4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/903/483/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - claude
+  - javascript
+  - typescript
+builders:
+  - name: Matthew Ma
+  - name: Ayaan Malik

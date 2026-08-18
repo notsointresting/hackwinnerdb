@@ -1,0 +1,14 @@
+id: cura-ai-hack-arizona-2026
+project_id: cura-ai
+hackathon_id: hack-arizona-2026
+submission_url: https://devpost.com/software/cura-ai-1puqox
+source:
+  platform: devpost
+  url: https://devpost.com/software/cura-ai-1puqox
+awards:
+  - type: category-winner
+    title: "[Banner – University Family Care] Most Innovative Use of AI for the Public Good"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

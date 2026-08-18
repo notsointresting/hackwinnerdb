@@ -1,0 +1,16 @@
+id: oyster-soon-hackathon
+project_id: oyster
+hackathon_id: soon-hackathon
+submission_url: https://devpost.com/software/godmode-aerf6x
+source:
+  platform: devpost
+  url: https://devpost.com/software/godmode-aerf6x
+awards:
+  - type: first-place
+    title: First Place
+  - type: category-winner
+    title: LinkedIn Warrior - Most creative post about SOON
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

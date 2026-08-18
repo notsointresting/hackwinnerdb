@@ -1,0 +1,22 @@
+id: kitajaga
+name: kitajaga
+slug: kitajaga
+tagline: Accessible care, instantly matched.
+summary: kitajaga received the 2nd Place Health Track award at Garuda Hacks 7.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kitajaga
+demo_url: null
+video_url: https://www.youtube.com/embed/jwpi76bjsuE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/913/106/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - nextjs
+builders:
+  - name: Dexa Afnan
+  - name: Ulil Absor
+  - name: Faris Andi Muhammad
+  - name: davinal

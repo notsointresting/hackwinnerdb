@@ -1,0 +1,20 @@
+id: atomic-habits
+name: Atomic Habits
+slug: atomic-habits
+tagline: Atomic Habits is an app that transforms overwhelming goals into simple, actionable steps,
+  helping users overcome procrastination and build lasting habits throug
+summary: "Atomic Habits received the Track 2: Almost There, Honorable Mention award at CATALYST
+  2026: UI/UX Designathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/rxQCLPkQldo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/480/070/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Skylar Wang
+  - name: Shay Sun

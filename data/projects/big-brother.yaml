@@ -1,0 +1,22 @@
+id: big-brother
+name: Big Brother
+slug: big-brother
+tagline: Big Brother is an agentic AI tool that looks at your webcam, screenshare, and browser
+  contents to make sure that you're on-task by verbal reminder. Like studyin
+summary: Big Brother received the Participant award at Project Stellar in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fengyuan66/bigBrother
+demo_url: null
+video_url: https://www.youtube.com/embed/S6XIcae3fps
+image_url: null
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: Fengyuan Liu
+  - name: Parsa Rezazadeh

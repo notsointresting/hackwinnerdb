@@ -1,0 +1,19 @@
+id: finforge
+name: FinForge
+slug: finforge
+tagline: FinForge lets users design rocket fins, test materials and payloads, then launch in a 3D
+  physics simulator to see what makes rockets stable.
+summary: FinForge received the Best Overall Execution award at Project Stellar in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DylanRolfe/ProjectStellar
+demo_url: null
+video_url: https://www.youtube.com/embed/LhonvyH_35U
+image_url: null
+categories:
+  - creative-tools
+technologies: []
+builders:
+  - name: Dylan Rolfe
+  - name: Rishi Raaj
+  - name: Jayden Chen

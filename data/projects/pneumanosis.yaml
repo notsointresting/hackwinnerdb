@@ -1,0 +1,22 @@
+id: pneumanosis
+name: Pneumanosis
+slug: pneumanosis
+tagline: "An AI-powered chest X-ray abnormality screening system that helps health professionals
+  prioritize critical cases. Built for RevolutionUC hackathon by a team of "
+summary: Pneumanosis received the Best Social Impact award at RevolutionUC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/4ena/Chest-X-ray-Abnormality-Screening
+demo_url: null
+video_url: https://www.youtube.com/embed/Iv5f7DoPc64
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/407/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - claude
+  - fastapi
+  - gemini
+builders:
+  - name: Prion4URThoughts Staley
+  - name: Nick Foran

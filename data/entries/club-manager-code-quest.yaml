@@ -1,0 +1,14 @@
+id: club-manager-code-quest
+project_id: club-manager
+hackathon_id: code-quest
+submission_url: https://devpost.com/software/club-manager
+source:
+  platform: devpost
+  url: https://devpost.com/software/club-manager
+awards:
+  - type: category-winner
+    title: Most Creative Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

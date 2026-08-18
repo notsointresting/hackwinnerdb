@@ -1,0 +1,26 @@
+id: prelude
+name: Prelude
+slug: prelude
+tagline: Prelude runs your campaign through AI personas that react like real people. Then you can
+  interview any agent to understand why they engaged, ignored, or shared.
+summary: Prelude received the 2nd Prize award at FoundersHack Sydney 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TheYoungling1/foundershack-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/ey5Ksa_Gzco
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/323/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - flask
+  - openai
+  - python
+  - react
+  - typescript
+builders:
+  - name: Darren Melvison
+  - name: John Zhang
+  - name: Rin Ohsugi

@@ -1,0 +1,26 @@
+id: novastream
+name: NovaStream
+slug: novastream
+tagline: NovaStream is a fully autonomous, AI-powered television network that continuously monitors
+  the internet for breaking news and broadcasts cinematic short-form vi
+summary: NovaStream received the Theme-Based Track Prizes award at Quantum Sprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Shikhyy/NovaStream
+demo_url: null
+video_url: https://www.youtube.com/embed/fvXXV8HlsH8
+image_url: null
+categories:
+  - artificial-intelligence
+  - fintech
+  - media
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - supabase
+  - tailwind-css
+  - vercel
+builders:
+  - name: Shikhar Verma

@@ -1,0 +1,28 @@
+id: pangochain-ai-powered-blockchain-legal-platform
+name: PangoChain — AI-Powered Blockchain Legal Platform
+slug: pangochain-ai-powered-blockchain-legal-platform
+tagline: PangoChain is a Blockchain-secured legal platform powered by GPT-4o. Docs encrypted
+  client-side, anchored on Hyperledger Fabric, with AI that chats with case fi
+summary: PangoChain — AI-Powered Blockchain Legal Platform received the Codex $100 Credits award at
+  Codex Meetup Dhaka - UIU in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/meteorboyF/Fardeen_Codex_Dhaka_Meetup_Hackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/AILm6ARdk1Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/717/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - docker
+  - go
+  - ipfs
+  - java
+  - openai
+  - postgresql
+  - react
+  - typescript
+builders:
+  - name: Fardin Jahangir

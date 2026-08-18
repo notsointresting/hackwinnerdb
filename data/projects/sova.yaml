@@ -1,0 +1,28 @@
+id: sova
+name: Sova
+slug: sova
+tagline: AI-powered First Responder for Post-Operation Complications
+summary: Sova received the [MLH] Best Use of ElevenLabs - Wireless Earbuds award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6Z7Ij_9DJRY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/608/506/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - kotlin
+  - langchain
+  - openai
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Ishita Jain
+  - name: Ved Panse
+  - name: Sadhvi Narayanan
+  - name: Varshini VIjay

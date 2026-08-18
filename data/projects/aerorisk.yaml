@@ -1,0 +1,23 @@
+id: aerorisk
+name: AeroRisk
+slug: aerorisk
+tagline: Risk isn’t flat. Insurance pricing is.
+summary: AeroRisk received the 3rd Place - General Track award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DhairyaSeth21/AeroRisk
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/356/218/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - streamlit
+  - typescript
+builders:
+  - name: Dhairya Seth
+  - name: Aadvik Chaturvedi
+  - name: Aarav Agarwal

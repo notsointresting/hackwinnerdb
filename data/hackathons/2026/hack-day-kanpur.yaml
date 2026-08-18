@@ -1,0 +1,14 @@
+id: hack-day-kanpur
+name: "Hack Day Kanpur "
+slug: hack-day-kanpur
+organizer: []
+year: 2026
+sources:
+  - https://hack-day-kanpur.devpost.com/
+  - https://hack-day-kanpur.devpost.com/project-gallery?filter=winner
+website_url: https://hack-day-kanpur.devpost.com/
+platform: devpost
+participant_count: 75
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Day Kanpur . Imported automatically."

@@ -1,0 +1,18 @@
+id: habitquest
+name: HabitQuest
+slug: habitquest
+tagline: A habit tracker where based on how productive you were you can fight a boss.
+summary: HabitQuest received the Beginner Award award at HSHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bobis1/HabitQuest/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/581/349/datas/medium.png
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Joseph Wai
+  - name: Percy Gandhi
+  - name: Damien Thompson

@@ -1,0 +1,14 @@
+id: axle-ai-routing-made-simple-globehack
+project_id: axle-ai-routing-made-simple
+hackathon_id: globehack
+submission_url: https://devpost.com/software/diversity-hire-s-project
+source:
+  platform: devpost
+  url: https://devpost.com/software/diversity-hire-s-project
+awards:
+  - type: other
+    title: Trucker Path
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

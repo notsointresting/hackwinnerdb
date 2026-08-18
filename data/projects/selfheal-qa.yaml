@@ -1,0 +1,21 @@
+id: selfheal-qa
+name: SelfHeal QA
+slug: selfheal-qa
+tagline: An autonomous UiPath agent that heals brittle UI tests but refuses to heal real bugs,
+  filing a defect instead. The testing agent that knows when not to heal.
+summary: SelfHeal QA received the Best Cross-Platform Integration award at UiPath AgentHack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yanzaaa/selfheal
+demo_url: null
+video_url: https://www.youtube.com/embed/GWa3EnbFI5M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/830/207/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Anthony Yanza

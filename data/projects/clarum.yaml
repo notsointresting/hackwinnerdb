@@ -1,0 +1,25 @@
+id: clarum
+name: Clarum
+slug: clarum
+tagline: Clarum turns complex repositories into clear visual blueprints, architecture reports, and
+  guided onboarding paths for developers.
+summary: Clarum received the All Winners award at LingHacks VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BlazeeeXD/llm-inference-service
+demo_url: null
+video_url: https://www.youtube.com/embed/MRDtcQFZa98
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/176/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sqlite
+  - vercel
+builders:
+  - name: Blaze Hellsinger

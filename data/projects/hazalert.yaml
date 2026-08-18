@@ -1,0 +1,26 @@
+id: hazalert
+name: HazAlert
+slug: hazalert
+tagline: HazAlert is a multilingual, voice-first emergency dashboard that tells any resident whether
+  they are in an active evacuation zone and exactly what to do next, p
+summary: HazAlert received the 1st Place award at CTC x Google Gemini Prompt-a-thon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mukund-setti/ctcxgooglepromptathon
+demo_url: null
+video_url: https://www.youtube.com/embed/LeWDGQMNDi8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/708/359/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - google-ai-studio
+  - google-maps
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Mukund Ummadisetti
+  - name: Dhruv Kothari

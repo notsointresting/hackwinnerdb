@@ -1,0 +1,32 @@
+id: precallbot
+name: PreCallBot
+slug: precallbot
+tagline: Voice-first meeting prep agent that looks at your upcoming meetings, reads your relevant
+  Notion notes, researches the company/person online, and gives you a tac
+summary: PreCallBot received the Best use of InsForge award at Ship to Prod - Agentic Engineering
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/agusalvarez6/ship2prod-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/yMBPny6F050
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/048/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - anthropic
+  - docker
+  - graphql
+  - nextjs
+  - openai
+  - postgresql
+  - react
+  - redis
+  - typescript
+  - webrtc
+builders:
+  - name: Nicolás Pujia
+  - name: Sachin Meier
+  - name: Agustin Alvarez

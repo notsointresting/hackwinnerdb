@@ -1,0 +1,19 @@
+id: fraud-de-tech
+name: fraud-de.tech
+slug: fraud-de-tech
+tagline: "fraud-de.tech: Catching fraud at the speed of thought."
+summary: fraud-de.tech received the [MLH] Best .Tech Domain Name award at MPC Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DoanGiaHuyVu/fraud-de.tech.git
+demo_url: null
+video_url: https://www.youtube.com/embed/7qu3YUDm1iM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/858/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: "#huyvu Doan Gia Huy"

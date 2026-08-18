@@ -1,0 +1,20 @@
+id: aquaagent
+name: AquaAgent
+slug: aquaagent
+tagline: Reduces water usage by datacenters by minimizing coding agent token usage.
+summary: AquaAgent received the ASUS Sustainability First Place award at Milpitas Hacks 3 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/razzyshmazzy/aquaagent
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/123/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - react
+builders:
+  - name: Nico Zametto
+  - name: Alex Willard
+  - name: Gavin Perry

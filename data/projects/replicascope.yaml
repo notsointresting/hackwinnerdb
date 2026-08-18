@@ -1,0 +1,26 @@
+id: replicascope
+name: ReplicaScope
+slug: replicascope
+tagline: Drop a biomedical paper, get a verdict on whether it replicates. ReplicaScope reruns the
+  canonical single-cell pipeline live and grades each claim against the r
+summary: ReplicaScope received the Best Intellectual Pursuit award at KiroHacks Cal Poly in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samdickson22/ReplicaScope.git
+demo_url: null
+video_url: https://www.youtube.com/embed/0GSGAfpdJ-c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/639/207/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - anthropic
+  - claude
+  - docker
+  - fastapi
+  - python
+builders:
+  - name: Andrew Johnson
+  - name: Luis Garcia
+  - name: Samuel Dickson

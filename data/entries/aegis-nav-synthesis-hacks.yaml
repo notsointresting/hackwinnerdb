@@ -1,0 +1,14 @@
+id: aegis-nav-synthesis-hacks
+project_id: aegis-nav
+hackathon_id: synthesis-hacks
+submission_url: https://devpost.com/software/aegis-nav
+source:
+  platform: devpost
+  url: https://devpost.com/software/aegis-nav
+awards:
+  - type: third-place
+    title: 3rd Place Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

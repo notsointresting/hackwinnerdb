@@ -1,0 +1,14 @@
+id: changeshield-ai-splunk-agentic-changeops-commander-splunk-agentic-ops-hackathon
+project_id: changeshield-ai-splunk-agentic-changeops-commander
+hackathon_id: splunk-agentic-ops-hackathon
+submission_url: https://devpost.com/software/changeshield-ai-a-splunk-agentic-changeops-commander
+source:
+  platform: devpost
+  url: https://devpost.com/software/changeshield-ai-a-splunk-agentic-changeops-commander
+awards:
+  - type: category-winner
+    title: Best Use of Splunk MCP Server
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

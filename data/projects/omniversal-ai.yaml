@@ -1,0 +1,22 @@
+id: omniversal-ai
+name: Omniversal AI
+slug: omniversal-ai
+tagline: "Omniversal AI: The world's most overengineered productivity tool—pretends to be
+  enterprise-grade, actually exists to roast you in different personas."
+summary: Omniversal AI received the [MLH] Best Use of ElevenLabs award at AI Hackfest in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nova-rishabh/Omniversal-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/cbfL-T_cW-o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/862/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - developer-tools
+technologies:
+  - elevenlabs
+  - vercel
+builders:
+  - name: Lui Franz A. Lomugdang
+  - name: Rishabh Kataria

@@ -1,0 +1,20 @@
+id: landmate
+name: LandMate
+slug: landmate
+tagline: LandMate is an AI co-pilot that explains land documents, detects fraud risks, and provides
+  step-by-step registration guidance . Powered by Claude and other mode
+summary: LandMate received the Anthropic API Credits award at Claude Builder Hackathon, UG in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/joeladjei01/LandMate-Agent-app
+demo_url: null
+video_url: https://www.youtube.com/embed/q7Ne-ab89Qg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/500/373/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Joel Adjei
+  - name: Victor Pinto

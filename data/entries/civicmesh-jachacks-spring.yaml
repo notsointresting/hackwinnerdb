@@ -1,0 +1,16 @@
+id: civicmesh-jachacks-spring
+project_id: civicmesh
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/civicmesh-0ctxl5
+source:
+  platform: devpost
+  url: https://devpost.com/software/civicmesh-0ctxl5
+awards:
+  - type: first-place
+    title: Agentic AI track - 1st place
+  - type: category-winner
+    title: Best Startup Idea
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

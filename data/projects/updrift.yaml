@@ -1,0 +1,19 @@
+id: updrift
+name: Updrift
+slug: updrift
+tagline: '"Tumhe pata hai tum kitne paani mein ho?"'
+summary: Updrift received the Google AI Pro Postcard award at HackDays Delhi in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ryan-code-pro/Updrift.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/256/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - firebase
+  - gemini
+  - google-ai-studio
+builders:
+  - name: Ryan Madox

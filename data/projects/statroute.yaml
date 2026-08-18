@@ -1,0 +1,23 @@
+id: statroute
+name: StatRoute
+slug: statroute
+tagline: "StatRoute: Real-time AI dispatch and fault-tolerant routing for mission-critical medical
+  logistics"
+summary: StatRoute received the Experimental Prize award at UHackathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/786/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - redis
+  - supabase
+builders:
+  - name: neelimmahbub Mahbub

@@ -1,0 +1,26 @@
+id: tremorfix
+name: Tremorfix
+slug: tremorfix
+tagline: Tremorfix stabilizes hand tremors using sensors, ESP32, and servo control, while tracking
+  data for AI insights restoring independence, confidence, and dignity i
+summary: Tremorfix received the 1st Place Overall award at RevolutionUC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rohit-Ramesh-code/Tremorfix
+demo_url: null
+video_url: https://www.youtube.com/embed/ocfv-cfqlHg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/662/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - python
+  - react
+  - sqlite
+builders:
+  - name: KRISHNA MAHARAJWALA
+  - name: Rohit Ramesh
+  - name: Hamza Kapadia
+  - name: Vijay Viknesh Mohanraj

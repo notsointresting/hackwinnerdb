@@ -1,0 +1,23 @@
+id: redacted
+name: redacted
+slug: redacted
+tagline: this project has been continued as a personal project. check portfolio page
+summary: redacted received the AI TOOLS award at AgentVerse in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - react-native
+  - sql
+  - supabase
+  - typescript
+builders: []

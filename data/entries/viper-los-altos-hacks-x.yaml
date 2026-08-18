@@ -1,0 +1,14 @@
+id: viper-los-altos-hacks-x
+project_id: viper
+hackathon_id: los-altos-hacks-x
+submission_url: https://devpost.com/software/viper-qtp2ck
+source:
+  platform: devpost
+  url: https://devpost.com/software/viper-qtp2ck
+awards:
+  - type: category-winner
+    title: Most Technically Complex
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

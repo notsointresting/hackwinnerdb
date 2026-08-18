@@ -1,0 +1,14 @@
+id: every-second-matters-csi-hacks
+project_id: every-second-matters
+hackathon_id: csi-hacks
+submission_url: https://devpost.com/software/every-second-matters
+source:
+  platform: devpost
+  url: https://devpost.com/software/every-second-matters
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

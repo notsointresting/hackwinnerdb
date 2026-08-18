@@ -1,0 +1,20 @@
+id: aimetrics
+name: AIMetrics
+slug: aimetrics
+tagline: A scalable AI evaluation platform that compares LLMs side-by-side, scores trust with TEVVRL
+  metrics, and helps teams choose the best model with confidence.
+summary: AIMetrics received the USDA Challenge award at MorganHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/cpmtNh4H9v8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/383/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Ian Mason
+  - name: Bishop Akalusi

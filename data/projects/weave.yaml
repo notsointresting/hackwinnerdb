@@ -1,0 +1,24 @@
+id: weave
+name: weave
+slug: weave
+tagline: "Weave: AI-native infrastructure that lets agents design, orchestrate, and quality-check
+  each other's work — visually."
+summary: weave received the Best in Theme Award award at strAIght up! Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kimdobinn/weave
+demo_url: null
+video_url: https://www.youtube.com/embed/FYUAh1DbYqc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - nextjs
+builders:
+  - name: Dobin Kim
+  - name: Hojin Ahn
+  - name: chocleox

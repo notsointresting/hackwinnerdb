@@ -1,0 +1,25 @@
+id: reelearn
+name: ReeLearn
+slug: reelearn
+tagline: Reels that match what you want to learn.
+summary: ReeLearn received the 2nd Place award at JagHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/johnstoklas/jaghacks-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/331/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - google-cloud
+  - python
+  - react
+  - typescript
+builders:
+  - name: Gustavo Belaunde
+  - name: John Stoklas
+  - name: Aiden Seibel

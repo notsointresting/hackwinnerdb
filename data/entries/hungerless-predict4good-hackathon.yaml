@@ -1,0 +1,14 @@
+id: hungerless-predict4good-hackathon
+project_id: hungerless
+hackathon_id: predict4good-hackathon
+submission_url: https://devpost.com/software/hungerless-xncugv
+source:
+  platform: devpost
+  url: https://devpost.com/software/hungerless-xncugv
+awards:
+  - type: second-place
+    title: Runner Up – 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

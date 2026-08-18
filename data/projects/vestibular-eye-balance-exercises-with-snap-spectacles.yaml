@@ -1,0 +1,23 @@
+id: vestibular-eye-balance-exercises-with-snap-spectacles
+name: Vestibular Eye Balance Exercises with Snap Spectacles
+slug: vestibular-eye-balance-exercises-with-snap-spectacles
+tagline: Vestibular Eye gamifies rehab. Patients guide a bird with their gaze while tilting their
+  head. It ensures correct form, compliance, tracks progress, and makes r
+summary: Vestibular Eye Balance Exercises with Snap Spectacles received the Snap Spectacles 3rd
+  Place award at RealityShift in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/plochare/Vestibular-Snap-Exercises
+demo_url: null
+video_url: https://www.youtube.com/embed/aPdraq22h80
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/390/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+  - ar-vr
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Amir Mohideen Basheer Khan
+  - name: pichya locharernkul

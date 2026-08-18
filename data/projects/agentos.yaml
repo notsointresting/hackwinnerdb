@@ -1,0 +1,28 @@
+id: agentos
+name: AgentOS
+slug: agentos
+tagline: Most growing teams don't need another tool. They need another person. AgentOS is a platform
+  for AI employees. Browse for talent, pick a role, connect their tool
+summary: AgentOS received the Claude Track award at Claude Hackathon 2026 Columbia X NYU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/michaelzwang13/claude-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/48NL3tFbITc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/564/819/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - javascript
+  - python
+  - react
+  - supabase
+builders:
+  - name: Kevin Dong
+  - name: Michael Wang
+  - name: Arthur Du
+  - name: Kevin Pei

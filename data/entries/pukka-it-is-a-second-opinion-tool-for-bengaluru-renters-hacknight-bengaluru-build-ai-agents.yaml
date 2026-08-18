@@ -1,0 +1,14 @@
+id: pukka-it-is-a-second-opinion-tool-for-bengaluru-renters-hacknight-bengaluru-build-ai-agents
+project_id: pukka-it-is-a-second-opinion-tool-for-bengaluru-renters
+hackathon_id: hacknight-bengaluru-build-ai-agents
+submission_url: https://devpost.com/software/pukka-it-is-a-second-opinion-tool-for-bengaluru-renters
+source:
+  platform: devpost
+  url: https://devpost.com/software/pukka-it-is-a-second-opinion-tool-for-bengaluru-renters
+awards:
+  - type: winner
+    title: Winner - Housing & Rental Truth-Teller
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

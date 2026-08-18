@@ -1,0 +1,23 @@
+id: agentic-automation-on-ios
+name: Agentic Automation on iOS
+slug: agentic-automation-on-ios
+tagline: Speak any task; Claude sees your iPhone, controls any app, and narrates every step, giving
+  blind and low-vision users full, eyes-free control of iOS.
+summary: Agentic Automation on iOS received the 3rd Overall award at SoCal Claude Builder Club
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/bryanrg22/claude_hacakthon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/951/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - javascript
+  - swift
+builders:
+  - name: Bryan Ramirez-Gonzalez
+  - name: Victoria Rojas
+  - name: Zachary Chung

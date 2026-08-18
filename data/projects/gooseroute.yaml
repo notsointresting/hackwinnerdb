@@ -1,0 +1,25 @@
+id: gooseroute
+name: GooseRoute
+slug: gooseroute
+tagline: Planning trips doesn't have to be a wild goose chase. Honk.
+summary: GooseRoute received the Harnold's Hatchling Honors - Best Novice ($168 value) award at Hack
+  Hack Goose in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/QaC04r1DuPc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/872/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - google-maps
+  - react
+  - sql
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Allen Li
+  - name: Annie  Li
+  - name: Akaash Reddy

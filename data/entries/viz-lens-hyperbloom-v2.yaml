@@ -1,0 +1,15 @@
+id: viz-lens-hyperbloom-v2
+project_id: viz-lens
+hackathon_id: hyperbloom-v2
+submission_url: https://devpost.com/software/viz-lens-ap9mnt
+source:
+  platform: devpost
+  url: https://devpost.com/software/viz-lens-ap9mnt
+awards:
+  - type: winner
+    title: Top 10 winners each receive a free .xyz domain — launch your project with a real web
+      presence! (valued at $150)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

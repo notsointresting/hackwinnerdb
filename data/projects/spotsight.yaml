@@ -1,0 +1,26 @@
+id: spotsight
+name: SpotSight
+slug: spotsight
+tagline: "SpotSight: Total independence through an AI-guided robotic dog companion you can talk to.
+  Why it works: Focuses on the end-goal for the user—independence—while "
+summary: "SpotSight received the Best Locomotion Use Case: Cyberwave Track award at Robotic
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/962/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - claude
+  - elevenlabs
+  - python
+builders:
+  - name: Riccardo Segu`
+  - name: Giu Nico
+  - name: Elias Bombara
+  - name: Luca Bombace

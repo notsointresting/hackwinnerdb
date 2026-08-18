@@ -1,0 +1,25 @@
+id: omni-assist
+name: Omni-Assist
+slug: omni-assist
+tagline: Making mobility accessible, cheap, simple. and modular to the health sector and the public.
+summary: Omni-Assist received the Hardware award at YHack Spring 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ryanli222/yHack
+demo_url: null
+video_url: https://www.youtube.com/embed/RzqbO86LRXQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/752/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - arduino
+  - elevenlabs
+  - opencv
+  - python
+builders:
+  - name: Ryan Li
+  - name: Eric Wu
+  - name: Kevin Zhao
+  - name: Braden Mei

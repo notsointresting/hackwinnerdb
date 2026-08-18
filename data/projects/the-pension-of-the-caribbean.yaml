@@ -1,0 +1,20 @@
+id: the-pension-of-the-caribbean
+name: The Pension of the Caribbean
+slug: the-pension-of-the-caribbean
+tagline: The Pension of the Caribbean is a pirate adventure where players earn, save, and invest
+  gold. Make smart choices, grow your ISAH, help the pirate community, and
+summary: The Pension of the Caribbean received the Wave Community Bank award at Hackabury 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/325/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - unreal-engine
+builders:
+  - name: Harry Ward
+  - name: Ally Dawson
+  - name: Jason Warman

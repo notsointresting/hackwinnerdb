@@ -1,0 +1,14 @@
+id: utsc-hacks
+name: UTSC Hacks
+slug: utsc-hacks
+organizer: []
+year: 2026
+sources:
+  - https://utsc-hacks.devpost.com/
+  - https://utsc-hacks.devpost.com/project-gallery?filter=winner
+website_url: https://utsc-hacks.devpost.com/
+platform: devpost
+participant_count: 7
+prize_pool: 500
+currency: USD
+description: "Devpost hackathon: UTSC Hacks. Imported automatically."

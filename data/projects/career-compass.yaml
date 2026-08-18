@@ -1,0 +1,23 @@
+id: career-compass
+name: Career Compass
+slug: career-compass
+tagline: Career Compass is an AI-powered career GPS that helps you discover the right role, and
+  build a strategic networking path to land opportunities that might or mig
+summary: Career Compass received the Second Place award at Hawkathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dangolre/Quadra.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - vercel
+builders:
+  - name: Suruchi Bista
+  - name: Reeya Dangol
+  - name: Sulav Dhakal
+  - name: Subisha Khanal

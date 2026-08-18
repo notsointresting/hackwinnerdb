@@ -1,0 +1,14 @@
+id: solace-build4good-2026
+project_id: solace
+hackathon_id: build4good-2026
+submission_url: https://devpost.com/software/solace-4lrmw3
+source:
+  platform: devpost
+  url: https://devpost.com/software/solace-4lrmw3
+awards:
+  - type: other
+    title: Figma
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

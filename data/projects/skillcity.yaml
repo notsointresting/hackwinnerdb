@@ -1,0 +1,24 @@
+id: skillcity
+name: SkillCity
+slug: skillcity
+tagline: Turning traditional lessons into interactive gameplay
+summary: SkillCity received the HackAI Pitch Competition award at Hack AI 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Lanisha20/hackai
+demo_url: null
+video_url: https://www.youtube.com/embed/_9PmIK3wBwk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/468/079/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - gemini
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Shruti Gupta
+  - name: Isha Rao
+  - name: Joanne Ramesh

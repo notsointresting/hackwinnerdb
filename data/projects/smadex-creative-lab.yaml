@@ -1,0 +1,27 @@
+id: smadex-creative-lab
+name: Smadex Creative Lab
+slug: smadex-creative-lab
+tagline: The early warning system for ad creative. Use AI to monitor creative health, predict
+  fatigue, and get actionable performance insights in a single, premium dashb
+summary: Smadex Creative Lab received the [Smadex] 1st place award at HackUPC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jowelhub/HACK_UPC_SMADEX
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - sql
+  - typescript
+builders:
+  - name: Joel Sanfeliu
+  - name: Miquel Àngel Llauger Suau
+  - name: Jose Calatayud Mateu

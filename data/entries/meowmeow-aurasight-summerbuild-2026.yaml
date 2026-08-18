@@ -1,0 +1,14 @@
+id: meowmeow-aurasight-summerbuild-2026
+project_id: meowmeow-aurasight
+hackathon_id: summerbuild-2026
+submission_url: https://devpost.com/software/aurasight
+source:
+  platform: devpost
+  url: https://devpost.com/software/aurasight
+awards:
+  - type: category-winner
+    title: Best Smart Cities Solution
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

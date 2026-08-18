@@ -1,0 +1,22 @@
+id: agent-gauntlet
+name: Agent Gauntlet
+slug: agent-gauntlet
+tagline: Adversarial evaluation harness for live browser agents.
+summary: Agent Gauntlet received the Best Overall - 2nd Place award at HooHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/abhimaddi/agent-gauntlet
+demo_url: null
+video_url: https://www.youtube.com/embed/wku8NOyvt9A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/947/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Abhinav Maddi
+  - name: Sai Vinjamuri
+  - name: Naveenchandra Nallamothu

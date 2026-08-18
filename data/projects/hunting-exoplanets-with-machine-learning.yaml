@@ -1,0 +1,20 @@
+id: hunting-exoplanets-with-machine-learning
+name: Hunting Exoplanets with Machine Learning
+slug: hunting-exoplanets-with-machine-learning
+tagline: "A leakage-audited XGBoost that sorts NASA Kepler signals into confirmed planet, candidate,
+  or false positive — 93% F1, fully explainable, and honest about what "
+summary: Hunting Exoplanets with Machine Learning received the 1st Place award at India High School
+  Exoplanet Data Challenge in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/matrixmavericks/exoplanet-koi-classifier
+demo_url: null
+video_url: https://www.youtube.com/embed/YXVo7Jpw1sc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/910/593/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Avyaay Rathi

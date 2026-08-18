@@ -1,0 +1,14 @@
+id: resona-hacktech-by-caltech-2026
+project_id: resona
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/emotional-feedback-music-engine
+source:
+  platform: devpost
+  url: https://devpost.com/software/emotional-feedback-music-engine
+awards:
+  - type: category-winner
+    title: Loveable x HackTech - Best use of Lovable
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

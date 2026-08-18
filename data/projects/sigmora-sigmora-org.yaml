@@ -1,0 +1,32 @@
+id: sigmora-sigmora-org
+name: SIGMORA(sigmora.org)
+slug: sigmora-sigmora-org
+tagline: Generative media at production scale, for a fraction of the cost. Genblaze orchestrates
+  every model; Backblaze B2 stores and serves it at zero egress. Every ass
+summary: "SIGMORA(sigmora.org) received the Feedback prize award at Backblaze Generative Media
+  Hackathon: Build with Genblaze on B2 in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/mlsniperpro/sigmora-platform
+demo_url: null
+video_url: https://www.youtube.com/embed/PfN6duPU_10
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/054/255/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - firebase
+  - nextjs
+  - openai
+  - python
+  - redis
+  - sqlite
+  - stripe
+  - typescript
+  - vercel
+builders:
+  - name: Aladro Lab

@@ -1,0 +1,27 @@
+id: mediscribe
+name: MediScribe
+slug: mediscribe
+tagline: MediScribe breaks down language barriers for ESL and non-English speakers, making sure each
+  one is understood and cared for, all while slashing translation cost
+summary: MediScribe received the MLH || Best Use of Snowflake API || Raspberry Pi 4 award at
+  HooHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Sabalpp/MediScribe
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/479/772/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - django
+  - elevenlabs
+  - javascript
+  - python
+  - react
+builders:
+  - name: Sabal Poudel
+  - name: Enzo Nunez
+  - name: Hung Nguyen
+  - name: Sweekar Shrestha

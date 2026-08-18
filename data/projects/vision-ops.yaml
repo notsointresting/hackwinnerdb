@@ -1,0 +1,21 @@
+id: vision-ops
+name: Vision OPS
+slug: vision-ops
+tagline: Vision OPS uses AI and an intelligent camera to monitor 3D printers, CNC machines, and
+  laser cutters, catching failures early before they waste time, materials,
+summary: Vision OPS received the ($4k+) Other Awards award at The Vakathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FIR3Business/Vision-OPS
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/865/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+builders:
+  - name: Junliang D
+  - name: Ryan Bahadori
+  - name: Ryan Bahadori
+  - name: Shreeansh Bharadwaj

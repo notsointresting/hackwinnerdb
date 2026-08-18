@@ -1,0 +1,23 @@
+id: magellan
+name: Magellan
+slug: magellan
+tagline: Reversing drug discovery to unlock rare disease treatments from deprioritized and generic drugs.
+summary: Magellan received the Therapeutic Targets Grand Prize award at HackRare 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jissen706/Magellan
+demo_url: null
+video_url: https://www.youtube.com/embed/owofjJPjY-k
+image_url: null
+categories:
+  - healthcare
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - redis
+builders:
+  - name: David Oleksy
+  - name: Jishnuu Senthil Kumar
+  - name: Alexander Kang
+  - name: Shiven Sasipalli

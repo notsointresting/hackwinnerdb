@@ -1,0 +1,26 @@
+id: clinicverse
+name: ClinicVerse
+slug: clinicverse
+tagline: "Not enough real patients? Like an interactive Anki deck, ClinicVerse gives medical
+  students unlimited realistic consultations, instant OSCE feedback, and daily "
+summary: ClinicVerse received the Best Use of ElevenLabs award at FullyHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vishal-codes/fulllyhacks_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/3hX3HjPk9LM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/475/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - pytorch
+builders:
+  - name: Raahul Krishna
+  - name: Vishal Shinde
+  - name: Aidan R
+  - name: Shane Sharma

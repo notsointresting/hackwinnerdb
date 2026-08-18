@@ -1,0 +1,14 @@
+id: answer-rush-cathacks-xii
+project_id: answer-rush
+hackathon_id: cathacks-xii
+submission_url: https://devpost.com/software/answer-rush
+source:
+  platform: devpost
+  url: https://devpost.com/software/answer-rush
+awards:
+  - type: third-place
+    title: Code Wrangler (Third Overall)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,18 @@
+id: plainly
+name: Plainly
+slug: plainly
+tagline: Current solutions in special education ignore legibility. IEPs are dense. Resources are
+  hidden. Families are left guessing. We translate IEPs into plain languag
+summary: Plainly received the Best Use of Featherless AI award at CSBA x HBA Hack Day in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/feifanl/pomegranate
+demo_url: null
+video_url: https://www.youtube.com/embed/ef568d0CrRY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/565/982/datas/medium.png
+categories:
+  - education
+technologies:
+  - react
+builders:
+  - name: Feifan Liu

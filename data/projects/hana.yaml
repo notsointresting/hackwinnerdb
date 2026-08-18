@@ -1,0 +1,22 @@
+id: hana
+name: hana
+slug: hana
+tagline: Hana is a tool that lets you record a conversation with a loved one and turns it into a
+  beautiful, shareable digital experience in their words and in their lang
+summary: hana received the 2x nintendo switch + $500 award at BagelHacks II in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chenglou/pretext
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/543/991/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - typescript
+  - vue
+builders:
+  - name: Rob hang
+  - name: sarah khalid

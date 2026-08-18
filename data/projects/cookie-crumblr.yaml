@@ -1,0 +1,25 @@
+id: cookie-crumblr
+name: Cookie Crumblr
+slug: cookie-crumblr
+tagline: Crumble the Trackers. Keep the Internet.
+summary: Cookie Crumblr received the 2nd Overall award at AWS Kiro x CS Careers Hackathon at
+  Virginia Tech in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/dsahero/cookie_crumblr
+demo_url: null
+video_url: https://www.youtube.com/embed/PJQk-lEslqs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/051/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: Lihi Ancikovsky
+  - name: Elizabeth Lamb
+  - name: Navdeep Sangwan
+  - name: Monty Hanford

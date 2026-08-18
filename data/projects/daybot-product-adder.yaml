@@ -1,0 +1,21 @@
+id: daybot-product-adder
+name: DayBot Product Adder
+slug: daybot-product-adder
+tagline: Add any AliExpress product to a DayBot store in one click—no copying URLs, product titles,
+  or supplier details.
+summary: DayBot Product Adder received the Honorary Third Place Award award at Daybot Commerce
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Franklin-C/daybot-product-adder
+demo_url: null
+video_url: https://www.youtube.com/embed/3Pz3DFNvnxw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - javascript
+builders:
+  - name: Franklin Cadamuro

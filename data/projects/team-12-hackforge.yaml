@@ -1,0 +1,25 @@
+id: team-12-hackforge
+name: team-12-hackforge
+slug: team-12-hackforge
+tagline: An AI-powered, low-cost case management platform that replaces spreadsheets with secure,
+  intelligent workflows for small nonprofits.
+summary: "team-12-hackforge received the Best Accessibility award at Women in Computer Science x
+  Opportunity Hack: Spring 2026 Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/12-hackforge/discussions/1
+demo_url: null
+video_url: https://www.youtube.com/embed/l6DbA7Vyk3Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/503/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - postgresql
+builders:
+  - name: Dipesh Gupta
+  - name: Shivani Kulkarni
+  - name: Gauri Maid
+  - name: Pranav Kishor Irlapale

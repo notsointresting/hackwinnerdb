@@ -1,0 +1,19 @@
+id: mohsedge
+name: MohsEdge
+slug: mohsedge
+tagline: A secure specialized clinical workspace for precise mohs micrographic surgery mapping and
+  streamlined patient intake management.
+summary: MohsEdge received the First Place - Novice award at Weber State AI Hackathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/524/821/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Emma Bowles
+  - name: Supriya Bollers

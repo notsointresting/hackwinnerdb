@@ -1,0 +1,26 @@
+id: swasthai-guardian
+name: SwasthAI Guardian
+slug: swasthai-guardian
+tagline: Offline-first rural health platform with privacy-first on-device skin scanning, grounded
+  multilingual clinical RAG, and hybrid diagnostics optimized for low-ban
+summary: SwasthAI Guardian received the ​1st Place Winner award at Evorozen Innovators Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dgboy-ai/SwasthAI-Guardian-Global
+demo_url: null
+video_url: https://www.youtube.com/embed/qPr-7ueYaoM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/720/934/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - fastapi
+  - groq
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Divyansh Gupta
+  - name: Tejshvini Yerpurwad

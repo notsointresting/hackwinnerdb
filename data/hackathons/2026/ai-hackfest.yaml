@@ -1,0 +1,14 @@
+id: ai-hackfest
+name: AI Hackfest
+slug: ai-hackfest
+organizer: []
+year: 2026
+sources:
+  - https://ai-hackfest-29721.devpost.com/
+  - https://ai-hackfest-29721.devpost.com/project-gallery?filter=winner
+website_url: https://ai-hackfest-29721.devpost.com/
+platform: devpost
+participant_count: 206
+prize_pool: null
+currency: null
+description: "Devpost hackathon: AI Hackfest. Imported automatically."

@@ -1,0 +1,21 @@
+id: cloneguard
+name: CloneGuard
+slug: cloneguard
+tagline: We built a GitHub cloner that scans repositories for vulnerabilities before cloning. Gemini
+  summarizes findings and answers questions, while ElevenLabs provides
+summary: CloneGuard received the [MLH] Best Use of ElevenLabs award at HackMerced XI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vlomeli/CloneGuard
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/406/139/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Victor Lomeli
+  - name: Ian Barbero
+  - name: Rene Rodriguez

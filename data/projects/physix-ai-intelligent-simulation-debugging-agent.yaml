@@ -1,0 +1,22 @@
+id: physix-ai-intelligent-simulation-debugging-agent
+name: PhysiX AI — Intelligent Simulation Debugging Agent
+slug: physix-ai-intelligent-simulation-debugging-agent
+tagline: An AI-powered agent that analyzes physics simulations, detects numerical instability,
+  explains root causes, and suggests fixes to stabilize complex systems.
+summary: PhysiX AI — Intelligent Simulation Debugging Agent received the Grand Prize award at
+  Hyperbloom V2 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/eyoukress/PhysiX-AI-Simulation-Debugging-Agent
+demo_url: null
+video_url: https://www.youtube.com/embed/UGKk3bNj72k
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - javascript
+builders:
+  - name: eyoukress SINGH

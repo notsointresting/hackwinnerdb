@@ -1,0 +1,24 @@
+id: wattline
+name: WATTLINE
+slug: wattline
+tagline: When the power goes out, some people are on a clock. WATTLINE counts them.
+summary: WATTLINE received the Best Hack for Good award at Hack RenderATL in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vinhbin/wattline
+demo_url: null
+video_url: https://www.youtube.com/embed/izyu9NQ5_C0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/092/176/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Vinh Le
+  - name: NiyakoA
+  - name: kareem elemam
+  - name: 00goop Abajebel

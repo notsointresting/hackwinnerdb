@@ -1,0 +1,27 @@
+id: omenai
+name: OmenAI
+slug: omenai
+tagline: If you knew the answer before the market did, OmenAI will find you.
+summary: OmenAI received the [Sponsored] TD Best AI Hack to Detect Financial Fraud (In-Person Only)
+  award at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/Ma5terrr/prediction-market-fraud
+demo_url: null
+video_url: https://www.youtube.com/embed/IJNGPKAVykU
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - polygon
+  - postgresql
+  - python
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: Abbas Master
+  - name: Pranavi Kasturi
+  - name: Krishnam Jhalani

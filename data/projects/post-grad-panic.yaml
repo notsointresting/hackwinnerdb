@@ -1,0 +1,22 @@
+id: post-grad-panic
+name: Post-Grad Panic
+slug: post-grad-panic
+tagline: Get Bread, Bread, and Bread... mmmaybe
+summary: Post-Grad Panic received the Security Benefit award at HackKU26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JustinAlega/HackKU26/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/AVSC9cm99Og
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/813/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - cloudflare
+  - fastapi
+  - mongodb
+builders:
+  - name: Chinonye Omeife
+  - name: Anshuman Mishra
+  - name: Justin David Alega
+  - name: Mahant Aadhi Sathish Kumar

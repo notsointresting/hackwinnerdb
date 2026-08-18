@@ -1,0 +1,23 @@
+id: vaani-2-0
+name: VAANI 2.0
+slug: vaani-2-0
+tagline: '"Your battles are our battles"'
+summary: VAANI 2.0 received the 2nd Place award at LingHacks VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nobrainerparikshit/-VAANI-2.0
+demo_url: null
+video_url: https://www.youtube.com/embed/vrRzlvPWTDA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/062/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Parikshitsinh Jadeja

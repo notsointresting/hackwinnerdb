@@ -1,0 +1,24 @@
+id: toxguard-multilingual-toxic-comment-classifier-xlm-roberta
+name: ToxGuard — Multilingual Toxic Comment Classifier XLM-RoBERTa
+slug: toxguard-multilingual-toxic-comment-classifier-xlm-roberta
+tagline: XLM-RoBERTa fine-tuned for multilingual toxicity detection across multiple languages.
+  Achieves Mean ROC-AUC of 0.9918 with LIME-based explainability and an inte
+summary: "ToxGuard — Multilingual Toxic Comment Classifier XLM-RoBERTa received the First Runner-Up
+  award at NeuroLogic '26: Global NLP Datathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/archijain23/ToxGuard
+demo_url: null
+video_url: https://www.youtube.com/embed/VJ_Eo_-okSs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/291/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Anushka Bondre
+  - name: Ayush Tiwari
+  - name: Dev Kumar Sharma
+  - name: Archi Jain

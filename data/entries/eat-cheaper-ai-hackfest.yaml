@@ -1,0 +1,14 @@
+id: eat-cheaper-ai-hackfest
+project_id: eat-cheaper
+hackathon_id: ai-hackfest
+submission_url: https://devpost.com/software/eat-cheaper
+source:
+  platform: devpost
+  url: https://devpost.com/software/eat-cheaper
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of Gemini API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

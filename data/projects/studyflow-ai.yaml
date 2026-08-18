@@ -1,0 +1,19 @@
+id: studyflow-ai
+name: StudyFlow-AI
+slug: studyflow-ai
+tagline: "StudyFlow AI: Turn your syllabus into a personalized study plan in seconds"
+summary: StudyFlow-AI received the Dev Clash Champion award at Dev Clash in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - blockchain
+  - infrastructure
+technologies:
+  - python
+builders:
+  - name: BARATH  S

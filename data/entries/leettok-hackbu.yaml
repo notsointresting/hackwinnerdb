@@ -1,0 +1,14 @@
+id: leettok-hackbu
+project_id: leettok
+hackathon_id: hackbu
+submission_url: https://devpost.com/software/leettok
+source:
+  platform: devpost
+  url: https://devpost.com/software/leettok
+awards:
+  - type: category-winner
+    title: Best User Interface Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

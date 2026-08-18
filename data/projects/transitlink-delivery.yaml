@@ -1,0 +1,25 @@
+id: transitlink-delivery
+name: TransitLink Delivery
+slug: transitlink-delivery
+tagline: Local restaurants pay a huge platform fee to Doordash which makes it hard to survive for
+  smaller businesses. We propose using the extremely well connected netwo
+summary: TransitLink Delivery received the Honorable Mentions award at SacHacks VII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/joshirajaram/TransitLinkDelivery-Hackathon-SacHacks-Feb21
+demo_url: null
+video_url: https://www.youtube.com/embed/exMCji1ZrvE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - sql
+  - typescript
+builders:
+  - name: Kunjal Agrawal
+  - name: Rajaram Manohar Joshi

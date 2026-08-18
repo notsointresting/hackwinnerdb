@@ -1,0 +1,24 @@
+id: taxiway-reliability
+name: Taxiway Reliability
+slug: taxiway-reliability
+tagline: A segmentation model for aircraft taxiing — plus a layer that tells you, with no answer
+  key, when not to believe it.
+summary: Taxiway Reliability received the Best Vision and Hardware Hack 2nd Place award at STEMist
+  Hacks IV in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/PotatoCannon11/taxiway-reliability
+demo_url: null
+video_url: https://www.youtube.com/embed/PBp-Et5iduw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/261/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - opencv
+  - python
+  - pytorch
+builders:
+  - name: Henry Stiglitz
+  - name: Ansh Awasthy
+  - name: Kevin Wang
+  - name: Harish Rajaganapathy

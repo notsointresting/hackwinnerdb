@@ -1,0 +1,28 @@
+id: codeyvillage
+name: CodeyVillage
+slug: codeyvillage
+tagline: A productivity tracker for cs students with a social sim twist. Build a communal village
+  with your friends by staying focused!
+summary: CodeyVillage received the Best "Gamification" Hack award at GDG Hacks 3 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SahilGupta721/CodeyVillage
+demo_url: null
+video_url: https://www.youtube.com/embed/_GpzlR9-mik
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/019/477/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - firebase
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Matei Albu
+  - name: Kevin Pogoryelovskyy
+  - name: Sahil Gupta
+  - name: Joey Liu

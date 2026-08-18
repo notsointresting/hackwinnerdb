@@ -1,0 +1,19 @@
+id: voiceforge
+name: VoiceForge
+slug: voiceforge
+tagline: "VoiceForge: Build confidence, sharpen your voice, and turn your ideas into words that truly land."
+summary: VoiceForge received the 2nd Place award at Hack The Net in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JaydenLee0503/VoiceForge
+demo_url: null
+video_url: https://www.youtube.com/embed/2A8YEiVMYNc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/487/516/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - groq
+  - supabase
+builders:
+  - name: Jayden Lee

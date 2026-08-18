@@ -1,0 +1,22 @@
+id: heka
+name: Heka
+slug: heka
+tagline: Ask Earth in natural language to understand feasibility and reality.
+summary: Heka received the First Runner-Up award at NextGen Innovation2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/c4usal/heka
+demo_url: null
+video_url: https://www.youtube.com/embed/nUUmPNqWbhw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/994/835/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - react
+  - rust
+  - typescript
+builders:
+  - name: Ulofe Uduokhai

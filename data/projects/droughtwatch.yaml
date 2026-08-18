@@ -1,0 +1,24 @@
+id: droughtwatch
+name: DroughtWatch
+slug: droughtwatch
+tagline: DroughtWatch turns NASA satellite data into plain-language drought warnings for Afghan
+  subsistence farmers — powered by Google Gemini, one API call away.
+summary: DroughtWatch received the Best App for Social Good - Runner Up award at GDSC HackDay  -
+  Build With AI Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/andrewwang607/GDC26/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/_UH65jfbtDo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/620/519/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - typescript
+builders:
+  - name: Jason Shi
+  - name: Eric Wei
+  - name: andrew wang

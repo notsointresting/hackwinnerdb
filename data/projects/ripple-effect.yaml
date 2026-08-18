@@ -1,0 +1,20 @@
+id: ripple-effect
+name: Ripple Effect
+slug: ripple-effect
+tagline: Simulating long-term ocean degradation in 60 FPS while leveraging Google Gemini 2.5 Flash
+  to generate real-time ecological diagnostics and targeted conservation
+summary: Ripple Effect received the Google AI Pro Postcard award at HackDays Delhi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dhaanvi-Gupta/Ripple-Effect
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/325/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: Dhaanvi Gupta

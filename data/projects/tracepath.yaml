@@ -1,0 +1,22 @@
+id: tracepath
+name: tracepath
+slug: tracepath
+tagline: a Guild.ai agent that closes CVE tickets instead of filing them. Scans repos/images with
+  osv-scanner, isolates Chainguard-fixable CVEs, traces exploitability vi
+summary: tracepath received the Most Innovative Use of Guild.ai Platform award at Ship to Prod -
+  Agentic Engineering Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/220/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - typescript
+builders:
+  - name: Clément Boillot
+  - name: Baptiste Girardeau

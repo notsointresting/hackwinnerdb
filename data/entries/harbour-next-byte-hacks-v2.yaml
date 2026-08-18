@@ -1,0 +1,14 @@
+id: harbour-next-byte-hacks-v2
+project_id: harbour
+hackathon_id: next-byte-hacks-v2
+submission_url: https://devpost.com/software/harbour-cmjgke
+source:
+  platform: devpost
+  url: https://devpost.com/software/harbour-cmjgke
+awards:
+  - type: first-place
+    title: First Place Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,17 @@
+id: swarmed
+name: Swarmed
+slug: swarmed
+tagline: We are The Beehive, for this spring Hackathon, we built the cure for spring break boredom!
+  Play as the Queen Bee, spawn bees, defeat wasps, collect pollen, upgr
+summary: Swarmed received the $3000+ worth of prizes award at Equinox Vancouver Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - creative-tools
+technologies: []
+builders:
+  - name: pandazdev Campbell

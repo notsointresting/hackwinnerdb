@@ -1,0 +1,25 @@
+id: brailleout
+name: BrailleOut
+slug: brailleout
+tagline: Most blind people can't afford Braille devices. BrailleOut converts any text into real
+  physical Braille script. Point, scan, braille out. Literacy for everyone.
+summary: BrailleOut received the Best Hack for Social Good award at HackDavis 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/varunpalanisamy/Braille
+demo_url: null
+video_url: https://www.youtube.com/embed/_mEj5lh_6z4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/929/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - anthropic
+  - arduino
+  - c-plus-plus
+  - gemini
+  - opencv
+  - python
+  - typescript
+builders:
+  - name: Varun Palanisamy
+  - name: Shivani Belambe

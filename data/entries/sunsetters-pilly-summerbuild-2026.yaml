@@ -1,0 +1,16 @@
+id: sunsetters-pilly-summerbuild-2026
+project_id: sunsetters-pilly
+hackathon_id: summerbuild-2026
+submission_url: https://devpost.com/software/pilly-689q31
+source:
+  platform: devpost
+  url: https://devpost.com/software/pilly-689q31
+awards:
+  - type: other
+    title: Champion
+  - type: category-winner
+    title: Best Use of Reka AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

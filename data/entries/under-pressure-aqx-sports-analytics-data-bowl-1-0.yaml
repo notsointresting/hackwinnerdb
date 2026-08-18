@@ -1,0 +1,14 @@
+id: under-pressure-aqx-sports-analytics-data-bowl-1-0
+project_id: under-pressure
+hackathon_id: aqx-sports-analytics-data-bowl-1-0
+submission_url: https://devpost.com/software/under-pressure-ugrht4
+source:
+  platform: devpost
+  url: https://devpost.com/software/under-pressure-ugrht4
+awards:
+  - type: second-place
+    title: Second Place Honors
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

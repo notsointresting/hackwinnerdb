@@ -1,0 +1,22 @@
+id: lecture-life
+name: Lecture Life
+slug: lecture-life
+tagline: Boring lecture. Half the room on phones. We built LectureLife — AI slides, live QR sync,
+  anonymous questions, and four interactive modes. Learning that actually
+summary: Lecture Life received the USB C Hubs award at HackUP in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Farzaanw/PhysioAI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/6Wz2NDlYzGQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - tailwind-css
+builders:
+  - name: Zakia Yesmin
+  - name: Saranya Rajan
+  - name: Jaya Sneha Sannidhi
+  - name: Farzaan Wadiwalla

@@ -1,0 +1,22 @@
+id: let-s-dip
+name: Let’s Dip
+slug: let-s-dip
+tagline: Ubers are one of the biggest expenses Loyola students face. "Let's Dip" connects students
+  to fill rides, split costs, and save money. Don't pay for empty seats!
+summary: Let’s Dip received the Hardware Wallet award at HackHounds 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/559/613/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+  - nextjs
+  - postgresql
+builders:
+  - name: Sam Hersick

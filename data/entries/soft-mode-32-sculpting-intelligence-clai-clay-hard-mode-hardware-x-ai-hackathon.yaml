@@ -1,0 +1,14 @@
+id: soft-mode-32-sculpting-intelligence-clai-clay-hard-mode-hardware-x-ai-hackathon
+project_id: soft-mode-32-sculpting-intelligence-clai-clay
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/soft-mode-sculpting-intelligence-clai-clay
+source:
+  platform: devpost
+  url: https://devpost.com/software/soft-mode-sculpting-intelligence-clai-clay
+awards:
+  - type: other
+    title: Tenstorrent Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

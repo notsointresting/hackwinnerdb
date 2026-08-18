@@ -1,0 +1,23 @@
+id: procureflow-ai
+name: Procureflow.Ai
+slug: procureflow-ai
+tagline: ProcureFlow AI turns a simple request into a fully validated supplier
+  decision—automatically sourcing, comparing, and approving vendors instantly with no emails
+summary: Procureflow.Ai received the Best Agent Using Redis award at Ship to Prod - Agentic
+  Engineering Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/vedvkandge2000/Procureflow-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/pcPQCkPfxH4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+  - redis
+builders:
+  - name: Saksham Yadav
+  - name: Vedant Vivek Kandge

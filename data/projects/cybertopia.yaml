@@ -1,0 +1,22 @@
+id: cybertopia
+name: CyberTopia
+slug: cybertopia
+tagline: Establish an uplink, deploy your Daemon, and survive an endless digital onslaught in this
+  retro-futuristic survival game.
+summary: CyberTopia received the Beginner Track Prize award at JagHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ahirsch27/CyberTopia
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/938/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - social-impact
+  - gaming
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Heather Patterson
+  - name: Avery Hirsch

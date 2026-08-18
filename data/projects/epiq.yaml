@@ -1,0 +1,19 @@
+id: epiq
+name: Epiq
+slug: epiq
+tagline: Intelligent A.I Outbreak Tracker
+summary: Epiq received the MongoDB - 1st Place award at Google Cloud Rapid Agent Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/tOFEa9ghHWs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/754/583/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Nine Nine
+  - name: V V

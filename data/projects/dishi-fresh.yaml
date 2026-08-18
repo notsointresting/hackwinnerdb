@@ -1,0 +1,18 @@
+id: dishi-fresh
+name: Dishi Fresh
+slug: dishi-fresh
+tagline: Utaipenda!
+summary: Dishi Fresh received the Best use of Soapbox award at Bitcoin++ Open Source Edition in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: Thomas Cadra
+  - name: Colly Sindani

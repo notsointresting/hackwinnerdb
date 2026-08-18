@@ -1,0 +1,18 @@
+id: questai-dsh-hacks-v1
+project_id: questai
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/questai-h9vs6x
+source:
+  platform: devpost
+  url: https://devpost.com/software/questai-h9vs6x
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - InterviewCake
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

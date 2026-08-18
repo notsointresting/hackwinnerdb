@@ -1,0 +1,14 @@
+id: datadive-fullyhacks-2026
+project_id: datadive
+hackathon_id: fullyhacks-2026
+submission_url: https://devpost.com/software/datadive-vg6kbh
+source:
+  platform: devpost
+  url: https://devpost.com/software/datadive-vg6kbh
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

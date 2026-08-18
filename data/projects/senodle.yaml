@@ -1,0 +1,18 @@
+id: senodle
+name: SENODLE
+slug: senodle
+tagline: Since Seno is such a great person, the world would be a better place if more people got to
+  know Seno. Senodle provides a fun an easy way to make this a reality.
+summary: SENODLE received the Seno's approval award at senohacks. in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yuvraj832/Senodle.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Yuvraj832 Goel

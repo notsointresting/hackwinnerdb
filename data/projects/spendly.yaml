@@ -1,0 +1,25 @@
+id: spendly
+name: Spendly
+slug: spendly
+tagline: What if your money could warn you before you spend it? Spendly predicts upcoming purchases
+  and nudges you in real time to help you stay on track.
+summary: "Spendly received the BONUS TRACK: Midtown — Careers & Connections award at HunterHacks in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/mnihad000/hackhunter
+demo_url: null
+video_url: https://www.youtube.com/embed/ExhAu23GSIo
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Aashir4 Ali
+  - name: Mohammed Nihad

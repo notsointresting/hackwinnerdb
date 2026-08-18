@@ -1,0 +1,14 @@
+id: persist-jachacks-spring
+project_id: persist
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/persist-yindp5
+source:
+  platform: devpost
+  url: https://devpost.com/software/persist-yindp5
+awards:
+  - type: second-place
+    title: Consumer Healthcare track - 2nd place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

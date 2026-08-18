@@ -1,0 +1,22 @@
+id: ai-pitch-deck-generator
+name: AI Pitch Deck Generator
+slug: ai-pitch-deck-generator
+tagline: "A multimodal AI agent that generates complete startup pitch decks including slides,
+  charts, product mockup images, promo video clips, and social media captions "
+summary: AI Pitch Deck Generator received the Google Swag Kits award at Byte. Hack Days in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bibhupradhanofficial/AI-Pitch-Deck-Generator
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/383/505/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - gemini
+  - google-cloud
+  - javascript
+  - python
+builders:
+  - name: Bibhu Pradhan

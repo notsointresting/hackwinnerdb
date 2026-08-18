@@ -1,0 +1,26 @@
+id: k-hack
+name: k-hack
+slug: k-hack
+tagline: Replacing spreadsheets with an AI-native case management platform built for nonprofits —
+  under $30/month.
+summary: "k-hack received the Best Security Build award at Women in Computer Science x Opportunity
+  Hack: Spring 2026 Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/20-k-hack
+demo_url: null
+video_url: https://www.youtube.com/embed/ixaGuWT_tXU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/420/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Ji-Seong Han
+  - name: juhyun2000 Hyun

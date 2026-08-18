@@ -1,0 +1,24 @@
+id: launchpad
+name: LaunchPad
+slug: launchpad
+tagline: Revolution? We did it twice. Introducing, the next step in investing, and business
+  incubation, Launchpad!
+summary: LaunchPad received the [MLH] Best Use of MongoDB Atlas award at MorganHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TheeGreenGenie/LaunchPad
+demo_url: null
+video_url: https://www.youtube.com/embed/x6n2G8DQ1BY
+image_url: null
+categories:
+  - other
+technologies:
+  - flask
+  - gemini
+  - python
+  - solana
+  - stripe
+builders:
+  - name: Solomon Shasanmi
+  - name: danieladewale Adewale
+  - name: Starsky Wilson

@@ -1,0 +1,27 @@
+id: sensory
+name: Sensory
+slug: sensory
+tagline: A map that shows how a place feels before you go - noise, light, crowd, accessibility. so
+  sensory-sensitive, wheelchair, deaf, blind, and ESL users can navigate
+summary: Sensory received the Art & Design award at Hackabull VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Harshxth/Sensory
+demo_url: null
+video_url: https://www.youtube.com/embed/m51ZP7BVQ3k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/845/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - gemini
+  - google-maps
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Harshith Gujjeti
+  - name: Hansika S

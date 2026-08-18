@@ -1,0 +1,14 @@
+id: crucible-self-improving-agents-hack
+project_id: crucible
+hackathon_id: self-improving-agents-hack
+submission_url: https://devpost.com/software/crucible-c3qabe
+source:
+  platform: devpost
+  url: https://devpost.com/software/crucible-c3qabe
+awards:
+  - type: first-place
+    title: 1st Prize Winner - General Judge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

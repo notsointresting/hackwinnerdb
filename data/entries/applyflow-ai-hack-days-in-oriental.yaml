@@ -1,0 +1,14 @@
+id: applyflow-ai-hack-days-in-oriental
+project_id: applyflow-ai
+hackathon_id: hack-days-in-oriental
+submission_url: https://devpost.com/software/applyflow-ai-v1tdiu
+source:
+  platform: devpost
+  url: https://devpost.com/software/applyflow-ai-v1tdiu
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: sanctii-hack-canada-2026
+project_id: sanctii
+hackathon_id: hack-canada-2026
+submission_url: https://devpost.com/software/sanctii
+source:
+  platform: devpost
+  url: https://devpost.com/software/sanctii
+awards:
+  - type: other
+    title: SPUR - Build a Real Canadian Startup (Top 10)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

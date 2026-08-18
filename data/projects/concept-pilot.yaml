@@ -1,0 +1,29 @@
+id: concept-pilot
+name: Concept Pilot
+slug: concept-pilot
+tagline: Personalized feedback—for every student.
+summary: Concept Pilot received the 1st Place Award - Education award at Pi Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ayushmk7/ConceptPilot
+demo_url: null
+video_url: https://www.youtube.com/embed/3i1xb_dcAMQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/388/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - fintech
+technologies:
+  - claude
+  - elevenlabs
+  - fastapi
+  - figma
+  - javascript
+  - python
+  - typescript
+  - vercel
+builders:
+  - name: Utsav Agarwal
+  - name: Ayush Madhav Kumar
+  - name: Aaron Sun
+  - name: ddu-56

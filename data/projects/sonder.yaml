@@ -1,0 +1,21 @@
+id: sonder
+name: Sonder
+slug: sonder
+tagline: Sonder quietly learns what is normal for your brain from quick eye voice thinking checks
+  and health data then warns you when you start to drift and gives you on
+summary: Sonder received the Overall First Place award at Milpitas Hacks 3 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BiswajitAcharya1/sonder
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - swift
+builders:
+  - name: Biswajit Acharya
+  - name: Taksha Singh
+  - name: kiran bathala

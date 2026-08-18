@@ -1,0 +1,24 @@
+id: budget-bloom
+name: Budget Bloom
+slug: budget-bloom
+tagline: Make Your Wallet Boom With Budget Bloom!
+summary: Budget Bloom received the 3rd place North Carolina FidHacks Winners award at North Carolina
+  FidHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Akash-Sathish8/FidHacks2026/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/LDWpFEV4axM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/663/593/datas/medium.png
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - claude
+  - react-native
+  - typescript
+builders:
+  - name: Akash Sathish
+  - name: Harsha Thayyil
+  - name: czheng987 Zheng
+  - name: Samuel Jiang

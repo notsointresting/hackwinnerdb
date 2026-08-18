@@ -1,0 +1,14 @@
+id: adhikaar-india-s-ai-welfare-copilot-code-with-gemini
+project_id: adhikaar-india-s-ai-welfare-copilot
+hackathon_id: code-with-gemini
+submission_url: https://devpost.com/software/adhikaar-india-s-ai-welfare-copilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/adhikaar-india-s-ai-welfare-copilot
+awards:
+  - type: category-winner
+    title: Best Use Of Gemini
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

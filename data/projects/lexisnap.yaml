@@ -1,0 +1,20 @@
+id: lexisnap
+name: LexiSnap
+slug: lexisnap
+tagline: Snap. Sense. Signal.
+summary: LexiSnap received the [Mini Track] Data Science-ML award at Hack AI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gayu2216/LexiSnap
+demo_url: null
+video_url: https://www.youtube.com/embed/uS1_yNXZHsc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/158/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mistral
+  - python
+  - pytorch
+builders:
+  - name: Gayathri Utla

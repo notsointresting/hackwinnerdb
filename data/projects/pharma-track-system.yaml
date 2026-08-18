@@ -1,0 +1,21 @@
+id: pharma-track-system
+name: Pharma Track System
+slug: pharma-track-system
+tagline: PharmaTrack System is a revolutionary blockchain-based pharmaceutical supply chain tracking
+  solution. The system prevents counterfeit drugs from entering the ma
+summary: Pharma Track System received the Gemini Swags and cloud Credits award at Code Gemini in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aksharma02/PharmaTrackSystem.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/466/699/datas/gallery.jpg
+categories:
+  - gaming
+  - blockchain
+  - creative-tools
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Amit Kumar

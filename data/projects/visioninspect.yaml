@@ -1,0 +1,22 @@
+id: visioninspect
+name: VisionInspect
+slug: visioninspect
+tagline: VisionInspect is an AI-powered visual inspection startup using YOLO computer vision to help
+  Indian MSME manufacturers automate quality control and catch defects
+summary: VisionInspect received the Dev Clash Champion award at Dev Clash in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/018/431/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - blockchain
+  - infrastructure
+technologies:
+  - python
+  - rust
+  - tailwind-css
+builders:
+  - name: RITIKA SHARMA

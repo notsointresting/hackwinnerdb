@@ -1,0 +1,22 @@
+id: uvulites-nfc-card-game
+name: UVULITES - NFC Card Game
+slug: uvulites-nfc-card-game
+tagline: UVULITES is a two-player NFC card battler built with Arduino, C, Raylib, and SQLite that
+  turns physical card placement into live strategy gameplay.
+summary: UVULITES - NFC Card Game received the 1st Place - Meta Quest 3 (x1 per member, up to six)
+  award at Knight Hacks - Project Launch 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/skaiyoh/nfc-card-game
+demo_url: null
+video_url: https://www.youtube.com/embed/QjaErnuXR7c
+image_url: null
+categories:
+  - gaming
+technologies:
+  - arduino
+  - sqlite
+builders:
+  - name: Nathan Davis
+  - name: sam 1
+  - name: Sahid Rojas

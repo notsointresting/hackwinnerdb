@@ -1,0 +1,14 @@
+id: atlas-hackumbc-mini-hackathon
+project_id: atlas
+hackathon_id: hackumbc-mini-hackathon
+submission_url: https://devpost.com/software/balle-balle-means
+source:
+  platform: devpost
+  url: https://devpost.com/software/balle-balle-means
+awards:
+  - type: other
+    title: Nintendo Switch 2
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

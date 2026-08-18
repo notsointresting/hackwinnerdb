@@ -1,0 +1,19 @@
+id: deep-focus-dashboard
+name: Deep Focus Dashboard
+slug: deep-focus-dashboard
+tagline: An all-in-one, distraction-free study hub built with GitHub Copilot. It combines a Pomodoro
+  timer, gamified task tracking, and tab-shaming to stop context-switc
+summary: Deep Focus Dashboard received the 3d pen award at HackPHHS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RoshanMatrubai/deep-focus-dashboard
+demo_url: null
+video_url: https://www.youtube.com/embed/NYsQX_5Fuk0
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+  - tailwind-css
+builders:
+  - name: Roshan Matrubai

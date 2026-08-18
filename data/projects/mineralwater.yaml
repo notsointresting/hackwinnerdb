@@ -1,0 +1,21 @@
+id: mineralwater
+name: MineralWater
+slug: mineralwater
+tagline: 70% of your body is water make sure you know what's in it.
+summary: MineralWater received the 3rd Overall, Capybara Plushie award at Code-A-Site in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kKMcap47yHY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/881/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: 도현 김
+  - name: 白
+  - name: Ryan Chen
+  - name: Frank Shau

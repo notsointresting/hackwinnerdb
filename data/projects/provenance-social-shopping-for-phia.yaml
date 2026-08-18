@@ -1,0 +1,21 @@
+id: provenance-social-shopping-for-phia
+name: Provenance — Social Shopping for Phia
+slug: provenance-social-shopping-for-phia
+tagline: Phia finds you the price. Provenance tells you if it's worth it.
+summary: Provenance — Social Shopping for Phia received the Best Presentation award at The Phia Hack
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ezinne0/provenance
+demo_url: null
+video_url: https://www.youtube.com/embed/-h8VcUvDNCs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/010/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - claude
+  - flask
+  - python
+builders:
+  - name: Ezinne Okonkwo

@@ -1,0 +1,27 @@
+id: foodroute
+name: FoodRoute
+slug: foodroute
+tagline: Smart routing for Ontario's food banks. AI-powered need assessment, real-time capacity
+  data, and simulation tools help households find help fast and planners pl
+summary: FoodRoute received the Most Impactful Projects award at JecHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jvarghesetech/foodroute
+demo_url: null
+video_url: https://www.youtube.com/embed/5U-l17DW-jA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/283/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - anthropic
+  - claude
+  - mapbox
+  - mongodb
+  - nextjs
+  - typescript
+  - vercel
+builders:
+  - name: John Varghese
+  - name: Lucas Chi
+  - name: Slava Kostrubin
+  - name: Olivier Audet-Yang

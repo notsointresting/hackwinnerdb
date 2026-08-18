@@ -1,0 +1,28 @@
+id: prompt-perfect
+name: Prompt Perfect
+slug: prompt-perfect
+tagline: Guess the prompt. Recreate the image. Beat your friends.
+summary: Prompt Perfect received the Best UI award at GDG Hacks 3 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UmairA61/Prompt-Perfect
+demo_url: null
+video_url: https://www.youtube.com/embed/joc_3Vdhh-w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/656/626/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - figma
+  - gemini
+  - javascript
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Harish Kiritharan
+  - name: Umair Alam
+  - name: Miladshan Jeevakaran

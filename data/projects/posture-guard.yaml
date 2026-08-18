@@ -1,0 +1,23 @@
+id: posture-guard
+name: Posture Guard
+slug: posture-guard
+tagline: Posture Guard is a Chrome extension using real-time pose detection to monitor posture via
+  webcam. It alerts you when you slouch, tracks habits, and runs private
+summary: Posture Guard received the Hello World by Slate award at Hackabull VII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aditsangani/Final-Hackabull-VII-Project
+demo_url: null
+video_url: https://www.youtube.com/embed/vKA6-ukmbeU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/623/086/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - tailwind-css
+builders:
+  - name: Maxwell Moore
+  - name: Rohit Ravi
+  - name: Adit Sangani
+  - name: Zavier Nina

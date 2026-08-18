@@ -1,0 +1,22 @@
+id: vrobotics
+name: VRobotics
+slug: vrobotics
+tagline: "VRobotics creates a voice-enabled operational loop for robots: detect an issue, alert the
+  operator, receive a command, and act through Talos’ orchestration laye"
+summary: VRobotics received the Cato AI award at HackRome in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - python
+builders:
+  - name: Raul Rizzon
+  - name: Gabriel Voss

@@ -1,0 +1,22 @@
+id: sankofa
+name: Sankofa
+slug: sankofa
+tagline: Three GitLab Duo agents that use Orbit's knowledge graph to show blast radius before you
+  merge, onboard devs instantly, and trace vulnerabilities to every expos
+summary: "Sankofa received the Showcase Track: Technological Implementation, First Place award at
+  GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bsen3A1-v20
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/785/134/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - gemini
+builders:
+  - name: Roger Kor

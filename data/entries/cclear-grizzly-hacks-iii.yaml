@@ -1,0 +1,14 @@
+id: cclear-grizzly-hacks-iii
+project_id: cclear
+hackathon_id: grizzly-hacks-iii
+submission_url: https://devpost.com/software/cclear
+source:
+  platform: devpost
+  url: https://devpost.com/software/cclear
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,16 @@
+id: cascade-project-stellar
+project_id: cascade
+hackathon_id: project-stellar
+submission_url: https://devpost.com/software/cascade-u8f2ko
+source:
+  platform: devpost
+  url: https://devpost.com/software/cascade-u8f2ko
+awards:
+  - type: category-winner
+    title: Best Overall Execution
+  - type: other
+    title: Participant
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

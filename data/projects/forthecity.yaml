@@ -1,0 +1,23 @@
+id: forthecity
+name: ForTheCity
+slug: forthecity
+tagline: Automated Sidewalk Accessibility Validation for Inclusive Cities.
+summary: ForTheCity received the MLH Best Use of Gemini API award at Civic Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GeesalaPrashanthi/City-hacks-streetscape-simulation
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/571/datas/gallery.jpg
+categories:
+  - accessibility
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - python
+builders:
+  - name: Nikhila Kuntla
+  - name: Prashanthi Geesala
+  - name: Srinivasa Sai Chava
+  - name: Varsha Talari

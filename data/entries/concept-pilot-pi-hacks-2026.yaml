@@ -1,0 +1,14 @@
+id: concept-pilot-pi-hacks-2026
+project_id: concept-pilot
+hackathon_id: pi-hacks-2026
+submission_url: https://devpost.com/software/concept-pilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/concept-pilot
+awards:
+  - type: first-place
+    title: 1st Place Award - Education
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

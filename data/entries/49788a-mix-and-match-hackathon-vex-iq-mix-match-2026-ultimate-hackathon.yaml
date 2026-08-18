@@ -1,0 +1,16 @@
+id: 49788a-mix-and-match-hackathon-vex-iq-mix-match-2026-ultimate-hackathon
+project_id: 49788a-mix-and-match-hackathon
+hackathon_id: vex-iq-mix-match-2026-ultimate-hackathon
+submission_url: https://devpost.com/software/49788a-mix-and-match-hackathon
+source:
+  platform: devpost
+  url: https://devpost.com/software/49788a-mix-and-match-hackathon
+awards:
+  - type: other
+    title: Honorary Mention - $15 evaluation
+  - type: second-place
+    title: 2nd Place - $360 evaluation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

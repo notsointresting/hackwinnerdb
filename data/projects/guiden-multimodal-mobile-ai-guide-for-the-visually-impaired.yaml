@@ -1,0 +1,26 @@
+id: guiden-multimodal-mobile-ai-guide-for-the-visually-impaired
+name: "Guiden: Multimodal Mobile AI Guide for the Visually Impaired"
+slug: guiden-multimodal-mobile-ai-guide-for-the-visually-impaired
+tagline: Guiden is a voice-controlled AI assistant that helps blind users navigate obstacles, sense
+  lighting, and identify objects using on-device detection, Gemini mult
+summary: "Guiden: Multimodal Mobile AI Guide for the Visually Impaired received the MLH - Best Use
+  of Gemini API Prize award at Stevens QuackHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ineffablesam/guiden
+demo_url: null
+video_url: https://www.youtube.com/embed/2OCtRsBKV-8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/943/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - flutter
+  - gemini
+  - python
+  - redis
+builders:
+  - name: Samuel Philip
+  - name: Anish Ganapathi
+  - name: nishwa prajapati

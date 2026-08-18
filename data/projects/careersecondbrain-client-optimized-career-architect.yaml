@@ -1,0 +1,23 @@
+id: careersecondbrain-client-optimized-career-architect
+name: "CareerSecondBrain: Client-optimized Career Architect"
+slug: careersecondbrain-client-optimized-career-architect
+tagline: "A client-optimized dashboard utilizing Mistral AI to parse unstructured user notes and
+  text assets dynamically into custom trade matrices and milestone vectors "
+summary: "CareerSecondBrain: Client-optimized Career Architect received the 1-on-1 research
+  consultation session with one of YRI’s PhD mentors award at Hyperbloom Summer Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Raahim-Ali-Shah/CareerSecondbrain
+demo_url: null
+video_url: https://www.youtube.com/embed/R883ufry7j0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/812/584/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Raahim Ali
+  - name: Talha .

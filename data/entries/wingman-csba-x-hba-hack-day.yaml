@@ -1,0 +1,18 @@
+id: wingman-csba-x-hba-hack-day
+project_id: wingman
+hackathon_id: csba-x-hba-hack-day
+submission_url: https://devpost.com/software/wingman-3l0s84
+source:
+  platform: devpost
+  url: https://devpost.com/software/wingman-3l0s84
+awards:
+  - type: first-place
+    title: 1st Place Overall
+  - type: other
+    title: Open Innovation
+  - type: category-winner
+    title: Best Use of Gemini
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

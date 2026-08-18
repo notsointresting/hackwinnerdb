@@ -1,0 +1,23 @@
+id: novabay
+name: NovaBay
+slug: novabay
+tagline: Build Smarter. Build Safer.
+summary: "NovaBay received the Climate Teach-In Sustainability Challenge: Living by the water; A
+  Civic Challenge for Environmental Resilience. award at HackUSF 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/TarikCO/NovaBay
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/837/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+builders:
+  - name: Sriharsha Manthena
+  - name: Arthur Ardilha da Costa da Costa
+  - name: Tarik Castro de Oliveira

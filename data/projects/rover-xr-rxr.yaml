@@ -1,0 +1,24 @@
+id: rover-xr-rxr
+name: Rover XR (RXR)
+slug: rover-xr-rxr
+tagline: Rover XR delivers immersive control of a physical rover, sending real-time commands to a
+  Rubik Pi that runs YOLOv8 object detection and streams live annotated v
+summary: Rover XR (RXR) received the Honorable Mentions award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TkjyIONkcjE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/354/344/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies:
+  - arduino
+  - python
+  - unity
+builders:
+  - name: Mason Baloun
+  - name: Aidan Broder
+  - name: Harshul Jalan
+  - name: Anirudhh Raghavan

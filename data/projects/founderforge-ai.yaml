@@ -1,0 +1,22 @@
+id: founderforge-ai
+name: FounderForge AI
+slug: founderforge-ai
+tagline: Turn ideas into validated products in under 60 seconds with AI-powered planning, user
+  testing, market analysis, and live MVP visualization.
+summary: FounderForge AI received the Best Use of Google APIs (Gemini/Cloud) award at Gemini.exe 2.0
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saravanabalajisciet-crypto/FounderForge.git
+demo_url: null
+video_url: https://www.youtube.com/embed/El7zyxgH514
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/797/677/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - iot
+technologies:
+  - nextjs
+  - react
+  - typescript
+builders:
+  - name: saravanabalajisciet-crypto Saravana Balaji

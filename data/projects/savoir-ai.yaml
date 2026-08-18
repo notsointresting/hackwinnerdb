@@ -1,0 +1,25 @@
+id: savoir-ai
+name: Savoir Ai
+slug: savoir-ai
+tagline: Personalized AI tutoring that teaches through real conversation, helping students truly
+  understand instead of just getting answers.
+summary: Savoir Ai received the [MLH] Best Use of ElevenLabs award at JACHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DekyCS/savoirai
+demo_url: null
+video_url: https://www.youtube.com/embed/6xi-xb90GkQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/246/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Malik Al-Shourbaji
+  - name: Omar Lahlou Mimi
+  - name: muhammadbalawal Safdar
+  - name: Bogdan F

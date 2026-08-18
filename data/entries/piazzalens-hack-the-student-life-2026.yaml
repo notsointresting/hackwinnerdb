@@ -1,0 +1,14 @@
+id: piazzalens-hack-the-student-life-2026
+project_id: piazzalens
+hackathon_id: hack-the-student-life-2026
+submission_url: https://devpost.com/software/piazzalens
+source:
+  platform: devpost
+  url: https://devpost.com/software/piazzalens
+awards:
+  - type: category-winner
+    title: Best Project for Enhancing Teaching Efficiency with Intelligent Course Support
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

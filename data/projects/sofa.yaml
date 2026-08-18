@@ -1,0 +1,22 @@
+id: sofa
+name: Sofa
+slug: sofa
+tagline: Sofa syncs your EBT balance and family preferences to build smart meal plans—so Minnesota
+  single parents can cook once, eat twice, waste nothing, and stress les
+summary: Sofa received the 1st Place award at Tommie BuildFest in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/haskyee/sofa-app.git
+demo_url: null
+video_url: https://www.youtube.com/embed/lR3gLMjIcOM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/350/057/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - claude
+  - python
+  - react
+builders:
+  - name: Nimo Hassan
+  - name: MariaMagambo

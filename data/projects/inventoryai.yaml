@@ -1,0 +1,25 @@
+id: inventoryai
+name: InventoryAI
+slug: inventoryai
+tagline: Snap a photo of any supplier invoice. Gemini AI reads every line item, updates your stock,
+  and answers inventory questions by voice — in under 10 seconds.
+summary: InventoryAI received the [MLH] Best Use of ElevenLabs award at MorganHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pwnwriter/inventoryai
+demo_url: null
+video_url: https://www.youtube.com/embed/zPAsNHTmwSo
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - gemini
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Nabin Tiwari
+  - name: Aditya Raj Poudel
+  - name: Raj Bariya

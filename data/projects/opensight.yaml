@@ -1,0 +1,27 @@
+id: opensight
+name: OpenSight
+slug: opensight
+tagline: A desktop AI platform that connects agents, task automation, and personal productivity
+  tools to manage research, scheduling, shopping, and workflows. It's techn
+summary: OpenSight received the Amazon Echo Dot award at Google Solutions Challenge GDG on Campus
+  Virginia Tech Spring 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/rs0LD0CKTZk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/547/518/datas/medium.png
+categories:
+  - artificial-intelligence
+  - developer-tools
+  - productivity
+technologies:
+  - elevenlabs
+  - fastapi
+  - google-ai-studio
+  - google-cloud
+  - python
+builders:
+  - name: abhisomala Somala
+  - name: Nico Parong
+  - name: Dhruv Mulajkar

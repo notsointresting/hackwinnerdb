@@ -1,0 +1,29 @@
+id: devlog
+name: DevLog
+slug: devlog
+tagline: Because ‘what did I just do?’ shouldn’t be part of your workflow. DevLog tracks every
+  change, explains what happened, and keeps your entire project in sync.
+summary: "DevLog received the Google: Build with AI - The Agentic Frontier award at Innovation Hacks
+  2.0 - 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/anhitivooturi/Innovation-Hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/0GKv6QB-S4Y
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - firebase
+  - gemini
+  - google-cloud
+  - python
+  - react
+builders:
+  - name: Anhiti Vooturi
+  - name: Rihaan Natani
+  - name: Vibhor Bhatia

@@ -1,0 +1,21 @@
+id: catfish-chaos-honk
+name: "Catfish Chaos: HONK!"
+slug: catfish-chaos-honk
+tagline: A pixel-art river-mafia game with a cast generated entirely by Google Gemini. You play Sir
+  Reginald, a morally-grey catfish don who cleans up his river one prob
+summary: "Catfish Chaos: HONK! received the 60% Mechanical Keyboard award at HackDays Delhi in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ShivamShrivastava18/catfish-chaos-honk
+demo_url: null
+video_url: https://www.youtube.com/embed/uT9ZTS5pOUE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/236/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Yeetogami Goyal
+  - name: Shivam Shrivastav

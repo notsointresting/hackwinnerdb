@@ -1,0 +1,23 @@
+id: echo-pro
+name: Echo-Pro
+slug: echo-pro
+tagline: Machine learning-powered smart crane stick detects obstacles in real time, auto-steers to
+  avoid them, and gives audio alerts, aiding blind and disabled users wi
+summary: Echo-Pro received the Best Use of Viam award at MakeMIT x Harvard 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6VvcRcvRXNA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/057/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - transportation
+technologies:
+  - python
+builders:
+  - name: Daniel Wang
+  - name: Darion Lian
+  - name: Minh Ho
+  - name: Austin Lin

@@ -1,0 +1,19 @@
+id: precedent-decision-memory-for-slack
+name: Precedent - Decision Memory For Slack
+slug: precedent-decision-memory-for-slack
+tagline: Your organization already decided this. Precedent privately finds the decision before your
+  team makes it again.
+summary: Precedent - Decision Memory For Slack received the First Place | New Slack Agent award at
+  Slack Agent Builder Challenge in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/0tcUSmycBmo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/870/078/datas/gallery.jpg
+categories:
+  - enterprise
+technologies:
+  - python
+builders:
+  - name: Mark Brazinski

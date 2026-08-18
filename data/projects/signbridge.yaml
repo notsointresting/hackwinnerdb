@@ -1,0 +1,28 @@
+id: signbridge
+name: SignBridge
+slug: signbridge
+tagline: "SignBridge: agentic AI that makes every meeting accessible to deaf users, live Whisper
+  captions, pyannote speaker ID, sign-language avatar, 10 languages, in rea"
+summary: SignBridge received the Best App for Social Good - Winner award at GDSC HackDay  - Build
+  With AI Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/affan00733/BuildAI
+demo_url: null
+video_url: https://www.youtube.com/embed/0hHx77ZUmFQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - claude
+  - fastapi
+  - gemini
+  - google-ai-studio
+  - python
+  - react
+  - typescript
+builders:
+  - name: Mohneet Kaur Amandeep Singh Sandhu
+  - name: Mohammed Afaan Mohammed Arif Ansari

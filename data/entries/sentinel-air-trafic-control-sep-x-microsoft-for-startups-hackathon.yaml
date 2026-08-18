@@ -1,0 +1,14 @@
+id: sentinel-air-trafic-control-sep-x-microsoft-for-startups-hackathon
+project_id: sentinel-air-trafic-control
+hackathon_id: sep-x-microsoft-for-startups-hackathon
+submission_url: https://devpost.com/software/a-kmxovj
+source:
+  platform: devpost
+  url: https://devpost.com/software/a-kmxovj
+awards:
+  - type: category-winner
+    title: Most technically complex/impressive
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

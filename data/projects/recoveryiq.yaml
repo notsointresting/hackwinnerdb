@@ -1,0 +1,25 @@
+id: recoveryiq
+name: RecoveryIQ
+slug: recoveryiq
+tagline: Turning Hydrawav3's 9-minute session into a 24/7 recovery ecosystem — intelligent intake,
+  AI-personalized protocols, and gamified continuity that compounds betw
+summary: RecoveryIQ received the Hydrawav3 award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ray021207/GlobeHack_Hydrawav3_RecoveryIQ
+demo_url: null
+video_url: https://www.youtube.com/embed/ZHVwQERZAIE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - javascript
+  - python
+  - tailwind-css
+  - typescript
+  - vercel
+  - webrtc
+builders:
+  - name: Reshma Panibhate

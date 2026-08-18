@@ -1,0 +1,24 @@
+id: jira
+name: JIRA
+slug: jira
+tagline: Jira is a physical AI cat companion built into a travel pillow. Its personality is
+  dynamically generated from real-time sensor data, and every interaction is tu
+summary: "JIRA received the THRIVE - Track award at HARD MODE: Hardware x AI Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/474/050/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+  - python
+builders:
+  - name: Zoe Zhang
+  - name: Joshua Blair
+  - name: Yanning-Hou Hou
+  - name: emily guan

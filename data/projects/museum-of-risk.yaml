@@ -1,0 +1,26 @@
+id: museum-of-risk
+name: Museum of Risk
+slug: museum-of-risk
+tagline: "Our app turns quick quiz into a personalized risk score for auto, home, or life insurance,
+  then shows exactly how to improve it with actionable plans, progress "
+summary: Museum of Risk received the State Farm Challenge award at WEHack 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vxk8058/Museum-of-Risk.git
+demo_url: null
+video_url: https://www.youtube.com/embed/eQ4M7SLnmbc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/541/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Vikyatha Komandla
+  - name: Sanj Val
+  - name: Anusha Kokala
+  - name: Tejasvi Yasa

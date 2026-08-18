@@ -1,0 +1,23 @@
+id: yapdraw
+name: YapDraw
+slug: yapdraw
+tagline: Think out loud, and see your ideas form in real time.
+summary: YapDraw received the [GenAI Genesis] TOP 10 Team - Finalists (In-Person Only) award
+  at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/rickytang666/yapdraw
+demo_url: null
+video_url: https://www.youtube.com/embed/JoLELmPKW6w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/438/985/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Ricky Tang
+  - name: Thomas Zhang
+  - name: David Estrine
+  - name: evan

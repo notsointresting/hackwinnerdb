@@ -1,0 +1,25 @@
+id: chronicles
+name: Chronicles
+slug: chronicles
+tagline: Chronicles is The Oregon Trail reimagined as a multiplayer time machine. Type any era, and
+  our AI spins up a playable survival simulation. Scan a Kahoot-style Q
+summary: Chronicles received the [MLH] Best Use of Gemini API award at WildHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/johnz4021/Chronicles
+demo_url: null
+video_url: https://www.youtube.com/embed/uBC69x367zI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/705/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Matthew Lin
+  - name: John Zhang
+  - name: Gaurav Batra
+  - name: Andrew Liao

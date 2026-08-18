@@ -1,0 +1,22 @@
+id: crest
+name: Crest
+slug: crest
+tagline: Your data has always had the answer, we simply built the intelligence to surface it.
+summary: Crest received the 3rd Place - Brim Financial Challenge award at MPC Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Atlearia/mpchacks
+demo_url: null
+video_url: https://www.youtube.com/embed/kiq6XjNi9J8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/722/827/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Ning Ye
+  - name: Zachary Demnati
+  - name: Joshua Aryeetey
+  - name: Shiv Arora

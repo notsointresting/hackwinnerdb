@@ -1,0 +1,20 @@
+id: calendar-agent
+name: Calendar Agent
+slug: calendar-agent
+tagline: An agent for Macs that can autonomously cross-verify and add/update calendar information
+  with a click of a button using iMessage information and screenshots.
+summary: Calendar Agent received the 3rd Place award at SunnyHacks June 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8ED-1DgHxAA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Anish Paduchuri

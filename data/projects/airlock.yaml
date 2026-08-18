@@ -1,0 +1,20 @@
+id: airlock
+name: Airlock
+slug: airlock
+tagline: Quarantines an untrusted agent tool, watches what it actually does in a sealed sandbox, and
+  returns a verdict — before it touches your machine.
+summary: Airlock received the Best Use of CodeRabbit award at Daytona HackSprint w/ Braintrust - SF,
+  July 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/chinesepowered/hack-daytona
+demo_url: null
+video_url: https://www.youtube.com/embed/qiJ3xwtMG1U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/021/752/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Nelson Lai

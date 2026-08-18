@@ -1,0 +1,23 @@
+id: accessscan-web-accessibility-scanner
+name: AccessScan — Web Accessibility Scanner
+slug: accessscan-web-accessibility-scanner
+tagline: Scan any website for WCAG 2.1 accessibility issues in seconds. 20 rules, live preview
+  highlighting, batch scan, and PDF export. Built with React + TypeScript, z
+summary: AccessScan — Web Accessibility Scanner received the Participation Certificates award at
+  Ctrl+V Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Thomaszhou22/accessibility-analyzer
+demo_url: null
+video_url: https://www.youtube.com/embed/6tfSq3YwzYE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/843/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Thomas Zhou

@@ -1,0 +1,17 @@
+id: flarecli
+name: FlareCLI
+slug: flarecli
+tagline: Observe. Diagnose. Resolve.
+summary: FlareCLI received the Orion Distinction (3rd Place) award at Hackdays Prayagraj  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/calebevans/cordon
+demo_url: null
+video_url: https://www.youtube.com/embed/u_ii58Clad4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/639/646/datas/medium.png
+categories:
+  - education
+technologies:
+  - python
+builders:
+  - name: ankush rawat

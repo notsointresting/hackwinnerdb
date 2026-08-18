@@ -1,0 +1,23 @@
+id: chatdmv
+name: ChatDMV
+slug: chatdmv
+tagline: ChatDMV, powered by Gemini and ElevenLabs TTS, aims to recreate the dreadful experience of
+  the DMV by having players use prompt engineering to manipulate ruthle
+summary: ChatDMV received the MLH - Best Use of ElevenLabs Prize award at Stevens QuackHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ZtT6_FRdquE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/691/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - elevenlabs
+  - gemini
+  - unity
+builders:
+  - name: Ishaan Sayal
+  - name: emilie Inzinna-Enriquez

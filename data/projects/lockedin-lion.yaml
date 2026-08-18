@@ -1,0 +1,24 @@
+id: lockedin-lion
+name: LockedIn Lion
+slug: lockedin-lion
+tagline: AI that listens to your lectures, reads your syllabus, preps you for labs, and lets you
+  chat with all your notes — one app, zero busywork.
+summary: LockedIn Lion received the Education Track Winner award at LionHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/OliseNS/neuraldude
+demo_url: null
+video_url: https://www.youtube.com/embed/doVmhtRGmYA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/608/430/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Olisemeka Nmarkwe

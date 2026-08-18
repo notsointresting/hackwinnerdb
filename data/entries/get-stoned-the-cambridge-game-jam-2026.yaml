@@ -1,0 +1,14 @@
+id: get-stoned-the-cambridge-game-jam-2026
+project_id: get-stoned
+hackathon_id: the-cambridge-game-jam-2026
+submission_url: https://devpost.com/software/get-stoned
+source:
+  platform: devpost
+  url: https://devpost.com/software/get-stoned
+awards:
+  - type: category-winner
+    title: Most Creative Theme Interpretation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

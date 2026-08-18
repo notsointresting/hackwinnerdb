@@ -1,0 +1,31 @@
+id: reelize
+name: Reelize
+slug: reelize
+tagline: Reelize turns viral Shorts into templates for teaching complex topics. Pick a video whose
+  pacing hooks you - AI extracts the blueprint and generates a full shor
+summary: "Reelize received the Grand Prize: Third Place award at Hack Brooklyn in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/EliyahuMizrahi/reelize
+demo_url: null
+video_url: https://www.youtube.com/embed/eTKgPNKFsIU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/343/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - javascript
+  - opencv
+  - postgresql
+  - python
+  - react
+  - react-native
+  - supabase
+  - typescript
+builders:
+  - name: Eliyahu Mizrahi
+  - name: Isaac Sasson

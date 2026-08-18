@@ -1,0 +1,24 @@
+id: havennow
+name: HavenNow
+slug: havennow
+tagline: "HavenNow: Real-time map of Toronto shelters & support services. Live availability,
+  offline-ready, no account needed."
+summary: HavenNow received the Second Place award at Hack to the Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rzlm/lcs-hackathon-project
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/513/794/datas/medium.png
+categories:
+  - education
+  - creative-tools
+technologies:
+  - flask
+  - react-native
+  - supabase
+  - twilio
+builders:
+  - name: Razan Mohamed
+  - name: Shermeen Syeda
+  - name: sameenabbasi

@@ -1,0 +1,14 @@
+id: west-hacks
+name: West Hacks
+slug: west-hacks
+organizer: []
+year: 2026
+sources:
+  - https://westhacks.devpost.com/
+  - https://westhacks.devpost.com/project-gallery?filter=winner
+website_url: https://westhacks.devpost.com/
+platform: devpost
+participant_count: 220
+prize_pool: 175
+currency: USD
+description: "Devpost hackathon: West Hacks. Imported automatically."

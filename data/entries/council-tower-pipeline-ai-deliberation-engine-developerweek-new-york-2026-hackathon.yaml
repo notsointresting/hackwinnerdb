@@ -1,0 +1,14 @@
+id: council-tower-pipeline-ai-deliberation-engine-developerweek-new-york-2026-hackathon
+project_id: council-tower-pipeline-ai-deliberation-engine
+hackathon_id: developerweek-new-york-2026-hackathon
+submission_url: https://devpost.com/software/council-tower-pipeline-ai-deliberation-engine
+source:
+  platform: devpost
+  url: https://devpost.com/software/council-tower-pipeline-ai-deliberation-engine
+awards:
+  - type: other
+    title: "Tower Pipeline Challenge: Data-to-AI"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

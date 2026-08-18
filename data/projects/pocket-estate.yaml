@@ -1,0 +1,22 @@
+id: pocket-estate
+name: Pocket Estate
+slug: pocket-estate
+tagline: Pocket State is the all in one property command center for landlords, track rent, manage
+  tenants, handle maintenance, and automate tasks with AI, all in one das
+summary: Pocket Estate received the Best Major Application award at Color Hacks + Northwestern
+  NSBE  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Shayah29/Pocket-Estate
+demo_url: null
+video_url: https://www.youtube.com/embed/xCX69QnTLt8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/928/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - gemini
+builders:
+  - name: Shaneil H
+  - name: adaugoku-lab
+  - name: Helia MKR

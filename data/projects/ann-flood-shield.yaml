@@ -1,0 +1,21 @@
+id: ann-flood-shield
+name: ANN Flood Shield
+slug: ann-flood-shield
+tagline: ANN Flood Shield uses an AI model trained with 36 years of data to predict floods 24 - 48
+  hours ahead, sending SMS/WhatsApp alerts to save lives and livelihoods
+summary: "ANN Flood Shield received the Mystery Award award at The Climate Change-Makers Challenge:
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/giftahmed/ANN-Flood-Shield
+demo_url: null
+video_url: https://www.youtube.com/embed/zHZ-gKGSFrc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/544/385/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies: []
+builders:
+  - name: John Ekeata
+  - name: Gift Ahmed
+  - name: Sara Ahmed

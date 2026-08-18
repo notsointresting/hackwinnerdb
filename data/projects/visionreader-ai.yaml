@@ -1,0 +1,20 @@
+id: visionreader-ai
+name: VisionReader AI
+slug: visionreader-ai
+tagline: Snap a page, see the story unfold. VisionReader transforms bilingual novel text into
+  breathtaking, hyper-accurate cinematic landscapes using Gemini OCR and Poll
+summary: VisionReader AI received the Participation Certificates award at Ctrl+V Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Weililuo/VisionReader-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/T28Y6zYpYYQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/863/540/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: EricLu0 Luo

@@ -1,0 +1,21 @@
+id: flintknock
+name: FlintKnock
+slug: flintknock
+tagline: Flint Knock is a fast-paced top-down horde survival located in a dark forest, where every
+  shot is a movement decision.
+summary: FlintKnock received the Best Retro Design award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ItsJacob210/Hackadamien
+demo_url: null
+video_url: https://www.youtube.com/embed/VTUQQfk8ObI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/963/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - unity
+builders:
+  - name: Jacob Miller
+  - name: Jacob Brewer
+  - name: jeffreyray2007-stack Castro

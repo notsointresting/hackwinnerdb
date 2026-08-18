@@ -1,0 +1,21 @@
+id: flood-risk-ai-calculator-app
+name: Flood Risk AI Calculator App
+slug: flood-risk-ai-calculator-app
+tagline: Floods threaten 1.8B people. Our ML app lets farmers and everyone worldwide assess their
+  flood risk in minutes, get actionable advice, and hear it aloud in 3 la
+summary: "Flood Risk AI Calculator App received the Mystery Award award at The Climate Change-Makers
+  Challenge: 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Y6IaOoD52oY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/540/978/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - figma
+builders:
+  - name: Shelique Vassell
+  - name: Yasmina Ayman

@@ -1,0 +1,19 @@
+id: where-is-my-bus
+name: WHERE IS MY BUS
+slug: where-is-my-bus
+tagline: WHERE IS MY BUS is an website where people can track the live location of the bus .built in
+  gps enabled in Electronic Ticketing Machine (ETM).and people can boo
+summary: WHERE IS MY BUS received the Stickers award at Hackdays Prayagraj  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saravanesh07-cloud/where-is-my-bus
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/820/027/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: suriyaktc T

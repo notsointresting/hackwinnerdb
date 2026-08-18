@@ -1,0 +1,22 @@
+id: atlas
+name: Atlas
+slug: atlas
+tagline: Implementing SGA-AR for Space Exploration
+summary: "Atlas received the 2nd Place for SGA-AR: Find the Opportunity Track award at TEL: Spatial
+  Intelligence Ideathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/z4uBmCYfqC4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: Neha Srinivasula
+  - name: Swapnesh Baguli
+  - name: kishanKOTA Kishan rishik kota
+  - name: Aditya Dharap

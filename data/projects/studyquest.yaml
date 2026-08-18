@@ -1,0 +1,26 @@
+id: studyquest
+name: StudyQuest
+slug: studyquest
+tagline: We turn study sessions into gacha pulls. Upload your slides, get AI lessons and quizzes,
+  earn gems and coins, then spend them on a fun idle companion game. Stud
+summary: StudyQuest received the (Knowunity Track) 4x DJI Neo Drone award at HackLondon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ryanli-BP/Study-Quest.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/355/407/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+  - dart
+  - fastapi
+  - flutter
+  - python
+  - sqlite
+builders:
+  - name: Samson Wu
+  - name: Li Man Hui

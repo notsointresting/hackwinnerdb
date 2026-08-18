@@ -1,0 +1,22 @@
+id: oraite
+name: orAIte
+slug: oraite
+tagline: Leveraging AI and NLP to help people learning foreign languages and overcoming speech
+  impediments speak with confidence.
+summary: orAIte received the 2nd Overall award at UCLA Hack on the Hill (HOTH) XIII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/paulmac7/orAIte
+demo_url: null
+video_url: https://www.youtube.com/embed/LmvE6YvvCzI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/541/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - azure
+  - flask
+  - python
+builders:
+  - name: Paul Macapinlac

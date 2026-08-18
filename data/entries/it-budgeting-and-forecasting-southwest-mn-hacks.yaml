@@ -1,0 +1,14 @@
+id: it-budgeting-and-forecasting-southwest-mn-hacks
+project_id: it-budgeting-and-forecasting
+hackathon_id: southwest-mn-hacks
+submission_url: https://devpost.com/software/it-budgeting-and-forecasting
+source:
+  platform: devpost
+  url: https://devpost.com/software/it-budgeting-and-forecasting
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

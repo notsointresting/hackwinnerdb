@@ -1,0 +1,22 @@
+id: hands-up-voice-of-the-voiceless
+name: Hands Up - Voice of the Voiceless
+slug: hands-up-voice-of-the-voiceless
+tagline: "500K ASL speakers.Less than 10,000 interpreters. $300 provider burden per visit. Hands Up:
+  Grok vision reads ASL live, xAI speaks it to your doctor. Agency, not"
+summary: Hands Up - Voice of the Voiceless received the Honourable Mention award at Autonomous
+  Healthcare Hackathon | Legion Health x Atlas in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jsaluja/hands-up/
+demo_url: null
+video_url: https://www.youtube.com/embed/HggeuO4Vw_s
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - react
+builders:
+  - name: Jaspal Singh

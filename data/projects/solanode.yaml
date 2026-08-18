@@ -1,0 +1,23 @@
+id: solanode
+name: SolaNode
+slug: solanode
+tagline: SolaNode transforms complex blockchain activity into clear, actionable insights through 3D
+  node visualizations, seamlessly linking each transaction to its corre
+summary: SolaNode received the [MLH] Best Use of DigitalOcean award at AI Hackfest in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hlee18lee46/solanode
+demo_url: null
+video_url: https://www.youtube.com/embed/cGB9U2aPEHg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/152/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - mongodb
+  - python
+  - solana
+  - typescript
+builders:
+  - name: Cheerful Chipmunk

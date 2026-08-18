@@ -1,0 +1,19 @@
+id: rootnet
+name: RootNet
+slug: rootnet
+tagline: A nature-inspired, crowdsourced alert network using mycorrhizal logic to provide
+  street-level heat and water crisis intelligence for Amravati.
+summary: RootNet received the Top 10 Best Performers award at 1st Nature's Blueprint Ideathon 2026
+  !! in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/LUa9k25_Vog
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/754/304/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Shreyas Gawande

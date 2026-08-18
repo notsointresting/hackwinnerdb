@@ -1,0 +1,14 @@
+id: hack-days-in-hosur
+name: Hack days in hosur
+slug: hack-days-in-hosur
+organizer: []
+year: 2026
+sources:
+  - https://hack-days-in-hosur.devpost.com/
+  - https://hack-days-in-hosur.devpost.com/project-gallery?filter=winner
+website_url: https://hack-days-in-hosur.devpost.com/
+platform: devpost
+participant_count: 11
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack days in hosur. Imported automatically."

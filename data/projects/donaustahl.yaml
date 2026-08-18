@@ -1,0 +1,21 @@
+id: donaustahl
+name: Donaustahl
+slug: donaustahl
+tagline: UAV attacks pose a security risk in civilian settings. We introduce Donaustahl, a drone
+  defense system that operates without a central base station, remaining r
+summary: Donaustahl received the Second Place award at Hackaburg 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/718/497/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Fabian Schuller
+  - name: The Emperor
+  - name: Timo Koller

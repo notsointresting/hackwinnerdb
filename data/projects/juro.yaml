@@ -1,0 +1,21 @@
+id: juro
+name: JURO
+slug: juro
+tagline: Deployed AI tribunal that argues both sides of health-insurance denials. Four agents in one
+  room. Human rules. Record sealed. Built on Anthropic Band + LangGrap
+summary: JURO received the Membership award at Measure up in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/insanityatpeak/juro
+demo_url: null
+video_url: https://www.youtube.com/embed/N3ys8yAu0Vw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/822/030/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - anthropic
+  - fastapi
+  - python
+builders:
+  - name: Priyanshu R

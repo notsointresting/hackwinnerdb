@@ -1,0 +1,14 @@
+id: tillyhacks
+name: TillyHacks
+slug: tillyhacks
+organizer: []
+year: 2026
+sources:
+  - https://tillyhacks.devpost.com/
+  - https://tillyhacks.devpost.com/project-gallery?filter=winner
+website_url: https://tillyhacks.devpost.com/
+platform: devpost
+participant_count: 29
+prize_pool: null
+currency: null
+description: "Devpost hackathon: TillyHacks. Imported automatically."

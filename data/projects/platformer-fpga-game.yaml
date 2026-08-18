@@ -1,0 +1,23 @@
+id: platformer-fpga-game
+name: Platformer FPGA Game
+slug: platformer-fpga-game
+tagline: Using Verilog and System Verilog, our group created an FPGA platformer. In the game, the
+  player can collect coins and jump onto elevated platforms. They have to
+summary: Platformer FPGA Game received the Honourable Mention - FPGA award at UofT ASIC Team - IC
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sleezywood/ASIC-Hackathon-FPGA-Template-
+demo_url: null
+video_url: https://www.youtube.com/embed/D_OeVX8txNo
+image_url: null
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - c-plus-plus
+builders:
+  - name: Sudhanya Golla
+  - name: Brenda Kwan
+  - name: Michelle Yu
+  - name: Henry Lin

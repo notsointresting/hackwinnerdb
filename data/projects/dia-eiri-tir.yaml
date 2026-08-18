@@ -1,0 +1,21 @@
+id: dia-eiri-tir
+name: Dia Eiri Tir
+slug: dia-eiri-tir
+tagline: A worker placement/territory control boardgame based on Irish mythology where players
+  gather faith from fae and spirits to ascend to victory.
+summary: Dia Eiri Tir received the Best Physical Design award at The Cambridge Game Jam 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/526/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: Hemanth Bheemireddy
+  - name: Akshay Acharya
+  - name: Leo Bilton
+  - name: Marc Foxhall

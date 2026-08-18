@@ -1,0 +1,21 @@
+id: aggie-street-smart
+name: Aggie Street Smart
+slug: aggie-street-smart
+tagline: Bike safer, not speedier.
+summary: Aggie Street Smart received the Best Hack for Social Good award at HackDavis 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TheLickIn13Keys/hackdavis26
+demo_url: null
+video_url: https://www.youtube.com/embed/tiFOe5MjFyo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/059/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - mapbox
+builders:
+  - name: Patrick Liu
+  - name: Bardia Anvari
+  - name: Benedict Nursalim
+  - name: Katherine Liu

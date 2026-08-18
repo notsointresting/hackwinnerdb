@@ -1,0 +1,23 @@
+id: ubc-pair
+name: UBC Pair
+slug: ubc-pair
+tagline: UBC Pair replaces endless swiping with one curated weekly match. Using interests,
+  personality, and availability, it helps UBC students form real connections and
+summary: UBC Pair received the Audience Favourite award at BUCS Hackathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/087/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - nextjs
+  - react
+  - typescript
+builders:
+  - name: Daniel Morgan
+  - name: pairotkijja2006-netizen Pairotkijja
+  - name: Gabriel

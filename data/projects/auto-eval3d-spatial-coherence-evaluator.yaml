@@ -1,0 +1,26 @@
+id: auto-eval3d-spatial-coherence-evaluator
+name: "Auto-Eval3D: Spatial Coherence Evaluator"
+slug: auto-eval3d-spatial-coherence-evaluator
+tagline: I automate the QA of 3D generative AI. Auto-Eval3D uses a custom WebGL rig to capture
+  360-degree interiors of World Labs generations, using Gemini 2.5 Pro to gr
+summary: "Auto-Eval3D: Spatial Coherence Evaluator received the Best Scientific & Engineering
+  Application award at BigThink x World Labs in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Rayhanpatel/autoeval3d
+demo_url: null
+video_url: https://www.youtube.com/embed/xWpm36d-pFc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/409/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - fastapi
+  - google-cloud
+  - javascript
+  - python
+  - sqlite
+  - vertex-ai
+builders:
+  - name: Rayhan Basheer Patel

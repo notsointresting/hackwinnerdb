@@ -1,0 +1,26 @@
+id: mindcraft
+name: MindCraft
+slug: mindcraft
+tagline: Craft a mind that's worth thinking with. Create machine learning models that inspire in
+  just seconds.
+summary: MindCraft received the [MLH] Best Use of Gemini API award at Hack AI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AllenZheng-05/HackAI
+demo_url: null
+video_url: https://www.youtube.com/embed/CCEJK28j8r8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/600/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - figma
+  - gemini
+  - python
+  - react
+  - tensorflow
+  - vercel
+builders:
+  - name: Kida K.
+  - name: Krish Sriganesh
+  - name: Allen Zheng

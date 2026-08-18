@@ -1,0 +1,24 @@
+id: ease-n-spect
+name: ease 'n spect
+slug: ease-n-spect
+tagline: Caterpillar inspection process streamlined.
+summary: "ease 'n spect received the Track: Best AI Inspection (1st Place) award at HackIllinois
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dOh2O1B4ZpM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/386/554/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - react-native
+  - supabase
+  - typescript
+builders:
+  - name: Stefano Park Kim
+  - name: Kyuwon Lee
+  - name: Jimmy Back

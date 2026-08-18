@@ -1,0 +1,26 @@
+id: livi-xr-reading-buddy
+name: Livi- XR reading buddy
+slug: livi-xr-reading-buddy
+tagline: "An AR lens for Spectacles that turns any book into a living world - AI recognizes the page
+  to bring scenes to life in 3D, and a glance at your palm reveals how "
+summary: Livi- XR reading buddy received the Honorable Mention - Sponsored by Spectacles award at
+  TigerVerse 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/AsuraAkuma/LiVi/tree/main?tab=readme-ov-file
+demo_url: null
+video_url: https://www.youtube.com/embed/AJzP1f-4pqQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/615/656/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - gemini
+  - javascript
+  - typescript
+builders:
+  - name: Daisy Nguyen
+  - name: ImJustHenry .
+  - name: Adam Gardner
+  - name: Pacino Lin

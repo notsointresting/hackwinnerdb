@@ -1,0 +1,25 @@
+id: forge
+name: Forge
+slug: forge
+tagline: Forge is the AI engineering teammate that joins live meetings, understands your codebase,
+  and turns technical conversations into visual explanations so your tea
+summary: "Forge received the Warp: Best Developer Tool award at Hack the 6ix 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/efebolukbasi/hackthe6ix26
+demo_url: null
+video_url: https://www.youtube.com/embed/9c6B8EHu8YQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/934/229/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - elevenlabs
+  - react
+  - typescript
+  - webrtc
+builders:
+  - name: Efe Bolukbasi
+  - name: Adam Ulster

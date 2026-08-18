@@ -1,0 +1,16 @@
+id: chainscope-predictive-supply-chain-intelligence-quantum-sprint
+project_id: chainscope-predictive-supply-chain-intelligence
+hackathon_id: quantum-sprint
+submission_url: https://devpost.com/software/chainscope-predictive-supply-chain-intelligence
+source:
+  platform: devpost
+  url: https://devpost.com/software/chainscope-predictive-supply-chain-intelligence
+awards:
+  - type: track-winner
+    title: Theme-Based Track Prizes
+  - type: other
+    title: "Referral Reward Program for participants:"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

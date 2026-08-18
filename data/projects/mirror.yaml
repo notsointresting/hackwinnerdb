@@ -1,0 +1,24 @@
+id: mirror
+name: Mirror
+slug: mirror
+tagline: Mirror is a computer vision–powered recovery coach that transforms at-home exercises with
+  real-time feedback and guided rehabilitation.
+summary: Mirror received the MLH || Best Use of ElevenLabs || Wireless Earbuds award at Hack Indy
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/RamaniS123/Echo/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/QWa_tN7Smb8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/375/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Ramani Satishkumar

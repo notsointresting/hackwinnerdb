@@ -1,0 +1,23 @@
+id: zero-day-forensic-investigator
+name: zero day forensic investigator
+slug: zero-day-forensic-investigator
+tagline: An event-driven AI agent that receives an IT alert, queries MongoDB’s MCP server for
+  telemetry, runs a Gemini model to generate a Root‑Cause Analysis (RCA).
+summary: zero day forensic investigator received the Best App Deployed on Google Cloud award at Code
+  with Gemini API in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kF8z2Vd8euc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/566/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - typescript
+builders:
+  - name: Dipanshu Rawat

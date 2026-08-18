@@ -1,0 +1,20 @@
+id: proteinpro-protein-polymer-reactivity-optimizer-v1
+name: "ProteinPRO: Protein Polymer Reactivity Optimizer v1"
+slug: proteinpro-protein-polymer-reactivity-optimizer-v1
+tagline: Polymer chemistry meets protein chemistry for stability prediction
+summary: "ProteinPRO: Protein Polymer Reactivity Optimizer v1 received the Runner-Up: Best Virtual
+  Hack award at HackDuke: Code For Good 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ganttmeredith/ProteinPRO/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/-vXzR6s6_6Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/480/460/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+builders:
+  - name: Gantt Meredith

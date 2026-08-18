@@ -1,0 +1,16 @@
+id: consilium-jachacks-spring
+project_id: consilium
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/consilium-mqu6w3
+source:
+  platform: devpost
+  url: https://devpost.com/software/consilium-mqu6w3
+awards:
+  - type: first-place
+    title: Consumer Healthcare track - 1st place
+  - type: category-winner
+    title: Best Startup Idea
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

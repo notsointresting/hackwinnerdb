@@ -1,0 +1,24 @@
+id: eye-heart-connection
+name: EYE HEART CONNECTION
+slug: eye-heart-connection
+tagline: Multimodal retinal analysis for cardiovascular risk proxy estimation using bilateral fundus
+  images and age metadata
+summary: EYE HEART CONNECTION received the Most Innovative Project award at ML Empowerment Build
+  Challenge in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ayushsainime/EYE_HEART_CONNECTION
+demo_url: null
+video_url: https://www.youtube.com/embed/XX0J9qopUuQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/567/584/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - opencv
+  - python
+  - pytorch
+builders:
+  - name: Ayush Saini

@@ -1,0 +1,25 @@
+id: constructa
+name: Constructa
+slug: constructa
+tagline: Constructa helps developers and contracting teams evaluate buildable sites, visualize
+  projects, and complete permit paperwork faster so they can build with fewe
+summary: Constructa received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/vynx1/Constructa
+demo_url: null
+video_url: https://www.youtube.com/embed/Wa2UlZcN85A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/805/950/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+  - tailwind-css
+builders:
+  - name: Aadi  Jariwala
+  - name: Niranjan Deshpande
+  - name: Shubhay Choubey
+  - name: Shivam Pansuria

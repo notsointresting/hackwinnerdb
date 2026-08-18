@@ -1,0 +1,25 @@
+id: rehab-flow
+name: Rehab Flow
+slug: rehab-flow
+tagline: Smart gloves that turn hand rehab into a game
+summary: Rehab Flow received the Main Track - 1st Place award at hack.msa in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+builders:
+  - name: Aamir Khan
+  - name: rayansikkandar Sikkandar
+  - name: hassan khan
+  - name: zayd sayeed

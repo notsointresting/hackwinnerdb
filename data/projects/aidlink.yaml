@@ -1,0 +1,24 @@
+id: aidlink
+name: AidLink
+slug: aidlink
+tagline: AidLink turns real-time crisis reports into a live map where organizers verify incidents
+  and coordinate volunteers, ensuring help reaches the right places faste
+summary: AidLink received the Spring – Most Likely to Become a Startup award at ProduHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jasperjjhe/AidLink
+demo_url: null
+video_url: https://www.youtube.com/embed/90FT3OW1LnA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/486/352/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+  - postgresql
+  - python
+  - typescript
+builders:
+  - name: Daniel Zou
+  - name: Ethan Hoang
+  - name: Jasper He
+  - name: Leo Wu

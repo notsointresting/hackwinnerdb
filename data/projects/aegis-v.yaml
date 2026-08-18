@@ -1,0 +1,27 @@
+id: aegis-v
+name: AEGIS-V
+slug: aegis-v
+tagline: '"An Aegis for the tides, scoop by scoop."'
+summary: AEGIS-V received the Second Best Overall award at MasseyHacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ScripterRickster/MHXII-Server
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/386/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - arduino
+  - c-plus-plus
+  - flask
+  - javascript
+  - mongodb
+  - python
+  - raspberry-pi
+  - yolo
+builders:
+  - name: Ricky Liu
+  - name: Spencer Yuan
+  - name: Arshvir Ghotra
+  - name: Jad Menkara

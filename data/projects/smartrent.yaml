@@ -1,0 +1,22 @@
+id: smartrent
+name: SmartRent
+slug: smartrent
+tagline: It’s time to rent smart and pay less!
+summary: SmartRent received the Beginner award at Boeing presents TruHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ventrika567/ai-book.git
+demo_url: null
+video_url: https://www.youtube.com/embed/PhumStZUIzQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+builders:
+  - name: An Nguyen
+  - name: Trixie Le
+  - name: Pham Kim Anh Le
+  - name: Nguyen Minh Duc Phan

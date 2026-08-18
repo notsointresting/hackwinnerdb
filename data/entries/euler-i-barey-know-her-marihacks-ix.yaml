@@ -1,0 +1,14 @@
+id: euler-i-barey-know-her-marihacks-ix
+project_id: euler-i-barey-know-her
+hackathon_id: marihacks-ix
+submission_url: https://devpost.com/software/euler-i-barey-know-her
+source:
+  platform: devpost
+  url: https://devpost.com/software/euler-i-barey-know-her
+awards:
+  - type: winner
+    title: Advanced | Mathematics Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

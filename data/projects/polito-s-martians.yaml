@@ -1,0 +1,19 @@
+id: polito-s-martians
+name: Polito's Martians
+slug: polito-s-martians
+tagline: Designing a resilient solar battery power system for a 7 sol mission.
+summary: "Polito's Martians received the Second place award at MATLAB HackaTOn : Mission on Mars  in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/AlpMeteSenel/microgrid-on-mars
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/579/243/datas/medium.png
+categories:
+  - education
+  - creative-tools
+technologies:
+  - nextjs
+builders:
+  - name: Alp Mete Şenel
+  - name: Marco Pagano

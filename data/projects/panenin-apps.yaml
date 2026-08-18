@@ -1,0 +1,30 @@
+id: panenin-apps
+name: "Panenin: Apps"
+slug: panenin-apps
+tagline: From Harvest, Straight to The PlateEasy to SellEasy to SourceEasy to Deal
+summary: "Panenin: Apps received the Most Unique Idea award at Garuda Hacks 7.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ayiinee/panenin.git
+demo_url: null
+video_url: https://www.youtube.com/embed/5gzZUK_K7dI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/981/413/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - dart
+  - fastapi
+  - flutter
+  - gemini
+  - groq
+  - postgresql
+  - python
+  - supabase
+  - typescript
+builders:
+  - name: Muhammad Farel Alfathir
+  - name: Qurrotul A'ini
+  - name: Alvin Mahendra
+  - name: Ferdi Dwana

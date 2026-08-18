@@ -1,0 +1,24 @@
+id: confab
+name: Confab
+slug: confab
+tagline: Detecting LLM confabulation from hidden-state geometry so AI tools in education can flag
+  unreliable outputs before students trust them.
+summary: Confab received the AI Research and Alignment Environments by d_model [$500 for 1st, $250
+  for 2nd, $125 for 3rd (Amazon gift cards)] award at HackPrinceton Spring '26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aditya-Agarwal2006/hackprinceton/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/G2kOcdCDWVI
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - pytorch
+  - streamlit
+builders:
+  - name: Aditya Agarwal
+  - name: Vaghesan Sundaram

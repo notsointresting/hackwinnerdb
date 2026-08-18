@@ -1,0 +1,14 @@
+id: ts-is-so-peak-designer-s-edge
+project_id: ts-is-so-peak
+hackathon_id: designer-s-edge
+submission_url: https://devpost.com/software/ts-is-so-peak
+source:
+  platform: devpost
+  url: https://devpost.com/software/ts-is-so-peak
+awards:
+  - type: category-winner
+    title: Best 2D
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

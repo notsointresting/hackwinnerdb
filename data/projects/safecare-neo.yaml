@@ -1,0 +1,33 @@
+id: safecare-neo
+name: SafeCare NEO
+slug: safecare-neo
+tagline: Ecosistema IoT de monitoreo neonatal en tiempo real. Protegemos cada suspiro con sensores
+  biométricos y alertas instantáneas que salvan vidas cuando cada segund
+summary: SafeCare NEO received the 1er Lugar award at Hackathon Troyano 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sadiec7/safeCareNeo.git
+demo_url: null
+video_url: https://www.youtube.com/embed/C5jR_Xp7Urw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/684/datas/gallery.jpg
+categories:
+  - education
+  - iot
+  - creative-tools
+technologies:
+  - c-plus-plus
+  - docker
+  - elevenlabs
+  - esp32
+  - figma
+  - gemini
+  - google-cloud
+  - javascript
+  - mongodb
+  - solana
+  - yolo
+builders:
+  - name: Salvador  Camacho
+  - name: Emmanuel Núñez Peña
+  - name: ALISON UGALDE ARIAS
+  - name: LUIS GABRIEL PADRON MOYA

@@ -1,0 +1,23 @@
+id: earningai-coach
+name: EarningAI Coach
+slug: earningai-coach
+tagline: An AI-powered financial literacy and risk-aware trading assistant designed to help
+  beginners and low-income users learn trading safely using simulation, explain
+summary: EarningAI Coach received the 3rd place award at West Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Alvin20082003/EarningsAI
+demo_url: null
+video_url: https://www.youtube.com/embed/mMz6us66Plc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/645/083/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - groq
+  - javascript
+  - python
+builders:
+  - name: Alvin Official
+  - name: JENNA THERESE

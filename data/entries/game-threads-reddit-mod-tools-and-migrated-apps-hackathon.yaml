@@ -1,0 +1,14 @@
+id: game-threads-reddit-mod-tools-and-migrated-apps-hackathon
+project_id: game-threads
+hackathon_id: reddit-mod-tools-and-migrated-apps-hackathon
+submission_url: https://devpost.com/software/mlb-game-threads
+source:
+  platform: devpost
+  url: https://devpost.com/software/mlb-game-threads
+awards:
+  - type: honorable-mention
+    title: Best Ported Data API App Honorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: split-or-steal
+name: SPLIT OR STEAL
+slug: split-or-steal
+tagline: A high-stakes multiplayer Prisoner's Dilemma. You have exactly two minutes to convince a
+  stranger, a friend, or a manipulative AI to share the wealth before tim
+summary: SPLIT OR STEAL received the Creative Content Award award at Build with MeDo Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/17zMlHCnCk8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/688/916/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Prajjawal Vaishya

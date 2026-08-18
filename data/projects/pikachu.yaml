@@ -1,0 +1,19 @@
+id: pikachu
+name: Pikachu
+slug: pikachu
+tagline: N/A
+summary: Pikachu received the Honorable Mentions! award at SWECCathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/careycc6/Project-Pikachu
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: careycc6 Chiu
+  - name: EdogawaVocab Rizwan

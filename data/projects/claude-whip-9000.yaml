@@ -1,0 +1,23 @@
+id: claude-whip-9000
+name: Claude Whip 9000
+slug: claude-whip-9000
+tagline: Whip your Claude Code into shape!
+summary: "Claude Whip 9000 received the Hack the 6ix: Peoples' Choice Award award at Hack the 6ix
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Dolev497/Claude-Whip-9000
+demo_url: null
+video_url: https://www.youtube.com/embed/g38tSgC2KNA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/933/455/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - esp32
+  - python
+builders:
+  - name: Dolev Klein
+  - name: Pooria Roy

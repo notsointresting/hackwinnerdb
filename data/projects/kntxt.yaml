@@ -1,0 +1,20 @@
+id: kntxt
+name: Kntxt
+slug: kntxt
+tagline: Encrypted P2P collaboration with a local AI heartbeat—no accounts, no servers, no leaks.
+summary: Kntxt received the Tickets to TechBBQ award at RoyalHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mirekondro/Kntxt
+demo_url: null
+video_url: https://www.youtube.com/embed/DI1980_4uAo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/036/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - rust
+builders:
+  - name: Miroslav Ondroušek
+  - name: Tomáš Dračka

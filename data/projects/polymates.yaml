@@ -1,0 +1,23 @@
+id: polymates
+name: Polymates
+slug: polymates
+tagline: Polymarket for your group chat. Friends bet virtual points on Yes/No questions, submit
+  evidence, and an AI judge delivers a sarcastic verdict.
+summary: Polymates received the First Place Prize award at 2026 DevSoc Halftime Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/YamacYurtsever/Polymates
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/687/026/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Arsen Nurkenov
+  - name: Yamac Yurtsever
+  - name: Lau >_<
+  - name: Benjamin Tay

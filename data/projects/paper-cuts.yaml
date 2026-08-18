@@ -1,0 +1,27 @@
+id: paper-cuts
+name: Paper Cuts
+slug: paper-cuts
+tagline: Empowering the next generation of builders, thinkers, and dreamers by bringing back play
+summary: Paper Cuts received the GRAND PRIZE - Ddoski's Playground Track award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Jeremyliu-621/paper-cuts
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/804/075/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - openai
+  - python
+  - pytorch
+  - react
+  - redis
+  - stable-diffusion
+builders:
+  - name: Jeremy Liu
+  - name: Caellum Yip Hoi - Lee
+  - name: Chloe Houvardas

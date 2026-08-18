@@ -1,0 +1,28 @@
+id: saynario
+name: Saynario
+slug: saynario
+tagline: Voice-first AI roleplay for real-world language practice with instant fluency feedback.
+summary: Saynario received the [MLH] Best Use of ElevenLabs award at HackPrinceton Spring '26 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jwrightd/Saynario
+demo_url: null
+video_url: https://www.youtube.com/embed/Je2w8DHKhnI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/733/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - docker
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+  - whisper
+builders:
+  - name: James Wright
+  - name: Rocco Zhang
+  - name: aryabh2011
+  - name: Raymond Fu

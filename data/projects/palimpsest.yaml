@@ -1,0 +1,22 @@
+id: palimpsest
+name: Palimpsest
+slug: palimpsest
+tagline: A native iOS app for leaving stories in real places.
+summary: Palimpsest received the Best Presentation award at TritonHacks 26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vamshikrishnaramasamy/Palimpsest/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/VNBV8og0M9w
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - sqlite
+  - swift
+builders:
+  - name: Vamshi Krishna Ramasamy
+  - name: Iyan Siddharth
+  - name: Oliver TW
+  - name: Adrienne He

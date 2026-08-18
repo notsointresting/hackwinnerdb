@@ -1,0 +1,16 @@
+id: amy-hacktech-by-caltech-2026
+project_id: amy
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/feesh
+source:
+  platform: devpost
+  url: https://devpost.com/software/feesh
+awards:
+  - type: category-winner
+    title: IFM x Hacktech - Best Use of K2 Think V2
+  - type: category-winner
+    title: "[MLH] Best Use of Vultr - Portable Screens"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

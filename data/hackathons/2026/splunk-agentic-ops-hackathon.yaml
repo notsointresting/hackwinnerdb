@@ -1,0 +1,14 @@
+id: splunk-agentic-ops-hackathon
+name: Splunk Agentic Ops Hackathon
+slug: splunk-agentic-ops-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://splunk.devpost.com/
+  - https://splunk.devpost.com/project-gallery?filter=winner
+website_url: https://splunk.devpost.com/
+platform: devpost
+participant_count: 2370
+prize_pool: 20000
+currency: USD
+description: "Devpost hackathon: Splunk Agentic Ops Hackathon. Imported automatically."

@@ -1,0 +1,26 @@
+id: athena
+name: Athena
+slug: athena
+tagline: Athena is an AI-powered project brain that turns scattered team knowledge into a live
+  graph, proactively chases updates, and uncovers blockers and contradiction
+summary: Athena received the SIG Track Prize award at The Atlassian X Mistral X AISoc Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kfv1F0-Esc0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/044/368/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mistral
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: xin he
+  - name: Bob Lee
+  - name: NITESH LAKRA
+  - name: Garry Yuan

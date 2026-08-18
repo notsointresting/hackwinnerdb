@@ -1,0 +1,14 @@
+id: uzazi-salama-ai-for-campus-build-with-mlh
+project_id: uzazi-salama
+hackathon_id: ai-for-campus-build-with-mlh
+submission_url: https://devpost.com/software/uzazi-salama
+source:
+  platform: devpost
+  url: https://devpost.com/software/uzazi-salama
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

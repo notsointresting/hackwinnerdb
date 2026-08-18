@@ -1,0 +1,16 @@
+id: life-com-ecu-spark
+project_id: life-com
+hackathon_id: ecu-spark
+submission_url: https://devpost.com/software/life-com
+source:
+  platform: devpost
+  url: https://devpost.com/software/life-com
+awards:
+  - type: second-place
+    title: 2nd Place AWS Track
+  - type: second-place
+    title: 2nd Place Beginner Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

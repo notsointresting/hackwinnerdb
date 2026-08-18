@@ -1,0 +1,14 @@
+id: solanode-ai-hackfest
+project_id: solanode
+hackathon_id: ai-hackfest
+submission_url: https://devpost.com/software/solanode
+source:
+  platform: devpost
+  url: https://devpost.com/software/solanode
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of DigitalOcean"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

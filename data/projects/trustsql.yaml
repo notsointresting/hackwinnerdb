@@ -1,0 +1,23 @@
+id: trustsql
+name: TrustSQL
+slug: trustsql
+tagline: The query executed. The insight didn't. TrustSQL is AI that verifies SQL against your
+  business question, stress-tests joins & filters on live data, scores confi
+summary: TrustSQL received the Honorable Mention award at Enterprise Agents Hackathon by Emergence &
+  Nebius in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/negarmaleki96/TrustSQL
+demo_url: null
+video_url: https://www.youtube.com/embed/8CpCAw5LkLE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - sql
+  - streamlit
+builders:
+  - name: Negar Maleki
+  - name: srinivas J

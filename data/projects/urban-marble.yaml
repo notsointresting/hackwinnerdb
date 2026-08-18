@@ -1,0 +1,22 @@
+id: urban-marble
+name: Urban Marble
+slug: urban-marble
+tagline: Your city, your buildings, your plan, explored on a 3D map
+summary: Urban Marble received the First Place award at DDC x Ignition Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pranavishal/DD-x-Ignition
+demo_url: null
+video_url: https://www.youtube.com/embed/_jXlqPeoFOk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/456/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Dvij Barot
+  - name: HenilDesai01 Desai
+  - name: Yash Sah
+  - name: Pranav Vishal

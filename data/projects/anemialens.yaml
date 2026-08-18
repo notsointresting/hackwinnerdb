@@ -1,0 +1,29 @@
+id: anemialens
+name: AnemiaLens
+slug: anemialens
+tagline: AnemiaLens helps communities notice possible anemia risk earlier through AI-powered
+  smartphone screening, symptom awareness, and safe next-step guidance.
+summary: AnemiaLens received the AI for Health award at ML Empowerment Build Challenge in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Asnanp/AnemiaLens
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/712/546/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - opencv
+  - postgresql
+  - python
+  - pytorch
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Asnan P

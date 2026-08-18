@@ -1,0 +1,22 @@
+id: hydrogrid
+name: HydroGrid
+slug: hydrogrid
+tagline: Every hydrology dataset. One map. Full analysis.
+summary: HydroGrid received the Civil, Environmental, Mining or Petroleum - 1st award at Hacked 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sadat41/HydroGrid
+demo_url: null
+video_url: https://www.youtube.com/embed/wawA9vir_nw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/350/549/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - claude
+  - react
+  - typescript
+builders:
+  - name: Md Sadat Hossain
+  - name: ahmedtan-crypto Ahmedtanov
+  - name: Kai Renschler

@@ -1,0 +1,23 @@
+id: globewial
+name: GlobeWIAL
+slug: globewial
+tagline: GlobeWIAL is a unified global platform for WIAL chapters, coaches, and clients in countries.
+summary: "GlobeWIAL received the Founding Engineer, World Institute of Action Learning award at
+  Women in Computer Science x Opportunity Hack: Spring 2026 Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/14-quadcoders
+demo_url: null
+video_url: https://www.youtube.com/embed/fBR_KLjTAU0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/137/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Abbhijit Venkatachalam
+  - name: Keerthana Sri Muthuraman
+  - name: Shashwat Rao Balaji
+  - name: Swetha Sridharan

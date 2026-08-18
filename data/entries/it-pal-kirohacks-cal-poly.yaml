@@ -1,0 +1,14 @@
+id: it-pal-kirohacks-cal-poly
+project_id: it-pal
+hackathon_id: kirohacks-cal-poly
+submission_url: https://devpost.com/software/it-pal
+source:
+  platform: devpost
+  url: https://devpost.com/software/it-pal
+awards:
+  - type: grand-prize
+    title: 2nd Place Grand Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

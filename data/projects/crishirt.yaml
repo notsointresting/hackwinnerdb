@@ -1,0 +1,24 @@
+id: crishirt
+name: CriShirt
+slug: crishirt
+tagline: Wear your imagination. Your style. Your story. Crishirts.Your ideas. Our AI. Infinite styles.
+summary: CriShirt received the Internship Opportunities award at SUMMER HACKATHON 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UnknownGod2011/crishirt-perfect-corp
+demo_url: null
+video_url: https://www.youtube.com/embed/aKtH_DBFaYA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/774/770/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Tanush Shah
+  - name: Bhargav Malluvajhula

@@ -1,0 +1,24 @@
+id: the-people-s-budget
+name: The People's Budget
+slug: the-people-s-budget
+tagline: For the people. By the people.
+summary: The People's Budget received the Top 2 Teams award at Claude Builders Club @ UC San Diego
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/codewithsid/CivicBudget
+demo_url: null
+video_url: https://www.youtube.com/embed/q-zUvmx2HuI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/652/547/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - openai
+  - python
+builders:
+  - name: Siddhant Bhardwaj
+  - name: Samarth Ghodke

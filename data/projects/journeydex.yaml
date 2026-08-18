@@ -1,0 +1,27 @@
+id: journeydex
+name: JourneyDex
+slug: journeydex
+tagline: Have you felt imposter syndrome? Or wished you could see your progress without needing to
+  perform for anyone. Introducing JourneyDex; a personal productivity ap
+summary: JourneyDex received the 1st place Merrimack FidHacks Winners award at Merrimack FidHacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sofi-le/fidhacks
+demo_url: null
+video_url: https://www.youtube.com/embed/zV02vxAWqcE
+image_url: null
+categories:
+  - fintech
+  - productivity
+  - social-impact
+technologies:
+  - anthropic
+  - javascript
+  - react
+  - supabase
+builders:
+  - name: Sofi Le
+  - name: Vaishnav Das
+  - name: Hanning Lu
+  - name: Anushka Patil

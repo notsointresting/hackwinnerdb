@@ -1,0 +1,14 @@
+id: trendpilot-multimodal-frontier-hackathon
+project_id: trendpilot
+hackathon_id: multimodal-frontier-hackathon
+submission_url: https://devpost.com/software/trendpilot-8ryabi
+source:
+  platform: devpost
+  url: https://devpost.com/software/trendpilot-8ryabi
+awards:
+  - type: winner
+    title: Top Overall Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

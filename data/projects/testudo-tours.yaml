@@ -1,0 +1,22 @@
+id: testudo-tours
+name: Testudo Tours
+slug: testudo-tours
+tagline: A hands-free, voice + head-tracking spatial tour of UMD's campus powered by World Labs
+  Gaussian splat worlds — say a location, look around with your face.
+summary: Testudo Tours received the General award at BigThink x World Labs in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sumi0309/marble-bigthink-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/Ww6_uivhz3g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/603/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Sumiran Jaiswal

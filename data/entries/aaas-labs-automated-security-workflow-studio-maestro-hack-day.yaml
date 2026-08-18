@@ -1,0 +1,26 @@
+id: aaas-labs-automated-security-workflow-studio-maestro-hack-day
+project_id: aaas-labs-automated-security-workflow-studio
+hackathon_id: maestro-hack-day
+submission_url: https://devpost.com/software/aaas-labs-automated-security-workflow-studio
+source:
+  platform: devpost
+  url: https://devpost.com/software/aaas-labs-automated-security-workflow-studio
+awards:
+  - type: other
+    title: Interview Cake Prize
+  - type: other
+    title: Participation - $1339 value
+  - type: other
+    title: Participation & Completion Recognition
+  - type: other
+    title: Participation & Completion Recognition
+  - type: other
+    title: Referral & Community Bonus
+  - type: other
+    title: Swags and Stickers
+  - type: other
+    title: Google Cloud Plano
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

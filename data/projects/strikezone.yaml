@@ -1,0 +1,22 @@
+id: strikezone
+name: StrikeZone
+slug: strikezone
+tagline: Turning footage into ringside analytics
+summary: StrikeZone received the Most Commercially Viable award at Bath Hack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/GyZeXePDPIg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/506/191/datas/gallery.jpg
+categories:
+  - education
+  - gaming
+technologies:
+  - python
+  - react
+builders:
+  - name: Elijah Afriyie
+  - name: aadhav sakthivel
+  - name: Brian Rodrigues
+  - name: Otman Boumnina El Harrak

@@ -1,0 +1,19 @@
+id: the-fridge
+name: The Fridge
+slug: the-fridge
+tagline: Ever deal with scheduling roommate cleaning and chores? The Fridge is a fun, interactive
+  website that helps you remember the house's responsibilities and schedu
+summary: The Fridge received the First Place award at ACM-W X Butterbase Build Night in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/671/298/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+builders:
+  - name: Daniela Casillas
+  - name: Paulina Landry

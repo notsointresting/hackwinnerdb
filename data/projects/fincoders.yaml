@@ -1,0 +1,20 @@
+id: fincoders
+name: FinCoders
+slug: fincoders
+tagline: Finance, Answered! AI-Powered Investing for Everyone
+summary: FinCoders received the Prizes award at LynxHack2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mjzohr/FinCoders.git
+demo_url: null
+video_url: https://www.youtube.com/embed/53PscBNualg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+  - react
+builders:
+  - name: Javad Zohrabi

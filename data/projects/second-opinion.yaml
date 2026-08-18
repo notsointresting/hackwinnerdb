@@ -1,0 +1,20 @@
+id: second-opinion
+name: Second Opinion
+slug: second-opinion
+tagline: A second opinion for suspicious messages — before you click, pay, or share. An AI-powered
+  scam and misinformation checker built for Bangladeshi university stude
+summary: Second Opinion received the 50$ Visa Gift Card award at Build With AI Hack Days @RU in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/robiullahsun687-spec/Second-Opinion
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/799/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: robiullahsun687-spec Evan

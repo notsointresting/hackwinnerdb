@@ -1,0 +1,18 @@
+id: glossplusone-g-plus-1-hack-canada-2026
+project_id: glossplusone-g-plus-1
+hackathon_id: hack-canada-2026
+submission_url: https://devpost.com/software/glossplusone
+source:
+  platform: devpost
+  url: https://devpost.com/software/glossplusone
+awards:
+  - type: second-place
+    title: Second Place Overall
+  - type: other
+    title: SPUR - Build a Real Canadian Startup (Top 3)
+  - type: other
+    title: SPUR - Build a Real Canadian Startup (Top 10)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

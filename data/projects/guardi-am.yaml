@@ -1,0 +1,22 @@
+id: guardi-am
+name: GUARDI.AM
+slug: guardi-am
+tagline: Enter danger safely! GUARD.IAM is a dual-armed exploratory rover that completes missions
+  autonomously. When tricky, take manual MR control via Quest 3 to be the
+summary: GUARDI.AM received the Best Use of AMD Tech award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ROzyc_JLNFc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: Vedant Patkar
+  - name: PhillippGery

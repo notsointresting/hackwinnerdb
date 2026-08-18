@@ -1,0 +1,23 @@
+id: autovision
+name: AutoVision
+slug: autovision
+tagline: A powered robotic arm that is Gemini-enabled, giving it the power analyse an object from
+  multiple angles.
+summary: AutoVision received the Third Place award at Hack the Valley Hack Day  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/toAHYdpgcuI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/024/656/datas/gallery.jpg
+categories:
+  - robotics
+technologies:
+  - arduino
+  - c-plus-plus
+  - python
+  - streamlit
+builders:
+  - name: Abhiram V
+  - name: Kavan Gill
+  - name: Kevin Renjith

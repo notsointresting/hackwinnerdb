@@ -1,0 +1,14 @@
+id: project-garuda-interhackbcn
+project_id: project-garuda
+hackathon_id: interhackbcn
+submission_url: https://devpost.com/software/project-garuda
+source:
+  platform: devpost
+  url: https://devpost.com/software/project-garuda
+awards:
+  - type: second-place
+    title: 2nd price - Qualcomm Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

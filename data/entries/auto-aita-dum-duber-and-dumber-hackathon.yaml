@@ -1,0 +1,14 @@
+id: auto-aita-dum-duber-and-dumber-hackathon
+project_id: auto-aita
+hackathon_id: dum-duber-and-dumber-hackathon
+submission_url: https://devpost.com/software/auto-aita
+source:
+  platform: devpost
+  url: https://devpost.com/software/auto-aita
+awards:
+  - type: other
+    title: 5th place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

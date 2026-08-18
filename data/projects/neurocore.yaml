@@ -1,0 +1,20 @@
+id: neurocore
+name: NeuroCore
+slug: neurocore
+tagline: NeuroCore is a low-power implant chip that tracks how tissue alters TMS signals. It
+  auto-adjusts the TMS frequency to keep therapy precise and safe.
+summary: NeuroCore received the First Place - ASIC award at UofT ASIC Team - IC Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/danielzj05/ttsky-NeuroCore/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/062/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies: []
+builders:
+  - name: Daniel Zheng
+  - name: Michael Lander
+  - name: B1ueed Liu
+  - name: Christoph Kassir

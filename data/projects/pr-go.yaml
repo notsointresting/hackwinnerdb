@@ -1,0 +1,22 @@
+id: pr-go
+name: PR GO
+slug: pr-go
+tagline: "Remember Pokemon GO? Well... we made a worse version! Catch PRs and battle them in order
+  to merge them in. Why? The system on github is too good, there is room "
+summary: "PR GO received the #challengers (not the movie) award at Stupid Ideas Hackathon (Toronto
+  W26) in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/JeffrayZhang/Stupid-hacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/794/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - react
+builders:
+  - name: Jeffray Zhang
+  - name: Arya Holmukhe
+  - name: Liam West

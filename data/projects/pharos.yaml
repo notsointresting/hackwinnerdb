@@ -1,0 +1,28 @@
+id: pharos
+name: Pharos
+slug: pharos
+tagline: "Pharos tells NHS pharmacists which patients need medication review before a climate event
+  kills them. Live UKHSA alerts. Real prescribing data. Zero guesswork. "
+summary: Pharos received the Second Place award at Health in Climate London Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/1337Xcode/pharos
+demo_url: null
+video_url: https://www.youtube.com/embed/jPqOKZvtnys
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/801/372/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - groq
+  - postgresql
+  - python
+  - react
+  - twilio
+  - vercel
+builders:
+  - name: Darshan Chheda
+  - name: SholakeO
+  - name: AcaciaCCC

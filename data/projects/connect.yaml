@@ -1,0 +1,22 @@
+id: connect
+name: Connect
+slug: connect
+tagline: Find Your People. Plan Your Vibe.
+summary: Connect received the First Place award at {eHacks} 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anshuman12321/SIUE
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/072/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Anshuman Mishra
+  - name: Maanav Damaraju
+  - name: Ayman Rahman

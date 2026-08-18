@@ -1,0 +1,23 @@
+id: detask
+name: DeTask
+slug: detask
+tagline: DeTask helps employees prevent burnout via a Chrome extension with daily check-ins.
+  Companies get anonymized team insights - never individual data - enabling be
+summary: DeTask received the 2nd place award at Hack Esbjerg in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JakobPrimdal/DeTask-WebPage
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - java
+  - javascript
+  - react
+  - sql
+builders:
+  - name: Jakob Primdal
+  - name: isma159
+  - name: zhovzan92

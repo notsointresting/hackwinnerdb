@@ -1,0 +1,14 @@
+id: toxigotchi-focus-or-else-ship-in-a-day
+project_id: toxigotchi-focus-or-else
+hackathon_id: ship-in-a-day
+submission_url: https://devpost.com/software/toxigotchi-focus-or-else
+source:
+  platform: devpost
+  url: https://devpost.com/software/toxigotchi-focus-or-else
+awards:
+  - type: second-place
+    title: 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

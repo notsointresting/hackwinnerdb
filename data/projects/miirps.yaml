@@ -1,0 +1,21 @@
+id: miirps
+name: Miirps
+slug: miirps
+tagline: Collect, care, upgrade, and battle.
+summary: Miirps received the Honorable Mentions award at Reddit’s Games with a Hook Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/U4HV9DrBq0M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/888/315/datas/medium.jpg
+categories:
+  - gaming
+technologies:
+  - javascript
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Herman Ptacnik
+  - name: ScoreSpace .

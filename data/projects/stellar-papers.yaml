@@ -1,0 +1,27 @@
+id: stellar-papers
+name: Stellar Papers
+slug: stellar-papers
+tagline: By turning 200,000 research papers into something visual and interactive, this project
+  makes discovering innovation not only easy, but fun!
+summary: Stellar Papers received the [MLH] Best Use of MongoDB Atlas award at HackTCNJ 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AidanS39/atlas
+demo_url: null
+video_url: https://www.youtube.com/embed/5P3BH3XjNpk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/511/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Bryan Wieschenberg
+  - name: Eric Rivera
+  - name: Trevor Van Orden
+  - name: Aidan Stoner

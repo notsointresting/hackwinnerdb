@@ -1,0 +1,18 @@
+id: codolvling
+name: CodoLvling
+slug: codolvling
+tagline: “Don’t just code. Level up your logic.”
+summary: "CodoLvling received the 2nd Prize award at NO//CODE : BUILD CHAOS in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/tusharrr0302/CodoLvling
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/598/011/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+  - react
+builders:
+  - name: Tushar Kumar

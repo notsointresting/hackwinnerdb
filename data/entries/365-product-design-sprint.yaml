@@ -1,0 +1,14 @@
+id: 365-product-design-sprint
+project_id: "365"
+hackathon_id: product-design-sprint
+submission_url: https://devpost.com/software/365-bw12ys
+source:
+  platform: devpost
+  url: https://devpost.com/software/365-bw12ys
+awards:
+  - type: other
+    title: Reward
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

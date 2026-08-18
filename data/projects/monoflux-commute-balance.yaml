@@ -1,0 +1,24 @@
+id: monoflux-commute-balance
+name: MonoFlux Commute Balance
+slug: monoflux-commute-balance
+tagline: Know the real eco-cost of every journey. MonoFlux Commute Balance tracks exact CO2 and smog
+  metrics across all transport modes—giving you real-time data to pick
+summary: MonoFlux Commute Balance received the Best Overall Theme Solution award at DPI CS
+  Innovators Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/RudtSbXXwr4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/064/090/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+builders:
+  - name: Aayush Kachare
+  - name: Lorenzo Canali
+  - name: Srikrishna Janaswamy
+  - name: Ck-3D2Y Kulkarni

@@ -1,0 +1,23 @@
+id: disasterlens-multimodal-damage-assessment
+name: DisasterLens - Multimodal Damage Assessment
+slug: disasterlens-multimodal-damage-assessment
+tagline: DisasterLens fuses 4 sources (Aerial footage, Satellite imagery, field report and parcel
+  data) automatically, surfaces missed damage and delivers a FEMA-ready r
+summary: DisasterLens - Multimodal Damage Assessment received the 2nd Place award at Geospatial
+  Video Intelligence Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/DHARAN656/DiasterLens
+demo_url: null
+video_url: https://www.youtube.com/embed/tbLaLS1sD8w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/419/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Dharan Kunati
+  - name: Ajay Gautam
+  - name: Ushasree Mindala

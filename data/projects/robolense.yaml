@@ -1,0 +1,29 @@
+id: robolense
+name: RoboLense
+slug: robolense
+tagline: Automating Physical AI Training by converting Human Task Videos into Robot Ready Simulations
+summary: RoboLense received the Overall Winner award at Catapult 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RRWRA-Catapult26
+demo_url: null
+video_url: https://www.youtube.com/embed/7C0lr5wJRts
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/805/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - docker
+  - fastapi
+  - opencv
+  - python
+  - pytorch
+  - react
+  - typescript
+  - yolo
+builders:
+  - name: R Quarve
+  - name: Ricky Dong
+  - name: Timur Dayanov
+  - name: Ujjawal Prasad

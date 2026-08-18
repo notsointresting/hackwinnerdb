@@ -1,0 +1,21 @@
+id: rivalmap
+name: RivalMap
+slug: rivalmap
+tagline: An autonomous AI agent that takes a single company URL and delivers a full competitive
+  intelligence report, with zero human intervention.
+summary: RivalMap received the Best Use of Airbyte award at Autonomous Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AlfredSjoqvist/autonomous-agents
+demo_url: null
+video_url: https://www.youtube.com/embed/Ex4qc3HhqR4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/376/920/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - tailwind-css
+  - typescript
+builders:
+  - name: Alfred Sjöqvist

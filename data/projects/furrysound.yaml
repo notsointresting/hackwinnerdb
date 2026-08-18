@@ -1,0 +1,23 @@
+id: furrysound
+name: FurrySound
+slug: furrysound
+tagline: FurrySound is an AI-powered music visualizer and rhythm game that uses real-time audio
+  analysis to make music inclusive and playable for the hearing-impaired
+summary: FurrySound received the UBC CS Project Hub award at cmd-f 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hhdning21/fuzzy-garbanzo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/260/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - gaming
+technologies:
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: 亦菲 侍
+  - name: Kaitlyn Hao

@@ -1,0 +1,24 @@
+id: resonance-app
+name: resonance-app
+slug: resonance-app
+tagline: Resonance pairs Meta's TRIBE v2 brain encoding model with Claude to predict fMRI activation
+  maps from video, audio, images, or text, then explains the results i
+summary: resonance-app received the G305 Mice and Mousepads award at HackUP in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/externalhost0/resonance-app
+demo_url: null
+video_url: https://www.youtube.com/embed/Cx7GZkGdatI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/202/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Hayden Rivas
+  - name: C. Daniel Corzo
+  - name: Daniel Asiamah

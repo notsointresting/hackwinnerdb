@@ -1,0 +1,14 @@
+id: rivalruns-hack-the-valley-hack-day
+project_id: rivalruns
+hackathon_id: hack-the-valley-hack-day
+submission_url: https://devpost.com/software/rivalruns
+source:
+  platform: devpost
+  url: https://devpost.com/software/rivalruns
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

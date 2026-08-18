@@ -1,0 +1,19 @@
+id: waitscape
+name: Waitscape
+slug: waitscape
+tagline: Escape the wait. Create a live collage with strangers.
+summary: "Waitscape received the Track 1: Waiting Rooms, First Place award at CATALYST 2026: UI/UX
+  Designathon in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/q63N5mAepEs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/485/440/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Kaylie Nguyen
+  - name: Anh Hoang

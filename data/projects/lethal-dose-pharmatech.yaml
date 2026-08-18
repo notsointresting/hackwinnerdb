@@ -1,0 +1,21 @@
+id: lethal-dose-pharmatech
+name: Lethal Dose - PharmaTech
+slug: lethal-dose-pharmatech
+tagline: AI-powered toxicity prediction to accelerate safer drug discovery.
+summary: "Lethal Dose - PharmaTech received the 1st Place: LD50 Beginner (Challenge #1) award at
+  PharmaHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/joyannema/pharmahacks.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/054/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Akhila Raj
+  - name: Joyanne Ma
+  - name: Dorra Tray

@@ -1,0 +1,27 @@
+id: overtake
+name: Overtake
+slug: overtake
+tagline: Overtake is a fast-paced AI-powered study game where students upload notes, generate
+  adaptive quizzes, and race friends around a track by answering questions ou
+summary: Overtake received the [Hackathons UK] Best Use of AI Agents on Arm award at DUWiT Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Boshyy/overtake
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/408/838/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - firebase
+  - javascript
+  - react
+builders:
+  - name: amayum Khalid
+  - name: Boshra c
+  - name: Samar Jivraj
+  - name: larasalloum1

@@ -1,0 +1,14 @@
+id: prompt-shield-hack-day-jabalpur-2026
+project_id: prompt-shield
+hackathon_id: hack-day-jabalpur-2026
+submission_url: https://devpost.com/software/prompt-shield-z72map
+source:
+  platform: devpost
+  url: https://devpost.com/software/prompt-shield-z72map
+awards:
+  - type: other
+    title: win
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

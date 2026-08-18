@@ -1,0 +1,26 @@
+id: bowser
+name: Bowser
+slug: bowser
+tagline: Turning rehab into heroic play
+summary: "Bowser received the Google Cloud: Building a Self-Healing World with Google ADK award at
+  HackUSF 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/Akhileshreddym/Bowser
+demo_url: null
+video_url: https://www.youtube.com/embed/aoL0AErGNGM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/517/968/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+builders:
+  - name: Akhilesh Reddy Mallu
+  - name: Shawn Madadha
+  - name: Sai Nandamuri
+  - name: Bailey-Bradley

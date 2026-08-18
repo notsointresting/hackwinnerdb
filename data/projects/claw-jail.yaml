@@ -1,0 +1,24 @@
+id: claw-jail
+name: Claw-Jail
+slug: claw-jail
+tagline: Claw-Jail is an intention-based security dashboard for OpenClaw that allows administrators
+  to secure their network and employees in real time.
+summary: Claw-Jail received the Best AI Safety Hack – AI Safety at UCI award at IrvineHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SeanSan06/claw-jail
+demo_url: null
+video_url: https://www.youtube.com/embed/V5csfWzySO0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/389/079/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Sean San
+  - name: Cole Saldanha
+  - name: Daniel Hurtarte
+  - name: Lien Benedict Jabujab

@@ -1,0 +1,28 @@
+id: romus
+name: Romus
+slug: romus
+tagline: Romus is a real-time lifting coach that tracks your form, flags risky mechanics mid-set,
+  and gives personalized cues for squat, bench, and deadlift so every rep
+summary: Romus received the [MLH] Best Use of Backboard award at Broncohacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/SQeaBrVGxqs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/779/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - anthropic
+  - claude
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+  - vercel
+builders:
+  - name: Nathan Kim
+  - name: Joseph Chong
+  - name: Francis Le
+  - name: matthew tran

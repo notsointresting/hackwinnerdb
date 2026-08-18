@@ -1,0 +1,21 @@
+id: my-au-path
+name: My AU Path
+slug: my-au-path
+tagline: measuring students’ interests and mapping them to university courses/career paths.
+summary: My AU Path received the First Place award at ThunderHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Vikas Saahil
+  - name: Harris Adedeji
+  - name: Bidhan Thapa

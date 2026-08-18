@@ -1,0 +1,23 @@
+id: threaded
+name: threaded.
+slug: threaded
+tagline: "Tired of going through endless websites for clothes? We made our own website that merges
+  stores into a neat list, providing a smooth experience with a built-in "
+summary: threaded. received the Best Use of Vultr award at HACKMESA 2.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ImJunglee/hackmesa
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/087/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Dany Postovyk
+  - name: Max Poll
+  - name: Nicolas Ruiz
+  - name: Ron_Savage

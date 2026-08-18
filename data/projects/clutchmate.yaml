@@ -1,0 +1,22 @@
+id: clutchmate
+name: ClutchMate
+slug: clutchmate
+tagline: "\"Don't Panic. Just Clutch\""
+summary: ClutchMate received the Top 7–10 Projects - Rising Builder Awards award at LovHack Season 2
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Uzumakishraavya/ClutchMate/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/9Br0rkGs-cs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/520/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - flask
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Shraavya Mishra

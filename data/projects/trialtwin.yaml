@@ -1,0 +1,23 @@
+id: trialtwin
+name: TrialTwin
+slug: trialtwin
+tagline: TrialTwin runs Monte Carlo simulations before you recruit to predict who actually enrolls
+  across countries and diseases, flags representation gaps, scores equit
+summary: TrialTwin received the AI Internship award at WaveHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/math12345678/trialtwin
+demo_url: null
+video_url: https://www.youtube.com/embed/6c7NydMU4Ow
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/434/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Smyan Reddy

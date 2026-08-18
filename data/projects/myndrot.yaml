@@ -1,0 +1,19 @@
+id: myndrot
+name: Myndrot
+slug: myndrot
+tagline: A world infested by Myndrot. You are useless. 3 rats start following you. Together you
+  defeat a bunny. Now 3 rats and a bunny follow you. Your journey begins. F
+summary: Myndrot received the Honorable Mentions award at Reddit’s Games with a Hook Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/vlAkDdUr6eI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/905/110/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - typescript
+builders:
+  - name: Flow Meyszies
+  - name: Nemo

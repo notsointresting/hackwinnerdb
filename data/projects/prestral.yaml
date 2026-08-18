@@ -1,0 +1,26 @@
+id: prestral
+name: Prestral
+slug: prestral
+tagline: Presentation software that adapts content to its audience, simplifying complex topics for a
+  broader audience or expanding simple ones with technical depth for g
+summary: Prestral received the 1st Place award at The Atlassian X Mistral X AISoc Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/GW-HUrui9Wo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/044/274/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Muhammmad Bin Mateen
+  - name: Aiden Deuchar
+  - name: Taha Hussain
+  - name: Vansh Pruthi

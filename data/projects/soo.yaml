@@ -1,0 +1,20 @@
+id: soo
+name: Soo
+slug: soo
+tagline: Soo is a kitchen assistant that eliminates cognitive load by transforming static recipes
+  into a frictionless, task-driven workflow for your everyday routine.
+summary: Soo received the 3nd Place award at CU Design-a-thon 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Gturtdz8LHg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/590/352/datas/gallery.jpg
+categories:
+  - productivity
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Thashin Bhuiyan
+  - name: Naziat Chowdhury

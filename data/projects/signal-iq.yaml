@@ -1,0 +1,27 @@
+id: signal-iq
+name: Signal IQ
+slug: signal-iq
+tagline: The AI-native sales agent that turns Nimble's live web search into pipeline. Define your
+  ICP, get scored accounts, real buying signals, and personalized outreac
+summary: Signal IQ received the Nimble - Build an Agentic App That Sees the Live Web award at
+  DeveloperWeek New York 2026 Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/williamcheung/signaliq
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/744/633/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - defi
+technologies:
+  - claude
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - redis
+  - typescript
+builders:
+  - name: William Cheung

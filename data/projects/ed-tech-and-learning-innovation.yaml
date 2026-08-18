@@ -1,0 +1,21 @@
+id: ed-tech-and-learning-innovation
+name: ed tech and learning innovation
+slug: ed-tech-and-learning-innovation
+tagline: It will use the 3d dashboard,ai mentor and many more
+summary: ed tech and learning innovation received the Winners – HackFest 2026 award at HackFest 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kvk17112005/neuron
+demo_url: null
+video_url: https://www.youtube.com/embed/BfRDuF_BH5w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/499/492/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - sql
+  - supabase
+builders:
+  - name: K VARUN Krishna

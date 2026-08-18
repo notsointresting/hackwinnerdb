@@ -1,0 +1,24 @@
+id: spatial-management
+name: Spatial Management
+slug: spatial-management
+tagline: Revolutionizing inventory management with ESP32 trackers using triangulation to give the
+  constant location of valuable goods at a fraction of the price and ener
+summary: Spatial Management received the 3rd place award at Los Altos Hacks X in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/superiorcave/SpatialManagement
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/760/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - c-plus-plus
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Rohan Devnani
+  - name: Prasham Yadothare
+  - name: Eshaan Savanur
+  - name: Yashmit Sunkara

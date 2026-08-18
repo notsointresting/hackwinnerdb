@@ -1,0 +1,27 @@
+id: grid-green
+name: Grid Green
+slug: grid-green
+tagline: Training GPT-3 emitted 552 tons of CO₂. GridGreen estimates your model's footprint from
+  code and suggests lighter models and cleaner hours to run.
+summary: Grid Green received the Cloud track award at DataHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/datahacks-2026/grid-green
+demo_url: null
+video_url: https://www.youtube.com/embed/RwTjxSpgrts
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/267/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - gemini
+  - hugging-face
+  - python
+  - sqlite
+  - typescript
+builders:
+  - name: Sanjana Garimella
+  - name: Priyanka Nidadavolu

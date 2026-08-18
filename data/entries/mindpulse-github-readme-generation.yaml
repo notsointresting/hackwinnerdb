@@ -1,0 +1,14 @@
+id: mindpulse-github-readme-generation
+project_id: mindpulse
+hackathon_id: github-readme-generation
+submission_url: https://devpost.com/software/mindpulse-21it3w
+source:
+  platform: devpost
+  url: https://devpost.com/software/mindpulse-21it3w
+awards:
+  - type: honorable-mention
+    title: Honorable mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: standoff-valley
+name: Standoff Valley
+slug: standoff-valley
+tagline: "CATHacks XII 2026 Annual hackathon submission! Made in 24 hours. Two partner project using
+  an Electron Front-end and a Python-Backend alongside a Socket.io and "
+summary: Standoff Valley received the Rootin Tootin Straight Shootin (Second Overall) award at
+  CatHacks XII in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/X-sist/Standoff-Valley-Repo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/023/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - gemini
+  - python
+builders:
+  - name: Aiden Ruiz
+  - name: Jonathan Ameh

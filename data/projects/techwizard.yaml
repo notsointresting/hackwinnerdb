@@ -1,0 +1,23 @@
+id: techwizard
+name: Techwizard
+slug: techwizard
+tagline: TechWizard is a next-generation digital transformation and IT agency platform designed to
+  bridge the gap between traditional business and modern technology.
+summary: Techwizard received the MLH Stickers+ Swags . award at Hackdays Maa Chandika Convent
+  School  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/vishnukant5129/techwizard
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+  - iot
+  - creative-tools
+technologies:
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: vishnuKant Ray

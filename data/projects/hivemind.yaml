@@ -1,0 +1,26 @@
+id: hivemind
+name: HiveMind
+slug: hivemind
+tagline: Convenient project manager powered by Gemini, integrated with GitHub. It lets teams of
+  developers and engineers easily assign, keep track of, and manage tasks f
+summary: HiveMind received the [MLH] Best Use of MongoDB Atlas award at Hack@URI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KalenShamy/HackURI
+demo_url: null
+video_url: https://www.youtube.com/embed/03fDKOPATuY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/355/513/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - django
+  - gemini
+  - mongodb
+  - typescript
+  - vue
+builders:
+  - name: ririHannah Ritchie
+  - name: Paul Li
+  - name: haibien085
+  - name: Kalen Shamy

@@ -1,0 +1,24 @@
+id: lifesaver
+name: LifeSaver
+slug: lifesaver
+tagline: AI-powered surgical training simulator with real-time hand tracking, voice-guided anatomy,
+  and 32-dim performance vectors learn to operate before you operate.
+summary: LifeSaver received the Second Place Overall award at YHack Spring 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akhilm2223/yale/
+demo_url: null
+video_url: https://www.youtube.com/embed/W6CaKOtUlmw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/506/080/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mongodb
+  - typescript
+builders:
+  - name: Akhil  Mattaparthi
+  - name: Mark Hrytchak
+  - name: Sunghoo Jung
+  - name: Surya Newa

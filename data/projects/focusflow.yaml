@@ -1,0 +1,21 @@
+id: focusflow
+name: FocusFlow
+slug: focusflow
+tagline: Making the web accessible for every mind — one profile at a time.
+summary: FocusFlow received the Best Duo Hack award at DiamondHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jujubesum/diamondhacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/530/182/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - c-plus-plus
+  - javascript
+builders:
+  - name: Emi Yee
+  - name: Jennifer Ju

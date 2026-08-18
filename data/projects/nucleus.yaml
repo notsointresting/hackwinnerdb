@@ -1,0 +1,24 @@
+id: nucleus
+name: Nucleus
+slug: nucleus
+tagline: Nucleus acts as the brain of a hospital, taking care of the busywork and allowing
+  healthcare staff to focus on giving patients the best, most personalized treat
+summary: Nucleus received the 1st Overall award at SoCal Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jacho15/claude-hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/721/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - claude
+  - react
+  - supabase
+builders:
+  - name: Jacob Cho
+  - name: Yash Malode
+  - name: Manas Dalvi
+  - name: Akash Ingle

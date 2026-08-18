@@ -1,0 +1,23 @@
+id: surgy
+name: Surgy
+slug: surgy
+tagline: Feel more. Learn faster. Operate better.
+summary: Surgy received the 1st - Best Overall Hack award at cuHacking7 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/angelo-riv/surgy
+demo_url: null
+video_url: https://www.youtube.com/embed/R0MGOfEdqfY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/442/datas/gallery.jpg
+categories:
+  - education
+  - infrastructure
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+builders:
+  - name: Angelo Rivera
+  - name: richa
+  - name: Manya Hukkoo
+  - name: Talia M

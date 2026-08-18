@@ -1,0 +1,23 @@
+id: roadkill
+name: Roadkill
+slug: roadkill
+tagline: FindMy for Wildlife - Forecasting tool to predict where deer & other wildlife are located
+  to determine WHEN drivers should maintain caution.
+summary: Roadkill received the 3rd Place award at Firehacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/krishayyy/roadkill
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/078/022/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - react
+  - swift
+builders:
+  - name: Kushalappa Theethira
+  - name: Darren Chan
+  - name: Krishay Suresh

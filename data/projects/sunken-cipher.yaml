@@ -1,0 +1,17 @@
+id: sunken-cipher
+name: sunken cipher
+slug: sunken-cipher
+tagline: sunken cipher is a gemini based story teller
+summary: sunken cipher received the Google AI Pro Postcard award at HackDays Delhi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BeanieMen/sunken-cipher
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - typescript
+builders:
+  - name: Aarjav Jain

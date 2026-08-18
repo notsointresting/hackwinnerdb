@@ -1,0 +1,25 @@
+id: wavelength
+name: Wavelength
+slug: wavelength
+tagline: Wavelength is a private social coach for neurodivergent people. It nudges you during
+  conversations if you miss a cue, then breaks down the interaction so you ca
+summary: "Wavelength received the Best UI/UX award at AI for Social Good: Hack with MLH &
+  DigitalOcean in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - react
+  - typescript
+builders:
+  - name: Connor Deng
+  - name: Dnnb
+  - name: Artyadeu

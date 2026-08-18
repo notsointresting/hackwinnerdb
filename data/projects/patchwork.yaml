@@ -1,0 +1,25 @@
+id: patchwork
+name: PatchWork
+slug: patchwork
+tagline: A self-healing execution layer for inventory machinery
+summary: PatchWork received the Best Use of AMD Tech award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/a-yankovs/tinyVLA-debugger
+demo_url: null
+video_url: https://www.youtube.com/embed/W73BK0yeLhE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/673/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - opencv
+  - python
+  - pytorch
+  - streamlit
+builders:
+  - name: Vera Chuang
+  - name: Elias Assalif
+  - name: Alexandra Yankovskaya
+  - name: Diya Bengani

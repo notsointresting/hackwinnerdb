@@ -1,0 +1,19 @@
+id: rain
+name: Rain
+slug: rain
+tagline: A card game that is control by a single input, press SPACE to play the game.
+summary: Rain received the Best Solo Project award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/XinyiWU2024/Rain
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - javascript
+  - react
+builders:
+  - name: wu2024 Wu

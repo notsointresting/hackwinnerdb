@@ -1,0 +1,14 @@
+id: sotonhack
+name: SotonHack
+slug: sotonhack
+organizer: []
+year: 2026
+sources:
+  - https://sotonhack.devpost.com/
+  - https://sotonhack.devpost.com/project-gallery?filter=winner
+website_url: https://sotonhack.devpost.com/
+platform: devpost
+participant_count: 121
+prize_pool: null
+currency: null
+description: "Devpost hackathon: SotonHack. Imported automatically."

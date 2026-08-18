@@ -1,0 +1,23 @@
+id: snappy-ai
+name: Snappy AI
+slug: snappy-ai
+tagline: The floating overlay that brings Scout Vision AI to your desktop. No switching windows.
+  Just instant insight. Accessibility first.
+summary: Snappy AI received the 3-D Pen award at WaveHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/619/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - accessibility
+technologies:
+  - gemini
+  - groq
+  - javascript
+  - typescript
+builders:
+  - name: Navin Majji
+  - name: Arinjay Banerjee

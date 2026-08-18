@@ -1,0 +1,21 @@
+id: outbreak-save-the-rig
+name: "Outbreak: Save The Rig"
+slug: outbreak-save-the-rig
+tagline: Prevent the rig from spilling oil into the ocean or failing, all while fighting off hordes
+  of zombies!
+summary: "Outbreak: Save The Rig received the 1st Place award at Hack For The World 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/mmbar08/HACK26repo.git
+demo_url: null
+video_url: https://www.youtube.com/embed/-50NdPawLVY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/569/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: mmbar08 Barbir
+  - name: Adam Hartung
+  - name: aojunttila

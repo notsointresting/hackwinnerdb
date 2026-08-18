@@ -1,0 +1,21 @@
+id: interactive-robotic-arm-simulator
+name: Interactive Robotic Arm Simulator
+slug: interactive-robotic-arm-simulator
+tagline: A visual, interactive robotic arm sim with forward & inverse kinematics, you can drag the
+  end-effector to a target and watch the arm solve its joint angles in r
+summary: Interactive Robotic Arm Simulator received the Best Robotics Project + $75 worth of credits
+  for Featherless AI award at ClubHacks in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dV0un_btaDc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/097/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Aleena Ali Azeem

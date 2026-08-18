@@ -1,0 +1,26 @@
+id: wallet-guard
+name: Wallet Guard
+slug: wallet-guard
+tagline: Stop impulse purchases before they happen. Wallet Guard is a spatial AI tool that calls you
+  at the right moment, encouraging you to build healthy financial habi
+summary: Wallet Guard received the MLH - Best Use of Solana award at Vandyhacks XII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mbaizhakyp/vandyhacks
+demo_url: null
+video_url: https://www.youtube.com/embed/C4dWjAAijkQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/356/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+  - react
+  - solana
+  - twilio
+builders:
+  - name: Priyanshu Sethi
+  - name: Margulan Baizhakyp

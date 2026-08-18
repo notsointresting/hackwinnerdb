@@ -1,0 +1,16 @@
+id: floodiq-datahacks-2026
+project_id: floodiq
+hackathon_id: datahacks-2026
+submission_url: https://devpost.com/software/floodiq
+source:
+  platform: devpost
+  url: https://devpost.com/software/floodiq
+awards:
+  - type: track-winner
+    title: Entrepreneurship & Product track
+  - type: category-winner
+    title: "Challenge: Most Innovative Idea (Spons. By Basement)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

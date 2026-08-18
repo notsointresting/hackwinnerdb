@@ -1,0 +1,26 @@
+id: fishbowl
+name: FishBowl
+slug: fishbowl
+tagline: FishBowl is a Shark Tank style simulator where founders pitch to three AI Sharks, get tough
+  feedback, and refine their ideas in minutes.
+summary: FishBowl received the AI-Driven Entrepreneurship Track (1st Place) award at HackHayward
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/opdragoboss/3stack
+demo_url: null
+video_url: https://www.youtube.com/embed/nYOJFXnCxbI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/018/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - elevenlabs
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Alvin Chen
+  - name: Ethan Liu
+  - name: Nechar

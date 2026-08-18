@@ -1,0 +1,24 @@
+id: smart-nutrition-intelligence
+name: Smart Nutrition Intelligence
+slug: smart-nutrition-intelligence
+tagline: Snap your meal, know your nutrition, eat smarter.
+summary: Smart Nutrition Intelligence received the 1st Place — Winner award at Build for Impact —
+  CBC Hackathon @ UR-CST in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/jadofils/smart-nutrition
+demo_url: null
+video_url: https://www.youtube.com/embed/u0rVQOn4p4U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/462/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - flask
+builders:
+  - name: jeid12 NIYOKWIZERA
+  - name: "@Salim_Jd_Fils Jado Fils"
+  - name: Gihozo kundwa Pacis
+  - name: Nicole0509 Nicole

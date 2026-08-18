@@ -1,0 +1,21 @@
+id: community-hero-hyperlocal-ai-safety-network
+name: "Community Hero: Hyperlocal AI Safety Network"
+slug: community-hero-hyperlocal-ai-safety-network
+tagline: '"Empowering safer communities through AI-driven real-time reporting, emergency assistance,
+  and instant legal guidance for every citizen."'
+summary: "Community Hero: Hyperlocal AI Safety Network received the Stickers award at Hackdays
+  Prayagraj  in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Khushi-321-codes/Community-Hero-AI/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/Z2_cvIXvQ5M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/857/122/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Khushi Verma

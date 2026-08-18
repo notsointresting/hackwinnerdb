@@ -1,0 +1,25 @@
+id: throughline
+name: Throughline
+slug: throughline
+tagline: "Atlanta serves a child care registry last refreshed in 2021 as current. Throughline
+  measured the drift: 51.9%."
+summary: Throughline received the Best Use of Gemma 4 || Gift card award at Hack RenderATL in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/StephenSook/throughline
+demo_url: null
+video_url: https://www.youtube.com/embed/hB_IVUN7gCo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/092/202/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - llama
+  - python
+  - react
+  - typescript
+builders:
+  - name: Stephen Sookra
+  - name: Khadim Drame

@@ -1,0 +1,23 @@
+id: voyager
+name: Voyager
+slug: voyager
+tagline: Smart booking. Agentic traveling. Effortless expenses. That’s Voyager.
+summary: Voyager received the Lockton award at HackKU26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Gage-Weaver/Voyager
+demo_url: null
+video_url: https://www.youtube.com/embed/sjrUUUdxNwo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/190/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - firebase
+  - javascript
+  - mapbox
+  - python
+  - react
+builders:
+  - name: Carlos Mbendera
+  - name: Om Ghonasgi
+  - name: Gage Weaver

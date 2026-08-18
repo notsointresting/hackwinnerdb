@@ -1,0 +1,26 @@
+id: covenant-iq
+name: Covenant IQ
+slug: covenant-iq
+tagline: Covenant IQ is an AI-powered loan covenant and obligation monitoring platform built for
+  modern commercial lending.
+summary: Covenant IQ received the Theme-Based Track Prizes award at Quantum Sprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nexorax-nk/COVENANT-IQ
+demo_url: null
+video_url: https://www.youtube.com/embed/ESAQ7n7nXQ8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/162/172/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - creative-tools
+technologies:
+  - fastapi
+  - groq
+  - python
+  - react
+  - sqlite
+  - typescript
+  - vercel
+builders:
+  - name: SAIKRISHIVGAR S

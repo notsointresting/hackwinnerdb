@@ -1,0 +1,22 @@
+id: skill-stack
+name: Skill Stack
+slug: skill-stack
+tagline: Hiring relies on unverified claims. Skill Stack assesses skills through live simulations,
+  minting them as Solana NFTs. We turn abstract skills into verifiable p
+summary: Skill Stack received the Razor Kraken V3X Gaming Headset award at HackDartmouth XI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/agrawal-prakhar/skill-stack
+demo_url: null
+video_url: https://www.youtube.com/embed/0beOOJGbOnw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/059/datas/gallery.jpg
+categories:
+  - web3
+technologies:
+  - gemini
+  - react
+  - solana
+  - typescript
+builders:
+  - name: Tasnim Reza Arittra
+  - name: Prakhar Agrawal

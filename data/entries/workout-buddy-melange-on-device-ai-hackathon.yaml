@@ -1,0 +1,14 @@
+id: workout-buddy-melange-on-device-ai-hackathon
+project_id: workout-buddy
+hackathon_id: melange-on-device-ai-hackathon
+submission_url: https://devpost.com/software/workout-buddy-gldae8
+source:
+  platform: devpost
+  url: https://devpost.com/software/workout-buddy-gldae8
+awards:
+  - type: third-place
+    title: Third Price
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

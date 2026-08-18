@@ -1,0 +1,14 @@
+id: careexplainai-color-hacks-plus-northwestern-nsbe
+project_id: careexplainai
+hackathon_id: color-hacks-plus-northwestern-nsbe
+submission_url: https://devpost.com/software/careexplainai
+source:
+  platform: devpost
+  url: https://devpost.com/software/careexplainai
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

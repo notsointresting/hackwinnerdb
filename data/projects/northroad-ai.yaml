@@ -1,0 +1,27 @@
+id: northroad-ai
+name: NorthRoad AI
+slug: northroad-ai
+tagline: NorthRoad AI uses real-time computer vision to detect potholes from dashcam and mobile
+  video, geo-locating hazards to alert drivers instantly and help municipal
+summary: NorthRoad AI received the Winners award at Cursor Hackathon Sudbury in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DeepshikaGhale/NorthRoad-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/834/181/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Suman Humagain
+  - name: Deepshika Ghale

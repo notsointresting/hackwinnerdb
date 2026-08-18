@@ -1,0 +1,21 @@
+id: cyberby-akt
+name: CyberBY_AKT
+slug: cyberby-akt
+tagline: Hardware with software hacks sure.
+summary: CyberBY_AKT received the 1st award at Cyber_Coders in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/818/475/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - iot
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+builders:
+  - name: ankit Tripathi

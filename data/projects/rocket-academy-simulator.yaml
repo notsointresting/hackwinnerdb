@@ -1,0 +1,19 @@
+id: rocket-academy-simulator
+name: Rocket Academy Simulator
+slug: rocket-academy-simulator
+tagline: "This project gives the user the ability to simulate customizable rockets with different
+  conditions and gives the user a grade based on the performance of their "
+summary: Rocket Academy Simulator received the Surprise! award at Code Crush 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/v6wmc78j4h-hue/Rocket-Academy-Simulator
+demo_url: null
+video_url: https://www.youtube.com/embed/0OOu2z_wuzc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/243/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: Mikael Noori
+  - name: Ulugbek Abduraimov

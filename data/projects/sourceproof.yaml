@@ -1,0 +1,23 @@
+id: sourceproof
+name: SourceProof
+slug: sourceproof
+tagline: Digital product passport to combat the urgent demand of EU's ERPS new regulation for the
+  retail industry
+summary: SourceProof received the $200 award at BagelHacks II in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/331/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - docker
+  - react
+  - sqlite
+builders:
+  - name: orlando Qiu
+  - name: Danny Nguyen

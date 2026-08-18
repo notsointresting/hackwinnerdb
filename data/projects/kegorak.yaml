@@ -1,0 +1,19 @@
+id: kegorak
+name: Kegorak
+slug: kegorak
+tagline: "Weak passwords cause most breaches, Xandria-ID Vault fixes this using custom .AADI
+  encrypted container, real-time password scoring, breach risk scanning, and a "
+summary: Kegorak received the KYXGO Community Pioneer Award award at Kyxgo hack by Aditya Rai &
+  Yash  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/HeroOfMyLife/Priv-Focused
+demo_url: null
+video_url: https://www.youtube.com/embed/CfimB0HqppM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/690/621/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Peter Edako

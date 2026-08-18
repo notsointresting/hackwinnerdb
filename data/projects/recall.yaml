@@ -1,0 +1,23 @@
+id: recall
+name: Recall
+slug: recall
+tagline: Recall is a networking memory that runs on your glasses. It captions the conversation,
+  remembers who you met and what they're raising, and hands it back with on
+summary: Recall received the Fintech/Open Track 1st Place award at JacHacks SF in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qy637iMeR_s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/710/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - swift
+builders:
+  - name: Aswath Jacob
+  - name: arshmeets Sodhi
+  - name: Umang3211 Sharma
+  - name: Likhith Ramesha

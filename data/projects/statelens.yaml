@@ -1,0 +1,22 @@
+id: statelens
+name: Statelens
+slug: statelens
+tagline: The model-agnostic observation compression layer for UI agents. Turns screenshot streams
+  into compact state events — 40-50% cheaper, up to 100% accurate, drop-i
+summary: Statelens received the Best Acceleration (Tensormesh) award at Uncommon Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zhizhongs/statelens
+demo_url: null
+video_url: https://www.youtube.com/embed/Ew51Oialfvc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/676/905/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - typescript
+builders:
+  - name: Ruotian Wang
+  - name: Mido

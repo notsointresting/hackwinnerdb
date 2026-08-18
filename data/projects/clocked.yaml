@@ -1,0 +1,24 @@
+id: clocked
+name: Clocked
+slug: clocked
+tagline: Clocked is a social accountability app where users set goals, create deadlines, and post
+  proof when they finish.
+summary: Clocked received the Third Prize award at TritonHacks 26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/haytonchang/clocked
+demo_url: null
+video_url: https://www.youtube.com/embed/sn6B8LDtc5M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/326/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - nextjs
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Mark Kenneth Miranda
+  - name: haytonchang Chang

@@ -1,0 +1,22 @@
+id: pre-round-brief
+name: Pre-Round Brief
+slug: pre-round-brief
+tagline: An AI chief-of-staff for hospital physicians, a proactive PromptOpinion agent that delivers
+  a prioritized morning briefing of every patient on the doctor's pane
+summary: Pre-Round Brief received the Honorable Mentions award at Agents Assemble - The Healthcare
+  AI Endgame in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/XkCpb6Kpzfo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/668/109/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - openai
+builders:
+  - name: Domingo Lupo

@@ -1,0 +1,14 @@
+id: anya-iris-hacks-iv
+project_id: anya
+hackathon_id: iris-hacks-iv
+submission_url: https://devpost.com/software/anya-9jsrhq
+source:
+  platform: devpost
+  url: https://devpost.com/software/anya-9jsrhq
+awards:
+  - type: first-place
+    title: 1st Place Overall - $300 in Featherless credits + $250 cash prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

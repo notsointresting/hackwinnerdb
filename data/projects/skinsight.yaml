@@ -1,0 +1,23 @@
+id: skinsight
+name: SkinSight
+slug: skinsight
+tagline: A sudden mole shouldn't leave you guessing for months. With SkinSight, you'll be able to
+  determine the severity of the issue in mere seconds.
+summary: SkinSight received the Best Overall Hack — Second Place award at MacHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anasthecode/SkinSight
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/770/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Anasthecode Abdul Aal
+  - name: S T
+  - name: Jerry Wu
+  - name: Aryan V

@@ -1,0 +1,14 @@
+id: ai-games-hack-days-cuet
+project_id: ai-games
+hackathon_id: hack-days-cuet
+submission_url: https://devpost.com/software/ai-game-u5bk8n
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-game-u5bk8n
+awards:
+  - type: other
+    title: Codex $100 Credit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

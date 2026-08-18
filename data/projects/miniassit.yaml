@@ -1,0 +1,18 @@
+id: miniassit
+name: MiniAssit
+slug: miniassit
+tagline: The cheap, reliable home assistant
+summary: MiniAssit received the Best Hardware Hack award at PantherHack 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ProgrammingwithPI/panther_hacks/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/8E5MnkmN1gE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/578/280/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: Mukhil Kannan

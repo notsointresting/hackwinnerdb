@@ -1,0 +1,20 @@
+id: launch-lab
+name: Launch Lab
+slug: launch-lab
+tagline: One interface to connect 3300+ aspiring rocketeers across the US.
+summary: Launch Lab received the [Palantir] Best Use of Palantir AIP – 1st Place award at Los Altos
+  Hacks X in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/069/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Prisha Sabhnani
+  - name: Harshini Sankar

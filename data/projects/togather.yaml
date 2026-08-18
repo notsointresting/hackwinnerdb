@@ -1,0 +1,22 @@
+id: togather
+name: togather
+slug: togather
+tagline: In the era of social stimulus but decreasing face to face interactions, togather lets you
+  spend your time intentionally with people that matters. We promise tha
+summary: togather received the Swag award at RoyalHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/jiWyYZHd1c8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/357/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - claude
+  - figma
+  - gemini
+builders:
+  - name: Ahmed Nur Nahin Alif

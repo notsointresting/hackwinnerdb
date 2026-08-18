@@ -1,0 +1,20 @@
+id: zotstellations
+name: Zotstellations
+slug: zotstellations
+tagline: Your UCI story doesn't end at graduation, it becomes someone else's north star.
+summary: Zotstellations received the Beginner's Prize award at UCI Design-a-thon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bypE_Odq5wU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/612/664/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Sahana Chockalingam
+  - name: Charlene Au
+  - name: Adina Yeszhanova
+  - name: Charissa Priscilla Wong

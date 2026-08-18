@@ -1,0 +1,16 @@
+id: aegis-nexus-ai-autonomous-security-copilot-nextgenhacks
+project_id: aegis-nexus-ai-autonomous-security-copilot
+hackathon_id: nextgenhacks
+submission_url: https://devpost.com/software/aegis-nexus-ai-autonomous-security-copilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/aegis-nexus-ai-autonomous-security-copilot
+awards:
+  - type: other
+    title: Participation Prize
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

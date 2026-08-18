@@ -1,0 +1,23 @@
+id: threshold
+name: Threshold
+slug: threshold
+tagline: The Bloomberg Terminal for Climate Aid — ML-powered "Days to Threshold" countdowns that
+  route capital to NGOs before a climate disaster occurs.
+summary: Threshold received the AI/ML track award at DataHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/prs-016/CodeBLUE
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/119/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - react
+builders:
+  - name: Jake Wanderer
+  - name: prs016
+  - name: divyansh kanodia
+  - name: RocioSAguirre

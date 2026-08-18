@@ -1,0 +1,26 @@
+id: vheal-ai-smart-hospital-management-system
+name: VHEAL AI — Smart Hospital Management System
+slug: vheal-ai-smart-hospital-management-system
+tagline: Where hospital efficiency meets patient empowerment. Real-time billing transparency, Gemini
+  AI rights advisor, and automated discharge workflows — built for bot
+summary: VHEAL AI — Smart Hospital Management System received the Winner award at HackDays in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Satyamkumark1/vheal-ai.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/548/018/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Satyam Kumar
+  - name: Ishika Verma
+  - name: Manik Verma

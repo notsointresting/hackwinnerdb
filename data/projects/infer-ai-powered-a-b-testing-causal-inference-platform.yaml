@@ -1,0 +1,24 @@
+id: infer-ai-powered-a-b-testing-causal-inference-platform
+name: Infer - AI-Powered A/B Testing & Causal Inference Platform
+slug: infer-ai-powered-a-b-testing-causal-inference-platform
+tagline: Upload your experiment CSV. Get ATE, CUPED, CATE, Bayesian inference & AI-powered business
+  decisions in seconds. No data scientist required.
+summary: Infer - AI-Powered A/B Testing & Causal Inference Platform received the Second Place
+  Overall award at Next Byte Hacks V2 in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/HardikCodes0/INFER-SAAS-PRODUCT
+demo_url: null
+video_url: https://www.youtube.com/embed/8UpU0YY11KU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/706/378/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - groq
+  - python
+  - react
+  - sqlite
+  - tailwind-css
+builders:
+  - name: hardik batra

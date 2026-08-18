@@ -1,0 +1,14 @@
+id: weave-straight-up-hackathon
+project_id: weave
+hackathon_id: straight-up-hackathon
+submission_url: https://devpost.com/software/weave-rqc3do
+source:
+  platform: devpost
+  url: https://devpost.com/software/weave-rqc3do
+awards:
+  - type: category-winner
+    title: Best in Theme Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

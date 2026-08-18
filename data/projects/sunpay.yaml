@@ -1,0 +1,21 @@
+id: sunpay
+name: SunPay
+slug: sunpay
+tagline: Split the payment, not the friendship
+summary: "SunPay received the MLH: Best Use of Auth0 award at Hack the 6ix 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Anth1337/ht6-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/C3x4ziRhD6c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/933/886/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - nextjs
+  - typescript
+builders:
+  - name: Kathy Dong
+  - name: Anthony Stefanuto

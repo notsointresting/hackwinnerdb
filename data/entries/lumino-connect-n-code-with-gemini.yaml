@@ -1,0 +1,16 @@
+id: lumino-connect-n-code-with-gemini
+project_id: lumino
+hackathon_id: connect-n-code-with-gemini
+submission_url: https://devpost.com/software/lumino-17yd2r
+source:
+  platform: devpost
+  url: https://devpost.com/software/lumino-17yd2r
+awards:
+  - type: category-winner
+    title: Best Use Of Gemini API
+  - type: category-winner
+    title: The Execution Award (Best Engineering)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

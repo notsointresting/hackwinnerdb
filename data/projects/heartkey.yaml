@@ -1,0 +1,24 @@
+id: heartkey
+name: HeartKey
+slug: heartkey
+tagline: Duo authentication, but with your heart
+summary: HeartKey received the Best Hardware award at HooHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Chickenandrice/biometric-auth-middleware
+demo_url: null
+video_url: https://www.youtube.com/embed/ouhOHsDaVoU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/925/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - raspberry-pi
+builders:
+  - name: Joey Chen
+  - name: Varun Saxena
+  - name: kyle Luong
+  - name: raymond Wen

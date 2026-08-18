@@ -1,0 +1,23 @@
+id: money-mulling-fraud-detection-system
+name: Money mulling fraud Detection System
+slug: money-mulling-fraud-detection-system
+tagline: Smart Detection, Safer Transactions.
+summary: Money mulling fraud Detection System received the Runner-Up award at Hack Days NIET in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rishabh-verma45/Money_Muling
+demo_url: null
+video_url: https://www.youtube.com/embed/gzFHl3x-YHs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/517/236/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Tejash Agrawal
+  - name: Rishabh Verma
+  - name: Arya Shukla
+  - name: Mahigoyal1308

@@ -1,0 +1,20 @@
+id: buzz-words
+name: Buzz Words
+slug: buzz-words
+tagline: Bee cultured. Bee connected. Buzz Words. Find out what the buzz is all about.
+summary: Buzz Words received the 2nd Place award at DUWiT Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/charlottewong1603/DUWIT-Hacks-2026-Buzz-Words
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/408/883/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: charlottewong1603 Wong
+  - name: Isabelle Martin
+  - name: olive-ia

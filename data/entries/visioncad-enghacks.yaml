@@ -1,0 +1,14 @@
+id: visioncad-enghacks
+project_id: visioncad
+hackathon_id: enghacks
+submission_url: https://devpost.com/software/visioncad
+source:
+  platform: devpost
+  url: https://devpost.com/software/visioncad
+awards:
+  - type: second-place
+    title: Second Place - Per Person On Team
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

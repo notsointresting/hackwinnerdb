@@ -1,0 +1,14 @@
+id: globehack
+name: GlobeHack
+slug: globehack
+organizer: []
+year: 2026
+sources:
+  - https://globehack.devpost.com/
+  - https://globehack.devpost.com/project-gallery?filter=winner
+website_url: https://globehack.devpost.com/
+platform: devpost
+participant_count: 250
+prize_pool: null
+currency: null
+description: "Devpost hackathon: GlobeHack. Imported automatically."

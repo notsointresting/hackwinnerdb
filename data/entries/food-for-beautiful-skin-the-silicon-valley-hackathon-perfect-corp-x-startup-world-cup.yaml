@@ -1,0 +1,14 @@
+id: food-for-beautiful-skin-the-silicon-valley-hackathon-perfect-corp-x-startup-world-cup
+project_id: food-for-beautiful-skin
+hackathon_id: the-silicon-valley-hackathon-perfect-corp-x-startup-world-cup
+submission_url: https://devpost.com/software/food-for-beautiful-skin
+source:
+  platform: devpost
+  url: https://devpost.com/software/food-for-beautiful-skin
+awards:
+  - type: first-place
+    title: 1st Place Winner!
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

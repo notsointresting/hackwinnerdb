@@ -1,0 +1,14 @@
+id: strikezone-bath-hack-2026
+project_id: strikezone
+hackathon_id: bath-hack-2026
+submission_url: https://devpost.com/software/strikezone-vylqht
+source:
+  platform: devpost
+  url: https://devpost.com/software/strikezone-vylqht
+awards:
+  - type: category-winner
+    title: Most Commercially Viable
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

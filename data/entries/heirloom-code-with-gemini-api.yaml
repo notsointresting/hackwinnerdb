@@ -1,0 +1,14 @@
+id: heirloom-code-with-gemini-api
+project_id: heirloom
+hackathon_id: code-with-gemini-api
+submission_url: https://devpost.com/software/heirloom-k3xf5a
+source:
+  platform: devpost
+  url: https://devpost.com/software/heirloom-k3xf5a
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

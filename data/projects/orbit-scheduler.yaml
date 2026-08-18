@@ -1,0 +1,19 @@
+id: orbit-scheduler
+name: Orbit Scheduler
+slug: orbit-scheduler
+tagline: An tool for scheduling satellite passes for ground stations
+summary: Orbit Scheduler received the Best Track 1 award at Codebrew 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jackjiachenli/codebrew-26
+demo_url: null
+video_url: https://www.youtube.com/embed/7SWuXPtVKTM
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - fastapi
+  - nextjs
+  - python
+builders:
+  - name: ricric132 Chen

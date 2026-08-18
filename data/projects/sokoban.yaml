@@ -1,0 +1,21 @@
+id: sokoban
+name: Sokoban
+slug: sokoban
+tagline: "Can an LLM reason about physical space and consequences? Sokoban: push boxes, climb ramps,
+  reach the goal, but one wrong move soft-locks the level. Understand y"
+summary: Sokoban received the Games Track Winner award at SWECCathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jvarzali/Sokoban-Environment
+demo_url: null
+video_url: https://www.youtube.com/embed/3Ie313_Xes8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/727/388/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Savit Pawar
+  - name: Jackson Varzali

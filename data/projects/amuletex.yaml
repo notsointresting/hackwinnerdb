@@ -1,0 +1,19 @@
+id: amuletex
+name: AmuletEX
+slug: amuletex
+tagline: Zero-trust RBAC sandboxing. Chrono-Graveyard intercept. Terminal-only human key. AmuletEX
+  turns AI agent risk on your machine into observable, reversible, mathe
+summary: AmuletEX received the KYXGO Community Pioneer Award award at Kyxgo hack by Aditya Rai &
+  Yash  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/krak-dev/AmuletEX
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/693/871/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+technologies:
+  - rust
+builders: []

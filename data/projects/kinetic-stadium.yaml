@@ -1,0 +1,22 @@
+id: kinetic-stadium
+name: kinetic stadium
+slug: kinetic-stadium
+tagline: Kinetic Stadium uses Gemini AI and live crowd telemetry to orchestrate 50,000+ fans.
+  Eliminate congestion with real-time safety insights, smart concessions, and
+summary: kinetic stadium received the Best Use of Gemini API award at Gemini Hack day  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Programmer-NITIN/kinetic-stadium
+demo_url: null
+video_url: https://www.youtube.com/embed/F8CVam-LLUU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/605/586/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - ar-vr
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Nitin Patidar

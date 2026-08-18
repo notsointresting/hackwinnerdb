@@ -1,0 +1,20 @@
+id: documentation-helper-agent
+name: Documentation helper Agent
+slug: documentation-helper-agent
+tagline: A GitLab Duo AI Agent built for the GitLab Transcend Hackathon, designed to automatically
+  generate clear documentation for any GitLab project.
+summary: "Documentation helper Agent received the Contribute Track: A qualified Merged Merge Request
+  award at GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3i0cpN-tXj4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/780/050/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Esther  S.

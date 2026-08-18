@@ -1,0 +1,23 @@
+id: iaga-sentinel
+name: IAGA Sentinel
+slug: iaga-sentinel
+tagline: "Governance and conformity evidence for AI agents: every action checked against policy and
+  signed into offline-verifiable proof, mapped to the EU AI Act."
+summary: IAGA Sentinel received the Solo Founders / Guglielmo Fonda Grant award at HackRome in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EdoardoBambini/IAGA-Sentinel
+demo_url: null
+video_url: https://www.youtube.com/embed/0BwUb5fazI4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/416/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - python
+  - rust
+  - sqlite
+builders:
+  - name: Edoardo Bambini

@@ -1,0 +1,19 @@
+id: coloc-calcul
+name: Coloc Calcul
+slug: coloc-calcul
+tagline: Coloc Calcul | Budgeting with roommates made easy
+summary: Coloc Calcul received the INTERVIEW FOR EDUQLASSE award at Product Management Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ADGLx/project-management-hackaton
+demo_url: null
+video_url: https://www.youtube.com/embed/2IIckVOkPQU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/446/420/datas/medium.png
+categories:
+  - other
+technologies:
+  - docker
+  - react
+builders:
+  - name: Merrick Marshall
+  - name: Alvaro Gonzalez

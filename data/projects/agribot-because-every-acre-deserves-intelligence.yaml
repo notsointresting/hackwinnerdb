@@ -1,0 +1,32 @@
+id: agribot-because-every-acre-deserves-intelligence
+name: "AgriBot: Because Every Acre Deserves Intelligence"
+slug: agribot-because-every-acre-deserves-intelligence
+tagline: A smart phone line for your farm that uses Google Earth Engine and UC Davis research to
+  instantly translate complex satellite data into simple, expert advice.
+summary: "AgriBot: Because Every Acre Deserves Intelligence received the Best Social Good/Equity
+  project award at SacHacks VII in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/dhairye/AgriBot
+demo_url: null
+video_url: https://www.youtube.com/embed/74glQgRzMxE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/340/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - llama
+  - python
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Himanshu Nimonkar
+  - name: Avni-K Kandya
+  - name: Aman Dwivedi
+  - name: Dhairye Gala

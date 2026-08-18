@@ -1,0 +1,22 @@
+id: ai-publisher
+name: AI-Publisher
+slug: ai-publisher
+tagline: AI-Publisher takes the user's ideas (character name, setting, and plot), and creates an
+  entire book, including an artistic AI-generated cover page. Users can ed
+summary: "AI-Publisher received the First Place award at Creator Colosseum Startup Competition:
+  Student Founders. Real Startups.  in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/ayanhs/Library
+demo_url: null
+video_url: https://www.youtube.com/embed/yCb8UCnzlek
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/822/670/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - react
+builders:
+  - name: Ayan Shukla

@@ -1,0 +1,22 @@
+id: knobbi
+name: knobbi
+slug: knobbi
+tagline: Because curiosity shouldn’t be dangerous
+summary: knobbi received the Sauron Home Security Track award at MakeMIT x Harvard 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/k5NtzphyoIU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/349/899/datas/medium.jpg
+categories:
+  - creative-tools
+technologies:
+  - opencv
+  - python
+  - swift
+builders:
+  - name: Shravika Pendyala
+  - name: Amy Chen
+  - name: Sameen Ahmad
+  - name: Advika Namasivayam

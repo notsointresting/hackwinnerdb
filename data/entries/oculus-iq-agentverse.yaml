@@ -1,0 +1,14 @@
+id: oculus-iq-agentverse
+project_id: oculus-iq
+hackathon_id: agentverse
+submission_url: https://devpost.com/software/oculus-iq-c24feo
+source:
+  platform: devpost
+  url: https://devpost.com/software/oculus-iq-c24feo
+awards:
+  - type: other
+    title: WEB DOMAIN
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

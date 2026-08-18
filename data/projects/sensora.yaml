@@ -1,0 +1,21 @@
+id: sensora
+name: Sensora
+slug: sensora
+tagline: Study sessions shaped by you, for you.
+summary: Sensora received the [Mini Track] Best Beginner Project award at Hack AI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AdrianHautea/Sensora
+demo_url: null
+video_url: https://www.youtube.com/embed/_SV6jQipoL4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+builders:
+  - name: Paolo Benedict Manlapaz
+  - name: Adrian Hautea
+  - name: Laurenz Martinez
+  - name: John Patrick Enerio

@@ -1,0 +1,22 @@
+id: aquifer-watch
+name: Aquifer Watch
+slug: aquifer-watch
+tagline: The problem isn't that the Ogallala is draining. It's that no one can show a county board,
+  in one view, how fast and who's responsible.
+summary: Aquifer Watch received the Tech Swag award at FusionHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Vigneshwarr3/FusionHack_2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/1tYbhSqL86g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/597/533/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Vigneshwar R
+  - name: Rajashekar Reddy Vedire

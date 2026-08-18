@@ -1,0 +1,14 @@
+id: hackup
+name: HackUP
+slug: hackup
+organizer: []
+year: 2026
+sources:
+  - https://hackup.devpost.com/
+  - https://hackup.devpost.com/project-gallery?filter=winner
+website_url: https://hackup.devpost.com/
+platform: devpost
+participant_count: 67
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackUP. Imported automatically."

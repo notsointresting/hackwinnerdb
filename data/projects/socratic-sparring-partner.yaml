@@ -1,0 +1,22 @@
+id: socratic-sparring-partner
+name: Socratic Sparring Partner
+slug: socratic-sparring-partner
+tagline: An AI-powered sparring partner that uses the Socratic method to challenge your assumptions,
+  test your arguments, and help you refine your critical thinking skil
+summary: "Socratic Sparring Partner received the Hack Day I Demoed Stickers award at HackCafe : May
+  Edition in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/gunashfarzaliyev/hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/aUwsDxrrEYg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/716/162/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - docker
+  - gemini
+  - google-cloud
+builders:
+  - name: Gunash Farzaliyev

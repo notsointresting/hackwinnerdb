@@ -1,0 +1,22 @@
+id: hema-ai-smart-startup-builder
+name: Hema AI (Smart Startup Builder)
+slug: hema-ai-smart-startup-builder
+tagline: Hema AI empowers entrepreneurs with AI-driven idea validation, startup planning, UI/UX
+  guidance, and smart development support.
+summary: Hema AI (Smart Startup Builder) received the Best Web Project award at Build the Future
+  with AI — From Code to No-Code in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/732523AD016/smartstartupai
+demo_url: null
+video_url: https://www.youtube.com/embed/rDhBcheIUQw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/836/913/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Hema latha
+  - name: Saranya Saravanan
+  - name: Krishnaveni Pari

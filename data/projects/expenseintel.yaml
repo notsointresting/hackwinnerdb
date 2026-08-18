@@ -1,0 +1,25 @@
+id: expenseintel
+name: ExpenseIntel
+slug: expenseintel
+tagline: Understand your company's expenses easier, faster and smarter.
+summary: ExpenseIntel received the Brim Financial Sub-Challenge 2 award at Claude Builders AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Lil-Chen05/BRIM-ExI
+demo_url: null
+video_url: https://www.youtube.com/embed/DzND6A0OrQM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/543/538/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - javascript
+  - sqlite
+builders:
+  - name: Aditya Sharma
+  - name: Jerry Chen
+  - name: dpbarry Barry
+  - name: Jerry Chen

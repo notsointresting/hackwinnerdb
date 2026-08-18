@@ -1,0 +1,21 @@
+id: awazcommon
+name: AwazCommon
+slug: awazcommon
+tagline: Building the data foundation for AI that understands Pakistan's languages. Contribute text,
+  voice, and documents to help create AI for millions of native speake
+summary: AwazCommon received the Third Prize award at AI for Civic Innovation Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/junaidaslam2006/Awaz
+demo_url: null
+video_url: https://www.youtube.com/embed/PIt-uU_CybI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/219/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - nextjs
+builders:
+  - name: Junaid Ahmad
+  - name: Muhammad Uzair

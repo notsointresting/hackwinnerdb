@@ -1,0 +1,19 @@
+id: stoolum
+name: Stoolum
+slug: stoolum
+tagline: "Estimate liver cirrhosis risk from stool microbiome data: a non-invasive alternative to
+  late-stage detection. Upload metagenomics output and get a probability s"
+summary: Stoolum received the CSC Impact Bronze Award award at CSC Summer Impactathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/timtran7/med
+demo_url: null
+video_url: https://www.youtube.com/embed/Et0J9Bl5aIo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/932/960/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Timothy Tran

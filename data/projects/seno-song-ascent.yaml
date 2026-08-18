@@ -1,0 +1,16 @@
+id: seno-song-ascent
+name: Seno Song Ascent
+slug: seno-song-ascent
+tagline: How well do you hold against senopreet sanjeev john's elite music taste?
+summary: Seno Song Ascent received the Music Track Prize award at senohacks. in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AmoghShrivastava/senohacks.git
+demo_url: null
+video_url: https://www.youtube.com/embed/bGq8W0p_6Fw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/617/datas/gallery.jpg
+categories:
+  - media
+technologies: []
+builders:
+  - name: Amogh Shrivastava

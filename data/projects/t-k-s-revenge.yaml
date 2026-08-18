@@ -1,0 +1,20 @@
+id: t-k-s-revenge
+name: T.K.'s Revenge
+slug: t-k-s-revenge
+tagline: Help T.K. take his revenge on Lenny by defeating Lenny's army of evil robots!
+summary: T.K.'s Revenge received the 2nd Place - Airpods 4th Gen (x1 per member, up to six) award at
+  Knight Hacks - Project Launch 2026 in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/Stevin006/Tk_Revenge
+demo_url: null
+video_url: https://www.youtube.com/embed/i1DoCyYBnj4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/573/583/datas/gallery.jpg
+categories:
+  - robotics
+technologies: []
+builders:
+  - name: Stevin George
+  - name: Sebastian Noel
+  - name: Chris Ho
+  - name: Nicole Bustos

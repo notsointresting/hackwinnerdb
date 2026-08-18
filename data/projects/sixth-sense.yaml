@@ -1,0 +1,19 @@
+id: sixth-sense
+name: Sixth Sense
+slug: sixth-sense
+tagline: AI EYES SEE WITHOUT SIGHT
+summary: Sixth Sense received the AirPod 4 award at HackDartmouth XI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aryav-T/Sixth-Sense
+demo_url: null
+video_url: https://www.youtube.com/embed/duzZIS4N9Io
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/793/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - vercel
+builders:
+  - name: vshank-pedd Peddireddi
+  - name: Aryav Tyagi

@@ -1,0 +1,23 @@
+id: jailbreak-gemma-llm-in-the-education-domain
+name: Jailbreak Gemma LLM in the Education Domain
+slug: jailbreak-gemma-llm-in-the-education-domain
+tagline: "Jailbreaking Gemma 4 E2B models to expose safety gaps in AI lesson planning. Our goal is
+  to highlight developer accountability and urge educators to critically "
+summary: Jailbreak Gemma LLM in the Education Domain received the 2nd Place award at DS6051 Decoding
+  LLMs Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/caroline-kranefuss/lesson_plan_LLM
+demo_url: null
+video_url: https://www.youtube.com/embed/E3a5aQSoUGY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/871/554/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Mason Earp
+  - name: Caroline Kranefuss
+  - name: Grace George
+  - name: Hannah Egl

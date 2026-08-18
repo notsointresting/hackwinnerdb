@@ -1,0 +1,19 @@
+id: givefive
+name: GiveFive
+slug: givefive
+tagline: Kindness, one swipe at a time.
+summary: GiveFive received the Best Design award at Katy Youth Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akaneme/GiveFive
+demo_url: null
+video_url: https://www.youtube.com/embed/5Wm-g6VSfj4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/053/829/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Akshara Mishra
+  - name: akanksha negi

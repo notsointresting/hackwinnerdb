@@ -1,0 +1,25 @@
+id: leettok
+name: LeetTok
+slug: leettok
+tagline: "TikTok for LeetCode: doomscroll your way to a jobThe algorithm learns your goals,
+  interests, and weak spots from watch time/interactions, then recommends coding"
+summary: LeetTok received the Best User Interface Hack award at HackBU in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/x4Kk_tTICfI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/529/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - anthropic
+  - cloudflare
+  - openai
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Michael Bronikowski

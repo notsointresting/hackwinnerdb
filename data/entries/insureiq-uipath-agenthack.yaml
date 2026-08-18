@@ -1,0 +1,16 @@
+id: insureiq-uipath-agenthack
+project_id: insureiq
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/insureiq-1z7q60
+source:
+  platform: devpost
+  url: https://devpost.com/software/insureiq-1z7q60
+awards:
+  - type: category-winner
+    title: Best of UiPath Maestro Case
+  - type: category-winner
+    title: Best Demo / Presentation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

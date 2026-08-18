@@ -1,0 +1,19 @@
+id: autotinder
+name: AutoTinder
+slug: autotinder
+tagline: Saving time swiping, messaging, and scheduling on dating apps with this simple solution
+  that took me 15 hours to code.
+summary: AutoTinder received the Razer Keyboard award at hackTAMS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AidenJohnston/HackTAMS-2026-AutoTinder-
+demo_url: null
+video_url: https://www.youtube.com/embed/lBjdmWWtzAI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/387/072/datas/medium.png
+categories:
+  - other
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Aiden Johnston

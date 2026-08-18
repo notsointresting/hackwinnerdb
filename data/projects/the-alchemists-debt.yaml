@@ -1,0 +1,19 @@
+id: the-alchemists-debt
+name: The Alchemists Debt
+slug: the-alchemists-debt
+tagline: "Our project is a 2d platformer with an alchemist on his death bed who travels through his
+  past to get the elixir of life, there are 5 levels and each level new "
+summary: The Alchemists Debt received the Silver award at hackStoga 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/WangZi621/Hackstoga-2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Mark watts

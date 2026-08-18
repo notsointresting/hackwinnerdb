@@ -1,0 +1,28 @@
+id: duck-typing
+name: Duck Typing
+slug: duck-typing
+tagline: "A LLM-powered rubber duck typing and reacting in physical world. Team #14"
+summary: "Duck Typing received the Anthropic - Build a hardware system that stress-tests what an LLM
+  can actually do when it's embedded in the real world award at HARD MODE: Hardware x AI Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Haoheng-Tang/RubberDucky
+demo_url: null
+video_url: https://www.youtube.com/embed/09ZuUp--xF8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/473/959/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - arduino
+  - claude
+  - elevenlabs
+  - esp32
+  - gemini
+  - javascript
+builders:
+  - name: Kai Zhang
+  - name: Lingdong Huang
+  - name: Yuhan Wang
+  - name: Holden Tang

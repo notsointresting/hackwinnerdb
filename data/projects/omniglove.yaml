@@ -1,0 +1,23 @@
+id: omniglove
+name: OmniGlove
+slug: omniglove
+tagline: Robotic training is slow. OmniGlove fixes this by mirroring 3D hand motion for intuitive
+  real-time control. By capturing natural movement, we generate AI imitat
+summary: OmniGlove received the Best Software Hack award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sultanMEHMET-1/StarkHacks_Assembler
+demo_url: null
+video_url: https://www.youtube.com/embed/dOQ2PlcvWLE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/098/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - esp32
+builders:
+  - name: Ambarish Narayanan
+  - name: Mehmet Mercan
+  - name: Avanish Hebbal
+  - name: Shyam Kumar

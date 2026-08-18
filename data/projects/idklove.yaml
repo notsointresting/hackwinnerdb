@@ -1,0 +1,21 @@
+id: idklove
+name: idklove
+slug: idklove
+tagline: For those who wish they knew more about love.
+summary: idklove received the Honorable Mentions award at FigBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/2ziIWvCeQzM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/421/775/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+  - gemini
+builders:
+  - name: Angelina Cao
+  - name: Gily Yu
+  - name: Joanna Ni
+  - name: Christina Raganit

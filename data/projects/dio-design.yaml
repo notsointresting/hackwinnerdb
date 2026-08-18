@@ -1,0 +1,20 @@
+id: dio-design
+name: Dio Design
+slug: dio-design
+tagline: Virtual Workspace for Designers with Agentic Workflows
+summary: "Dio Design received the Qualcomm Multi‑Device Track: Build Across the Snapdragon
+  Multiverse award at DiamondHacks 2026 in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/Sanjith-Shan/Dio-Design
+demo_url: null
+video_url: https://www.youtube.com/embed/W4uCfYf6KUs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/408/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+builders:
+  - name: Sanjith Shanmugavel

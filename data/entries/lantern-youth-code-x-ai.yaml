@@ -1,0 +1,14 @@
+id: lantern-youth-code-x-ai
+project_id: lantern
+hackathon_id: youth-code-x-ai
+submission_url: https://devpost.com/software/lantern-jm9a5l
+source:
+  platform: devpost
+  url: https://devpost.com/software/lantern-jm9a5l
+awards:
+  - type: category-winner
+    title: Best Original idea (Three teams)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

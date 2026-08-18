@@ -1,0 +1,14 @@
+id: repolens-hack-days-cuet
+project_id: repolens
+hackathon_id: hack-days-cuet
+submission_url: https://devpost.com/software/repolens-uyknfp
+source:
+  platform: devpost
+  url: https://devpost.com/software/repolens-uyknfp
+awards:
+  - type: other
+    title: Codex $100 Credit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

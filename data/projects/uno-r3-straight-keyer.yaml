@@ -1,0 +1,19 @@
+id: uno-r3-straight-keyer
+name: Uno R3 (Straight) Keyer
+slug: uno-r3-straight-keyer
+tagline: Hardware and software configured to create an elementary straight keyer.
+summary: Uno R3 (Straight) Keyer received the Track 1 Winner award at Compton Tech Week 2026
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/600/311/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - arduino
+builders:
+  - name: Andrew Cooper

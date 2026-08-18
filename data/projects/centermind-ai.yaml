@@ -1,0 +1,25 @@
+id: centermind-ai
+name: CenterMind AI
+slug: centermind-ai
+tagline: "A multi-agent system with hybrid shared memory. Planning, Operation, Predictive agents
+  collaborate in real-time. Every incident feeds back enabling progressive "
+summary: CenterMind AI received the CBRE Challenge award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TanviDeore/WeHack-26
+demo_url: null
+video_url: https://www.youtube.com/embed/NlUQg5_0Zq4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/345/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - redis
+builders:
+  - name: Khushi Agrawal
+  - name: Tanvi
+  - name: Harshitha Anto
+  - name: Siddhi Patil

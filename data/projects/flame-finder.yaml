@@ -1,0 +1,20 @@
+id: flame-finder
+name: Flame Finder
+slug: flame-finder
+tagline: Find your flame through a series of self exploration quests!
+summary: Flame Finder received the Wild Experiment award at HuskyHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/imrahnf/husky
+demo_url: null
+video_url: https://www.youtube.com/embed/OOH1CPlwpkc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/638/313/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies:
+  - fastapi
+  - nextjs
+builders:
+  - name: Iman Kamran
+  - name: Omrahn Faqiri

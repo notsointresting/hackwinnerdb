@@ -1,0 +1,21 @@
+id: aloud
+name: Aloud
+slug: aloud
+tagline: Aloud provides eye-controlled communication for people who cannot speak or type. Blinks are
+  converted into phrases that they can use to express their desires an
+summary: Aloud received the Best Overall Hack award at Build the Future with AI — From Code to
+  No-Code in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/devadit1515/aloud
+demo_url: null
+video_url: https://www.youtube.com/embed/5cw96FgeBis
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/602/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - vercel
+builders:
+  - name: Devadit Jain

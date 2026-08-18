@@ -1,0 +1,24 @@
+id: ieprep
+name: IEPrep
+slug: ieprep
+tagline: Individualized Education Meets Intelligent Automation.
+summary: IEPrep received the 2nd Place award at AI for Learning & Development Build Challenge — AI
+  Collective HR + Regent in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/alagumuthu80/ieprep
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/382/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - claude
+  - react
+  - typescript
+builders:
+  - name: Alagumuthu Bagirathan
+  - name: Michelle Langford
+  - name: Gail Daher

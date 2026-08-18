@@ -1,0 +1,19 @@
+id: rta
+name: Rta
+slug: rta
+tagline: You qualify for more than you think. Rta finds every government benefit you're eligible
+  for, helps you apply in your language, and makes sure you never miss a r
+summary: Rta received the 2nd Place – Serverless Solutions award at AWSHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vinisha231/AWS-Hacks-2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - govtech
+technologies: []
+builders:
+  - name: Vinisha Bala Dhayanidhi
+  - name: Arshitha231 Bala Dhayanidhi
+  - name: Harshita RV

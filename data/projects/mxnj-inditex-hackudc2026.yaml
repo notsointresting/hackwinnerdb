@@ -1,0 +1,22 @@
+id: mxnj-inditex-hackudc2026
+name: MXNJ-inditex-HackUDC2026
+slug: mxnj-inditex-hackudc2026
+tagline: Open-source fashion AI that looks at a photo and finds every garment in a 27k-product
+  catalogue — 69.66% Recall@15, zero closed APIs.
+summary: MXNJ-inditex-HackUDC2026 received the GPUL – Mejor uso IA Open Source award at HackUDC 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/miguelplanas/HackUDC2026?tab=readme-ov-file
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/385/538/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Xoel García Maestu
+  - name: miguelplanas
+  - name: Nicolás Aller Ponte
+  - name: jacobo-nu

@@ -1,0 +1,22 @@
+id: smartflashcards
+name: Smartflashcards
+slug: smartflashcards
+tagline: AI-powered flashcard generator that transforms any PDF or image into smart study cards with
+  subject-aware modes for memorization, theory, and problem-solving.
+summary: "Smartflashcards received the Hack Day I Demoed Stickers award at HackCafe : May Edition in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/JoeAlek/smart-flashcards
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - flask
+  - google-ai-studio
+  - javascript
+  - python
+builders:
+  - name: Yusif Ələkbərov

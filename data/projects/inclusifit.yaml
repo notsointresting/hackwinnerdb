@@ -1,0 +1,21 @@
+id: inclusifit
+name: InclusiFit
+slug: inclusifit
+tagline: The first adaptive fashion platform for people with disabilities - built with YouCam API
+  for virtual try-on, smart filters, and voice navigation in one experien
+summary: "InclusiFit received the 2nd Place Winner! award at The Silicon Valley Hackathon: Perfect
+  Corp x Startup World Cup in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Tasfia-17/Inclusift.git
+demo_url: null
+video_url: https://www.youtube.com/embed/vZZWc63gPTU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/648/660/datas/gallery.jpg
+categories:
+  - accessibility
+  - productivity
+  - ar-vr
+technologies:
+  - javascript
+builders:
+  - name: Tasfia  Chowdhury

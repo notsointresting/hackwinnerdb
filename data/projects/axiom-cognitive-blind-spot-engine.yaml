@@ -1,0 +1,25 @@
+id: axiom-cognitive-blind-spot-engine
+name: AXIOM — Cognitive Blind Spot Engine
+slug: axiom-cognitive-blind-spot-engine
+tagline: Four specialized AI agents debate your startup idea or thesis in real time, exposing hidden
+  assumptions before the market, a VC, or reality finds them first.
+summary: AXIOM — Cognitive Blind Spot Engine received the Top 100 Finalist Award award at FutureAI
+  Global Hackathon 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/AmitK241/Axiom
+demo_url: null
+video_url: https://www.youtube.com/embed/6WL1l-k_rlo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/851/476/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - langchain
+  - python
+  - react
+  - vercel
+builders:
+  - name: Amit Kumar

@@ -1,0 +1,25 @@
+id: tactical-momentum-tracker
+name: Tactical Momentum Tracker
+slug: tactical-momentum-tracker
+tagline: Tactical Momentum Tracker is a real-time sports analytics platform designed to detect,
+  quantify, provides tactical insights, calculates dynamic victory probabil
+summary: Tactical Momentum Tracker received the Best App Deployed on Google Cloud award at Build
+  with Gemini in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/masbroustudio/tactical-tracker-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/KE5XkrcJNMc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/645/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - fastapi
+  - firebase
+  - gemini
+  - google-cloud
+  - python
+builders:
+  - name: yudha e

@@ -1,0 +1,24 @@
+id: roadcaster
+name: RoadCaster
+slug: roadcaster
+tagline: A 3D highway driving game that uses NLP, NLG, and TTS to transform gameplay events into
+  dynamic FIFA-style live commentary, turning every close call into a stor
+summary: RoadCaster received the Best Beginner Project award at LingHacks VII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/PoseidonProMax/RoadCaster
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/556/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - flask
+  - javascript
+  - python
+  - pytorch
+builders:
+  - name: Abhinav K

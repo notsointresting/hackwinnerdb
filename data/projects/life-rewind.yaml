@@ -1,0 +1,23 @@
+id: life-rewind
+name: Life Rewind
+slug: life-rewind
+tagline: Life Rewind is a Gemini 3–powered autonomous AI agent that reconstructs verified timelines
+  from messy multimodal evidence while exposing gaps, contradictions, a
+summary: Life Rewind received the Google Swag award at Hackalot HMA – Clash of Code in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Noufalthecoder/Life-Rewind
+demo_url: null
+video_url: https://www.youtube.com/embed/Q7zzwy6vXPU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/255/175/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - nextjs
+  - react
+  - typescript
+builders:
+  - name: MOHAMMED NOUFAL V IT
+  - name: TARUNIKA BALAJI CSBS

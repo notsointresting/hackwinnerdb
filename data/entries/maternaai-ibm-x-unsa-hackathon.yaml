@@ -1,0 +1,23 @@
+id: maternaai-ibm-x-unsa-hackathon
+project_id: maternaai
+hackathon_id: ibm-x-unsa-hackathon
+submission_url: https://devpost.com/software/maternaai
+source:
+  platform: devpost
+  url: https://devpost.com/software/maternaai
+awards:
+  - type: other
+    title: Coffee Chat with IBM Leader - Ashar Azmat - Senior Technical Consultant at IBM | TPO | Adobe
+      & MarTech
+  - type: other
+    title: Coffee Chat with Asma Ahmed (IBM Z Sheridan President and Founder of UNSA Sheridan)
+  - type: other
+    title: Coffee Chat with IBM Leader - Lucas Sahn - IBM Z Skills Program Manager - NA Skills Leader
+  - type: other
+    title: Top 10 Teams
+  - type: category-winner
+    title: Best Women Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

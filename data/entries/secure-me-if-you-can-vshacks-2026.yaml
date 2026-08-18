@@ -1,0 +1,14 @@
+id: secure-me-if-you-can-vshacks-2026
+project_id: secure-me-if-you-can
+hackathon_id: vshacks-2026
+submission_url: https://devpost.com/software/secure-me-if-you-can
+source:
+  platform: devpost
+  url: https://devpost.com/software/secure-me-if-you-can
+awards:
+  - type: category-winner
+    title: Most Creative
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

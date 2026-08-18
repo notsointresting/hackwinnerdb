@@ -1,0 +1,20 @@
+id: clue-less
+name: Clue-Less
+slug: clue-less
+tagline: Benchmarking LLM's abilities and approaches towards solving a non-deterministic cryptic
+  puzzle called MinuteCryptic.
+summary: Clue-Less received the Honorable Mentions! award at SWECCathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dIePhADUZOA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Aashi Juneja
+  - name: Achintya72 Agrawal

@@ -1,0 +1,14 @@
+id: income-firewall-wichacks-26
+project_id: income-firewall
+hackathon_id: wichacks-26
+submission_url: https://devpost.com/software/income-firewall
+source:
+  platform: devpost
+  url: https://devpost.com/software/income-firewall
+awards:
+  - type: category-winner
+    title: "Capital One: Best Financial Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

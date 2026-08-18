@@ -1,0 +1,23 @@
+id: parliment-watch
+name: Parliment Watch
+slug: parliment-watch
+tagline: Most Canadians are not informed on the many bills being debated in parliament. Parliament
+  Watch helps solve this. We use AI to summarize bills, suggest bills tr
+summary: Parliment Watch received the Claude Merch award at Claude Builder Club Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shilojeyaraj/Claudebuilderweekend
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/424/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Graydon Power
+  - name: Shilo Jeyarajasingam

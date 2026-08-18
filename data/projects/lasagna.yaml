@@ -1,0 +1,25 @@
+id: lasagna
+name: Lasagna
+slug: lasagna
+tagline: A visualizer/building platform for classical and quantum ML models. Users can create models
+  in a graph format to generate working PyTorch/PennyLane code and con
+summary: Lasagna received the Best Moonshot Hack - Bitcamp award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EnspikondPlusPlus/bitcamp
+demo_url: null
+video_url: https://www.youtube.com/embed/WIZUFZdRAQU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/559/692/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - pytorch
+  - react
+builders:
+  - name: Ivan Zhang
+  - name: richardzhu255
+  - name: David Sy

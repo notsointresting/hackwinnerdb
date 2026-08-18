@@ -1,0 +1,21 @@
+id: depgraph
+name: DepGraph
+slug: depgraph
+tagline: An LLM agent that investigates your dependency graph-not a version lookup table. Finds
+  CVEs, traces transitive chains, classifies production exposure, and gener
+summary: DepGraph received the Best LinkedIn Post award at JacHacks Spring in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shaileshdev4/depgraph
+demo_url: null
+video_url: https://www.youtube.com/embed/lIaV6WBkGx0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/411/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - python
+  - react
+builders:
+  - name: Shailesh Hawale

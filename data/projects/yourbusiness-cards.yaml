@@ -1,0 +1,23 @@
+id: yourbusiness-cards
+name: yourbusiness.cards
+slug: yourbusiness-cards
+tagline: advertise your digital business in less than 60 seconds.
+summary: yourbusiness.cards received the name.com — Domain Roulette award at DeveloperWeek New York
+  2026 Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ikathuria/yourbusiness.cards
+demo_url: null
+video_url: https://www.youtube.com/embed/ZX2P6XI0GjA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - claude
+  - gemini
+  - nextjs
+  - replicate
+builders:
+  - name: Ishani Kathuria

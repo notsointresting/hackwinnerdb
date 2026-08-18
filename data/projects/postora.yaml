@@ -1,0 +1,24 @@
+id: postora
+name: Postora
+slug: postora
+tagline: Upload once. Let AI create, schedule, and publish content across all your social media
+  platforms automatically.
+summary: Postora received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/382/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - firebase
+  - gemini
+  - nextjs
+  - openai
+  - typescript
+builders:
+  - name: Abdulmalik Abdulrosheed

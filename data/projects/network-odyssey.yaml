@@ -1,0 +1,19 @@
+id: network-odyssey
+name: NETWORK ODYSSEY
+slug: network-odyssey
+tagline: Teach networking principles through an interactive gameplay for users with little to no
+  technical knowledge.
+summary: NETWORK ODYSSEY received the Beginner Track award at Synthesis Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LucyHan118/SYNthesis_Hacks_game
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: Lucy Han
+  - name: Anushka Hada

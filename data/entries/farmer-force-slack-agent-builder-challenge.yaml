@@ -1,0 +1,14 @@
+id: farmer-force-slack-agent-builder-challenge
+project_id: farmer-force
+hackathon_id: slack-agent-builder-challenge
+submission_url: https://devpost.com/software/farmer-force
+source:
+  platform: devpost
+  url: https://devpost.com/software/farmer-force
+awards:
+  - type: category-winner
+    title: Best UX
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,27 @@
+id: neighborfridge
+name: NeighborFridge
+slug: neighborfridge
+tagline: NeighborFridge tracks groceries from receipts, predicts expiration dates, reduces waste,
+  saves money, and gamifies sustainability with tips and leaderboards.
+summary: NeighborFridge received the Figma Make Challenge award at LA Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/NNhaTmYLjwI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/613/776/datas/gallery.jpg
+categories:
+  - sustainability
+  - social-impact
+technologies:
+  - django
+  - figma
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Anthony Le
+  - name: MendezCarl Mendez
+  - name: Sina Ghadimi
+  - name: Shervinsasl

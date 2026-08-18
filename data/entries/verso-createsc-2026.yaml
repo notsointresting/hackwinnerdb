@@ -1,0 +1,14 @@
+id: verso-createsc-2026
+project_id: verso
+hackathon_id: createsc-2026
+submission_url: https://devpost.com/software/verso-ctf4e9
+source:
+  platform: devpost
+  url: https://devpost.com/software/verso-ctf4e9
+awards:
+  - type: honorable-mention
+    title: "Figma Make Track: Honorable Mention"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

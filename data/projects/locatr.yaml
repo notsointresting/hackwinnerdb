@@ -1,0 +1,27 @@
+id: locatr
+name: LOCATR
+slug: locatr
+tagline: Agentic-powered discovery to find your perfect venue.
+summary: LOCATR received the Best Use of Auth0 - Wireless Headphones award at DeerHacks V (2026) in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/deerhacks/LOCATR
+demo_url: null
+video_url: https://www.youtube.com/embed/ad4RxTxqyXM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/567/104/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - langchain
+  - mapbox
+  - python
+  - react
+  - sql
+builders:
+  - name: Marco Anthony Ayuste
+  - name: Ryan Qi
+  - name: Aahir Chakraborty-Saha
+  - name: Adon Ojha

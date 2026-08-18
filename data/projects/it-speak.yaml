@@ -1,0 +1,32 @@
+id: it-speak
+name: it'sPEAK
+slug: it-speak
+tagline: An AI public speaking coach analyzing face, body, and voice to deliver data-driven,
+  context-aware coaching for any audience; helping you present with peak confi
+summary: it'sPEAK received the 2nd Place Team - $100 per team member award at SMU .Hack Enrichment
+  Application Programme 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/maxi-cmyk/it-sPeak
+demo_url: null
+video_url: https://www.youtube.com/embed/p2i9zemDgSw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/018/634/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - nextjs
+  - openai
+  - postgresql
+  - python
+  - react
+  - redis
+  - supabase
+  - whisper
+builders:
+  - name: cshsean Chai
+  - name: max leong
+  - name: coen c
+  - name: Gabriel Tan

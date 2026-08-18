@@ -1,0 +1,25 @@
+id: yachay-lab
+name: Yachay Lab
+slug: yachay-lab
+tagline: The free virtual STEM lab for every student who never had one.
+summary: Yachay Lab received the 2nd Place award at DSH Hacks V1 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/neterfk-coder/Yachay-Lab
+demo_url: null
+video_url: https://www.youtube.com/embed/RL4AON0QbZA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/773/398/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - llama
+  - postgresql
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Arnold Giovanny

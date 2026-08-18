@@ -1,0 +1,14 @@
+id: droughtwatch-gdsc-hackday-build-with-ai-hackathon
+project_id: droughtwatch
+hackathon_id: gdsc-hackday-build-with-ai-hackathon
+submission_url: https://devpost.com/software/droughtwatch
+source:
+  platform: devpost
+  url: https://devpost.com/software/droughtwatch
+awards:
+  - type: category-winner
+    title: Best App for Social Good - Runner Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

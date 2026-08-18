@@ -1,0 +1,23 @@
+id: project-clarias
+name: Project Clarias
+slug: project-clarias
+tagline: Make your farm like a tycoon game
+summary: Project Clarias received the Runner Up Best Pre-University Hack award at Garuda Hacks 7.0
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hexaaagon/project-clarias
+demo_url: null
+video_url: https://www.youtube.com/embed/6KHK4uXvbT0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/914/749/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Muhammad Rafli Putra Persada
+  - name: Frentis Pratama
+  - name: Julian Mifta Yama Fauzan
+  - name: Bagas Dwi Ferdian

@@ -1,0 +1,19 @@
+id: stackphantom
+name: StackPhantom
+slug: stackphantom
+tagline: Voice-first emergency coaching, powered by AI.
+summary: StackPhantom received the GitHub Hack Days Prize award at Horizon STEM Hackthon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ashrit725-beep/Horizon-stem-hackathon-lifeline
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - productivity
+  - iot
+technologies:
+  - openai
+builders:
+  - name: Ashrit Talluri

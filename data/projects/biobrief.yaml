@@ -1,0 +1,22 @@
+id: biobrief
+name: BioBrief
+slug: biobrief
+tagline: BioBrief turns confusing medical lab results into clear, plain-language explanations — in
+  English or Twi — so every patient can understand their health, not jus
+summary: BioBrief received the Anthropic API Credits award at Claude Builder Hackathon, UG in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/maxwell-tebi/biobrief
+demo_url: null
+video_url: https://www.youtube.com/embed/0i_4RS-vEsY
+image_url: null
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: Bernardina Senadza
+  - name: Maxwell Tebi

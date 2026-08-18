@@ -1,0 +1,27 @@
+id: disti11
+name: Disti11
+slug: disti11
+tagline: AI that turns meetings into structured engineering requirements and removes ambiguity
+summary: Disti11 received the Best Use Of ElevenLabs - ElevenLabs award at HackBelfast in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3jkFec3BNuQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+  - sqlite
+  - typescript
+builders:
+  - name: leokelly0 Kelly
+  - name: Isaac Mukiri
+  - name: Michael Salami
+  - name: Mahmood

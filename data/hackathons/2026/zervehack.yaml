@@ -1,0 +1,14 @@
+id: zervehack
+name: ZerveHack
+slug: zervehack
+organizer: []
+year: 2026
+sources:
+  - https://zervehack.devpost.com/
+  - https://zervehack.devpost.com/project-gallery?filter=winner
+website_url: https://zervehack.devpost.com/
+platform: devpost
+participant_count: 2224
+prize_pool: 10000
+currency: USD
+description: "Devpost hackathon: ZerveHack. Imported automatically."

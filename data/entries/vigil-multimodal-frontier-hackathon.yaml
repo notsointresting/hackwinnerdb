@@ -1,0 +1,14 @@
+id: vigil-multimodal-frontier-hackathon
+project_id: vigil
+hackathon_id: multimodal-frontier-hackathon
+submission_url: https://devpost.com/software/vigil-ei6b4l
+source:
+  platform: devpost
+  url: https://devpost.com/software/vigil-ei6b4l
+awards:
+  - type: track-winner
+    title: Best Use of the Railtracks Agentic Framework
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

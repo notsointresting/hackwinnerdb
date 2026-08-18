@@ -1,0 +1,18 @@
+id: carta-clara
+name: Carta Clara
+slug: carta-clara
+tagline: Turns a frightening letter into a calm, plain explanation.
+summary: Carta Clara received the 2nd Place – Building with Bedrock award at AWSHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alexpicon/carta-clara
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+  - swift
+builders:
+  - name: Alexander Picón

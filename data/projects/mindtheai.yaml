@@ -1,0 +1,22 @@
+id: mindtheai
+name: MindTheAI
+slug: mindtheai
+tagline: A Chrome extension that guides responsible AI use. It flags unreliable sources, removes
+  personal data and prompt filler, and nudges users to rethink unnecessary
+summary: MindTheAI received the 1Password Best Security Hack award at cmd-f 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/votqanh/MindTheAI
+demo_url: null
+video_url: https://www.youtube.com/embed/aaD1s-vo5HI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/444/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - figma
+  - javascript
+  - vercel
+builders:
+  - name: Heidi Lantz
+  - name: Anh Vo

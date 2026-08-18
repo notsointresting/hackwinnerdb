@@ -1,0 +1,24 @@
+id: memory-of-the-sun
+name: Memory of the Sun
+slug: memory-of-the-sun
+tagline: Most modern solar panels only convert about 15–20% of sunlight. Our solar panels utilize
+  shape memory alloys to follow the sun without the use of a motor. Cheap
+summary: Memory of the Sun received the Wolfram Award Winners (Opt-in) award at HooHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cloudzia/Solar-Tracker-Hoo-Hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/mCB4suhdVNk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/839/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - python
+  - raspberry-pi
+builders:
+  - name: Hazel Chen
+  - name: Yoonha Lee
+  - name: Jiselle
+  - name: cloudzia

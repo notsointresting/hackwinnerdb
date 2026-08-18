@@ -1,0 +1,21 @@
+id: bluread
+name: BluRead
+slug: bluread
+tagline: Take back ownership of your knowledge consumption. Select specific keywords to filter out
+  articles on the web or videos that you don't need in your life.
+summary: BluRead received the UBC CS Project Hub award at cmd-f 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kassiyett/informed
+demo_url: null
+video_url: https://www.youtube.com/embed/V6v2q49XVNY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/216/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies: []
+builders:
+  - name: Angela Shen
+  - name: Inayat Kang
+  - name: Medha Singh
+  - name: Kassiyet Adilbay

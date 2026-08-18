@@ -1,0 +1,24 @@
+id: ia-studio-a-plus-b-master-control
+name: IA Studio A+B Master Control
+slug: ia-studio-a-plus-b-master-control
+tagline: "Consola de mando profesional para ingeniería de control latente y síntesis visual de
+  ultra-alta fidelidad, potenciada por Gemini 3 Pro para un flujo de trabajo "
+summary: IA Studio A+B Master Control received the Participation Certificate award at CodeNova 2026
+  – National AI & Innovation Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/ericramirez9722-crypto/A-Master-control-
+demo_url: null
+video_url: https://www.youtube.com/embed/rZ8BLfX64W4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/705/694/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+  - webrtc
+builders:
+  - name: Eric Ramirez

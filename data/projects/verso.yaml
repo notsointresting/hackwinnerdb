@@ -1,0 +1,17 @@
+id: verso
+name: Verso
+slug: verso
+tagline: A reading app that grows with you.
+summary: "Verso received the Figma Make Track: Honorable Mention award at CreateSC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/nV_j7AC2nRY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/566/672/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Amrita Arun

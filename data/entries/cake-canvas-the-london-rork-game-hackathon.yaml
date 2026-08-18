@@ -1,0 +1,14 @@
+id: cake-canvas-the-london-rork-game-hackathon
+project_id: cake-canvas
+hackathon_id: the-london-rork-game-hackathon
+submission_url: https://devpost.com/software/cakecanvas
+source:
+  platform: devpost
+  url: https://devpost.com/software/cakecanvas
+awards:
+  - type: second-place
+    title: Fotor 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

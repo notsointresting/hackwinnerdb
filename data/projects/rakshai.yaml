@@ -1,0 +1,21 @@
+id: rakshai
+name: RakshAI
+slug: rakshai
+tagline: Turning Maps into Intelligent Safety Guides.
+summary: RakshAI received the 2nd place overall award at IntelliAI Arena in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/krishhnathakurr0611-hub/RakshAI__Final.git
+demo_url: null
+video_url: https://www.youtube.com/embed/qYsOiGafJAA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/732/235/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - mongodb
+builders:
+  - name: Lav Bhatia
+  - name: Mansi Jain
+  - name: KRISHNA THAKUR

@@ -1,0 +1,23 @@
+id: pokeclanker-9b
+name: PokéClanker 9b
+slug: pokeclanker-9b
+tagline: Forcing a small clanker to watch 49 hours of gameplay, 6 walkthroughs and face a teacher
+  model, all in the quest to become the ultimate Pokémon master.
+summary: "PokéClanker 9b received the Freesolo: Best Model Trained on Freesolo award at Hack the 6ix
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Dmrgn/GeminiPlaysPokemonLive
+demo_url: null
+video_url: https://www.youtube.com/watch?v=Ty_50J84fMY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/936/690/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Daniel Morgan

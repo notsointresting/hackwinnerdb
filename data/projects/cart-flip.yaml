@@ -1,0 +1,20 @@
+id: cart-flip
+name: Cart Flip
+slug: cart-flip
+tagline: Think Twice, Buy Wise
+summary: Cart Flip received the Most Sustainable award at Witathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/087/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Sandra Soby
+  - name: Sereena Soby

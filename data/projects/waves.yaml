@@ -1,0 +1,24 @@
+id: waves
+name: Waves
+slug: waves
+tagline: Hydrawav3 Loop is a gamified recovery companion that turns post-injury and post-surgery
+  rehab into a daily habit patients actually look forward to.
+summary: Waves received the ElevenLabs award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vkarthiky/hydra-flow-loop.git
+demo_url: null
+video_url: https://www.youtube.com/embed/isWJ8IOS2Zc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/676/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - sql
+  - typescript
+builders:
+  - name: Hamitha Viyyapu
+  - name: Karthik Viyyapu
+  - name: ShlokMohanty Mohanty
+  - name: KARTHIK YADAV VIYYAPU

@@ -1,0 +1,14 @@
+id: synthocad-nextgenhacks
+project_id: synthocad
+hackathon_id: nextgenhacks
+submission_url: https://devpost.com/software/synthocad
+source:
+  platform: devpost
+  url: https://devpost.com/software/synthocad
+awards:
+  - type: finalist
+    title: Top 9 Finalists
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

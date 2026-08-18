@@ -1,0 +1,20 @@
+id: aidlens-ai-for-social-good
+name: AidLens - AI for Social Good
+slug: aidlens-ai-for-social-good
+tagline: AidLens is a Gemini-powered multimodal AI that understands text, PDFs, images, and voice
+  input to deliver structured insights and clear, actionable guidance for
+summary: AidLens - AI for Social Good received the Google Swag Kits award at Byte. Hack Days in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Tanya-garg10/AidLens.git
+demo_url: null
+video_url: https://www.youtube.com/embed/9fe02NZZlp4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/380/592/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Tanya Garg

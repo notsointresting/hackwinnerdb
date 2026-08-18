@@ -1,0 +1,18 @@
+id: robopoker
+name: RoboPoker
+slug: robopoker
+tagline: A vision-based robot that analyzes and plays poker in real time.
+summary: RoboPoker received the Squeezable Chicken award at hackTAMS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KaushikDuddala/RoboPoker
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/394/940/datas/gallery.jpg
+categories:
+  - robotics
+technologies:
+  - python
+builders:
+  - name: Advay Kotla
+  - name: Aryan Shah

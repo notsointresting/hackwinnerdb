@@ -1,0 +1,14 @@
+id: colorado-workforce-iq-trustworthy-ai-hackathon
+project_id: colorado-workforce-iq
+hackathon_id: trustworthy-ai-hackathon
+submission_url: https://devpost.com/software/colorado-workforce-iq-platform
+source:
+  platform: devpost
+  url: https://devpost.com/software/colorado-workforce-iq-platform
+awards:
+  - type: winner
+    title: Problem Statement 4 Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

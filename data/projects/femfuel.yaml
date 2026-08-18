@@ -1,0 +1,18 @@
+id: femfuel
+name: FemFuel
+slug: femfuel
+tagline: Because your body changes everyday. So should your food.
+summary: FemFuel received the Google Gemini Swag Kit award at Hack Days at Trent in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/suhaqazi/femfuel
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/015/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - javascript
+  - vercel
+builders:
+  - name: Suha Qazi

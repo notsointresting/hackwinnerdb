@@ -28,7 +28,8 @@ const SECTIONS = [
   {
     title: "Verification",
     body: [
-      "A maintainer opens the source and checks that it names both the project and the award before merging. The date of that check is stored on the entry as checked_at and shown on the project page.",
+      "Records enter the database either through community pull requests or automated discovery of public hackathon galleries. Auto-imported records land with an unverified status (displayed on the site as 'Source pending review') until a maintainer opens the source and verifies that it corroborates both the project and the award.",
+      "Once human-checked, the date of that review is recorded on the entry as checked_at and shown on the project page.",
       "Sources rot. If a link dies, the entry keeps its record and the status can be moved to disputed until a replacement source is found.",
     ],
   },

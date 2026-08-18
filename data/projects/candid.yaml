@@ -1,0 +1,25 @@
+id: candid
+name: Candid
+slug: candid
+tagline: REAL LEGISLATION. REAL BUDGET MODELS. REAL DATA. Know exactly what every ballot measure
+  means for your rent, your taxes, and your neighborhood before you vote.
+summary: Candid received the Best Overall award at IrvineHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kaylazhang07/IrvineHacksCandid
+demo_url: null
+video_url: https://www.youtube.com/embed/BkP_iGvOhsA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/392/539/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - groq
+  - llama
+  - mapbox
+  - postgresql
+  - python
+  - typescript
+builders:
+  - name: Kayla Zhang
+  - name: ishaanijain Ishaani Jain

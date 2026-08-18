@@ -1,0 +1,22 @@
+id: traction
+name: TRACTION
+slug: traction
+tagline: Founders waste days finding beta testers. Traction finds people already discussing your
+  problem, verifies them across LinkedIn and GitHub, then emails, calls, a
+summary: TRACTION received the Agentic AI Track 1st Place award at JacHacks SF in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/mCW-2MeBIL0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/838/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - sqlite
+  - twilio
+builders:
+  - name: Elijah Umana
+  - name: Becky Zhu

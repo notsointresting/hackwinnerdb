@@ -1,0 +1,23 @@
+id: john-deere-track-team-meep
+name: John Deere Track Team MEEP
+slug: john-deere-track-team-meep
+tagline: Sand leveler. Super cool robot with autonomous.
+summary: "John Deere Track Team MEEP received the Track: Best Hardware Hack (John Deere Mechathon)
+  (Honorable Mentions) award at HackIllinois 2026 in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+builders:
+  - name: gpine7 Pineda
+  - name: Irving Narvaez
+  - name: kunalp-2
+  - name: Erick Gutierrez

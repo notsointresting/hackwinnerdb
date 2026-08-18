@@ -1,0 +1,21 @@
+id: minimoto
+name: MiniMoto
+slug: minimoto
+tagline: A high-speed action-arcade roguelike, with cars, explosions, and lots of zombies!
+summary: MiniMoto received the First Place award at Hack-A-Damien in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/coal-rock/minimoto/releases/tag/hackadamien
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/070/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: coal Brazinski
+  - name: Ruby Engelhart
+  - name: Thomas Kita
+  - name: Sam Nava Ocando

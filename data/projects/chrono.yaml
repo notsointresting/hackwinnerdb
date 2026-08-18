@@ -1,0 +1,21 @@
+id: chrono
+name: Chrono
+slug: chrono
+tagline: Chrono is a tool that helps you understand how you experience time by comparing perception
+  with reality.
+summary: Chrono received the Second Place award at FigBuild 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/RY0h6cki00c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/418/513/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: raghav agarwal
+  - name: mateo tann
+  - name: Michael Yen
+  - name: sparsh shah

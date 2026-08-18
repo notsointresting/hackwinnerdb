@@ -1,0 +1,14 @@
+id: code-a-site
+name: Code-A-Site
+slug: code-a-site
+organizer: []
+year: 2026
+sources:
+  - https://codeasite.devpost.com/
+  - https://codeasite.devpost.com/project-gallery?filter=winner
+website_url: https://codeasite.devpost.com/
+platform: devpost
+participant_count: 78
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Code-A-Site. Imported automatically."

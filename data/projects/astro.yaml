@@ -1,0 +1,24 @@
+id: astro
+name: Astro
+slug: astro
+tagline: Transforming flat floor plans into explorable 3D worlds.
+summary: Astro received the Most Likely to Become a Startup award at Hack to the Future in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abtinz/Astro
+demo_url: null
+video_url: https://www.youtube.com/embed/_V5rgec4Sr4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/688/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Sobhan Ranjbar
+  - name: Abtin Zandi
+  - name: Anahita Yekta
+  - name: Bahram Zardosht

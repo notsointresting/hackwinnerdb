@@ -1,0 +1,14 @@
+id: audiate-sdxucsd-agent-hackathon
+project_id: audiate
+hackathon_id: sdxucsd-agent-hackathon
+submission_url: https://devpost.com/software/audiate
+source:
+  platform: devpost
+  url: https://devpost.com/software/audiate
+awards:
+  - type: third-place
+    title: "Track 2: Omnara (3rd place)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: agent-negotitation-platform
+name: Agent Negotitation platform
+slug: agent-negotitation-platform
+tagline: Autonomous AI agents that negotiate deals and settle payments -> no humans required.
+summary: Agent Negotitation platform received the Best Use of Pioneer award at Harness Engineering
+  Hack in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BGejL8APONw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/763/908/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - langchain
+  - python
+  - react
+  - stripe
+builders:
+  - name: Aditya Dawadikar
+  - name: Manjunatha Inti

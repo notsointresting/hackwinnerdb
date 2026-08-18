@@ -1,0 +1,23 @@
+id: roomlens
+name: RoomLens
+slug: roomlens
+tagline: Paste any Zillow or Redfin link. AI renovates every room and generates a navigable 3D world
+  so buyers can walk through their dream home before buying.
+summary: RoomLens received the Best Consumer Product award at BigThink x World Labs in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Gautamagarwal563/bigthinkdemo
+demo_url: null
+video_url: https://www.youtube.com/embed/xQ6N1QUZkI8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - nextjs
+  - react
+builders:
+  - name: Gautamagarwal563 Agarwal
+  - name: Lakshay Sharma
+  - name: javin Ahuja

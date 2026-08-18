@@ -1,0 +1,21 @@
+id: redact
+name: REDACT
+slug: redact
+tagline: Our project is called REDACT — an AI-powered Privacy Intelligence Platform designed to help
+  users understand and reduce their digital exposure.
+summary: REDACT received the Google Swag Kits award at Google Gemini at Acropolis in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akshadaa09/REDACT
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+builders:
+  - name: Akshada Burhanpurkar
+  - name: Anjali Patel

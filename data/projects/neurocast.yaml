@@ -1,0 +1,21 @@
+id: neurocast
+name: NeuroCast
+slug: neurocast
+tagline: An AI-powered neuro-adaptive podcast that generates a unique audio experience based on your
+  current mental state.
+summary: "NeuroCast received the ElevenLabs Sponsor Awards: Best Project Built with ElevenLabs award
+  at NeuroHack Spring 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/kaliu2022/NeuroCast
+demo_url: null
+video_url: https://www.youtube.com/embed/esA8u14UEAc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/508/137/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+builders:
+  - name: Ethan Nguyen

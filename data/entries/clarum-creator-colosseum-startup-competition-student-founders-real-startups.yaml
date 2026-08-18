@@ -1,0 +1,16 @@
+id: clarum-creator-colosseum-startup-competition-student-founders-real-startups
+project_id: clarum
+hackathon_id: creator-colosseum-startup-competition-student-founders-real-startups
+submission_url: https://devpost.com/software/clarum-xzjalo
+source:
+  platform: devpost
+  url: https://devpost.com/software/clarum-xzjalo
+awards:
+  - type: other
+    title: Top 10 Rankings - Mentoring
+  - type: finalist
+    title: Top 100 Finalist Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

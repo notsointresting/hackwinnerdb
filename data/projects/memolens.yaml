@@ -1,0 +1,25 @@
+id: memolens
+name: MemoLens
+slug: memolens
+tagline: Make it post-ready.
+summary: MemoLens received the Photon Track 2nd Place award at USC | Build with Trae and MiniMax  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Zheyuan-Yang/im-recall
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - python
+  - pytorch
+  - react
+  - sql
+  - sqlite
+  - typescript
+builders:
+  - name: Bingjie Zhu
+  - name: Zheyuan Yang

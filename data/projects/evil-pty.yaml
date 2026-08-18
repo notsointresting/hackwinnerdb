@@ -1,0 +1,22 @@
+id: evil-pty
+name: EVIL PTY
+slug: evil-pty
+tagline: Lock it up. Game it out. Win your phone back.
+summary: "EVIL PTY received the Gold: Best Overall award at  HARDWIRED 2026 MUEEC X CISSA in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/QiHan-03/Yeseyesee
+demo_url: null
+video_url: https://www.youtube.com/embed/FkavEFKKrWw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/039/687/datas/gallery.jpg
+categories:
+  - education
+  - iot
+  - gaming
+technologies:
+  - c-plus-plus
+builders:
+  - name: Alex Yoon
+  - name: Tyla Tran
+  - name: quan4211 Hoang
+  - name: Rahul Chitra

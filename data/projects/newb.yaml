@@ -1,0 +1,21 @@
+id: newb
+name: newB
+slug: newb
+tagline: How many good projects never got built because the right team never found each other? newB
+  fixes that. It is a web application that bridges the connection betwe
+summary: "newB received the General Stream: 3rd Place award at AdaHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/FFlap/AdaHacks
+demo_url: null
+video_url: https://www.youtube.com/embed/U1Ow1T2pct8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/049/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Nathan Yan
+  - name: Aashana Dhyani
+  - name: Kori Kozicki

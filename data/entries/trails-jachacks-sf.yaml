@@ -1,0 +1,14 @@
+id: trails-jachacks-sf
+project_id: trails
+hackathon_id: jachacks-sf
+submission_url: https://devpost.com/software/trails-f0w8oc
+source:
+  platform: devpost
+  url: https://devpost.com/software/trails-f0w8oc
+awards:
+  - type: second-place
+    title: Agentic AI Track 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: salmonshield
+name: Salmonshield
+slug: salmonshield
+tagline: Save the salmon!
+summary: Salmonshield received the 1st Place award at WildHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/eitanlebras/emphackfest
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - flask
+  - javascript
+  - openai
+  - python
+builders:
+  - name: vibrantturtle Kansal
+  - name: eitanlebras
+  - name: dripnooblovesyou

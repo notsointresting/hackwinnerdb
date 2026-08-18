@@ -1,0 +1,28 @@
+id: apex-terminal-genai-dev-hackathon
+project_id: apex-terminal
+hackathon_id: genai-dev-hackathon
+submission_url: https://devpost.com/software/tradepilot-charting-ui-options-autopilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/tradepilot-charting-ui-options-autopilot
+awards:
+  - type: other
+    title: Technical Award
+  - type: category-winner
+    title: Best documentation
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - Aniko.ai
+  - type: other
+    title: Special Awards - InterviewCake
+  - type: other
+    title: Participation & Completion Recognition
+  - type: other
+    title: Theme-Based Awards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

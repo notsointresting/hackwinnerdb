@@ -1,0 +1,23 @@
+id: insureiq
+name: InsureIQ
+slug: insureiq
+tagline: See risk before it happens
+summary: InsureIQ received the Best of UiPath Maestro Case award at UiPath AgentHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AstitvaAdrosonic/InsureIQ
+demo_url: null
+video_url: https://www.youtube.com/embed/ByvWGJPtYGU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/843/414/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - langchain
+  - python
+builders:
+  - name: Srajan Gupta
+  - name: Tanya Pakhee
+  - name: Astitva Singh
+  - name: Pragya Jha

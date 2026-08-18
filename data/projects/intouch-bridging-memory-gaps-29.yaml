@@ -1,0 +1,24 @@
+id: intouch-bridging-memory-gaps-29
+name: "InTouch: Bridging Memory Gaps [29]"
+slug: intouch-bridging-memory-gaps-29
+tagline: An AI Agent that allows you to create a synopsis with tags and replies for conversations,
+  to bridge anxiety or memory gaps. Helps you to stay in touch with thos
+summary: "InTouch: Bridging Memory Gaps [29] received the [MLH] Best Use of MongoDB Atlas award at
+  BeachHacks 9.0 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/mawerb
+demo_url: null
+video_url: https://www.youtube.com/embed/icKDnRUncrE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/480/932/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - flask
+  - gemini
+  - mongodb
+  - react
+builders:
+  - name: Maor Barzilay
+  - name: Duckayy

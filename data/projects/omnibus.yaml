@@ -1,0 +1,22 @@
+id: omnibus
+name: Omnibus
+slug: omnibus
+tagline: Omnibus — every bus is already a sensor. We turn a year of RVV telemetry into tomorrow's
+  demand map, and send buses where the timetable doesn't.
+summary: Omnibus received the Third Place award at Hackaburg 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Xentox-Phil/omnibus.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Azamat Tulkinov
+  - name: Tim Tkachenko
+  - name: Rijak Singh
+  - name: Philip Kristen

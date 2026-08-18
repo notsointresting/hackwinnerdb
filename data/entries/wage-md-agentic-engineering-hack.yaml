@@ -1,0 +1,14 @@
+id: wage-md-agentic-engineering-hack
+project_id: wage-md
+hackathon_id: agentic-engineering-hack
+submission_url: https://devpost.com/software/wage-md
+source:
+  platform: devpost
+  url: https://devpost.com/software/wage-md
+awards:
+  - type: category-winner
+    title: Best use of Nimble's API or Web Search Agents
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

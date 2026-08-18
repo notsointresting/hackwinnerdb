@@ -1,0 +1,23 @@
+id: xstream
+name: xStream
+slug: xstream
+tagline: xStream is a permissionless protocol that splits tokenized stocks into dividend and price
+  tokens, enabling separate trading of income and exposure.
+summary: "xStream received the 3rd Prize award at xStocks Hackathon EthCC: Market Open in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/LeoFranklin015/xStream
+demo_url: null
+video_url: https://www.youtube.com/embed/0OsRn6ogFEs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/312/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - solidity
+  - typescript
+builders:
+  - name: Fabian Ferno
+  - name: Romario Kavin.J.R
+  - name: Leo Franklin
+  - name: Sai Ram

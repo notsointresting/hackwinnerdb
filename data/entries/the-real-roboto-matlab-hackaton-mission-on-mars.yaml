@@ -1,0 +1,14 @@
+id: the-real-roboto-matlab-hackaton-mission-on-mars
+project_id: the-real-roboto
+hackathon_id: matlab-hackaton-mission-on-mars
+submission_url: https://devpost.com/software/the-real-roboto
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-real-roboto
+awards:
+  - type: first-place
+    title: First place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

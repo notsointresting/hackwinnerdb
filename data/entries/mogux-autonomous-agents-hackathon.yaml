@@ -1,0 +1,14 @@
+id: mogux-autonomous-agents-hackathon
+project_id: mogux
+hackathon_id: autonomous-agents-hackathon
+submission_url: https://devpost.com/software/mogux
+source:
+  platform: devpost
+  url: https://devpost.com/software/mogux
+awards:
+  - type: category-winner
+    title: Most Innovative Use of Reka's Vision API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

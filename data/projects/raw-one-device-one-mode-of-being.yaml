@@ -1,0 +1,25 @@
+id: raw-one-device-one-mode-of-being
+name: RAW — one device, one mode of being
+slug: raw-one-device-one-mode-of-being
+tagline: People are paying for focus on hardware built against it. Nobody sells them the device.
+summary: RAW — one device, one mode of being received the Track 4 award at DMV Hackathon  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/utopia-models/dmv-hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/024/794/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+  - java
+  - nextjs
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Mueiz Sulieman
+  - name: Tyler Youk

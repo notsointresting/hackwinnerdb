@@ -1,0 +1,21 @@
+id: greenstreak
+name: GreenStreak
+slug: greenstreak
+tagline: Energía que deja huella, sin dejar rastro.
+summary: GreenStreak received the Primer Lugar award at U-Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/_CzHW6Bda5Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/864/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Cruz Franco Edgar Emilio
+  - name: García Gómez Moises Dario
+  - name: Hernández Díaz Fabrizio
+  - name: Angeles Garcia Brandon Jesús

@@ -1,0 +1,14 @@
+id: how-did-i-google-cloud-rapid-agent-hackathon
+project_id: how-did-i
+hackathon_id: google-cloud-rapid-agent-hackathon
+submission_url: https://devpost.com/software/how-did-i
+source:
+  platform: devpost
+  url: https://devpost.com/software/how-did-i
+awards:
+  - type: third-place
+    title: Fivetran - 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

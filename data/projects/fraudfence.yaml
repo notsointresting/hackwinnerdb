@@ -1,0 +1,30 @@
+id: fraudfence
+name: FraudFence
+slug: fraudfence
+tagline: $25B lost annually to food delivery refund fraud. Our 21-layer AI engine combines ELA
+  heatmaps, Gemini Vision, and behavioral scoring to catch fake, altered pho
+summary: FraudFence received the MLH || Best Use of Vultr || Portable Screens award at Hack Indy
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/pate2464/AI-deepfake
+demo_url: null
+video_url: https://www.youtube.com/embed/dAS7fAzHXy8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/765/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - opencv
+  - python
+  - react
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Somya S.
+  - name: Nishad Patel
+  - name: Dhruv Patel
+  - name: Tanay Patel

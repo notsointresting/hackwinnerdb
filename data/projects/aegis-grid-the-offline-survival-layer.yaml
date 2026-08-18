@@ -1,0 +1,23 @@
+id: aegis-grid-the-offline-survival-layer
+name: "AEGIS GRID: The Offline Survival Layer"
+slug: aegis-grid-the-offline-survival-layer
+tagline: Turning smartphones into tactical command centres. AEGIS is a decentralised ecosystem using
+  P2P mesh protocols and AI to orchestrate emergency rescues when trad
+summary: "AEGIS GRID: The Offline Survival Layer received the First Prize – Winner award at
+  WeatherWise Hack in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/batmanven/aegis
+demo_url: null
+video_url: https://www.youtube.com/embed/iMLNX959VTs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/650/511/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - infrastructure
+technologies:
+  - nextjs
+  - react
+  - typescript
+  - webrtc
+builders:
+  - name: Priyansh Narang

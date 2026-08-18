@@ -1,0 +1,19 @@
+id: cybertree-net
+name: CyberTree Net
+slug: cybertree-net
+tagline: CyberTree Net is a smart network of mechanical trees that filters air, saves urban space,
+  and prevents deforestation. It is a powerful leap forward in our missi
+summary: CyberTree Net received the 1st Place Beginner award at FutureHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sikozavrik/CyberTree
+demo_url: null
+video_url: https://www.youtube.com/embed/JMS3p321hrY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/890/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - sustainability
+  - social-impact
+technologies: []
+builders:
+  - name: Сабырхан Серик

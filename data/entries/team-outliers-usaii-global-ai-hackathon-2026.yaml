@@ -1,0 +1,14 @@
+id: team-outliers-usaii-global-ai-hackathon-2026
+project_id: team-outliers
+hackathon_id: usaii-global-ai-hackathon-2026
+submission_url: https://devpost.com/software/team-outliers
+source:
+  platform: devpost
+  url: https://devpost.com/software/team-outliers
+awards:
+  - type: third-place
+    title: Graduate (Masters/Doctoral) Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

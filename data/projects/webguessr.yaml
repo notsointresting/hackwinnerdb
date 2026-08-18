@@ -1,0 +1,25 @@
+id: webguessr
+name: Webguessr
+slug: webguessr
+tagline: Geoguessr but for websites
+summary: Webguessr received the Best use of Cloud Technologies award at GDG Hacks 3 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dxG7nEYrhhY
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - cloudflare
+  - gemini
+  - google-cloud
+  - sqlite
+  - typescript
+builders:
+  - name: William Reid Griffiths
+  - name: Anthony Stevens
+  - name: Jovica Materic

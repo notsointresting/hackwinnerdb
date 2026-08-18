@@ -1,0 +1,24 @@
+id: lot-to-life
+name: Lot To Life
+slug: lot-to-life
+tagline: Chicago has 40,000 unused vacant lots, but zoning blocks community input. Lot-to-Life uses
+  AI to decode land rules and turn neighborhood ideas into proposals al
+summary: Lot To Life received the Depaul Athletics Backpack & Chicago Themed Experience award at
+  DemonHacks in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/bushrayaz/LotToLife-Web
+demo_url: null
+video_url: https://www.youtube.com/embed/C-xv6nZPF_M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/058/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: bushra yazjanova
+  - name: Aruzhan Zhengis
+  - name: Emeloraz
+  - name: Gulbadam95 Rejepova

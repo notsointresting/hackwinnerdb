@@ -1,0 +1,25 @@
+id: pothole-io
+name: Pothole.io
+slug: pothole-io
+tagline: Tired of hidden potholes on your daily drives? Pothole.io turns any vehicle into a smart
+  sensor that detects potholes in real-time with edge AI and auto-maps th
+summary: Pothole.io received the Third Place Prize award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/X1dtfUt5DBY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/212/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+  - javascript
+  - python
+builders:
+  - name: Daniel Li
+  - name: Arjun Pai
+  - name: Arnav Juneja
+  - name: Ariman Anbu

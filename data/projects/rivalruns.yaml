@@ -1,0 +1,20 @@
+id: rivalruns
+name: RivalRuns
+slug: rivalruns
+tagline: A two-player endless runner where your body is the controller.
+summary: RivalRuns received the Second Place award at Hack the Valley Hack Day  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/eesh4n/rivalruns
+demo_url: null
+video_url: https://www.youtube.com/embed/oqcmBjYa3Wo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/024/704/datas/medium.png
+categories:
+  - other
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Kevin Hill
+  - name: Lohitashwa Madhan
+  - name: eeshan Agarwal

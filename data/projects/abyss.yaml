@@ -1,0 +1,24 @@
+id: abyss
+name: Abyss
+slug: abyss
+tagline: AI-powered subsea monitoring that fuses computer vision and telemetry to detect, assess,
+  and explain underwater infrastructure risks in real time.
+summary: Abyss received the 60% Mechanical Keyboard award at HackDays Delhi in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aryan105825/Abyss
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/047/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - infrastructure
+technologies:
+  - gemini
+  - nextjs
+  - postgresql
+  - supabase
+  - tailwind-css
+  - vercel
+builders:
+  - name: Aryan Rajput

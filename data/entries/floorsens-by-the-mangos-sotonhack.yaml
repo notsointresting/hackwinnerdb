@@ -1,0 +1,14 @@
+id: floorsens-by-the-mangos-sotonhack
+project_id: floorsens-by-the-mangos
+hackathon_id: sotonhack
+submission_url: https://devpost.com/software/floorsens-by-the-mangos
+source:
+  platform: devpost
+  url: https://devpost.com/software/floorsens-by-the-mangos
+awards:
+  - type: category-winner
+    title: Best Use of MongoDB Atlas
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

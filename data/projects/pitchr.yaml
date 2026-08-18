@@ -1,0 +1,24 @@
+id: pitchr
+name: Pitchr
+slug: pitchr
+tagline: "Pitchr: Forge Your Pitch"
+summary: Pitchr received the 3rd place award at The Blueprint Hackathon  (For All Ages, July
+  17th-31st) in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Svarna-Shukla/Pitchr
+demo_url: null
+video_url: https://www.youtube.com/embed/yHTl7RLbjp4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/018/557/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Svarna Shukla

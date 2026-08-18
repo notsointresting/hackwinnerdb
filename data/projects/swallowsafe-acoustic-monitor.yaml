@@ -1,0 +1,20 @@
+id: swallowsafe-acoustic-monitor
+name: SwallowSafe-Acoustic-Monitor
+slug: swallowsafe-acoustic-monitor
+tagline: SwallowSafe tracks vocal quality after meals to detect early swallowing disorder signs — on
+  your phone, no data uploaded. Catch it at the table, not the hospita
+summary: SwallowSafe-Acoustic-Monitor received the Best Beginner Hack award at Katy Youth Hacks 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/varshith-2010-3-22/SwallowSafe-Acoustic-Monitor
+demo_url: null
+video_url: https://www.youtube.com/embed/GvQCBw3SAbo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/052/950/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - kotlin
+  - python
+builders:
+  - name: Somula Varshith
+  - name: s chaitra

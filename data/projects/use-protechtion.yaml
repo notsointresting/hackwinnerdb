@@ -1,0 +1,29 @@
+id: use-protechtion
+name: Use Protechtion
+slug: use-protechtion
+tagline: Manually dissecting malware takes hours. Our platform replaces this entire process with a
+  single file upload and an AI agent team that provides results in minut
+summary: "Use Protechtion received the NextEra Energy Challenge: Malware Analysis Challenge award at
+  HackUSF 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/KushagraKatiyar06/useprotech.tion
+demo_url: null
+video_url: https://www.youtube.com/embed/DujEn2ixbS0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/517/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - docker
+  - fastapi
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: Esha Gokulram
+  - name: Kushagra Katiyar
+  - name: Madhurishitha Boddu
+  - name: Abhay Dronavalli

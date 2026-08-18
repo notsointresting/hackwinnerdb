@@ -1,0 +1,25 @@
+id: catcare
+name: CATCare
+slug: catcare
+tagline: Others may rely on AI to fully generate insights, but our approach combines the analytical
+  precision of AI with the field expertise and judgment of the inspecto
+summary: CATCare received the Best Beginner Hack award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/allanluo-illinois/hackIllinois2026
+demo_url: null
+video_url: https://www.youtube.com/embed/MxCjKojcL7c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/387/131/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - flutter
+  - opencv
+  - pytorch
+builders:
+  - name: Duy Anh Hong
+  - name: Ryan Zheng
+  - name: Allan Luo
+  - name: Ethan Wang

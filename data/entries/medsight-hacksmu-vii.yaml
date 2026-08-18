@@ -1,0 +1,14 @@
+id: medsight-hacksmu-vii
+project_id: medsight
+hackathon_id: hacksmu-vii
+submission_url: https://devpost.com/software/medsight-bu2x7l
+source:
+  platform: devpost
+  url: https://devpost.com/software/medsight-bu2x7l
+awards:
+  - type: category-winner
+    title: Best Use of ElevenLabs
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

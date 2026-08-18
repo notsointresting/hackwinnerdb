@@ -1,0 +1,25 @@
+id: uvie
+name: Uvie
+slug: uvie
+tagline: Uvie is your daily sun protection assistant.
+summary: Uvie received the Best Design award at Vandyhacks XII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mini-tinfish/Vandy-Hacks26
+demo_url: null
+video_url: https://www.youtube.com/embed/sfFyFxmR3rk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/325/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Carolina DeSousa
+  - name: Jade Huynh
+  - name: ReaganCrockett Crockett
+  - name: Ericka Tyndall

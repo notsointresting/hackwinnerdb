@@ -1,0 +1,19 @@
+id: an-rtl-accelerator-for-grid-based-physics-simulations
+name: An RTL Accelerator for Grid-Based Physics Simulations
+slug: an-rtl-accelerator-for-grid-based-physics-simulations
+tagline: "Grid-based simulations are crucial in many areas of Physics. Despite their high degree of
+  parallelism, even GPUs encounter problems in such simulations. We aim "
+summary: An RTL Accelerator for Grid-Based Physics Simulations received the Second Place - ASIC
+  award at UofT ASIC Team - IC Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/354/686/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies: []
+builders:
+  - name: Canberk Soytekin
+  - name: Mert Rassa

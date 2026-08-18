@@ -1,0 +1,22 @@
+id: cybersnake
+name: CyberSnake
+slug: cybersnake
+tagline: "Bigger snake = head-on wins + more board control. Grow by prioritizing food, then hunt
+  opponents using size advantage. Safety checks, board awareness, and MCTS "
+summary: CyberSnake received the Second Place award at BattleSnake 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/belalezat1/battlesnake2026
+demo_url: null
+video_url: https://www.youtube.com/embed/meaXxlfdl4g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/412/197/datas/medium.png
+categories:
+  - cybersecurity
+technologies:
+  - docker
+  - flask
+  - python
+builders:
+  - name: Ray Khan
+  - name: Mujtaba Atif
+  - name: Belal Ezat

@@ -1,0 +1,22 @@
+id: podcast-production
+name: Podcast Production
+slug: podcast-production
+tagline: Upload your notes and produce a natural podcast in a selection of voices that you can
+  listen to on the go
+summary: Podcast Production received the 3rd Place award at DUWiT Hacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/S2292/AwesomeProject.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - c-plus-plus
+  - elevenlabs
+  - gemini
+  - javascript
+builders:
+  - name: Ella Daniels
+  - name: SaikR3 Janecka

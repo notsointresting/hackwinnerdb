@@ -1,0 +1,16 @@
+id: overtake-duwit-hacks-2026
+project_id: overtake
+hackathon_id: duwit-hacks-2026
+submission_url: https://devpost.com/software/overtake-qpfdxa
+source:
+  platform: devpost
+  url: https://devpost.com/software/overtake-qpfdxa
+awards:
+  - type: category-winner
+    title: "[Hackathons UK] Best Use of AI Agents on Arm"
+  - type: first-place
+    title: "[Neptune North] CHALLENGE 2: ‘STUDENT LIFE’ - First place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

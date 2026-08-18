@@ -1,0 +1,22 @@
+id: comida-de-mama
+name: Comida de mama
+slug: comida-de-mama
+tagline: "Meet the first AI that doesn't just read recipes, it watches you cook. Our app uses
+  Gemini's live feed to provide real-time, multilingual coaching for Hispanic "
+summary: Comida de mama received the [MLH] Best Use of Gemini API award at SolHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ZUZF_Qpyfxg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/197/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - claude
+  - gemini
+builders:
+  - name: Diego Tapia
+  - name: Jonathan Duran
+  - name: Addam Dano

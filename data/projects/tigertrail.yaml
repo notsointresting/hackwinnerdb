@@ -1,0 +1,23 @@
+id: tigertrail
+name: TigerTrail
+slug: tigertrail
+tagline: RIT students have specialized skills and conduct incredible research, yet they lack a
+  centralized platform to offer their services or showcase their work to the
+summary: TigerTrail received the [MLH] Best Use of Gemini API award at WiCHacks '26 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/yCjXvpknDcU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/389/812/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Chelsie Odenbach
+  - name: Veda Kesarwani
+  - name: Divyansh Vaidya

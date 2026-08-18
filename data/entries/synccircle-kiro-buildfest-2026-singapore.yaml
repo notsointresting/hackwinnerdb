@@ -1,0 +1,14 @@
+id: synccircle-kiro-buildfest-2026-singapore
+project_id: synccircle
+hackathon_id: kiro-buildfest-2026-singapore
+submission_url: https://devpost.com/software/cramcircle
+source:
+  platform: devpost
+  url: https://devpost.com/software/cramcircle
+awards:
+  - type: audience-choice
+    title: People's Choice
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

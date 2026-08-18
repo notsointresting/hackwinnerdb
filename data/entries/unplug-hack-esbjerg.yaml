@@ -1,0 +1,14 @@
+id: unplug-hack-esbjerg
+project_id: unplug
+hackathon_id: hack-esbjerg
+submission_url: https://devpost.com/software/unplug-lz01q5
+source:
+  platform: devpost
+  url: https://devpost.com/software/unplug-lz01q5
+awards:
+  - type: winner
+    title: Prosa challenge winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

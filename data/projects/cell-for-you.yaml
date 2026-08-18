@@ -1,0 +1,18 @@
+id: cell-for-you
+name: Cell For You
+slug: cell-for-you
+tagline: Agnostic AI agent for SMB lead acquisition and closing.
+summary: Cell For You received the Best Project award at Cursor Hackathon Toronto Tech Week in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/rhceijRH9GY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/710/546/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+builders:
+  - name: Zahin Mohammad
+  - name: ahmed baysuyev

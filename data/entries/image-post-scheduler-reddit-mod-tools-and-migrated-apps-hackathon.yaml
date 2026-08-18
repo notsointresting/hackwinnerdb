@@ -1,0 +1,14 @@
+id: image-post-scheduler-reddit-mod-tools-and-migrated-apps-hackathon
+project_id: image-post-scheduler
+hackathon_id: reddit-mod-tools-and-migrated-apps-hackathon
+submission_url: https://devpost.com/software/image-post-scheduler
+source:
+  platform: devpost
+  url: https://devpost.com/software/image-post-scheduler
+awards:
+  - type: category-winner
+    title: Best New Mod Tool
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

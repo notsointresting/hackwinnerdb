@@ -1,0 +1,14 @@
+id: quantquest-vandyhacks-xii
+project_id: quantquest
+hackathon_id: vandyhacks-xii
+submission_url: https://devpost.com/software/quantquest
+source:
+  platform: devpost
+  url: https://devpost.com/software/quantquest
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

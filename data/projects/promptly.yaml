@@ -1,0 +1,22 @@
+id: promptly
+name: Promptly
+slug: promptly
+tagline: A browser extension that uses Phi‑3‑mini locally to optimize prompts, cutting AI energy,
+  water, and carbon use by making every prompt shorter, clearer, and more
+summary: Promptly received the Second Place award at AI4Good Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Misha0714/prompt-whisperer
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/312/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - python
+builders:
+  - name: Misha Faruki
+  - name: Maymoona Khan
+  - name: Rania Khan

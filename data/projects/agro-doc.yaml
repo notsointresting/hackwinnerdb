@@ -1,0 +1,23 @@
+id: agro-doc
+name: Agro-doc
+slug: agro-doc
+tagline: AI crop doctor for farmers snap a photo of a sick leaf, get an instant disease diagnosis
+  from a fine-tuned ML model, plus a treatment plan in your own language.
+summary: Agro-doc received the Sustainability AI award at ML Empowerment Build Challenge in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yaswanthme007/agro-doc
+demo_url: null
+video_url: https://www.youtube.com/embed/WOfE7avOHX8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/955/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Yaswanth K B
+  - name: Sheshakanth Ra

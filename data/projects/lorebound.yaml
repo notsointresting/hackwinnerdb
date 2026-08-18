@@ -1,0 +1,20 @@
+id: lorebound
+name: Lorebound
+slug: lorebound
+tagline: Turn your study material into an after class adventure. Your knowledge is your weapon.
+summary: Lorebound received the Participation Prize award at forinovation in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/naif-bin-dair/Lorebound
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/980/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+builders:
+  - name: naif ali bin dair

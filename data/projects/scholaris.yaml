@@ -1,0 +1,23 @@
+id: scholaris
+name: Scholaris
+slug: scholaris
+tagline: Scholaris is an AI-powered test-prep platform that helps students master exams through
+  personalized practice. It delivers targeted mock tests and real-time feed
+summary: Scholaris received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yatishgrandhe/scholarisprep
+demo_url: null
+video_url: https://www.youtube.com/embed/9ZxaF41yxp0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/947/933/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - langchain
+  - python
+  - react
+  - typescript
+builders:
+  - name: Yatish Grandhe

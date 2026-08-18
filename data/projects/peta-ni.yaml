@@ -1,0 +1,25 @@
+id: peta-ni
+name: Peta.ni
+slug: peta-ni
+tagline: WhatsApp-based disaster response system that connects farmers with relief organizations,
+  using AI to triage crop damage, plot reports on a live map, and coordin
+summary: Peta.ni received the Best All-Women Hack award at Garuda Hacks 7.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/garuda-hacks-7-0/garudahacks7
+demo_url: null
+video_url: https://www.youtube.com/embed/NgJ7oIMK7KA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/913/537/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - sqlite
+  - twilio
+builders:
+  - name: Daffa I
+  - name: Inaeah
+  - name: mairazma Maira
+  - name: nail-nail

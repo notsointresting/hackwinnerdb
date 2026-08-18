@@ -1,0 +1,14 @@
+id: agentic-multidisciplinary-tumor-board-amdt-agents-assemble-the-healthcare-ai-endgame
+project_id: agentic-multidisciplinary-tumor-board-amdt
+hackathon_id: agents-assemble-the-healthcare-ai-endgame
+submission_url: https://devpost.com/software/mdt-assemble
+source:
+  platform: devpost
+  url: https://devpost.com/software/mdt-assemble
+awards:
+  - type: honorable-mention
+    title: Honorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

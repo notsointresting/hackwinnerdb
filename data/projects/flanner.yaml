@@ -1,0 +1,24 @@
+id: flanner
+name: Flanner
+slug: flanner
+tagline: Food Planer - A mirror on your delivery habits.
+summary: Flanner received the What would you build on top of a user’s purchase data? by KnotAPI [3
+  Prizes] award at HackPrinceton Spring '26 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/son-engr-kr/hackprinceton-beta
+demo_url: null
+video_url: https://www.youtube.com/embed/gfLijC1apBo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/755/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - python
+builders:
+  - name: hunjun shin
+  - name: Dawnbee Hwang
+  - name: Wonhee Lee
+  - name: Hyoungseo Son

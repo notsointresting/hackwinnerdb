@@ -1,0 +1,23 @@
+id: biomeshp2p
+name: BioMeshP2P
+slug: biomeshp2p
+tagline: "BioMesh is a P2P environmental monitoring network using Arduino UNO Q nodes. Each node
+  runs a TensorFlow.js AI model locally to detect high-risk conditions and "
+summary: BioMeshP2P received the [Pears] 1st place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Salipoke/hackUPC_2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/079/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+builders:
+  - name: Héctor Fernández de Sevilla Martínez
+  - name: Salipoke
+  - name: Pau Carulla
+  - name: Aina Vives

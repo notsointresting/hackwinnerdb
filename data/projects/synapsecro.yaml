@@ -1,0 +1,22 @@
+id: synapsecro
+name: SynapseCRO
+slug: synapsecro
+tagline: "Audits business websites, finds SEO/CRO issues, and ships fixes automatically: GitHub PRs
+  for code-backed sites, copy-paste fix packs. A hands-off agent loop: a"
+summary: SynapseCRO received the Best Use of ClickHouse award at Multiagents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/O1_n7AjpXAc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/552/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - javascript
+  - tailwind-css
+  - typescript
+builders:
+  - name: Ram Vinjamuri

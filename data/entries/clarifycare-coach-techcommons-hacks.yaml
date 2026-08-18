@@ -1,0 +1,14 @@
+id: clarifycare-coach-techcommons-hacks
+project_id: clarifycare-coach
+hackathon_id: techcommons-hacks
+submission_url: https://devpost.com/software/clarifycare-coach-2emgkr
+source:
+  platform: devpost
+  url: https://devpost.com/software/clarifycare-coach-2emgkr
+awards:
+  - type: other
+    title: TechCommons Hacks V1 - Social Impact Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

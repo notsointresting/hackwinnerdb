@@ -1,0 +1,14 @@
+id: central-mind-ai-ciren-mini-hackathon
+project_id: central-mind-ai
+hackathon_id: ciren-mini-hackathon
+submission_url: https://devpost.com/software/central-mind-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/central-mind-ai
+awards:
+  - type: category-winner
+    title: Best use of google gemini model
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

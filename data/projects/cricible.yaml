@@ -1,0 +1,23 @@
+id: cricible
+name: Cricible
+slug: cricible
+tagline: Crucible is a resilience testing layer for AI agent workflows.
+summary: Cricible received the Runner-up of UiPath Test Cloud award at UiPath AgentHack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Ca29cdgSkvs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/415/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - groq
+  - python
+  - react
+  - vercel
+builders:
+  - name: Kinnah Joshua

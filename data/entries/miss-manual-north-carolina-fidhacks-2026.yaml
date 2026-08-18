@@ -1,0 +1,14 @@
+id: miss-manual-north-carolina-fidhacks-2026
+project_id: miss-manual
+hackathon_id: north-carolina-fidhacks-2026
+submission_url: https://devpost.com/software/miss-manual
+source:
+  platform: devpost
+  url: https://devpost.com/software/miss-manual
+awards:
+  - type: second-place
+    title: 2nd place North Carolina FidHacks Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

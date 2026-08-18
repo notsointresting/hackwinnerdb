@@ -1,0 +1,24 @@
+id: jee-just-enough-emotions
+name: JEE - Just Enough Emotions
+slug: jee-just-enough-emotions
+tagline: '"Practice secure communication before real conversations happen."'
+summary: JEE - Just Enough Emotions received the Best Use of ElevenLabs - Beats Solo Earbuds award
+  at DeerHacks V (2026) in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/sudoBaymax/jee
+demo_url: null
+video_url: https://www.youtube.com/embed/swQQXmxu27Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/760/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Asma Ahmed
+  - name: Joseph Jatou
+  - name: Ishav Sohal
+  - name: Haris Kamal

@@ -1,0 +1,21 @@
+id: archivematters
+name: ArchiveMatters
+slug: archivematters
+tagline: ArchiveMatters helps archives and large organizations preserve today's digital life by
+  cutting the compute cost of preparing massive files for long-term storage
+summary: ArchiveMatters received the Web Lager challenge winner award at Hack Esbjerg in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zeroject/AchieveMatters/tree/d1e70db10cf0a2996aa03d8fc7c0cfc5a01dc83a
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/472/122/datas/medium.png
+categories:
+  - other
+technologies:
+  - python
+  - redis
+builders:
+  - name: JensIssa Issa
+  - name: CYPE YT
+  - name: kasper rasmussen

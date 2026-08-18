@@ -1,0 +1,20 @@
+id: prestige-auto-x-autopost
+name: Prestige Auto X AutoPost
+slug: prestige-auto-x-autopost
+tagline: Car accessories shop and automation advertisement tool
+summary: Prestige Auto X AutoPost received the Daybot Pro — 1 Year Subscription award at Daybot
+  Commerce Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Viktor-Nedev/daybot
+demo_url: null
+video_url: https://www.youtube.com/embed/t8GaZui2RXo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/887/485/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - react
+builders:
+  - name: Viktor Nedev

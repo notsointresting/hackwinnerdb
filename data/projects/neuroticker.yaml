@@ -1,0 +1,24 @@
+id: neuroticker
+name: NeuroTicker
+slug: neuroticker
+tagline: '"Plug into the Brain of Global Finance" - Feel the pulse of real-world markets. Track
+  hidden signals, decode anomalies, and uncover alpha—before the crowd. All '
+summary: NeuroTicker received the 2nd place award at NextGenHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kaushal-1/NeuroTicker
+demo_url: null
+video_url: https://www.youtube.com/embed/DDbJPrrW2C4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/434/136/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - mapbox
+  - supabase
+  - typescript
+builders:
+  - name: Yash Jadhav
+  - name: Manas Shinde
+  - name: Kaushal C
+  - name: Vedant Chaudhari

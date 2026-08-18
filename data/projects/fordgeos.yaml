@@ -1,0 +1,21 @@
+id: fordgeos
+name: FordgeOs
+slug: fordgeos
+tagline: A design-to-deploy swarm that fabricates full-stack apps in seconds using Gemini 1.5 Flash.
+summary: FordgeOs received the Google Swag Kits award at Build with AI Hack Days @UITS in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/300/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - firebase
+  - react
+  - tailwind-css
+builders:
+  - name: Asfam Parvez Kawser

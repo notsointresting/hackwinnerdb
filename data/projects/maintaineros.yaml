@@ -1,0 +1,22 @@
+id: maintaineros
+name: MaintainerOS
+slug: maintaineros
+tagline: MaintainerOS triages open-source backlogs, routes safe issues to isolated agents, escalates
+  risky work to humans or bounties, and verifies PRs before maintainer
+summary: MaintainerOS received the Grand Prize (Cursor) award at Cursor Hackathon Vancouver in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/vWcEAGqi-is
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/658/744/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: obro79 Fisher
+  - name: Jessica Zhou
+  - name: Carson Kyba
+  - name: Andy L

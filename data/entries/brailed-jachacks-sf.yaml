@@ -1,0 +1,14 @@
+id: brailed-jachacks-sf
+project_id: brailed
+hackathon_id: jachacks-sf
+submission_url: https://devpost.com/software/brailed
+source:
+  platform: devpost
+  url: https://devpost.com/software/brailed
+awards:
+  - type: second-place
+    title: Social Impact Track 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

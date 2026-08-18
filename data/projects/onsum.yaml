@@ -1,0 +1,24 @@
+id: onsum
+name: OnSum
+slug: onsum
+tagline: Hong Kong is aging fast, and elderly parents are often alone while children work. OnSum
+  schedules their meds and appointments, reminds them gently in Cantonese,
+summary: OnSum received the Genuine Effort- All in! award at Youth Code x AI in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/tskCu8OBjks
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/833/178/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - react-native
+  - sql
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Cedric Wong
+  - name: Ming Fong

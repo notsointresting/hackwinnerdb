@@ -1,0 +1,25 @@
+id: replate
+name: Replate
+slug: replate
+tagline: A Boston surplus-food marketplace. Businesses list surplus at a set price and can donate a
+  share to nearby food banks; buyers reserve and pick up. Less waste, m
+summary: Replate received the MLH Best Use of MongoDB Atlas award at Civic Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5Loo-70Kl94
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/350/103/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Anand Madarapu
+  - name: Alex Audi
+  - name: Kenneth Wilber
+  - name: Nathan Stanislavsky

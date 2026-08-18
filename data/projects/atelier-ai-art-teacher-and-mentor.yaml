@@ -1,0 +1,22 @@
+id: atelier-ai-art-teacher-and-mentor
+name: Atelier - AI Art Teacher and Mentor
+slug: atelier-ai-art-teacher-and-mentor
+tagline: Atelier is an AI-powered art mentor designed with neurodivergent creators to provide
+  low-anxiety, master-level guidance that celebrates creative strengths befor
+summary: "Atelier - AI Art Teacher and Mentor received the Track Winner: AI Creative Amplifier award
+  at IncludAI - The Neurodiversity Hackathon, in Partnership with Stanford NNEA in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/BradshawAsher/ai-art-companion
+demo_url: null
+video_url: https://www.youtube.com/embed/VNaLzPuDAAw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/068/003/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Jaydon Asher

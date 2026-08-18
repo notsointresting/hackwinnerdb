@@ -1,0 +1,22 @@
+id: scribble-showdown
+name: Scribble Showdown
+slug: scribble-showdown
+tagline: Bring your drawings to life and battle against friends
+summary: Scribble Showdown received the Best Overall 1st Place award at TigerVerse 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/XDTerminated/tigerverse-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/ZzYIHtTBnL0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/547/datas/gallery.jpg
+categories:
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - groq
+  - unity
+builders:
+  - name: Matthew Martin
+  - name: Alvin Moy
+  - name: Sayam Gupta

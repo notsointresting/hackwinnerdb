@@ -1,0 +1,19 @@
+id: faro
+name: Faro
+slug: faro
+tagline: A daily reference device to keep the mind at ease.
+summary: "Faro received the General Stream: 1st Place award at AdaHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/summayahjoyia/FaroByBonita.git
+demo_url: null
+video_url: https://www.youtube.com/embed/cT2IktSs7SQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/425/169/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - firebase
+builders:
+  - name: Erika Jimenez Gonzalez
+  - name: summayahjoyia
+  - name: Uchenna Ibeziako

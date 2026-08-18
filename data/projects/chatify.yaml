@@ -1,0 +1,20 @@
+id: chatify
+name: Chatify
+slug: chatify
+tagline: Chatify turns any UI idea into a live MCP app—no code required. Just describe it, let
+  Chatify build it, and watch your personalized interface come alive in Chat
+summary: Chatify received the Overall 2nd Place award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/njbarnard/Chatify
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/810/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: njbarnard Barnard

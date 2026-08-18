@@ -1,0 +1,28 @@
+id: vibeguard-a-guardian-for-vibe-coder
+name: VibeGuard — A Guardian for Vibe Coder
+slug: vibeguard-a-guardian-for-vibe-coder
+tagline: "VibeGuard secures AI-built apps at handoff: scans repos for secrets, sanitizes codebases
+  for collaborators, and blocks credential/data leaks in AI-generated cod"
+summary: VibeGuard — A Guardian for Vibe Coder received the Grand Prize (Cursor) award at Cursor
+  Hackathon Vancouver in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Esther2524/vibeguard-mcp
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - javascript
+  - python
+  - react
+  - stripe
+  - tailwind-css
+  - typescript
+builders:
+  - name: Cecilia Yang
+  - name: Zhixiao Wang
+  - name: Dako Wei

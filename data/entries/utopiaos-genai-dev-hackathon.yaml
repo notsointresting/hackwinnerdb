@@ -1,0 +1,14 @@
+id: utopiaos-genai-dev-hackathon
+project_id: utopiaos
+hackathon_id: genai-dev-hackathon
+submission_url: https://devpost.com/software/utopiaos
+source:
+  platform: devpost
+  url: https://devpost.com/software/utopiaos
+awards:
+  - type: honorable-mention
+    title: Honorable mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

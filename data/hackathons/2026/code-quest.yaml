@@ -1,0 +1,14 @@
+id: code-quest
+name: Code Quest
+slug: code-quest
+organizer: []
+year: 2026
+sources:
+  - https://code-quest-champ.devpost.com/
+  - https://code-quest-champ.devpost.com/project-gallery?filter=winner
+website_url: https://code-quest-champ.devpost.com/
+platform: devpost
+participant_count: 11
+prize_pool: 450
+currency: USD
+description: "Devpost hackathon: Code Quest. Imported automatically."

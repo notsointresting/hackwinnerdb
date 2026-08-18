@@ -1,0 +1,20 @@
+id: kassi-autonomous-observability-remediation-agent
+name: "kassi: Autonomous Observability & Remediation Agent"
+slug: kassi-autonomous-observability-remediation-agent
+tagline: "An AI agent on an audited state machine: it load-tests a code change, correlates the
+  regression with Splunk telemetry, finds the root cause, and writes the fix,"
+summary: "kassi: Autonomous Observability & Remediation Agent received the Grand Prize award at
+  Splunk Agentic Ops Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/apache/burr
+demo_url: null
+video_url: https://www.youtube.com/embed/boBKfpJnFiw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/774/120/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies: []
+builders:
+  - name: Adam Rahman

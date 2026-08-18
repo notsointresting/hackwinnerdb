@@ -1,0 +1,20 @@
+id: game-of-stones
+name: Game Of Stones
+slug: game-of-stones
+tagline: Fast-paced dungeon 1v1 game with spells that activate by using your device camera to
+  register real-life colored stones.
+summary: Game Of Stones received the 2nd Place award at The Cambridge Game Jam 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ahmad-A0/queens-conserve
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/063/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies:
+  - typescript
+builders:
+  - name: Téo Rybak
+  - name: Jack Seymour

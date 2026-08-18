@@ -1,0 +1,22 @@
+id: nutragive
+name: NutraGive
+slug: nutragive
+tagline: NutraGive is an AI service that aims to connect food donors with people in need. It is
+  catered towards people with limited resources and literacy, allowing anyo
+summary: NutraGive received the Categorical Prizes award at Fuel the Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xzGlJwqbRdc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/487/787/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Jeremy Wang

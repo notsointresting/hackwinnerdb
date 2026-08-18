@@ -1,0 +1,20 @@
+id: yume
+name: YuMe
+slug: yume
+tagline: Gamifying Social Interaction since 2026
+summary: "YuMe received the Winners award at Doable: AISoc X Lovable Hackathon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Polypholia/north-star-navigator
+demo_url: null
+video_url: https://www.youtube.com/embed/9QV1idlnmLM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Sebastian Ong
+  - name: Kyle Cheong
+  - name: Michael Yfantis
+  - name: JaGamerBoi Hiu

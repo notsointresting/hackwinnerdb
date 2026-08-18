@@ -1,0 +1,26 @@
+id: emolens
+name: EmoLens
+slug: emolens
+tagline: "EmoLens: The AI sensory translator. We map raw physical sensations into clear emotional
+  vocabulary and instant communication cards, bringing clarity to emotiona"
+summary: EmoLens received the Grand Prize award at IncludAI - The Neurodiversity Hackathon, in
+  Partnership with Stanford NNEA in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/z-lovejeet/EmoLens
+demo_url: null
+video_url: https://www.youtube.com/embed/TsxaClQGTv4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/073/414/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - groq
+  - langchain
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Lovejeet Singh

@@ -1,0 +1,14 @@
+id: decision-gpt-hack-days-in-feni
+project_id: decision-gpt
+hackathon_id: hack-days-in-feni
+submission_url: https://devpost.com/software/decision-gpt
+source:
+  platform: devpost
+  url: https://devpost.com/software/decision-gpt
+awards:
+  - type: category-winner
+    title: Best Use of Gemini CLI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

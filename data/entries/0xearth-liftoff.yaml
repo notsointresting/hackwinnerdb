@@ -1,0 +1,14 @@
+id: 0xearth-liftoff
+project_id: 0xearth
+hackathon_id: liftoff
+submission_url: https://devpost.com/software/0xearth
+source:
+  platform: devpost
+  url: https://devpost.com/software/0xearth
+awards:
+  - type: category-winner
+    title: Best Beginner Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

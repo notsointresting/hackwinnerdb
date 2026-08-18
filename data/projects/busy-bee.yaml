@@ -1,0 +1,25 @@
+id: busy-bee
+name: Busy Bee
+slug: busy-bee
+tagline: Grow yourself one micro-win at a time
+summary: Busy Bee received the 2nd place Merrimack FidHacks Winners award at Merrimack FidHacks 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zianam/Busy-Bee
+demo_url: null
+video_url: https://www.youtube.com/embed/8SDjUu3ZKlA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/962/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - javascript
+  - react
+  - supabase
+builders:
+  - name: Cara Berman
+  - name: Hannah Jacob
+  - name: djaby-byte Djaby
+  - name: Ziana Merchant

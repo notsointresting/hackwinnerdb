@@ -1,0 +1,23 @@
+id: whatthediff
+name: WhatTheDiff
+slug: whatthediff
+tagline: Binary file changed" isn't a diff. WhatTheDiff gives 3D assets the review experience source
+  code has had for decades — visual diffs, structural stats, and GitHu
+summary: WhatTheDiff received the Best Digital Content Creation Tool award at SJHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ParthPatel00/WhatTheDiff
+demo_url: null
+video_url: https://www.youtube.com/embed/wMByMDa3GwQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/386/datas/gallery.jpg
+categories:
+  - media
+  - creative-tools
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Neil Mewada
+  - name: Shailen Sutradhar
+  - name: Parth Patel
+  - name: Eugene Lacatis

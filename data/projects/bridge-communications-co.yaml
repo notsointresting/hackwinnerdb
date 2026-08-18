@@ -1,0 +1,26 @@
+id: bridge-communications-co
+name: Bridge Communications Co
+slug: bridge-communications-co
+tagline: Empowering Neurodivergent Communication
+summary: "Bridge Communications Co received the Best Overall Hack: Hotlemon Large Bluetooth Speaker
+  award at HackTCNJ 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/EthanWellner-dev/hacktcnj-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/skcgKwy3IVI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/383/921/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - flask
+  - gemini
+  - javascript
+  - mongodb
+  - python
+builders:
+  - name: Ethan Wellner
+  - name: Shriraj Ramani
+  - name: Cmac1603
+  - name: Brian Xu

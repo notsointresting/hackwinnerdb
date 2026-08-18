@@ -1,0 +1,14 @@
+id: saguaro-link-non-profit-track-5-hack-arizona-2026
+project_id: saguaro-link-non-profit-track-5
+hackathon_id: hack-arizona-2026
+submission_url: https://devpost.com/software/saguaro-link
+source:
+  platform: devpost
+  url: https://devpost.com/software/saguaro-link
+awards:
+  - type: category-winner
+    title: "[Banner – University Family Care] Best Understanding of Community Healthcare Needs"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

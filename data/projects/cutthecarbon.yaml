@@ -1,0 +1,20 @@
+id: cutthecarbon
+name: CUTthecarbon
+slug: cutthecarbon
+tagline: Gen Z cares about climate but feels powerless. Our platform uses AI tips, a what-if
+  simulator, and gamification to prove impact. We monetize via premium feature
+summary: CUTthecarbon received the Technical Excellence award at Webster Hackfest 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/susan7979/Hackathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - climate
+technologies:
+  - javascript
+  - react
+builders:
+  - name: susan7979 Rajbhandari

@@ -1,0 +1,14 @@
+id: uipath-agenthack
+name: UiPath AgentHack
+slug: uipath-agenthack
+organizer: []
+year: 2026
+sources:
+  - https://uipath-agenthack.devpost.com/
+  - https://uipath-agenthack.devpost.com/project-gallery?filter=winner
+website_url: https://uipath-agenthack.devpost.com/
+platform: devpost
+participant_count: 4011
+prize_pool: 50000
+currency: USD
+description: "Devpost hackathon: UiPath AgentHack. Imported automatically."

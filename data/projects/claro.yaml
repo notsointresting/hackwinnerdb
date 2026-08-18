@@ -1,0 +1,18 @@
+id: claro
+name: Claro
+slug: claro
+tagline: Clear Access to Resources and Opportunities
+summary: Claro received the MLT20 AI Buildathon Judges Finalists award at MLT20 AI Buildathon
+  (Powered by WNCP AI) in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/genesissmith/claro
+demo_url: null
+video_url: https://www.youtube.com/embed/FEYa2f335EM
+image_url: null
+categories:
+  - other
+technologies:
+  - claude
+builders:
+  - name: Genesis Smith

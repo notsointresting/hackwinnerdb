@@ -1,0 +1,14 @@
+id: super-secure-rummy-blasterhacks-2026
+project_id: super-secure-rummy
+hackathon_id: blasterhacks-2026
+submission_url: https://devpost.com/software/secure-rummy
+source:
+  platform: devpost
+  url: https://devpost.com/software/secure-rummy
+awards:
+  - type: first-place
+    title: UI/UX 1st place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

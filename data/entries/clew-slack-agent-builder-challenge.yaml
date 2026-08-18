@@ -1,0 +1,14 @@
+id: clew-slack-agent-builder-challenge
+project_id: clew
+hackathon_id: slack-agent-builder-challenge
+submission_url: https://devpost.com/software/clew-7tnal9
+source:
+  platform: devpost
+  url: https://devpost.com/software/clew-7tnal9
+awards:
+  - type: second-place
+    title: Second Place | Slack Agent for Good
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

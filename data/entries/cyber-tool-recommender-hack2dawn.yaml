@@ -1,0 +1,14 @@
+id: cyber-tool-recommender-hack2dawn
+project_id: cyber-tool-recommender
+hackathon_id: hack2dawn
+submission_url: https://devpost.com/software/los-parranderos-de-chihuahua
+source:
+  platform: devpost
+  url: https://devpost.com/software/los-parranderos-de-chihuahua
+awards:
+  - type: other
+    title: Gemini API - MLH giveaway
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

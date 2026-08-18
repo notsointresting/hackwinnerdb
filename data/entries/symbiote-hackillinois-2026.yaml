@@ -1,0 +1,16 @@
+id: symbiote-hackillinois-2026
+project_id: symbiote
+hackathon_id: hackillinois-2026
+submission_url: https://devpost.com/software/symbiote
+source:
+  platform: devpost
+  url: https://devpost.com/software/symbiote
+awards:
+  - type: sponsor-prize
+    title: "[MLH] Best Use of AI powered by Reach Capital"
+  - type: honorable-mention
+    title: "Track: Best AI Inspection (Honorable Mentions)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

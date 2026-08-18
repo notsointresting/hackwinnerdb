@@ -1,0 +1,21 @@
+id: naijapowerwatch
+name: NaijaPowerWatch
+slug: naijapowerwatch
+tagline: Bringing light back to Nigeria, one prediction at a time.
+summary: NaijaPowerWatch received the [Accenture] Develop an AI-Based solution to a real-world issue
+  - 1st place award at DUWiT Hacks 2026 in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/nshuaib01-cell/Naija-Power-Watch.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Bazela Rivombo
+  - name: stellahmnene
+  - name: Nabilah Shuaib
+  - name: Maneeze Jahangir

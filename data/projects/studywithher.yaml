@@ -1,0 +1,21 @@
+id: studywithher
+name: StudyWithHer
+slug: studywithher
+tagline: Many girls lose confidence in STEM because concepts feel too hard or inaccessible. Our tool
+  breaks down complex ideas into simple, supportive explanations - lik
+summary: "StudyWithHer received the GREATEST WOMEN IMPACT award at Girls in STEM: AI for Social Good
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/YouthInnoLab/StudyWithHer
+demo_url: null
+video_url: https://www.youtube.com/embed/hNHcswnv5Xc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/584/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - javascript
+builders:
+  - name: Youth Inno Lab

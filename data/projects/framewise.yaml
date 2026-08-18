@@ -1,0 +1,24 @@
+id: framewise
+name: Framewise
+slug: framewise
+tagline: A smarter way to learn, turn any video into an active learning workspace.
+summary: "Framewise received the Best Use of MongoDB Atlas award at HackHCC: Code Runners in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/aysesule2405/framewise
+demo_url: null
+video_url: https://www.youtube.com/embed/6Z7QrfIeU24
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/310/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Tugba Irem Demirci
+  - name: Ayse Sule Ekiz

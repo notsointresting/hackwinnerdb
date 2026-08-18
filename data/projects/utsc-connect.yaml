@@ -1,0 +1,19 @@
+id: utsc-connect
+name: UTSC Connect
+slug: utsc-connect
+tagline: A multiplayer learning platform for UTSC students with practice, quiz, connect.
+summary: UTSC Connect received the Amazon Gift Card ($100) award at UTSC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pEm5hR9GWyM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - sqlite
+builders:
+  - name: Christopher Jason Sidharta

@@ -1,0 +1,14 @@
+id: mpc-hacks
+name: MPC Hacks
+slug: mpc-hacks
+organizer: []
+year: 2026
+sources:
+  - https://mpchacks.devpost.com/
+  - https://mpchacks.devpost.com/project-gallery?filter=winner
+website_url: https://mpchacks.devpost.com/
+platform: devpost
+participant_count: 193
+prize_pool: null
+currency: null
+description: "Devpost hackathon: MPC Hacks. Imported automatically."

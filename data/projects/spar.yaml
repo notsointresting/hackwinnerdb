@@ -1,0 +1,21 @@
+id: spar
+name: Spar
+slug: spar
+tagline: "Spar: debug real code, think out loud, get grilled by an AI interviewer. Practice
+  interviews the way they actually happen."
+summary: Spar received the Honourable Mention award at DDC x Ignition Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RohanGottipati/Spar/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/FvNEwyTRfR4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/409/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - javascript
+builders:
+  - name: David Zhao
+  - name: Krish Bhoopati
+  - name: Rohan Gottipati

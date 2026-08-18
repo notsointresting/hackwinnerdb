@@ -1,0 +1,19 @@
+id: anveshak
+name: Anveshak
+slug: anveshak
+tagline: This project is building a decentralized AI-powered knowledge assistant that runs entirely
+  on the Internet Computer Protocol (ICP).
+summary: Anveshak received the Credits award at Developers Connect in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/234/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies: []
+builders:
+  - name: Chinmay Bhatt

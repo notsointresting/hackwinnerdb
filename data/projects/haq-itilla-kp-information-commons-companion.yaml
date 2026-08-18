@@ -1,0 +1,22 @@
+id: haq-itilla-kp-information-commons-companion
+name: Haq Itilla - KP Information Commons Companion
+slug: haq-itilla-kp-information-commons-companion
+tagline: Pakistan's first AI-powered Right to Information companion. Research, route, and draft
+  legally sound RTI requests under the KP RTI Act 2013 in minutes
+summary: Haq Itilla - KP Information Commons Companion received the Second Prize award at AI for
+  Civic Innovation Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/harisahmadkhan/Haq-Ittila---KP-RTI-Companion
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/150/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - javascript
+builders:
+  - name: Haris Khan

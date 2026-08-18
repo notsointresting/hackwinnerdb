@@ -1,0 +1,22 @@
+id: aura-ai
+name: aura ai
+slug: aura-ai
+tagline: AI-powered attendance system that automatically tracks presence and instantly emails
+  parents on absence, improving transparency, reducing manual work, and ensur
+summary: aura ai received the 2nd Place award at AI Buildathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/625/788/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Zaffar Iqbal
+  - name: Adnan Saleem Dar
+  - name: Pala Faizan

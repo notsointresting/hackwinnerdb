@@ -1,0 +1,14 @@
+id: bitcoin-plus-plus-open-source-edition
+name: Bitcoin++ Open Source Edition
+slug: bitcoin-plus-plus-open-source-edition
+organizer: []
+year: 2026
+sources:
+  - https://foss.devpost.com/
+  - https://foss.devpost.com/project-gallery?filter=winner
+website_url: https://foss.devpost.com/
+platform: devpost
+participant_count: 90
+prize_pool: 6180
+currency: USD
+description: "Devpost hackathon: Bitcoin++ Open Source Edition. Imported automatically."

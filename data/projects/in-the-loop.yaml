@@ -1,0 +1,23 @@
+id: in-the-loop
+name: In The Loop
+slug: in-the-loop
+tagline: In The Loop is an interactive, XR application that teaches you the foundational concepts
+  behind knitting! Using intuitive animations and a custom ML model, it m
+summary: In The Loop received the Snap AR 2nd Place Track Winner award at ImmerseGT 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ethernetvan/In-The-Loop
+demo_url: null
+video_url: https://www.youtube.com/embed/DJlJE09q5hM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/920/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: Evan Thomas
+  - name: Andrew Daugherty
+  - name: Amogh Shrivastava
+  - name: Anshul Manekar

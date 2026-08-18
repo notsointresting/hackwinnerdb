@@ -1,0 +1,23 @@
+id: visioncad
+name: VisionCAD
+slug: visioncad
+tagline: Converting hand-drawn sketches into 3D CAD models.
+summary: VisionCAD received the Second Place - Per Person On Team award at EngHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lizwright06/VisionCAD
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/535/datas/gallery.jpg
+categories:
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - openai
+  - vue
+builders:
+  - name: Liz Wright
+  - name: Hannah Wiens
+  - name: Jessica Kovac
+  - name: Jasmehar Kaur

@@ -1,0 +1,29 @@
+id: passline
+name: Passline
+slug: passline
+tagline: The only thing worse than a broken ramp is a broken bank account. ADA compliance, made easy.
+summary: Passline received the 1st Place award at Hack Indy 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adwaiyRanjith/hackIndy-Passline
+demo_url: null
+video_url: https://www.youtube.com/embed/XPcu_qlsuwM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - javascript
+  - mongodb
+  - opencv
+  - python
+  - pytorch
+  - react
+  - tailwind-css
+builders:
+  - name: Sneha Chavan
+  - name: Vatsal Sivaratri
+  - name: adwaiyRanjith Ranjith
+  - name: Shrey Sharma

@@ -1,0 +1,24 @@
+id: newsloop
+name: Newsloop
+slug: newsloop
+tagline: An autonomous AI agent that researches, enriches, and delivers structured news digests,
+  powered by LangGraph, Pioneer AI, Reka Vision and Tavily.
+summary: Newsloop received the Most Innovative Use of Reka's Vision API award at Autonomous Agents
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/AlejandroSpot2/Hackaton-news
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/376/665/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+  - react
+builders:
+  - name: julian irusta roure
+  - name: MirandaCavalie Cavalie
+  - name: Alejandro Gonzalez

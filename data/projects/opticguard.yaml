@@ -1,0 +1,22 @@
+id: opticguard
+name: OpticGuard
+slug: opticguard
+tagline: OpticGuard detects hidden AI cheating in interviews using eye tracking and audio analysis,
+  helping employers protect remote hiring integrity and make fairer, mo
+summary: OpticGuard received the Anti-AI Prize award at Stevens QuackHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nickd16/optic-guard
+demo_url: null
+video_url: https://www.youtube.com/embed/cobLfBnlz20
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/934/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: Nicholas DiSalvo
+  - name: Pedro Correa
+  - name: Stephen Schulte

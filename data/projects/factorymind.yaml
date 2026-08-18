@@ -1,0 +1,24 @@
+id: factorymind
+name: FactoryMind
+slug: factorymind
+tagline: Future optimization of autonomous robots in factories.
+summary: FactoryMind received the Best Use of DGX Spark award at NemoClaw NVIDIA x ASUS Hackathon @
+  UCSC in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/rohanlab104/R2D2
+demo_url: null
+video_url: https://www.youtube.com/embed/oj73t8BxCzc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Dan Pham
+  - name: Donovan Thomas
+  - name: Rohan Shah
+  - name: Raeed Saad

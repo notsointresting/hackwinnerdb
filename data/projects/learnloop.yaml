@@ -1,0 +1,23 @@
+id: learnloop
+name: LearnLoop
+slug: learnloop
+tagline: LearnLoop turns passive content into active learning in seconds. Paste any link or PDF to
+  instantly generate quizzes, flashcards, and a chatbot for that exact t
+summary: LearnLoop received the Best Use of Gemini API award at MLH Hack Days by Pydata Indore in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/by-harshal/learnloop.git
+demo_url: null
+video_url: https://www.youtube.com/embed/_qL5EbEvZ64
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - google-cloud
+  - javascript
+  - tailwind-css
+builders:
+  - name: Harshal Saraf
+  - name: Mohit Meharde

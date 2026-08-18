@@ -1,0 +1,22 @@
+id: splunk-ai-refiner
+name: Splunk AI Refiner
+slug: splunk-ai-refiner
+tagline: A multi-agent AI tool that refines Splunk logs pre-ingestion. It identifies noise,
+  auto-generates nullQueue filters, and quantifies your storage and license sav
+summary: Splunk AI Refiner received the Best of Platform & Developer Experience award at Splunk
+  Agentic Ops Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/gueguet/splunk_ai_refiner
+demo_url: null
+video_url: https://www.youtube.com/embed/bKie0L7vdOs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/755/940/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - python
+builders:
+  - name: Gaétan VERDIN-POL

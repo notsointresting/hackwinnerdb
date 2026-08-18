@@ -1,0 +1,25 @@
+id: chord-less
+name: Chord-less
+slug: chord-less
+tagline: "Chord-less is an interactive guitar practice demo: your phone captures strums, your webcam
+  estimates chord hand signs, and the dashboard provides live audio and"
+summary: Chord-less received the Best Art & Gaming award at HooHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AlexTalreja/chord-less
+demo_url: null
+video_url: https://www.youtube.com/embed/sxSU0UeiuSc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/866/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - opencv
+  - python
+  - swift
+builders:
+  - name: Kevin Shi
+  - name: Alex Talreja
+  - name: Paul Wiskow
+  - name: Colby Wise

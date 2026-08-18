@@ -1,0 +1,18 @@
+id: barama
+name: barama
+slug: barama
+tagline: A small spider grows by eating food and earns points. It is a simple and cozy game. If it
+  collects 5 items, it wins a treasure. The opponents are bots, so as al
+summary: "barama received the Swag from MLH's Partners award at HackCafe : May Edition in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+  - gaming
+technologies: []
+builders:
+  - name: Teyran Nağıyeva

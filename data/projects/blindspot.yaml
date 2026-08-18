@@ -1,0 +1,25 @@
+id: blindspot
+name: BlindSpot
+slug: blindspot
+tagline: Every Bike sees. Every City Learns.
+summary: BlindSpot received the ASUS Sustainability Second Place award at Milpitas Hacks 3 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ronyboxer/blindspot#
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/285/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - firebase
+  - python
+  - raspberry-pi
+  - react
+  - sql
+  - supabase
+  - swift
+builders:
+  - name: Samanyu Mahadevan
+  - name: Pranav Emmadi
+  - name: Ronak Rupani

@@ -1,0 +1,28 @@
+id: cogniview
+name: Cogniview
+slug: cogniview
+tagline: CogniView is an autonomous meeting copilot that watches your screen, listens to the
+  conversation, fact-checks claims in context, generates action points, and de
+summary: Cogniview received the Best Use of the Railtracks Agentic Framework award at Multimodal
+  Frontier Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/NoahLundSyrdal/cogniview
+demo_url: null
+video_url: https://www.youtube.com/embed/6ijM04DkQKk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/722/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - anthropic
+  - fastapi
+  - gemini
+  - openai
+  - python
+  - react
+  - typescript
+builders:
+  - name: Jørgen Bergh
+  - name: Noah Lund  Syrdal

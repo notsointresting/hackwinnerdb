@@ -1,0 +1,25 @@
+id: sparky-ai-desk-companion-by-amd-ryzen-ai
+name: "Sparky : AI Desk Companion by AMD Ryzen AI"
+slug: sparky-ai-desk-companion-by-amd-ryzen-ai
+tagline: It’s sits on your desk, tracks your face and when you need help, just ask. It moves its
+  arm, looks at your homework though its camera and walks you through prob
+summary: "Sparky : AI Desk Companion by AMD Ryzen AI received the Best Use of AMD Tech award at
+  StarkHacks in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/@kevinbijumathew4016
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/595/839/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: Kevin Biju Mathew
+  - name: Karthik Seelam Sreenivas
+  - name: Aaron Remedios
+  - name: sumedh dintakurthy

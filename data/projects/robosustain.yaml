@@ -1,0 +1,25 @@
+id: robosustain
+name: RoboSustain
+slug: robosustain
+tagline: AI-powered autonomous robot that detects invisible building hazards gas leaks, moisture,
+  and thermal inefficiencies for under $80."
+summary: RoboSustain received the Honorable Mention award at Girls In STEM Global Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/agueroyas/robo-sustain
+demo_url: null
+video_url: https://www.youtube.com/embed/71IGynsSeEE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/855/338/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - robotics
+technologies:
+  - esp32
+  - javascript
+  - vercel
+builders:
+  - name: Rokia Saeed Elkalashy
+  - name: Salma Mahmoud
+  - name: Arwa Ahmed
+  - name: Abdelruhman Muhammed Abdalnafea

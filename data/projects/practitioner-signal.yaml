@@ -1,0 +1,21 @@
+id: practitioner-signal
+name: Practitioner Signal
+slug: practitioner-signal
+tagline: AI-powered career intelligence that structures and prices the advisory value of
+  professionals with high-signal crossings — building the supply side of the exper
+summary: Practitioner Signal received the MLT20 AI Buildathon Viewers Choice Finalist award at MLT20
+  AI Buildathon (Powered by WNCP AI) in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/wanci-nana24/practitioner-signal
+demo_url: null
+video_url: https://www.youtube.com/embed/Tc3zUa9jzD4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/660/936/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Wanci Nana

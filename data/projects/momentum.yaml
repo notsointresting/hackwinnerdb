@@ -1,0 +1,21 @@
+id: momentum
+name: Momentum
+slug: momentum
+tagline: A campus body-doubling app that helps ADHD students start tasks they've been avoiding by
+  matching them with verified peers for focus sessions, right when they n
+summary: Momentum received the Accessibility Track award at CU Design-a-thon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/p5szlc1Nb68
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/590/087/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - claude
+  - figma
+  - vercel
+builders:
+  - name: Stephanie Mae Mauricio

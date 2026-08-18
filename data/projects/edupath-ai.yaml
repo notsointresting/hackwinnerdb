@@ -1,0 +1,20 @@
+id: edupath-ai
+name: Edupath AI
+slug: edupath-ai
+tagline: I developed Edupath AI, an intelligent educational platform designed to streamline the
+  learning journey for Computer Science and Engineering (CSE) students.
+summary: Edupath AI received the Google Swag Kits award at Build with AI Hack Days @UITS in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - gemini
+builders:
+  - name: Md. Abir Hossain

@@ -1,0 +1,24 @@
+id: watershield-alerts
+name: WaterShield Alerts
+slug: watershield-alerts
+tagline: An automated system to detect and prevent water leakages/bursts in piping systems
+summary: WaterShield Alerts received the Best Sustainability Hack award at HackPrinceton Spring '26
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UUjBsByKszA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/583/262/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - esp32
+  - javascript
+  - python
+builders:
+  - name: Veronica Guo
+  - name: Aadi Gannavaram
+  - name: Varun Sridhar

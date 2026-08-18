@@ -1,0 +1,22 @@
+id: foodbridge
+name: FoodBridge
+slug: foodbridge
+tagline: FoodBridge is a mobile app that connects restaurants with nearby food banks and shelters in
+  real time
+summary: "FoodBridge received the Referral Reward Program for participants: award at Quantum Sprint
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/codeNimra/FoodBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/1NELjB22ww4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/540/311/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+  - enterprise
+technologies:
+  - javascript
+  - react
+builders:
+  - name: NIMRA ABID
+  - name: Zain Gill

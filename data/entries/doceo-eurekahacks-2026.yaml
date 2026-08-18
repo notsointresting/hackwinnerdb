@@ -1,0 +1,14 @@
+id: doceo-eurekahacks-2026
+project_id: doceo
+hackathon_id: eurekahacks-2026
+submission_url: https://devpost.com/software/doceo
+source:
+  platform: devpost
+  url: https://devpost.com/software/doceo
+awards:
+  - type: other
+    title: MIDI Controller
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

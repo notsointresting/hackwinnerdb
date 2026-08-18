@@ -1,0 +1,18 @@
+id: inbox-zero
+name: "Inbox: Zero"
+slug: inbox-zero
+tagline: An email manager built for the future. AI sorts everything and drafts your replies. You
+  just hit send.
+summary: "Inbox: Zero received the Best AI award at UCLA Hack on the Hill (HOTH) XIII in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/lleo022/mail-sort-assistant
+demo_url: null
+video_url: https://www.youtube.com/embed/XuJSmJc67ME
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/396/855/datas/medium.png
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies: []
+builders:
+  - name: Leo Lai

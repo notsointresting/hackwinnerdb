@@ -1,0 +1,25 @@
+id: smart-bins
+name: Smart-Bins
+slug: smart-bins
+tagline: Not just a bin Smart-Bins sees, classifies, and acts. On-device AI sorts your waste
+  automatically and keeps urban pests away in real time.
+summary: Smart-Bins received the 3rd price - Qualcomm Challenge award at InterHackBCN in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/xrroman/Smart-Bins.git
+demo_url: null
+video_url: https://www.youtube.com/embed/9rwnEuISnzk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/184/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - c-plus-plus
+  - python
+  - react
+  - vercel
+builders:
+  - name: nil Babot
+  - name: Juan Carlos Diaz
+  - name: Lucia Acedo
+  - name: Xavier Román Gutiérrez

@@ -1,0 +1,14 @@
+id: ownpath-hack-arizona-2026
+project_id: ownpath
+hackathon_id: hack-arizona-2026
+submission_url: https://devpost.com/software/ownpath
+source:
+  platform: devpost
+  url: https://devpost.com/software/ownpath
+awards:
+  - type: category-winner
+    title: "[Community Food Bank of Southern Arizona] Best Preservation of Individual Autonomy"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

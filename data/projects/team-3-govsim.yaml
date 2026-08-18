@@ -1,0 +1,26 @@
+id: team-3-govsim
+name: TEAM-3-GovSim
+slug: team-3-govsim
+tagline: Simulate the impact of policy before testing it on people
+summary: TEAM-3-GovSim received the Atlas credits award at GDGoC Summer DevSprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/community-gdgvtu/TEAM-3
+demo_url: null
+video_url: https://www.youtube.com/embed/7qtVb2FN8PM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/098/128/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - mongodb
+  - python
+  - pytorch
+  - typescript
+builders:
+  - name: Arron REGIN
+  - name: Gavin Wu
+  - name: Ayman Dehalvi
+  - name: Nataliia Rudnikova

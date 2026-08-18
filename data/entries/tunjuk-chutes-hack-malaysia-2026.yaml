@@ -1,0 +1,16 @@
+id: tunjuk-chutes-hack-malaysia-2026
+project_id: tunjuk
+hackathon_id: chutes-hack-malaysia-2026
+submission_url: https://devpost.com/software/tunjuk
+source:
+  platform: devpost
+  url: https://devpost.com/software/tunjuk
+awards:
+  - type: first-place
+    title: University - 1st Place
+  - type: other
+    title: Sign In With Chutes
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: pitchside
+name: Pitchside
+slug: pitchside
+tagline: The football archive you can walk into.
+summary: Pitchside received the 1st Place Theme award at United Hacks V7 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aman-a-shah/pitchside
+demo_url: null
+video_url: https://www.youtube.com/embed/eSIOLMYX840
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/775/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aman Shah

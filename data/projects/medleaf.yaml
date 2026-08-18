@@ -1,0 +1,25 @@
+id: medleaf
+name: MedLeaf
+slug: medleaf
+tagline: Your family's health and insurance, finally in plain English.
+summary: MedLeaf received the Most Creative & Impactful Solution award at CareTech Hackathon Winter
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/jiangyue-amber/MedLeaf
+demo_url: null
+video_url: https://www.youtube.com/embed/McYfCxr8_nk
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+  - sqlite
+builders:
+  - name: Ziqi Liu
+  - name: Abigale Liao
+  - name: jiangyue-amber Jiang

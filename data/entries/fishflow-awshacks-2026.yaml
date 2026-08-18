@@ -1,0 +1,14 @@
+id: fishflow-awshacks-2026
+project_id: fishflow
+hackathon_id: awshacks-2026
+submission_url: https://devpost.com/software/fishflow
+source:
+  platform: devpost
+  url: https://devpost.com/software/fishflow
+awards:
+  - type: third-place
+    title: 3rd Place – Cloud for Good
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

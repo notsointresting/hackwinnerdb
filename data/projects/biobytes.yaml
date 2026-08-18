@@ -1,0 +1,24 @@
+id: biobytes
+name: BioBytes
+slug: biobytes
+tagline: BioByte is a wearable system that tracks real-time heat index and maps campus hotspots,
+  turning student data into insights for healthier campuses and smarter, c
+summary: BioBytes received the Mechanical Design & Biotechnology track award at DataHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arafiq-max/BioByteHackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/QmsMLOqqVaM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/506/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - arduino
+  - python
+builders:
+  - name: rcetin-tech Cetin
+  - name: Sakshi Mohta
+  - name: Abdullah Rafiq
+  - name: Sakshi Mohta

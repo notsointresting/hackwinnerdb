@@ -1,0 +1,33 @@
+id: second-self
+name: Second Self
+slug: second-self
+tagline: "What if you could be in two places at once? Meet your AI twin who lives in your notch,
+  works as you on your computer (via macos fast user switching), while you "
+summary: Second Self received the Personal AI Agent award at YHack Spring 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/23jmo/second-self.git
+demo_url: null
+video_url: https://www.youtube.com/embed/ZpCst-PS7t0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/506/562/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - fastapi
+  - firebase
+  - mongodb
+  - python
+  - react
+  - swift
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Jazlynn Kurniandra
+  - name: Johnathan Mo
+  - name: Vivian Ni
+  - name: Ravin Chutijirawong

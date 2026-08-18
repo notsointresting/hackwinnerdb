@@ -1,0 +1,23 @@
+id: medstick
+name: MedStick
+slug: medstick
+tagline: MedStick provides offline AI Platform for healthcare workers in places with no internet and
+  limited resources to help care for patients.
+summary: MedStick received the 1st Place award at SP26 Cornell Claude Builders Club Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ahmed-52/medstick
+demo_url: null
+video_url: https://www.youtube.com/embed/tSVXw5g-zuo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/366/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - llama
+  - sqlite
+builders:
+  - name: Mihir Steingard
+  - name: Ahmed Abdulla
+  - name: Farhan Mashrur

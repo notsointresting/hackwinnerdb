@@ -1,0 +1,25 @@
+id: ai-gmi
+name: AI GMI
+slug: ai-gmi
+tagline: As university students, money is a problem we all face, whether it’s managing it and/or
+  trying to earn some more. Here’s where AI GMI (Am I Gonna Make IT?) come
+summary: AI GMI received the [MLH] Best Use of Vultr award at KentHackIt in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/m-aaltea/KentHackIt-May9-10.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/654/344/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Shayne Yong
+  - name: Angle 0
+  - name: Michael Altea

@@ -1,0 +1,21 @@
+id: basket
+name: Basket
+slug: basket
+tagline: Brands fly blind when a recipe change goes wrong. We turn scattered "it tastes different
+  now" complaints into a dated, cited early-warning signal, with a tracea
+summary: Basket received the Best Use of Tavily Search award at Multiagents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/M9qE7SIZrBs
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Nicole Jiang
+  - name: Oriol Morros Vilaseca
+  - name: Shiam Junior Chuttoo

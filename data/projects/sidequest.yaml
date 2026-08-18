@@ -1,0 +1,23 @@
+id: sidequest
+name: Sidequest
+slug: sidequest
+tagline: Too many tabs, not enough plans. Sidequest searches the web, verifies what fits your
+  budget, diet & free time, and outputs a cited weekend itinerary you can act
+summary: Sidequest received the Top Overall Winners award at Multiagents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/5hadowblaze/perfect-weekend-planner
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Dzak Dzulzalani

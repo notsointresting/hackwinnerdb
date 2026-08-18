@@ -1,0 +1,22 @@
+id: licenseloop
+name: LicenseLoop
+slug: licenseloop
+tagline: A prototype for a Liquid digital-license marketplace backed by a Simplicity recursive
+  resale covenant.
+summary: LicenseLoop received the Third place award at Blockstream Turin Simplicity Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GiacomoScagliola/BlockstreamTurinHackaton_UniTOTeam
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - javascript
+builders:
+  - name: Giacomo Scagliola
+  - name: Leonardo Valentino
+  - name: Davide Rebuffo
+  - name: Gianmarco Balzarini

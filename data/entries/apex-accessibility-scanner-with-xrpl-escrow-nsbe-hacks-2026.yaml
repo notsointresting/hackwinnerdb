@@ -1,0 +1,16 @@
+id: apex-accessibility-scanner-with-xrpl-escrow-nsbe-hacks-2026
+project_id: apex-accessibility-scanner-with-xrpl-escrow
+hackathon_id: nsbe-hacks-2026
+submission_url: https://devpost.com/software/apex-accessibility-scanner-with-xrpl-escrow
+source:
+  platform: devpost
+  url: https://devpost.com/software/apex-accessibility-scanner-with-xrpl-escrow
+awards:
+  - type: other
+    title: "BFN: Samsung Galaxy Fit 3"
+  - type: second-place
+    title: "Ripple: Second Place Winner"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

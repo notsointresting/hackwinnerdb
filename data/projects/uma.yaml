@@ -1,0 +1,19 @@
+id: uma
+name: Uma
+slug: uma
+tagline: "Uma: Stop paying AI to read what it doesn’t need."
+summary: Uma received the AI/ML Track award at Firehacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sainellutla/uma
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/077/945/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Sai Sharan Nellutla
+  - name: Abhi Nair

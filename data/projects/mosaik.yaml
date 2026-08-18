@@ -1,0 +1,21 @@
+id: mosaik
+name: Mosaik
+slug: mosaik
+tagline: Mosaik is a trustless, permissionless asset exchange on the Liquid, Each offer is a Tessera
+  a single Liquid coin whose Simplicity covenant enforces the trade te
+summary: Mosaik received the Second place award at Blockstream Turin Simplicity Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kaleidoswap/mosaik
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - rust
+builders:
+  - name: Arshia Ramezan Mahmoudi
+  - name: mo_ Harchegani
+  - name: Walter M.

@@ -1,0 +1,22 @@
+id: groundwire-circuits-as-a-quest
+name: GroundWire - Circuits as a Quest
+slug: groundwire-circuits-as-a-quest
+tagline: Upload a circuit schematic — watch it become a playable pixel-art RPG where the physics are
+  real and the story teaches you electronics.
+summary: GroundWire - Circuits as a Quest received the Best Use of Gemini API award at SotonHack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kazybekkh/CircuitCity.git
+demo_url: null
+video_url: https://www.youtube.com/embed/RezSfITqTT8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/443/137/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - nextjs
+  - typescript
+builders:
+  - name: Kazybek Khairulla
+  - name: Taran Pal Singh
+  - name: ahmad-k07

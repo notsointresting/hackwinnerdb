@@ -1,0 +1,24 @@
+id: aiive
+name: AIIVE
+slug: aiive
+tagline: "AIIVE is a claims-support tool for insurers that detects AI-related fraud and flags
+  inconsistencies in images, videos, and statements—within a single claim and "
+summary: AIIVE received the Chubb Challenge Prize award at Stevens QuackHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rummank9513/AIIVE-2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/rMUBhvPKXyQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/389/667/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - firebase
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Het Shah
+  - name: Rumman Khan

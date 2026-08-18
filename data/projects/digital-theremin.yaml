@@ -1,0 +1,18 @@
+id: digital-theremin
+name: Digital Theremin
+slug: digital-theremin
+tagline: Play music with your body. Hands control melody, head bangs drop 808 kicks, 🤟 summons a
+  drone, double 🤟 for the drop. No touch, just a webcam
+summary: Digital Theremin received the least useless award at Stupid Ideas Hackathon (Toronto W26)
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/127/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - javascript
+builders:
+  - name: Mei Chen

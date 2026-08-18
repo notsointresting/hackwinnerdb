@@ -1,0 +1,14 @@
+id: smart-market-neuu-hack-day
+project_id: smart-market
+hackathon_id: neuu-hack-day
+submission_url: https://devpost.com/software/smart-market-7jkl94
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-market-7jkl94
+awards:
+  - type: other
+    title: Gift Cards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

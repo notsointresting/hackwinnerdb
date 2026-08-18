@@ -1,0 +1,27 @@
+id: pylon
+name: Pylon
+slug: pylon
+tagline: Rapidly deployable on land and sea, autonomous pylons form a self-healing mesh network with
+  threat detection and resilient communications
+summary: "Pylon received the Logistics & Cybersecurity Track (Software): 2nd Place award at DS3 x
+  SIC x Bow Capital Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/WeXh6rdi65w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/513/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - iot
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Dat Nguyen
+  - name: William Stobaugh
+  - name: Pranay Yalamanchali
+  - name: Laksh Goyal

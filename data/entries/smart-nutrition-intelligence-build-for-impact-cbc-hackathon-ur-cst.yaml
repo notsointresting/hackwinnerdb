@@ -1,0 +1,14 @@
+id: smart-nutrition-intelligence-build-for-impact-cbc-hackathon-ur-cst
+project_id: smart-nutrition-intelligence
+hackathon_id: build-for-impact-cbc-hackathon-ur-cst
+submission_url: https://devpost.com/software/smart-nutrition-intelligence
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-nutrition-intelligence
+awards:
+  - type: first-place
+    title: 1st Place — Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

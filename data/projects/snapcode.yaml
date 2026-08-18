@@ -1,0 +1,24 @@
+id: snapcode
+name: SnapCode
+slug: snapcode
+tagline: Snap It, Link It, Launch It. Hands-on puzzle-like block coding with tangible code and
+  tangible results.
+summary: SnapCode received the First Place award at JecHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LmaoPanda/SnapCode
+demo_url: null
+video_url: https://www.youtube.com/embed/7nrw3aTUuLI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/880/535/datas/medium.png
+categories:
+  - other
+technologies:
+  - flask
+  - opencv
+  - python
+  - raspberry-pi
+builders:
+  - name: panda.executable Li
+  - name: Devansh Chandani
+  - name: Gurshan Bassi
+  - name: Lingfeng Wang

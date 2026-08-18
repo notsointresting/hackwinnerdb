@@ -1,0 +1,27 @@
+id: urbanplus-ai
+name: UrbanPlus.AI
+slug: urbanplus-ai
+tagline: AI-powered urban intelligence for accessible, sustainable, and future-ready cities
+summary: UrbanPlus.AI received the 1st Place Advanced award at FutureHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ravibhatt2406/UrbanPlus.Ai.git
+demo_url: null
+video_url: https://www.youtube.com/embed/k_piUzZePCQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/826/892/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - sustainability
+  - accessibility
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Ravi Bhatt

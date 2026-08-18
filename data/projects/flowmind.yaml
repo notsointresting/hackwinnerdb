@@ -1,0 +1,23 @@
+id: flowmind
+name: FlowMind
+slug: flowmind
+tagline: FlowMind is the "paste your notes, get your sprint" tool — AI that reads the chaos so your
+  team doesn't have to.
+summary: FlowMind received the Corporate - 2nd Place award at Chutes Hack Malaysia 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/limwengni/flowmind
+demo_url: null
+video_url: https://www.youtube.com/embed/JBIYzOc5Atc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/853/084/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: Weng Ni Lim

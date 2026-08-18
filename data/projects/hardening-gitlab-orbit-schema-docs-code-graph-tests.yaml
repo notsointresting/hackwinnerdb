@@ -1,0 +1,22 @@
+id: hardening-gitlab-orbit-schema-docs-code-graph-tests
+name: "Hardening GitLab Orbit: schema, docs & code-graph tests"
+slug: hardening-gitlab-orbit-schema-docs-code-graph-tests
+tagline: Three merged MRs that keep Orbit's context truthful - ontology schema guardrails and
+  code-graph test coverage - plus a real data-loss bug discovered, filed, and
+summary: "Hardening GitLab Orbit: schema, docs & code-graph tests received the Contribute Track: 3
+  qualified Merged Merge Request award at GitLab Transcend Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - go
+  - rust
+builders:
+  - name: Varun Bhandari

@@ -1,0 +1,21 @@
+id: wandersync
+name: WanderSync
+slug: wandersync
+tagline: "Beli for travel: paste links, rank your favorites, and wander together."
+summary: "WanderSync received the Best Overall Hack award at HackDuke: Code For Good 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/FuLuke11679/Wandertogether
+demo_url: null
+video_url: https://www.youtube.com/embed/gappObAkWJU
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - figma
+  - google-maps
+  - react
+  - typescript
+builders:
+  - name: Ian Kruger
+  - name: Luke Fu

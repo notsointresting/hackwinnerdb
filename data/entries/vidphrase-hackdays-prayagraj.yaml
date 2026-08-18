@@ -1,0 +1,14 @@
+id: vidphrase-hackdays-prayagraj
+project_id: vidphrase
+hackathon_id: hackdays-prayagraj
+submission_url: https://devpost.com/software/vidphrase-iru748
+source:
+  platform: devpost
+  url: https://devpost.com/software/vidphrase-iru748
+awards:
+  - type: other
+    title: Stickers
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

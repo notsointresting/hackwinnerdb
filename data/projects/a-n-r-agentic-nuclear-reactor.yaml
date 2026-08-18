@@ -1,0 +1,26 @@
+id: a-n-r-agentic-nuclear-reactor
+name: A.N.R (Agentic Nuclear Reactor)
+slug: a-n-r-agentic-nuclear-reactor
+tagline: Can you imagine having a proper AI being able to help streamline efficiencies, not just in
+  everyday, but in complex tasks such as running a fusion reactor?
+summary: A.N.R (Agentic Nuclear Reactor) received the Best Overall 1st award at HackUSF 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/morallyearlgrey/demo-fusion-reactor
+demo_url: null
+video_url: https://www.youtube.com/embed/knOwocRSfrc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/326/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Dawn Balaschak
+  - name: Kai Sprunger
+  - name: Bryan Taylan
+  - name: Patrick Corzo

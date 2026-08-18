@@ -1,0 +1,19 @@
+id: pols-15
+name: Pols 15
+slug: pols-15
+tagline: toolbox for aspiring politicians to campaign, stress-test their policies, and run ads on
+  social media through just a asi:1 chat!!
+summary: "Pols 15 received the Track: Agentverse - Search & Discovery of Agents award at LA Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/PranAD-dev/pols-15
+demo_url: null
+video_url: https://www.youtube.com/embed/pVwl8clqHy4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/613/363/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies: []
+builders:
+  - name: Pranjal Adhikari

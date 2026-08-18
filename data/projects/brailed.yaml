@@ -1,0 +1,28 @@
+id: brailed
+name: Brailed
+slug: brailed
+tagline: "Phone-mounted device for blind & deaf users: type in braille, read live captions on OLED,
+  and control your phone with natural-language commands. Independence fo"
+summary: Brailed received the Social Impact Track 2nd Place award at JacHacks SF in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chezzz439-arch/Brailed
+demo_url: null
+video_url: https://www.youtube.com/embed/pwDT-jaVTDM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/665/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - groq
+  - kotlin
+  - llama
+  - python
+builders:
+  - name: Kaushik Chekka
+  - name: Dhruv Gupta
+  - name: Yash Kathrani

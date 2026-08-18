@@ -1,0 +1,14 @@
+id: block-party-hackku26
+project_id: block-party
+hackathon_id: hackku26
+submission_url: https://devpost.com/software/blocksale
+source:
+  platform: devpost
+  url: https://devpost.com/software/blocksale
+awards:
+  - type: other
+    title: XRPL/Ripple
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

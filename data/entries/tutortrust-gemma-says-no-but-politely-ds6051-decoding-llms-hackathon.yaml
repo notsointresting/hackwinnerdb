@@ -1,0 +1,14 @@
+id: tutortrust-gemma-says-no-but-politely-ds6051-decoding-llms-hackathon
+project_id: tutortrust-gemma-says-no-but-politely
+hackathon_id: ds6051-decoding-llms-hackathon
+submission_url: https://devpost.com/software/educational-hackathon
+source:
+  platform: devpost
+  url: https://devpost.com/software/educational-hackathon
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: bigredhacks
+name: BigRedHacks
+slug: bigredhacks
+organizer: []
+year: 2026
+sources:
+  - https://bigredhacks-28881.devpost.com/
+  - https://bigredhacks-28881.devpost.com/project-gallery?filter=winner
+website_url: https://bigredhacks-28881.devpost.com/
+platform: devpost
+participant_count: 32
+prize_pool: null
+currency: null
+description: "Devpost hackathon: BigRedHacks. Imported automatically."

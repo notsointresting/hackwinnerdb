@@ -1,0 +1,14 @@
+id: red-flag-detector-group-11-beachhacks-9-0
+project_id: red-flag-detector-group-11
+hackathon_id: beachhacks-9-0
+submission_url: https://devpost.com/software/red-flag-detector-yi5snv
+source:
+  platform: devpost
+  url: https://devpost.com/software/red-flag-detector-yi5snv
+awards:
+  - type: category-winner
+    title: Best Gag
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

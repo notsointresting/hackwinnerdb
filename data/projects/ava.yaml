@@ -1,0 +1,21 @@
+id: ava
+name: AVA
+slug: ava
+tagline: An AI-powered web application that analyzes code snippets and URLs for security
+  vulnerabilities using machine learning models.
+summary: AVA received the KYXGO Community Pioneer Award award at Kyxgo hack by Aditya Rai & Yash  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anirudh-Mannattil1991/vuln-analyzer
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/496/061/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Anirudh Mannattil

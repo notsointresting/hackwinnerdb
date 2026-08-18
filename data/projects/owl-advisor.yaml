@@ -1,0 +1,22 @@
+id: owl-advisor
+name: Owl Advisor
+slug: owl-advisor
+tagline: Your AI-powered guide for FAU courses, campus locations, and seamless registration.
+summary: Owl Advisor received the Cash Prize (150 per team) award at HootHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fdumary/Owl-Advisor
+demo_url: null
+video_url: https://www.youtube.com/embed/f9BFWHEj1fQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/459/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Francesca Dumary
+  - name: Walther Aragon
+  - name: Jonathan Ziadie
+  - name: Julio Altamirano

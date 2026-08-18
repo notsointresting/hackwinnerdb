@@ -1,0 +1,23 @@
+id: focustrack
+name: FocusTrack
+slug: focustrack
+tagline: Fill gaps in teacher
+summary: "FocusTrack received the Sponsor Challenge: Best Use of Tavily award at Hack Brooklyn in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/BigPoppaK/on-track-v3
+demo_url: null
+video_url: https://www.youtube.com/embed/FjCn9jIqu4g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/711/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+  - react
+  - sql
+builders:
+  - name: hashim masood
+  - name: PabloJavR
+  - name: Ragib Nehal

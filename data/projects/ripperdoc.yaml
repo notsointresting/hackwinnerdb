@@ -1,0 +1,19 @@
+id: ripperdoc
+name: Ripperdoc
+slug: ripperdoc
+tagline: Carefully manage your patient's vitals as you install new cyberware
+summary: Ripperdoc received the Game Jam 3rd place award at BlasterHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaronrjackson/ripperdoc
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/241/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - gaming
+  - creative-tools
+technologies: []
+builders:
+  - name: Aaron Jackson
+  - name: Brodie Kimbell-Jack

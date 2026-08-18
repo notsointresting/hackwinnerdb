@@ -1,0 +1,16 @@
+id: guidely-your-indoor-navigation-partner-ctrl-plus-v-hackathon
+project_id: guidely-your-indoor-navigation-partner
+hackathon_id: ctrl-plus-v-hackathon
+submission_url: https://devpost.com/software/guidely-your-indoor-navigation-partner
+source:
+  platform: devpost
+  url: https://devpost.com/software/guidely-your-indoor-navigation-partner
+awards:
+  - type: third-place
+    title: Third place - Impact Award
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

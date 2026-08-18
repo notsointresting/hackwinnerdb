@@ -1,0 +1,14 @@
+id: council-ai-hacksmu-vii
+project_id: council-ai
+hackathon_id: hacksmu-vii
+submission_url: https://devpost.com/software/council-ai-tzcf2m
+source:
+  platform: devpost
+  url: https://devpost.com/software/council-ai-tzcf2m
+awards:
+  - type: category-winner
+    title: Best UI/UX Design
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

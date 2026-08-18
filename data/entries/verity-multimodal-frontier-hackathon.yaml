@@ -1,0 +1,14 @@
+id: verity-multimodal-frontier-hackathon
+project_id: verity
+hackathon_id: multimodal-frontier-hackathon
+submission_url: https://devpost.com/software/vertify
+source:
+  platform: devpost
+  url: https://devpost.com/software/vertify
+awards:
+  - type: category-winner
+    title: Best Use of DigitalOcean
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

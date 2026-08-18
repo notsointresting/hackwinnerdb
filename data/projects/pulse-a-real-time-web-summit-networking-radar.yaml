@@ -1,0 +1,27 @@
+id: pulse-a-real-time-web-summit-networking-radar
+name: Pulse - A Real Time Web Summit Networking Radar
+slug: pulse-a-real-time-web-summit-networking-radar
+tagline: Web Summit creates the room. Pulse helps attendees find the right conversation before the
+  moment disappears. Create a Quest, find nearby matches, wave, and conn
+summary: Pulse - A Real Time Web Summit Networking Radar received the Chairperson tickets to Web
+  Summit Vancouver 2027 award at Web Summit Vancouver Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adi-padmarajan/pulse-websummit-hackathon-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/K-wmFjelY1g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/668/783/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - fastapi
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Aditya Padmarajan
+  - name: Lucas Wang

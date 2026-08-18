@@ -1,0 +1,20 @@
+id: geo-mcp
+name: Geo-mcp
+slug: geo-mcp
+tagline: An open-source geospatial MCP server that lets AI agents geocode, query OpenStreetMap,
+  route, analyze rasters, build isochrones, and generate maps through teste
+summary: Geo-mcp received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tabibhasann/geo-mcp
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - python
+builders:
+  - name: Tabib Hasan

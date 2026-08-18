@@ -1,0 +1,22 @@
+id: browser-history-audit
+name: Browser History Audit
+slug: browser-history-audit
+tagline: See what's watching you, right in your browser.
+summary: Browser History Audit received the Third Prize Winner award at Hack for Social Impact x WIT
+  Regatta 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Psirees1/EFF-Privacy-Badger
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - sqlite
+builders:
+  - name: Shruti Manohar Tanpure
+  - name: Xuefeng Zhu

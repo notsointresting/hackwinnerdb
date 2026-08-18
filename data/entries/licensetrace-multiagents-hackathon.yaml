@@ -1,0 +1,16 @@
+id: licensetrace-multiagents-hackathon
+project_id: licensetrace
+hackathon_id: multiagents-hackathon
+submission_url: https://devpost.com/software/licensetrace
+source:
+  platform: devpost
+  url: https://devpost.com/software/licensetrace
+awards:
+  - type: other
+    title: Prometheux Intelligence Prize
+  - type: category-winner
+    title: Best Use of ClickHouse
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

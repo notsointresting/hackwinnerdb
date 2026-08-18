@@ -1,0 +1,22 @@
+id: commission-free-tuition
+name: Commission Free Tuition
+slug: commission-free-tuition
+tagline: "Most tuition platforms take 50–60% commission,that unfair to tutors and guardians. Our app
+  can supports an existing 16,000+ member community to build trust and "
+summary: Commission Free Tuition received the Best App Deployed on Google Cloud award at Hack Days
+  in Feni in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sadmanarian004/Commission-Free-Tuition-system.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Y8CKMZSVHoQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/726/816/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - firebase
+  - javascript
+builders:
+  - name: Sadman Arian
+  - name: Mohammad Shariar Islam Emon
+  - name: widescope daily

@@ -1,0 +1,22 @@
+id: sensus
+name: Sensus
+slug: sensus
+tagline: A voice-controlled agent for Ubuntu that makes computer navigation accessible.
+summary: Sensus received the Coffee Chat with IBM Leader - Ashar Azmat - Senior Technical Consultant
+  at IBM | TPO | Adobe & MarTech award at IBM x UNSA Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HarisK03/sensus
+demo_url: null
+video_url: https://www.youtube.com/embed/CK8dKBeBTic
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/224/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Haris Kamal

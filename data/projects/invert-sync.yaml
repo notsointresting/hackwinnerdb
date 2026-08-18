@@ -1,0 +1,19 @@
+id: invert-sync
+name: Invert Sync
+slug: invert-sync
+tagline: '"No confundas invertir con apostar"'
+summary: Invert Sync received the Third Place award at Hack Days in Bogotá in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Luisa Carrillo
+  - name: Maria Camila Rodriguez Rodriguez
+  - name: Talihana Cardenas

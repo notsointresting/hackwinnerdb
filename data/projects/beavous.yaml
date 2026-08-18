@@ -1,0 +1,27 @@
+id: beavous
+name: Beavous
+slug: beavous
+tagline: Turn one approved product into a complete, product-true campaign—four concepts, 16 ratios,
+  claim-safe copy, a reel, and verifiable Genblaze/B2 lineage.
+summary: "Beavous received the Second Place award at Backblaze Generative Media Hackathon: Build
+  with Genblaze on B2 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/AmirmLotfy/beavous
+demo_url: null
+video_url: https://www.youtube.com/embed/QURbHdOwvEw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/039/316/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Amir Lotfy

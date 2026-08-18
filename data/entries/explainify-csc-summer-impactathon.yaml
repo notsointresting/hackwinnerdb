@@ -1,0 +1,14 @@
+id: explainify-csc-summer-impactathon
+project_id: explainify
+hackathon_id: csc-summer-impactathon
+submission_url: https://devpost.com/software/explainify-nrx1cb
+source:
+  platform: devpost
+  url: https://devpost.com/software/explainify-nrx1cb
+awards:
+  - type: other
+    title: CSC Impact Silver Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

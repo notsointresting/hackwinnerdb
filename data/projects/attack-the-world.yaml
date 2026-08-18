@@ -1,0 +1,20 @@
+id: attack-the-world
+name: Attack the World
+slug: attack-the-world
+tagline: Open-source OSINT Scanner used for discovery of information and then checks for possible
+  attack vectors.
+summary: Attack the World received the Cybersecurity Track Winner award at PantherHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/justinPemberton/atacktheworld/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/HiChfSWkmkA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/538/662/datas/gallery.jpg
+categories:
+  - healthcare
+  - cybersecurity
+technologies: []
+builders:
+  - name: Marcus Hall
+  - name: Jaylor W
+  - name: Justin pemberton

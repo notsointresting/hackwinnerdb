@@ -1,0 +1,20 @@
+id: cive-tech-stormsight
+name: Cive.Tech_StormSight
+slug: cive-tech-stormsight
+tagline: Turning rainfall data into actionable drainage decisions
+summary: Cive.Tech_StormSight received the Civil, Environmental, Mining or Petroleum - 3rd award at
+  Hacked 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Zeshan562/Cive.Tech_StormSight
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/349/433/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Z562 Iqbal
+  - name: halamyar1 Alamyar

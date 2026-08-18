@@ -1,0 +1,23 @@
+id: homenet
+name: HomeNet
+slug: homenet
+tagline: A piece of the Skyline in your pocket
+summary: HomeNet received the [MLH] Best Use of Solana award at KeanUHackThis 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/IZukVqLaFqs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/469/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Ragib Majumder
+  - name: Marcos Amaya
+  - name: Andrew

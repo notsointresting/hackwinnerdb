@@ -1,0 +1,27 @@
+id: pegasus
+name: Pegasus
+slug: pegasus
+tagline: Catch burnout before it catches you.
+summary: Pegasus received the Mental Health Second Place award at Milpitas Hacks 3 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rishith-c/pegasus
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/200/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - cloudflare
+  - fastapi
+  - hugging-face
+  - python
+  - pytorch
+  - react-native
+  - sqlite
+  - typescript
+builders:
+  - name: Rishith Chennupati
+  - name: random-72521 Qu
+  - name: Dhruva Amarnath
+  - name: Jason Guo

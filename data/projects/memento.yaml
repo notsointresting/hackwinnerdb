@@ -1,0 +1,26 @@
+id: memento
+name: Memento
+slug: memento
+tagline: Memento is a daily friendly AI call for dementia patients that invisibly runs clinical
+  assessments, compares to their personal baseline, and surfaces insights f
+summary: Memento received the Third Place award at Autonomous Healthcare Hackathon | Legion Health x
+  Atlas in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/alek-karp/grok-app
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/629/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Andrew Feng
+  - name: Priyanshu Mahey
+  - name: Aleksander Karp
+  - name: Jack Polloway

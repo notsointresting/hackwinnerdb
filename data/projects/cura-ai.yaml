@@ -1,0 +1,25 @@
+id: cura-ai
+name: Cura AI
+slug: cura-ai
+tagline: "Cura AI connects patients managing diabetes, heart disease, and respiratory illness with
+  AI-powered guidance, volunteer support, and their Banner physician all "
+summary: Cura AI received the [Banner – University Family Care] Most Innovative Use of AI for the
+  Public Good award at Hack Arizona 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aslbek-T/cura-ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/495/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - supabase
+  - twilio
+  - vercel
+builders:
+  - name: Aslbek Toshboev
+  - name: Behruz Ernazarov
+  - name: Mukhriddin Musaev

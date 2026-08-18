@@ -1,0 +1,21 @@
+id: locallens
+name: LocalLens
+slug: locallens
+tagline: AI dashboard that investigates nearby medical facilities for hostel students, scores each
+  on trust, and delivers evidence-backed recommendations — not just a li
+summary: LocalLens received the Best No-Code Solution award at Build the Future with AI — From Code
+  to No-Code in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4DVM1AZZ-30
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/817/863/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+builders:
+  - name: neil ahuja

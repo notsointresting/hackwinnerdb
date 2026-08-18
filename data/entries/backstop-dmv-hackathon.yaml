@@ -1,0 +1,14 @@
+id: backstop-dmv-hackathon
+project_id: backstop
+hackathon_id: dmv-hackathon
+submission_url: https://devpost.com/software/backstop
+source:
+  platform: devpost
+  url: https://devpost.com/software/backstop
+awards:
+  - type: track-winner
+    title: Track 1
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

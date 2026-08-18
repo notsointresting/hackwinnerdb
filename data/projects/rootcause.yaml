@@ -1,0 +1,21 @@
+id: rootcause
+name: RootCause
+slug: rootcause
+tagline: A FHIR-native multi-agent AI system that detects why dental patients stop coming in and
+  automatically generates personalized re-engagement plans, orchestrated a
+summary: RootCause received the Honorable Mentions award at Agents Assemble - The Healthcare AI
+  Endgame in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/890/618/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Sagar Sahu
+  - name: Pari Ahuja

@@ -1,0 +1,27 @@
+id: katena
+name: Katena
+slug: katena
+tagline: Building RL environments is very hard, and there's many vectors of reward hacking. We
+  automate the first layer of defense against weak RL environments.
+summary: Katena received the Best Use of Daytona award at Daytona HackSprint w/ Braintrust - SF,
+  July 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/vgnecula/hackathon-dbf
+demo_url: null
+video_url: https://www.youtube.com/embed/YEkZxBOij1U
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - docker
+  - javascript
+  - python
+  - react
+builders:
+  - name: David Ghiberdic Cristian
+  - name: Justin Stefan Stoica-Tica
+  - name: David Gvadzabia
+  - name: Vladimir Necula

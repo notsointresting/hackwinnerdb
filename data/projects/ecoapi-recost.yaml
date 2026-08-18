@@ -1,0 +1,26 @@
+id: ecoapi-recost
+name: EcoApi(Recost)
+slug: ecoapi-recost
+tagline: Ever thought about how much your vibe-coded app is costing you? What about the
+  sustainability of it?EcoApi solves these issues token by token one scan at a time
+summary: "EcoApi(Recost) received the Track: Best Web API (1st Place) award at HackIllinois 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/AndresL230/ecoapi.git
+demo_url: null
+video_url: https://www.youtube.com/embed/JSloE_LMjKY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/386/258/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - sustainability
+technologies:
+  - cloudflare
+  - react
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Donggyu Yoon
+  - name: Aslan Wang
+  - name: Andres Lopez

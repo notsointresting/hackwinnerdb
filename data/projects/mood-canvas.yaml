@@ -1,0 +1,17 @@
+id: mood-canvas
+name: Mood Canvas
+slug: mood-canvas
+tagline: Express your emotions through colors and words.
+summary: Mood Canvas received the Participants award at Code as a Canvas in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dZhcf6fz1sQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/473/077/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - figma
+builders:
+  - name: Hasmitha Kurapaty

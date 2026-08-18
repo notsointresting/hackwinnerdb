@@ -1,0 +1,19 @@
+id: nexustrace-ai
+name: NexusTrace AI
+slug: nexustrace-ai
+tagline: NexusTrace AI is a multi-tier observability platform and live security firewall designed to
+  manage autonomous agent workflows
+summary: NexusTrace AI received the Dev Clash Champion award at Dev Clash in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/LlB7o-KwXJk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/018/235/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - productivity
+technologies: []
+builders:
+  - name: Khusharth Sharma

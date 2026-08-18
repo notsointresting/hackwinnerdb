@@ -1,0 +1,20 @@
+id: stepcode
+name: stepcode
+slug: stepcode
+tagline: Tool for generating static books that feature interactive, step-by-step pseudocode execution.
+summary: stepcode received the GPUL – Mejor proyecto Open Source award at HackUDC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/daniqss/stepcode
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/383/323/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Javier Manotas
+  - name: daniqss Queijo
+  - name: Javi Nogueira

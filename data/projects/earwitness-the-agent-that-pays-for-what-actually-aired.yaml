@@ -1,0 +1,23 @@
+id: earwitness-the-agent-that-pays-for-what-actually-aired
+name: EARWITNESS — the agent that pays for what actually aired
+slug: earwitness-the-agent-that-pays-for-what-actually-aired
+tagline: An autonomous agent that listens to live radio, fingerprints what actually aired vs the
+  playlist's claim, pays honest artists in USDC, withholds on lies, and pu
+summary: EARWITNESS — the agent that pays for what actually aired received the Best Use of
+  ClickHouse award at Harness Engineering Hack in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gorajing/earwitness
+demo_url: null
+video_url: https://www.youtube.com/embed/QqeSwumPpBk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - base
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Jin Choi

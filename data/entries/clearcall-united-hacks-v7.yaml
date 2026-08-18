@@ -1,0 +1,14 @@
+id: clearcall-united-hacks-v7
+project_id: clearcall
+hackathon_id: united-hacks-v7
+submission_url: https://devpost.com/software/clearcall-7b8uhd
+source:
+  platform: devpost
+  url: https://devpost.com/software/clearcall-7b8uhd
+awards:
+  - type: second-place
+    title: 2nd Place Theme
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

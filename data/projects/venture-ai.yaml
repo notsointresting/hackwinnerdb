@@ -1,0 +1,21 @@
+id: venture-ai
+name: Venture AI
+slug: venture-ai
+tagline: Venture AI runs 5 AI agents to validate your startup in 90 seconds returning a pitch deck,
+  market map, live website, and VC outreach with real email tracking. N
+summary: Venture AI received the 2nd place award at Los Altos Hacks X in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/svanikthakur/losaltoshacks.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/125/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Svanik Thakur
+  - name: jaztulsi tulsi
+  - name: Rachit Panchal

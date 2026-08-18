@@ -1,0 +1,21 @@
+id: crab-hunt
+name: Crab Hunt
+slug: crab-hunt
+tagline: Personalized AI scavenger hunt around your community!
+summary: Crab Hunt received the 1st Place award at Panther Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/582/023/datas/medium.png
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - arduino
+  - vercel
+builders:
+  - name: Rain Yang
+  - name: Alex Bertelli
+  - name: Bruce Peters

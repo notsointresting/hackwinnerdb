@@ -1,0 +1,19 @@
+id: movo
+name: MOVO
+slug: movo
+tagline: Raise a creature by moving your body.
+summary: MOVO received the College Track 2 Prize award at PeddieHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abdullahon2006/movo.git
+demo_url: null
+video_url: https://www.youtube.com/embed/anHnk1oJN68
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/107/439/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - swift
+builders:
+  - name: Abdullokhon Valikhonov
+  - name: Saadet Namazlı

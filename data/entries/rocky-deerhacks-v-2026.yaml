@@ -1,0 +1,16 @@
+id: rocky-deerhacks-v-2026
+project_id: rocky
+hackathon_id: deerhacks-v-2026
+submission_url: https://devpost.com/software/lumo-2hd6ka
+source:
+  platform: devpost
+  url: https://devpost.com/software/lumo-2hd6ka
+awards:
+  - type: category-winner
+    title: Best Use of Vultr - Portable Monitors
+  - type: second-place
+    title: DH 5 Overall 2nd Place Winner - Instax Digital Camera
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: idle-pet-village-ai-game-week
+project_id: idle-pet-village
+hackathon_id: ai-game-week
+submission_url: https://devpost.com/software/idle-pet-village
+source:
+  platform: devpost
+  url: https://devpost.com/software/idle-pet-village
+awards:
+  - type: category-winner
+    title: Best Design
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

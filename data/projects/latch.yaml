@@ -1,0 +1,21 @@
+id: latch
+name: Latch
+slug: latch
+tagline: Give agents money, not your wallet. Latch is a private spending gate for AI agents, built
+  with zero-knowledge proofs on Midnight.
+summary: Latch received the DeFi Track award at Midnight Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CipherCollective/Latch
+demo_url: null
+video_url: https://www.youtube.com/embed/2JZU4aOUN3g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/940/382/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - blockchain
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Ashiha Mahesh Kumar
+  - name: Atharv Mantri

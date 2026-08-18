@@ -1,0 +1,22 @@
+id: social-connectome
+name: Social connectome
+slug: social-connectome
+tagline: We turn human relationships into a social brain, visualizing structural proximity and
+  functional communication to reveal how connections grow and evolve.
+summary: Social connectome received the Non-Technical - First Place award at NeuroHack Spring 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/skang624/Neurohack2026
+demo_url: null
+video_url: https://www.youtube.com/embed/WNoLp3ntNg8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/293/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - python
+builders:
+  - name: Sehong Kang
+  - name: Minkyung Kim

@@ -1,0 +1,24 @@
+id: doclean
+name: DocLean
+slug: doclean
+tagline: "A token-efficient, context-compressed AI document reviewer that slashes LLM inference
+  costs and latency by 90%+ using Paritok's semantic filtering and 0G Labs' "
+summary: "DocLean received the Social Blitz Prize award at Build with Paritok: The Token-Efficiency
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/chineduemma007/doclean
+demo_url: null
+video_url: https://www.youtube.com/embed/3l6dRniro-I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/057/328/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Chinedu Chukwu

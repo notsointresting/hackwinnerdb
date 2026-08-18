@@ -1,0 +1,14 @@
+id: interhackbcn
+name: InterHackBCN
+slug: interhackbcn
+organizer: []
+year: 2026
+sources:
+  - https://interhackbcn.devpost.com/
+  - https://interhackbcn.devpost.com/project-gallery?filter=winner
+website_url: https://interhackbcn.devpost.com/
+platform: devpost
+participant_count: 226
+prize_pool: 4600
+currency: USD
+description: "Devpost hackathon: InterHackBCN. Imported automatically."

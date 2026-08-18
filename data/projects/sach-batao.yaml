@@ -1,0 +1,26 @@
+id: sach-batao
+name: Sach Batao | سچ بتاؤ
+slug: sach-batao
+tagline: "Daily, Pakistanis lose millions to scam messages and calls. Sach Batao is the verification
+  layer between scammers and 100M WhatsApp users: forward any message/v"
+summary: Sach Batao | سچ بتاؤ received the First Prize award at AI for Civic Innovation Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/codewithfourtix/sachbatao.git
+demo_url: null
+video_url: https://www.youtube.com/embed/z7oiWIkg6BQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/728/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - javascript
+  - python
+  - supabase
+builders:
+  - name: Muhammad Anas Tahir
+  - name: Ali Ateeb
+  - name: Muhammad Obaidullah
+  - name: Ali Zulfiqar

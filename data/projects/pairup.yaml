@@ -1,0 +1,25 @@
+id: pairup
+name: PairUp
+slug: pairup
+tagline: PairUp is an app made to help students find study partners.
+summary: PairUp received the Best use of backboard.io award at JACHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JasonRaza/JACHacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/818/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Jason Raza
+  - name: antoninNabor
+  - name: edberrouet05-rgb Berrouet
+  - name: xinshuoliu Liu

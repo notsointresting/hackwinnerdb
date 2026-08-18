@@ -1,0 +1,21 @@
+id: schrodinger-s-husky
+name: Schrödinger's Husky
+slug: schrodinger-s-husky
+tagline: Hybrid approaches to solve capacitated vehicle routing problems (CVRPs).
+summary: Schrödinger's Husky received the QuantumCT x RTRC x qBraid - 2nd Place award at YQuantum
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/pdd23001/QuantumCT-RTRC-qBraid-Challenge/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/372/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Pranay Kakkar
+  - name: Shai Verma
+  - name: Pham Minh Toan Le
+  - name: Manyata Pathania

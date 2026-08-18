@@ -1,0 +1,26 @@
+id: articue
+name: ArtiCue
+slug: articue
+tagline: 1 in 5 Canadian kids has a speech disorder. The waitlist? Up to 3 years and cost? Obseen.
+  ArtiCue is an AI speech therapy companion that gives children real pra
+summary: ArtiCue received the Google - Build with AI award at Hack Canada 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tanvibatchu/hack-canada
+demo_url: null
+video_url: https://www.youtube.com/embed/nndhehSQGhc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/411/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - firebase
+  - python
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Tanvi B
+  - name: Parneet Saini
+  - name: Paras Atwal
+  - name: Poneesh Kumar

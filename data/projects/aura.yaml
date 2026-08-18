@@ -1,0 +1,22 @@
+id: aura
+name: AURA
+slug: aura
+tagline: An AI memory prosthesis using Gemini vision to recognize loved ones and quietly whisper
+  their names to Alzheimer's patients, restoring connection.
+summary: AURA received the Google Swag Kits award at Google Gemini at Acropolis in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ChiragSharma-DEV/AURA.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Chirag Sharma
+  - name: Aafreen Khan

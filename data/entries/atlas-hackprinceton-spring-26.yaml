@@ -1,0 +1,16 @@
+id: atlas-hackprinceton-spring-26
+project_id: atlas
+hackathon_id: hackprinceton-spring-26
+submission_url: https://devpost.com/software/atlas-kb2cnu
+source:
+  platform: devpost
+  url: https://devpost.com/software/atlas-kb2cnu
+awards:
+  - type: first-place
+    title: "Best AI-Powered App by Orchids (1st place: $300 cash, 2nd place: $200 cash)"
+  - type: other
+    title: AI & Tech for Clinical Trials by Regeneron [Cash Prizes]
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

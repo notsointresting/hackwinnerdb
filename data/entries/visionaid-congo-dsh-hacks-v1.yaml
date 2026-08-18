@@ -1,0 +1,16 @@
+id: visionaid-congo-dsh-hacks-v1
+project_id: visionaid-congo
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/visionaid-congo
+source:
+  platform: devpost
+  url: https://devpost.com/software/visionaid-congo
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

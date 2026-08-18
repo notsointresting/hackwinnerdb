@@ -1,0 +1,21 @@
+id: the-real-roboto
+name: The Real RoboTO
+slug: the-real-roboto
+tagline: We designed a solar powered microgrid for Mars 50 kW array with MPPT and voltage control,
+  delivering uninterrupted power for 7 Mars sols while keeping life supp
+summary: "The Real RoboTO received the First place award at MATLAB HackaTOn : Mission on Mars  in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/codenamefrance/RoboTon
+demo_url: null
+video_url: https://www.youtube.com/embed/hbhUw_VP8hc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/256/datas/gallery.jpg
+categories:
+  - education
+  - robotics
+  - creative-tools
+technologies: []
+builders:
+  - name: Leonardo Sabbatini
+  - name: CMG-RGN Ergun
+  - name: Tommaso Ranocchia

@@ -1,0 +1,21 @@
+id: autoaegis
+name: AutoAegis
+slug: autoaegis
+tagline: AutoAegis-"Self-Diagnostic Immunity System" that eliminates the Watermelon Effect by using
+  Zero-Touch Shadowing
+summary: AutoAegis received the Best backend/functionality award at GenAI Dev Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arun-kumar-24/auto-aegis
+demo_url: null
+video_url: https://www.youtube.com/embed/ewxVPbvDQa8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/379/468/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - supabase
+builders:
+  - name: arun-kumar-24 M
+  - name: E Krishna Shakthi Eswar
+  - name: Navin Lakshman S
+  - name: Navdeep R

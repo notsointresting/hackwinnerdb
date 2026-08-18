@@ -1,0 +1,19 @@
+id: capapply
+name: Capapply
+slug: capapply
+tagline: Resume. Role. Song. One unforgettable application.
+summary: Capapply received the Overall First Place Prize award at Sandcastle in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KaiSong06/Capapply
+demo_url: null
+video_url: https://www.youtube.com/embed/oQw3xqazuV0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/933/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - openai
+builders:
+  - name: Angelo Rivera
+  - name: Kai Song

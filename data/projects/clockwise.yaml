@@ -1,0 +1,20 @@
+id: clockwise
+name: ClockWise
+slug: clockwise
+tagline: ClockWise is a voice-guided AI agent that walks patients through the clinically validated
+  Clock Drawing Test while simultaneously analyzing their drawing and sp
+summary: ClockWise received the Community Impact Track Winner award at CSBA x HBA Hack Day in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6srmenjnMuo
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+builders:
+  - name: Praneel Bhagavatula

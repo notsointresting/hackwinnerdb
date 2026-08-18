@@ -1,0 +1,14 @@
+id: ramp-damm-ehub
+project_id: ramp
+hackathon_id: damm-ehub
+submission_url: https://devpost.com/software/ramp
+source:
+  platform: devpost
+  url: https://devpost.com/software/ramp
+awards:
+  - type: winner
+    title: Winner MarketPulse Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

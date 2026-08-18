@@ -1,0 +1,16 @@
+id: launchpad3d-project-stellar
+project_id: launchpad3d
+hackathon_id: project-stellar
+submission_url: https://devpost.com/software/launchpad3d
+source:
+  platform: devpost
+  url: https://devpost.com/software/launchpad3d
+awards:
+  - type: category-winner
+    title: Best Overall Execution
+  - type: other
+    title: Participant
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: el-gato
+name: El Gato
+slug: el-gato
+tagline: Is your friend nervous when presenting in class? Is he freezing up due to stage fright? You
+  can Cheer him up using El Gato!!
+summary: El Gato received the First Place award at .exploreSWE in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/068/865/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+builders:
+  - name: Abdullah Mohamed
+  - name: keiran Choong
+  - name: Sheng cai
+  - name: Claudia Lew

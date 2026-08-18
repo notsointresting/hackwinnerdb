@@ -1,0 +1,14 @@
+id: clawtv-acm-trojan-hacks-2026
+project_id: clawtv
+hackathon_id: acm-trojan-hacks-2026
+submission_url: https://devpost.com/software/clawtv
+source:
+  platform: devpost
+  url: https://devpost.com/software/clawtv
+awards:
+  - type: category-winner
+    title: Best Project in Entertainment
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

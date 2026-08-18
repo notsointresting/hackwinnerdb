@@ -1,0 +1,23 @@
+id: clearair
+name: ClearAir
+slug: clearair
+tagline: Shows live EPA AirNow air quality for your area, adds tips by who you are, and optionally
+  lets you log sustainability missions with simple modeled impact.
+summary: ClearAir received the Climate Track award at Rutgers MTC Code for Impact Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jyothikaak/mtcproject
+demo_url: null
+video_url: https://www.youtube.com/embed/EtZ5yzUSna8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/391/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Jyothika Akkineni
+  - name: DecoyAvanish Pakalapati

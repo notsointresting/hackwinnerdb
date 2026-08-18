@@ -1,0 +1,19 @@
+id: campus-cybershield-ai
+name: Campus CyberShield AI
+slug: campus-cybershield-ai
+tagline: AI Scam, Phishing, and Digital Threat Detection for Students
+summary: Campus CyberShield AI received the Best Overall Hack award at cybersage in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/523/253/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+builders:
+  - name: Sravanthi Ravula

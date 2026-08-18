@@ -1,0 +1,14 @@
+id: dmv-hackathon
+name: "DMV Hackathon "
+slug: dmv-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://dmv-hackathon.devpost.com/
+  - https://dmv-hackathon.devpost.com/project-gallery?filter=winner
+website_url: https://dmv-hackathon.devpost.com/
+platform: devpost
+participant_count: 85
+prize_pool: 10000
+currency: USD
+description: "Devpost hackathon: DMV Hackathon . Imported automatically."

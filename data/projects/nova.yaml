@@ -1,0 +1,19 @@
+id: nova
+name: Nova
+slug: nova
+tagline: Nova sees your screen, remembers your session, and acts across every app. Just press a
+  hotkey and ask. Your AI co-pilot for everything, everywhere on your Mac.
+summary: Nova received the 2nd Place Overall award at CSBA x HBA Hack Day in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/renil-edu/Nova
+demo_url: null
+video_url: https://www.youtube.com/embed/Hrxj4mA4_6c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/565/989/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - swift
+builders:
+  - name: Renil  Gupta

@@ -1,0 +1,14 @@
+id: safety-evaluation-scorecard-for-a-legal-ai-assistant-ds6051-decoding-llms-hackathon
+project_id: safety-evaluation-scorecard-for-a-legal-ai-assistant
+hackathon_id: ds6051-decoding-llms-hackathon
+submission_url: https://devpost.com/software/uva-decoding-llms-project
+source:
+  platform: devpost
+  url: https://devpost.com/software/uva-decoding-llms-project
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

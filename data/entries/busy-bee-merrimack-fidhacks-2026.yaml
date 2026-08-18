@@ -1,0 +1,14 @@
+id: busy-bee-merrimack-fidhacks-2026
+project_id: busy-bee
+hackathon_id: merrimack-fidhacks-2026
+submission_url: https://devpost.com/software/busy-bee-gfqopm
+source:
+  platform: devpost
+  url: https://devpost.com/software/busy-bee-gfqopm
+awards:
+  - type: second-place
+    title: 2nd place Merrimack FidHacks Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

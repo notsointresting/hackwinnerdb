@@ -1,0 +1,14 @@
+id: healthview-os-autonomous-healthcare-hackathon-legion-health-x-atlas
+project_id: healthview-os
+hackathon_id: autonomous-healthcare-hackathon-legion-health-x-atlas
+submission_url: https://devpost.com/software/healthview-os
+source:
+  platform: devpost
+  url: https://devpost.com/software/healthview-os
+awards:
+  - type: category-winner
+    title: Special prize (Best Use of Grok Voice)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

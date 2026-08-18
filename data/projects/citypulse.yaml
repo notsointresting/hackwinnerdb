@@ -1,0 +1,25 @@
+id: citypulse
+name: CityPulse
+slug: citypulse
+tagline: NYC has a 1.4% vacancy rate. CityPulse maps all 59 NYC districts — simulate any housing
+  policy, paste a headline, and watch the neighborhood impact update insta
+summary: CityPulse received the Linkup Challenge - Best use of the Linkup search API award at Claude
+  Hackathon 2026 Columbia X NYU in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/ahamedfo/citypulse.git
+demo_url: null
+video_url: https://www.youtube.com/embed/o9fu_8AoukI
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Dina Himed
+  - name: Besty Yang
+  - name: Jacob Lipner
+  - name: Ahamed Fofana

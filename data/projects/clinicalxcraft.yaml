@@ -1,0 +1,19 @@
+id: clinicalxcraft
+name: ClinicalxCraft
+slug: clinicalxcraft
+tagline: "ClinicalxCraft an AI agent that lets clinicians query cancer genomic data in plain English
+  no SQL, no bioinformatician. It investigates like a researcher: hypot"
+summary: ClinicalxCraft received the Honorable Mention award at Enterprise Agents Hackathon by
+  Emergence & Nebius in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/EmergenceAI/nebius-emergence-hackathon/pull/3
+demo_url: null
+video_url: https://www.youtube.com/embed/TU_1mRCevsM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: nitchakorn Tangsathapornpanich

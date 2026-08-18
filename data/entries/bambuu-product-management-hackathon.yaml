@@ -1,0 +1,16 @@
+id: bambuu-product-management-hackathon
+project_id: bambuu
+hackathon_id: product-management-hackathon
+submission_url: https://devpost.com/software/bambuu
+source:
+  platform: devpost
+  url: https://devpost.com/software/bambuu
+awards:
+  - type: other
+    title: 30-MINUTE MENTORSHIP SESSION WITH A JUDGE
+  - type: other
+    title: $25 AMAZON GIFTCARD
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

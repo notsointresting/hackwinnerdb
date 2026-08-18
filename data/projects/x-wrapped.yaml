@@ -1,0 +1,20 @@
+id: x-wrapped
+name: X Wrapped
+slug: x-wrapped
+tagline: Generate personalized X (Twitter) personality wrapped experiences with AI-powered analysis
+  and cinematic video generation.
+summary: X Wrapped received the Best Use of Magic Hour award at FalconHacks by MongoDB in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chess10kp/xwrapped
+demo_url: null
+video_url: https://www.youtube.com/embed/m1ZYY0b5I60
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/563/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - mongodb
+builders:
+  - name: Chuka Ezeoke
+  - name: Nitin Shankar Madhu

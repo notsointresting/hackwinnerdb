@@ -1,0 +1,14 @@
+id: elasticaws-aibuilder-hackathon-balaji-hacknight-bengaluru-build-ai-agents
+project_id: elasticaws-aibuilder-hackathon-balaji
+hackathon_id: hacknight-bengaluru-build-ai-agents
+submission_url: https://devpost.com/software/elasticaws_aibuilder_hackathon_balaji
+source:
+  platform: devpost
+  url: https://devpost.com/software/elasticaws_aibuilder_hackathon_balaji
+awards:
+  - type: winner
+    title: Winner - Migrant Worker Rights Agent (human impact)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

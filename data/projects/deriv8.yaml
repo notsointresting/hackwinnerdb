@@ -1,0 +1,23 @@
+id: deriv8
+name: Deriv8
+slug: deriv8
+tagline: Type anything, get a live market in seconds — outcomes sourced from the web, scores
+  verified by Gensyn REE with cryptographic receipts you can audit.
+summary: Deriv8 received the Best Use of Gensyn award at Multiagents Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bensinclair1/agentic-global-solutions
+demo_url: null
+video_url: https://www.youtube.com/embed/8zz8X-XK8sM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - gemini
+  - react
+builders:
+  - name: Thariq Fahry
+  - name: Sky Da Silva
+  - name: bensinclair1

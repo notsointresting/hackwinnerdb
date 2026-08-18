@@ -1,0 +1,14 @@
+id: stillroom-codenova-2026-national-ai-innovation-hackathon
+project_id: stillroom
+hackathon_id: codenova-2026-national-ai-innovation-hackathon
+submission_url: https://devpost.com/software/stillroom
+source:
+  platform: devpost
+  url: https://devpost.com/software/stillroom
+awards:
+  - type: other
+    title: Participation Certificate
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,28 @@
+id: signsync
+name: SignSync
+slug: signsync
+tagline: Traductor de lengua de señas en tiempo real, totalmente local. Usa MediaPipe y un modelo
+  propio para reconocer gestos con cámara y convertirlos instantáneamente
+summary: SignSync received the 1º Lugar award at guadalahacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tam-pr/guadalahacks.git
+demo_url: null
+video_url: https://www.youtube.com/embed/n1D77rhCgAs
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Christian Salgado
+  - name: G. Michelle Lagos
+  - name: Tamara  Padilla Reyes
+  - name: Ángel Luna

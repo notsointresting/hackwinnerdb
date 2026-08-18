@@ -1,0 +1,24 @@
+id: vie
+name: VIE
+slug: vie
+tagline: poison your data, and protect your privacy
+summary: VIE received the Best ML Project award at Catapult 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/-uJFiHpR6-s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/580/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+  - python
+  - pytorch
+builders:
+  - name: Paras Mittal
+  - name: bennlol Namikas
+  - name: Angela Tan
+  - name: Jong In Lee

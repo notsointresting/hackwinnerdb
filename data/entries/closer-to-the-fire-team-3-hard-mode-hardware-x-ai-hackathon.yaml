@@ -1,0 +1,14 @@
+id: closer-to-the-fire-team-3-hard-mode-hardware-x-ai-hackathon
+project_id: closer-to-the-fire-team-3
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/closer-to-the-fire
+source:
+  platform: devpost
+  url: https://devpost.com/software/closer-to-the-fire
+awards:
+  - type: other
+    title: SEEED Studio Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

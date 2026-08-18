@@ -1,0 +1,16 @@
+id: zerorisk-sentinel-kyxgo-hack-by-aditya-rai-yash
+project_id: zerorisk-sentinel
+hackathon_id: kyxgo-hack-by-aditya-rai-yash
+submission_url: https://devpost.com/software/zerorisk-sentinel-d3zc90
+source:
+  platform: devpost
+  url: https://devpost.com/software/zerorisk-sentinel-d3zc90
+awards:
+  - type: finalist
+    title: Top 9 Finalists
+  - type: other
+    title: KYXGO Rising Star Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: the-invisible-patient-uw-tech-exploration-lab-digital-health-challenge
+project_id: the-invisible-patient
+hackathon_id: uw-tech-exploration-lab-digital-health-challenge
+submission_url: https://devpost.com/software/the-invisible-patient
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-invisible-patient
+awards:
+  - type: finalist
+    title: Finalist
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: docurec-ai-intelligent-indian-document-processing
+name: DocuRec AI — Intelligent Indian Document Processing
+slug: docurec-ai-intelligent-indian-document-processing
+tagline: "Upload any blurry scan in any Indian language. In 15 seconds, Gemini AI extracts
+  structured data, detects the language, masks private information, and makes it "
+summary: DocuRec AI — Intelligent Indian Document Processing received the Most Impactful Project
+  award at ML Empowerment Build Challenge in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Priynanshu/Docurec.AI.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/776/462/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mongodb
+  - react
+  - redis
+builders:
+  - name: Priyanshu Pandey

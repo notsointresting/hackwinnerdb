@@ -1,0 +1,14 @@
+id: matterport-hacktech-by-caltech-2026
+project_id: matterport
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/matterport
+source:
+  platform: devpost
+  url: https://devpost.com/software/matterport
+awards:
+  - type: category-winner
+    title: Loveable x HackTech - Best use of Lovable
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

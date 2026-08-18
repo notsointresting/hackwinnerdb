@@ -1,0 +1,26 @@
+id: nestmate-off-campus-housing
+name: "NestMate: Off-Campus Housing"
+slug: nestmate-off-campus-housing
+tagline: Streamlined AI roommate and rental match built on calendars, schedules & lifestyles
+summary: "NestMate: Off-Campus Housing received the Hackathon Winner award at CampusAI x MDC AI &
+  Data Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/mzdev2025/NestMate
+demo_url: null
+video_url: https://www.youtube.com/embed/MO1eXTCKr3o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/437/753/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - fastapi
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Tanay Panja
+  - name: Matthew Zhang
+  - name: Zorawar Brar
+  - name: Rudradip Ray

@@ -1,0 +1,18 @@
+id: bondtrakr
+name: BONDTRAKR
+slug: bondtrakr
+tagline: "BONDTRAKR: Know Your Worth, Bond by Bond"
+summary: BONDTRAKR received the Overall 2nd Place Hack(1 team) award at PantherHack 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ventengo1/Savings-Bond-Tracker
+demo_url: null
+video_url: https://www.youtube.com/embed/Slxo6-XsFKY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/734/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Akshay Shah

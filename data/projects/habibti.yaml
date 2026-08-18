@@ -1,0 +1,22 @@
+id: habibti
+name: Habibti
+slug: habibti
+tagline: Habibti connects small importers to suppliers, ocean routes, and real freight prices. A
+  swarm of agents does the sourcing, routing, and pricing so a single buye
+summary: Habibti received the Second Prize award at TritonHacks 26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/a-chahal/habibti
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/439/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - typescript
+builders:
+  - name: Mugilan Rajaraman
+  - name: Aaran Chahal
+  - name: Adhiban Arulselvan

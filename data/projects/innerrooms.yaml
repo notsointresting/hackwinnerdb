@@ -1,0 +1,21 @@
+id: innerrooms
+name: InnerRooms
+slug: innerrooms
+tagline: Your world. Visualized.
+summary: InnerRooms received the 3rd Place award at BUCS Hackathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lilainx/Innerhomes
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/405/999/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Pauline Ongchan
+  - name: elaine li
+  - name: Grace Co
+  - name: Dhrishty Dhanwani

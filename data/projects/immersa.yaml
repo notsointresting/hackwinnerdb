@@ -1,0 +1,23 @@
+id: immersa
+name: Immersa
+slug: immersa
+tagline: Learn by seeing, hearing, and doing, not just reading.
+summary: Immersa received the Best Overall - 2nd award at Build4Good 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alakhjagtap/build4good
+demo_url: null
+video_url: https://www.youtube.com/embed/FTEbW2Nf1mE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/219/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Rishul Bhuvanagiri
+  - name: Omar Jawaid
+  - name: Aryan Shah
+  - name: Alakh Jagtap

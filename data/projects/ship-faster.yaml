@@ -1,0 +1,24 @@
+id: ship-faster
+name: Ship Faster
+slug: ship-faster
+tagline: ShipFaster is an AI-powered developer automation platform that automates testing,
+  documentation, changelogs, and project setup, helping teams ship software fast
+summary: Ship Faster received the Best Project award at MLH Hack Days by Pydata Indore in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/924/760/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - postgresql
+  - python
+builders:
+  - name: Vedansh Trivedi
+  - name: Ritik Motwani
+  - name: Sachin Rawat

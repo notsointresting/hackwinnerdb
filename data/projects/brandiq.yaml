@@ -1,0 +1,25 @@
+id: brandiq
+name: BrandIQ
+slug: brandiq
+tagline: BrandIQ is a thumbnail generation platform. It extracts your palette, your hook patterns,
+  your layout instincts, and uses all of that every time you generate so
+summary: "BrandIQ received the Product Bundle by Mind the Product award at Mind the Product presents
+  World Product Day: Everyone Ships Now in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EpZbuBadAVw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/794/069/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - postgresql
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Kavya Bhand
+  - name: Aadi Joshi

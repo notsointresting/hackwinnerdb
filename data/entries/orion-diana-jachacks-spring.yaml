@@ -1,0 +1,14 @@
+id: orion-diana-jachacks-spring
+project_id: orion-diana
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/orion-eua8x9
+source:
+  platform: devpost
+  url: https://devpost.com/software/orion-eua8x9
+awards:
+  - type: second-place
+    title: Social Impact track - 2nd place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

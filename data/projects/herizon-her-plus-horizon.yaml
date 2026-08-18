@@ -1,0 +1,26 @@
+id: herizon-her-plus-horizon
+name: Herizon(Her + Horizon)
+slug: herizon-her-plus-horizon
+tagline: Herizon is an job-offer simulator for women and gender minorities. Enter your offer details
+  to see real take-home pay, safety buffer, loan repayment roadmap, AI
+summary: Herizon(Her + Horizon) received the [MLH] Best Use of Vultr award at WiCHacks '26 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/WicHacks26/OfferShield
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/693/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Pravina Narendra Bhalerao
+  - name: Manasi Mansing Patil
+  - name: Yukti Gupta

@@ -1,0 +1,16 @@
+id: ourcampus-jachacks-2026
+project_id: ourcampus
+hackathon_id: jachacks-2026
+submission_url: https://devpost.com/software/ourcampus-t2u5fs
+source:
+  platform: devpost
+  url: https://devpost.com/software/ourcampus-t2u5fs
+awards:
+  - type: category-winner
+    title: Best science students project
+  - type: first-place
+    title: First Place winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

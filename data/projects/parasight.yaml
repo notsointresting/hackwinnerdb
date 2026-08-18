@@ -1,0 +1,26 @@
+id: parasight
+name: ParaSight
+slug: parasight
+tagline: Stop hoarding blurry photos. Let the slime handle it.
+summary: ParaSight received the Themed Track award at HackKU26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MDetrBXzEpw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/201/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - groq
+  - python
+  - react
+  - typescript
+builders:
+  - name: Yoseph Ephrem
+  - name: xNIGMAx Essawi
+  - name: Cole DuBois
+  - name: Blake Ebner

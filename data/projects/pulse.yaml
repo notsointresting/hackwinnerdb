@@ -1,0 +1,24 @@
+id: pulse
+name: Pulse
+slug: pulse
+tagline: Pharmacies are disappearing from the Bronx. Overdoses are spiking. Pulse fuses LinkUp, 311,
+  and CMS data to predict where the next pharmacy desert forms and sen
+summary: Pulse received the Linkup Challenge - Best use of the Linkup search API award at Claude
+  Hackathon 2026 Columbia X NYU in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/571/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Ishan Malik
+  - name: Pratyush Singhal
+  - name: Nayansh Patni
+  - name: Madiyar Nurakhmetov

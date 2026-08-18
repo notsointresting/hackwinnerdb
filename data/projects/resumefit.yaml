@@ -1,0 +1,24 @@
+id: resumefit
+name: ResumeFit
+slug: resumefit
+tagline: Most AI resume tools stop at feedback. ResumeFit closes the loop. Upload a resume, Gemma
+  runs a health check, ranks you against hundreds of real SWE internships
+summary: ResumeFit received the First Place Winner for Session A (In-Person) award at 305
+  SummerCodex Edition July 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/PaulPio/ResumeFit
+demo_url: null
+video_url: https://www.youtube.com/embed/LbH7_KDBWVg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/022/080/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Paul Piotrowski

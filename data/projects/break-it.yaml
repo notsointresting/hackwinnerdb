@@ -1,0 +1,26 @@
+id: break-it
+name: Break It
+slug: break-it
+tagline: "Only 26% of devs test for agentic hacks. One prompt can leak data. BREAK IT closes the
+  gap. Upload your agent: we find the holes, you exploit them. Secure your "
+summary: Break It received the OFF-GRID award at SharkHack 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ClarkOhlenbusch/agent-breaker-studio
+demo_url: null
+video_url: https://www.youtube.com/embed/YWpIrR_-JxM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/532/519/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - social-impact
+technologies:
+  - gemini
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Ojasvi Tewari
+  - name: Brian Ngan
+  - name: Clark Ohlenbusch
+  - name: Aditya Saini

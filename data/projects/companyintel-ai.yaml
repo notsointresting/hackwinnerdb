@@ -1,0 +1,22 @@
+id: companyintel-ai
+name: CompanyIntel AI
+slug: companyintel-ai
+tagline: Autonomous AI platform orchestrating 6 specialized agents (Yutori, Tavily, OpenAI) to
+  deliver comprehensive company intelligence—research, competitors, sentimen
+summary: CompanyIntel AI received the Best Use of Render award at Autonomous Agents Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/maxxie114/companyintel-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/27TEetmcCNQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/376/792/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - openai
+  - python
+  - redis
+builders:
+  - name: Peixi Xie

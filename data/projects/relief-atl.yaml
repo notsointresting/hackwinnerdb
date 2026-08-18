@@ -1,0 +1,20 @@
+id: relief-atl
+name: Relief ATL
+slug: relief-atl
+tagline: Find a restroom in Atlanta you can actually use.
+summary: Relief ATL received the Best Use of DigitalOcean || Retro Wireless Mouse award at Hack
+  RenderATL in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/adityaoberai/hack-renderatl
+demo_url: null
+video_url: https://www.youtube.com/embed/kf-ZP_q42g8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/091/816/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Aditya Oberai

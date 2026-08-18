@@ -1,0 +1,23 @@
+id: pledgely
+name: Pledgely
+slug: pledgely
+tagline: Turning political promises into trackable, accountable commitments.
+summary: Pledgely received the Google - Build with AI award at Hack Canada 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sarah06102/Pledgely
+demo_url: null
+video_url: https://www.youtube.com/embed/fjtoKywWHew
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/406/758/datas/medium.png
+categories:
+  - other
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Aditi Chaudhary
+  - name: Sarah Hussain
+  - name: Asma Hashar
+  - name: Eva Rosati

@@ -1,0 +1,21 @@
+id: pragmalens-revealing-hidden-presuppositions-in-language
+name: "PragmaLens: Revealing Hidden Presuppositions in Language"
+slug: pragmalens-revealing-hidden-presuppositions-in-language
+tagline: A tool that extracts the unstated assumptions embedded in political statements, news
+  headlines, and everyday speech making invisible linguistic manipulation vis
+summary: "PragmaLens: Revealing Hidden Presuppositions in Language received the All Winners award at
+  LingHacks VII in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/ashishm9864/pragmalens
+demo_url: null
+video_url: https://www.youtube.com/embed/7Z9lmlb6GAY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/773/249/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - streamlit
+builders:
+  - name: Ashish Murarka

@@ -1,0 +1,21 @@
+id: renewably
+name: Renewably
+slug: renewably
+tagline: Find out how to best spend your resources on sustainable energy with our product.
+summary: Renewably received the General 1st place award at BlasterHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Luke-Pitstick/renewably.git
+demo_url: null
+video_url: https://www.youtube.com/embed/zyRoOWzPDdE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/251/datas/gallery.jpg
+categories:
+  - sustainability
+  - gaming
+  - creative-tools
+technologies:
+  - python
+  - react
+builders:
+  - name: colemutter Mutter
+  - name: Luke Pitstick

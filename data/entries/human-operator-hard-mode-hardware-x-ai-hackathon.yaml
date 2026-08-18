@@ -1,0 +1,14 @@
+id: human-operator-hard-mode-hardware-x-ai-hackathon
+project_id: human-operator
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/human-operator
+source:
+  platform: devpost
+  url: https://devpost.com/software/human-operator
+awards:
+  - type: track-winner
+    title: LEARN - Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: lobby
+name: Lobby
+slug: lobby
+tagline: Lobby turns every apartment building into a real community where residents raise issues
+  anonymously, and once enough neighbours back a request, it's auto-escala
+summary: Lobby received the 3rd Place award at MACATHON 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ggkr-zzz/lobby
+demo_url: null
+video_url: https://www.youtube.com/embed/srxJLZujmD0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/553/948/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - postgresql
+  - supabase
+  - svelte
+  - typescript
+  - vercel
+builders:
+  - name: glenn Kurniawan
+  - name: Jaeyun Ree
+  - name: Marcus Miccelli

@@ -1,0 +1,14 @@
+id: marinhacks
+name: MarinHacks
+slug: marinhacks
+organizer: []
+year: 2026
+sources:
+  - https://marinhacks.devpost.com/
+  - https://marinhacks.devpost.com/project-gallery?filter=winner
+website_url: https://marinhacks.devpost.com/
+platform: devpost
+participant_count: 80
+prize_pool: 1150
+currency: USD
+description: "Devpost hackathon: MarinHacks. Imported automatically."

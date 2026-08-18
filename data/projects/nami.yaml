@@ -1,0 +1,24 @@
+id: nami
+name: nami.
+slug: nami
+tagline: the college counseling crew built on a grounded knowledge graph
+summary: nami. received the Best Uses of Human Delta API - 1st Place award at FullyHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MatthewKim323/nami
+demo_url: null
+video_url: https://www.youtube.com/embed/6T-ywxDDS9c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/535/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Matthew Kim
+  - name: Leo Wu-Hacohen

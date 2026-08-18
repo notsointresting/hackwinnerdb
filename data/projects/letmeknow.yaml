@@ -1,0 +1,26 @@
+id: letmeknow
+name: LetMeKnow
+slug: letmeknow
+tagline: Nobody wants to be the one who decides. So lmk decides with you — share a link, everyone
+  weighs in, and the chat finally ends in a plan instead of a thread.
+summary: "LetMeKnow received the Product Bundle by Mind the Product award at Mind the Product
+  presents World Product Day: Everyone Ships Now in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/iX3x_TzALr8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/761/877/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - openai
+  - postgresql
+  - python
+  - react
+  - typescript
+builders:
+  - name: Kent Concengco
+  - name: EL-J Diaz

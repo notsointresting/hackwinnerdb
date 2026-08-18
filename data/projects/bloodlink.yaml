@@ -1,0 +1,23 @@
+id: bloodlink
+name: BloodLink
+slug: bloodlink
+tagline: "BloodLink: An intelligent blood bank platform that connects donors, hospitals, and
+  inventory in real time to ensure the right blood reaches the right patient at"
+summary: "BloodLink received the Interview Cake Prize award at  DEFI Hack Days : From Internal
+  Problem to Digital Solution in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Guten-Morgen1302/Healthtech-mobile-app
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/347/666/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+  - social-impact
+technologies:
+  - mongodb
+  - python
+  - react
+  - tailwind-css
+builders: []

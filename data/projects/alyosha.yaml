@@ -1,0 +1,22 @@
+id: alyosha
+name: Alyosha
+slug: alyosha
+tagline: The help for life after prison already exists. It's just scattered. Alyosha turns it into
+  one guided path home for the 600+ thousand people leaving prison every
+summary: Alyosha received the High School Grand Prize award at USAII® Global AI Hackathon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/saEpen2sZYQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/787/530/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - supabase
+builders:
+  - name: CHUON HOANG PHUC KHANG
+  - name: An Ha

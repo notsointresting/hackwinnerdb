@@ -1,0 +1,14 @@
+id: atlanta-transit-agent-hack-renderatl
+project_id: atlanta-transit-agent
+hackathon_id: hack-renderatl
+submission_url: https://devpost.com/software/atlanta-transit-agent
+source:
+  platform: devpost
+  url: https://devpost.com/software/atlanta-transit-agent
+awards:
+  - type: category-winner
+    title: Best Use of Atlanta Open Data
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: autonoma
+name: Autonoma
+slug: autonoma
+tagline: Agentic AI platform where CEO and specialized departments run businesses autonomously.
+  AutoHDR powers a shared Vision Department for image analysis across any i
+summary: Autonoma received the Best Use of Featherless AI 3rd Place award at CSBA x HBA Hack Day in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arun4r8/MLH-localhost
+demo_url: null
+video_url: https://www.youtube.com/embed/xHzt2RnMfM0
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: RaviTejGuntuku Guntuku
+  - name: Neil Daniel
+  - name: Arun Rajendra
+  - name: Andrew Manoni

@@ -1,0 +1,26 @@
+id: cales
+name: Calés
+slug: cales
+tagline: "Calés: Procurement Market Intelligence Engine: turn commodity market noise into a clear
+  Buy / Wait / Hedge / Monitor decision, with evidence."
+summary: Calés received the Best Cala Use award at DAMM <&> EHUB in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/marcvendrellf/cales-frontend
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/700/489/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Josep Audenis
+  - name: Guillem Cadevall Ferreres
+  - name: Marc Vendrell

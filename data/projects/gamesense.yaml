@@ -1,0 +1,24 @@
+id: gamesense
+name: GameSense
+slug: gamesense
+tagline: Hard-of-hearing and deaf gamers miss critical spatial audio. Our headset converts game
+  sound into directional vibrations and adds head-tracking controls, lettin
+summary: GameSense received the Kado Portable Monitor award at Tech(Hack) in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sumedhk0/Game-Sense-TechHackValley
+demo_url: null
+video_url: https://www.youtube.com/embed/MPyTruaT-h8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/408/619/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - python
+builders:
+  - name: sumedhk0 Kothari
+  - name: William Schotte
+  - name: Chase Twyman
+  - name: Ryan2551 Karami

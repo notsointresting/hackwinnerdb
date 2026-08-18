@@ -1,0 +1,22 @@
+id: complete-the-look
+name: Complete the Look
+slug: complete-the-look
+tagline: Upload a piece you never wear. Phia builds the outfit and shows you exactly how it looks.
+summary: Complete the Look received the 2nd Place award at The Phia Hack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/--OU9Pyes30
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/590/721/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - openai
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Isha Ponugoti

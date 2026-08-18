@@ -1,0 +1,14 @@
+id: budget-bloom-north-carolina-fidhacks-2026
+project_id: budget-bloom
+hackathon_id: north-carolina-fidhacks-2026
+submission_url: https://devpost.com/software/budget-bloom-t3gseh
+source:
+  platform: devpost
+  url: https://devpost.com/software/budget-bloom-t3gseh
+awards:
+  - type: third-place
+    title: 3rd place North Carolina FidHacks Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

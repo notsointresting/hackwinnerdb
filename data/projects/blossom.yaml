@@ -1,0 +1,20 @@
+id: blossom
+name: Blossom
+slug: blossom
+tagline: "Blossom is a platform to provide speech therapy access for patients to practice regularly
+  in their homes, and for therapists to connect with patients and track "
+summary: Blossom received the Best Overall award at SproutGT in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/X9WoUPgabmk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/391/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - elevenlabs
+  - figma
+builders:
+  - name: Alankrita Ghosh
+  - name: Stacey Uhm

@@ -1,0 +1,21 @@
+id: openpath
+name: OpenPath
+slug: openpath
+tagline: Stop paying for courses. Search any topic, pick free resources from the internet, and build
+  your own structured course with AI quizzes, and a personal AI assist
+summary: OpenPath received the Top 10 winners each receive a free .xyz domain — launch your project
+  with a real web presence! (valued at $150) award at Hyperbloom V2 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DeepikaSidda/OpenPath
+demo_url: null
+video_url: https://www.youtube.com/embed/zRfAiz3T4ME
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/570/699/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Deepika Sidda

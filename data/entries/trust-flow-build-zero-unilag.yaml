@@ -1,0 +1,14 @@
+id: trust-flow-build-zero-unilag
+project_id: trust-flow
+hackathon_id: build-zero-unilag
+submission_url: https://devpost.com/software/trust-flow-o0ab7f
+source:
+  platform: devpost
+  url: https://devpost.com/software/trust-flow-o0ab7f
+awards:
+  - type: other
+    title: Build-Zero
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,16 @@
+id: climaguard-hack-days-cuet
+project_id: climaguard
+hackathon_id: hack-days-cuet
+submission_url: https://devpost.com/software/climaguard-qmhtcj
+source:
+  platform: devpost
+  url: https://devpost.com/software/climaguard-qmhtcj
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API Award
+  - type: other
+    title: Codex $100 Credit
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

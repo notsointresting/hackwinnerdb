@@ -1,0 +1,14 @@
+id: clinicalxcraft-enterprise-agents-hackathon-by-emergence-nebius
+project_id: clinicalxcraft
+hackathon_id: enterprise-agents-hackathon-by-emergence-nebius
+submission_url: https://devpost.com/software/clinicalxcraft-tk31d2
+source:
+  platform: devpost
+  url: https://devpost.com/software/clinicalxcraft-tk31d2
+awards:
+  - type: honorable-mention
+    title: Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

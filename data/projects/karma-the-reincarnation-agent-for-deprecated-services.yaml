@@ -1,0 +1,26 @@
+id: karma-the-reincarnation-agent-for-deprecated-services
+name: Karma — The Reincarnation Agent for Deprecated Services
+slug: karma-the-reincarnation-agent-for-deprecated-services
+tagline: A multi-agent system that learns a deprecated service's hidden contracts and haunts its
+  replacement, catching silent regressions every test misses. Gemini + Ver
+summary: Karma — The Reincarnation Agent for Deprecated Services received the Dynatrace - 2nd Place
+  award at Google Cloud Rapid Agent Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rogerjeasy/karma
+demo_url: null
+video_url: https://www.youtube.com/embed/GHxO0_f6qN8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/730/677/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - redis
+  - typescript
+  - vertex-ai
+builders:
+  - name: Roger Bavibidila

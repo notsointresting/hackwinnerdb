@@ -1,0 +1,18 @@
+id: batch-bakery
+name: Batch Bakery
+slug: batch-bakery
+tagline: Time does not wait for you to start. Enter your files, and let's cook now.
+summary: Batch Bakery received the Best Solo Hack award at Hack The Break 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/homelessradish/batch-bakery.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - productivity
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Damon Cao

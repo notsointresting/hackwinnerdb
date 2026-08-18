@@ -1,0 +1,30 @@
+id: catalyst-inspect
+name: CATalyst Inspect
+slug: catalyst-inspect
+tagline: CATalyst Inspect turns a quick walk‑around video into a structured inspection report in
+  minutes, specializing in corrosion identification.
+summary: "CATalyst Inspect received the Track: Best AI Inspection (Honorable Mentions) award at
+  HackIllinois 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/wadhwat/catalyst
+demo_url: null
+video_url: https://www.youtube.com/embed/y3NhgUH2WWc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/500/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - claude
+  - fastapi
+  - openai
+  - opencv
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Tejas Wadhwa
+  - name: Pranav Popuri
+  - name: Ranveer Singh
+  - name: Paul Pamichev

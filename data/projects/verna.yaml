@@ -1,0 +1,29 @@
+id: verna
+name: Vernā
+slug: verna
+tagline: AI-powered multilingual learning platform that generates lessons, challenges, and feedback
+  natively in any language using IBM watsonx removing language as a bar
+summary: Vernā received the Best First Hack award at IBM x UNSA Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SheikhMazin/LearnFast
+demo_url: null
+video_url: https://www.youtube.com/embed/3bZddmDYN7M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/785/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - postgresql
+  - python
+  - react
+  - sqlite
+  - supabase
+  - tailwind-css
+builders:
+  - name: Sheikh Mazin
+  - name: Awais Saeed
+  - name: Azlan Qamar
+  - name: Ibad Hassan

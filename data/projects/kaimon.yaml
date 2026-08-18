@@ -1,0 +1,25 @@
+id: kaimon
+name: Kaimon
+slug: kaimon
+tagline: Scan. Detect. Buy. Kaimon deploys a fleet of agents that learn your buying habits and make
+  the call you would make, then handle the purchase end to end.
+summary: Kaimon received the Best Use of Fetch.ai award at DiamondHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SanjayMarathe/barcodebot.git
+demo_url: null
+video_url: https://www.youtube.com/embed/pcC0QMU_v6I
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - stripe
+  - typescript
+builders:
+  - name: Aidan Chen
+  - name: Sanjay Marathe

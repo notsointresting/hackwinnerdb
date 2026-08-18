@@ -1,0 +1,21 @@
+id: ping-pong-paint
+name: Ping Pong Paint
+slug: ping-pong-paint
+tagline: "The PPPP is an interactive game focused on letting people engage with art, either by
+  ping-pong painting on a blank canvas or by recreating classic works of art "
+summary: Ping Pong Paint received the Judges' favorites award at HackTheMountain 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LucasVo-Dignard/htm-ping-pong-paint
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/705/696/datas/medium.png
+categories:
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: Mandon K
+  - name: Lucas Vo-Dignard
+  - name: Arnaud Mehrabi
+  - name: Enzo Jung

@@ -1,0 +1,21 @@
+id: robothelper
+name: Robothelper
+slug: robothelper
+tagline: RobotHelper is an intelligent wake-up robot that uses computer vision and emotional AI to
+  gently wake people when they fall asleep, then analyzes their groggine
+summary: "Robothelper received the Second Prize: Scrapegraph AI Track award at Robotic Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/garavels/robothelper
+demo_url: null
+video_url: https://www.youtube.com/embed/ustCkwXBz-M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/744/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Vittorio Garavelli

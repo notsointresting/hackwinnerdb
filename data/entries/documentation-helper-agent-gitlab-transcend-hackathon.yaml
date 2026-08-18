@@ -1,0 +1,14 @@
+id: documentation-helper-agent-gitlab-transcend-hackathon
+project_id: documentation-helper-agent
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/feat-orbit-local-add-version-subcommand-alias
+source:
+  platform: devpost
+  url: https://devpost.com/software/feat-orbit-local-add-version-subcommand-alias
+awards:
+  - type: track-winner
+    title: "Contribute Track: A qualified Merged Merge Request"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

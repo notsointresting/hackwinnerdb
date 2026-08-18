@@ -1,0 +1,20 @@
+id: chainscope-predictive-supply-chain-intelligence
+name: ChainScope-Predictive-Supply-Chain-Intelligence
+slug: chainscope-predictive-supply-chain-intelligence
+tagline: "Visualizing Global Risk: Turning Maritime Chaos into Supply Chain Intelligence."
+summary: ChainScope-Predictive-Supply-Chain-Intelligence received the Theme-Based Track Prizes award
+  at Quantum Sprint in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/fazzystorm/ChainScope-Predictive-Supply-Chain-Intelligence
+demo_url: null
+video_url: https://www.youtube.com/embed/kXMgeVUD4xU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/658/305/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+  - enterprise
+technologies:
+  - cloudflare
+builders:
+  - name: faizan khan

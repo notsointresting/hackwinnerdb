@@ -1,0 +1,28 @@
+id: hydrawav3-catalyst
+name: Hydrawav3 Catalyst
+slug: hydrawav3-catalyst
+tagline: Empowering hydrawav3 practitioners with objective ROM and gamified movement. We turn home
+  goals into AI insights in under 2 mins.
+summary: Hydrawav3 Catalyst received the Hydrawav3 award at GlobeHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ayadav75/R3HAB
+demo_url: null
+video_url: https://www.youtube.com/embed/9xckIFu3fds
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/433/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Aditya Sharma
+  - name: Tamanna Nolastname
+  - name: ayadav75 Yadav
+  - name: Divyansh Singh

@@ -1,0 +1,25 @@
+id: heyi
+name: HEYI
+slug: heyi
+tagline: HEYI is a chrome extension built to help users identify AI-generated text and images on
+  ecommerce websites. It uses AI to fight AI, helping to stop scams from t
+summary: HEYI received the [MLH] Best Use of Gemini API award at HackTCNJ 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JeffreyErnest/HEYI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/392/205/datas/medium.png
+categories:
+  - artificial-intelligence
+  - social-impact
+  - e-commerce
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - mongodb
+  - python
+builders:
+  - name: Isabel Difabio
+  - name: Jeffrey Ernest

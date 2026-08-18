@@ -1,0 +1,22 @@
+id: teamflow
+name: TeamFlow
+slug: teamflow
+tagline: It's an all in 1 team/project management web/app made for teachers, students, and parents
+  for middle, high school, etc. Solves group work/projects being disorga
+summary: TeamFlow received the Logitech Wireless Mouse award at hackTAMS 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/HnOPT4_oP1U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/394/752/datas/medium.png
+categories:
+  - education
+technologies:
+  - claude
+  - figma
+builders:
+  - name: Arpit Mishra
+  - name: Adweik Nake
+  - name: Vibhushnu Senthil Kumar
+  - name: Avaneesh Makesh

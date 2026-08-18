@@ -1,0 +1,24 @@
+id: wildsnacks
+name: WildSnacks
+slug: wildsnacks
+tagline: Pushing the frontier of the SMB vending machine industry.
+summary: WildSnacks received the [MLH] Best .Tech Domain Name award at WildHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vi-yang-NU/wildhacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/X2wkjqqKNeo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/838/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Jasmine Meyer
+  - name: Gustavo Mercier
+  - name: Vincent-Yang0134 yang

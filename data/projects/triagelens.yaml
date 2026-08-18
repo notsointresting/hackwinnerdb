@@ -1,0 +1,22 @@
+id: triagelens
+name: TriageLens
+slug: triagelens
+tagline: Saving lives through second eyes.
+summary: TriageLens received the Best Hack by Bloomberg Engineering award at AthenaHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lesliegs4/AthenaHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/ILltzR99pi0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/515/733/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - swift
+builders:
+  - name: Leslie Garcia-Sanchez
+  - name: Yixin Xu
+  - name: Valeria Gamez Hernandez
+  - name: Suhani Gupta

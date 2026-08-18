@@ -1,0 +1,14 @@
+id: enghacks
+name: EngHacks
+slug: enghacks
+organizer: []
+year: 2026
+sources:
+  - https://enghacks.devpost.com/
+  - https://enghacks.devpost.com/project-gallery?filter=winner
+website_url: https://enghacks.devpost.com/
+platform: devpost
+participant_count: 49
+prize_pool: 300
+currency: USD
+description: "Devpost hackathon: EngHacks. Imported automatically."

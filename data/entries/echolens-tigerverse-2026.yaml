@@ -1,0 +1,16 @@
+id: echolens-tigerverse-2026
+project_id: echolens
+hackathon_id: tigerverse-2026
+submission_url: https://devpost.com/software/echolens-f7agvz
+source:
+  platform: devpost
+  url: https://devpost.com/software/echolens-f7agvz
+awards:
+  - type: third-place
+    title: XR in Education Track 3rd Place - Sponsored by Spectacles
+  - type: other
+    title: Social Good (VU Foundation)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

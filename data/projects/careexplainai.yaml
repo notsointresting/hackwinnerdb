@@ -1,0 +1,22 @@
+id: careexplainai
+name: CareExplainAI
+slug: careexplainai
+tagline: An AI Medical Chatbot that helps contribute to Marginalized people with necessary medical
+  resources.
+summary: CareExplainAI received the Best Use of Gemini API award at Color Hacks + Northwestern
+  NSBE  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sahtserhs/CareExplainAI
+demo_url: null
+video_url: https://www.youtube.com/embed/djJgSXtq4O8
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies: []
+builders:
+  - name: Shuvam Shrestha
+  - name: lamin123-hub
+  - name: Myat Min Htoo

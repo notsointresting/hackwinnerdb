@@ -1,0 +1,22 @@
+id: stride
+name: Stride
+slug: stride
+tagline: Work Happens, Proof Disappears.Stride shows you that you are moving forward, you are
+  building something, you are not an impostor.
+summary: Stride received the 3rd Place award at Abstraction Hackathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alinasainju/2026-hackathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - anthropic
+  - typescript
+builders:
+  - name: Hannah Yoo
+  - name: Alina Sainju

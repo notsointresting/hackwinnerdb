@@ -1,0 +1,17 @@
+id: proprietary-physics-engine
+name: proprietary Physics Engine
+slug: proprietary-physics-engine
+tagline: Proprietary Physics Engine that can be used for games and others etc
+summary: proprietary Physics Engine received the Most Technical Projects award at JecHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/robertstores85-oss/engine
+demo_url: null
+video_url: https://www.youtube.com/embed/A8LgqkXMu-Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/880/899/datas/gallery.jpg
+categories:
+  - gaming
+technologies: []
+builders:
+  - name: John Huang
+  - name: Cody Huang

@@ -1,0 +1,25 @@
+id: physio
+name: Physio
+slug: physio
+tagline: Physio is a voice-first AI rehab agent using CV MediaPipe, Raspberry Pi sensor fusion, and
+  Gemini summaries for guided at-home physical therapy.
+summary: "Physio received the General Track award at HackHCC: Code Runners in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/SuryaThirukonda/hackHCC
+demo_url: null
+video_url: https://www.youtube.com/embed/FLljA9dZEEk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/324/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - sqlite
+builders:
+  - name: Atreya Jariwala
+  - name: Surya Thirukonda
+  - name: Raghav Kenchannavar

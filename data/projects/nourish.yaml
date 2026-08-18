@@ -1,0 +1,18 @@
+id: nourish
+name: Nourish
+slug: nourish
+tagline: Platform that automatically connects surplus food with shelters and volunteer drivers in real time.
+summary: Nourish received the Social Impact track - 1st place award at JacHacks Spring in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Viktor-Nedev/Nourish
+demo_url: null
+video_url: https://www.youtube.com/embed/vnfOB2DHppQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/684/748/datas/medium.png
+categories:
+  - healthcare
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: Viktor Nedev

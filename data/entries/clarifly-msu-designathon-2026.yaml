@@ -1,0 +1,14 @@
+id: clarifly-msu-designathon-2026
+project_id: clarifly
+hackathon_id: msu-designathon-2026
+submission_url: https://devpost.com/software/clarifly-7w90vf
+source:
+  platform: devpost
+  url: https://devpost.com/software/clarifly-7w90vf
+awards:
+  - type: category-winner
+    title: Best Presentation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

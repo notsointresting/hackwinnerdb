@@ -1,0 +1,22 @@
+id: messminder
+name: MessMinder
+slug: messminder
+tagline: Stopping Food Waste Before It's Ever Cooked
+summary: MessMinder received the 50$ Visa Gift Card award at Build With AI Hack Days @RU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/simantabawali/MessMinder
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/825/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - google-ai-studio
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Simanta Bawali

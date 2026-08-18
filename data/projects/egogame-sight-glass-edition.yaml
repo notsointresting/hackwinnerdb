@@ -1,0 +1,23 @@
+id: egogame-sight-glass-edition
+name: EgoGame Sight · Glass Edition
+slug: egogame-sight-glass-edition
+tagline: EgoGame Vision analyzes behavior in conversations by tracking facial tension, movement, and
+  posture, turning these signals into actionable insights for psycholo
+summary: EgoGame Sight · Glass Edition received the Second Place - Novice award at Weber State AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/F4Zd7RVHZFk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/523/361/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies: []
+builders:
+  - name: Pedro Ibanez
+  - name: Thais Medina-Blanco
+  - name: Jhon Saavedra Pumahuanca
+  - name: Fredy Thomae

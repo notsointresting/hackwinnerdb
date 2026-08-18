@@ -1,0 +1,22 @@
+id: auraguard
+name: AuraGuard
+slug: auraguard
+tagline: An AI-powered brand protection platform
+summary: AuraGuard received the Genuine Effort- All in! award at Youth Code x AI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dops7q9L-50
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/817/216/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Dara Sotomi

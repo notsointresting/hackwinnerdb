@@ -1,0 +1,14 @@
+id: skill-stack-hackdartmouth-xi
+project_id: skill-stack
+hackathon_id: hackdartmouth-xi
+submission_url: https://devpost.com/software/skill-stack-h0e9ys
+source:
+  platform: devpost
+  url: https://devpost.com/software/skill-stack-h0e9ys
+awards:
+  - type: other
+    title: Razor Kraken V3X Gaming Headset
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

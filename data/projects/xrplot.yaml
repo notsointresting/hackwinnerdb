@@ -1,0 +1,23 @@
+id: xrplot
+name: XRPLOT
+slug: xrplot
+tagline: A blueprint can't be walked through. XRPlot turns 2D plans, sketches or photos into
+  connected, explorable 360° worlds in minutes , so a community can experience
+summary: XRPLOT received the CSC Impact Honorable Mention award at CSC Summer Impactathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Pr53GFJzCx0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/078/984/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - google-maps
+  - javascript
+  - mongodb
+  - react
+  - vercel
+builders:
+  - name: Shyam Prasath S
+  - name: Haresh Sai_06

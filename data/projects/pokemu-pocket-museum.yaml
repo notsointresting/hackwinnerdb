@@ -1,0 +1,27 @@
+id: pokemu-pocket-museum
+name: "Pokemu: Pocket Museum"
+slug: pokemu-pocket-museum
+tagline: Restore the world from DoomGPT! Guess cultural artifacts to bring color back to a grayscale
+  8-bit globe. It’s Pokémon meets Animal Crossing for art history. Rec
+summary: "Pokemu: Pocket Museum received the Best Overall award at Codebrew 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/kevicebryan/pokemu
+demo_url: null
+video_url: https://www.youtube.com/embed/X76_8U9BuF0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/548/005/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - claude
+  - gemini
+  - nextjs
+  - react
+  - sql
+  - supabase
+  - typescript
+builders:
+  - name: VIJIT PUGALIA
+  - name: iphoneuserray-debug Dai
+  - name: Kevin Bryan
+  - name: Muhammad Nusi

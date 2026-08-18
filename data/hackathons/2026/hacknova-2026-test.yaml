@@ -1,0 +1,14 @@
+id: hacknova-2026-test
+name: HackNova 2026 (TEST)
+slug: hacknova-2026-test
+organizer: []
+year: 2026
+sources:
+  - https://hacknova-2026.devpost.com/
+  - https://hacknova-2026.devpost.com/project-gallery?filter=winner
+website_url: https://hacknova-2026.devpost.com/
+platform: devpost
+participant_count: 8
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackNova 2026 (TEST). Imported automatically."

@@ -1,0 +1,14 @@
+id: firesight-worlds-in-action-hack-01-sf
+project_id: firesight
+hackathon_id: worlds-in-action-hack-01-sf
+submission_url: https://devpost.com/software/firesight-y4vlrw
+source:
+  platform: devpost
+  url: https://devpost.com/software/firesight-y4vlrw
+awards:
+  - type: category-winner
+    title: Best Agentic Mission Control with PICO
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

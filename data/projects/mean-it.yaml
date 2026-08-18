@@ -1,0 +1,25 @@
+id: mean-it
+name: Mean It.
+slug: mean-it
+tagline: For the letter you can't quite write. Claude interviews you until your own words surface.
+  Every line traced back to you.
+summary: Mean It. received the Creative Flourishing Track award at CBC Hackathon 2026 @ NJIT in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/d3v07/cbc
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/624/522/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - openai
+  - python
+  - typescript
+builders:
+  - name: Dev Trivedi
+  - name: Pruthvi Kadam
+  - name: Aakash Singh

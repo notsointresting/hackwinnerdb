@@ -1,0 +1,18 @@
+id: twisterbench
+name: TwisterBench
+slug: twisterbench
+tagline: Can AI play Twister?
+summary: TwisterBench received the Games Track Winner award at SWECCathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shivani-kulandaivel/twisterBenchmark
+demo_url: null
+video_url: https://www.youtube.com/embed/F74TBg7XKq8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/727/767/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Shivani Kulandaivel
+  - name: Tanvi Patil

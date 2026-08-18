@@ -1,0 +1,14 @@
+id: headroom-build-with-paritok-the-token-efficiency-hackathon
+project_id: headroom
+hackathon_id: build-with-paritok-the-token-efficiency-hackathon
+submission_url: https://devpost.com/software/headroom
+source:
+  platform: devpost
+  url: https://devpost.com/software/headroom
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

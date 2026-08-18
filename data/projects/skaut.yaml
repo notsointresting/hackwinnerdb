@@ -1,0 +1,26 @@
+id: skaut
+name: Skaut
+slug: skaut
+tagline: An AI-powered tournament intelligence platform that automatically adapts travel plans as
+  teams advance, matches move, and tournament conditions change.
+summary: Skaut received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ShreyVijay/Skaut
+demo_url: null
+video_url: https://www.youtube.com/embed/-vr-adVLqeo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/791/989/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Shrey Vijay
+  - name: Harshita Harshita

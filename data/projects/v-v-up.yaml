@@ -1,0 +1,28 @@
+id: v-v-up
+name: V↑ (V-up!)
+slug: v-v-up
+tagline: Conversational learning games for Deaf, neurodivergent, and limb-difference kids. Speak it,
+  sign it, or show your work. The AI character meets every kid where t
+summary: V↑ (V-up!) received the Most Creative Hack award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/cYvS6dq170w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/909/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - nextjs
+  - opencv
+  - pytorch
+  - react
+builders:
+  - name: Ronald Li
+  - name: Kenny Nguyen
+  - name: Sai Wong

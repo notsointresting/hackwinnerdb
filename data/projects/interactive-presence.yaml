@@ -1,0 +1,19 @@
+id: interactive-presence
+name: Interactive Presence
+slug: interactive-presence
+tagline: Bring your coding agent into a live call to talk, see your screen, use a browser, and keep
+  working with the full context afterward.
+summary: Interactive Presence received the Developer Track award at Firehacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/078/106/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+builders:
+  - name: Anish Patil

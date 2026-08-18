@@ -1,0 +1,23 @@
+id: seismic
+name: Seismic
+slug: seismic
+tagline: When earthquakes strike, Seismic is what keeps you safe and alive!
+summary: Seismic received the 1st Place award at MarinHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VadaPav312/MarinHacks-2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - elevenlabs
+  - firebase
+  - mapbox
+  - supabase
+  - swift
+builders:
+  - name: VadaPav312 Gandhi

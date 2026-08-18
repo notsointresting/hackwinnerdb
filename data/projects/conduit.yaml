@@ -1,0 +1,28 @@
+id: conduit
+name: Conduit
+slug: conduit
+tagline: Silent video to text for mute people, for privacy, or when the environment is too loud. A
+  webcam reads your silent lip movements and speaks them aloud. Open-voc
+summary: Conduit received the First Prize award at TritonHacks 26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/382/datas/gallery.jpg
+categories:
+  - education
+  - cybersecurity
+  - climate
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Raunav Mendiratta
+  - name: Mihir Konkapaka
+  - name: Shriyans Dharajula
+  - name: Kai Li

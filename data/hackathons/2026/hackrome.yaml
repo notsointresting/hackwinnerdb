@@ -1,0 +1,14 @@
+id: hackrome
+name: HackRome
+slug: hackrome
+organizer: []
+year: 2026
+sources:
+  - https://hackrome-2026.devpost.com/
+  - https://hackrome-2026.devpost.com/project-gallery?filter=winner
+website_url: https://hackrome-2026.devpost.com/
+platform: devpost
+participant_count: 111
+prize_pool: 11000
+currency: USD
+description: "Devpost hackathon: HackRome. Imported automatically."

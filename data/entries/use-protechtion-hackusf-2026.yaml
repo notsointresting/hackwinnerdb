@@ -1,0 +1,14 @@
+id: use-protechtion-hackusf-2026
+project_id: use-protechtion
+hackathon_id: hackusf-2026
+submission_url: https://devpost.com/software/use-protech-tion
+source:
+  platform: devpost
+  url: https://devpost.com/software/use-protech-tion
+awards:
+  - type: other
+    title: "NextEra Energy Challenge: Malware Analysis Challenge"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

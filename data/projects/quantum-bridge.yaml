@@ -1,0 +1,26 @@
+id: quantum-bridge
+name: Quantum Bridge
+slug: quantum-bridge
+tagline: Quantum computing, explained through the lens of what you already know.
+summary: Quantum Bridge received the 1st Overall award at AWS Kiro x CS Careers Hackathon at
+  Virginia Tech in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/DHRUVvkdv/kiro-backend
+demo_url: null
+video_url: https://www.youtube.com/embed/FtsuyLxaKGc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/141/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Dhruv Varshney
+  - name: Arnav Jagtap
+  - name: Michael-Andre Odusami

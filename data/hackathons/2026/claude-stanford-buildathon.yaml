@@ -1,0 +1,14 @@
+id: claude-stanford-buildathon
+name: Claude@Stanford Buildathon
+slug: claude-stanford-buildathon
+organizer: []
+year: 2026
+sources:
+  - https://claudeatstanford.devpost.com/
+  - https://claudeatstanford.devpost.com/project-gallery?filter=winner
+website_url: https://claudeatstanford.devpost.com/
+platform: devpost
+participant_count: 44
+prize_pool: 2000
+currency: USD
+description: "Devpost hackathon: Claude@Stanford Buildathon. Imported automatically."

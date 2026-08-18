@@ -1,0 +1,29 @@
+id: proteus
+name: Proteus
+slug: proteus
+tagline: Proteus - the Cursor for DNA. Describe your design goal in English, get scored genomic
+  sequences and folded structures, all editable live!
+summary: Proteus received the [MLH] Best Use of DigitalOcean award at cuHacking7 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SquaredPiano/evo
+demo_url: null
+video_url: https://www.youtube.com/embed/CrZPmcAs2QU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/522/datas/gallery.jpg
+categories:
+  - education
+  - infrastructure
+  - creative-tools
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Vishnu Sai
+  - name: Mohammed Asrar Ali
+  - name: Hayden Choi

@@ -1,0 +1,26 @@
+id: scout
+name: Scout
+slug: scout
+tagline: Scout helps founders and marketers connect customer interviews, research, and ad
+  performance data to generate actionable growth recommendations in one workspace
+summary: Scout received the 2nd Place award at Changbal Innovation Hack 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/798/724/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - openai
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Soomin Park
+  - name: Chloe Park
+  - name: Hayool Park

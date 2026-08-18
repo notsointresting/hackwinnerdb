@@ -1,0 +1,21 @@
+id: telekinetic-tennis
+name: Telekinetic Tennis
+slug: telekinetic-tennis
+tagline: Tennis with a Twist...
+summary: Telekinetic Tennis received the Hardware Hack award at TigerVerse 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kadition/TigerVerse26
+demo_url: null
+video_url: https://www.youtube.com/embed/vWWaMbfeKrU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/619/214/datas/medium.png
+categories:
+  - education
+  - ar-vr
+technologies:
+  - esp32
+  - unity
+builders:
+  - name: brendancurtis05 Curtis
+  - name: Kaden C
+  - name: Luke Coonrod

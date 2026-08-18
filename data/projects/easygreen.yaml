@@ -1,0 +1,25 @@
+id: easygreen
+name: EasyGreen
+slug: easygreen
+tagline: EasyGreen is a website that uses an AI to create curated meals and weekly meal plans fitted
+  towards the dietary restrictions, allergies, and goals of the user.
+summary: EasyGreen received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KW1219/EasyGreen.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Mry6jMHRBB8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Kyle Wang
+  - name: Brandon Seo

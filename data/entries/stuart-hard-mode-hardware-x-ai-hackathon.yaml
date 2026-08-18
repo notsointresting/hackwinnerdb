@@ -1,0 +1,15 @@
+id: stuart-hard-mode-hardware-x-ai-hackathon
+project_id: stuart
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/stuart
+source:
+  platform: devpost
+  url: https://devpost.com/software/stuart
+awards:
+  - type: category-winner
+    title: Akamai – most creative connected device, most innovative use of distributed computing, most
+      effective use of specialized AI models.
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

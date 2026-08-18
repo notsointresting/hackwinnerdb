@@ -1,0 +1,19 @@
+id: curato
+name: Curato
+slug: curato
+tagline: A swipe-based shopping app that helps users discover their style faster through real-time feedback.
+summary: Curato received the Best UI/UX award at The Phia Hack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cendress/Curato
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/590/563/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - swift
+builders:
+  - name: Christopher Endress

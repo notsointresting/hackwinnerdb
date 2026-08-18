@@ -1,0 +1,23 @@
+id: nyayasahaya
+name: NyayaSahaya
+slug: nyayasahaya
+tagline: NyayaSaathi is an AI-powered legal assistant designed to make Indian law understandable,
+  accessible, and actionable for women across India.
+summary: NyayaSahaya received the 1st SheBuilder award at BugBash in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bhavyazz/SheBuilds.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - accessibility
+  - creative-tools
+technologies:
+  - anthropic
+  - claude
+  - groq
+builders:
+  - name: D DIVYASHREE
+  - name: PEDDA NAGABHAVYA

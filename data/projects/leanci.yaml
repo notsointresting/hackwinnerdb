@@ -1,0 +1,22 @@
+id: leanci
+name: LeanCI
+slug: leanci
+tagline: Dependency-aware AI code review with measured Paritok compression.
+summary: "LeanCI received the Social Blitz Prize award at Build with Paritok: The Token-Efficiency
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/CodewithJha/leanci/actions/runs/30629133302
+demo_url: null
+video_url: https://www.youtube.com/embed/q11tOEWsQZM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/044/892/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - groq
+  - openai
+  - python
+builders:
+  - name: Priyanshu Jha

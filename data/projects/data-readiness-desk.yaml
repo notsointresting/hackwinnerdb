@@ -1,0 +1,22 @@
+id: data-readiness-desk
+name: Data Readiness Desk
+slug: data-readiness-desk
+tagline: Turning a broad hospital dataset into planning-ready data, claim by claim, with evidence,
+  leverage-ranked review, and an AI chat assistant
+summary: Data Readiness Desk received the 1st Place Gift Card award at Databricks Apps & Agents for
+  Good Hackathon 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/sundarep-ai/databricks-for-good-hackathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Praveen Sundaresan Ramesh
+  - name: Sidhant Guliani
+  - name: Amine Jallouli

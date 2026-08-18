@@ -1,0 +1,23 @@
+id: quantum-queb-hackers
+name: Quantum Queb'Hackers
+slug: quantum-queb-hackers
+tagline: "Beyond standard heuristics: A hybrid CVRP solver using rotation-optimized clustering and
+  hardware-ready backends to redefine logistics efficiency."
+summary: Quantum Queb'Hackers received the QuantumCT x RTRC x qBraid - 1st Place award at YQuantum
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/PouliotAlexis/Quantum-Queb-Hackers---QuantumCT-RTRC-qBraid-Challenge.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/878/datas/gallery.jpg
+categories:
+  - iot
+  - defi
+technologies:
+  - python
+builders:
+  - name: Alexis Pouliot
+  - name: Amarey Hajouji Idrissi Rios
+  - name: Gabriel Michaud
+  - name: Jasmin pelletier

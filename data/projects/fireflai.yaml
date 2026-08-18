@@ -1,0 +1,20 @@
+id: fireflai
+name: Fireflai
+slug: fireflai
+tagline: A multi agent AI tool for fire fighters
+summary: Fireflai received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Hrishikesh-Athreya/fireflai/tree/final-code
+demo_url: null
+video_url: https://www.youtube.com/embed/aVl0IdfeYtE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/807/084/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Hrishikesh Athreya
+  - name: Aditi Apoorva Jagalur Raghuvara
+  - name: Ayaan Gazali

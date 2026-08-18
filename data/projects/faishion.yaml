@@ -1,0 +1,21 @@
+id: faishion
+name: fAIshion
+slug: faishion
+tagline: Do you ever wake up in the morning and don't know what to wear? We developed fAIshion to
+  assist you in this endeavor.
+summary: fAIshion received the Best Beginner Hack award at HackBU in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ThitSizzle/fAIshion/tree/main
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+technologies:
+  - openai
+  - python
+builders:
+  - name: Samuel Le
+  - name: Thit-Sar Kyaw
+  - name: NKO Kukreti

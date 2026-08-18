@@ -1,0 +1,19 @@
+id: repright
+name: RepRight
+slug: repright
+tagline: Real-time, AI-assisted personal training that perfects your form and builds confidence to
+  stay injury-free.
+summary: RepRight received the Hackers Choice award at Witathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/416/888/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies: []
+builders:
+  - name: Lauren O'Mahony
+  - name: Morgan Reed
+  - name: Carys MacIntyre

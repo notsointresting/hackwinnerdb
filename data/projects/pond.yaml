@@ -1,0 +1,20 @@
+id: pond
+name: Pond
+slug: pond
+tagline: "Pond: save inspiration from anywhere with context and intention. Because taste isn't what
+  you save — it's what you actually do something with."
+summary: "Pond received the Figma Make Track: Runner-up award at CreateSC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/w0-4hWexjd0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/895/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Akané Heim
+  - name: Adithi Amirtharaj
+  - name: Mark Benedict Agunias

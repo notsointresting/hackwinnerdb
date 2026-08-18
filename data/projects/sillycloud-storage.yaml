@@ -1,0 +1,18 @@
+id: sillycloud-storage
+name: SillyCloud Storage
+slug: sillycloud-storage
+tagline: Are you tired of paying for cloud storage? Try SillyCloud. Upload your files and you'll see
+  it as a cloud. On screen. It won't even talk to the internet. Let it
+summary: SillyCloud Storage received the stupidest (1st overall) award at Stupid Ideas Hackathon
+  (Toronto W26) in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - cloud
+technologies: []
+builders:
+  - name: Ruben Partono

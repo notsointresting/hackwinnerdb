@@ -1,0 +1,25 @@
+id: saguaro-link-non-profit-track-5
+name: Saguaro Link (Non-Profit Track 5)
+slug: saguaro-link-non-profit-track-5
+tagline: "Saguaro Link: Daily health logs earn Banner Bucks for grocery and RX discounts. We turn
+  streaks into essentials, bridging the gap for Arizona patients. Empoweri"
+summary: Saguaro Link (Non-Profit Track 5) received the [Banner – University Family Care] Best
+  Understanding of Community Healthcare Needs award at Hack Arizona 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MasonNjos/HackAZ2026
+demo_url: null
+video_url: https://www.youtube.com/embed/CJY9vm6T_tc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/614/032/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - postgresql
+  - react
+builders:
+  - name: Ernesto Martinez
+  - name: Mason Alan Njos
+  - name: drivera03

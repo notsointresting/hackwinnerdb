@@ -1,0 +1,14 @@
+id: carbonproxy-hackduke-code-for-good-2026
+project_id: carbonproxy
+hackathon_id: hackduke-code-for-good-2026
+submission_url: https://devpost.com/software/carbonproxy
+source:
+  platform: devpost
+  url: https://devpost.com/software/carbonproxy
+awards:
+  - type: category-winner
+    title: Best Virtual Submission
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

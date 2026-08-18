@@ -1,0 +1,22 @@
+id: traceloop
+name: TraceLoop
+slug: traceloop
+tagline: "Cursor for firmware: an AI agent that authors, simulates, tests, and explains embedded code."
+summary: "TraceLoop received the Hack the 6ix: 2nd Place award at Hack the 6ix 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Hostileoracle0606/TraceLoop
+demo_url: null
+video_url: https://www.youtube.com/embed/2Wc_i90BoLE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/939/174/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Trinab Goswamy

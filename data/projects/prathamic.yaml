@@ -1,0 +1,26 @@
+id: prathamic
+name: PRATHAMIC
+slug: prathamic
+tagline: A career operating system that helps applicants understand why they're losing — and what to
+  do next.
+summary: PRATHAMIC received the First Place award at Hawkathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/a1nmol/Pathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Anmol Subedi
+  - name: Samayara Rijal
+  - name: Praful Shrestha

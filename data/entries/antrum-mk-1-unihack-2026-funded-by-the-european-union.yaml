@@ -1,0 +1,14 @@
+id: antrum-mk-1-unihack-2026-funded-by-the-european-union
+project_id: antrum-mk-1
+hackathon_id: unihack-2026-funded-by-the-european-union
+submission_url: https://devpost.com/software/antrum-mk-1
+source:
+  platform: devpost
+  url: https://devpost.com/software/antrum-mk-1
+awards:
+  - type: first-place
+    title: MAIN PRIZE - First Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

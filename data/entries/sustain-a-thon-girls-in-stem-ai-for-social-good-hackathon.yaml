@@ -1,0 +1,34 @@
+id: sustain-a-thon-girls-in-stem-ai-for-social-good-hackathon
+project_id: sustain-a-thon
+hackathon_id: girls-in-stem-ai-for-social-good-hackathon
+submission_url: https://devpost.com/software/sustain-a-thon
+source:
+  platform: devpost
+  url: https://devpost.com/software/sustain-a-thon
+awards:
+  - type: third-place
+    title: Individual 3rd
+  - type: first-place
+    title: 1st Place – Inspire Award (Overall Winner)
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Participation & Completion Recognition
+  - type: second-place
+    title: 2nd Place
+  - type: honorable-mention
+    title: Honorable mention
+  - type: category-winner
+    title: Best Use Of Gemini
+  - type: category-winner
+    title: BEST SOCIAL IMPACT
+  - type: track-winner
+    title: Real World Problem Track Winner
+  - type: other
+    title: Internship Opportunities
+  - type: finalist
+    title: Top 100 Finalist Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

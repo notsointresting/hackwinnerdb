@@ -1,0 +1,14 @@
+id: revolt-cuhacking7
+project_id: revolt
+hackathon_id: cuhacking7
+submission_url: https://devpost.com/software/revolt-tvk2mr
+source:
+  platform: devpost
+  url: https://devpost.com/software/revolt-tvk2mr
+awards:
+  - type: category-winner
+    title: Best AI Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

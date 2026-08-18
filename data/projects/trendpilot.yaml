@@ -1,0 +1,22 @@
+id: trendpilot
+name: TrendPilot
+slug: trendpilot
+tagline: "TrendPilot is an autonomous AI that spots trends, creates content briefs, learns from
+  results, and can generate and upload videos—helping creators catch trends "
+summary: TrendPilot received the Top Overall Winner award at Multimodal Frontier Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/smaranz/trendpilot
+demo_url: null
+video_url: https://www.youtube.com/embed/jIWgggenG8g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/062/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+builders:
+  - name: FireNinja Miner
+  - name: Smaran Aramballi Sandarsh
+  - name: Aidan Kwan

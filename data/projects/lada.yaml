@@ -1,0 +1,23 @@
+id: lada
+name: LADA
+slug: lada
+tagline: Plan smarter, study better, stress less — all in one dashboard.
+summary: "LADA received the Beginner Track: Powerbanks award at RAMHACK 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pfsNfNnSGU0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/508/346/datas/medium.png
+categories:
+  - education
+  - social-impact
+  - creative-tools
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Leslie Palaguachi
+  - name: Ajara Aifa
+  - name: Defne Koparal
+  - name: Almog Zegaya

@@ -1,0 +1,23 @@
+id: dollarpilot
+name: DollarPilot
+slug: dollarpilot
+tagline: The AI finance app that coaches your future, visualizes your wealth, and ruthlessly roasts
+  your bad habits. Also adds yours steps forward it.
+summary: DollarPilot received the FinTech Track Winner award at LionHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/800/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - javascript
+  - nextjs
+  - typescript
+builders:
+  - name: Grishma Neupane
+  - name: Bibek Pathak

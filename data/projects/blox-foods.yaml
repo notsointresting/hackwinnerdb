@@ -1,0 +1,21 @@
+id: blox-foods
+name: Blox Foods
+slug: blox-foods
+tagline: Up to 50% of children are picky eaters. This has nutritional and cognitive consequences
+  among else. Blox Foods is an interactive game supporting families by mak
+summary: Blox Foods received the Clip Contest award at CareXR Hack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/raph-abder/McGillXR_2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/o_sX7vdLxHU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/066/datas/gallery.jpg
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies: []
+builders:
+  - name: Fatima Mesref
+  - name: Raphael Abderrahmani
+  - name: Ayman Driouich

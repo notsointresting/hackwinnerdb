@@ -1,0 +1,23 @@
+id: basketiq
+name: BasketIQ
+slug: basketiq
+tagline: BasketIQ transforms shopping lists into optimized, real-time purchasing decisions using
+  personal consumption memory and live web pricing intelligence
+summary: BasketIQ received the Best use of Nimble's API or Web Search Agents award at Agentic
+  Engineering Hack in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zRN9py336r4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/052/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Rahul Raghatate
+  - name: Ayushi Bhujade

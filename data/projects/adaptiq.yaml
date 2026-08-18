@@ -1,0 +1,27 @@
+id: adaptiq
+name: AdaptIQ
+slug: adaptiq
+tagline: Your brain has a learning style. AdaptIQ finally listens to it.
+summary: AdaptIQ received the Economic Empowerment & Education Track award at CBC Hackathon 2026 @
+  NJIT in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/646/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - javascript
+  - python
+  - webrtc
+builders:
+  - name: Mayukha Ajeesh Ramsha Nath
+  - name: Rishab Mohandoss
+  - name: Sneh Bhatt
+  - name: Aagam Ambavi

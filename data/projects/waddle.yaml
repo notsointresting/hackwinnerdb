@@ -1,0 +1,26 @@
+id: waddle
+name: Waddle
+slug: waddle
+tagline: Splashing around in the pond too much and hurt your leg? Use Waddle in order to track your
+  recovery journey and get right back to swimming!
+summary: Waddle received the Harnold's Crown - Best Overall ($200 value) award at Hack Hack Goose in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AryanRajpal/hack-hack-goose-product
+demo_url: null
+video_url: https://www.youtube.com/embed/QOFbL_G-mqE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/170/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - c-plus-plus
+  - fastapi
+  - figma
+  - javascript
+  - python
+  - sql
+builders:
+  - name: Aryan Rajpal
+  - name: Adit Khandelwal
+  - name: Sergio Rebeles
+  - name: Aiden Salinas

@@ -1,0 +1,22 @@
+id: strikerisk
+name: StrikeRisk
+slug: strikerisk
+tagline: The only platform that allows you to predict dry lightning wildfire risk before fires start
+  using Machine Learning and live atmospheric data.
+summary: StrikeRisk received the Third prize. award at WeatherWise Hack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/krishsakthivel/strikerisk
+demo_url: null
+video_url: https://www.youtube.com/embed/1nPnag-EJQU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/669/300/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Krish Sakthivel
+  - name: Sushanth Dhilipvenkatesh

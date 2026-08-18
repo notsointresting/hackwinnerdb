@@ -1,0 +1,22 @@
+id: insight
+name: InSight
+slug: insight
+tagline: Detecting emotion through speech for the ASD population.
+summary: InSight received the Cooperative Brain Health Track award at CareXR Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3iMwcvy9JYs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/484/069/datas/medium.jpeg
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies:
+  - python
+builders:
+  - name: Mankush Gandhi
+  - name: Ian Duthler
+  - name: Harry Hong
+  - name: MaaluvG Gandhi

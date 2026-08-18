@@ -1,0 +1,22 @@
+id: pedalpoint
+name: PedalPoint
+slug: pedalpoint
+tagline: PedalPoint is a mobile app that allows users to gain rewards for moving Belfast Bikes to
+  bike docks that have insufficient supply, as calculated by our statisti
+summary: PedalPoint received the Grand Winner - Builder Track award at HackBelfast in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/orgs/Hack-Belfast-QUBit-team-15/repositories
+demo_url: null
+video_url: https://www.youtube.com/embed/8dM0SQO4Bqw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: lucybaell Bell

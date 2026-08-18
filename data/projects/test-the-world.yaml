@@ -1,0 +1,21 @@
+id: test-the-world
+name: Test the World
+slug: test-the-world
+tagline: Spin the globe to discover authentic global recipes. Cook traditional breakfast, lunch, or
+  dinner from any country with step-by-step guidance.
+summary: "Test the World received the Best solo project award at HackMars 3.0: NEON in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Priyanka12-dot/testtheworld.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/735/359/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Priyanka Gogoi

@@ -1,0 +1,14 @@
+id: dab-stupid-ideas-hackathon-waterloo-w26
+project_id: dab
+hackathon_id: stupid-ideas-hackathon-waterloo-w26
+submission_url: https://devpost.com/software/dab-uncv28
+source:
+  platform: devpost
+  url: https://devpost.com/software/dab-uncv28
+awards:
+  - type: other
+    title: 2016 is back
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

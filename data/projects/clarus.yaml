@@ -1,0 +1,29 @@
+id: clarus
+name: Clarus
+slug: clarus
+tagline: Automate every step of your clinical workflow.
+summary: Clarus received the Vivirion Solutions - Best Practical Healthcare Hack award at Hack
+  Canada 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Rahbir1518/Clarus
+demo_url: null
+video_url: https://www.youtube.com/embed/ysAsUXv447Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/407/199/datas/gallery.jpg
+categories:
+  - productivity
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - twilio
+  - typescript
+  - vercel
+builders:
+  - name: Madhav Patel
+  - name: Mohammed Faraz Kabbo
+  - name: Md Rahbir Mahdi
+  - name: Ammar Faisal

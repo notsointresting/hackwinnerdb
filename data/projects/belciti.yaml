@@ -1,0 +1,24 @@
+id: belciti
+name: Belciti
+slug: belciti
+tagline: Belfast planner to see which infrastructure is useful for the future or can cause problems
+  and protests.
+summary: Belciti received the Best Use Of Data - Hudson River Trading award at HackBelfast in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/M-Masood4/Bims-5#
+demo_url: null
+video_url: https://www.youtube.com/embed/K6QG5DCqSvo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/110/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - docker
+  - postgresql
+  - typescript
+builders:
+  - name: James Espinosa
+  - name: M Masood
+  - name: Ayush Gupta

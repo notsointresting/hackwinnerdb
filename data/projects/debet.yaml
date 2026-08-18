@@ -1,0 +1,26 @@
+id: debet
+name: DeBet
+slug: debet
+tagline: Prediction markets reward being right. DeBet rewards being smart. The first
+  argument-quality exchange where your payout is determined by the strength of your re
+summary: "DeBet received the Track 3: Forum (2nd place) award at SDxUCSD Agent Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/SrinivasNampalli/ForumProject
+demo_url: null
+video_url: https://www.youtube.com/embed/StwdOyL3Iag
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/210/datas/gallery.jpg
+categories:
+  - fintech
+  - productivity
+technologies:
+  - python
+  - react
+  - solana
+  - supabase
+  - typescript
+builders:
+  - name: Saathvik Gampa
+  - name: Sri Madhav Surapaneni
+  - name: Yuxin Pan
+  - name: Yang Yue

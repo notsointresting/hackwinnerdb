@@ -1,0 +1,25 @@
+id: feed
+name: feed.
+slug: feed
+tagline: '"feed." is the social network that makes you cook! It predicts what you like and ships the
+  ingredients directly to you. Enjoy only the fun of cooking. Feed your'
+summary: feed. received the OpenAI Credits award at HackRome in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hack-rome-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/c-PrQtMK8dE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/881/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - postgresql
+  - python
+  - react-native
+builders:
+  - name: Pietro Bertozzi
+  - name: Federico Bosi
+  - name: drank40

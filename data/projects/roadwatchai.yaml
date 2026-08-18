@@ -1,0 +1,25 @@
+id: roadwatchai
+name: RoadwatchAi
+slug: roadwatchai
+tagline: AI-powered road safety platform that detects hazards and traffic risks in real time,
+  helping cut road injuries under SDG 3.
+summary: RoadwatchAi received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Devengoyal885/Arclight_RoadSafety_RoadwatchAi
+demo_url: null
+video_url: https://www.youtube.com/embed/wVAWw7aSNg8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/866/547/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - javascript
+  - opencv
+  - python
+  - tensorflow
+  - yolo
+builders:
+  - name: Deven goyal
+  - name: Rishabh verma

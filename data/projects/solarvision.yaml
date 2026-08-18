@@ -1,0 +1,21 @@
+id: solarvision
+name: SolarVision
+slug: solarvision
+tagline: Analyze rooftop solar potential instantly using satellite data, climate intelligence, and AI.
+summary: "SolarVision received the Participation - $1339 value award at Creator Colosseum Startup
+  Competition: Student Founders. Real Startups.  in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Hamdan772/SolarVision
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/344/778/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - climate
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Hamdan Puthiya Purayil
+  - name: rishi_iscool rahul

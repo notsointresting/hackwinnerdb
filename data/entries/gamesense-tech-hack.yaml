@@ -1,0 +1,14 @@
+id: gamesense-tech-hack
+project_id: gamesense
+hackathon_id: tech-hack
+submission_url: https://devpost.com/software/gamesense-78fswv
+source:
+  platform: devpost
+  url: https://devpost.com/software/gamesense-78fswv
+awards:
+  - type: other
+    title: Kado Portable Monitor
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

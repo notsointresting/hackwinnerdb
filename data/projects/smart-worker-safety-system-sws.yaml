@@ -1,0 +1,26 @@
+id: smart-worker-safety-system-sws
+name: Smart Worker Safety System (SWS)
+slug: smart-worker-safety-system-sws
+tagline: Smart Worker Safety System (SWS) — An AI-powered real-time safety monitoring platform that
+  detects risks, tracks workers, and instantly alerts supervisors to pr
+summary: Smart Worker Safety System (SWS) received the 3rd Place – Rising Builder Award award at
+  Quantum Sprint in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - fintech
+  - creative-tools
+technologies:
+  - firebase
+  - javascript
+  - mongodb
+  - python
+  - react
+  - vercel
+builders:
+  - name: deepika Sakthivel

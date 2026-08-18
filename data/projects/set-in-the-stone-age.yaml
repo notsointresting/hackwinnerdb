@@ -1,0 +1,21 @@
+id: set-in-the-stone-age
+name: Set in the Stone Age
+slug: set-in-the-stone-age
+tagline: Set in the stone age is a survival game which requires you to balance short term survival
+  with long term building to prosper and take down other players.
+summary: Set in the Stone Age received the Best Art award at The Cambridge Game Jam 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/869/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: Jacob Mittoo
+  - name: Katie Carter
+  - name: Bella Wang
+  - name: Kalina Poydovska

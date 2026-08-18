@@ -1,0 +1,14 @@
+id: ecoflight-ai-fly-smarter-burn-less-leave-no-contrails-hacknewhaven-2026
+project_id: ecoflight-ai-fly-smarter-burn-less-leave-no-contrails
+hackathon_id: hacknewhaven-2026
+submission_url: https://devpost.com/software/ecoflight-ai-fly-smarter-burn-less-leave-no-contrails
+source:
+  platform: devpost
+  url: https://devpost.com/software/ecoflight-ai-fly-smarter-burn-less-leave-no-contrails
+awards:
+  - type: category-winner
+    title: Best Use of ElevenLabs
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

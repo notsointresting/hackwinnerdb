@@ -1,0 +1,16 @@
+id: mediverify-pro-forinovation
+project_id: mediverify-pro
+hackathon_id: forinovation
+submission_url: https://devpost.com/software/mediverify-pro-hgeiqt
+source:
+  platform: devpost
+  url: https://devpost.com/software/mediverify-pro-hgeiqt
+awards:
+  - type: other
+    title: Participant
+  - type: other
+    title: certificate and invited to publish book
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

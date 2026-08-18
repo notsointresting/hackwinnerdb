@@ -1,0 +1,19 @@
+id: krishinexus-ai
+name: KrishiNexus AI
+slug: krishinexus-ai
+tagline: "KrishiNexus AI: A B2B2C agritech hub using Gemini to diagnose crop diseases in Bangla via
+  photos and bypass middlemen with a direct-to-buyer fair-price market."
+summary: KrishiNexus AI received the Best Use of Antigravity award at Hack Days in Feni in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/727/125/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - typescript
+builders:
+  - name: Zishan Zishan
+  - name: Kaysar  Alam

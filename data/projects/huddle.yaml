@@ -1,0 +1,25 @@
+id: huddle
+name: Huddle
+slug: huddle
+tagline: Check your form with your camera, find a game near you, and train with people instead of alone.
+summary: Huddle received the Solo Prize award at PeddieHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Viktor-Nedev/Huddle
+demo_url: null
+video_url: https://www.youtube.com/embed/Y5FYQRAoe7w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/114/444/datas/medium.png
+categories:
+  - education
+  - social-impact
+  - gaming
+technologies:
+  - firebase
+  - javascript
+  - mapbox
+  - react
+  - tensorflow
+  - typescript
+  - webrtc
+builders:
+  - name: Viktor Nedev

@@ -1,0 +1,14 @@
+id: scamshield-ai-hack-days-in-bhopal
+project_id: scamshield-ai
+hackathon_id: hack-days-in-bhopal
+submission_url: https://devpost.com/software/resumeai-match
+source:
+  platform: devpost
+  url: https://devpost.com/software/resumeai-match
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

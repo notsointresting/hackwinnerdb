@@ -1,0 +1,25 @@
+id: freightbite
+name: FreightBite
+slug: freightbite
+tagline: Truck drivers in the United States have a problem with having consistent work, a lot of the
+  time they haul empty trailers which ruins the profit margin of the i
+summary: FreightBite received the Best Business/ Launch Prize award at SacHacks VII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Pocket-sys32/FreightBite
+demo_url: null
+video_url: https://www.youtube.com/embed/2m78Q3oqpyE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/356/258/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Manraj Thandi
+  - name: veer singh
+  - name: cherry reddy
+  - name: Adam Thorne

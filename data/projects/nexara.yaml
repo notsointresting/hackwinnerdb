@@ -1,0 +1,21 @@
+id: nexara
+name: Nexara
+slug: nexara
+tagline: The most versatile medical tech hub. Clear beds faster, finish tasks more efficiently.
+summary: Nexara received the [AMD] Best Use of AI powered by AMD GPUs – 2nd Place award at Los Altos
+  Hacks X in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/yizhifang123/nexara
+demo_url: null
+video_url: https://www.youtube.com/embed/6DQ-ZASGnPo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/144/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - cloudflare
+  - javascript
+  - typescript
+builders:
+  - name: Yizhi Fang
+  - name: Rumiz Nellasery

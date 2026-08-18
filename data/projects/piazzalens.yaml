@@ -1,0 +1,23 @@
+id: piazzalens
+name: PiazzaLens
+slug: piazzalens
+tagline: "PiazzaLens is a side panel Chrome Extension dashboard that gives students AI insights,
+  trending questions, and social validation while helping professors track "
+summary: PiazzaLens received the Best Project for Enhancing Teaching Efficiency with Intelligent
+  Course Support award at Hack The Student Life 2026  in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MustafaAmin06/PiazzaLens.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/431/740/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Yashvi Shah
+  - name: Harshpreet Singh
+  - name: Mustafa Amin
+  - name: Parth Bhasin

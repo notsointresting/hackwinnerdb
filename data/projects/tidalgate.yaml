@@ -1,0 +1,24 @@
+id: tidalgate
+name: TidalGate
+slug: tidalgate
+tagline: TidalGate is an buoy that measures wave energy before it hits a turbine. This data helps
+  turbines adjust ahead of time to capture more power and prevent mechani
+summary: TidalGate received the Hardware + IoT track award at DataHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EkagraAgarwal/UCPU/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/zdIPpBog2cA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/282/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: Samridh Prabhakar
+  - name: Ray Wang
+  - name: Ekagra Agarwal
+  - name: Mindy Xia

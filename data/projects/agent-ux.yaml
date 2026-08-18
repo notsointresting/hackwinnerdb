@@ -1,0 +1,24 @@
+id: agent-ux
+name: Agent UX
+slug: agent-ux
+tagline: Usability testing for anyone, on any website, in minutes.
+summary: "Agent UX received the Track: The Rogue’s Ritual (Wildcard) award at DiamondHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/jadenseangmany/diamondhacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/AN_QnUUL0Mg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/571/730/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - figma
+  - gemini
+  - python
+builders:
+  - name: Manjusri Gobiraj
+  - name: Alice Lan
+  - name: Jaden Seangmany
+  - name: Khang Nguyen

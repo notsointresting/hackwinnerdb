@@ -1,0 +1,14 @@
+id: mindloop-build-for-impact-cbc-hackathon-ur-cst
+project_id: mindloop
+hackathon_id: build-for-impact-cbc-hackathon-ur-cst
+submission_url: https://devpost.com/software/iuyit797
+source:
+  platform: devpost
+  url: https://devpost.com/software/iuyit797
+awards:
+  - type: second-place
+    title: 2nd Place — Runner Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

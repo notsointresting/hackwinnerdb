@@ -1,0 +1,14 @@
+id: sentinelai-vandyhacks-xii
+project_id: sentinelai
+hackathon_id: vandyhacks-xii
+submission_url: https://devpost.com/software/sentenielai
+source:
+  platform: devpost
+  url: https://devpost.com/software/sentenielai
+awards:
+  - type: category-winner
+    title: MLH - Best Use of Snowflake API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

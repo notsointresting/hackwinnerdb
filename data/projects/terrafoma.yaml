@@ -1,0 +1,23 @@
+id: terrafoma
+name: TerraFoma
+slug: terrafoma
+tagline: TerraFoma is a Digital Monitoring, Reporting, and Verification, exchange platform that
+  connects SME to landowners with local industrial emitters.
+summary: TerraFoma received the Second Runner Up award at 2026 CodeXtreme Ingenious Hackathon Season
+  1 in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tonywahome/terrafoma
+demo_url: null
+video_url: https://www.youtube.com/embed/jTmlQxsf738
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/017/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+  - react
+  - stripe
+  - supabase
+builders:
+  - name: Antony Wahome
+  - name: Orpheus Manga
+  - name: Fredrick Nyoni

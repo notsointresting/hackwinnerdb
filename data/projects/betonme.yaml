@@ -1,0 +1,25 @@
+id: betonme
+name: BetOnMe
+slug: betonme
+tagline: A self-accountability webapp to ensure you meet your goals.
+summary: BetOnMe received the [MLH] Best Use of Solana || Ledger Nano S Plus award at HackKU26 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alexhlanter/BetOnMeHackKU26
+demo_url: null
+video_url: https://www.youtube.com/embed/1-Cw7rJpakM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/458/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Alex Lanter
+  - name: Shaan Bawa
+  - name: Mo Osby
+  - name: Jr Booker

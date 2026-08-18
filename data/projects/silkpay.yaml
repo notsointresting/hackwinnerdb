@@ -1,0 +1,23 @@
+id: silkpay
+name: Silkpay
+slug: silkpay
+tagline: We allow african merchants to trade without borders.
+summary: Silkpay received the Station F Workspace award at Paris Fintech Hackathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - fintech
+  - social-impact
+technologies:
+  - fastapi
+  - nextjs
+  - solidity
+  - supabase
+  - vercel
+builders:
+  - name: Sascha Cauchon

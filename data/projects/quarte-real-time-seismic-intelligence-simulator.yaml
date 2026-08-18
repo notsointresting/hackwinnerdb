@@ -1,0 +1,27 @@
+id: quarte-real-time-seismic-intelligence-simulator
+name: "Quarte: Real-time Seismic Intelligence & Simulator"
+slug: quarte-real-time-seismic-intelligence-simulator
+tagline: Quarte bridges disaster preparedness and insurance tech by using 3D spatial mapping to
+  guide residents to safety during an earthquake and helping insurers dynam
+summary: "Quarte: Real-time Seismic Intelligence & Simulator received the Entrepreneurship & Product
+  track award at DataHacks 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/toK7wHBunZU
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Christian Lee
+  - name: Ryan Zhang

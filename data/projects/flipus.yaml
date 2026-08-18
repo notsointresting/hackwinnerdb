@@ -1,0 +1,25 @@
+id: flipus
+name: Flipus
+slug: flipus
+tagline: A community-driven flipbook, where each book is a little art from everyone.
+summary: Flipus received the Track 3 - Digital Media/Creativity (2nd place) award at VikingHacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/MarinCatholicCS/flipus
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/737/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - cloudflare
+  - firebase
+  - react
+  - vercel
+builders:
+  - name: Nico Zametto
+  - name: Stanley Ho

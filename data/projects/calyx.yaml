@@ -1,0 +1,25 @@
+id: calyx
+name: Calyx
+slug: calyx
+tagline: The clinical middleman turning wound photos into life-saving data
+summary: Calyx received the Best Overall Project award at CareTech Hackathon Winter 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AnanthKini1/WoundVision
+demo_url: null
+video_url: https://www.youtube.com/embed/IxA9LZEx0GI
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - opencv
+  - python
+  - react
+  - typescript
+builders:
+  - name: Isak Pederson
+  - name: Ananth Kini
+  - name: Krishiv Mahendru

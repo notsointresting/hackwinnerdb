@@ -1,0 +1,24 @@
+id: aurea-ai-powered-residential-insurance-underwriting
+name: Aurea — AI-Powered Residential Insurance Underwriting
+slug: aurea-ai-powered-residential-insurance-underwriting
+tagline: Aurea is a multiagent AI system that automates UK home insurance underwriting, delivering a
+  risk score, premium multiplier, and accept/refer/decline decision in
+summary: Aurea — AI-Powered Residential Insurance Underwriting received the (Serac Track) 4x Sony
+  XM5SA award at HackLondon 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/krishnagopika/Aurea
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/349/161/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - docker
+  - fastapi
+  - nextjs
+  - python
+builders:
+  - name: Krishna Gopika Urlaganti

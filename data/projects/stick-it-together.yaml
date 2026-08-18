@@ -1,0 +1,24 @@
+id: stick-it-together
+name: Stick it Together
+slug: stick-it-together
+tagline: Two random words flash on screen. Everyone lunges for the remote. First to grab it shouts
+  the connection and reaps the reward.
+summary: Stick it Together received the Unconventional connections award at SotonHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kryzp/sotonhack26backend
+demo_url: null
+video_url: https://www.youtube.com/embed/jy-Z0-egs_E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/455/845/datas/medium.png
+categories:
+  - other
+technologies:
+  - kotlin
+  - python
+  - react
+  - typescript
+builders:
+  - name: Hussain Homadi
+  - name: Bartek Arendt
+  - name: Aidan Oldfield
+  - name: kryzp

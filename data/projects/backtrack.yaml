@@ -1,0 +1,18 @@
+id: backtrack
+name: BackTrack
+slug: backtrack
+tagline: Alzheimer’s steals time. Backtrack helps give some of it back!
+summary: BackTrack received the WEHack General Track award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kxm1908/WeHack26
+demo_url: null
+video_url: https://www.youtube.com/embed/OVjSLQr682c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/730/datas/gallery.jpg
+categories:
+  - other
+technologies: []
+builders:
+  - name: Manu Hari
+  - name: Romita Veeramallu
+  - name: Krithikaa Muthukumar

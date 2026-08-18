@@ -1,0 +1,26 @@
+id: skim-southern-knowledge-internal-mentor
+name: SKIM (Southern Knowledge Internal Mentor)
+slug: skim-southern-knowledge-internal-mentor
+tagline: "Field operations rely on experimental intuition: which valve sticks in the cold, which
+  street has an unmarked line. We aim to capture that knowledge and experie"
+summary: SKIM (Southern Knowledge Internal Mentor) received the Energy - sponsored by Southern
+  Company award at Play with Purpose Hackathon presented by Cox Enterprises in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/XVwrQB23IsI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/781/946/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - javascript
+  - python
+  - react
+builders:
+  - name: Mustafa Zaidi
+  - name: Nikhil Yeminedi
+  - name: Aryan Shrestha
+  - name: Selam Abiye

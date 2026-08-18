@@ -1,0 +1,14 @@
+id: privion-nths-hack-2026-hack-the-next-frontier
+project_id: privion
+hackathon_id: nths-hack-2026-hack-the-next-frontier
+submission_url: https://devpost.com/software/privion
+source:
+  platform: devpost
+  url: https://devpost.com/software/privion
+awards:
+  - type: first-place
+    title: General 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

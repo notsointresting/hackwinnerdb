@@ -1,0 +1,20 @@
+id: geneguide-ai
+name: GeneGuide AI
+slug: geneguide-ai
+tagline: An AI-powered health assistant that explains medical reports, simplifies medical
+  terminology, answers patient questions, and makes healthcare information access
+summary: GeneGuide AI received the Participation Certificates award at Ctrl+V Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Fizaahmad268/GeneGuide-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/ogHR3q4OP8A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/382/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - streamlit
+builders:
+  - name: Fiza Ahmad

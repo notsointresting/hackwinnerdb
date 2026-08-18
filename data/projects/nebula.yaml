@@ -1,0 +1,24 @@
+id: nebula
+name: Nebula
+slug: nebula
+tagline: Search your files in plain English with no hassle. No Filenames required.
+summary: Nebula received the Best App for Developer Productivity - Runner Up award at GDSC
+  HackDay  - Build With AI Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/IanCou/Gemini2026/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/504/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - mongodb
+  - python
+  - rust
+builders:
+  - name: Evan Taubenfeld
+  - name: Ian Coutinho

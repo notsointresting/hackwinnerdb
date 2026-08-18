@@ -1,0 +1,18 @@
+id: lifeline-autonomous-agents-hackathon
+project_id: lifeline
+hackathon_id: autonomous-agents-hackathon
+submission_url: https://devpost.com/software/lifeline-hroube
+source:
+  platform: devpost
+  url: https://devpost.com/software/lifeline-hroube
+awards:
+  - type: category-winner
+    title: Best use of Modulate's APIs
+  - type: category-winner
+    title: Best use of Fastino
+  - type: category-winner
+    title: Most Innovative Use of Reka's Vision API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

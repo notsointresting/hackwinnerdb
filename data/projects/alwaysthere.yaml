@@ -1,0 +1,21 @@
+id: alwaysthere
+name: AlwaysThere
+slug: alwaysthere
+tagline: "AlwaysThere helps far-away families care for a loved one with Alzheimer's: find trained
+  caregivers, follow daily care, and catch changes early—even when you can"
+summary: AlwaysThere received the First place award at The Vakathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/468/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react-native
+  - sql
+  - supabase
+builders:
+  - name: Aadit Mehta
+  - name: Ishan Chaugule

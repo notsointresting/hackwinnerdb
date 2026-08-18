@@ -1,0 +1,22 @@
+id: agentwall
+name: AgentWall
+slug: agentwall
+tagline: "AgentWall is a security firewall for AI coding agents, intercepting dangerous commands,
+  guarding files, blocking network exfiltration, killing rogue processes, "
+summary: AgentWall received the AI/ML Track award at Grizzhacks 8 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Wissam-El-Labban/agentwall
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/391/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - flask
+  - python
+builders:
+  - name: Wissam El Labban
+  - name: Pradhum Niroula

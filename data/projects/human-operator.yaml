@@ -1,0 +1,25 @@
+id: human-operator
+name: Human Operator
+slug: human-operator
+tagline: A Human Augmentation Tool for On-Body Intelligence with EMS.
+summary: "Human Operator received the LEARN - Track award at HARD MODE: Hardware x AI Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/humancomputerintegration/BOH-Electro-Tactile
+demo_url: null
+video_url: https://www.youtube.com/embed/fCLxENGs7CY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/449/281/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - arduino
+  - claude
+  - opencv
+  - python
+builders:
+  - name: Ashley Neall
+  - name: Peter He
+  - name: Valdemar Danry
+  - name: Sean Hardesty Lewis

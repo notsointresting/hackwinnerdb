@@ -1,0 +1,22 @@
+id: hemo
+name: Hemo
+slug: hemo
+tagline: Hemo is an iOS app that turns the desperate search for blood donors into a streamlined,
+  secure network. Hemo prioritizes the right donors at the right time whil
+summary: Hemo received the Best Hack with Google Gemini award at Hack Days with CAP & TecBytes in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElvisAlain/BancoSangre/settings
+demo_url: null
+video_url: https://www.youtube.com/embed/ofqzpSZAo5Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/383/527/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies: []
+builders:
+  - name: Javier Juárez Pulido
+  - name: Elvis Alain Calzada Trinidad
+  - name: Daniel Carballido Carreón
+  - name: Mario Alejandro Avendaño Olmos

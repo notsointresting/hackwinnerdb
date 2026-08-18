@@ -1,0 +1,14 @@
+id: focustrack-hack-brooklyn
+project_id: focustrack
+hackathon_id: hack-brooklyn
+submission_url: https://devpost.com/software/focustrack-x5ngpl
+source:
+  platform: devpost
+  url: https://devpost.com/software/focustrack-x5ngpl
+awards:
+  - type: sponsor-prize
+    title: "Sponsor Challenge: Best Use of Tavily"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

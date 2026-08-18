@@ -1,0 +1,14 @@
+id: ice-in-his-veins-aqx-sports-analytics-data-bowl-2-0
+project_id: ice-in-his-veins
+hackathon_id: aqx-sports-analytics-data-bowl-2-0
+submission_url: https://devpost.com/software/ice-in-his-veins
+source:
+  platform: devpost
+  url: https://devpost.com/software/ice-in-his-veins
+awards:
+  - type: second-place
+    title: Second Place Honors
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

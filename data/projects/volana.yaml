@@ -1,0 +1,22 @@
+id: volana
+name: volana
+slug: volana
+tagline: "The options AI your broker doesn't want you to have. Draw any scenario, see vol crush
+  before it happens, ask why you're losing. Neural surface beats SABR 43% — "
+summary: volana received the Claude AI Sponsor Prize award at WildHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/a2PzTdviRqI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/319/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+  - pytorch
+builders:
+  - name: Matus Vecera

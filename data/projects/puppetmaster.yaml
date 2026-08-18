@@ -1,0 +1,20 @@
+id: puppetmaster
+name: PuppetMaster
+slug: puppetmaster
+tagline: A browser-based motion-capture studio that tracks your body via webcam to drive expressive,
+  procedural marionettes in real-time.
+summary: PuppetMaster received the Second Place award at DDC x Ignition Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Danh295/DDCxIgnition
+demo_url: null
+video_url: https://www.youtube.com/embed/OE_6KZZcR1s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/976/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Yuhan Xu
+  - name: Danny Hu

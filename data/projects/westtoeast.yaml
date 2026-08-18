@@ -1,0 +1,17 @@
+id: westtoeast
+name: WestToEast
+slug: westtoeast
+tagline: XOF, XAF, GNF <> KES bridge, using the lightning network and LNURL, through the new Tando feature.
+summary: WestToEast received the 1st Overall award at Bitcoin++ Open Source Edition in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/tkVFoGlvb5s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/657/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: nourou4them Nourou

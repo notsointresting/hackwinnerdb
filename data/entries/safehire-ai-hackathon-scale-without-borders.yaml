@@ -1,0 +1,14 @@
+id: safehire-ai-hackathon-scale-without-borders
+project_id: safehire
+hackathon_id: ai-hackathon-scale-without-borders
+submission_url: https://devpost.com/software/safehire-nq5idp
+source:
+  platform: devpost
+  url: https://devpost.com/software/safehire-nq5idp
+awards:
+  - type: second-place
+    title: 2nd Place Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

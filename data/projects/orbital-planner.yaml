@@ -1,0 +1,21 @@
+id: orbital-planner
+name: Orbital Planner
+slug: orbital-planner
+tagline: Plans impulsive burns to rendezvous with moving satellites or moons in 3D Earth orbit; the
+  Mesocosm AI agent explains strategy and outcomes; a deterministic phy
+summary: Orbital Planner received the AGI & Real World Track Winner award at SWECCathon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saurav140306/Sweccathon_orbital-planner
+demo_url: null
+video_url: https://www.youtube.com/embed/HBujXu0E7ns
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Aditya Gupta
+  - name: Saurav Sanjay Saurav14@UW.Edu

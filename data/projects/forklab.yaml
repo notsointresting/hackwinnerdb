@@ -1,0 +1,22 @@
+id: forklab
+name: ForkLab
+slug: forklab
+tagline: ForkLab forks one distributed-agent failure into eight isolated Daytona worlds, then uses
+  Braintrust to prove which interventions stop retry cascades—turning ou
+summary: ForkLab received the Best Use of Braintrust award at Daytona HackSprint w/ Braintrust - SF,
+  July 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/KabirKoratkar/forklab
+demo_url: null
+video_url: https://www.youtube.com/embed/hiSe4gQ9wJo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/021/795/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Kabir Koratkar

@@ -1,0 +1,25 @@
+id: iron-world
+name: Iron World
+slug: iron-world
+tagline: POV construction camera footage is grainy, shaky, and open-ended, making it hard to analyze
+  using AI. Iron World reconstructs scenes digitally to assist vLLMs a
+summary: Iron World received the Ironsite x HackTech - Cash Prize award at Hacktech by Caltech 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jiekaitao/ironworld
+demo_url: null
+video_url: https://www.youtube.com/embed/uQI1R1-C4E4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/607/935/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - docker
+  - gemini
+  - pytorch
+  - unity
+builders:
+  - name: Jie Kai Tao
+  - name: Linwei Zhang

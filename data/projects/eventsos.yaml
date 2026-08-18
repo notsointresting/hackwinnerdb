@@ -1,0 +1,27 @@
+id: eventsos
+name: EventsOS
+slug: eventsos
+tagline: Your AI-powered command center for running events at scale — 7 specialized agents, one
+  natural-language prompt.
+summary: EventsOS received the [MLH] Best Use of Gemini API award at Grizzhacks 8 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Chanuth-Jayatissa/OSEvents.git
+demo_url: null
+video_url: https://www.youtube.com/embed/ZKUw7IJQaYg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/320/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Melvin Karupati
+  - name: Chanuth Devnaka Jayatissa
+  - name: Karthikeya Thota
+  - name: Alex Thebolt

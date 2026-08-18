@@ -1,15 +1,15 @@
 id: mochi
 name: Mochi
 tagline: Adapts web content for readers with dyslexia, ADHD, and reading disabilities
-summary: Mochi rewrites and reformats page content on device so that dense text becomes easier to read for people with
-  reading differences.
+summary: Mochi rewrites and reformats page content on device so that dense text becomes easier to
+  read for people with reading differences.
 problem: Long-form web content is hard to process for many readers and rarely offers an adapted view.
 solution: The extension restructures text locally with Chrome's built-in AI, so nothing leaves the browser.
 website_url: null
 github_url: https://github.com/tanhanwei/mochi
 demo_url: null
 video_url: null
-image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/163/458/datas/medium.png
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/168/259/datas/gallery.jpg
 categories:
   - accessibility
   - artificial-intelligence

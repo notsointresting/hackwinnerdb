@@ -1,0 +1,21 @@
+id: earth-allies
+name: Earth Allies
+slug: earth-allies
+tagline: EarthAllies connects recycling, volunteering, and flood alerts into one platform—helping
+  communities take real climate action, not just talk about it.
+summary: "Earth Allies received the Mystery Award award at The Climate Change-Makers Challenge: 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/MunkhtengerDev/climate-change-makers
+demo_url: null
+video_url: https://www.youtube.com/embed/SmZDovI89Qc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/567/datas/gallery.jpg
+categories:
+  - climate
+  - social-impact
+technologies:
+  - mongodb
+  - react
+builders:
+  - name: Munkhtenger Tumurbaatar
+  - name: Azaa Jirgal

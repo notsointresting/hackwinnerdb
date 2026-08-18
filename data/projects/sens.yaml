@@ -1,0 +1,26 @@
+id: sens
+name: Sens
+slug: sens
+tagline: Apunta. Habla. Entiende. Sens convierte tu celular en los ojos, la voz y la memoria de
+  quien depende de otros para vivir el día.
+summary: Sens received the Best Use of Gemini API award at MLH HackDays by RoBorregos 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jhulyammm/Gemini-ApiKey-Integration
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/652/187/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - javascript
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Ahmed Jhulyam Corpus Venegas
+  - name: santiago leyton
+  - name: Emiliano Rojas Herrera
+  - name: Joshua Ricardo Ortiz Escobar

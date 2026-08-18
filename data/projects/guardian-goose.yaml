@@ -1,0 +1,21 @@
+id: guardian-goose
+name: Guardian Goose
+slug: guardian-goose
+tagline: A post-mortem forensic detective using Helius and Gemini Pro to dissect Solana scams,
+  identify "Cuckoo" signatures, and explain exactly how your nest was raided
+summary: Guardian Goose received the Best Use of Solana award at Hack Hack Goose in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/raorjun/guardian-goose-HHG
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/269/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - react
+builders:
+  - name: Arjun Rao

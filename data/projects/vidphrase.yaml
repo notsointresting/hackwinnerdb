@@ -1,0 +1,23 @@
+id: vidphrase
+name: VidPhrase
+slug: vidphrase
+tagline: "VidPhrase turns YouTube videos, uploaded videos, and audio into searchable content with
+  subtitle, comment, and AI semantic search that understands meaning, not "
+summary: VidPhrase received the Stickers award at Hackdays Prayagraj  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/WhiteeRabbit/VidPhrase
+demo_url: null
+video_url: https://www.youtube.com/watch?v=TiTOYB5Lx30
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/879/906/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Shamil Aliyev

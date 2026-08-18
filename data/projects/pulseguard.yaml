@@ -1,0 +1,21 @@
+id: pulseguard
+name: PulseGuard
+slug: pulseguard
+tagline: "A webcam-based device that monitors BPM, logs heart rate, detects abnormal levels based on
+  age, and triggers emergency alerts to notify an emergency contact or "
+summary: PulseGuard received the Best Beginner award at MasseyHacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/660/313/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - python
+  - twilio
+builders:
+  - name: Sreshta Korasikha
+  - name: Akshaya Vernu
+  - name: Tanisi Upadhyay

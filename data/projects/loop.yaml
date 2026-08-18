@@ -1,0 +1,20 @@
+id: loop
+name: Loop
+slug: loop
+tagline: New connections fade because people forget to follow up or don't know what to say.
+summary: Loop received the Crowd Favorite award at 2026 UF Design-a-thon by GUD in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/sB_YhI7zWl0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/390/607/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Noah Chae
+  - name: Sai Jayaraman
+  - name: Joanna Ye
+  - name: Nicolas Boulton

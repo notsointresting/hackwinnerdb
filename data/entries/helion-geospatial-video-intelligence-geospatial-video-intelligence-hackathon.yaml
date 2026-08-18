@@ -1,0 +1,14 @@
+id: helion-geospatial-video-intelligence-geospatial-video-intelligence-hackathon
+project_id: helion-geospatial-video-intelligence
+hackathon_id: geospatial-video-intelligence-hackathon
+submission_url: https://devpost.com/software/helion-geospatial-video-intelligence
+source:
+  platform: devpost
+  url: https://devpost.com/software/helion-geospatial-video-intelligence
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

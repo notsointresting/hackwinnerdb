@@ -1,0 +1,28 @@
+id: stepflow
+name: StepFlow
+slug: stepflow
+tagline: StepFlow is a step forward in study. Focused on your rhythm, not your results.
+summary: StepFlow received the First Timers Prize (by Atlassian) award at UNIHACK 2026, funded by
+  the European Union in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/nayc-599/revise-right.git
+demo_url: null
+video_url: https://www.youtube.com/embed/-dtply9-QaM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/439/603/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - firebase
+  - javascript
+  - langchain
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Nulara Kannangara
+  - name: Nay Chi
+  - name: Divyanshi Bhati
+  - name: bi8boOoOow

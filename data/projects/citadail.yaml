@@ -1,0 +1,23 @@
+id: citadail
+name: Citadail
+slug: citadail
+tagline: Citadail is an AI-native hedge fund where specialized AI coworkers research companies,
+  build stock decision pitches, pass PM/risk checks, open paper trades, and
+summary: "Citadail received the Best AI-Powered App by Orchids (1st place: $300 cash, 2nd place:
+  $200 cash) award at HackPrinceton Spring '26 in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Taz33m/citadail
+demo_url: null
+video_url: https://www.youtube.com/embed/WEZ_fICYZwI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/635/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Tazeem Mahashin

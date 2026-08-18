@@ -1,0 +1,23 @@
+id: us-among-ai
+name: US AMONG AI
+slug: us-among-ai
+tagline: Be Bot or be Caught!
+summary: US AMONG AI received the Best UI award at SillyHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Silly-Hacks/Us-Among-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/152/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Kashfi Pranta
+  - name: Brett Rodrigues
+  - name: Tawheed Sarker Aakash
+  - name: SadabKhan01 Khan

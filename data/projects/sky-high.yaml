@@ -1,0 +1,22 @@
+id: sky-high
+name: Sky High!!
+slug: sky-high
+tagline: Sky High is a flight planning tool for airlines to make informed, strategic, decisions
+  towards a greener future.
+summary: Sky High!! received the AI Programming Track award at HackNewHaven 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ILuv-2Code/HNH_AI_2026/
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - cybersecurity
+technologies:
+  - flask
+  - mongodb
+  - python
+  - pytorch
+builders:
+  - name: Emmet Spaeth

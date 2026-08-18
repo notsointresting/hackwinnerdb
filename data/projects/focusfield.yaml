@@ -1,0 +1,27 @@
+id: focusfield
+name: FocusField
+slug: focusfield
+tagline: Imagine a space where you have complete focus, entering flow-state is easy, and
+  productivity skyrockets. That's FocusField. FocusField creates a distraction-fre
+summary: FocusField received the (Hardware Track) 4x RayBan Meta award at HackLondon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HaiderAli3D/Proxus2
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/355/193/datas/gallery.jpg
+categories:
+  - education
+  - productivity
+  - iot
+technologies:
+  - anthropic
+  - arduino
+  - claude
+  - kotlin
+  - python
+builders:
+  - name: Nikita Pchelin
+  - name: Tymur Pryvalov
+  - name: Lorenzo Samuel
+  - name: Haider Ali

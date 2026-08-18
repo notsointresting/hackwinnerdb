@@ -1,0 +1,14 @@
+id: hydroclawnics-nemoclaw-nvidia-x-asus-hackathon-ucsc
+project_id: hydroclawnics
+hackathon_id: nemoclaw-nvidia-x-asus-hackathon-ucsc
+submission_url: https://devpost.com/software/hydroclawnics
+source:
+  platform: devpost
+  url: https://devpost.com/software/hydroclawnics
+awards:
+  - type: category-winner
+    title: Best for UCSC
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

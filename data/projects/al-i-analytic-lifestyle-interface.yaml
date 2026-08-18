@@ -1,0 +1,25 @@
+id: al-i-analytic-lifestyle-interface
+name: AL-I (Analytic Lifestyle Interface)
+slug: al-i-analytic-lifestyle-interface
+tagline: Remote work exploded after COVID-19, creating the need for a sustainable home workspace.
+  AL-I tracks the face and posture to analyze trends and provide reminder
+summary: "AL-I (Analytic Lifestyle Interface) received the MCF award at NTHS Hack 2026: Hack the
+  next frontier in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/xemc-ux/hackathon/
+demo_url: null
+video_url: https://www.youtube.com/embed/El5LaXsROp8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/150/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - javascript
+  - opencv
+  - python
+  - tensorflow
+builders:
+  - name: Prajwal X Amara

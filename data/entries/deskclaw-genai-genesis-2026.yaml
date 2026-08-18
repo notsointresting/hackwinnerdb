@@ -1,0 +1,16 @@
+id: deskclaw-genai-genesis-2026
+project_id: deskclaw
+hackathon_id: genai-genesis-2026
+submission_url: https://devpost.com/software/deskclaw
+source:
+  platform: devpost
+  url: https://devpost.com/software/deskclaw
+awards:
+  - type: category-winner
+    title: "[GenAI Genesis] Best GenAI Hardware Hack (In-Person Only)"
+  - type: finalist
+    title: "[GenAI Genesis] TOP 10 Team - Finalists (In-Person Only)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

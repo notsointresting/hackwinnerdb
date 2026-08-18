@@ -1,0 +1,25 @@
+id: clarify
+name: Clarify
+slug: clarify
+tagline: Revolutionizing Digital Forensics through Novel Data Modeling
+summary: Clarify received the Best Digital Forensics Related Hack - Cipher Tech Solutions award at
+  Bitcamp 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/556/234/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - react
+  - typescript
+builders:
+  - name: Curtis Lu
+  - name: Parth Mhaske
+  - name: Dara Adedeji
+  - name: Yudhiishbala Senthilkumar

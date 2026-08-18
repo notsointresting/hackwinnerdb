@@ -1,0 +1,23 @@
+id: tickit
+name: Tickit
+slug: tickit
+tagline: Tickit turns chat into work. It detects tasks in Discord conversations and creates or links
+  Jira tickets with full context—no copy-paste, no lost decisions.
+summary: Tickit received the Best Terminal App award at Hack The Break 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hackthebreak2026spring/discord-bot.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - productivity
+technologies:
+  - docker
+  - javascript
+  - typescript
+builders:
+  - name: Brian Seo
+  - name: Ferrel Anthoni
+  - name: Kent Claudio
+  - name: Kurt Milan

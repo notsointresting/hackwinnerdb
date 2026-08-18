@@ -1,0 +1,24 @@
+id: signify
+name: Signify
+slug: signify
+tagline: Signify gamifies ASL education. Learn the sign alphabet and words, compete in real-time,
+  climb the leaderboard. Accessible-first with IBM's colourblind-safe pal
+summary: Signify received the Software 1st award at Hacked 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Chloe-Smriti-Tina/iris_signify
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/305/datas/gallery.jpg
+categories:
+  - education
+  - accessibility
+  - productivity
+technologies:
+  - firebase
+  - javascript
+  - webrtc
+builders:
+  - name: Chloe Kim
+  - name: Smriti Hari
+  - name: Tina Le

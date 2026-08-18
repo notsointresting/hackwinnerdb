@@ -1,0 +1,14 @@
+id: aiep-sep-x-microsoft-for-startups-hackathon
+project_id: aiep
+hackathon_id: sep-x-microsoft-for-startups-hackathon
+submission_url: https://devpost.com/software/aiep
+source:
+  platform: devpost
+  url: https://devpost.com/software/aiep
+awards:
+  - type: category-winner
+    title: Most likely to have a paying user within 30 days
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

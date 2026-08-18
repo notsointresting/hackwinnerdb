@@ -1,0 +1,19 @@
+id: codeweaver
+name: CodeWeaver
+slug: codeweaver
+tagline: "CodeWeaver: AI-native multi-agent system that autonomously understands, evolves, and
+  verifies your codebase from natural language tasks."
+summary: CodeWeaver received the ChatGPT Plus award at Codex Meetup Dhaka - UIU in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rezaur16/CodeWeaver
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/746/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Rezaur Rahman Ratul

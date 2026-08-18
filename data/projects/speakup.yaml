@@ -1,0 +1,19 @@
+id: speakup
+name: SpeakUp
+slug: speakup
+tagline: SpeakUp AI Coach is an AI-powered communication and public speaking platform that helps
+  users improve their speaking skills, confidence, and fluency through per
+summary: "SpeakUp received the Gemini Innovation Runner-Up award at Department Battle: Hack Days in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/786/525/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - infrastructure
+technologies:
+  - typescript
+builders:
+  - name: BHAVNA MISHRA

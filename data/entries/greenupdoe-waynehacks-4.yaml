@@ -1,0 +1,14 @@
+id: greenupdoe-waynehacks-4
+project_id: greenupdoe
+hackathon_id: waynehacks-4
+submission_url: https://devpost.com/software/greenupdoe
+source:
+  platform: devpost
+  url: https://devpost.com/software/greenupdoe
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

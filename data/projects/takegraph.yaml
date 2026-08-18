@@ -1,0 +1,29 @@
+id: takegraph
+name: Takegraph
+slug: takegraph
+tagline: "TAKEGRAPH is a self-healing build system for generative media that regenerates only what
+  changed, recovers from failures, and ships every asset with verifiable "
+summary: "Takegraph received the Third Place award at Backblaze Generative Media Hackathon: Build
+  with Genblaze on B2 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/Enoch208/takegraph
+demo_url: null
+video_url: https://www.youtube.com/embed/QlIozrpscj8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/055/536/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Enoch208 Enoch
+  - name: Arowosafe Damilare

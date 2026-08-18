@@ -1,0 +1,14 @@
+id: faceplay-tech-hack
+project_id: faceplay
+hackathon_id: tech-hack
+submission_url: https://devpost.com/software/faceplay-rt0i9f
+source:
+  platform: devpost
+  url: https://devpost.com/software/faceplay-rt0i9f
+awards:
+  - type: other
+    title: Tribit PocketGo Speaker
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

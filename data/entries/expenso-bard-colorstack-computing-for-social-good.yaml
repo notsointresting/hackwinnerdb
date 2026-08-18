@@ -1,0 +1,16 @@
+id: expenso-bard-colorstack-computing-for-social-good
+project_id: expenso
+hackathon_id: bard-colorstack-computing-for-social-good
+submission_url: https://devpost.com/software/expenso-4kp1oj
+source:
+  platform: devpost
+  url: https://devpost.com/software/expenso-4kp1oj
+awards:
+  - type: other
+    title: People's Coice
+  - type: winner
+    title: The Day Zero Award (Overall Winner)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

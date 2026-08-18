@@ -1,0 +1,21 @@
+id: 64nodes
+name: 64nodes
+slug: 64nodes
+tagline: Turn paper into digital insights! 64nodes uses Gemini AI to scan handwritten chess
+  score-sheets and delivers instant Grandmaster coaching in your pocket.
+summary: 64nodes received the Best Use of Gemini API award at Gemini Hack day  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saihari4665-byte/HackDay-.git
+demo_url: null
+video_url: https://www.youtube.com/embed/YWRA630dP8c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/605/952/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - ar-vr
+technologies:
+  - dart
+  - flutter
+builders:
+  - name: Sai Hariharan  B
+  - name: Satyaa

@@ -1,0 +1,20 @@
+id: circle
+name: Circle
+slug: circle
+tagline: "Belonging: the invisible force behind every child who thrives, and every one who doesn't."
+summary: Circle received the Honorable Mentions award at FigBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/npePyVGipXA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/423/176/datas/medium.jpeg
+categories:
+  - creative-tools
+technologies:
+  - figma
+  - react
+  - tailwind-css
+builders:
+  - name: Evelyn Hur
+  - name: Aayush Jain

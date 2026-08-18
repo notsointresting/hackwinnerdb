@@ -1,0 +1,23 @@
+id: ottotrade
+name: OttoTrade
+slug: ottotrade
+tagline: Everyday investors see stocks swing without knowing why. OttoTrade connects world news to
+  your portfolio, mapping global ripple effects to teach you the exact '
+summary: OttoTrade received the Best Fintech Hack [Bloomberg] award at BloomKnights in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8_w56rMGaDw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/883/014/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+  - supabase
+builders:
+  - name: codingcassandra Morales
+  - name: Gavin Blanchard
+  - name: jason nguyen
+  - name: Reileigh Hernandez

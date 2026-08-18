@@ -1,0 +1,18 @@
+id: planet-heros
+name: Planet Heros
+slug: planet-heros
+tagline: Empowering kids to become everyday heroes for the planet.
+summary: "Planet Heros received the Second Place (x1) award at The Climate Change-Makers Challenge:
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/-bhUOB5GZ7g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/539/720/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Fatima Ali
+  - name: Nasrin

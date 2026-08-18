@@ -1,0 +1,22 @@
+id: penny
+name: Penny
+slug: penny
+tagline: Financial literacy for the next generation via real-time avatars.
+summary: Penny received the Best Use of Auth0 for AI Agents award at Deep Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SJ-ShahJeet/AWS-Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/wtk80qGx6eo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+  - python
+builders:
+  - name: James Huckle
+  - name: Chetas Parekh
+  - name: jeet shah

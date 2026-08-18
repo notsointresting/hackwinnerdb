@@ -1,0 +1,28 @@
+id: civic-voice
+name: CIVIC_Voice
+slug: civic-voice
+tagline: Civic Voice is an AI-powered web app where Kigali citizens report local problems and share
+  opinions on government decisions. Claude AI analyzes each submission,
+summary: CIVIC_Voice received the People's Choice Award award at Build for Impact — CBC Hackathon @
+  UR-CST in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KgcmvAYltA8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/805/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - firebase
+  - groq
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Nshimyimana Gerishom
+  - name: Gapfizi Aloys
+  - name: SIBOMANA Valentin

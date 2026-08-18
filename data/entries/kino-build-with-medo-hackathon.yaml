@@ -1,0 +1,14 @@
+id: kino-build-with-medo-hackathon
+project_id: kino
+hackathon_id: build-with-medo-hackathon
+submission_url: https://devpost.com/software/kino
+source:
+  platform: devpost
+  url: https://devpost.com/software/kino
+awards:
+  - type: other
+    title: Creative Content Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

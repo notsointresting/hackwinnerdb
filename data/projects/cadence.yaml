@@ -1,0 +1,19 @@
+id: cadence
+name: Cadence
+slug: cadence
+tagline: An app for voice-to-insight journaling, therapy, and coaching records
+summary: Cadence received the Best Voice Award award at Changbal Innovation Hack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/798/592/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Yeh Chan Yoo
+  - name: John Lee

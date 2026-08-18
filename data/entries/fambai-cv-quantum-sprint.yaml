@@ -1,0 +1,20 @@
+id: fambai-cv-quantum-sprint
+project_id: fambai-cv
+hackathon_id: quantum-sprint
+submission_url: https://devpost.com/software/fambai-cv-btnw54
+source:
+  platform: devpost
+  url: https://devpost.com/software/fambai-cv-btnw54
+awards:
+  - type: other
+    title: Theme-Based Awards
+  - type: other
+    title: Participation & Completion Recognition
+  - type: first-place
+    title: 1st Place – Quantum Champion
+  - type: other
+    title: Special Recognition Awards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

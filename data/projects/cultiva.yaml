@@ -1,0 +1,26 @@
+id: cultiva
+name: Cultiva
+slug: cultiva
+tagline: Farmers rotate crops for soil maintenance, but most don't optimize for it. Cultiva helps
+  farmers analyze their crop fields for maximum crop yield and minimal em
+summary: "Cultiva received the Deloitte: Green AI, and AI for Green award at Hack the 6ix 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/amy-dao/Cultiva
+demo_url: null
+video_url: https://www.youtube.com/embed/flYN4HiLGi4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/938/820/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: Solomun Guish Asfaha
+  - name: Amy Dao
+  - name: Cody Dopson
+  - name: AlexGorak Gorakine

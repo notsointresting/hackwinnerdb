@@ -1,0 +1,20 @@
+id: world-cup-monte-carlo-2026-bracket-simulator
+name: "World Cup Monte Carlo: 2026 Bracket Simulator"
+slug: world-cup-monte-carlo-2026-bracket-simulator
+tagline: An interactive Streamlit web application that simulates 10,000 algorithmic paths for the
+  2026 World Cup bracket using a dynamic, math driven Elo rating probabil
+summary: "World Cup Monte Carlo: 2026 Bracket Simulator received the First Place Honors award at AQX
+  Sports Analytics Data Bowl 2.0 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/NothingWild/aqx-world-cup-simulator
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/863/817/datas/medium.png
+categories:
+  - gaming
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Victor Pacheco

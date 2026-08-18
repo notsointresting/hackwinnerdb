@@ -1,0 +1,26 @@
+id: fishnet
+name: FishNet
+slug: fishnet
+tagline: FishNet is an online networking website to help people with similar interests and upcoming
+  events talk and form meaningful connections.
+summary: FishNet received the Rocketbook award at EurekaHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alamurisat/fishnet
+demo_url: null
+video_url: https://www.youtube.com/embed/XSFOd3gexY4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/637/587/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - firebase
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: satvika alamuri
+  - name: aubreyclairetanner-hub Marcelo-Tanner
+  - name: Olivia Wan
+  - name: eileenIsKewl Atashi

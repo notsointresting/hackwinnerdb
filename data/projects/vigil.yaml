@@ -1,0 +1,25 @@
+id: vigil
+name: Vigil
+slug: vigil
+tagline: An AI on-call engineer that fixes prod incidents with zero standing credentials, buys
+  diagnostics from Zero, reproduces on Akash, and gates every fix through Po
+summary: Vigil received the Best Use Case of Akash award at Loop Engineering Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Da0t/vigil
+demo_url: null
+video_url: https://www.youtube.com/embed/YKP-z7EY8wo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/922/657/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - base
+  - docker
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Laksh Goyal
+  - name: Dat Nguyen
+  - name: Pranav Sagar

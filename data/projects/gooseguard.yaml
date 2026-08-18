@@ -1,0 +1,25 @@
+id: gooseguard
+name: GooseGuard
+slug: gooseguard
+tagline: You vibe-coded it. Let's see if it survives. RELEASE the GOOSE.
+summary: GooseGuard received the Harnold's Loudest Honk - Best Pitch ($170 value) award at Hack Hack
+  Goose in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/shriyaabalaji/hackhackgoose
+demo_url: null
+video_url: https://www.youtube.com/embed/a_uXp8-zk-E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/787/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - anthropic
+  - fastapi
+  - gemini
+  - openai
+  - python
+  - react
+builders:
+  - name: KrishPatelShah Patel-Shah
+  - name: Mohammad Al Masalmeh
+  - name: Shriyaa Balaji

@@ -1,0 +1,25 @@
+id: rocko
+name: Rocko
+slug: rocko
+tagline: A recreational cave exploration buddy affording you piece of mind that help can always be
+  on the way! At the intersection of Embedded AI and Quantum Sensing for
+summary: Rocko received the QNX Challenge award at cuHacking7 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/b3_v2pcWqy0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/056/233/datas/medium.JPG
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - python
+  - pytorch
+  - raspberry-pi
+builders:
+  - name: Bader EL-Asadi
+  - name: Said Elakad
+  - name: Amr Altaweel
+  - name: MohammadESteitieh Steitieh

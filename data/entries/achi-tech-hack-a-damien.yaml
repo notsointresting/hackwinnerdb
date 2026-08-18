@@ -1,0 +1,14 @@
+id: achi-tech-hack-a-damien
+project_id: achi-tech
+hackathon_id: hack-a-damien
+submission_url: https://devpost.com/software/achi-tech
+source:
+  platform: devpost
+  url: https://devpost.com/software/achi-tech
+awards:
+  - type: category-winner
+    title: Best Solo Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

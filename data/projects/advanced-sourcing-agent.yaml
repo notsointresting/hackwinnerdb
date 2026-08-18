@@ -1,0 +1,23 @@
+id: advanced-sourcing-agent
+name: Advanced Sourcing Agent
+slug: advanced-sourcing-agent
+tagline: AI sourcing agent that turns drawings, specs, and BOMs into supplier discovery, quote
+  comparison, and risk-ranked procurement recommendations.
+summary: "Advanced Sourcing Agent received the 2nd Prize award at TheFirst Spark 2026: Youth
+  Symposium in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qGFR3US7Hho
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/820/601/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - supabase
+  - vercel
+builders:
+  - name: Chang Yao Chai
+  - name: Yusuf Razak

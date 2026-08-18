@@ -1,0 +1,14 @@
+id: mix-match-code-as-a-canvas
+project_id: mix-match
+hackathon_id: code-as-a-canvas
+submission_url: https://devpost.com/software/mix-match
+source:
+  platform: devpost
+  url: https://devpost.com/software/mix-match
+awards:
+  - type: first-place
+    title: 1st Place (Both Tracks)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

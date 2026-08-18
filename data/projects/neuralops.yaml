@@ -1,0 +1,25 @@
+id: neuralops
+name: NeuralOps
+slug: neuralops
+tagline: AI clusters break. Triage takes hours. NeuralOps deploys three specialized agents via MCP
+  to diagnose, recommend, and resolve incidents autonomously.
+summary: NeuralOps received the Best Overall - Cisco Track award at SCU Hack-a-Stack - Endurance
+  Track in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/AbeBhatti/NeuralOps
+demo_url: null
+video_url: https://www.youtube.com/embed/O9505_QQEbY
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Abraham Bhatti

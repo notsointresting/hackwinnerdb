@@ -1,0 +1,25 @@
+id: gk-kg-la45a-splat-foley
+name: GK&KG LA45A splat-foley -
+slug: gk-kg-la45a-splat-foley
+tagline: splat-fole An automatic sound-design pipeline that turns any 3D content meshes, scans,
+  Gaussian-splat captures, a Marble-generated splat world, or a TRIPO-gener
+summary: GK&KG LA45A splat-foley - received the Best 3D GenAI Character, Brand or Product
+  Integration - by TRIPO Runner-Up award at Worlds in Action Hack [02-LA] in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cronos3k/splat-foley
+demo_url: null
+video_url: https://www.youtube.com/embed/iwW3s1pNXTw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/942/530/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - pytorch
+builders:
+  - name: Gregor Koch
+  - name: Ken Gamble

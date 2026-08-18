@@ -1,0 +1,25 @@
+id: pm-ai
+name: PM.ai
+slug: pm-ai
+tagline: PM.ai is an AI product manager that analyzes your user funnels and instantly tells you
+  where you're losing users—and exactly how to fix it
+summary: PM.ai received the Digital Camera award at HackHounds 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SREEMT/HackHounds26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/820/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - postgresql
+  - python
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Alberto Perches

@@ -1,0 +1,14 @@
+id: tamaghotchi-ddc-x-ignition-hacks
+project_id: tamaghotchi
+hackathon_id: ddc-x-ignition-hacks
+submission_url: https://devpost.com/software/tamaghotchi
+source:
+  platform: devpost
+  url: https://devpost.com/software/tamaghotchi
+awards:
+  - type: other
+    title: Honourable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

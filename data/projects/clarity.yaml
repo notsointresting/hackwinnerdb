@@ -1,0 +1,22 @@
+id: clarity
+name: Clarity
+slug: clarity
+tagline: Your personal AI guide to the digital world.
+summary: Clarity received the Best Developer Tool Hack award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samithegde/jamhacks
+demo_url: null
+video_url: https://www.youtube.com/embed/j5LHtVdFQHQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/695/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - mongodb
+  - typescript
+builders:
+  - name: Samit Hegde
+  - name: Sophia Xing
+  - name: Ethan Guan
+  - name: P Zhang

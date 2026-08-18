@@ -1,0 +1,24 @@
+id: angel
+name: Angel
+slug: angel
+tagline: When aid orgs failed Ukraine, strangers saved strangers. Angel scales that. Pick a person,
+  a verified volunteer manages their case, and you get the receipts. Co
+summary: "Angel received the SILVER award at Mind the Product presents World Product Day: Everyone
+  Ships Now in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/a6jvKK1JHk4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/792/556/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+  - stripe
+  - supabase
+builders:
+  - name: Iryna Havryliuk
+  - name: Diana Dalkevych

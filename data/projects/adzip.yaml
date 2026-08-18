@@ -1,0 +1,18 @@
+id: adzip
+name: Adzip
+slug: adzip
+tagline: We have stuffed ads into a lot things. Loading screens on media clients, side bars of press
+  articles BUT we haven't put them into compression algorithms yet. Th
+summary: Adzip received the technical duh award at Stupid Ideas Hackathon (Toronto W26) in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/962/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - python
+builders:
+  - name: Jonathon Kereliuk

@@ -1,0 +1,18 @@
+id: landmate-claude-builder-hackathon-ug
+project_id: landmate
+hackathon_id: claude-builder-hackathon-ug
+submission_url: https://devpost.com/software/landmate
+source:
+  platform: devpost
+  url: https://devpost.com/software/landmate
+awards:
+  - type: other
+    title: Anthropic API Credits
+  - type: first-place
+    title: 1st Place
+  - type: other
+    title: Free Enrollment to GAIA IT Academy
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

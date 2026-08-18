@@ -1,0 +1,22 @@
+id: seedengine
+name: SeedEngine
+slug: seedengine
+tagline: New Plants for You.
+summary: SeedEngine received the MLH || Best Use of Gemini API || Google Swag Kits award at HooHacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/zcr3hd/seedengine
+demo_url: null
+video_url: https://www.youtube.com/embed/pv1usSx8dcw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/959/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - sqlite
+builders:
+  - name: zcr3hd Southerland

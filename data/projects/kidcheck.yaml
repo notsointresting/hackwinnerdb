@@ -1,0 +1,21 @@
+id: kidcheck
+name: kidcheck
+slug: kidcheck
+tagline: KidCheck searches the live web for student opportunities, verifies eligibility against each
+  user’s profile, and delivers ranked matches with trusted sources and
+summary: kidcheck received the Best use of Render 2nd award at STEMist Hacks IV in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EcelCD1VhBs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/050/198/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - postgresql
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Chisom Mmadubuike

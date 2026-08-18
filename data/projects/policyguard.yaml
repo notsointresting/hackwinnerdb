@@ -1,0 +1,25 @@
+id: policyguard
+name: PolicyGuard
+slug: policyguard
+tagline: The compliance API for AI agents acting on the open web
+summary: PolicyGuard received the Best use of Senso.ai award at Agentic Engineering Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Asyboi/agentic-hack.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Co7XsmoEV_k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/095/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - react
+  - solana
+  - typescript
+  - vercel
+builders:
+  - name: Candy Xie
+  - name: Aslan Wang
+  - name: Kyle Liao
+  - name: Aarya Kulshrestha

@@ -1,0 +1,19 @@
+id: pulseatl
+name: PulseATL
+slug: pulseatl
+tagline: Turning Atlanta's fragmented civic open data into plain-English neighborhood health reports
+summary: PulseATL received the Best Use of Snowflake API || Raspberry Pi 4 award at Hack RenderATL
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tomiwaaluko/pulseATL
+demo_url: null
+video_url: https://www.youtube.com/embed/bRCpw6m5eOw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/092/055/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Tomiwa Aluko

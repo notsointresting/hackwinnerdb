@@ -1,0 +1,14 @@
+id: trialmatch-multiagents-hackathon
+project_id: trialmatch
+hackathon_id: multiagents-hackathon
+submission_url: https://devpost.com/software/trialmatch-py2vwb
+source:
+  platform: devpost
+  url: https://devpost.com/software/trialmatch-py2vwb
+awards:
+  - type: other
+    title: Prometheux Intelligence Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

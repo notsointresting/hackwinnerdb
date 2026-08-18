@@ -1,0 +1,22 @@
+id: harmonic
+name: Harmonic
+slug: harmonic
+tagline: Harmonica is a software that allows users to learn instruments by air playing them,
+  avoiding the expensive costs of learning an instrument. It allows users to l
+summary: Harmonic received the Interactive Learning First Place award at Milpitas Hacks 3 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rushjain198/Harmonic
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/520/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: M K
+  - name: Ekaagar Chawla
+  - name: lalith Satheesh

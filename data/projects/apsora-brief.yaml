@@ -1,0 +1,25 @@
+id: apsora-brief
+name: Apsora Brief
+slug: apsora-brief
+tagline: "Real-time satellite collision risk dashboard that ingests live conjunction screening data,
+  ranks close-approach events by actual danger, and delivers briefings "
+summary: Apsora Brief received the Best Data Visualization Experience - Peraton award at Bitcamp
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/po-aditya/Apsora-Brief
+demo_url: null
+video_url: https://www.youtube.com/embed/OPAUEUN1UG4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/132/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - tailwind-css
+  - typescript
+builders:
+  - name: Aditya Potharlanka
+  - name: Coder-Vishnu

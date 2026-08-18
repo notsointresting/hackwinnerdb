@@ -1,0 +1,24 @@
+id: yellowlite
+name: YellowLite
+slug: yellowlite
+tagline: YellowLite removes the guess of deciding to stop or go at a yellow light, telling you
+  exactly what to do.
+summary: YellowLite received the Track 1 - Overkill (2nd place) award at VikingHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kEhXQgOne3U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/830/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - openai
+  - python
+builders:
+  - name: Prayag Nambiar
+  - name: Yba1 SRIVASTAVA

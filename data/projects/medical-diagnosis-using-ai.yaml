@@ -1,0 +1,21 @@
+id: medical-diagnosis-using-ai
+name: Medical Diagnosis using AI
+slug: medical-diagnosis-using-ai
+tagline: An AI-powered tool for supporting medical diagnosis using machine learning models
+summary: Medical Diagnosis using AI received the Best Use of the Google Gemini API award at Hack
+  Days in Jabalpur in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/abhishek021jr/Medical-Diagnosis-AI/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/117/555/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Sujal Sisodiya

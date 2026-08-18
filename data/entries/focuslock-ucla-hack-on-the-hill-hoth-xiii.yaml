@@ -1,0 +1,14 @@
+id: focuslock-ucla-hack-on-the-hill-hoth-xiii
+project_id: focuslock
+hackathon_id: ucla-hack-on-the-hill-hoth-xiii
+submission_url: https://devpost.com/software/focusflame
+source:
+  platform: devpost
+  url: https://devpost.com/software/focusflame
+awards:
+  - type: first-place
+    title: 1st Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,26 @@
+id: skysgammer
+name: SkysGammer
+slug: skysgammer
+tagline: Get the travelers real intents by exploring a virtual diverse map, grabbing objects that
+  match the travel vibe, and unlock real Skyscanner flights to destinatio
+summary: SkysGammer received the [MLH] Best Use of Gemma 4 award at HackUPC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/martinavichino/HackUPC2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/607/383/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Martina Vichino Gallardo
+  - name: David Vargas
+  - name: Jiayuan Wang
+  - name: Carlota Fernández Pensado

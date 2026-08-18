@@ -1,0 +1,23 @@
+id: monte-planner
+name: Monte Planner
+slug: monte-planner
+tagline: A software that can help you predict the success of your project, identify risky tasks, and
+  forecast a completion dates using a Monte Carlo simulation.
+summary: Monte Planner received the Elgato Wave 3 Microphones award at HackUP in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/megan-ou/monty_planner
+demo_url: null
+video_url: https://www.youtube.com/embed/tW8SKvLFPPA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/490/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: Megan Ou
+  - name: Anna Tymoshenko
+  - name: Fedya S
+  - name: Barbuchi Abdulah Buhari

@@ -1,0 +1,24 @@
+id: wonder
+name: Wonder
+slug: wonder
+tagline: 'Wonder: "The Cursor for Music." Our AI-integrated DAW removes technical friction so
+  creativity is your only limit. Stop Technicalizing. Start Creating. Make Mus'
+summary: Wonder received the 1st Place award at Vandyhacks XII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Korirussell/wonder/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/yrMefowfP4c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/614/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - python
+builders:
+  - name: Zachary West
+  - name: Kori Russell
+  - name: Nikechukwu Okoronkwo
+  - name: Gavin Ward

@@ -1,0 +1,18 @@
+id: mathchamp
+name: MathChamp
+slug: mathchamp
+tagline: "This project tries to analyse the different analytic methods to solve system of equations.
+  With us we try to understand the physics that goes in things such as "
+summary: MathChamp received the Advanced | Mathematics Honourable Mention award at MariHacks IX in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: onlinemax Fotchin

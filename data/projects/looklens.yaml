@@ -1,0 +1,21 @@
+id: looklens
+name: LookLens
+slug: looklens
+tagline: See it, scan it, wear it.
+summary: LookLens received the [MLH] Best Use of Google Gemma award at MariHacks IX in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/PureLumpyAttack/LookLens
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/490/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - nextjs
+  - postgresql
+  - typescript
+builders:
+  - name: Nathan Shin
+  - name: Jiacai Song
+  - name: Luke Liu

@@ -1,0 +1,24 @@
+id: whisper
+name: Whisper
+slug: whisper
+tagline: Offline drone to ground station communication enabling autonomous navigation in contested
+  and GPS-denied environments using LoRA.
+summary: "Whisper received the Autonomous Navigation and Edge AI Track (Hardware): 2nd Place award
+  at DS3 x SIC x Bow Capital Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/TheBucketHato/ds3-hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/720/608/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - climate
+  - iot
+technologies:
+  - arduino
+  - python
+builders:
+  - name: Vela Benedicto
+  - name: Nate Murphy
+  - name: Bryce Hackel

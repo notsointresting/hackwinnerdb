@@ -1,0 +1,23 @@
+id: clubhub
+name: ClubHub
+slug: clubhub
+tagline: No more missed events, outdated flyers, Discord hopping, or schedule conflicts. ClubHub
+  marks your calendar in less than a minute. Just take the quiz and mark w
+summary: ClubHub received the [SPONSOR] Figma award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ruba0s/hackai26-utd-club-hub
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/128/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - react
+builders:
+  - name: Alishba Jafri
+  - name: Ruba Osman
+  - name: Maryam Al-Naami
+  - name: Zahraa Al-Naami

@@ -1,0 +1,14 @@
+id: brim-expense-intelligence-mpc-hacks
+project_id: brim-expense-intelligence
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/brim-expense-intelligence
+source:
+  platform: devpost
+  url: https://devpost.com/software/brim-expense-intelligence
+awards:
+  - type: first-place
+    title: 1st Place - Brim Financial Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

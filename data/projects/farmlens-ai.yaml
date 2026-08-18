@@ -1,0 +1,21 @@
+id: farmlens-ai
+name: FarmLens AI
+slug: farmlens-ai
+tagline: Scan your crop. Beat the weather. Save your harvest.FarmLens AI helps small farmers scan a
+  crop, check local weather risk, and get a plain-language 7-day action
+summary: FarmLens AI received the Best Beginner Hack award at HackDavis 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Simarjit09/FarmLensAI
+demo_url: null
+video_url: https://www.youtube.com/embed/bQzCvEqUfQ0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/657/245/datas/medium.png
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Simarjit Kaur

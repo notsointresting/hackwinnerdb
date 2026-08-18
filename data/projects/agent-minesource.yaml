@@ -1,0 +1,19 @@
+id: agent-minesource
+name: Agent MineSource
+slug: agent-minesource
+tagline: This project is an AI maintenance Agent that turns a mining equipment & vehicle breakdown
+  report into a diagnosis, parts list and nearest Sudbury supplier.
+summary: Agent MineSource received the 3rd Place award at Cursor Hackathon Sudbury in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3XN934nEVtk
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies: []
+builders:
+  - name: Ruins_Archived Spencer

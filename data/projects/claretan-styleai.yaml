@@ -1,0 +1,22 @@
+id: claretan-styleai
+name: ClareTan - styleAI
+slug: claretan-styleai
+tagline: styleAI is an AI-powered fashion assistant that helps users discover outfits that suit
+  their appearance, preferences, and occasions.
+summary: ClareTan - styleAI received the Best UI/UX award at SummerBuild 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/soonkang/styleAI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/u4sILtkJRJk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/958/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: sam goodcodder
+  - name: soon kang
+  - name: Kelvin Hou

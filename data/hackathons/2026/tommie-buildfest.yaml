@@ -1,0 +1,14 @@
+id: tommie-buildfest
+name: Tommie BuildFest
+slug: tommie-buildfest
+organizer: []
+year: 2026
+sources:
+  - https://tommie-buildfest.devpost.com/
+  - https://tommie-buildfest.devpost.com/project-gallery?filter=winner
+website_url: https://tommie-buildfest.devpost.com/
+platform: devpost
+participant_count: 39
+prize_pool: 6000
+currency: USD
+description: "Devpost hackathon: Tommie BuildFest. Imported automatically."

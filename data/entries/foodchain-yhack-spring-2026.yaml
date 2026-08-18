@@ -1,0 +1,14 @@
+id: foodchain-yhack-spring-2026
+project_id: foodchain
+hackathon_id: yhack-spring-2026
+submission_url: https://devpost.com/software/foodchain-4sq9t7
+source:
+  platform: devpost
+  url: https://devpost.com/software/foodchain-4sq9t7
+awards:
+  - type: category-winner
+    title: Best use of Hex API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: smart-track-globehack
+project_id: smart-track
+hackathon_id: globehack
+submission_url: https://devpost.com/software/smart-track
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-track
+awards:
+  - type: other
+    title: Lofty
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: pitchloop
+name: PitchLoop
+slug: pitchloop
+tagline: Fundamentally a sales/marketing enablement agent, providing automated workflows for
+  reaching new and likely responsive users.
+summary: PitchLoop received the Best use of Zero.xyz award at Loop Engineering Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Scooter1946/pitchloop
+demo_url: null
+video_url: https://www.youtube.com/embed/niekWJgabas
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/918/946/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Kevin Wu
+  - name: Jayden Lim
+  - name: Justin C
+  - name: Tanay P

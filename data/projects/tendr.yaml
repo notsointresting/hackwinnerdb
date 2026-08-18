@@ -1,0 +1,21 @@
+id: tendr
+name: Tendr
+slug: tendr
+tagline: Find your perfect investment match!
+summary: Tendr received the Fidelity Challenge award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/W7-TiqIi_vY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/738/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - firebase
+  - python
+builders:
+  - name: Laasya K
+  - name: Sri Vattikuti
+  - name: Aastha Sheth
+  - name: Zora Lahlou

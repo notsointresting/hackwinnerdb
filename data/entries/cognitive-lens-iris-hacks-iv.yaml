@@ -1,0 +1,14 @@
+id: cognitive-lens-iris-hacks-iv
+project_id: cognitive-lens
+hackathon_id: iris-hacks-iv
+submission_url: https://devpost.com/software/cognitive-lens-ijs3fe
+source:
+  platform: devpost
+  url: https://devpost.com/software/cognitive-lens-ijs3fe
+awards:
+  - type: second-place
+    title: 2nd Place Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: cursorgpt
+name: CursorGPT
+slug: cursorgpt
+tagline: CursorGPT is the point-and-speak interface for computing, where your gesture provides the
+  where, your voice provides the what, and AI does the rest.
+summary: "CursorGPT received the [MLH] Best Use of Gemini API award at HackHCC: Code Runners in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/hrhuynguyen/Desktop-Copilot
+demo_url: null
+video_url: https://www.youtube.com/embed/D5i3lYiMdKU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/261/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Hieu Nguyen
+  - name: Thanh Tam Do
+  - name: Huy Nguyen
+  - name: Trang Truong

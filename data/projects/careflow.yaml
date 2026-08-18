@@ -1,0 +1,26 @@
+id: careflow
+name: CareFlow
+slug: careflow
+tagline: CareFlow is a hospital scheduling dashboard that predicts no-shows, ranks wait patients,
+  reassigns freed slots, and triggers Gmail notifications via n8n workflo
+summary: CareFlow received the Swag award at RoyalHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BCQ1M44PqY0
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - claude
+  - python
+  - react
+  - streamlit
+  - typescript
+builders:
+  - name: Gokul Desu
+  - name: Tapu Adina Alexandra
+  - name: shresht pratap

@@ -1,0 +1,25 @@
+id: artificial-unintelligence-triageid
+name: artificial-unintelligence_TriageID
+slug: artificial-unintelligence-triageid
+tagline: An AI-powered medical emergency information system that shows EMTs and emergency medical
+  staff key patient information the touch of an NFC bracelet.
+summary: artificial-unintelligence_TriageID received the Hardware 2nd award at Hacked 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Megaman222111/TriageID
+demo_url: null
+video_url: https://www.youtube.com/embed/T2ygs-dIF6k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/352/099/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - productivity
+technologies:
+  - arduino
+  - c-plus-plus
+  - django
+builders:
+  - name: Megh Mistry
+  - name: Hasish Karri
+  - name: Hari Mallampalli
+  - name: Kulgagan Bajwa

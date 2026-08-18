@@ -1,0 +1,25 @@
+id: cibatus
+name: Cibatus
+slug: cibatus
+tagline: When your screen time grows, your plant knows. The screen time tracking app that has real
+  world consequences. Give your brain, and your garden, the nutrients th
+summary: Cibatus received the Most innovative use of Arduino UNO Q Board – Qualcomm award at
+  IrvineHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/gayathriy22/cibatus
+demo_url: null
+video_url: https://www.youtube.com/embed/EYJ_pFJ3aKM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/024/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - figma
+  - flask
+  - postgresql
+  - python
+  - react-native
+builders:
+  - name: Gayathri Yedavilli
+  - name: Nathan Pietrantonio

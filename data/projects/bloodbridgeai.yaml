@@ -1,0 +1,25 @@
+id: bloodbridgeai
+name: BloodBridgeAI
+slug: bloodbridgeai
+tagline: "BloodBridge helps hospitals quickly find, verify, and contact eligible blood donors using
+  AI, real-time calls, ETA capture, and map sharing during urgent blood "
+summary: BloodBridgeAI received the LOF Best Use of AI in a Healthcare Project award at Scarlet
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/kasturi-23/BloodBridgeAI
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - openai
+  - postgresql
+  - react
+builders:
+  - name: Kasturi Shinde
+  - name: Akshay Ajay Sharma

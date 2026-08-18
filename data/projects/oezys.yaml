@@ -1,0 +1,22 @@
+id: oezys
+name: Oezys
+slug: oezys
+tagline: Project consists of Neural Networks + ML algorithms to find correlation between tear drops
+  microscopic imagery and diseases. Whole environment is packed in user
+summary: Oezys received the Main Prize award at Hack Kosice 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Plajta/Oezys
+demo_url: null
+video_url: https://www.youtube.com/embed/zeuR2SuntE8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/986/datas/gallery.jpg
+categories:
+  - climate
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Daniel Pojhan
+  - name: Hlib Arseniuk
+  - name: Salivon Andrii
+  - name: Jan Ocelík

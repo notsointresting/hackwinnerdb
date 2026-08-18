@@ -1,0 +1,22 @@
+id: smart-truck-copilot
+name: Smart Truck Copilot
+slug: smart-truck-copilot
+tagline: Optimizamos la ruta y la carga del camión a la vez, ayudando al conductor a encontrar
+  rápidamente la mercancía y hacer entregas más eficientes con apoyo de IA.
+summary: Smart Truck Copilot received the 2nd price - DAMM Challenge award at InterHackBCN in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arnau-sala/sanHackobo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/543/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - react
+builders:
+  - name: Arnau Sala
+  - name: IVÁN TORRES ROS
+  - name: Antonio Javier Ortiz Gil

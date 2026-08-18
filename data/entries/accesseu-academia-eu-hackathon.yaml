@@ -1,0 +1,14 @@
+id: accesseu-academia-eu-hackathon
+project_id: accesseu
+hackathon_id: academia-eu-hackathon
+submission_url: https://devpost.com/software/accesseu
+source:
+  platform: devpost
+  url: https://devpost.com/software/accesseu
+awards:
+  - type: grand-prize
+    title: 1st Place – Grand Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

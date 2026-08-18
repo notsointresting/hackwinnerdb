@@ -1,0 +1,14 @@
+id: kassi-autonomous-observability-remediation-agent-splunk-agentic-ops-hackathon
+project_id: kassi-autonomous-observability-remediation-agent
+hackathon_id: splunk-agentic-ops-hackathon
+submission_url: https://devpost.com/software/kassi-synthetic-load-generation
+source:
+  platform: devpost
+  url: https://devpost.com/software/kassi-synthetic-load-generation
+awards:
+  - type: grand-prize
+    title: Grand Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

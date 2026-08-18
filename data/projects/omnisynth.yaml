@@ -1,0 +1,19 @@
+id: omnisynth
+name: Omnisynth
+slug: omnisynth
+tagline: A synthetic data generation pipeline.
+summary: Omnisynth received the Kinetic Vision Sponsor Challenge award at RevolutionUC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ToanNham/sdg-pipeline
+demo_url: null
+video_url: https://www.youtube.com/embed/9MT88ug93RE
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: ToanNham Nham
+  - name: Sourish Kumar
+  - name: Symphany Lan Duong

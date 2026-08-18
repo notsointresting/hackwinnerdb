@@ -1,0 +1,25 @@
+id: neurobin-ai-waste-intelligence-for-smart-cities
+name: NeuroBin — AI Waste Intelligence for Smart Cities
+slug: neurobin-ai-waste-intelligence-for-smart-cities
+tagline: NeuroBin is not just a smart waste segregator. It is an AI-powered waste intelligence
+  system designed to transform how cities handle waste at scale.
+summary: NeuroBin — AI Waste Intelligence for Smart Cities received the Jdable Internship -
+  Non-Monetary award at AI Autonomous Smart City Hackathon 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UtkarshGupta-22/NeuroBin-AI-Powered-Smart-Waste-Segregation-System
+demo_url: null
+video_url: https://www.youtube.com/embed/MKbMSC5VIgU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/698/596/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - opencv
+  - python
+  - raspberry-pi
+  - tensorflow
+builders:
+  - name: Utkarsh Gupta

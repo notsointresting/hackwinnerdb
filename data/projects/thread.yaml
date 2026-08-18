@@ -1,0 +1,21 @@
+id: thread
+name: thread
+slug: thread
+tagline: when you're overwhelmed, you deserve more than a blank page. thread helps you untangle
+  what's weighing on you and reminds you how many knots you've already gott
+summary: thread received the General Track - 1st award at UCI Design-a-thon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/chbtVpQRgTI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/404/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+  - gemini
+builders:
+  - name: Jerry Duy Nguyen
+  - name: Kylie Minh-Tam Nguyen
+  - name: Midori Dragics

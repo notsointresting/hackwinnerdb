@@ -1,0 +1,17 @@
+id: egg-quest
+name: Egg Quest
+slug: egg-quest
+tagline: What if the next generation didn’t just grow up with technology, but used it to grow into
+  kinder, more emotionally intelligent citizens?
+summary: Egg Quest received the Best User Interface award at Witathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: Naomi Ren

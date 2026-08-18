@@ -1,0 +1,22 @@
+id: jasm-ai-deepcare
+name: Jasm.AI Deepcare
+slug: jasm-ai-deepcare
+tagline: "DeepCare Agent is a multilingual AI voice intake platform that eliminates phone queues,
+  cuts admin time by 75%, connects patients to the right care faster, and "
+summary: Jasm.AI Deepcare received the Most Ab-Norm-al use of Bland award at Deep Agents Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/498/485/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+  - postgresql
+builders:
+  - name: Smital Lunawat
+  - name: Jay Vachhani

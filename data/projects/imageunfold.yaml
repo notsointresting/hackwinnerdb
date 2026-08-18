@@ -1,0 +1,18 @@
+id: imageunfold
+name: ImageUnfold
+slug: imageunfold
+tagline: "Unfold the Image: Turn 2D perspectives into fully navigable 3D worlds."
+summary: ImageUnfold received the General 2nd place award at BlasterHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Y6etyO-Jyys
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/532/635/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Aadesh Bhattarai

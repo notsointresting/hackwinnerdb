@@ -1,0 +1,18 @@
+id: focus-guardian
+name: Focus Guardian
+slug: focus-guardian
+tagline: A AI-powered attention shield
+summary: Focus Guardian received the Google AI Pro Postcard award at HackDays Delhi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kainturasourav0-star/focus-guardian
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/283/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - typescript
+builders:
+  - name: Sourav kaintura
+  - name: Tushar Bisht

@@ -1,0 +1,24 @@
+id: hearthook
+name: HeartHook
+slug: hearthook
+tagline: HeartHook is a premium, gamified mobile companion that transforms the daunting 36-session
+  cardiac recovery path into a manageable, unit-based journey.
+summary: HeartHook received the 3rd place award at Pulse Foundry AI Healthcare Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/932/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - claude
+  - javascript
+  - typescript
+builders:
+  - name: Daniel Borkow
+  - name: Joseph Fleishman
+  - name: Vincent Qiu
+  - name: Midhili Asok

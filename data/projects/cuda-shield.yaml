@@ -1,0 +1,21 @@
+id: cuda-shield
+name: Cuda Shield
+slug: cuda-shield
+tagline: CudaShield is a GPU-accelerated network intrusion detection system that scans network
+  traffic for malicious patterns ~60x faster than a CPU baseline and 3x fast
+summary: Cuda Shield received the Cybersecurity/Safety - NuPhy Air 75 v3 Keyboard award at Hacktech
+  by Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/cywu567/gpu-ids
+demo_url: null
+video_url: https://www.youtube.com/embed/07XeoSfUD4g
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies: []
+builders:
+  - name: Simone Wu Shevchuk
+  - name: Celine Wu

@@ -1,0 +1,22 @@
+id: grup-1
+name: GRUP 1
+slug: grup-1
+tagline: Laia Lishuang Orús Neil Pradas Martinez Oriana Sanz Calles enicolaswilly
+summary: GRUP 1 received the 1st Place — Winning Team award at UAB THE HACK! x Deloitte 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/neilp22/UAB-THE-HACK-x-Deloitte---Clinical-Trials-
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Neil Pradas
+  - name: 23orianasc
+  - name: LL-OV
+  - name: Wilmer Nicolás Espil

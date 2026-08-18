@@ -1,0 +1,20 @@
+id: tether
+name: Tether
+slug: tether
+tagline: A focus ritual for brains that freeze before they begin.
+summary: Tether received the Best User experience award at Youth Code x AI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AzkaFaisal657/YouthCodeX/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/112/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Musferah nasar
+  - name: Azka Faisal

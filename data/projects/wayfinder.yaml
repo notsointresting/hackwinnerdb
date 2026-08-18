@@ -1,0 +1,29 @@
+id: wayfinder
+name: Wayfinder
+slug: wayfinder
+tagline: Your personal AI caseworker for U.S. refugee benefits. Answer a few questions, see what you
+  qualify for, and let Wayfinder auto-fill your applications so you ne
+summary: Wayfinder received the High School Runner Up award at USAII® Global AI Hackathon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samjm2/Wayfinder
+demo_url: null
+video_url: https://www.youtube.com/embed/nHUaHGzgevg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/810/323/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - sql
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Arnav Sahoo
+  - name: Aarit Choudhary
+  - name: Jotin Samayamantri

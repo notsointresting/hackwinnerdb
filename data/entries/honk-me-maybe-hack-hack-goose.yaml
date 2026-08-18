@@ -1,0 +1,14 @@
+id: honk-me-maybe-hack-hack-goose
+project_id: honk-me-maybe
+hackathon_id: hack-hack-goose
+submission_url: https://devpost.com/software/sas-8lr04m
+source:
+  platform: devpost
+  url: https://devpost.com/software/sas-8lr04m
+awards:
+  - type: category-winner
+    title: Best Domain Name from GoDaddy Registry
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: outcast-virus
+name: Outcast Virus
+slug: outcast-virus
+tagline: "All-in-one drone OS: run simulations, IFF, Gaussian Splats, and more"
+summary: "Outcast Virus received the Logistics & Cybersecurity Track (Software): 1st Place award at
+  DS3 x SIC x Bow Capital Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Trolleroof/bow-capital-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/PGzVXCNvCXE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/170/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - iot
+technologies:
+  - c-plus-plus
+  - javascript
+  - python
+builders:
+  - name: Nikhil Prabhu
+  - name: Alex Gao
+  - name: Vikram Kommera
+  - name: Matthieu Fuller

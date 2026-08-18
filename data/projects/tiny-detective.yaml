@@ -1,0 +1,22 @@
+id: tiny-detective
+name: tiny-detective
+slug: tiny-detective
+tagline: Agentic AI to fight counterfeits on Vietnam's ecommerce platforms, powered by TinyFish.
+summary: tiny-detective received the 2nd Best Overall Hack award at LotusHacks x HackHarvard x GenAI
+  Fund Vietnam Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/darriusnjh/TinyDetective
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/537/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - e-commerce
+technologies:
+  - openai
+  - python
+builders:
+  - name: Zane Chee
+  - name: Darrius Ng
+  - name: Wei Sin Tai

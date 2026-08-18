@@ -1,0 +1,23 @@
+id: narrify
+name: Narrify
+slug: narrify
+tagline: Narrify — paste any topic, get back a story, a hero's journey, and a podcast dialogue.
+  Learn anything, instantly.
+summary: Narrify received the [MLH] Google Gemini Prize Track award at HuskyHack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dantes1nfern0/Narrify
+demo_url: null
+video_url: https://www.youtube.com/embed/TIAeWqvt1Rg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/638/499/datas/medium.png
+categories:
+  - social-impact
+  - media
+technologies:
+  - elevenlabs
+  - flask
+  - gemini
+  - react
+builders:
+  - name: Abdalla shaldam
+  - name: Dantes1nfern0 Vo

@@ -1,0 +1,24 @@
+id: aurashield
+name: AuraShield
+slug: aurashield
+tagline: Proactive AI defense neutralizing digital invaders and biological pests before privacy is violated.
+summary: AuraShield received the Sauron Home Security Track award at MakeMIT x Harvard 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Aq5WXmQQooo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/361/112/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - creative-tools
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+builders:
+  - name: Sabal Poudel
+  - name: Vitek Nemec
+  - name: Benjamin Runde
+  - name: Grant Rechtin

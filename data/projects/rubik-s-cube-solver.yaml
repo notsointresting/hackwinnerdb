@@ -1,0 +1,18 @@
+id: rubik-s-cube-solver
+name: Rubik's Cube Solver
+slug: rubik-s-cube-solver
+tagline: Scan it, Solve it, Done.
+summary: Rubik's Cube Solver received the Tied 3rd Place award at GDG Winter 2026 Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SeanG-rsd/rubiks-solver/tree/master
+demo_url: null
+video_url: https://www.youtube.com/embed/DVA-zqUPtq0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/417/643/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react-native
+builders:
+  - name: Sean Gutmann

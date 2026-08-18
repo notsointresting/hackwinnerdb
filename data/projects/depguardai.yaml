@@ -1,0 +1,23 @@
+id: depguardai
+name: DepGuardAI
+slug: depguardai
+tagline: Multi- Agent Dependencies Risk Agent
+summary: DepGuardAI received the SPUR - Build a Real Canadian Startup (Top 10) award at Hack Canada
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Aliankhann/DepGuardAi
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - fastapi
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Mohammad Salman Ghouse Shaheda
+  - name: Alian Khan
+  - name: Omar Youssef

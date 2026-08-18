@@ -1,0 +1,26 @@
+id: agentropolis
+name: Agentropolis
+slug: agentropolis
+tagline: We replaced everyone in Toronto with their AI doppelgängers.
+summary: Agentropolis received the [Sponsored] Google Best AI for Community Impact (In-Person Only)
+  award at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/Kaibo-Huang/Agentropolis
+demo_url: null
+video_url: https://www.youtube.com/embed/0X3I7BSO3s8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/445/081/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - mapbox
+  - python
+  - react
+  - typescript
+builders:
+  - name: Fiona Cai
+  - name: patrick wei
+  - name: Daniel Pu
+  - name: Kaibo Huang

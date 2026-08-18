@@ -1,0 +1,16 @@
+id: planwise-kindly-labs-weekly-hackathon
+project_id: planwise
+hackathon_id: kindly-labs-weekly-hackathon
+submission_url: https://devpost.com/software/planwise-personalized-plans
+source:
+  platform: devpost
+  url: https://devpost.com/software/planwise-personalized-plans
+awards:
+  - type: other
+    title: Honorary Participation
+  - type: first-place
+    title: Kindly Labs winner 1st place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

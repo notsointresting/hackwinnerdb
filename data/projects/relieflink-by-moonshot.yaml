@@ -1,0 +1,31 @@
+id: relieflink-by-moonshot
+name: ReliefLink by Moonshot
+slug: relieflink-by-moonshot
+tagline: A blockchain-powered chain of custody system on Solana that ensures food aid is
+  transparently tracked, while verifying quality of shipments at every step to gua
+summary: ReliefLink by Moonshot received the Global Food Institute Problem Statement Winner award at
+  George Hacks x United Nations "Reboot the Earth" Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/749/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - blockchain
+technologies:
+  - arduino
+  - elevenlabs
+  - gemini
+  - mongodb
+  - react
+  - solana
+  - typescript
+  - vercel
+builders:
+  - name: Navin Narayanan
+  - name: Akshat Goyal
+  - name: Kabirsarora
+  - name: SakthiS-oss Sadayappan

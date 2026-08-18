@@ -1,0 +1,20 @@
+id: noyze-hunter
+name: Noyze Hunter
+slug: noyze-hunter
+tagline: Audio Detection Bot to Protect Focus
+summary: Noyze Hunter received the 3rd Microbit kit award at HudHack2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JSOUTHWELLCODE/Crossed-Wires-Noise-Hunter#
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Jonathan Southwell
+  - name: Harun Sariyah
+  - name: Rene Thomas

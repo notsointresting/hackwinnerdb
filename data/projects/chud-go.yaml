@@ -1,0 +1,21 @@
+id: chud-go
+name: Chud GO!
+slug: chud-go
+tagline: capture and fight your friends
+summary: Chud GO! received the stupider (2nd overall) award at Stupid Ideas Hackathon (Toronto W26)
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jeremyliu-621/jeremy-go
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/904/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Ethan Yang
+  - name: Jeremy Liu
+  - name: Jeffrey Wong

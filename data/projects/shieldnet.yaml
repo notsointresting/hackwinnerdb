@@ -1,0 +1,25 @@
+id: shieldnet
+name: ShieldNet
+slug: shieldnet
+tagline: AI-Powered Decentralized Cybersecurity & Fintech Intelligence Platform and Real-time AI
+  threat detection & blockchain security platform.
+summary: ShieldNet received the Membership award at Impact Creation in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sleader3221-dot/ShieldNet
+demo_url: null
+video_url: https://www.youtube.com/embed/vJVDQiIHAWw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/297/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - docker
+  - fastapi
+  - python
+  - solidity
+  - typescript
+  - vercel
+builders:
+  - name: Karthik M a

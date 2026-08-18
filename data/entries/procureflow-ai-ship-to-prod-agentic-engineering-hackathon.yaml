@@ -1,0 +1,16 @@
+id: procureflow-ai-ship-to-prod-agentic-engineering-hackathon
+project_id: procureflow-ai
+hackathon_id: ship-to-prod-agentic-engineering-hackathon
+submission_url: https://devpost.com/software/procureflow-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/procureflow-ai
+awards:
+  - type: category-winner
+    title: Best Agent Using Redis
+  - type: category-winner
+    title: Best Use of Vapi
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

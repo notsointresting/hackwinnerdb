@@ -1,0 +1,21 @@
+id: ethocal
+name: Ethocal
+slug: ethocal
+tagline: Ethocal (ethics + local) is a mobile app designed to allow people to easily discover local
+  yard sales, thrift stores, and ethical brands from a range of markets
+summary: Ethocal received the Cookie Cutter Challenge award at DesignVerse 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/hhSj5btLfjU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/790/844/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Calvin Lim
+  - name: Anthony Duenez Ramirez
+  - name: Joshua Bugarin
+  - name: Michelle Johnson

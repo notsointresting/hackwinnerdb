@@ -1,0 +1,14 @@
+id: caseflow-women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+project_id: caseflow
+hackathon_id: women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+submission_url: https://devpost.com/software/caseflow-kibmta
+source:
+  platform: devpost
+  url: https://devpost.com/software/caseflow-kibmta
+awards:
+  - type: category-winner
+    title: Best AI Usage
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

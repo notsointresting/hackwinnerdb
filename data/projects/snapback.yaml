@@ -1,0 +1,25 @@
+id: snapback
+name: SNAPback
+slug: snapback
+tagline: Turn every grocery receipt into real cashback for SNAP/WIC families, when they actually
+  shop healthier.
+summary: SNAPback received the Open Source Program Office Spot-Prize award at George Hacks x United
+  Nations "Reboot the Earth" Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/prithvisaran3/SNAPback
+demo_url: null
+video_url: https://www.youtube.com/embed/nr5dhWrim6s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/837/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - creative-tools
+technologies:
+  - dart
+  - firebase
+  - flutter
+builders:
+  - name: Prithvi Saran Sathyasaran
+  - name: Roshini Venkateswaran
+  - name: Anaswara Raghuthaman

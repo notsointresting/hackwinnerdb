@@ -1,0 +1,27 @@
+id: plottwist
+name: PlotTwist
+slug: plottwist
+tagline: "Helping plants and people grow. Scan your backyard, tell us your garden dreams, and
+  PlotTwist computes the optimal planting layout: space, sunlight, watering lo"
+summary: "PlotTwist received the Hack the 6ix: Best Environmental Hack award at Hack the 6ix 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/snowxzf/Hack-the-6ix-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/UjpzwkBffwI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/936/734/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sara Parvaresh Rizi
+  - name: Jessica Fu
+  - name: Richa Shah
+  - name: Selina Liu

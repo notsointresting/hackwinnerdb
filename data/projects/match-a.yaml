@@ -1,0 +1,22 @@
+id: match-a
+name: match-a
+slug: match-a
+tagline: Match-a volunteer, Match-a nonprofit. Real-time volunteer matching, retention, and
+  continuity for people and organizations
+summary: match-a received the Beginner Runner-up - SAP Stream award at youCode 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nhuang07/youCode2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/132/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Nicholas Huang
+  - name: Shlok Lande
+  - name: Emily Tu

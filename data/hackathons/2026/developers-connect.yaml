@@ -1,0 +1,14 @@
+id: developers-connect
+name: Developers Connect
+slug: developers-connect
+organizer: []
+year: 2026
+sources:
+  - https://developers-connect.devpost.com/
+  - https://developers-connect.devpost.com/project-gallery?filter=winner
+website_url: https://developers-connect.devpost.com/
+platform: devpost
+participant_count: 67
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Developers Connect. Imported automatically."

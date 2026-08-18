@@ -1,0 +1,17 @@
+id: forget-me-not
+name: Forget-Me-Not
+slug: forget-me-not
+tagline: Forget-Me-Not is a fashion curation app on which you can browse, build outfits, save looks,
+  and develop a style that is your own. It allows you to do so while d
+summary: Forget-Me-Not received the Participants award at Code as a Canvas in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/OrSgh1ZQ9R8
+image_url: null
+categories:
+  - media
+technologies: []
+builders:
+  - name: Shafin Shaik

@@ -1,0 +1,21 @@
+id: prisma-leafhacks
+name: Prisma_Leafhacks
+slug: prisma-leafhacks
+tagline: App that fosters curiosity and follows your ambitions.
+  https://github.com/kseniia-strelbytska/leafhacks2.0
+summary: Prisma_Leafhacks received the Best Use of Google Gemini API award at Leaf Hacks 26' in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kseniia-strelbytska/leafhacks2.0
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/113/687/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - swift
+builders:
+  - name: Kseniia Strelbytska
+  - name: Ananya Bhadra
+  - name: Ryan Stubbs
+  - name: AG-88301

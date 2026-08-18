@@ -1,0 +1,20 @@
+id: rauchat
+name: RauChat
+slug: rauchat
+tagline: SIGN IN USING ID andyha1201@naver.com pw heemangstudios for dev test if you don't want to
+  make a account https://github.com/ghandhitechnology/STEMist2026-Ra
+summary: RauChat received the Best use of Render 3rd award at STEMist Hacks IV in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ghandhitechnology/STEMist2026-Ra
+demo_url: null
+video_url: https://www.youtube.com/embed/7hk4hT8lHAA
+image_url: null
+categories:
+  - education
+technologies:
+  - python
+  - pytorch
+  - typescript
+builders:
+  - name: Andy Ha

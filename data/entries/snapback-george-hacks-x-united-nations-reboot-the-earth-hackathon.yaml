@@ -1,0 +1,14 @@
+id: snapback-george-hacks-x-united-nations-reboot-the-earth-hackathon
+project_id: snapback
+hackathon_id: george-hacks-x-united-nations-reboot-the-earth-hackathon
+submission_url: https://devpost.com/software/snapback-2s1lb7
+source:
+  platform: devpost
+  url: https://devpost.com/software/snapback-2s1lb7
+awards:
+  - type: other
+    title: Open Source Program Office Spot-Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

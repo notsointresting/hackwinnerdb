@@ -1,0 +1,21 @@
+id: myopia
+name: MyOpia
+slug: myopia
+tagline: "Nossa missão é simples: transformar uma tarefa fácil em algo memoravelmente pior."
+summary: MyOpia received the 2º lugar award at Codecon Universe 26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/myOpiaCodecon/myopIA-core
+demo_url: null
+video_url: https://www.youtube.com/embed/fGW_YAUbbKM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/206/datas/gallery.jpg
+categories:
+  - productivity
+technologies:
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Gustavo Silva
+  - name: Fabrício Santos
+  - name: Davi Dias

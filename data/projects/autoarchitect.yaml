@@ -1,0 +1,19 @@
+id: autoarchitect
+name: AutoArchitect
+slug: autoarchitect
+tagline: Auto-Architect is a vision-powered engineering agent. A user photographs a breadboard
+  prototype or a schematic sketch.
+summary: AutoArchitect received the 50$ Visa Gift Card award at Build With AI Hack Days @RU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DhruboRoyPartho/Hackathon-RU
+demo_url: null
+video_url: https://www.youtube.com/embed/3Zfc45DpZiA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/664/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Dhrubo Roy Partho

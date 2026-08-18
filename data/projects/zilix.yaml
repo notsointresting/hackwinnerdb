@@ -1,0 +1,23 @@
+id: zilix
+name: Zilix
+slug: zilix
+tagline: "The ability to contribute to codebases should not be limited to people with computers.
+  Zilix is a mobile platform that allows users to contribute to personal / "
+summary: Zilix received the Best use of Reconstruct award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/brandontautuan/hackDavis-zilix
+demo_url: null
+video_url: https://www.youtube.com/embed/ozzO21Ez34w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/656/656/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - react-native
+  - typescript
+builders:
+  - name: Anish Balakrishnan
+  - name: Brandon Dean Tautuan
+  - name: Benedict Anselmo Consuelo

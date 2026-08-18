@@ -1,0 +1,22 @@
+id: ecoscape
+name: EcoScape
+slug: ecoscape
+tagline: Design your garden and see its ecological impact and sustainability.
+summary: EcoScape received the Best Sustainable Hack award at IrvineHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jasminemarwaha1234/sustainable-garden
+demo_url: null
+video_url: https://www.youtube.com/embed/M013zeF8fF8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/386/812/datas/gallery.jpg
+categories:
+  - sustainability
+  - creative-tools
+technologies:
+  - flask
+  - openai
+  - python
+  - react
+builders:
+  - name: Jasmine Marwaha
+  - name: Isha Kotalwar

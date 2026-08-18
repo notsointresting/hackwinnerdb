@@ -1,0 +1,22 @@
+id: safety-evaluation-scorecard-for-a-legal-ai-assistant
+name: Safety Evaluation Scorecard for a Legal AI Assistant
+slug: safety-evaluation-scorecard-for-a-legal-ai-assistant
+tagline: A team project working towards AI safety applied to Google's Gemma-4-E2B model
+summary: Safety Evaluation Scorecard for a Legal AI Assistant received the 1st Place award at DS6051
+  Decoding LLMs Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/nathanctodd/legal-llm-metrics
+demo_url: null
+video_url: https://www.youtube.com/embed/NV0pOrbycBA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: ryan-Dallas Dallas
+  - name: Lino De Ros
+  - name: Nathan Todd
+  - name: jacksonpkennedy

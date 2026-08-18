@@ -1,0 +1,14 @@
+id: recova-cbc-hackathon-2026-njit
+project_id: recova
+hackathon_id: cbc-hackathon-2026-njit
+submission_url: https://devpost.com/software/recova-b2zsn3
+source:
+  platform: devpost
+  url: https://devpost.com/software/recova-b2zsn3
+awards:
+  - type: track-winner
+    title: Health & Wellbeing Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

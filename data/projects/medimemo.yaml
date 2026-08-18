@@ -1,0 +1,21 @@
+id: medimemo
+name: MediMemo
+slug: medimemo
+tagline: "Your patients' history, always remembered.MedMemo uses AI to ingest, organize, and recall
+  medical records instantly. Upload documents, record sessions, and ask "
+summary: MediMemo received the Best Use of the Railtracks Agentic Framework award at Multimodal
+  Frontier Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/YuvrajGupta1808/MedMemo/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/939/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Yuvraj Gupta
+  - name: pramod thebe

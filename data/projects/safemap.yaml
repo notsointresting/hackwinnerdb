@@ -1,0 +1,24 @@
+id: safemap
+name: SafeMap
+slug: safemap
+tagline: An anonymous, AI-powered community safety map where women report unsafe areas; so others
+  don't have to find out the hard way.
+summary: SafeMap received the 5th Place Winner award at Evorozen Innovators Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Invariants0/SafeMap
+demo_url: null
+video_url: https://www.youtube.com/embed/Az7QeYNtgBU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/737/238/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - python
+  - typescript
+  - vercel
+builders:
+  - name: Ayush Sarkar
+  - name: Shaiza Iqubal
+  - name: Md Athar  Jamal Makki

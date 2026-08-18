@@ -1,0 +1,14 @@
+id: cancer-detector-for-a-cancer-free-world-hack-days-in-bhopal
+project_id: cancer-detector-for-a-cancer-free-world
+hackathon_id: hack-days-in-bhopal
+submission_url: https://devpost.com/software/cancer-detector-for-a-cancer-free-world-2i4jn5
+source:
+  platform: devpost
+  url: https://devpost.com/software/cancer-detector-for-a-cancer-free-world-2i4jn5
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: receiptify-hackmesa-2-0
+project_id: receiptify
+hackathon_id: hackmesa-2-0
+submission_url: https://devpost.com/software/recieptify-cal21w
+source:
+  platform: devpost
+  url: https://devpost.com/software/recieptify-cal21w
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

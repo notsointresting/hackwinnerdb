@@ -1,0 +1,22 @@
+id: nestin
+name: NestIn
+slug: nestin
+tagline: NestIn uses Claude to turn photos of your empty apartment into a personalised shopping list
+  and cart — with real NYC price ranges and second-hand options, built
+summary: NestIn received the Claude Track award at Claude Hackathon 2026 Columbia X NYU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5ajnA8CzEc4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/724/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - e-commerce
+technologies:
+  - claude
+builders:
+  - name: Todd Boonyayoi
+  - name: Lynn Liu
+  - name: Shireen Luthra

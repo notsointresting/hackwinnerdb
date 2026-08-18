@@ -1,0 +1,14 @@
+id: gitlab-orbit-code-graph-test-fixtures-gitlab-transcend-hackathon
+project_id: gitlab-orbit-code-graph-test-fixtures
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/gitlab-orbit-code-graph-test-fixtures
+source:
+  platform: devpost
+  url: https://devpost.com/software/gitlab-orbit-code-graph-test-fixtures
+awards:
+  - type: track-winner
+    title: "Contribute Track: A qualified Merged Merge Request"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

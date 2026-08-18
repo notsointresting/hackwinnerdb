@@ -1,0 +1,14 @@
+id: translyte-idea-hacks-2026
+project_id: translyte
+hackathon_id: idea-hacks-2026
+submission_url: https://devpost.com/software/trans-lyte
+source:
+  platform: devpost
+  url: https://devpost.com/software/trans-lyte
+awards:
+  - type: third-place
+    title: 3rd Place Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

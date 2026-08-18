@@ -1,0 +1,29 @@
+id: swarmsell
+name: SwarmSell
+slug: swarmsell
+tagline: swarm sell
+summary: SwarmSell received the Best AI/ML Hack award at DiamondHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adityasingh2400/SwarmSell
+demo_url: null
+video_url: https://www.youtube.com/embed/KWuWg4si-AU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/208/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - groq
+  - javascript
+  - llama
+  - opencv
+  - python
+  - react
+  - typescript
+builders:
+  - name: aidenhongg Hong
+  - name: William Yang
+  - name: Aditya Singh
+  - name: Siddharth Mundra

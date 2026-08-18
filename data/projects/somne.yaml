@@ -1,0 +1,21 @@
+id: somne
+name: Somnē
+slug: somne
+tagline: "The first platform that lets you perceive, shape, and remember your dreams. Somnē senses
+  what your subconscious is doing, steering it toward what you need, and "
+summary: Somnē received the Third Place award at FigBuild 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/77N99JulgSo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/419/554/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Jess Fong
+  - name: Ishant Gandhi
+  - name: Nandini Baruah
+  - name: Mohnish Gopi

@@ -1,0 +1,14 @@
+id: the-alchemists-debt-hackstoga-2026
+project_id: the-alchemists-debt
+hackathon_id: hackstoga-2026
+submission_url: https://devpost.com/software/the-alchemists-debt
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-alchemists-debt
+awards:
+  - type: other
+    title: Silver
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

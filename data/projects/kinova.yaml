@@ -1,0 +1,24 @@
+id: kinova
+name: Kinova
+slug: kinova
+tagline: Most fitness apps assume experience. For beginners, neither proper form nor resolve is
+  guaranteed. Our project integrates AI for real-time feedback and a gamifi
+summary: Kinova received the YC x HackTech - YC Office Hours award at Hacktech by Caltech 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shanghanyan/Kinova
+demo_url: null
+video_url: https://www.youtube.com/embed/u3NsekslR9I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/459/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Ava Cheng
+  - name: Vanisha Kheterpal
+  - name: Charlotte Wong
+  - name: Alexandra Ye

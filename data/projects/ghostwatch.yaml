@@ -1,0 +1,20 @@
+id: ghostwatch
+name: GhostWatch
+slug: ghostwatch
+tagline: "GhostWatch: Jac-powered graph over your repo spots risky dependency changes, captures
+  sandbox IOCs, optional auto-fix PRs, Discord alerts, post-merge contributo"
+summary: GhostWatch received the Agentic AI Track — 2nd Place award at JacHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ayushmk7/GhostWatch
+demo_url: null
+video_url: https://www.youtube.com/embed/ZN0UVnNUpRs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/420/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies: []
+builders:
+  - name: Aaron Sun
+  - name: Ayush Madhav Kumar

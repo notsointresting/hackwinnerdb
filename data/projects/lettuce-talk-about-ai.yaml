@@ -1,0 +1,23 @@
+id: lettuce-talk-about-ai
+name: Lettuce Talk About AI
+slug: lettuce-talk-about-ai
+tagline: A punny food-fight game that teaches kids ages 8 to 12 how to stay safe with AI.
+summary: Lettuce Talk About AI received the 3rd Place award at AI for Learning & Development Build
+  Challenge — AI Collective HR + Regent in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/savinmeiggsai/lettucetalkaboutai
+demo_url: null
+video_url: https://www.youtube.com/embed/OIxjlQc4kUU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/775/885/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: Chris Machut
+  - name: Natalie Meiggs
+  - name: Savin Meiggs
+  - name: Savin Meiggs

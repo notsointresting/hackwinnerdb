@@ -1,0 +1,24 @@
+id: bodify
+name: Bodify
+slug: bodify
+tagline: Bodify is your multi-agent AI health partner. A council of AI specialists creates
+  personalized nutrition, fitness, and lifestyle plans that adapt to your goals,
+summary: Bodify received the Best Solo Hack award at Garuda Hacks 7.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vincentoei/bodify
+demo_url: null
+video_url: https://www.youtube.com/embed/gDT_pk4ruHA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/912/569/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - langchain
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Vincent Oei

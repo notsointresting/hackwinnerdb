@@ -1,0 +1,20 @@
+id: ecoloop
+name: Ecoloop
+slug: ecoloop
+tagline: Ecoloop is a smart, AI-powered reverse vending ecosystem that instantly turns everyday
+  plastic and aluminum waste into real-world cash in your digital wallet
+summary: Ecoloop received the Theme-Based Track Prizes award at Quantum Sprint in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Mimi77499/eco-loop-scan-rewards.git
+demo_url: null
+video_url: https://www.youtube.com/embed/bRehN__hW2Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/540/043/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - creative-tools
+technologies:
+  - figma
+  - react
+builders: []

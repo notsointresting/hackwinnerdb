@@ -1,0 +1,14 @@
+id: gitscope-hackumbc-mini-hackathon
+project_id: gitscope
+hackathon_id: hackumbc-mini-hackathon
+submission_url: https://devpost.com/software/gitscope
+source:
+  platform: devpost
+  url: https://devpost.com/software/gitscope
+awards:
+  - type: other
+    title: Google Swag
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

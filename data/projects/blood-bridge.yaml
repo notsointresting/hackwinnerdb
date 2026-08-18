@@ -1,0 +1,25 @@
+id: blood-bridge
+name: Blood Bridge
+slug: blood-bridge
+tagline: Blood Bridge – Connecting Lives, Anytime, Anywhere.
+summary: Blood Bridge received the Participation Certificate award at CodeNova 2026 – National AI &
+  Innovation Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/KarthikJayaram-SK/bloodbridge.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - flutter
+  - javascript
+  - mongodb
+builders:
+  - name: Ashwin Annamalai Lena
+  - name: Abul Hussain
+  - name: Karthik Jayaram

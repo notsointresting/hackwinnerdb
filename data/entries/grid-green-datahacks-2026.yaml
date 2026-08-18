@@ -1,0 +1,16 @@
+id: grid-green-datahacks-2026
+project_id: grid-green
+hackathon_id: datahacks-2026
+submission_url: https://devpost.com/software/greenwatts
+source:
+  platform: devpost
+  url: https://devpost.com/software/greenwatts
+awards:
+  - type: track-winner
+    title: Cloud track
+  - type: category-winner
+    title: "MLH: Best Use of Snowflake API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,28 @@
+id: squid
+name: Squid
+slug: squid
+tagline: Squid is the trust and liability layer that verifies every agentic AI transaction, enforces
+  custom contracts, and creates cryptographic audit trails so both con
+summary: Squid received the MLH || Best Use of Solana || Ledger Nano S Plus award at Hack Indy 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DavidChen-006/Squid
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/474/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - flask
+  - gemini
+  - python
+  - react
+  - solana
+  - stripe
+  - supabase
+builders:
+  - name: Rohan Muppa
+  - name: david chen
+  - name: AdityaMunotEcon Munot

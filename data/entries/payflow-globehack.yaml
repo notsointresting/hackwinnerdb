@@ -1,0 +1,14 @@
+id: payflow-globehack
+project_id: payflow
+hackathon_id: globehack
+submission_url: https://devpost.com/software/payflow-4xfh7b
+source:
+  platform: devpost
+  url: https://devpost.com/software/payflow-4xfh7b
+awards:
+  - type: other
+    title: Vector
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

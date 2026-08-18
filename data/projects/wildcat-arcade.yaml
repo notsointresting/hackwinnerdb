@@ -1,0 +1,17 @@
+id: wildcat-arcade
+name: Wildcat Arcade
+slug: wildcat-arcade
+tagline: Play wii sports resort from your phone without a wii console
+summary: Wildcat Arcade received the Grand Prize - First Place Overall award at WildHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JeffersonWu25/wii-for-phone
+demo_url: null
+video_url: https://www.youtube.com/embed/8j-TswTtLvI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/558/029/datas/medium.png
+categories:
+  - other
+technologies:
+  - react
+builders:
+  - name: Jefferson Wu

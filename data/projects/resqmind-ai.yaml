@@ -1,0 +1,27 @@
+id: resqmind-ai
+name: ResQMind AI
+slug: resqmind-ai
+tagline: An AI-powered emergency response platform that predicts emergencies, coordinates rescue
+  teams, optimizes hospital allocation, and provides real-time multilingua
+summary: ResQMind AI received the Runner-up award at CodeNova 2026 – National AI & Innovation
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - javascript
+  - mongodb
+  - openai
+  - python
+  - react
+  - tensorflow
+builders:
+  - name: ayyappan a

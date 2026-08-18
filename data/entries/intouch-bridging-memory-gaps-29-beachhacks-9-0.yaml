@@ -1,0 +1,14 @@
+id: intouch-bridging-memory-gaps-29-beachhacks-9-0
+project_id: intouch-bridging-memory-gaps-29
+hackathon_id: beachhacks-9-0
+submission_url: https://devpost.com/software/intouch-bridging-memory-gaps
+source:
+  platform: devpost
+  url: https://devpost.com/software/intouch-bridging-memory-gaps
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of MongoDB Atlas"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: 3d-echoshield
+name: 3D - EchoShield
+slug: 3d-echoshield
+tagline: Our website raises awareness about national parks and the problems and how people can help.
+summary: 3D - EchoShield received the 3rd Place award at WildHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/199/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Parnitha Parachuri
+  - name: Ted Shi
+  - name: Sai Srinivas Pasyavula
+  - name: Zeyu Li

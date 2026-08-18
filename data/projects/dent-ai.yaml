@@ -1,0 +1,29 @@
+id: dent-ai
+name: Dent-AI
+slug: dent-ai
+tagline: Clinical Intelligence Platform that converts dental X‑rays into structured insights and
+  faster clinical decisions.
+summary: Dent-AI received the Best Overall Hack award at SacHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Burnfireblaze/dental-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/2B9A3HrsLnQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/358/354/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - figma
+  - groq
+  - opencv
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Sudarsan Srivathsun
+  - name: Hitesh Kumar
+  - name: Saurav Mohanty

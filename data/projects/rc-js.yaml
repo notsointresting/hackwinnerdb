@@ -1,0 +1,25 @@
+id: rc-js
+name: RC.JS
+slug: rc-js
+tagline: A 3D thinking workspace where your ideas become a navigable knowledge graph you can chat
+  with, explore, and share - a second brain.
+summary: RC.JS received the Best Use of Gemini API award at Hack Hack Goose in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/joshwu108/RC.JS
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/052/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Rishi  Vinodkumar
+  - name: Joshua Wu
+  - name: Swarit Srivastava
+  - name: Chetan Gorantla

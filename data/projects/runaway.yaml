@@ -1,0 +1,18 @@
+id: runaway
+name: Runaway
+slug: runaway
+tagline: Want to Runaway on a weekend trip? Use runaway to plan your spontaneous weekend away!
+summary: Runaway received the 3rd Place AWS Track award at ECU Spark in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ahmad-Abu/runaway
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - go
+  - python
+builders:
+  - name: Ahmad Abulabda

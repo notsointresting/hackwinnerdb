@@ -1,0 +1,23 @@
+id: paper-zoo
+name: Paper Zoo
+slug: paper-zoo
+tagline: Turn your real-life origami creations into a fun, interactive layout on your device!
+summary: Paper Zoo received the Track 1 - Past (Childhood games) award at WildHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/hJgoKLLk-gA
+image_url: null
+categories:
+  - other
+technologies:
+  - gemini
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Prakul Madaan
+  - name: Tony Yu
+  - name: ryanc-nu
+  - name: Brandon Wang

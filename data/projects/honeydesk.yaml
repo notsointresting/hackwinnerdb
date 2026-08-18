@@ -1,0 +1,23 @@
+id: honeydesk
+name: HoneyDesk
+slug: honeydesk
+tagline: Trap student phishing attempts through live decoys. Classify the attack in real time, and
+  turn it into a plain-English brief that students can act on.
+summary: HoneyDesk received the Best Security or Privacy Hack 3rd award at STEMist Hacks IV in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/defAaron/STEMist-hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/8cGpsI5qa2U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/051/723/datas/medium.png
+categories:
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Aaron Dutta

@@ -1,0 +1,14 @@
+id: dreamopia-carexr-hack
+project_id: dreamopia
+hackathon_id: carexr-hack
+submission_url: https://devpost.com/software/dreamopia
+source:
+  platform: devpost
+  url: https://devpost.com/software/dreamopia
+awards:
+  - type: category-winner
+    title: Best Beginner Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,19 @@
+id: impactid
+name: ImpactID
+slug: impactid
+tagline: Volunteer. Verify. Impact
+summary: "ImpactID received the BEST BEGINNER PROJECT award at Girls in STEM: AI for Social Good
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dxbUfz6q8Lw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/668/120/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Bao Nguyen

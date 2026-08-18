@@ -1,0 +1,14 @@
+id: cirkit-kirohacks-cal-poly
+project_id: cirkit
+hackathon_id: kirohacks-cal-poly
+submission_url: https://devpost.com/software/cirkit-n4g13v
+source:
+  platform: devpost
+  url: https://devpost.com/software/cirkit-n4g13v
+awards:
+  - type: category-winner
+    title: Best Industrial
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

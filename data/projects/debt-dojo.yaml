@@ -1,0 +1,20 @@
+id: debt-dojo
+name: DEBT DOJO
+slug: debt-dojo
+tagline: We are the app that holds your money hostage until you beat your debt — because knowing you
+  have a problem was never the hard part.
+summary: "DEBT DOJO received the Best Use of Google Gemini API award at NO//CODE : BUILD CHAOS in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ParthGupta1304/DEBT-DOJO.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/598/067/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+builders:
+  - name: Yash Vasudeva
+  - name: aviral mishra
+  - name: Parth Gupta

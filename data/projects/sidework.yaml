@@ -1,0 +1,19 @@
+id: sidework
+name: SideWork
+slug: sidework
+tagline: The safest way for school students to find local jobs, with parent approval every step of the way.
+summary: SideWork received the Third Place award at RLC Hacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8lmdyUNRLrw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/623/417/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+builders:
+  - name: jimmy XD

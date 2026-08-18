@@ -1,0 +1,14 @@
+id: unicorn-hack-the-student-life-2026
+project_id: unicorn
+hackathon_id: hack-the-student-life-2026
+submission_url: https://devpost.com/software/unicorn-heuawf
+source:
+  platform: devpost
+  url: https://devpost.com/software/unicorn-heuawf
+awards:
+  - type: category-winner
+    title: Best Project for Strengthening Academic and Career Connections across UofT
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

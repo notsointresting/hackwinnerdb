@@ -1,0 +1,22 @@
+id: marshal-autonomous-migration-assistant
+name: Marshal - Autonomous Migration Assistant
+slug: marshal-autonomous-migration-assistant
+tagline: "Orgs don't fail to start migrations — they fail to finish them. Marshal drives every repo
+  to a terminal state on GitLab Duo: discover the fleet, land real MRs, "
+summary: "Marshal - Autonomous Migration Assistant received the Showcase Track: Design and
+  Usability, Second Place award at GitLab Transcend Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TMKUON_rNhU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/821/388/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - claude
+  - python
+builders:
+  - name: Jyothsna Ashok

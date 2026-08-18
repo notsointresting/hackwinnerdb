@@ -1,0 +1,19 @@
+id: served
+name: Served
+slug: served
+tagline: A community dinner table and text blast system that fights law school and legal profession
+  loneliness by turning "you've been served" into an act of care.
+summary: Served received the 1st Place - Winner award at Philadelphia Social Justice Hackathon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/513/998/datas/medium.jpeg
+categories:
+  - social-impact
+  - creative-tools
+technologies:
+  - twilio
+builders:
+  - name: Nonso Elelleh

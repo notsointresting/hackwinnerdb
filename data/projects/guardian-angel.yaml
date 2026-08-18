@@ -1,0 +1,24 @@
+id: guardian-angel
+name: Guardian Angel
+slug: guardian-angel
+tagline: MASCAL problem set
+summary: "Guardian Angel received the Meta Track Winner award at Critical Ops: A DC National
+  Security Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/starpebble/guardian-angel-console/blob/main/README.md
+demo_url: null
+video_url: https://www.youtube.com/embed/nPirk4-PwYQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/522/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - robotics
+technologies:
+  - docker
+  - firebase
+  - openai
+  - python
+builders:
+  - name: Gema Robles
+  - name: starpebble Zumkhawala
+  - name: inikas

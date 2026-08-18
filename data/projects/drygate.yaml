@@ -1,0 +1,24 @@
+id: drygate
+name: Drygate
+slug: drygate
+tagline: Bring your n8n Template and get a production readiness score, every issue found, and exact
+  fix steps - before it breaks in Production at 2am.
+summary: Drygate received the 1st Place - Grand Winner award at LovHack Season 2 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shaileshdev4/drygate
+demo_url: null
+video_url: https://www.youtube.com/embed/WQ2SZm50ZVY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/500/808/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - groq
+  - postgresql
+  - supabase
+  - typescript
+builders:
+  - name: Shailesh Hawale

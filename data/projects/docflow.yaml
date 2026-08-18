@@ -1,0 +1,26 @@
+id: docflow
+name: DocFlow
+slug: docflow
+tagline: AI that transforms your legal reports into structured documents, auto-fills forms, and
+  surfaces insights to help you navigate complex real-world processes.
+summary: DocFlow received the MLH Best Use of ElevenLabs award at Civic Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/349/660/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+  - supabase
+  - vercel
+builders:
+  - name: Effan Audi Khalif
+  - name: Abdul Majid
+  - name: Abhishek sharma
+  - name: danielswijya Wijaya

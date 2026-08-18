@@ -1,0 +1,28 @@
+id: accent
+name: Accent
+slug: accent
+tagline: "Accent is a macOS accessibility tool for elderly and non-English users that gives LLMs
+  sight with a CV UI classifier. Users ask what to do and get the right UI "
+summary: "Accent received the Track: Light The Way award at LA Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/RyloRiz/accent
+demo_url: null
+video_url: https://www.youtube.com/embed/XmlBhFCtorw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/614/193/datas/gallery.jpg
+categories:
+  - accessibility
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - google-cloud
+  - langchain
+  - opencv
+  - python
+  - pytorch
+  - swift
+builders:
+  - name: Helen Hoang
+  - name: Rizwaan Bana
+  - name: K Tej

@@ -1,0 +1,14 @@
+id: starcrossed-cyber-sages-hackathon
+project_id: starcrossed
+hackathon_id: cyber-sages-hackathon
+submission_url: https://devpost.com/software/starcrossed
+source:
+  platform: devpost
+  url: https://devpost.com/software/starcrossed
+awards:
+  - type: other
+    title: Runner Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

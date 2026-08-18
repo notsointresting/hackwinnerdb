@@ -1,0 +1,14 @@
+id: physio-hackhcc-code-runners
+project_id: physio
+hackathon_id: hackhcc-code-runners
+submission_url: https://devpost.com/software/physio-csim7w
+source:
+  platform: devpost
+  url: https://devpost.com/software/physio-csim7w
+awards:
+  - type: track-winner
+    title: General Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

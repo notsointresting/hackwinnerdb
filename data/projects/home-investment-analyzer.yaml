@@ -1,0 +1,22 @@
+id: home-investment-analyzer
+name: Home Investment Analyzer
+slug: home-investment-analyzer
+tagline: Our project predicts housing instability by analyzing price and movement trends, helping
+  users spot high-risk areas before displacement happens.
+summary: Home Investment Analyzer received the Best Use of Omni Software award at Data Heist 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HenyMa/DataHeist
+demo_url: null
+video_url: https://www.youtube.com/embed/gXI1eBzLdQA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/120/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Apoorva Khandelwal
+  - name: Keshavi Kanagalingam
+  - name: Heny Ma

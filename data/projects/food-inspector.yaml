@@ -1,0 +1,19 @@
+id: food-inspector
+name: Food Inspector
+slug: food-inspector
+tagline: Analyze ingredients, nutrition, and food safety instantly using AI
+summary: Food Inspector received the Best application within category award at Youth Code x AI in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/subhashis2204/FoodInspector
+demo_url: null
+video_url: https://www.youtube.com/embed/bg7Ec3dbiz4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/830/924/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies:
+  - azure
+  - python
+  - react
+builders:
+  - name: Subhashis Paul

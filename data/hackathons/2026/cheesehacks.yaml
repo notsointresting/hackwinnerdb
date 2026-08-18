@@ -1,0 +1,14 @@
+id: cheesehacks
+name: Cheesehacks
+slug: cheesehacks
+organizer: []
+year: 2026
+sources:
+  - https://cheesehacks.devpost.com/
+  - https://cheesehacks.devpost.com/project-gallery?filter=winner
+website_url: https://cheesehacks.devpost.com/
+platform: devpost
+participant_count: 286
+prize_pool: 1500
+currency: USD
+description: "Devpost hackathon: Cheesehacks. Imported automatically."

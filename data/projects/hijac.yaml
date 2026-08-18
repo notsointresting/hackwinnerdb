@@ -1,0 +1,20 @@
+id: hijac
+name: Hijac
+slug: hijac
+tagline: hijacks your routine
+summary: Hijac received the Social Impact Track - 1st Place award at JacHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chess10kp/jachacks
+demo_url: null
+video_url: https://www.youtube.com/embed/SeP5gTAS4j0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/977/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies: []
+builders:
+  - name: Nitin Shankar Madhu
+  - name: Chuka Ezeoke
+  - name: Meron Demissie

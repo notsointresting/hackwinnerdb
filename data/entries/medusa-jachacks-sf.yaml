@@ -1,0 +1,14 @@
+id: medusa-jachacks-sf
+project_id: medusa
+hackathon_id: jachacks-sf
+submission_url: https://devpost.com/software/medusa-8u9xmw
+source:
+  platform: devpost
+  url: https://devpost.com/software/medusa-8u9xmw
+awards:
+  - type: category-winner
+    title: Special Awards Best Use of Jaclang
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

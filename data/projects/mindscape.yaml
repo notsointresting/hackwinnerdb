@@ -1,0 +1,21 @@
+id: mindscape
+name: Mindscape
+slug: mindscape
+tagline: Mindscape connects your notes the way your brain connects ideas.
+summary: Mindscape received the Second award at TillyHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/950/datas/gallery.jpg
+categories:
+  - education
+  - productivity
+technologies:
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Parsunic Dane

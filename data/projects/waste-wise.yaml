@@ -1,0 +1,25 @@
+id: waste-wise
+name: Waste Wise
+slug: waste-wise
+tagline: Waste Wise turns waste confusion into confidence. Snap a photo of your waste and instantly
+  discover the correct bin for each item, with preparation tips, safety
+summary: Waste Wise received the Most Impactful Projects award at JecHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Lucianbai09/Waste-Wise
+demo_url: null
+video_url: https://www.youtube.com/embed/0PgKcmFQ8Fs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/453/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+  - vercel
+builders:
+  - name: Jaric Wang
+  - name: Abiram Mathisekaran
+  - name: Amy Xiong
+  - name: Lucian Bai

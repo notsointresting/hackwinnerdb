@@ -1,0 +1,21 @@
+id: ai-certificate-sommelier
+name: AI Certificate Sommelier
+slug: ai-certificate-sommelier
+tagline: The world's most useless sommelier. We analyze your domain's SSL certificates and serve up
+  absurdly snobby, AI-generated wine reviews and custom bottle art.
+summary: AI Certificate Sommelier received the Most Useless Hack award at AI Hackfest in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lassestilvang/ai-certificate-sommelier
+demo_url: null
+video_url: https://www.youtube.com/embed/MuiDcTXTbeA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/063/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - vercel
+builders:
+  - name: Lasse Stilvang

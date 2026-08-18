@@ -1,0 +1,24 @@
+id: pollution-path-prediction-ppp-simulator
+name: Pollution Path Prediction (PPP) Simulator
+slug: pollution-path-prediction-ppp-simulator
+tagline: bottle pollution dropping simulator that allows you to predict the path of multiple spills
+  using ocean current data to best prevent the spread of pollution enab
+summary: Pollution Path Prediction (PPP) Simulator received the Best Use of ArcGIS (Esri's Sponsored
+  Track) award at FullyHacks 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/elijahcroft/FullyHacks2026/tree/dev
+demo_url: null
+video_url: https://www.youtube.com/embed/gPclKi6Oc00
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/450/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - figma
+  - typescript
+builders:
+  - name: Ryan Wagner
+  - name: Fristine Sok
+  - name: Aidan Dao
+  - name: Elijah Croft

@@ -1,0 +1,21 @@
+id: helpie
+name: Helpie
+slug: helpie
+tagline: People around us may need help with various tasks. Helpie makes getting assistance
+  accessible for everyone.
+summary: Helpie received the [Investtech] challenge award at Hack Kosice 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MichalHacks/hk-babkozos
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/584/823/datas/gallery.jpg
+categories:
+  - accessibility
+technologies:
+  - java
+  - javascript
+builders:
+  - name: Samo Kosík
+  - name: Marek Cedula
+  - name: Filip Frtús

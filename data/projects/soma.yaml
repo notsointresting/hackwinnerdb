@@ -1,0 +1,20 @@
+id: soma
+name: Soma
+slug: soma
+tagline: Conquer overthinking.
+summary: Soma received the Best Design award at FigBuild 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Xq55Qdj9D-8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/420/712/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Jinni Chhua
+  - name: David Xie
+  - name: Kyle Jhong
+  - name: Elsie Nakaone

@@ -1,0 +1,21 @@
+id: mirror-shop-the-vibe-not-the-catalog
+name: "Mirror: Shop the Vibe, Not the Catalog"
+slug: mirror-shop-the-vibe-not-the-catalog
+tagline: Mirror lets you get social proof from influencers and friends before you buy. Share
+  editorial-grade shoots of your fits to get a quick verdict, bridging the gap
+summary: "Mirror: Shop the Vibe, Not the Catalog received the 3rd Place award at The Phia Hack in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/gokulnpc/phia-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/Fbo16F4h0P4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/830/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - fastapi
+  - gemini
+  - typescript
+builders: []

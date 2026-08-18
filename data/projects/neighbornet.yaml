@@ -1,0 +1,24 @@
+id: neighbornet
+name: NeighborNet
+slug: neighbornet
+tagline: A crowdsourced map to find free clinics, food banks, water points, shelters, and tutoring
+  across Delhi NCR — no login, no gatekeeping.
+summary: NeighborNet received the Participation Certificates award at Ctrl+V Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Zephyrex21/neighbornet
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/863/638/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Saurabh Raj Shekhar
+  - name: GAURAV
+  - name: sumit gupta

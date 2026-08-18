@@ -1,0 +1,16 @@
+id: voyage-synthesis-hacks
+project_id: voyage
+hackathon_id: synthesis-hacks
+submission_url: https://devpost.com/software/synapse-8sj062
+source:
+  platform: devpost
+  url: https://devpost.com/software/synapse-8sj062
+awards:
+  - type: category-winner
+    title: Best Design/Website
+  - type: finalist
+    title: Top 100 Finalist Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

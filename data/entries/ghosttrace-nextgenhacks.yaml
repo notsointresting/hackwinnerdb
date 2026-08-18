@@ -1,0 +1,14 @@
+id: ghosttrace-nextgenhacks
+project_id: ghosttrace
+hackathon_id: nextgenhacks
+submission_url: https://devpost.com/software/ghosttrace-jh5ws8
+source:
+  platform: devpost
+  url: https://devpost.com/software/ghosttrace-jh5ws8
+awards:
+  - type: finalist
+    title: Top 9 Finalists
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

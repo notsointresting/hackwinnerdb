@@ -1,0 +1,21 @@
+id: commutify
+name: commutify
+slug: commutify
+tagline: we are creating a travel agent
+summary: "commutify received the Prizes Based on Themes award at Hackathon New Delhi: Build AI
+  Agents in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Youngmaster0304/commutify.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/924/963/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies: []
+builders:
+  - name: Abhinav Jha
+  - name: Rehan Akhtar
+  - name: Deep Mishra

@@ -1,0 +1,22 @@
+id: ai-powered-perioperative-command-center
+name: AI powered Perioperative command center
+slug: ai-powered-perioperative-command-center
+tagline: PeriOp Command is an AI-powered perioperative command center that orchestrates clinical
+  agents to predict risks, detect gaps, forecast ICU needs, optimize readi
+summary: AI powered Perioperative command center received the Third award at Beyond Tomorrow Summit
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BHAVNAGUPTA20/periop-command
+demo_url: null
+video_url: https://www.youtube.com/embed/F8ObGW4O7AM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/733/321/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - cybersecurity
+technologies:
+  - gemini
+  - python
+  - streamlit
+builders:
+  - name: Bhavna Gupta

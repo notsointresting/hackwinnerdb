@@ -1,0 +1,19 @@
+id: thermohalo-ai-firearm-detection
+name: ThermoHalo - AI Firearm Detection
+slug: thermohalo-ai-firearm-detection
+tagline: ThermoHalo uses AI-powered thermal imaging to detect concealed weapons at school entrances.
+  Safe, FERPA-compliant, and built on affordable $200 cameras to prote
+summary: ThermoHalo - AI Firearm Detection received the FutureAI Champion (1st Place) 1 Winner award
+  at FutureAI Global Hackathon 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MY7cwzXc8cg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/729/630/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Eric Yan

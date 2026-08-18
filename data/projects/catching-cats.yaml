@@ -1,0 +1,17 @@
+id: catching-cats
+name: Catching Cats
+slug: catching-cats
+tagline: helping cats who are falling from the sky and dropping to the ground
+summary: Catching Cats received the Best Beginner Hack award at PantherHack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thinkaloud2024/catching-cat/commit/18ea894296809f7ee009d542360b93de86acb445
+demo_url: null
+video_url: https://www.youtube.com/embed/KV8rR6PdN_Y
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - java
+builders:
+  - name: jiayi zhou

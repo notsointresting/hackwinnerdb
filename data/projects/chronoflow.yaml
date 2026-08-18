@@ -1,0 +1,20 @@
+id: chronoflow
+name: ChronoFlow
+slug: chronoflow
+tagline: "ChronoFlow provides a fluid, dial-based interface that handles real-time synchronization,
+  works seamlessly offline via IndexedDB, and optimizes time management "
+summary: ChronoFlow received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NASRALLAH-DAMMAJ/chronoflow
+demo_url: null
+video_url: https://www.youtube.com/embed/watch
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/867/685/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Nasrallah Dammaj

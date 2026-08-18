@@ -1,0 +1,21 @@
+id: payflow
+name: PayFlow
+slug: payflow
+tagline: Freelancers lose $6K/year to unpaid invoices. PayFlow AI automatically sends escalating
+  follow-up emails until you get paid. Set it once. Never chase a client a
+summary: PayFlow received the Vector award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/PrarthanaT/payflow-app
+demo_url: null
+video_url: https://www.youtube.com/embed/sGRfJz1Jdj8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies: []
+builders:
+  - name: Navneetha Rajan
+  - name: Suhas Raghavendra
+  - name: Divyansh Jagdishbhai Chandarana

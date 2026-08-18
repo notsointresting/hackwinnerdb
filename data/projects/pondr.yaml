@@ -1,0 +1,24 @@
+id: pondr
+name: pondr
+slug: pondr
+tagline: Demystify learning. One concept at a time.
+summary: pondr received the [SPONSOR] Dallas AI award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aarohCodes/HackAI2026
+demo_url: null
+video_url: https://www.youtube.com/embed/tXF55DuBK8k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/916/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - mongodb
+  - react
+builders:
+  - name: Karthik Yammanur
+  - name: Aaroh Nanoti
+  - name: Nikhil Marisetty
+  - name: Siri A

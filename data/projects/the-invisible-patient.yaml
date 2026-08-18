@@ -1,0 +1,21 @@
+id: the-invisible-patient
+name: The Invisible Patient
+slug: the-invisible-patient
+tagline: The mental health crisis hiding inside the brain health crisis.
+summary: The Invisible Patient received the Finalist award at UW Tech Exploration Lab Digital Health
+  Challenge in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Chu1503/invisible-patient
+demo_url: null
+video_url: https://www.youtube.com/embed/Qdy6fQMYKC0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/541/661/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Shreya Lakhera
+  - name: Shiv Akash Dhinakar Raj

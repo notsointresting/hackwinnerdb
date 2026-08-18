@@ -1,0 +1,22 @@
+id: competitive-grass-touching
+name: Competitive Grass Touching
+slug: competitive-grass-touching
+tagline: scared to go outside? never fear! compete to touch the most patches and be the greenest (aura)
+summary: "Competitive Grass Touching received the TECHNATION: Data Intelligence Track 1st Place
+  award at SummerHacks in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/ryannnchang/summerhacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/0kxXIanV9N8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/074/889/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Yuyue Jack Zhou
+  - name: Daniel Yang
+  - name: Ryan Chang

@@ -1,0 +1,21 @@
+id: the-jar
+name: the Jar
+slug: the-jar
+tagline: "Emotions emerge when your inhibitions are down. Don't just stifle drunk texts, learn from
+  your unrestrained self. The Jar helps understand your emotions better "
+summary: the Jar received the Most Creative award at FigBuild 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ccryJIu-OKw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/474/328/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - claude
+  - figma
+builders:
+  - name: Megan Winarta
+  - name: Jyotiraditya1499 Ingawale
+  - name: Eve Fan

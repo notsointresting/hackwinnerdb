@@ -1,0 +1,23 @@
+id: brain3d
+name: Brain3D
+slug: brain3d
+tagline: Think outside of the box. Into the cube. From old riddles to newspaper crosswords, mental
+  stimulation has helped the mind for millennia. Get ready for a new wav
+summary: "Brain3D received the ImmerseGT: Spatial Design Track award at ImmerseGT 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ckabamba/Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/tNMdeVF_da0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/741/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: Alfred Tang
+  - name: JohnPaul754
+  - name: Ezekiel Currie
+  - name: ckabamba

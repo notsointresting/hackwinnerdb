@@ -1,0 +1,19 @@
+id: love-is-chess
+name: love-is-chess
+slug: love-is-chess
+tagline: Chess is the most inaccurate representation of a strategy game. Pieces have no opinions and
+  personalities, why should a pawn die for the king?
+summary: love-is-chess received the stupid (3rd overall) award at Stupid Ideas Hackathon (Waterloo
+  W26) in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/DzhanybekZakiriiaev/love-is-chess
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/959/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - react
+builders:
+  - name: Dzhanybek Zakiriiaev

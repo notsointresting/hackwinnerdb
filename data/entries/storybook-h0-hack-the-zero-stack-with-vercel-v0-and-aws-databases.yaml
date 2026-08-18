@@ -1,0 +1,14 @@
+id: storybook-h0-hack-the-zero-stack-with-vercel-v0-and-aws-databases
+project_id: storybook
+hackathon_id: h0-hack-the-zero-stack-with-vercel-v0-and-aws-databases
+submission_url: https://devpost.com/software/storybook-orbc8j
+source:
+  platform: devpost
+  url: https://devpost.com/software/storybook-orbc8j
+awards:
+  - type: second-place
+    title: Second Place | Million-scale Global App
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

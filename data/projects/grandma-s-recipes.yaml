@@ -1,0 +1,19 @@
+id: grandma-s-recipes
+name: Grandma's Recipes
+slug: grandma-s-recipes
+tagline: Every Recipe, A Memory, Every Memory A Door.....
+summary: Grandma's Recipes received the 3rd Place Prizes! award at CreateRU 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FmFDR1jx3s0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/424/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Anshumita Gaikwad
+  - name: Shruthi Shrinivas
+  - name: Sheryl Joseph Sebastin Praveen

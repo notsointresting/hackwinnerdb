@@ -1,0 +1,16 @@
+id: rms-plus-kenthackit
+project_id: rms-plus
+hackathon_id: kenthackit
+submission_url: https://devpost.com/software/rms-b1ytdn
+source:
+  platform: devpost
+  url: https://devpost.com/software/rms-b1ytdn
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of ElevenLabs"
+  - type: first-place
+    title: "[RMS Diagnostics] 1st Place Automotive Learning Improvements"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

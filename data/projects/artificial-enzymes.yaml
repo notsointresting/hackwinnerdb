@@ -1,0 +1,23 @@
+id: artificial-enzymes
+name: Artificial Enzymes
+slug: artificial-enzymes
+tagline: Our XGBoost pipeline predicts pIC50 by fusing 2048-bit Morgan Fingerprints with ProtTrans
+  embeddings. Protein-agnostic and robust on "cold" splits, it turns lib
+summary: "Artificial Enzymes received the 1st Place: Molecular Forcaster Challenge (Challenge #2)
+  award at PharmaHacks 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Aditya-Shetty-08/PharmaHacks2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/485/441/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: addyk-hash99 -
+  - name: Vivek Motta
+  - name: Aditya-Shetty-08 Shetty
+  - name: abdelrahman Sayeh

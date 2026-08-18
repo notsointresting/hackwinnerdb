@@ -1,0 +1,21 @@
+id: proximity-intelligent-agents
+name: "Proximity: Intelligent Agents"
+slug: proximity-intelligent-agents
+tagline: The modern customer success layer for the web. Proximity instantly converts your company's
+  knowledge base into a fully embeddable, real-time AI assistant capabl
+summary: "Proximity: Intelligent Agents received the Best Use of the Google Gemini API award at Hack
+  Days in Bhopal 2.0 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/piyushbilthariya1/Hack_Day_proximity.git
+demo_url: null
+video_url: https://www.youtube.com/embed/PXL99DSQcAs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/944/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - fastapi
+builders:
+  - name: Piyush Bilthariya

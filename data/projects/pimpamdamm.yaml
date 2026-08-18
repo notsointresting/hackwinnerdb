@@ -1,0 +1,27 @@
+id: pimpamdamm
+name: PimPamDamm
+slug: pimpamdamm
+tagline: AI-powered logistics that loads smarter, routes faster, and guides drivers turn by turn —
+  turning every delivery truck into an intelligent, self-optimizing oper
+summary: PimPamDamm received the 1st price - DAMM Challenge award at InterHackBCN in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/meulencv/Interhack_26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/048/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flutter
+  - gemini
+  - javascript
+  - python
+  - react
+  - sql
+builders:
+  - name: Carlos  Nieves Montes
+  - name: Meulén Cirillo Veltri
+  - name: Lucia W
+  - name: Bruno Baró Orús

@@ -1,0 +1,21 @@
+id: seismoarch-iot-model
+name: SeismoArch IoT Model
+slug: seismoarch-iot-model
+tagline: SeismoArch is a building-level IoT system that detects early seismic signals and triggers
+  real-time alerts before destructive shaking occurs.
+summary: SeismoArch IoT Model received the 3rd Prize — Second Runner Up award at AI Autonomous Smart
+  City Hackathon 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/harideep-bethi/SeismoArch-IoT-Model
+demo_url: null
+video_url: https://www.youtube.com/embed/8FUFdlSQY6c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/644/795/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - firebase
+  - flutter
+builders: []

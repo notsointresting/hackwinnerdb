@@ -1,0 +1,14 @@
+id: day-zero
+name: day zero
+slug: day-zero
+organizer: []
+year: 2026
+sources:
+  - https://day-zero.devpost.com/
+  - https://day-zero.devpost.com/project-gallery?filter=winner
+website_url: https://day-zero.devpost.com/
+platform: devpost
+participant_count: 28
+prize_pool: null
+currency: null
+description: "Devpost hackathon: day zero. Imported automatically."

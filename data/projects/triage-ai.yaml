@@ -1,0 +1,22 @@
+id: triage-ai
+name: Triage AI
+slug: triage-ai
+tagline: From intake to resolution, our multi-agent AI triages, risk-scores, compliance-checks, and
+  routes financial complaints autonomously — cutting resolution time fr
+summary: Triage AI received the Best Use of Google Antigravity award at GDSC HackDay  - Build With
+  AI Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ayman-tech/triage-ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/481/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Ayman Sayed
+  - name: Nandan Prince
+  - name: Ray Zhang

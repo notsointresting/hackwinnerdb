@@ -1,0 +1,20 @@
+id: mingle
+name: Mingle
+slug: mingle
+tagline: Everyone has commitments. Mingle brings us together.
+summary: "Mingle received the General Track award at HackHCC: Code Runners in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/NaavyaV/Mingle
+demo_url: null
+video_url: https://www.youtube.com/embed/UIh1x8DpeBc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/697/491/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - mongodb
+  - react-native
+builders:
+  - name: Naavya Vig

@@ -1,0 +1,22 @@
+id: actmap-voice
+name: ActMap Voice
+slug: actmap-voice
+tagline: ActMap Voice routes ElevenLabs agents using LLM activation signals, deciding whether to
+  answer, verify with RAG/tools, or escalate before the user hears an unsa
+summary: ActMap Voice received the humans.tech award at HackRome in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jacopopper/ActMap-Voice
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/975/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - fastapi
+  - python
+builders:
+  - name: Jacopo Dardini

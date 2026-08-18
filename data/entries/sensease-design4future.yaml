@@ -1,0 +1,20 @@
+id: sensease-design4future
+project_id: sensease
+hackathon_id: design4future
+submission_url: https://devpost.com/software/sensease
+source:
+  platform: devpost
+  url: https://devpost.com/software/sensease
+awards:
+  - type: second-place
+    title: Second Place Winner
+  - type: other
+    title: Participation Certificates
+  - type: other
+    title: Stickers
+  - type: category-winner
+    title: Best Use Of Gemini
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

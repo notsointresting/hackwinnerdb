@@ -1,0 +1,27 @@
+id: water-me
+name: Water Me
+slug: water-me
+tagline: Have you ever had plant that has passed away because you forgot to water it? Water Me
+  removes chore of checking your plants by automatically watering them and t
+summary: Water Me received the Best Use of Augmented Reality (AR) award at RevolutionUC 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thaibao06032007-eng/Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/3mFyjivE6do
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/093/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - c-plus-plus
+  - groq
+  - javascript
+  - opencv
+  - python
+  - pytorch
+  - sqlite
+builders:
+  - name: Jacob Weigand
+  - name: DerinA-SarG
+  - name: Thái Bảo Đặng
+  - name: Như Thắng Võ

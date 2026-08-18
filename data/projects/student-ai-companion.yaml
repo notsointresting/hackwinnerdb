@@ -1,0 +1,21 @@
+id: student-ai-companion
+name: Student AI Companion
+slug: student-ai-companion
+tagline: One punchy sentence covering voice AI + gamification for student decision-making.
+summary: Student AI Companion received the Google Swag award at hackUMBC Mini Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/029/756/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - tailwind-css
+builders:
+  - name: Diya Patel
+  - name: Yesha Amin
+  - name: Nikhil Satish Patil

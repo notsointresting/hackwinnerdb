@@ -1,0 +1,14 @@
+id: meridian-socal-claude-builder-club-hackathon
+project_id: meridian
+hackathon_id: socal-claude-builder-club-hackathon
+submission_url: https://devpost.com/software/meridian-tjxf9d
+source:
+  platform: devpost
+  url: https://devpost.com/software/meridian-tjxf9d
+awards:
+  - type: honorable-mention
+    title: "Honorable Mention: Most Impact"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

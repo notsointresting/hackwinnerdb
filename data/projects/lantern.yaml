@@ -1,0 +1,24 @@
+id: lantern
+name: Lantern
+slug: lantern
+tagline: "A language dies every two weeks. Lantern is Duolingo for dying languages: it turns the
+  words a community still remembers into a real course, with AI that never "
+summary: Lantern received the Best Original idea (Three teams) award at Youth Code x AI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/areebhirani-beep/lantern
+demo_url: null
+video_url: https://www.youtube.com/embed/e0FCHNxZHPc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/077/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - groq
+  - mongodb
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Areeb Hirani
+  - name: Siddartha Kodithyala
+  - name: Vinay Pulavarthy

@@ -1,0 +1,14 @@
+id: hilbertshield-quantum-sprint
+project_id: hilbertshield
+hackathon_id: quantum-sprint
+submission_url: https://devpost.com/software/hilbertshield-i21ask
+source:
+  platform: devpost
+  url: https://devpost.com/software/hilbertshield-i21ask
+awards:
+  - type: track-winner
+    title: Theme-Based Track Prizes
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: ai-cyberguard
+name: AI CyberGuard
+slug: ai-cyberguard
+tagline: An intelligent OSINT and AI-powered phishing analyzer that instantly scans, scores, and
+  detects malicious URLs to protect everyday users from cybersecurity thre
+summary: AI CyberGuard received the Books, Mentorship, Internshipt, Became Club member award at
+  Cyber_Coders in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/7_lukwVjUPA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/799/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+technologies:
+  - react
+  - streamlit
+  - typescript
+builders:
+  - name: Senadi Hirupama  Wickramasingha Gunasekara

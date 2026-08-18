@@ -1,0 +1,20 @@
+id: king-of-the-ring-eurekahacks-2026
+project_id: king-of-the-ring
+hackathon_id: eurekahacks-2026
+submission_url: https://devpost.com/software/king-of-the-ring
+source:
+  platform: devpost
+  url: https://devpost.com/software/king-of-the-ring
+awards:
+  - type: other
+    title: Bambu A1 Mini 3D Printer
+  - type: other
+    title: 2026 Gyrocopters Flash 6.0 Electric Scooter
+  - type: other
+    title: DJI Neo Mini Drone
+  - type: other
+    title: Samsung Odyssey G4 Monitor
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

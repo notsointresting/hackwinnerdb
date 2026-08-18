@@ -1,0 +1,24 @@
+id: project-deskpet
+name: Project DeskPet
+slug: project-deskpet
+tagline: AI DeskPet
+summary: "Project DeskPet received the WiC: Failure to Launch award at WiCHacks '26 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/390/205/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - figma
+builders:
+  - name: Dibya Sah
+  - name: Tony Kadaplackal
+  - name: shelley li
+  - name: Dina Lin

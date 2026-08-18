@@ -1,0 +1,23 @@
+id: warehouse-yasolizer
+name: Warehouse Yasolizer
+slug: warehouse-yasolizer
+tagline: Imagine a future where you can optimize the placement of bays in a warehouse in the blink
+  of an eye. Look up at the Claudes in the sky; the future is now.
+summary: Warehouse Yasolizer received the [Mecalux] 3rd place award at HackUPC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Carlos-Prlt/HackUPC_2026.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - c-plus-plus
+  - claude
+builders:
+  - name: Carlos Peralta Solis
+  - name: Marlon
+  - name: Carlos Montes Martín
+  - name: David Liparteliani Nozadze

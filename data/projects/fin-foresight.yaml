@@ -1,0 +1,22 @@
+id: fin-foresight
+name: Fin foresight
+slug: fin-foresight
+tagline: Forward looking asset portfolio optimizer accounting for correlations, using historical
+  price data and Monte Carlo simulations to produce optimized risk-adjuste
+summary: Fin foresight received the Best Project - Fintech Track award at Tufts NSDC Datathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alexbronstein16/hackathon1
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+builders:
+  - name: Alex Bronstein
+  - name: Anshul Khakhar
+  - name: Mason Coleman

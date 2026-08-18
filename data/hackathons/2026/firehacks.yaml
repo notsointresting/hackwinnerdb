@@ -1,0 +1,14 @@
+id: firehacks
+name: Firehacks
+slug: firehacks
+organizer: []
+year: 2026
+sources:
+  - https://firehacks.devpost.com/
+  - https://firehacks.devpost.com/project-gallery?filter=winner
+website_url: https://firehacks.devpost.com/
+platform: devpost
+participant_count: 79
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Firehacks. Imported automatically."

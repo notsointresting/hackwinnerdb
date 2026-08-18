@@ -1,0 +1,25 @@
+id: sakhi
+name: Sakhi
+slug: sakhi
+tagline: A multilingual, NLP-powered health intelligence platform designed to improve healthcare
+  access for women in underserved communities
+summary: Sakhi received the 1st place award at LingHacks VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/deacodes/sakhi
+demo_url: null
+video_url: https://www.youtube.com/embed/VOXDBS6f4NY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/567/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - cloudflare
+  - firebase
+  - javascript
+  - llama
+  - mistral
+builders:
+  - name: DEA B.
+  - name: tanaya rawtani

@@ -1,0 +1,26 @@
+id: negosyonav
+name: NegosyoNav
+slug: negosyonav
+tagline: Negosyo mo, gabay ko
+summary: "NegosyoNav received the Track Winner award at  InnOlympics 2026: To Let Filipinos Dream
+  Without Compromise in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/r-curio/negosyo-nav
+demo_url: null
+video_url: https://www.youtube.com/embed/N5SS0AWWTFw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/607/688/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - firebase
+  - gemini
+  - google-maps
+  - react
+  - typescript
+builders:
+  - name: Mancilla, Nathalia Angela
+  - name: ARBOLADO, CARL V.
+  - name: Paul Dacalan
+  - name: Rodney James Maisog

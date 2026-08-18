@@ -1,0 +1,28 @@
+id: neurostep
+name: NeuroStep
+slug: neurostep
+tagline: A wearable smart sock for individuals living with Parkinson's disease by detecting freezing
+  of gait (FOG) and delivering rhythmic vibration cues to break the fr
+summary: NeuroStep received the Honour Mention (3rd Place) award at JAMHacks 10 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/owen-nn/NeuroStepd
+demo_url: null
+video_url: https://www.youtube.com/embed/yvuLWi1lDrQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/921/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+  - mongodb
+  - python
+  - react-native
+  - tensorflow
+  - typescript
+builders:
+  - name: Aydan Ling
+  - name: Victoria Y
+  - name: Owen Yin

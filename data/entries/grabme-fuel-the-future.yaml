@@ -1,0 +1,14 @@
+id: grabme-fuel-the-future
+project_id: grabme
+hackathon_id: fuel-the-future
+submission_url: https://devpost.com/software/grabme
+source:
+  platform: devpost
+  url: https://devpost.com/software/grabme
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

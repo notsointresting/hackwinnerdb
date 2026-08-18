@@ -1,0 +1,14 @@
+id: cyberby-akt-cyber-coders
+project_id: cyberby-akt
+hackathon_id: cyber-coders
+submission_url: https://devpost.com/software/cyberby_akt
+source:
+  platform: devpost
+  url: https://devpost.com/software/cyberby_akt
+awards:
+  - type: first-place
+    title: 1st
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

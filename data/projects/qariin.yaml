@@ -1,0 +1,23 @@
+id: qariin
+name: Qariin
+slug: qariin
+tagline: When disasters hit, neighbors don't know who needs help or who can give it. Qariin matches
+  households to volunteers in real time, before 911 gets overwhelmed.
+summary: Qariin received the Disaster Track award at Rutgers MTC Code for Impact Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/YahyaHasan/Qariin
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/985/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Aayan Fazal
+  - name: Ibrahim Khan
+  - name: Yahya Hasan

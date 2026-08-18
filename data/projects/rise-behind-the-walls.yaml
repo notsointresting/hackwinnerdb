@@ -1,0 +1,19 @@
+id: rise-behind-the-walls
+name: Rise Behind the Walls
+slug: rise-behind-the-walls
+tagline: Rise before the breach.
+summary: Rise Behind the Walls received the [MLH] Best Use of MongoDB Atlas || M5GO IoT Starter Kit
+  award at HackKU26 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Shimrah15/Rise-Behind-the-Walls
+demo_url: null
+video_url: https://www.youtube.com/embed/gwjMDiXd2wo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/990/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - python
+builders:
+  - name: "- Shimrah"

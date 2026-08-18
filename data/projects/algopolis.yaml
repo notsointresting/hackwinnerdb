@@ -1,0 +1,22 @@
+id: algopolis
+name: AlgoPolis
+slug: algopolis
+tagline: A living city simulation where AI citizens react, adapt, and evolve in real time.
+summary: AlgoPolis received the Best Solo Hack award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/YakshithK/polis
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/907/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - docker
+  - fastapi
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Yakshith Kommineni

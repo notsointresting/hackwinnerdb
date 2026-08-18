@@ -1,0 +1,16 @@
+id: biascheck-birminghack-2-0
+project_id: biascheck
+hackathon_id: birminghack-2-0
+submission_url: https://devpost.com/software/biascheck
+source:
+  platform: devpost
+  url: https://devpost.com/software/biascheck
+awards:
+  - type: other
+    title: "[AlgoSoc] - AI for tackling misinformation"
+  - type: other
+    title: "[AFNOM] - Capture the Flag"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

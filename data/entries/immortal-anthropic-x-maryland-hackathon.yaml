@@ -1,0 +1,14 @@
+id: immortal-anthropic-x-maryland-hackathon
+project_id: immortal
+hackathon_id: anthropic-x-maryland-hackathon
+submission_url: https://devpost.com/software/immortal-nzbtml
+source:
+  platform: devpost
+  url: https://devpost.com/software/immortal-nzbtml
+awards:
+  - type: other
+    title: API Credits + Cash
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

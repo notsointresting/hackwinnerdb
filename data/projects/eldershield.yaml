@@ -1,0 +1,26 @@
+id: eldershield
+name: ElderShield
+slug: eldershield
+tagline: "ElderShield autonomously monitors your family's inbox, opens every suspicious link in a
+  real browser, and stops scams before they cause harm. No manual review, "
+summary: ElderShield received the Best Use of Akash award at Ship to Prod - Agentic Engineering
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/lopkiloinm/eldershield
+demo_url: null
+video_url: https://www.youtube.com/embed/QRk9IEOSzvM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/019/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - docker
+  - postgresql
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: lopkiloinm Liu

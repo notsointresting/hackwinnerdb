@@ -1,0 +1,19 @@
+id: fishing-frenzy
+name: Fishing Frenzy
+slug: fishing-frenzy
+tagline: Environmental Education
+summary: Fishing Frenzy received the Best Project by Women in STEM award at MasseyHacks XII in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - climate
+technologies:
+  - python
+builders:
+  - name: Sumaira Ahmed
+  - name: Shawn Wang

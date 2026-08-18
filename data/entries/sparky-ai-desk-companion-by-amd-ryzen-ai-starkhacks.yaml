@@ -1,0 +1,14 @@
+id: sparky-ai-desk-companion-by-amd-ryzen-ai-starkhacks
+project_id: sparky-ai-desk-companion-by-amd-ryzen-ai
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/sparky-ai-desk-companion-by-amd-ryzen-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/sparky-ai-desk-companion-by-amd-ryzen-ai
+awards:
+  - type: category-winner
+    title: Best Use of AMD Tech
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

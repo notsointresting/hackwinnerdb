@@ -1,0 +1,22 @@
+id: tranccfer
+name: TranCCfer
+slug: tranccfer
+tagline: TranCCfer helps SMCCCD students plan smarter across CSM, Skyline, and Cañada by combining
+  transfer requirement tracking, course comparison, and schedule plannin
+summary: "TranCCfer received the Improving SMCCD Track: 2nd place: $50 Amazon Gift card (per team
+  member) award at SMCCD 2026 Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/C6H12O60322/TranCCfer
+demo_url: null
+video_url: https://www.youtube.com/embed/KhFzrrD4vm4
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Hao-Hsiang Hung
+  - name: Jennifer Wang

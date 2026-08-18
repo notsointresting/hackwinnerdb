@@ -1,0 +1,21 @@
+id: renovateiq
+name: RenovateIQ
+slug: renovateiq
+tagline: RenovateIQ — See the upgrade. Know the cost. Predict the value.
+summary: RenovateIQ received the Best use of Airia award at Self Improving Agents Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/c3XyWPGHUQE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/348/274/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Ayushi Bhujade
+  - name: Rahul Raghatate

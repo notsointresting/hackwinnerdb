@@ -1,0 +1,20 @@
+id: cashpilot
+name: CashPilot
+slug: cashpilot
+tagline: "CashPilot fills this gap with a free, bilingual (EN/FR), AI-powered budgeting app that
+  understands student life: shared apartments, tight budgets, part-time inc"
+summary: CashPilot received the AI WORKSHOP TICKET award at Product Management Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chillycoco36/lum_product_devlopment
+demo_url: null
+video_url: https://www.youtube.com/embed/BkMYvPn-6mc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/445/237/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Wadih Bou Jaoude
+  - name: Chris Kassab

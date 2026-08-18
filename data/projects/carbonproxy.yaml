@@ -1,0 +1,26 @@
+id: carbonproxy
+name: CarbonProxy
+slug: carbonproxy
+tagline: Make your AI 8x greener, without touching a single line of your model code.
+summary: "CarbonProxy received the Best Virtual Submission award at HackDuke: Code For Good 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/octomaanav/CarbonProxy.git
+demo_url: null
+video_url: https://www.youtube.com/embed/UO_o6Vx3h2o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/480/855/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - climate
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Manav Sharma
+  - name: SUJAL BHAKARE
+  - name: Abhi Ramtel

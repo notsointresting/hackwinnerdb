@@ -1,0 +1,22 @@
+id: chrono-ai
+name: Chrono AI
+slug: chrono-ai
+tagline: Chrono AI automatically converts your tasks, notes, and deadlines into scheduled events in
+  your existing calendar—working like a $100K executive assistant, with
+summary: Chrono AI received the Bronze award at USC | Build with Trae and MiniMax  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/039/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Eric Li
+  - name: Kay Z
+  - name: David Ding

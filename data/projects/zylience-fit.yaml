@@ -1,0 +1,24 @@
+id: zylience-fit
+name: Zylience Fit
+slug: zylience-fit
+tagline: Zylience Fit uses AI to transform raw data from any wearable into deeply personalized
+  health coaching. Our empathetic AI, Zyla, analyzes 30-day trends to provid
+summary: Zylience Fit received the Top 10 winners each receive a free .xyz domain — launch your
+  project with a real web presence! (valued at $150) award at Hyperbloom V2 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/HHQXrY8BQKU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/236/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - firebase
+  - gemini
+  - kotlin
+  - vertex-ai
+builders:
+  - name: Sairaj Patil

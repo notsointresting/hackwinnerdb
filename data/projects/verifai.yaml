@@ -1,0 +1,23 @@
+id: verifai
+name: VerifAi
+slug: verifai
+tagline: "VerifAI: Trust-First Attendance Intelligence — AI face + blink verification, real-time
+  alerts, and analytics-driven academic safety in one platform."
+summary: VerifAi received the First Place award at AI Buildathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nomansofi/verifai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/625/799/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - tailwind-css
+builders:
+  - name: Noman Hassan Sofi
+  - name: Syed Hanan Hameed
+  - name: Muffakir Ibn Hamid

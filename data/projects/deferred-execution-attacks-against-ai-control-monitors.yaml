@@ -1,0 +1,22 @@
+id: deferred-execution-attacks-against-ai-control-monitors
+name: Deferred-Execution Attacks Against AI Control Monitors
+slug: deferred-execution-attacks-against-ai-control-monitors
+tagline: Catching AI sabotage that fires after the monitor stops watching.
+summary: Deferred-Execution Attacks Against AI Control Monitors received the AI Safety (XLab) award
+  at Uncommon Hacks 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - anthropic
+  - docker
+  - python
+builders:
+  - name: William Guo

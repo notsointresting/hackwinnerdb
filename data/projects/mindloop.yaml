@@ -1,0 +1,30 @@
+id: mindloop
+name: mindloop
+slug: mindloop
+tagline: Students don't fail from lack of knowledge; They fail due to a lack of direction. MindLoop
+  uses AI to guide them from learning to earning.
+summary: mindloop received the 2nd Place — Runner Up award at Build for Impact — CBC Hackathon @
+  UR-CST in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Sam20dot/mindloop/blob/main/QUICK_REFERENCE.md
+demo_url: null
+video_url: https://www.youtube.com/embed/XvzOsF9WKgo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/595/744/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - django
+  - postgresql
+  - python
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Dieudonne Nyakayiro
+  - name: NIZAWE AIME SAM PRAY
+  - name: IGABUKWISHAKA Dieu Merci
+  - name: gilbertniyomukiza

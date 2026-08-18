@@ -1,0 +1,18 @@
+id: weather-report-blasterhacks-2026
+project_id: weather-report
+hackathon_id: blasterhacks-2026
+submission_url: https://devpost.com/software/weather-report-2aew5f
+source:
+  platform: devpost
+  url: https://devpost.com/software/weather-report-2aew5f
+awards:
+  - type: second-place
+    title: Game Jam 2nd place
+  - type: other
+    title: "Raffle: Corsair mechanical keyboard"
+  - type: other
+    title: "Raffle: Cotopaxi fanny pack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

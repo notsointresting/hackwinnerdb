@@ -1,0 +1,14 @@
+id: asic-rayforge-uoft-asic-team-ic-hackathon
+project_id: asic-rayforge
+hackathon_id: uoft-asic-team-ic-hackathon
+submission_url: https://devpost.com/software/asic-rayforge
+source:
+  platform: devpost
+  url: https://devpost.com/software/asic-rayforge
+awards:
+  - type: other
+    title: Honourable Mention - ASIC
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: poliswipe
+name: PoliSwipe
+slug: poliswipe
+tagline: PoliSwipe turns civic engagement into a swipe, swipe right on a local bill, Claude tells
+  you more and draft responses.
+summary: PoliSwipe received the API Credits + Cash award at Anthropic x Maryland Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HackedRico/PoliSwipe
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/603/185/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - claude
+  - fastapi
+  - react-native
+builders:
+  - name: Ricky Chen
+  - name: Nimi O
+  - name: Emmanuel Adedeji
+  - name: Prince Aguguo

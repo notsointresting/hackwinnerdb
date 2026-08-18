@@ -1,0 +1,22 @@
+id: sublet-goose
+name: Sublet Goose
+slug: sublet-goose
+tagline: An AI-powered legal advocate that audits Ontario sublet leases to detect illegal clauses
+  and generate immediate negotiation scripts, specifically for University
+summary: Sublet Goose received the Claude Merch award at Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shan-d-louis/sublet-goose
+demo_url: null
+video_url: https://www.youtube.com/embed/dISOjPJGqBU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/587/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - claude
+  - fastapi
+  - python
+builders:
+  - name: Shan Diamond Louis

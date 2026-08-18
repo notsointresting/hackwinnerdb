@@ -1,0 +1,21 @@
+id: solar-labs-ltd
+name: Solar Labs Ltd.
+slug: solar-labs-ltd
+tagline: Satellite imaging solution for urban energy infrastructure
+summary: Solar Labs Ltd. received the Energy / Power Stream - 3rd award at Hacked 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/don-vu/Solar-Labs-LTD
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/350/129/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+  - infrastructure
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Don Vu
+  - name: Min Kim

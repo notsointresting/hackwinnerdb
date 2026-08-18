@@ -1,0 +1,25 @@
+id: inferopt
+name: inferOpt
+slug: inferopt
+tagline: 75% fewer tokens. Same answers. Longer conversations.
+summary: inferOpt received the [GenAI Genesis] TOP 10 Team - Finalists (In-Person Only) award
+  at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/cogniera/InfraOpt.git
+demo_url: null
+video_url: https://www.youtube.com/embed/g7SD_MkhJGA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/444/166/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - javascript
+  - python
+  - react
+  - redis
+builders:
+  - name: Farid Jamshid
+  - name: Paarth Sharma
+  - name: Noah Robertson

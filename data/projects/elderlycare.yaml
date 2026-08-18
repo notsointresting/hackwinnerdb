@@ -1,0 +1,19 @@
+id: elderlycare
+name: Elderlycare
+slug: elderlycare
+tagline: "All-in-one elderly care: Secure health records with timestamps for seamless insurance
+  claims and hospital visits. Features AI nutrition, video recipes, and supp"
+summary: Elderlycare received the InnoSpark 2026 Champion award at InnoSpark 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kalamkaar9404/Elder.git
+demo_url: null
+video_url: https://www.youtube.com/embed/E6rFd7nN6Rg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/544/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Khushi Singh

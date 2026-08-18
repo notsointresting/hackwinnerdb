@@ -1,0 +1,21 @@
+id: lumino
+name: Lumino
+slug: lumino
+tagline: "Lumino is the Universal Visual Interface. Powered by Gemini 3.0, it’s AI Automation that
+  sees, thinks, and types. If it’s on your screen, it’s scriptable. Your "
+summary: Lumino received the Best Use Of Gemini API award at Connect N Code with Gemini in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/charusui/Lumino_Git
+demo_url: null
+video_url: https://www.youtube.com/embed/EXp_nE2nAHI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/368/017/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - rust
+  - typescript
+builders: []

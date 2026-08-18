@@ -1,0 +1,14 @@
+id: global-tech-innovation-challenge
+name: Global Tech Innovation Challenge
+slug: global-tech-innovation-challenge
+organizer: []
+year: 2026
+sources:
+  - https://global-tech-challenge.devpost.com/
+  - https://global-tech-challenge.devpost.com/project-gallery?filter=winner
+website_url: https://global-tech-challenge.devpost.com/
+platform: devpost
+participant_count: 210
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Global Tech Innovation Challenge. Imported automatically."

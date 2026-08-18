@@ -1,0 +1,24 @@
+id: euler-s-vision
+name: Euler's Vision
+slug: euler-s-vision
+tagline: Making math more accessible for the blind and visually impaired by converting visual graphs
+  to audio.
+summary: Euler's Vision received the Accessibility Prize award at Stevens QuackHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/emicscs/quack-hacks26
+demo_url: null
+video_url: https://www.youtube.com/embed/Ou8iBZK9Bos
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/328/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: evansu200 Su
+  - name: esther-h-li Li
+  - name: Emilio Cardillo-Schrader
+  - name: Cristiano Pinto

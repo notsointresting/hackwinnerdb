@@ -1,0 +1,27 @@
+id: rxrefactor
+name: RxRefactor
+slug: rxrefactor
+tagline: Right now, tracking payer policies means spreadsheets and a prayer. RxRefactor changes
+  that; instant answers on coverage, prior auth, and policy changes. Second
+summary: "RxRefactor received the Anton RX: Medical Benefit Drug Policy ... Track award at
+  Innovation Hacks 2.0 - 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/RushadW/FourBytes-RxRefactor/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/wWkbw03Emrw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/732/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+  - fastapi
+  - react
+  - sqlite
+builders:
+  - name: Hemakshi Pandey
+  - name: Rushad Gaeve Wankadia
+  - name: Aditya Kumar
+  - name: Akash Manilal Agarwal

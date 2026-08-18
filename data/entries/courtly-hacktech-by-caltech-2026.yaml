@@ -1,0 +1,14 @@
+id: courtly-hacktech-by-caltech-2026
+project_id: courtly
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/courtly
+source:
+  platform: devpost
+  url: https://devpost.com/software/courtly
+awards:
+  - type: other
+    title: Sideshift x HackTech - Cash Prize + Interview
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

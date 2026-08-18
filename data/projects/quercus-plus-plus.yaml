@@ -1,0 +1,20 @@
+id: quercus-plus-plus
+name: Quercus++
+slug: quercus-plus-plus
+tagline: The better Quercus with your academic life at-a-glance.
+summary: Quercus++ received the 1st Overall award at Hack The Student Life 2026  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RandomPerJerry/AWS-Hackathon-Repo
+demo_url: null
+video_url: https://www.youtube.com/embed/1rFavSCVZSI
+image_url: null
+categories:
+  - education
+  - creative-tools
+technologies:
+  - react
+builders:
+  - name: Anson Li
+  - name: TheUnicat He
+  - name: Jerry Zhang

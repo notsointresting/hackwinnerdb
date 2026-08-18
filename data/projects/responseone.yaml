@@ -1,0 +1,24 @@
+id: responseone
+name: ResponseOne
+slug: responseone
+tagline: Respond to incidents before they’re reported. Real-time AI analysis of public footage
+  enables immediate detection and faster, informed response.
+summary: ResponseOne received the [MLH] Best Use of Gemini API award at HackUSF 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/coskyler/response-one
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/905/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - mongodb
+  - nextjs
+  - python
+  - typescript
+builders:
+  - name: Skyler Quinby

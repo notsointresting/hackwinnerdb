@@ -1,0 +1,25 @@
+id: karatsuba-finsage
+name: KaratSuba-FinSage
+slug: karatsuba-finsage
+tagline: FinSage is your AI finance copilot transforming budgeting, spending, investing, and career
+  growth into one intelligent, personalized experience built for the ne
+summary: KaratSuba-FinSage received the Internship Opportunities award at SUMMER HACKATHON 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Codemakerom/Finsage
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/708/439/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - groq
+  - tailwind-css
+  - twilio
+  - vercel
+builders:
+  - name: Omkar Patil
+  - name: Rahul Kewat
+  - name: Rahul Senapati

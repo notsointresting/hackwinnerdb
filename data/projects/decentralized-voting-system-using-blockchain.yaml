@@ -1,0 +1,25 @@
+id: decentralized-voting-system-using-blockchain
+name: Decentralized Voting System using Blockchain
+slug: decentralized-voting-system-using-blockchain
+tagline: Revolutionizing elections with secure, transparent, and trustless digital voting. Secure,
+  transparent, and tamper-proof voting powered by blockchain.
+summary: Decentralized Voting System using Blockchain received the Second Runner-Up award at Hack
+  Days NIET in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sanskaarguptaa/Decentralized-Voting-System-using-BLOCKCHAIN
+demo_url: null
+video_url: https://www.youtube.com/embed/zKkozvq29mc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/519/505/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - javascript
+  - solidity
+builders:
+  - name: Sanskar Gupta
+  - name: Megha Chauhan
+  - name: Sakshi Rawal
+  - name: Akanshu Chauhan

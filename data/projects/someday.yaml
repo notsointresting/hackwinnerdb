@@ -1,0 +1,21 @@
+id: someday
+name: SOMEDAY
+slug: someday
+tagline: A museum for unfinished work. Dump your abandoned project, get an AI exhibit card, browse
+  by wing, and let others request to continue it via chat.
+summary: "SOMEDAY received the Product Bundle by Mind the Product award at Mind the Product presents
+  World Product Day: Everyone Ships Now in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/ogawde/someday
+demo_url: null
+video_url: https://www.youtube.com/embed/Q8P2WL3dq-A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/789/955/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Curry Coder

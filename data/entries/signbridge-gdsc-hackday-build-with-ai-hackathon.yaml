@@ -1,0 +1,14 @@
+id: signbridge-gdsc-hackday-build-with-ai-hackathon
+project_id: signbridge
+hackathon_id: gdsc-hackday-build-with-ai-hackathon
+submission_url: https://devpost.com/software/signbridge-347bkr
+source:
+  platform: devpost
+  url: https://devpost.com/software/signbridge-347bkr
+awards:
+  - type: category-winner
+    title: Best App for Social Good - Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

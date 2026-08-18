@@ -1,0 +1,22 @@
+id: spotr
+name: spotr.
+slug: spotr
+tagline: AI gym spotter
+summary: spotr. received the Marketing Challenge award at cuHacking7 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - raspberry-pi
+builders:
+  - name: Vish Raj
+  - name: Kaden Pang
+  - name: Hakeem Kashif
+  - name: Arham Siddiqi

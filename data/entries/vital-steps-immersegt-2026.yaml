@@ -1,0 +1,14 @@
+id: vital-steps-immersegt-2026
+project_id: vital-steps
+hackathon_id: immersegt-2026
+submission_url: https://devpost.com/software/vital-steps
+source:
+  platform: devpost
+  url: https://devpost.com/software/vital-steps
+awards:
+  - type: third-place
+    title: Snap AR 3rd Place Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

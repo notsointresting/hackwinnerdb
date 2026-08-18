@@ -1,0 +1,22 @@
+id: nexus-protocol
+name: Nexus Protocol
+slug: nexus-protocol
+tagline: A zero-latency M2M communication protocol for AI Agent Swarms. It uses semantic vector
+  caching to bypass standard LLM inference, delivering deterministic JSON p
+summary: Nexus Protocol received the Top 100 Finalist Award award at Moonshot Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Saurav-Gupta-9741/Nexus-Protocol
+demo_url: null
+video_url: https://www.youtube.com/embed/PWL7XtMKuCM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/864/266/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - groq
+  - python
+  - react
+builders:
+  - name: Saurav Gupta (M25CSE029)

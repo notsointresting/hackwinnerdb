@@ -1,0 +1,27 @@
+id: vaccineos
+name: VaccineOS
+slug: vaccineos
+tagline: Upload a patient's VCF + HLA alleles, and our pipeline auto-designs a personalized cancer
+  vaccine. Built on Next.js and Supabase.
+summary: "VaccineOS received the Runner Up: Health Track award at HackDuke: Code For Good 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/joshbreard/MRNA-Vaccine
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/652/datas/gallery.jpg
+categories:
+  - social-impact
+  - creative-tools
+technologies:
+  - claude
+  - postgresql
+  - python
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Josh Breard
+  - name: Vicky Cai
+  - name: Darnell Clarke
+  - name: Jedric Aniciete

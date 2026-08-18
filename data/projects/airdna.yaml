@@ -1,0 +1,21 @@
+id: airdna
+name: airDNA
+slug: airdna
+tagline: Turning air quality into personalized health intelligence.
+summary: "airDNA received the Prizes Based on Themes award at Hackathon New Delhi: Build AI Agents
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - react
+  - typescript
+builders:
+  - name: Aditya Kumar

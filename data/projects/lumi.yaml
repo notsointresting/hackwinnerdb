@@ -1,0 +1,25 @@
+id: lumi
+name: LUMI
+slug: lumi
+tagline: Emotional translation for neurodivergents with alexithymia. Both ways.
+summary: LUMI received the Best Use of Auth0 AI Agents award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adamFabsa/LUMI
+demo_url: null
+video_url: https://www.youtube.com/embed/cJBakseO7wY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/337/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Adrian Aheyeu
+  - name: Adam  Absa
+  - name: Abdul rahman Jaffal

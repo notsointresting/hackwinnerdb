@@ -1,0 +1,14 @@
+id: bloomknights
+name: BloomKnights
+slug: bloomknights
+organizer: []
+year: 2026
+sources:
+  - https://bloomknights.devpost.com/
+  - https://bloomknights.devpost.com/project-gallery?filter=winner
+website_url: https://bloomknights.devpost.com/
+platform: devpost
+participant_count: 247
+prize_pool: 4328
+currency: USD
+description: "Devpost hackathon: BloomKnights. Imported automatically."

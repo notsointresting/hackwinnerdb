@@ -1,0 +1,24 @@
+id: fire-shield
+name: Fire shield
+slug: fire-shield
+tagline: Fire Shield is a real-time firefighter safety platform that helps incident commanders
+  reduce exposure to hazardous conditions and operational risks.
+summary: Fire shield received the First Place award at Health in Climate London Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/charleneleong-ai/smart-city-foundation-model
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/800/977/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+  - python
+builders:
+  - name: Mohammed Fahmy
+  - name: Ismail Nabeel
+  - name: Julia Whitney
+  - name: Charlene Leong

@@ -1,0 +1,14 @@
+id: hack-arizona-hackday
+name: "Hack Arizona HackDay "
+slug: hack-arizona-hackday
+organizer: []
+year: 2026
+sources:
+  - https://hack-arizona-hackday.devpost.com/
+  - https://hack-arizona-hackday.devpost.com/project-gallery?filter=winner
+website_url: https://hack-arizona-hackday.devpost.com/
+platform: devpost
+participant_count: 56
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Arizona HackDay . Imported automatically."

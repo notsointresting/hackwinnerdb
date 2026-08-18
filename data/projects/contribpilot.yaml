@@ -1,0 +1,23 @@
+id: contribpilot
+name: ContribPilot
+slug: contribpilot
+tagline: Finding an open source issue is easy. Contributing successfully is hard. ContribPilot
+  bridges that gap with personalized guidance powered by Gemini and GitLab M
+summary: ContribPilot received the GitLab - 3rd Place award at Google Cloud Rapid Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NiloySaha84/ContribPilot_Google_Rapid_Agent_Hackathon_Proj
+demo_url: null
+video_url: https://www.youtube.com/embed/c91PvdeshRs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/760/643/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - google-cloud
+  - python
+  - react
+builders:
+  - name: Niloy Saha

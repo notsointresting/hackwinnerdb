@@ -1,0 +1,14 @@
+id: sis-pro-max-enterprise-hackrpi2026-worst-ui-competition
+project_id: sis-pro-max-enterprise
+hackathon_id: hackrpi2026-worst-ui-competition
+submission_url: https://devpost.com/software/sis-pro-max-enterprise
+source:
+  platform: devpost
+  url: https://devpost.com/software/sis-pro-max-enterprise
+awards:
+  - type: other
+    title: The Worst UI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

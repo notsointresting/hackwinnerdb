@@ -1,0 +1,21 @@
+id: residue
+name: Residue
+slug: residue
+tagline: Find how you focus, meet your ideal study partner
+summary: "Residue received the Track: Agentverse - Search & Discovery of Agents award at LA Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/MaanPatel2005/Residue
+demo_url: null
+video_url: https://www.youtube.com/embed/dgqo7zdmHD0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/615/653/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - react
+builders:
+  - name: Jonathan Pan
+  - name: Ashley Zhou
+  - name: Vyom Shah
+  - name: Maan Viral Patel

@@ -1,0 +1,14 @@
+id: anvaya-design-a-thon
+project_id: anvaya
+hackathon_id: design-a-thon
+submission_url: https://devpost.com/software/anvaya
+source:
+  platform: devpost
+  url: https://devpost.com/software/anvaya
+awards:
+  - type: other
+    title: Smiski Blind Boxes
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

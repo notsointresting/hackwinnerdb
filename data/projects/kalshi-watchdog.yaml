@@ -1,0 +1,21 @@
+id: kalshi-watchdog
+name: Kalshi Watchdog
+slug: kalshi-watchdog
+tagline: Kalshi Watchdog detects insider trading on prediction markets using three anomaly detection
+  algorithms and Claude AI — fully serverless across 12 AWS services.
+summary: Kalshi Watchdog received the 1st Place AWS Track award at ECU Spark in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/StuartCohen22/KalshiWatchdog
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/473/804/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies:
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Stuart Cohen

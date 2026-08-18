@@ -1,0 +1,26 @@
+id: sidride
+name: SIDride
+slug: sidride
+tagline: SIDride is a student carpooling app that connects people traveling in the same direction.
+  By matching rides, it reduces carbon emissions and helps students in n
+summary: SIDride received the Hell's Kitchen Track award at Grizzhacks 8 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/291/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - fastapi
+  - python
+  - react
+  - sql
+  - sqlite
+builders:
+  - name: Izabela Camaj
+  - name: Danielle Pagano
+  - name: Sayman Zaya

@@ -1,0 +1,22 @@
+id: motherduckers
+name: Motherduckers
+slug: motherduckers
+tagline: "Imagine you are a native duck in your pond-home, when all of a sudden... A GOOSE attacks.
+  It encroaches onto your territory unwarranted. It is your solemn duty "
+summary: Motherduckers received the Harnold's Dubious Delight - Funniest ($151 value) award at Hack
+  Hack Goose in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/tarpat/hackhackgoose
+demo_url: null
+video_url: https://www.youtube.com/embed/4IXYLiIvLEE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/671/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - javascript
+  - python
+builders:
+  - name: Tarun Patanjali
+  - name: Abhishek Shrestha

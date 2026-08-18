@@ -1,0 +1,14 @@
+id: neurosign-gdgc-x-aic-tech-projects
+project_id: neurosign
+hackathon_id: gdgc-x-aic-tech-projects
+submission_url: https://devpost.com/software/neurosign
+source:
+  platform: devpost
+  url: https://devpost.com/software/neurosign
+awards:
+  - type: other
+    title: 3D Pens
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

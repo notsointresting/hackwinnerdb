@@ -1,0 +1,26 @@
+id: lunalysis
+name: Lunalysis
+slug: lunalysis
+tagline: Lunalysis is an agentic tool that takes your project abstract and related literature,
+  automatically builds context around your data using online sources, and le
+summary: Lunalysis received the [MLH] Best Use of Gemini API award at WEHack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shortcow36/WEHack26
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - flask
+  - gemini
+  - langchain
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Lilian Zeng
+  - name: Laura Tatar
+  - name: Srinitya Chirravuri
+  - name: Eshita Punuganti

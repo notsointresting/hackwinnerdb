@@ -1,0 +1,22 @@
+id: aegis-hindi-consent-companion
+name: Aegis Hindi Consent Companion
+slug: aegis-hindi-consent-companion
+tagline: "**India's AI-generated perioperative informed consent in Hindi — patient-specific,
+  clinically grounded, and built for the real communication gap in Indian surgi"
+summary: Aegis Hindi Consent Companion received the Honorable Mentions award at Agents Assemble -
+  The Healthcare AI Endgame in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/HNkhVd1zTGc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/660/165/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - python
+builders:
+  - name: Bhavna Gupta

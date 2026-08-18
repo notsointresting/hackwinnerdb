@@ -1,0 +1,23 @@
+id: nexus
+name: Nexus
+slug: nexus
+tagline: A safe place to practice, be yourself, and be understood.
+summary: "Nexus received the Track Winner: AI for Connection & Wellbeing award at IncludAI - The
+  Neurodiversity Hackathon, in Partnership with Stanford NNEA in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/michaelcraft17/nexus-scenario-practice
+demo_url: null
+video_url: https://www.youtube.com/embed/eD2PjC-SJZg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/071/369/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - javascript
+  - react
+  - vercel
+  - webrtc
+builders:
+  - name: michaelcraft17 Chang

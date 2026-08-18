@@ -1,0 +1,24 @@
+id: guardian-agent-breaker-gab
+name: Guardian Agent Breaker (GAB)
+slug: guardian-agent-breaker-gab
+tagline: "GAB is a zero-trust circuit breaker for AI agents. It intercepts intent and blocks risky
+  actions before they hit production. Deterministic safety that turns AI "
+summary: Guardian Agent Breaker (GAB) received the Most Innovative Use of Chainguard Images award at
+  Ship to Prod - Agentic Engineering Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tgejason/guardian-agent-breaker
+demo_url: null
+video_url: https://www.youtube.com/embed/cDegJsjSwvY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/178/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - docker
+  - javascript
+  - redis
+  - sql
+builders:
+  - name: Jason Menjivar

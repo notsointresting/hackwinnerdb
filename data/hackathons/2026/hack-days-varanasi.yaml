@@ -1,0 +1,14 @@
+id: hack-days-varanasi
+name: Hack Days Varanasi
+slug: hack-days-varanasi
+organizer: []
+year: 2026
+sources:
+  - https://hack-days-varanasi.devpost.com/
+  - https://hack-days-varanasi.devpost.com/project-gallery?filter=winner
+website_url: https://hack-days-varanasi.devpost.com/
+platform: devpost
+participant_count: 92
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Days Varanasi. Imported automatically."

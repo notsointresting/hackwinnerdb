@@ -1,0 +1,14 @@
+id: aura-ai-your-intelligent-task-co-pilot-kindly-labs-weekly-hackathon
+project_id: aura-ai-your-intelligent-task-co-pilot
+hackathon_id: kindly-labs-weekly-hackathon
+submission_url: https://devpost.com/software/aura-ai-your-intelligent-task-co-pilot-szufln
+source:
+  platform: devpost
+  url: https://devpost.com/software/aura-ai-your-intelligent-task-co-pilot-szufln
+awards:
+  - type: second-place
+    title: 2nd place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

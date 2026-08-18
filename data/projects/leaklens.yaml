@@ -1,0 +1,23 @@
+id: leaklens
+name: LeakLens
+slug: leaklens
+tagline: Find secrets before they find a way out.
+summary: LeakLens received the Golden Project (1st Place) award at MIT BWSI Cyber Operations Cohort
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/sraaga2020/leaklens
+demo_url: null
+video_url: https://www.youtube.com/embed/qwLcvhwHmcM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/029/449/datas/medium.png
+categories:
+  - cybersecurity
+  - infrastructure
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Sahana N
+  - name: Sally Yu
+  - name: Nishka Batra
+  - name: Anishka Sanghvi

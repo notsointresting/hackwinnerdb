@@ -1,0 +1,23 @@
+id: quiz-stream
+name: Quiz Stream
+slug: quiz-stream
+tagline: Quiz Stream uses Twelve Labs and Google Gemini to analyze lectures, turning passive
+  watching into active learning with personalized, difficulty-adjusted quizzes
+summary: Quiz Stream received the Best Beginner Hack award at DiamondHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ahmonemb/QuizStream
+demo_url: null
+video_url: https://www.youtube.com/embed/Z2XudKjpyqM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/309/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: Aaron T06
+  - name: Jacky Yu
+  - name: Ahmon Embaye
+  - name: Matthew Recinto

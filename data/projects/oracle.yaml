@@ -1,0 +1,21 @@
+id: oracle
+name: Oracle
+slug: oracle
+tagline: "A prediction market where you don't trade alone. Oracle gives you three AI analysts, each
+  with a distinct philosophy, a track record, and a voice. You pick who "
+summary: Oracle received the Creative Content Award award at Build with MeDo Hackathon  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/CQETLa7wIkE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/706/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: David Olabowale Adeolu

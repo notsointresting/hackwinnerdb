@@ -1,0 +1,22 @@
+id: greenwave
+name: GreenWave
+slug: greenwave
+tagline: A fair A/B traffic simulation comparing fixed timers vs. MaxPressure AI in 3D. Same
+  demand,seeded RNG,interactive disruptions,weather, heatmap,insights. Proof t
+summary: GreenWave received the 2nd Grand Award - Frontier Technology Award award at Moonshot
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/rohanjain1648/GreenWave
+demo_url: null
+video_url: https://www.youtube.com/embed/ZGC8CM52y1k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/831/746/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - react
+builders:
+  - name: ROHAN JAIN

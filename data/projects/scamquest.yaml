@@ -1,0 +1,23 @@
+id: scamquest
+name: ScamQuest
+slug: scamquest
+tagline: A game that trains you to recognize scams by experiencing them.
+summary: "ScamQuest received the Main Track: Entertainment award at Hack Brooklyn in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/lockedinlulu/scamquest1
+demo_url: null
+video_url: https://www.youtube.com/embed/etVwvc5_BTE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - claude
+  - elevenlabs
+  - firebase
+  - javascript
+builders:
+  - name: Hala Elhanafy
+  - name: yunastras

@@ -1,0 +1,14 @@
+id: nestmate-off-campus-housing-campusai-x-mdc-ai-data-hackathon
+project_id: nestmate-off-campus-housing
+hackathon_id: campusai-x-mdc-ai-data-hackathon
+submission_url: https://devpost.com/software/asdf-khc652
+source:
+  platform: devpost
+  url: https://devpost.com/software/asdf-khc652
+awards:
+  - type: winner
+    title: Hackathon Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

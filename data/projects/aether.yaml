@@ -1,0 +1,25 @@
+id: aether
+name: Aether
+slug: aether
+tagline: Contactless biometry from WIFI signals
+summary: Aether received the 1st place overall award at GDG Hacks 3 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/qo/aether
+demo_url: null
+video_url: https://www.youtube.com/embed/WXZjRG8BDG4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/714/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - esp32
+  - fastapi
+  - python
+  - sqlite
+builders:
+  - name: Gali Polyak
+  - name: Yair Korok
+  - name: Katrin Kanevsky
+  - name: Milind Datta

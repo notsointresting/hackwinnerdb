@@ -1,0 +1,24 @@
+id: lucid-ai-powered-expense-intelligence
+name: Lucid - AI-Powered Expense Intelligence
+slug: lucid-ai-powered-expense-intelligence
+tagline: Lucid is an AI-driven expense intelligence platform that enables SMBs to automate, analyze,
+  and optimize their financial operations in real time.
+summary: Lucid - AI-Powered Expense Intelligence received the Second Place award at Claude Builders
+  AI Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/hmzdev23/ClaudeHackathonMcGill
+demo_url: null
+video_url: https://www.youtube.com/embed/460PIdYG13g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/270/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - nextjs
+  - react
+  - sqlite
+builders:
+  - name: Hamza Rehman

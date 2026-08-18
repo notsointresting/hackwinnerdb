@@ -1,0 +1,21 @@
+id: sleep-score-dd
+name: Sleep score DD
+slug: sleep-score-dd
+tagline: Hinge for M&A
+summary: Sleep score DD received the Best use of Senso.ai award at Multiagents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/eugkim0120/multiagents_hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/585/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - gemini
+  - openai
+  - sqlite
+builders:
+  - name: Andrew Hong

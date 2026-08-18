@@ -1,0 +1,26 @@
+id: team-outliers
+name: Team Outliers
+slug: team-outliers
+tagline: "Defeating the 911 queue: An AI triage system that intercepts overflow, dynamically
+  clusters duplicates, and instantly prioritizes life-threatening emergencies."
+summary: Team Outliers received the Graduate (Masters/Doctoral) Third Place award at USAII® Global
+  AI Hackathon 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/suavelad/usaii-team-outliers
+demo_url: null
+video_url: https://www.youtube.com/embed/NDsVbLKmrno
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/810/877/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - postgresql
+  - python
+builders:
+  - name: Sunday Ajayi
+  - name: Victor Olufemi
+  - name: Stacy Cheruto
+  - name: Peter Adeyemo

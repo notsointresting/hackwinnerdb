@@ -1,0 +1,23 @@
+id: ai-social-intrigue-game-on-free-wili
+name: AI Social Intrigue Game on Free Wili
+slug: ai-social-intrigue-game-on-free-wili
+tagline: Using a laptop to manage requests to Gemini/ElevenLabs API, the FreeWili can be used to
+  play "Mafia" with a mixture of AI agents and human participants. The Fre
+summary: AI Social Intrigue Game on Free Wili received the Free-WiLi award at Grizzhacks 8 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ldameron1/freewili-hackathon-project
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - claude
+  - gemini
+  - google-ai-studio
+  - python
+builders:
+  - name: Luke Dameron

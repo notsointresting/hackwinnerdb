@@ -1,0 +1,14 @@
+id: sarflow-openclaw-agenthon-build-club-x-ristek-fasilkom-ui
+project_id: sarflow
+hackathon_id: openclaw-agenthon-build-club-x-ristek-fasilkom-ui
+submission_url: https://devpost.com/software/sarflow
+source:
+  platform: devpost
+  url: https://devpost.com/software/sarflow
+awards:
+  - type: second-place
+    title: 2nd Place Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

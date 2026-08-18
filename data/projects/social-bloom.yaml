@@ -1,0 +1,18 @@
+id: social-bloom
+name: Social Bloom
+slug: social-bloom
+tagline: An app designed to increase social interaction amongst people
+summary: "Social Bloom received the 2nd Runners-Up award at Doable: AISoc X Lovable Hackathon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Z9F7Wb1013s
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies: []
+builders:
+  - name: Pranavi Korde

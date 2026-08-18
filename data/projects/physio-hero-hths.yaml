@@ -1,0 +1,22 @@
+id: physio-hero-hths
+name: Physio Hero (HTHS)
+slug: physio-hero-hths
+tagline: Game-ify Physical Therapy to recover while having fun!
+summary: Physio Hero (HTHS) received the Best Game Design award at HackJPS 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FlameNinja1001/PhysicalTherapyGame
+demo_url: null
+video_url: https://www.youtube.com/embed/P9IbVFoNv0s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/725/001/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Samvarth Raj
+  - name: Rehan Ali
+  - name: Sebastian Postigo

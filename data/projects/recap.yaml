@@ -1,0 +1,18 @@
+id: recap
+name: Recap
+slug: recap
+tagline: We screenshot everything and remember nothing. Forward saves to an AI that extracts and
+  connects them. Turns it into your personal knowledge base which can be c
+summary: Recap received the Best Use of AllScale award at Cursor Hackathon Vancouver in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ajain2303/recap
+demo_url: null
+video_url: https://www.youtube.com/embed/ds_isL9IqXw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Anshita Jain

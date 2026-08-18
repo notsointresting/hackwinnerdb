@@ -1,0 +1,24 @@
+id: vibebuild
+name: VibeBuild
+slug: vibebuild
+tagline: "VibeBuild lets you describe a Minecraft structure in plain English and watch it
+  materialize in front of you. If you want to build it yourself, Vibe Builder can "
+summary: VibeBuild received the Crowd Favorite award at WildHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nguyencomputing/VibeBuild
+demo_url: null
+video_url: https://www.youtube.com/embed/hGdzTLMQbmc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/970/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - flask
+  - java
+  - python
+builders:
+  - name: Ethan Lao
+  - name: Raymond Gu
+  - name: Evan Gerns
+  - name: James Nguyen

@@ -1,0 +1,25 @@
+id: eczcalibur
+name: Eczcalibur
+slug: eczcalibur
+tagline: Zelda style eczema app for kids and parents
+summary: Eczcalibur received the PCare+ Sub-Challenge award at Claude Builders AI Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kelvinzigah/Eczalibur/tree/database-integration
+demo_url: null
+video_url: https://www.youtube.com/embed/wOTyW-ab798
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/526/956/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Kelvin Zigah

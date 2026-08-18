@@ -1,0 +1,24 @@
+id: space-pecker
+name: Space Pecker
+slug: space-pecker
+tagline: An autonomous robot that detects invisible internal structural damage in infrastructures by
+  tapping the surface and using onboard AI to analyze the acoustic res
+summary: Space Pecker received the Analog Devices Sensor Fusion award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qvlbH2xdFEw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - python
+  - pytorch
+  - raspberry-pi
+builders:
+  - name: Marta Guinea
+  - name: Ainara Gurtubay

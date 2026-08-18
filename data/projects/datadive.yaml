@@ -1,0 +1,23 @@
+id: datadive
+name: DataDive
+slug: datadive
+tagline: Create high quality, custom, image data sets with a single prompt.
+summary: DataDive received the Best Use of Gemini API award at FullyHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JoshuaDowdCS/FullyHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Hwz5mJxE_Kc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/539/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+  - react
+  - yolo
+builders:
+  - name: Joshua Dowd
+  - name: Nate Smith
+  - name: Nathaniel Obeso

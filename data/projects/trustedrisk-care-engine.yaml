@@ -1,0 +1,28 @@
+id: trustedrisk-care-engine
+name: TrustedRisk Care Engine
+slug: trustedrisk-care-engine
+tagline: "A2A federation that decomposes one clinical prompt into a multi-specialist consultation:
+  16 sub-agents, 257 workflows, narrated dispatch, calibrated abstention "
+summary: TrustedRisk Care Engine received the Honorable Mentions award at Agents Assemble - The
+  Healthcare AI Endgame in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/AlessandroFlati/TrustedRisk
+demo_url: null
+video_url: https://www.youtube.com/embed/F2IvwDDREKI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/661/144/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - anthropic
+  - docker
+  - fastapi
+  - python
+  - sqlite
+builders:
+  - name: Alessandro Flati
+  - name: Roberto Mastropietro
+  - name: Riccardo Toti
+  - name: Alessandro Spada

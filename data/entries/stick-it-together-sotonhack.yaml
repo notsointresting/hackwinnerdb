@@ -1,0 +1,14 @@
+id: stick-it-together-sotonhack
+project_id: stick-it-together
+hackathon_id: sotonhack
+submission_url: https://devpost.com/software/stick-it-together
+source:
+  platform: devpost
+  url: https://devpost.com/software/stick-it-together
+awards:
+  - type: other
+    title: Unconventional connections
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

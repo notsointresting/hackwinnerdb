@@ -1,0 +1,23 @@
+id: navinate
+name: NaviNate
+slug: navinate
+tagline: NaviNate is an embeddable voice-enabled AI agent that saves time by navigating websites,
+  completing tasks, explaining each action, and letting users undo change
+summary: "NaviNate received the Hack the 6ix: Best Beginner Hack award at Hack the 6ix 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/katiehclau-art/NaviNate
+demo_url: null
+video_url: https://www.youtube.com/embed/Ho3UUT6z9yk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/933/447/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Matthew Long Yang
+  - name: RyanY158
+  - name: Katie Lau
+  - name: Iris Zhao

@@ -1,0 +1,14 @@
+id: grup-1-uab-the-hack-x-deloitte-2026
+project_id: grup-1
+hackathon_id: uab-the-hack-x-deloitte-2026
+submission_url: https://devpost.com/software/grup-1
+source:
+  platform: devpost
+  url: https://devpost.com/software/grup-1
+awards:
+  - type: first-place
+    title: 1st Place — Winning Team
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

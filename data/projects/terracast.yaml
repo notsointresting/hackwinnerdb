@@ -1,0 +1,21 @@
+id: terracast
+name: TerraCast
+slug: terracast
+tagline: Predicting weather's effect on yield
+summary: TerraCast received the 1st Place award at University of Washington Databricks Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/YEZOMzSHB-Q
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Tianle Yan
+  - name: Humphrey Huang
+  - name: Dae Hyun Lee
+  - name: Joon Hwag

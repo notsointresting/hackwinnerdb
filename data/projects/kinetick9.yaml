@@ -1,0 +1,24 @@
+id: kinetick9
+name: KineticK9
+slug: kinetick9
+tagline: "KineticK9: An intuitive multimodal interface for the next generation of robotic companions."
+summary: KineticK9 received the [MLH] Best Use of ElevenLabs award at Hack@URI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/deveshkumars/kinetick9/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/OHYQDXi8Lrc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/352/631/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - elevenlabs
+  - flask
+  - javascript
+  - python
+  - react
+builders:
+  - name: Gordon Beckler
+  - name: Devesh Kumar

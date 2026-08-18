@@ -1,0 +1,23 @@
+id: pixeltrip
+name: PixelTrip
+slug: pixeltrip
+tagline: PixelTrip helps groups turn travel planning chaos into confident shared decisions, reducing
+  friction, improving fairness, and making every trip feel aligned fro
+summary: PixelTrip received the Most Creative Use of Kiro award at Kiro Buildfest 2026 Singapore in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Gerald-codes/PixelTrip
+demo_url: null
+video_url: https://www.youtube.com/embed/uVkgPElA9JA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/862/162/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Kong Yong Shu Yuki
+  - name: Gerald Tan
+  - name: Andy Tan

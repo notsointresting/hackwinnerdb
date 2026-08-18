@@ -1,0 +1,14 @@
+id: campus-connect-code-concept
+project_id: campus-connect
+hackathon_id: code-concept
+submission_url: https://devpost.com/software/campus-connect-4jdxbq
+source:
+  platform: devpost
+  url: https://devpost.com/software/campus-connect-4jdxbq
+awards:
+  - type: winner
+    title: Code Concept Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

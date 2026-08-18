@@ -1,0 +1,23 @@
+id: domain-cv
+name: domain.cv
+slug: domain-cv
+tagline: "Real-time Domain Expansions powered by Computer Vision. We blend Python hand-tracking and
+  dynamic web rendering to detect webcam signs and trigger visual anime "
+summary: domain.cv received the 3rd Overall award at UCLA Hack on the Hill (HOTH) XIII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TheMoistDino/domain.cv
+demo_url: null
+video_url: https://www.youtube.com/embed/AUhiZQxg1jo
+image_url: null
+categories:
+  - climate
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: darren luu
+  - name: Matthan Lu

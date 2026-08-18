@@ -1,0 +1,22 @@
+id: zerorisk-sentinel
+name: ZeroRisk Sentinel
+slug: zerorisk-sentinel
+tagline: "Hybrid cybersecurity platform scanning files, URLs & Android APKs using YARA, VirusTotal &
+  Groq AI. Detects malware, phishing & rogue apps — with plain-English "
+summary: ZeroRisk Sentinel received the Top 9 Finalists award at Kyxgo hack by Aditya Rai & Yash  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shlokkokk/zerorisk-sentinel
+demo_url: null
+video_url: https://www.youtube.com/embed/gs6Ucu4xlIU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/642/132/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+technologies:
+  - flask
+  - groq
+  - javascript
+  - python
+builders:
+  - name: Shlok Shah

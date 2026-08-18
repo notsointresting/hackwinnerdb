@@ -1,0 +1,23 @@
+id: botcheck-robotics-component-validator
+name: BotCheck - Robotics Component Validator
+slug: botcheck-robotics-component-validator
+tagline: A web app that tests your robotics wiring before you build, so you never accidentally fry
+  an expensive component.
+summary: BotCheck - Robotics Component Validator received the Codex Credit of $100 award at Codex
+  Community Meetup - Dhaka in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/itzMRZ/botcheck
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+  - streamlit
+  - vercel
+builders:
+  - name: Meheraz Alif

@@ -1,0 +1,24 @@
+id: agora
+name: Agora
+slug: agora
+tagline: "A Greek-style AI dojo for public speaking: weave cue words into a live oration while AI
+  scores your tempo, fillers, eye contact, poise, and meaning"
+summary: Agora received the Best presentation award at Youth Code x AI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/NFJ3-TjW-MQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/835/559/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies:
+  - groq
+  - javascript
+  - webrtc
+  - whisper
+builders:
+  - name: Harish Rajaganapathy
+  - name: Henry Stiglitz
+  - name: Kevin Wang
+  - name: Ansh Awasthy

@@ -1,0 +1,14 @@
+id: beealive-starkhacks
+project_id: beealive
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/beealive
+source:
+  platform: devpost
+  url: https://devpost.com/software/beealive
+awards:
+  - type: other
+    title: Analog Devices Sensor Fusion
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

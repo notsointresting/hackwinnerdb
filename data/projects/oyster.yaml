@@ -1,0 +1,20 @@
+id: oyster
+name: Oyster
+slug: oyster
+tagline: The world is your oyster
+summary: Oyster received the First Place award at SOON Hackathon  in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ryushen-tan/GodMode/commits/main/
+demo_url: null
+video_url: https://www.youtube.com/embed/tPohMY2ysJE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/428/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: James Liang
+  - name: Petar Isakovic
+  - name: Artemis Cherkaev
+  - name: Ryushen Tan

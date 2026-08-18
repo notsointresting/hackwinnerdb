@@ -1,0 +1,25 @@
+id: datalens
+name: DataLens
+slug: datalens
+tagline: DataLens is an AI-powered dataset auditor. Upload any CSV to detect bias, view instant EDA,
+  check for data leakage, and query your data directly using a floatin
+summary: DataLens received the Data-Driven Insights award at ML Empowerment Build Challenge in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KongaraLikhith/datalens
+demo_url: null
+video_url: https://www.youtube.com/embed/P2TsOaaFS3o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/680/841/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - groq
+  - llama
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: Likhith Kongara

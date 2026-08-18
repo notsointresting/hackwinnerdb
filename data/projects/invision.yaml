@@ -1,0 +1,22 @@
+id: invision
+name: inVISION
+slug: invision
+tagline: '"Bringing dreams into reality.”'
+summary: "inVISION received the CSE: Best Interactive AI award at DiamondHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/MICH3LL3D/inVISION
+demo_url: null
+video_url: https://www.youtube.com/embed/vs62IsC1F2U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/530/664/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - opencv
+  - python
+builders:
+  - name: David Wan
+  - name: Julia Jin
+  - name: Caden Cheng
+  - name: Michelle Dong

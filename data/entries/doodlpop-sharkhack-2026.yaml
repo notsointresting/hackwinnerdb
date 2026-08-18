@@ -1,0 +1,14 @@
+id: doodlpop-sharkhack-2026
+project_id: doodlpop
+hackathon_id: sharkhack-2026
+submission_url: https://devpost.com/software/doodlpop
+source:
+  platform: devpost
+  url: https://devpost.com/software/doodlpop
+awards:
+  - type: other
+    title: RIOT IN THE GALLERY
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

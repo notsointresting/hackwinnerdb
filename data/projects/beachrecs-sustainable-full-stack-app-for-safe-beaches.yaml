@@ -1,0 +1,24 @@
+id: beachrecs-sustainable-full-stack-app-for-safe-beaches
+name: "BeachRecs : Sustainable Full stack App for Safe Beaches"
+slug: beachrecs-sustainable-full-stack-app-for-safe-beaches
+tagline: BeachRecs is an AI-powered mobile and web application designed to enhance coastal tourism
+  and safety by providing real-time data on beach conditions across Indi
+summary: "BeachRecs : Sustainable Full stack App for Safe Beaches received the 1st Place award at
+  SUMMER HACKATHON 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Kaneki27/BeachRecs-Updated
+demo_url: null
+video_url: https://www.youtube.com/embed/o0Exadn-a8Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/815/842/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - sustainability
+technologies:
+  - firebase
+  - javascript
+  - react
+builders:
+  - name: Gajanan  Patange
+  - name: Kaneki Chavan

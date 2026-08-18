@@ -1,0 +1,14 @@
+id: wastewatch-bu-civic-hacks-2026
+project_id: wastewatch-bu
+hackathon_id: civic-hacks-2026
+submission_url: https://devpost.com/software/bin-there-done-that-wsbhlf
+source:
+  platform: devpost
+  url: https://devpost.com/software/bin-there-done-that-wsbhlf
+awards:
+  - type: other
+    title: BU Sustainability Prize - Big Belly
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

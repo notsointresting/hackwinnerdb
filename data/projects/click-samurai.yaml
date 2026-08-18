@@ -1,0 +1,19 @@
+id: click-samurai
+name: Click Samurai
+slug: click-samurai
+tagline: Journey through the ruins of a dystopian world defeating monsters with your electrified
+  sword. Will you be able to beat the boss?
+summary: Click Samurai received the Best Retro Design award at Hack-A-Damien in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/623/096/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - unity
+builders:
+  - name: Parker Paragas

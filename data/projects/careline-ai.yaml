@@ -1,0 +1,29 @@
+id: careline-ai
+name: CareLine AI
+slug: careline-ai
+tagline: A multimodal patient intake & care-coordination agent that turns the slowest step in
+  healthcare — getting a patient into the system. Collapses 70 minute of work
+summary: CareLine AI received the Second Place award at AI Healthcare Hack NYC - by Arya Health &
+  Twilio AI Startup Searchlight in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/roshaninfordham/intakecare-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/OIaY7yQIMVY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/880/716/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - cloudflare
+  - elevenlabs
+  - groq
+  - javascript
+  - react
+  - sqlite
+  - twilio
+  - typescript
+  - webrtc
+builders:
+  - name: Roshan Sharma

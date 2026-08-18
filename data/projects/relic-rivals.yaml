@@ -1,0 +1,23 @@
+id: relic-rivals
+name: Relic Rivals
+slug: relic-rivals
+tagline: Hunt for Relics in the Computer Lab, upgrade them, and fight increasingly difficult hordes
+  of enemies by placing them on the Summoning Stone.
+summary: Relic Rivals received the Best real-world integration award at The Cambridge Game Jam 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/9ClBRcU9xlE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/768/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies:
+  - arduino
+  - raspberry-pi
+builders:
+  - name: Oliver Fogelin
+  - name: Moses Ng
+  - name: Ken Lin
+  - name: 0bby w

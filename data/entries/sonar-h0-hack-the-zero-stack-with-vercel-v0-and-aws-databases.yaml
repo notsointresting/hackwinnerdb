@@ -1,0 +1,14 @@
+id: sonar-h0-hack-the-zero-stack-with-vercel-v0-and-aws-databases
+project_id: sonar
+hackathon_id: h0-hack-the-zero-stack-with-vercel-v0-and-aws-databases
+submission_url: https://devpost.com/software/sonar-onjtvd
+source:
+  platform: devpost
+  url: https://devpost.com/software/sonar-onjtvd
+awards:
+  - type: first-place
+    title: First Place | Million-scale Global App
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

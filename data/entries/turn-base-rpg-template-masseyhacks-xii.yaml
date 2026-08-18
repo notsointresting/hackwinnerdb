@@ -1,0 +1,14 @@
+id: turn-base-rpg-template-masseyhacks-xii
+project_id: turn-base-rpg-template
+hackathon_id: masseyhacks-xii
+submission_url: https://devpost.com/software/turn-base-rpg-template
+source:
+  platform: devpost
+  url: https://devpost.com/software/turn-base-rpg-template
+awards:
+  - type: category-winner
+    title: Best Fluid UI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

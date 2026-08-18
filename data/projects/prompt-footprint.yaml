@@ -1,0 +1,22 @@
+id: prompt-footprint
+name: Prompt Footprint
+slug: prompt-footprint
+tagline: A Chrome extension that educates about the environmental impacts of excessive AI usage.
+summary: "Prompt Footprint received the Third Prize (x3) award at The Climate Change-Makers
+  Challenge: 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/sahilp15/prompt_footprint
+demo_url: null
+video_url: https://www.youtube.com/embed/4K3vLCE73cQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/553/413/datas/medium.png
+categories:
+  - artificial-intelligence
+  - climate
+  - social-impact
+technologies:
+  - javascript
+  - vercel
+builders:
+  - name: Saatvik Kundoor
+  - name: Sahil Parasharami

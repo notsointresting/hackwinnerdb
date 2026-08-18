@@ -1,0 +1,25 @@
+id: suaranafas
+name: SuaraNafas
+slug: suaranafas
+tagline: Multimodal AI screening for Tuberculosis.
+summary: SuaraNafas received the 3rd Place Health Track award at Garuda Hacks 7.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aofsnorth/SuaraNafas/
+demo_url: null
+video_url: https://www.youtube.com/embed/mzrzrgEkgHY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/914/115/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - pytorch
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Rizal Anditama
+  - name: Aidan Pitra Habibie

@@ -1,0 +1,22 @@
+id: ai-games
+name: AI Games
+slug: ai-games
+tagline: Ai-Games is an interactive gaming hub powered by smart AI algorithms. Experience real-time
+  strategy, challenge intelligent opponents, and explore AI-driven game
+summary: AI Games received the Codex $100 Credit award at Hack Days CUET in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alamgirhossainbogura-crypto/Ai-Games/blob/main/README.md
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/832/644/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - tensorflow
+builders:
+  - name: MD. ABDUR RAHMAN HRIDOY

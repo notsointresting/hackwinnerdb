@@ -1,0 +1,14 @@
+id: designer-s-edge
+name: Designer's Edge
+slug: designer-s-edge
+organizer: []
+year: 2026
+sources:
+  - https://designersedge.devpost.com/
+  - https://designersedge.devpost.com/project-gallery?filter=winner
+website_url: https://designersedge.devpost.com/
+platform: devpost
+participant_count: 19
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Designer's Edge. Imported automatically."

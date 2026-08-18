@@ -1,0 +1,14 @@
+id: voices-around-us-ucla-hack-on-the-hill-hoth-xiii
+project_id: voices-around-us
+hackathon_id: ucla-hack-on-the-hill-hoth-xiii
+submission_url: https://devpost.com/software/voices-around-us
+source:
+  platform: devpost
+  url: https://devpost.com/software/voices-around-us
+awards:
+  - type: category-winner
+    title: Best in Storytelling
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

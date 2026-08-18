@@ -1,0 +1,21 @@
+id: medli
+name: medli
+slug: medli
+tagline: 'Project Name: MEDLI Project Title: "Know which doctor to see before you go" MEDLI-makes
+  your hospital visit easier'
+summary: medli received the Best Use of the Google Gemini API award at Hack Days in Bhopal in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/divyanshkapale/HACKDAYS
+demo_url: null
+video_url: https://www.youtube.com/embed/xxmH1UYZehc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/736/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Divyanshu Kapale

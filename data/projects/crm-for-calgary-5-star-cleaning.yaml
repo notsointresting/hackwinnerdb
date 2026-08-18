@@ -1,0 +1,19 @@
+id: crm-for-calgary-5-star-cleaning
+name: CRM for Calgary 5 Star Cleaning
+slug: crm-for-calgary-5-star-cleaning
+tagline: This is a CRM that I used in my own personal business. Some features that I have created
+  and used are responsible for generating $30,000+ in additional revenue,
+summary: CRM for Calgary 5 Star Cleaning received the 1st Place award at Internal Tools Hacks in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MousaAbuzar/calgary-5star-crm
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - productivity
+technologies:
+  - mongodb
+  - react
+builders:
+  - name: Mousa Man

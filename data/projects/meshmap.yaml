@@ -1,0 +1,25 @@
+id: meshmap
+name: MeshMap
+slug: meshmap
+tagline: network to relay messages and crisis alerting without wifi through BLE
+summary: MeshMap received the Social Impact Prize award at UNIHACK 2026, funded by the European
+  Union in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/RuoHan-Chen/MeshMap
+demo_url: null
+video_url: https://www.youtube.com/embed/VXLAdOqYq1g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/440/370/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - kotlin
+  - supabase
+  - swift
+  - twilio
+builders:
+  - name: Mimi Vu
+  - name: Jeremiah Webb
+  - name: remyjelee Lee
+  - name: PCR Gaming

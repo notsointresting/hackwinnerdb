@@ -1,0 +1,14 @@
+id: senohacks
+name: senohacks.
+slug: senohacks
+organizer: []
+year: 2026
+sources:
+  - https://seno-hacks.devpost.com/
+  - https://seno-hacks.devpost.com/project-gallery?filter=winner
+website_url: https://seno-hacks.devpost.com/
+platform: devpost
+participant_count: 23
+prize_pool: null
+currency: null
+description: "Devpost hackathon: senohacks.. Imported automatically."

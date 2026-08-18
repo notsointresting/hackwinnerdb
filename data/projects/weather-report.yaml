@@ -1,0 +1,23 @@
+id: weather-report
+name: Weather Report
+slug: weather-report
+tagline: Keep your mini command line sprite away from the frightful weather with your umbrella. Only
+  you are capable of helping your sporadic sprite to survive through t
+summary: Weather Report received the Game Jam 2nd place award at BlasterHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ltv0/blaster-hack-commandline-game
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/530/153/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: SchoolRonald Chu
+  - name: Luke Thuan Vo
+  - name: kr1ngles
+  - name: Cp-Luck

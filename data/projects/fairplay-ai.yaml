@@ -1,0 +1,26 @@
+id: fairplay-ai
+name: FairPlay AI
+slug: fairplay-ai
+tagline: Your AI Referee! FairPlay is a real-time computer vision system that makes instant line
+  calls, tracks bounces, and keeps score using just your phone.
+summary: FairPlay AI received the Best Overall - 1st award at Build4Good 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DunsinK/Build4Good-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Z3UByxiCfNE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/605/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - react-native
+builders:
+  - name: Dunsin Komolafe
+  - name: Agrima Gupta
+  - name: Aahna Singh
+  - name: Rohan Patel

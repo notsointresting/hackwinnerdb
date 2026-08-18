@@ -1,0 +1,20 @@
+id: baxpace
+name: Baxpace
+slug: baxpace
+tagline: Augmenting fraud detection teams
+summary: Baxpace received the 2nd Place - Valsoft Challenge award at MPC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RichardG-PU/mpc-hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/ueVDV09d5YA
+image_url: null
+categories:
+  - other
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Lasmar Khalifa
+  - name: Richard Gajda

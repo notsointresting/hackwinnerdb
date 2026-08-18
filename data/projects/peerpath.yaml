@@ -1,0 +1,28 @@
+id: peerpath
+name: PeerPath
+slug: peerpath
+tagline: PeerPath is an AI-powered peer-matching platform that connects struggling students with
+  peers who've been through the same experience, so no one faces college a
+summary: PeerPath received the 3rd Place award at CampusAI x MDC AI & Data Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TommyCheng023/PeerPath
+demo_url: null
+video_url: https://www.youtube.com/embed/g6IgdsiZmDY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/437/872/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - fastapi
+  - openai
+  - postgresql
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ze Dong
+  - name: Tommy Cheng
+  - name: lucy6477777 Liu
+  - name: shuumd Dong

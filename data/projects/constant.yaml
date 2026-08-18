@@ -1,0 +1,28 @@
+id: constant
+name: Constant.
+slug: constant
+tagline: Stablecoins that protect every transfer from inflation.
+summary: "Constant. received the Blockchain for Good (BGA): AI Trading Strategies for Financial
+  Inclusion award at Hack the 6ix 2026 in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/mmiraly/hackthe6ix2026
+demo_url: null
+video_url: https://www.youtube.com/embed/oNgv__tdHq8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/938/635/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Benjamin Namayandeh
+  - name: Ian Tan
+  - name: Mahbod  Miraly

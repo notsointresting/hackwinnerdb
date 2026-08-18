@@ -1,0 +1,23 @@
+id: geaux-wellness
+name: Geaux Wellness
+slug: geaux-wellness
+tagline: Geauxing further together
+summary: Geaux Wellness received the 1st Place Beginner award at 2026 WiCS Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rachael-101906/GeauxWellness
+demo_url: null
+video_url: https://www.youtube.com/embed/A7wjqiaVjWU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/480/076/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - javascript
+  - react
+builders:
+  - name: Rachael Bergeron
+  - name: Zed
+  - name: SydneeAnn06
+  - name: Alyvia Whitney

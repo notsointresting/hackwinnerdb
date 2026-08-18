@@ -1,0 +1,20 @@
+id: robin
+name: Robin
+slug: robin
+tagline: Learn how to contribute to open source before making a pr
+summary: Robin received the 2nd Overall award at Bitcoin++ Open Source Edition in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/itschrisoketch/Robin
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Fidel Otieno
+  - name: Chris Oketch

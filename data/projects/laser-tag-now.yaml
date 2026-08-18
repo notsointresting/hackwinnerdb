@@ -1,0 +1,22 @@
+id: laser-tag-now
+name: laser tag NOW!!!
+slug: laser-tag-now
+tagline: (but on your phone)
+summary: laser tag NOW!!! received the SummerHacks 2nd Place award at SummerHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ConnorXTan/phonegame
+demo_url: null
+video_url: https://www.youtube.com/embed/VyMM4y66ny8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/076/045/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - swift
+  - vercel
+builders:
+  - name: Lucas Jin
+  - name: Connor Tan
+  - name: Aaron Tran
+  - name: Matthew Hamilton

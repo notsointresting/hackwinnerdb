@@ -1,0 +1,14 @@
+id: second-look-peddiehacks-2026
+project_id: second-look
+hackathon_id: peddiehacks-2026
+submission_url: https://devpost.com/software/second-look-fuor81
+source:
+  platform: devpost
+  url: https://devpost.com/software/second-look-fuor81
+awards:
+  - type: track-winner
+    title: High School Track 2 Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

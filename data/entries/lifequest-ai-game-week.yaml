@@ -1,0 +1,14 @@
+id: lifequest-ai-game-week
+project_id: lifequest
+hackathon_id: ai-game-week
+submission_url: https://devpost.com/software/lifequest-5qfk83
+source:
+  platform: devpost
+  url: https://devpost.com/software/lifequest-5qfk83
+awards:
+  - type: category-winner
+    title: Best AI Use
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

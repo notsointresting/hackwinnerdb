@@ -1,0 +1,21 @@
+id: wingspan
+name: Wingspan
+slug: wingspan
+tagline: Giving Finch its reach
+summary: Wingspan received the AggieX Startup award at Build4Good 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/smkilaru213/Build4Good
+demo_url: null
+video_url: https://www.youtube.com/embed/e_6yVqsyh8E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/564/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Emily Lou
+  - name: Riya Patel
+  - name: Kaori Shioyama
+  - name: Manasa Kilaru

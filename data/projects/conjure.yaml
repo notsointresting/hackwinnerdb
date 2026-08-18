@@ -1,0 +1,24 @@
+id: conjure
+name: Conjure
+slug: conjure
+tagline: Turn your vision into reality. With a single prompt create a fully walkable 3D world.
+summary: "Conjure received the Track: Agentverse - Search & Discovery of Agents award at LA Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/pauligwe/WorldEdit
+demo_url: null
+video_url: https://www.youtube.com/embed/x404jLbdaVs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/747/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Paul Chike-Igwe
+  - name: Alejandro Pinto
+  - name: Tom Almog

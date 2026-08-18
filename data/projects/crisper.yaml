@@ -1,0 +1,22 @@
+id: crisper
+name: Crisper
+slug: crisper
+tagline: Enabling students to access the food they prefer, not just what's affordable.
+summary: Crisper received the Best User Research award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/DqhWJEWquV0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/276/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Sumayyah Khan
+  - name: Lubna Beary
+  - name: Inika Singh
+  - name: Jannah Mansoor

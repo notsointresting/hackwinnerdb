@@ -1,0 +1,20 @@
+id: dreamup
+name: DreamUp
+slug: dreamup
+tagline: "DreamUp: community as an artist: instead of making game on a computer you draw it on paper
+  and submit, overnight AI turns your idea into playable game you share"
+summary: DreamUp received the Claude Track Winners award at Claude AI Hackathon - Machines of Loving
+  Grace in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/PQdBKn5IvHg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/800/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies: []
+builders:
+  - name: Max Volovich

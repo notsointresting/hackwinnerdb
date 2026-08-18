@@ -1,0 +1,14 @@
+id: agentsight-splunk-agentic-ops-hackathon
+project_id: agentsight
+hackathon_id: splunk-agentic-ops-hackathon
+submission_url: https://devpost.com/software/agentops-black-box
+source:
+  platform: devpost
+  url: https://devpost.com/software/agentops-black-box
+awards:
+  - type: category-winner
+    title: Best Use of Splunk Hosted Models
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

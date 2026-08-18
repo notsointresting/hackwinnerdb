@@ -1,0 +1,21 @@
+id: skydrop-ai
+name: SkyDrop AI
+slug: skydrop-ai
+tagline: An AI-powered drone delivery assistant that identifies emergency drop zones using computer
+  vision and automatically triggers payload release at the correct loca
+summary: "SkyDrop AI received the Grand Prize: SkyEu Track award at Robotic Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5wjmW4HTggI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/796/089/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+  - yolo
+builders:
+  - name: William Farokhzad

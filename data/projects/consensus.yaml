@@ -1,0 +1,21 @@
+id: consensus
+name: Consensus
+slug: consensus
+tagline: A Debate Orchestration System that offsets your worries and helps you reach clarity amidst
+  your toughest dilemmas. Start a debate and enjoy an audio-first exper
+summary: Consensus received the Best Beginner Hack award at AI Hackfest in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ashmeet-chhabra/consensus
+demo_url: null
+video_url: https://www.youtube.com/embed/R307RnJQr8M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/272/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+builders:
+  - name: Ashmeet Singh

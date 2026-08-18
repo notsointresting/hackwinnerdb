@@ -1,0 +1,27 @@
+id: pumpkino-ai
+name: Pumpkino AI
+slug: pumpkino-ai
+tagline: Know what to study next, not just what percent you know.
+summary: Pumpkino AI received the Grand Prize award at RLC Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Maxsadarnac/pumkino-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/cZ6ma_36WkA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/038/651/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - anthropic
+  - claude
+  - gemini
+  - groq
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Maximilian Chapman Sadarnac

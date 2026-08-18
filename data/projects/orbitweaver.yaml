@@ -1,0 +1,20 @@
+id: orbitweaver
+name: OrbitWeaver
+slug: orbitweaver
+tagline: Eliminating the AI "blast radius" blindspot with autonomous, graph-driven architectural migrations.
+summary: "OrbitWeaver received the Showcase Track: Potential Impact, Second Place award at GitLab
+  Transcend Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/uGoyUH04PZk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/817/170/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - typescript
+builders:
+  - name: Aryan Rajput

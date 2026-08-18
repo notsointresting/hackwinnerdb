@@ -1,0 +1,14 @@
+id: shelterstrain-sdss-datathon-2026
+project_id: shelterstrain
+hackathon_id: sdss-datathon-2026
+submission_url: https://devpost.com/software/group-23-public-services-project
+source:
+  platform: devpost
+  url: https://devpost.com/software/group-23-public-services-project
+awards:
+  - type: category-winner
+    title: Best Model
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

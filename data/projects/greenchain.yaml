@@ -1,0 +1,26 @@
+id: greenchain
+name: GreenChain
+slug: greenchain
+tagline: Sustainable procurement shouldn’t be guesswork.
+summary: GreenChain received the Best Use of K2 Think V2 by Institute of Foundation Models at MBZUAI
+  [reMarkable tablet for every member of the winning team] award at HackPrinceton Spring '26 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thejustjim/hackprinceton2026
+demo_url: null
+video_url: https://www.youtube.com/embed/I1mANQGjXcw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/628/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - sustainability
+technologies:
+  - fastapi
+  - gemini
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Alan Tai
+  - name: Nikhil Ramlukan
+  - name: Jimin Bang

@@ -1,0 +1,14 @@
+id: storesense-lagcc-spring-2026-hackathon
+project_id: storesense
+hackathon_id: lagcc-spring-2026-hackathon
+submission_url: https://devpost.com/software/storesense
+source:
+  platform: devpost
+  url: https://devpost.com/software/storesense
+awards:
+  - type: other
+    title: Stipend & Tech Experience at Queens Tech Week
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

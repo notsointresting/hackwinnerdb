@@ -1,0 +1,14 @@
+id: nora-soon-hackathon
+project_id: nora
+hackathon_id: soon-hackathon
+submission_url: https://devpost.com/software/nora-u10kpz
+source:
+  platform: devpost
+  url: https://devpost.com/software/nora-u10kpz
+awards:
+  - type: category-winner
+    title: Video Cooker - Best video and representation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

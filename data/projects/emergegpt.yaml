@@ -1,0 +1,21 @@
+id: emergegpt
+name: EmergeGPT
+slug: emergegpt
+tagline: Automated workflow for enterprises to fine-tune models via agent traces
+summary: EmergeGPT received the Honorable Mention award at Enterprise Agents Hackathon by Emergence
+  & Nebius in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ithllc/Reasoning_Trace_with_Craft_frm_EmergenceAI
+demo_url: null
+video_url: https://www.youtube.com/embed/O5IuLDPcjrs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/555/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: isayah culbertson
+  - name: Dean Hu
+  - name: Frank Ivey

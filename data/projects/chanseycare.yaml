@@ -1,0 +1,24 @@
+id: chanseycare
+name: ChanseyCare
+slug: chanseycare
+tagline: Chansey Care is a voice-activated emergency response system that connects patients to
+  medical professionals in seconds.
+summary: ChanseyCare received the 1st Place Grand Prize award at KiroHacks Cal Poly in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chloe526/kirohacks
+demo_url: null
+video_url: https://www.youtube.com/embed/-TU9qA70xyQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/639/637/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - figma
+  - python
+  - typescript
+builders:
+  - name: Emilia Vu
+  - name: Chloe Low
+  - name: Anay Nagar

@@ -1,0 +1,14 @@
+id: forge-uc-berkeley-ai-hackathon-2026
+project_id: forge
+hackathon_id: uc-berkeley-ai-hackathon-2026
+submission_url: https://devpost.com/software/forge-z8v4qm
+source:
+  platform: devpost
+  url: https://devpost.com/software/forge-z8v4qm
+awards:
+  - type: category-winner
+    title: Using Redis Beyond Caching, Best Creativity and Originality, Best Technical Implementation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

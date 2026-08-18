@@ -1,0 +1,26 @@
+id: sortify
+name: Sortify
+slug: sortify
+tagline: Compact trash sorting system using real time computer vision.
+summary: Sortify received the [MLH] Best Use of Gemini API award at MakeMIT x Harvard 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AmieNguyen25/makeMIT
+demo_url: null
+video_url: https://www.youtube.com/embed/G-uMno6_ZG8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/357/987/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - gemini
+  - opencv
+  - python
+  - raspberry-pi
+builders:
+  - name: Max Iliev
+  - name: Amie Nguyen
+  - name: Huy Huynh
+  - name: Alex Z

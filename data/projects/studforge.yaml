@@ -1,0 +1,27 @@
+id: studforge
+name: StudForge
+slug: studforge
+tagline: StudForge turns natural language prompts into physics-validated, simulator-ready,
+  robot-buildable swarm robotics block-based worlds with measurable training yie
+summary: StudForge received the Finalist award at UC Berkeley AI Hackathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kokonut121/studsim
+demo_url: null
+video_url: https://www.youtube.com/embed/-LjeM4XZLQg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/805/478/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - anthropic
+  - fastapi
+  - python
+  - pytorch
+  - redis
+builders:
+  - name: Jerry Wang
+  - name: Patrick Feng
+  - name: Haroon Mardanzai
+  - name: micah872 Gao

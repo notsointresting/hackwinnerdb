@@ -1,0 +1,19 @@
+id: not-my-first-swamp
+name: Not My First Swamp
+slug: not-my-first-swamp
+tagline: The Blueprint for a Better Gator.... Get a personalized routine based on your UF classes,
+  dorm location, the food you like, as well as the gym!
+summary: Not My First Swamp received the Best Framer Implementation award at 2026 UF Design-a-thon
+  by GUD in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/65fP_CaYL_U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/422/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - gemini
+builders:
+  - name: Kushagra Katiyar

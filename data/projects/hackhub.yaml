@@ -1,0 +1,20 @@
+id: hackhub
+name: HackHUB
+slug: hackhub
+tagline: An hub made for the UDC hackaton where the hackers and the organization have multiple tools
+  to work better and make it easier with QOL features.
+summary: HackHUB received the GPUL – Mejor proyecto de equipo rookie award at HackUDC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/abelsrzz/hackudc-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/384/282/datas/medium.jpg
+categories:
+  - education
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Oscar Edward Perdiguero Smolen
+  - name: Abel Suárez

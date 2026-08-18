@@ -1,0 +1,24 @@
+id: auditease
+name: AuditEase
+slug: auditease
+tagline: Eco Friendly AI-Powered Compliance Platform
+summary: "AuditEase received the Participation Prize award at Build with AI: Code Social – From Idea
+  to Demo in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/debdutta1777/Audit_Ease_Eco
+demo_url: null
+video_url: https://www.youtube.com/embed/mzuwwORHanU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/335/503/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - gemini
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Debdutta Ghosh
+  - name: Debasmita Chatterjee

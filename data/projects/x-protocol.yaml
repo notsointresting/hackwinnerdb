@@ -1,0 +1,25 @@
+id: x-protocol
+name: X - Protocol
+slug: x-protocol
+tagline: A consent-first proximity social mesh that maps nearby Bluetooth devices in real-time and
+  uses AI to send handwritten invitation letters to strangers around you
+summary: X - Protocol received the Bitcamp Unwrapped - Bitcamp award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/XeTwTwPWS7w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/556/621/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - cloudflare
+  - fastapi
+  - gemini
+  - openai
+  - python
+  - react
+builders:
+  - name: Dhanraj Nandurkar

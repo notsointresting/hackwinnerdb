@@ -1,0 +1,26 @@
+id: verity
+name: Verity
+slug: verity
+tagline: Verity Oracle grounds live market signals in real evidence, runs resolver and challenger
+  agents, and publishes a cryptographically signed cited.md with Chaingua
+summary: Verity received the Best use of Ghost award at Ship to Prod - Agentic Engineering Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kush614/oracle.git
+demo_url: null
+video_url: https://www.youtube.com/embed/nO8JtKTeaGw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - postgresql
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: Kush Ise
+  - name: Dhrumil Shah
+  - name: Ayush Ojha

@@ -1,0 +1,32 @@
+id: kali
+name: kali.
+slug: kali
+tagline: context and finance layer for nonprofits.
+summary: kali. received the Best Use of Solana award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stephenhungg/kali-v0
+demo_url: null
+video_url: https://www.youtube.com/embed/86-v0fOqFSA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/656/676/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - figma
+  - openai
+  - postgresql
+  - react
+  - solana
+  - sql
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Matthew Kim
+  - name: Nicole Wang
+  - name: Frank Lin
+  - name: stephen hung

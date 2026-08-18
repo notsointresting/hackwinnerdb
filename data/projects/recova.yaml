@@ -1,0 +1,27 @@
+id: recova
+name: Recova
+slug: recova
+tagline: Most physical therapy patients get only 6 to 8 clinic visits, but they need months of
+  exercise to actually recover. The real work happens at home.
+summary: Recova received the Health & Wellbeing Track award at CBC Hackathon 2026 @ NJIT in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/770/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: mahmoud ezat
+  - name: Ameer Hassan
+  - name: Zaib Kaukab
+  - name: Belal Ezat

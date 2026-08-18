@@ -1,0 +1,14 @@
+id: haptic-ev-hack-days-in-bansal
+project_id: haptic-ev
+hackathon_id: hack-days-in-bansal
+submission_url: https://devpost.com/software/haptic_ev
+source:
+  platform: devpost
+  url: https://devpost.com/software/haptic_ev
+awards:
+  - type: category-winner
+    title: Best Use of the Google Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,19 @@
+id: utxoracle-btc-calculator
+name: UTXOracle BTC Calculator
+slug: utxoracle-btc-calculator
+tagline: A Bitcoin price calculator powered by your own node. Using UTXOracle, the price is derived
+  on-chain — not from any exchange. Built with nix-bitcoin and Shakespe
+summary: UTXOracle BTC Calculator received the Best Contribution to Open Source award at Bitcoin++
+  Open Source Edition in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/fort-nix/nix-bitcoin/pull/842
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/925/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: kingddd6767 Parrish

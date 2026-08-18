@@ -1,0 +1,14 @@
+id: genai-dev-hackathon
+name: GenAI Dev Hackathon
+slug: genai-dev-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://genaidevhackathon.devpost.com/
+  - https://genaidevhackathon.devpost.com/project-gallery?filter=winner
+website_url: https://genaidevhackathon.devpost.com/
+platform: devpost
+participant_count: 533
+prize_pool: null
+currency: null
+description: "Devpost hackathon: GenAI Dev Hackathon. Imported automatically."

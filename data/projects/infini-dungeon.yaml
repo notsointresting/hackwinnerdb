@@ -1,0 +1,23 @@
+id: infini-dungeon
+name: Infini-Dungeon
+slug: infini-dungeon
+tagline: "A procedurally-generated dungeon crawler where you battle AI-voiced monsters using the
+  power of words, with every enemy, room, and story dynamically created by "
+summary: "Infini-Dungeon received the Most Creative Hack: Legos award at HackTCNJ 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/christopherlam1016/HackTCNJ2026
+demo_url: null
+video_url: https://www.youtube.com/embed/u4Jz6g4I06Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/959/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Chris Lam
+  - name: Benjamin Guerrieri

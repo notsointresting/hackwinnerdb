@@ -1,0 +1,14 @@
+id: haq-itilla-kp-information-commons-companion-ai-for-civic-innovation-hackathon
+project_id: haq-itilla-kp-information-commons-companion
+hackathon_id: ai-for-civic-innovation-hackathon
+submission_url: https://devpost.com/software/haq-itilla-kp-rti-companion
+source:
+  platform: devpost
+  url: https://devpost.com/software/haq-itilla-kp-rti-companion
+awards:
+  - type: second-place
+    title: Second Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

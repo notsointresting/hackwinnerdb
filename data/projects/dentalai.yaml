@@ -1,0 +1,25 @@
+id: dentalai
+name: DentalAI
+slug: dentalai
+tagline: From X-ray to insight in seconds.
+summary: DentalAI received the Best Technical Implementation award at SacHacks VII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VarunKadapatti2007/dentAIl
+demo_url: null
+video_url: https://www.youtube.com/embed/jiqJ2AAnBuE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/868/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - firebase
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Hishaan Rajwani
+  - name: Ananth Ramkumar
+  - name: Varun Kadapatti

@@ -1,0 +1,21 @@
+id: unity-wav
+name: Unity.wav
+slug: unity-wav
+tagline: Having a hard time visualizing what your audio looks like when working within Unity? With
+  Unity.wav, we can help you see and tweak how your sound interacts with
+summary: Unity.wav received the Entertainment Track Winner award at PantherHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DaniaMania/AudioVisualizer
+demo_url: null
+video_url: https://www.youtube.com/watch?v=HKHiudEMf1w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/538/459/datas/medium.jpg
+categories:
+  - healthcare
+  - cybersecurity
+technologies:
+  - claude
+  - unity
+builders:
+  - name: Tri Vu
+  - name: Daniel Oh

@@ -1,0 +1,23 @@
+id: overseer
+name: Overseer
+slug: overseer
+tagline: OverSeer is an AI-powered cybersecurity platform that stops financial fraud before it
+  happens by detecting, blocking, and analyzing browser-based transaction at
+summary: Overseer received the FinHack 1st Place award at MarinHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Pandey-Arnav/OverSeer
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/910/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+builders:
+  - name: Arnav Pandey
+  - name: aarav mishra
+  - name: Prayag Nambiar
+  - name: Vivaan Dabral

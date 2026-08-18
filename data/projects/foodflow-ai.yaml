@@ -1,0 +1,24 @@
+id: foodflow-ai
+name: FOODFLOW AI
+slug: foodflow-ai
+tagline: FoodFlow AI autonomously rescues surplus food before it becomes waste, instantly routing it
+  to communities in need.
+summary: FOODFLOW AI received the 3rd Place award at SP26 Cornell Claude Builders Club Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jarmancarrera/foodflow-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/P3C4StT8T5s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/332/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - sqlite
+builders:
+  - name: Sebastian Dominguez Calva
+  - name: Martin Quinones
+  - name: jarmancarrera Carrera

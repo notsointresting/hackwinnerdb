@@ -1,0 +1,14 @@
+id: gooseroute-hack-hack-goose
+project_id: gooseroute
+hackathon_id: hack-hack-goose
+submission_url: https://devpost.com/software/goose-route
+source:
+  platform: devpost
+  url: https://devpost.com/software/goose-route
+awards:
+  - type: category-winner
+    title: Harnold's Hatchling Honors - Best Novice ($168 value)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

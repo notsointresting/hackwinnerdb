@@ -1,0 +1,25 @@
+id: truthkeeper
+name: TruthKeeper
+slug: truthkeeper
+tagline: Your stack is lying to itself. TruthKeeper is the agent that listens.
+summary: TruthKeeper received the Fivetran - 2nd Place award at Google Cloud Rapid Agent Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gangix/truthkeeper
+demo_url: null
+video_url: https://www.youtube.com/embed/oUJvy9xCvCo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/752/792/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - nextjs
+  - postgresql
+  - python
+  - stripe
+  - typescript
+  - vercel
+  - vertex-ai
+builders: []

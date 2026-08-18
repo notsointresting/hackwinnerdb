@@ -1,0 +1,21 @@
+id: fitcheck
+name: FitCheck
+slug: fitcheck
+tagline: This is an AI Micro-ATS system that ranks resumes against a Job Description instantly.
+summary: "FitCheck received the Hack Day I Demoed Stickers award at HackCafe : May Edition in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: Orkhan Shirinov

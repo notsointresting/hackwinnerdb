@@ -1,0 +1,22 @@
+id: reach
+name: Reach
+slug: reach
+tagline: Instant connection to lifesaving care. Because in a crisis, every second counts.
+summary: Reach received the Best Hack for End Overdose award at Hack2Impact 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hack2impact2026/end-overdose-mobile
+demo_url: null
+video_url: https://www.youtube.com/embed/e-T2ArRCudI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/641/603/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - google-maps
+  - react-native
+  - typescript
+builders:
+  - name: Kelly Yu
+  - name: Joyce Jeoung
+  - name: Jason Co
+  - name: Alex Ronce

@@ -1,0 +1,24 @@
+id: tamagoosie-virtual-pet
+name: "TamaGoosie: Virtual Pet"
+slug: tamagoosie-virtual-pet
+tagline: Harold (Harnold's twin brother) looks out for you, ensuring YOU are fit, smart, and
+  achieving your gosling dreams - powered by real-time data, AI, and friends.
+summary: "TamaGoosie: Virtual Pet received the Harnold's Blessing - Most Goose ($100 value) award at
+  Hack Hack Goose in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/ScriptKitKat/TamaGoosie
+demo_url: null
+video_url: https://www.youtube.com/embed/xhOEQKSn7bU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/089/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - swift
+builders:
+  - name: Priscilla Ye
+  - name: Alex Lu
+  - name: Austin Deng

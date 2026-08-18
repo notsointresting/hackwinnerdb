@@ -1,0 +1,21 @@
+id: resq-bengaluru
+name: ResQ Bengaluru
+slug: resq-bengaluru
+tagline: AI emergency operating system for pet rescue — upload a scene photo, get severity
+  assessment, nearest NGOs/vets via Elastic vector + geo search, a WhatsApp-read
+summary: "ResQ Bengaluru received the Winner - Pet Rescue & Adoption Coordinator award at Hacknight
+  Bengaluru: Build AI Agents in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/ShyamRV/ResQ-Bengaluru
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/150/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies: []
+builders:
+  - name: Shyam Pandey
+  - name: Utkarsh Mishra
+  - name: SUMITH GUPTA

@@ -1,0 +1,19 @@
+id: learn-to-spell
+name: Learn To Spell
+slug: learn-to-spell
+tagline: My implementation is the base version of a bigger idea. I wanted to combine learning,
+  socialization, and exercise into one experience.
+summary: Learn To Spell received the Honorable Mention- Overall award at TigerVerse 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sais925/LearnToSpell
+demo_url: null
+video_url: https://www.youtube.com/embed/afQ1kF71OQE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/183/datas/gallery.jpg
+categories:
+  - education
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: sais925 Ba

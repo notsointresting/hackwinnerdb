@@ -1,0 +1,14 @@
+id: mirror-hack-indy-2026
+project_id: mirror
+hackathon_id: hack-indy-2026
+submission_url: https://devpost.com/software/mirror-0e67ck
+source:
+  platform: devpost
+  url: https://devpost.com/software/mirror-0e67ck
+awards:
+  - type: category-winner
+    title: MLH || Best Use of ElevenLabs || Wireless Earbuds
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

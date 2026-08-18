@@ -1,0 +1,19 @@
+id: extratranslational
+name: ExtraTranslational
+slug: extratranslational
+tagline: Point, speak, remember — your camera teaches you the words for what you see.
+summary: ExtraTranslational received the Winner of "Beyond Language" award at Liftoff in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chandannir/extratranslational-liftoff
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/041/datas/gallery.jpg
+categories:
+  - productivity
+technologies: []
+builders:
+  - name: chandannir Nir
+  - name: Ryan Mah
+  - name: Gavin Chang
+  - name: Omar Shum

@@ -1,0 +1,21 @@
+id: check-first
+name: Check First
+slug: check-first
+tagline: Check First is an AI triage tool that helps people decide if their symptoms need emergency
+  care, a doctor visit, or home monitoring for reducing dangerous delay
+summary: "Check First received the GREATEST WOMEN IMPACT award at Girls in STEM: AI for Social Good
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bX-iIYyiLk8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/319/177/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Agrim Garg

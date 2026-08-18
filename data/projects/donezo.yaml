@@ -1,0 +1,20 @@
+id: donezo
+name: Donezo
+slug: donezo
+tagline: Agents for anything. Just send em off.
+summary: Donezo received the Third Place Winner award at Design4Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Z1EEYjB9gwU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/737/759/datas/medium.png
+categories:
+  - education
+  - productivity
+technologies:
+  - java
+  - python
+builders:
+  - name: Akash Nagabhirava
+  - name: Kevin Pogoryelovskyy

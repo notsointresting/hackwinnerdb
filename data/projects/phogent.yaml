@@ -1,0 +1,26 @@
+id: phogent
+name: Phogent
+slug: phogent
+tagline: Phogent (Phone Agent) is an AI communication bridge from phone to text.
+summary: Phogent received the [Yconic] Neural Tide - AI Startup award at Hack@URI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Top-Secret-Mega-Corporation/PhoneAgent/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/KUvM18QnpLo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/357/056/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: Sonya Cheteyan
+  - name: Lucas Webber
+  - name: edward-tavarez
+  - name: NathanFowler812 Fowler

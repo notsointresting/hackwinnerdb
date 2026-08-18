@@ -1,0 +1,24 @@
+id: pooh-virtual-companion
+name: Pooh-Virtual-Companion
+slug: pooh-virtual-companion
+tagline: Meet Pooh, a physical AI companion designed to be there for you. Inspired by the loved
+  character of Winnie the Pooh, it listens, responds with empathy, all thro
+summary: Pooh-Virtual-Companion received the [MLH] Best Use of ElevenLabs award at HackUSF 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MinaJeremic/Pooh-Virtual-Companion/tree/brent
+demo_url: null
+video_url: https://www.youtube.com/embed/uKGNSfqhKcM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/512/775/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - elevenlabs
+builders:
+  - name: Mina Jeremic
+  - name: Brentley Dorsainvil
+  - name: Sebastian Wagnac
+  - name: 2highsebas Camacho

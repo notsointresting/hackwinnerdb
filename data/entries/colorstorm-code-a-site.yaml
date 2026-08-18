@@ -1,0 +1,14 @@
+id: colorstorm-code-a-site
+project_id: colorstorm
+hackathon_id: code-a-site
+submission_url: https://devpost.com/software/colorstorm
+source:
+  platform: devpost
+  url: https://devpost.com/software/colorstorm
+awards:
+  - type: second-place
+    title: 2nd Overall, Mechanical Keyboard
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

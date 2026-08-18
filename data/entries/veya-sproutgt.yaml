@@ -1,0 +1,16 @@
+id: veya-sproutgt
+project_id: veya
+hackathon_id: sproutgt
+submission_url: https://devpost.com/software/veya
+source:
+  platform: devpost
+  url: https://devpost.com/software/veya
+awards:
+  - type: category-winner
+    title: Best Design
+  - type: category-winner
+    title: MLH - Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

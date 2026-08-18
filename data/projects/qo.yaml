@@ -1,0 +1,21 @@
+id: qo
+name: Qo
+slug: qo
+tagline: We introduce a quantum variant of Go. Go is one of the most complex perfect-information
+  games ever created; our version increases complexity with quantum tunnel
+summary: "Qo received the Build Your Own: UNCQC Hoodies award at Carolina Quantum Hacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/haimengzhao/quantum-oracle-sketching
+demo_url: null
+video_url: https://www.youtube.com/embed/gq8Vo90TpSw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/956/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Jamie Gill
+  - name: Arthur Davis
+  - name: Andy Diaz Villatoro

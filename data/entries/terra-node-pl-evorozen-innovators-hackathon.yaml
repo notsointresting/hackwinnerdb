@@ -1,0 +1,14 @@
+id: terra-node-pl-evorozen-innovators-hackathon
+project_id: terra-node-pl
+hackathon_id: evorozen-innovators-hackathon
+submission_url: https://devpost.com/software/terra-node-pl
+source:
+  platform: devpost
+  url: https://devpost.com/software/terra-node-pl
+awards:
+  - type: winner
+    title: 4th Place Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

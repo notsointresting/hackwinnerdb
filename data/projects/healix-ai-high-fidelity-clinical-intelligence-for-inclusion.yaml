@@ -1,0 +1,24 @@
+id: healix-ai-high-fidelity-clinical-intelligence-for-inclusion
+name: "Healix-AI: High-Fidelity Clinical Intelligence for Inclusion"
+slug: healix-ai-high-fidelity-clinical-intelligence-for-inclusion
+tagline: A deterministic AI guardian delivering radical healthcare accessibility for blind and deaf
+  communities through real-time voice, vision-to-speech, and clinically
+summary: "Healix-AI: High-Fidelity Clinical Intelligence for Inclusion received the The Outlier
+  Award (Most Ambitious/Unconventional) award at day zero in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/LokeshwaranMoorthi/Healix-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/view
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/577/076/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - accessibility
+technologies:
+  - groq
+  - javascript
+  - python
+  - tailwind-css
+builders:
+  - name: Lokeshwaran Moorthi

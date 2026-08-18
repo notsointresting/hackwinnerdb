@@ -1,0 +1,31 @@
+id: travelmate
+name: TravelMate
+slug: travelmate
+tagline: An AI-powered travel buddy that makes trip planning simple and stress-free. Never miss a
+  trip because planning feels like a hassle.
+summary: "TravelMate received the MLH: Best Use of Auth0 AI Agents award at Innovation Hacks 2.0 -
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/anirudh-makuluri/travelMate
+demo_url: null
+video_url: https://www.youtube.com/embed/BPfNL_wyxjE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/428/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - google-maps
+  - langchain
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Amit Raj Reddy Dharam
+  - name: Venkata Shreesh Poojari
+  - name: vipinreddy1
+  - name: Anirudh Makuluri

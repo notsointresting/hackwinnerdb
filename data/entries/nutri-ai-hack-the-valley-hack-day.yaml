@@ -1,0 +1,14 @@
+id: nutri-ai-hack-the-valley-hack-day
+project_id: nutri-ai
+hackathon_id: hack-the-valley-hack-day
+submission_url: https://devpost.com/software/nutri-ai-h8xz5v
+source:
+  platform: devpost
+  url: https://devpost.com/software/nutri-ai-h8xz5v
+awards:
+  - type: other
+    title: Google Gemini Swag Kits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

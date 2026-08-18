@@ -1,0 +1,20 @@
+id: aegis
+name: Aegis
+slug: aegis
+tagline: Aegis trains seniors to recognize real scams through hands on simulations, before scammers
+  get the chance.
+summary: Aegis received the 2nd Place award at Cyber_Coders in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jaycodes18/Aegis
+demo_url: null
+video_url: https://www.youtube.com/embed/cYjG1a2DoVw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/578/241/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Srijayan Pallerla
+  - name: Sriyansh Senapati

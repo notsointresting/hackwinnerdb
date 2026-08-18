@@ -1,0 +1,22 @@
+id: grimorie
+name: Grimorie
+slug: grimorie
+tagline: "Grimorie: Organiza tus archivos de una forma mágica"
+summary: Grimorie received the MERLÍN SOFTWARE award at HackUDC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yupikaiyi/Grimoirev2
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/384/374/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: hugo iglesias
+  - name: jose.manuel.bermudez Bermúdez Vázquez
+  - name: Nico Moreiras
+  - name: Jack Cubas

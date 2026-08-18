@@ -1,0 +1,19 @@
+id: medconnect-sdg3
+name: medconnect-sdg3
+slug: medconnect-sdg3
+tagline: Notice how you feel. Find what helps. Connect with people who understand.
+summary: medconnect-sdg3 received the Honorable mention award at Github readme generation  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/crispychip146/medconnect-sdg3
+demo_url: null
+video_url: https://www.youtube.com/embed/XZXPNl0I_iI
+image_url: null
+categories:
+  - education
+technologies:
+  - flask
+  - python
+  - sqlite
+builders:
+  - name: Tahsin Nehal

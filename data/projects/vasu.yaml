@@ -1,0 +1,19 @@
+id: vasu
+name: VASU
+slug: vasu
+tagline: In a fast-paced world, managing daily tasks efficiently is essential. Our AI Personal
+  Assistant aims to streamline your day-to-day activities by leveraging adva
+summary: VASU received the Mlh swags award at Hackdays Prayagraj  in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Dinesh Gupta

@@ -1,0 +1,14 @@
+id: arkskill-claude-stanford-buildathon
+project_id: arkskill
+hackathon_id: claude-stanford-buildathon
+submission_url: https://devpost.com/software/arkskill
+source:
+  platform: devpost
+  url: https://devpost.com/software/arkskill
+awards:
+  - type: second-place
+    title: 2nd Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

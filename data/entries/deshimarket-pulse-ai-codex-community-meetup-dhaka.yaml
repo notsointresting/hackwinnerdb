@@ -1,0 +1,14 @@
+id: deshimarket-pulse-ai-codex-community-meetup-dhaka
+project_id: deshimarket-pulse-ai
+hackathon_id: codex-community-meetup-dhaka
+submission_url: https://devpost.com/software/deshimarket-pulse-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/deshimarket-pulse-ai
+awards:
+  - type: other
+    title: Codex Credit of $100
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

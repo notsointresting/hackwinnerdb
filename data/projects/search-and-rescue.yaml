@@ -1,0 +1,22 @@
+id: search-and-rescue
+name: Search and Rescue
+slug: search-and-rescue
+tagline: Search and Rescue is an AI-powered platform that lets users design buildings, create rescue
+  scenarios, and simulate optimized first responder routes for safer e
+summary: Search and Rescue received the Winner award at HooHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/483/265/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Alex Lee
+  - name: Hayden Robinette
+  - name: Imranbilal268 Imran
+  - name: Nurdin Hossain

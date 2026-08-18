@@ -1,0 +1,14 @@
+id: nook-claude-builder-club-spring-hackathon
+project_id: nook
+hackathon_id: claude-builder-club-spring-hackathon
+submission_url: https://devpost.com/software/nook-d0fl7g
+source:
+  platform: devpost
+  url: https://devpost.com/software/nook-d0fl7g
+awards:
+  - type: other
+    title: Code for Humanity
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

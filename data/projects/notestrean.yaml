@@ -1,0 +1,20 @@
+id: notestrean
+name: NoteStrean
+slug: notestrean
+tagline: Our platform uses the Gemini API within a hyper-simple interface to transform messy, shared
+  student notes into personalized, gap-closing study tools.
+summary: NoteStrean received the 50$ Gift Card award at Build With AI Hack Days @DIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/683/349/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - google-ai-studio
+builders:
+  - name: Israt jahan ayesha

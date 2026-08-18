@@ -1,0 +1,22 @@
+id: no-code-quant-trading
+name: No-code Quant Trading
+slug: no-code-quant-trading
+tagline: We built Simplified Quant Trading, a platform that makes quantitative trading more
+  accessible to people without strong coding or finance backgrounds.
+summary: No-code Quant Trading received the Economics track award at DataHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5hXVmepwuF0
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+builders:
+  - name: Jay Ma
+  - name: Claire Tu
+  - name: Hsin Yu Ho

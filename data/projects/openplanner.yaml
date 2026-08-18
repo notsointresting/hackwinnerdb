@@ -1,0 +1,24 @@
+id: openplanner
+name: OpenPlanner
+slug: openplanner
+tagline: "The bigger your plan, the faster you lose the thread. OpenPlanner gives sprawling AI work
+  structure and a home: phases you can run on demand, plus a library of "
+summary: OpenPlanner received the [Jetbrains] 2nd place award at HackUPC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NatanSisoev/OpenPlanner
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/052/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - mongodb
+  - typescript
+builders:
+  - name: Jan Munts Iglesias
+  - name: Sergi Prats
+  - name: Lluís Gay Torné
+  - name: NatanSisoev

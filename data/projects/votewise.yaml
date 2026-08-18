@@ -1,0 +1,31 @@
+id: votewise
+name: VoteWise
+slug: votewise
+tagline: Our mission is to help voters in Northern Ireland make an informed decision by providing
+  non-biased information on Parties and Politicians in one platform.
+summary: VoteWise received the Best Use Of Solana - SuperTeam Ireland award at HackBelfast in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/han-re/HackBelfast
+demo_url: null
+video_url: https://www.youtube.com/embed/snzIr7ZH6zE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/892/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - elevenlabs
+  - fastapi
+  - mongodb
+  - nextjs
+  - python
+  - react
+  - solana
+  - typescript
+  - vercel
+builders:
+  - name: Rehan Ananth
+  - name: Conor O'Carroll
+  - name: Ryan Alex
+  - name: Smaran Das

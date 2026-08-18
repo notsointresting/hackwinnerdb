@@ -1,0 +1,20 @@
+id: sustain
+name: sustAIn
+slug: sustain
+tagline: sustAIn makes AI more sustainable by compressing prompts without hurting quality, reducing
+  token usage, costs, and the water and energy needed to power AI.
+summary: sustAIn received the HackNova Winner award at HackNova 2026 (TEST) in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/eoy9QGDv9_0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/546/138/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - sustainability
+technologies:
+  - javascript
+  - typescript
+builders: []

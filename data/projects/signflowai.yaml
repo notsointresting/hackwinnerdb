@@ -1,0 +1,25 @@
+id: signflowai
+name: signflowai
+slug: signflowai
+tagline: SignFlowAI bridges the gap between Deaf and hearing communities using real-time ASL
+  detection, speech-to-sign translation, and an AI assistant — all in one beau
+summary: signflowai received the Best Beginner Hack award at Grizzhacks 8 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/512/598/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: anirudh vannemreddy
+  - name: Anushka Eggadi

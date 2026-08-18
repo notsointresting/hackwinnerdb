@@ -1,0 +1,16 @@
+id: guardi-am-starkhacks
+project_id: guardi-am
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/guardian-am
+source:
+  platform: devpost
+  url: https://devpost.com/software/guardian-am
+awards:
+  - type: category-winner
+    title: Best Use of AMD Tech
+  - type: other
+    title: Microsoft AI & Automation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

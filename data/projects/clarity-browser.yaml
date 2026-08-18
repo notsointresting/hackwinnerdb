@@ -1,0 +1,25 @@
+id: clarity-browser
+name: Clarity Browser
+slug: clarity-browser
+tagline: Your AI chief of staff — it builds your ideal daily schedule, time-blocks deep work, breaks
+  down tasks, and nudges you toward habits that keep you at your best.
+summary: Clarity Browser received the 3rd Place award at ZOOTech - Cursor Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/raja-omar/clarity-browser
+demo_url: null
+video_url: https://www.youtube.com/embed/U2KvLlWdo4M
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Amy Miller
+  - name: Pranav Kumar
+  - name: Raja Muhammed Omar
+  - name: Fabiha Fairuzz Subha

@@ -1,0 +1,14 @@
+id: pokeclanker-9b-hack-the-6ix-2026
+project_id: pokeclanker-9b
+hackathon_id: hack-the-6ix-2026
+submission_url: https://devpost.com/software/tiny-pokemon-clanker
+source:
+  platform: devpost
+  url: https://devpost.com/software/tiny-pokemon-clanker
+awards:
+  - type: category-winner
+    title: "Freesolo: Best Model Trained on Freesolo"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

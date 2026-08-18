@@ -1,0 +1,14 @@
+id: gauntlet-go-safe-or-go-home-uipath-agenthack
+project_id: gauntlet-go-safe-or-go-home
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/gauntlet-go-safe-or-go-home
+source:
+  platform: devpost
+  url: https://devpost.com/software/gauntlet-go-safe-or-go-home
+awards:
+  - type: grand-prize
+    title: Grand Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

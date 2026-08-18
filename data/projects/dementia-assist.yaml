@@ -1,0 +1,25 @@
+id: dementia-assist
+name: Dementia Assist
+slug: dementia-assist
+tagline: AI-powered smart glasses that remember faces so you don't have to.
+summary: "Dementia Assist received the HackAI General Track: Make Your Mark award at Hack AI 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Aamirmk9/Dementia-Assist
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/659/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - flask
+  - mongodb
+  - opencv
+  - python
+  - whisper
+builders:
+  - name: Aamir Khan
+  - name: zayd sayeed
+  - name: hassan khan

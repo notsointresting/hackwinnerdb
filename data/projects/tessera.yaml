@@ -1,0 +1,22 @@
+id: tessera
+name: Tessera
+slug: tessera
+tagline: A context-aware, AI-driven productivity manager featuring a dynamic, self-healing calendar.
+summary: Tessera received the Best Use of Gemini API award at Hack Days in Feni in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fardinfaruqi/tessera
+demo_url: null
+video_url: https://www.youtube.com/embed/96-K4PV7FMU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/726/577/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - productivity
+technologies:
+  - react
+  - tailwind-css
+builders:
+  - name: Baha Uddin Faruqi
+  - name: Md Monir
+  - name: Zafar Bin Baha Ahmed
+  - name: Amit

@@ -1,0 +1,20 @@
+id: miny-craving
+name: MiNY Craving
+slug: miny-craving
+tagline: From leftovers to a meal worth eating.
+summary: MiNY Craving received the Best Beginner Project award at Code Quest in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - productivity
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Yaroslav Klymiuk
+  - name: Mikael L.
+  - name: Nour Sabir

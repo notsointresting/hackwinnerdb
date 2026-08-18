@@ -1,0 +1,14 @@
+id: summerhacks
+name: SummerHacks
+slug: summerhacks
+organizer: []
+year: 2026
+sources:
+  - https://summerhacksca.devpost.com/
+  - https://summerhacksca.devpost.com/project-gallery?filter=winner
+website_url: https://summerhacksca.devpost.com/
+platform: devpost
+participant_count: 99
+prize_pool: 5200
+currency: USD
+description: "Devpost hackathon: SummerHacks. Imported automatically."

@@ -1,0 +1,22 @@
+id: replicarria
+name: Replicarria
+slug: replicarria
+tagline: A real-time economic simulation engine that shows how the general population reacts to
+  policy decisions, before they happen.
+summary: Replicarria received the Manhattan (Finance Track) award at HunterHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/michaelwong3049/replicarria
+demo_url: null
+video_url: https://www.youtube.com/embed/Kc8l6YCHJKg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/198/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: michaelwong3049 Wong
+  - name: Juan Apolo

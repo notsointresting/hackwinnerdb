@@ -1,0 +1,26 @@
+id: solarvision-genai-dev-hackathon
+project_id: solarvision
+hackathon_id: genai-dev-hackathon
+submission_url: https://devpost.com/software/solarvision-ign0ro
+source:
+  platform: devpost
+  url: https://devpost.com/software/solarvision-ign0ro
+awards:
+  - type: other
+    title: Participation - $1339 value
+  - type: other
+    title: 14th - 42nd positions - $60 value
+  - type: first-place
+    title: 1st Place
+  - type: first-place
+    title: 1st place
+  - type: other
+    title: Participation & Completion Recognition
+  - type: category-winner
+    title: Most Innovative Idea
+  - type: other
+    title: Top 10 Rankings - Mentoring
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: gmo-get-me-out
+name: GMO - Get Me Out
+slug: gmo-get-me-out
+tagline: Get Me Out is an offline app that uses local speech recognition to detect safe-words and
+  stage a perfectly-timed, realistic decoy call the moment you need a qui
+summary: GMO - Get Me Out received the Third Place award at HackHer 2026  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shillisachapagain/GetMeOut
+demo_url: null
+video_url: https://www.youtube.com/embed/xjCzvb7-5wY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/385/529/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - python
+builders:
+  - name: Shillisa Chapagain
+  - name: Basma Azeem
+  - name: Karelle Ngakam Samashi
+  - name: Nilaya Rimal

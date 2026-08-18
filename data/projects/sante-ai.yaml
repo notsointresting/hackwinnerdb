@@ -1,0 +1,18 @@
+id: sante-ai
+name: sante-ai
+slug: sante-ai
+tagline: SanteAI est une solution base dans le domaine de medecine, pour faciliter la diagnostique
+  des enfants mal nouri, grace ala description ou l'image
+summary: "sante-ai received the Best Use of Gemini API award at AI for Campus: Build with MLH in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ChristianAganze/SanteAi
+demo_url: null
+video_url: https://www.youtube.com/embed/poUKUKiIShw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/136/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Christian Aganze

@@ -1,0 +1,14 @@
+id: realityshift
+name: RealityShift
+slug: realityshift
+organizer: []
+year: 2026
+sources:
+  - https://realityshift.devpost.com/
+  - https://realityshift.devpost.com/project-gallery?filter=winner
+website_url: https://realityshift.devpost.com/
+platform: devpost
+participant_count: 55
+prize_pool: null
+currency: null
+description: "Devpost hackathon: RealityShift. Imported automatically."

@@ -1,0 +1,21 @@
+id: fde-agent-pre-flight-check-for-enterprise-ai-workflows
+name: "FDE Agent: Pre-Flight Check for Enterprise AI Workflows"
+slug: fde-agent-pre-flight-check-for-enterprise-ai-workflows
+tagline: A BPMN-orchestrated diagnosis on UiPath Maestro that scores every workflow node for
+  AI-delegation risk — and routes the dangerous ones to a human — before you s
+summary: "FDE Agent: Pre-Flight Check for Enterprise AI Workflows received the Honorable Mention of
+  UiPath Maestro BPMN award at UiPath AgentHack in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/minjikim89/fde-agent-uipath
+demo_url: null
+video_url: https://www.youtube.com/embed/eJ2IQGFTcb0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/849/367/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+builders:
+  - name: Minji Kim

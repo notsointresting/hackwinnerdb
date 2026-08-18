@@ -1,0 +1,23 @@
+id: futuroseguro
+name: FuturoSeguro
+slug: futuroseguro
+tagline: FuturoSeguro is an app that provides immigrant families with the financial tools and
+  knowledge to plan a secure future.
+summary: FuturoSeguro received the Beginner 1st Place award at SolHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vluis26/solhacks_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/xHsCttA0aJ4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/404/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Luis Villa
+  - name: DerekDA-13 Davila-Angoa
+  - name: Marco Volpe
+  - name: enochljoo

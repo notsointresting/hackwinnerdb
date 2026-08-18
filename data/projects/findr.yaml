@@ -1,0 +1,28 @@
+id: findr
+name: Findr
+slug: findr
+tagline: Findr is an AI memory assistant that uses smart glasses to build a searchable memory,
+  answer questions like "Where are my keys?", and alert caregivers during em
+summary: Findr received the SoloHack award at MarinHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NayanVangala/findr
+demo_url: null
+video_url: https://www.youtube.com/embed/OHbhyrJ4CbE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/051/862/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - kotlin
+  - nextjs
+  - python
+  - sqlite
+  - swift
+  - twilio
+  - typescript
+  - vercel
+  - whisper
+builders:
+  - name: Nayan Vangala

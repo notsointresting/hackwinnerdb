@@ -1,0 +1,23 @@
+id: agentclipz
+name: AgentClipz
+slug: agentclipz
+tagline: AgentClipz monitors your Twitch stream, finds the most engaging moments using factors like
+  chat and emotion data, and auto-publishes highlight clips to Instagra
+summary: AgentClipz received the Best use of Modulate's APIs award at Autonomous Agents Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/epicgdog/agentclipz
+demo_url: null
+video_url: https://www.youtube.com/embed/KjqkuLdLBHU
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+builders:
+  - name: brandontautuan Tautaun
+  - name: Mathew Rolf
+  - name: Gerard Consuelo
+  - name: Joeal Joseph

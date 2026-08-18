@@ -1,0 +1,20 @@
+id: sereneshield-digital-wellness-recovery-platform
+name: SereneShield — Digital Wellness & Recovery Platform
+slug: sereneshield-digital-wellness-recovery-platform
+tagline: SereneShield helps people overcome compulsive online habits with streak tracking, trigger
+  logging, guided breathing, and smart website blocking, turning recover
+summary: SereneShield — Digital Wellness & Recovery Platform received the Participation award at
+  Measure up in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Samrid10/serene-shield
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/896/925/datas/medium.jpg
+categories:
+  - healthcare
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Samriddha Das

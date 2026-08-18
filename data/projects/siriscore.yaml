@@ -1,0 +1,25 @@
+id: siriscore
+name: SiriScore
+slug: siriscore
+tagline: Pre-broadcast Bitcoin transaction privacy scorer. Know what a chain analyst sees before you sign.
+summary: SiriScore received the Honorable Mentions award at Bitcoin++ Open Source Edition in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nkatha23/siriscore
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/786/196/datas/medium.png
+categories:
+  - fintech
+  - cybersecurity
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Nkatha Kaburu
+  - name: Rose Jane
+  - name: Nelly Nakhero
+  - name: Susan Githaiga

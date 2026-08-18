@@ -1,0 +1,20 @@
+id: orbit-compass
+name: Orbit Compass
+slug: orbit-compass
+tagline: "From ticket to first commit in seconds. A GitLab Duo Custom Agent that uses Orbit Graph
+  Intelligence to map dependencies, rank codebase hotspots, and prescribe "
+summary: "Orbit Compass received the Contribute Track: 2 qualified Merged Merge Request award at
+  GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Arpit Tripathi

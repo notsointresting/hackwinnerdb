@@ -1,0 +1,27 @@
+id: vanguard-telematics
+name: Vanguard Telematics
+slug: vanguard-telematics
+tagline: Fire truck crash? Radio too slow. Rescuers in danger!We build smart tech. Fast sensors feel
+  crash right now. Save the savers fast!
+summary: Vanguard Telematics received the Best Use of The Agentverse by Fetch AI award at UC
+  Berkeley AI Hackathon 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/bencejdanko/VanguardTelematics
+demo_url: null
+video_url: https://www.youtube.com/embed/6oMx5WiXiPE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/805/702/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - openai
+  - python
+  - react
+  - redis
+builders:
+  - name: Angela Xu
+  - name: Bence Danko
+  - name: Reeth Kawad
+  - name: Richard Shuai

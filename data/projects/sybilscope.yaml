@@ -1,0 +1,23 @@
+id: sybilscope
+name: SybilScope
+slug: sybilscope
+tagline: SybilScope detects fake wallet clusters in crypto airdrops using JAC's native graph Walker
+  and AI reasoning, allowing teams to protect millions in token distrib
+summary: SybilScope received the Fintech — 2nd Place award at JacHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shrimannmyneni/sybilscope
+demo_url: null
+video_url: https://www.youtube.com/embed/6xC28FnsD9Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/307/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - claude
+  - fastapi
+builders:
+  - name: davidchong1224 Chong
+  - name: Yanshengtian Dong
+  - name: Shrimann Myneni

@@ -1,0 +1,25 @@
+id: wellspring-women-s-center-donation-tracker
+name: Wellspring Women’s Center Donation Tracker
+slug: wellspring-women-s-center-donation-tracker
+tagline: Voice-powered donation tracker for a Sacramento nonprofit women’s center. Overhauling a
+  previously analog process onto an intuitive digital platform.
+summary: Wellspring Women’s Center Donation Tracker received the Best Hack for Women's Center award
+  at HackDavis 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Momchil-Gavrilov/Wellspring_Women_Center_NGO.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Bzep6OLdguw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/656/371/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - figma
+  - mongodb
+  - vercel
+builders:
+  - name: Sophie Nguyen
+  - name: Jennifer Nguyen
+  - name: Ziyu Xu
+  - name: Momchil Gavrilov

@@ -1,0 +1,21 @@
+id: fleet-yield-middleware-zero-xyz-pomerium-nexla
+name: Fleet Yield Middleware (Zero.xyz, Pomerium, Nexla)
+slug: fleet-yield-middleware-zero-xyz-pomerium-nexla
+tagline: Reliability-aware GPU allocation. It turns failure risk into placement decisions, so your
+  scheduler stops burning GPU-hours on hardware that's about to fail.
+summary: Fleet Yield Middleware (Zero.xyz, Pomerium, Nexla) received the 1st Prize Winner - General
+  Judge award at Loop Engineering Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/manas15/risk-router/
+demo_url: null
+video_url: https://www.youtube.com/embed/xPzWCeHrfXE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/918/878/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies: []
+builders:
+  - name: Manas Sharma
+  - name: Sanskriti Uma

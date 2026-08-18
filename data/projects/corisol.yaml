@@ -1,0 +1,21 @@
+id: corisol
+name: Corisol
+slug: corisol
+tagline: a contactless biometric shield for IT teams that uses rPPG and AI to detect burnout before
+  it happens
+summary: Corisol received the 1st place award at Hack Esbjerg in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samsti/zen-state.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/472/096/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+technologies:
+  - python
+  - react
+builders:
+  - name: Samuel Stiksa
+  - name: dkMatuGr
+  - name: Tomáš Dračka

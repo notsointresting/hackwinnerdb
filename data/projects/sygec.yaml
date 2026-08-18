@@ -1,0 +1,23 @@
+id: sygec
+name: SyGEC
+slug: sygec
+tagline: « L'identité sécurisée, l'état civil modernisé. »
+summary: "SyGEC received the Best App Deployed on Google Cloud award at AI for Campus: Build with
+  MLH in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Tabitabagalwa/SyGEC
+demo_url: null
+video_url: https://www.youtube.com/embed/ogli9drqwdc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/185/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - gemini
+  - react
+builders:
+  - name: Johanna Binja
+  - name: Dorcas Bagalwa
+  - name: Plamedi Nzogu

@@ -1,0 +1,22 @@
+id: ramp
+name: RAMP
+slug: ramp
+tagline: Ramp helps Damm UK account managers prepare scheduled customer calls with generated
+  forecasts, custom reports, and clear visual support for gaps, wins, drivers,
+summary: RAMP received the Winner MarketPulse Challenge award at DAMM <&> EHUB in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GeriMan2004/marketpulse-damm-ehub
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/700/529/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Gerard Perez i Carbo
+  - name: Felipe Trejos

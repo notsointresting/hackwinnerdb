@@ -1,0 +1,25 @@
+id: treble-trouble
+name: Treble Trouble
+slug: treble-trouble
+tagline: Hum four instruments into your mic, conduct the AI-generated mix with your hands on a
+  webcam, and share the finished song with the world.
+summary: "Treble Trouble received the [MLH] Best Use of ElevenLabs award at HackHCC: Code Runners in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Mrdizzy14-Deklen/HackHCC2026
+demo_url: null
+video_url: https://www.youtube.com/embed/WJ3gaLFWgmU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/460/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Jordan Joelson
+  - name: Tushaar Sood
+  - name: MuditUpadhyay04 Upadhyay
+  - name: Deklen Nates

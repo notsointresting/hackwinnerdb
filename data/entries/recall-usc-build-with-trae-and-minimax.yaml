@@ -1,0 +1,16 @@
+id: recall-usc-build-with-trae-and-minimax
+project_id: recall
+hackathon_id: usc-build-with-trae-and-minimax
+submission_url: https://devpost.com/software/recall-xt2rg5
+source:
+  platform: devpost
+  url: https://devpost.com/software/recall-xt2rg5
+awards:
+  - type: other
+    title: Silver Prize
+  - type: first-place
+    title: Photon Track 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

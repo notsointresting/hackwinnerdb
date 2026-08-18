@@ -1,0 +1,16 @@
+id: auctopus-soon-hackathon
+project_id: auctopus
+hackathon_id: soon-hackathon
+submission_url: https://devpost.com/software/auctopus
+source:
+  platform: devpost
+  url: https://devpost.com/software/auctopus
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] Cloudinary Track"
+  - type: sponsor-prize
+    title: "[Sponsored] Polarity Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

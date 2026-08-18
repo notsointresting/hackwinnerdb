@@ -1,0 +1,14 @@
+id: agenthive-deep-agents-hackathon
+project_id: agenthive
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/d22
+source:
+  platform: devpost
+  url: https://devpost.com/software/d22
+awards:
+  - type: category-winner
+    title: Best Use of Ghost
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

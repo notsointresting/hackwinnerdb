@@ -1,0 +1,21 @@
+id: ownpath
+name: OwnPath
+slug: ownpath
+tagline: Helps workforce training participants stay on track through simple SMS check-ins, while
+  giving staff AI-powered insights to offer the right support, on the part
+summary: OwnPath received the [Community Food Bank of Southern Arizona] Best Preservation of
+  Individual Autonomy award at Hack Arizona 2026 in 2026. This record was imported automatically;
+  the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/gYVgs4H2qqw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/802/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Aishwarya Singh

@@ -1,0 +1,24 @@
+id: congestion-desk
+name: Congestion Desk
+slug: congestion-desk
+tagline: Predicting oil price swings by tracking real-world shipping traffic and port congestion
+  across the United States
+summary: Congestion Desk received the Prediction Markets award at YHack Spring 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/haxrha/YHACK2026_Oil
+demo_url: null
+video_url: https://www.youtube.com/embed/dp61DHE-SgM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/562/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Harish A
+  - name: Aryan Acharya

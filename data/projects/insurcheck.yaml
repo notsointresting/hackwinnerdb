@@ -1,0 +1,23 @@
+id: insurcheck
+name: INSURCHECK
+slug: insurcheck
+tagline: InsurCheck turns confusing medical bills into clear action plans, using PDF parsing, custom
+  billing rules, a lightweight RAG pipeline, and IBM WatsonX.
+summary: INSURCHECK received the Healthcare Track award at IBM x UNSA Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sidharthnair7/Medical-bill-Validator
+demo_url: null
+video_url: https://www.youtube.com/embed/su-qyZI9fh4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/142/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Sidharth Nair
+  - name: Basudev Biju
+  - name: Zannatul Tasnim Tahiti

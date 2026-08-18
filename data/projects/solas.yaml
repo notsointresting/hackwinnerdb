@@ -1,0 +1,21 @@
+id: solas
+name: solas
+slug: solas
+tagline: For people who experience visual and auditory hallucinations, solas aims to serve as a
+  light to cut through perceived chaos and bring clarity to everyday life.
+summary: solas received the General Track - 2nd award at UCI Design-a-thon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/7IVZtXHgByo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/614/667/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: em Hames
+  - name: Joline Dorton
+  - name: Vanessa Li
+  - name: Olivia Sismaet

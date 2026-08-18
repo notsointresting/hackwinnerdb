@@ -1,0 +1,24 @@
+id: vizem-flow-the-voicepill-mogger
+name: Vizem Flow (the Voicepill mogger)
+slug: vizem-flow-the-voicepill-mogger
+tagline: Voicepille was 2025. In 2026, you don’t need to use your voice. Press a key, & Vizem turns
+  lip movements into text 5× faster than typing - its like speaking, bu
+summary: "Vizem Flow (the Voicepill mogger) received the Track: Best AI Inference (3rd Place) award
+  at HackIllinois 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/Akshath-Nagulapally/lipvisemes
+demo_url: null
+video_url: https://www.youtube.com/embed/GIwp-fmZJ4U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/782/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - openai
+  - opencv
+  - python
+builders:
+  - name: Divvyam Arora
+  - name: Akshath-Nagulapally Nagulapally

@@ -1,0 +1,25 @@
+id: pricewar
+name: PriceWar
+slug: pricewar
+tagline: AI battle commander - scans orders, hunts price drops, negotiates refunds via AI voice
+  calls, blocks dark patterns, autonomously buys at the best price. Shoppin
+summary: "PriceWar received the Track: Enchanted Commerce (Commerce/E-Commerce) award at
+  DiamondHacks 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FpRhMyqqZl4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Manasvin Surya B J

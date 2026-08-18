@@ -1,0 +1,22 @@
+id: mekong-watch
+name: Mekong Watch
+slug: mekong-watch
+tagline: Mekong Delta Flood Risk Intelligence Turning satellite imagery into clear, local insights
+  for faster preparedness and smarter response.
+summary: "Mekong Watch received the 3rd Place: Best Virtual Hack award at HackDuke: Code For Good
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EyjCW-rHvwM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/480/778/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - google-maps
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Bianca Pham

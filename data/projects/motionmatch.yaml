@@ -1,0 +1,22 @@
+id: motionmatch
+name: MotionMatch
+slug: motionmatch
+tagline: A Google Classroom-style platform for dance teachers and students.
+summary: MotionMatch received the ($4k+) Other Awards award at The Vakathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ishmal770/danceapp
+demo_url: null
+video_url: https://www.youtube.com/embed/BI4lZcZgIGw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/784/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - nextjs
+  - postgresql
+  - typescript
+  - vercel
+builders:
+  - name: Isha Malla
+  - name: UnstoppableBlob
+  - name: Ashvi V.

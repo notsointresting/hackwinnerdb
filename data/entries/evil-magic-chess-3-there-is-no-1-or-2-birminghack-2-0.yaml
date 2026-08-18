@@ -1,0 +1,16 @@
+id: evil-magic-chess-3-there-is-no-1-or-2-birminghack-2-0
+project_id: evil-magic-chess-3-there-is-no-1-or-2
+hackathon_id: birminghack-2-0
+submission_url: https://devpost.com/software/evil-magic-chess-3-there-is-no-1-or-2
+source:
+  platform: devpost
+  url: https://devpost.com/software/evil-magic-chess-3-there-is-no-1-or-2
+awards:
+  - type: category-winner
+    title: "[birmingHack] - Best Newcomers"
+  - type: other
+    title: "[Hackathons UK] Hackiest Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

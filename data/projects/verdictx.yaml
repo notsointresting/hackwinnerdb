@@ -1,0 +1,24 @@
+id: verdictx
+name: VerdictX
+slug: verdictx
+tagline: An algorithm denied you. No explanation. No appeal. Until now. VerdictX deploys 5 AI agents
+  to fight your denial, and only hands you a case when the defense pro
+summary: "VerdictX received the Runner Up: Finance Track award at HackDuke: Code For Good 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/noteesh/HackDuke
+demo_url: null
+video_url: https://www.youtube.com/embed/KcBM_uwu5As
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/185/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - elevenlabs
+  - mongodb
+  - react
+builders:
+  - name: Sagnik Saha
+  - name: Patrick Kengsoontra
+  - name: Adi Chheda
+  - name: Nitesh Kanamarlapudi

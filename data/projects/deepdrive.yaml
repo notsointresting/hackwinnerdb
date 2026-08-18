@@ -1,0 +1,22 @@
+id: deepdrive
+name: DeepDrive
+slug: deepdrive
+tagline: A powerful declutter utility featuring an interactive storage mapper, an SHA-256
+  cryptographic deduplicator, and a registry-aware Windows AppData ghost folder h
+summary: DeepDrive received the Third Place award at Hack to the Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thegeekyqazi/DeepDrive
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - blockchain
+  - creative-tools
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Qazi Zayad Tarik
+  - name: Sawaab Anas

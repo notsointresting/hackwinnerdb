@@ -1,0 +1,14 @@
+id: quick2plan-damm-ehub
+project_id: quick2plan
+hackathon_id: damm-ehub
+submission_url: https://devpost.com/software/quick2plan
+source:
+  platform: devpost
+  url: https://devpost.com/software/quick2plan
+awards:
+  - type: winner
+    title: Winner LineWise Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

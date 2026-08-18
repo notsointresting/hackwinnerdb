@@ -1,0 +1,26 @@
+id: indicium
+name: Indicium
+slug: indicium
+tagline: Indicium is a big data aggregate for everything related to real estate; from population,
+  rent prices, and vacancy to migration, development, and employment type
+summary: Indicium received the JBL Speaker award at Google Solutions Challenge GDG on Campus
+  Virginia Tech Spring 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/lainofthewired7/GoogleSolutionsChallenge
+demo_url: null
+video_url: https://www.youtube.com/embed/YoGSnwIifjo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/589/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - flask
+  - gemini
+  - google-cloud
+  - python
+  - react
+  - typescript
+builders:
+  - name: Jack CS
+  - name: OwenPainter Painter
+  - name: Lambert Edigin

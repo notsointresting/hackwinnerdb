@@ -1,0 +1,14 @@
+id: wasteless-hack-with-swics
+project_id: wasteless
+hackathon_id: hack-with-swics
+submission_url: https://devpost.com/software/wasteless-08ns3q
+source:
+  platform: devpost
+  url: https://devpost.com/software/wasteless-08ns3q
+awards:
+  - type: other
+    title: Academics' Choice Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: ship-in-a-day
+name: Ship In a day
+slug: ship-in-a-day
+organizer: []
+year: 2026
+sources:
+  - https://ship-in-a-day.devpost.com/
+  - https://ship-in-a-day.devpost.com/project-gallery?filter=winner
+website_url: https://ship-in-a-day.devpost.com/
+platform: devpost
+participant_count: 34
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Ship In a day. Imported automatically."

@@ -1,0 +1,14 @@
+id: slack-agent-builder-challenge
+name: Slack Agent Builder Challenge
+slug: slack-agent-builder-challenge
+organizer: []
+year: 2026
+sources:
+  - https://slackhack.devpost.com/
+  - https://slackhack.devpost.com/project-gallery?filter=winner
+website_url: https://slackhack.devpost.com/
+platform: devpost
+participant_count: 4432
+prize_pool: 42000
+currency: USD
+description: "Devpost hackathon: Slack Agent Builder Challenge. Imported automatically."

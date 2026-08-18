@@ -1,0 +1,18 @@
+id: buddybot-gaba-hackday
+project_id: buddybot
+hackathon_id: gaba-hackday
+submission_url: https://devpost.com/software/buddybot-ds5bxv
+source:
+  platform: devpost
+  url: https://devpost.com/software/buddybot-ds5bxv
+awards:
+  - type: other
+    title: Certificate
+  - type: other
+    title: GABA Membership
+  - type: other
+    title: CS Internship
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

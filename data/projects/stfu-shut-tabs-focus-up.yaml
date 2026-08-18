@@ -1,0 +1,19 @@
+id: stfu-shut-tabs-focus-up
+name: STFU (Shut Tabs, Focus Up)
+slug: stfu-shut-tabs-focus-up
+tagline: Shut Tabs, Focus Up the program that'll get you to ACTUALLY get your work done.
+summary: STFU (Shut Tabs, Focus Up) received the Overall Best Hacks award at Hack With SWiCS in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Melika Rezaei
+  - name: Dana Aljamal
+  - name: Ghand Alshidi

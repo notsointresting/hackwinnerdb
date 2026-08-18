@@ -1,0 +1,14 @@
+id: codexa-hack-the-net
+project_id: codexa
+hackathon_id: hack-the-net
+submission_url: https://devpost.com/software/codexa
+source:
+  platform: devpost
+  url: https://devpost.com/software/codexa
+awards:
+  - type: category-winner
+    title: Best Use of MeDo
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

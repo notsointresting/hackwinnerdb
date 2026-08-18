@@ -1,0 +1,21 @@
+id: safetyconnect
+name: SafetyConnect
+slug: safetyconnect
+tagline: "SafetyConnect: autonomous drug-recall defense for patient safety. Pulls FDA recalls, uses
+  xAI Grok to rate severity and alerts patients, pharmacies, providers &"
+summary: SafetyConnect received the Second Place award at Autonomous Healthcare Hackathon | Legion
+  Health x Atlas in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/mansiguptacs/SafetyConnect
+demo_url: null
+video_url: https://www.youtube.com/embed/6OpGfrD0LfM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/801/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - vercel
+builders:
+  - name: Udit Gupta

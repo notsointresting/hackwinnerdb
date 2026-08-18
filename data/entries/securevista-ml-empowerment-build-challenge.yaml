@@ -1,0 +1,20 @@
+id: securevista-ml-empowerment-build-challenge
+project_id: securevista
+hackathon_id: ml-empowerment-build-challenge
+submission_url: https://devpost.com/software/securevista
+source:
+  platform: devpost
+  url: https://devpost.com/software/securevista
+awards:
+  - type: third-place
+    title: 3rd Overall
+  - type: other
+    title: Honorary Participation
+  - type: other
+    title: Participation
+  - type: category-winner
+    title: Most Scalable Solution
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

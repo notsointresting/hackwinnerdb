@@ -1,0 +1,22 @@
+id: sentinelai
+name: SentinelAI
+slug: sentinelai
+tagline: AI-powered enterprise security auditing for modern codebases. Detect deep logic flaws,
+  enforce compliance, and auto-patch vulnerabilities using a Multi-Agent RA
+summary: SentinelAI received the Best Use of Google APIs (Gemini/Cloud) award at Gemini.exe 2.0 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/StarDust-Git-Code/sential.ai
+demo_url: null
+video_url: https://www.youtube.com/embed/bc6zBGFq38A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/798/789/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - cybersecurity
+technologies:
+  - fastapi
+  - python
+  - sqlite
+builders:
+  - name: Irshad  Ahamed

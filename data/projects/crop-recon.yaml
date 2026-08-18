@@ -1,0 +1,24 @@
+id: crop-recon
+name: Crop Recon
+slug: crop-recon
+tagline: All in one dashboard for farmers to integrate multiple sensors into
+summary: Crop Recon received the Best Use of Hardware award at Broncohacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/joestrada1022/BroncoHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/oCS5TYJREeQ
+image_url: null
+categories:
+  - other
+technologies:
+  - c-plus-plus
+  - esp32
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Joshua Estrada
+  - name: Michael Castillo
+  - name: Max Gross
+  - name: Ryan Tran

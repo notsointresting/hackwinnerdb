@@ -1,0 +1,22 @@
+id: synapse-ai-ops
+name: Synapse AI ops
+slug: synapse-ai-ops
+tagline: Synapse AI ops
+summary: Synapse AI ops received the GetStream Track Winner award at SCU Hack-a-Stack - Sprint Track
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/suhaasteja/synapse-AI-ops
+demo_url: null
+video_url: https://www.youtube.com/watch?v=leGjsWR0A6Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/673/623/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Suhaas Teja Vijjagiri
+  - name: Aashrith Devulapally

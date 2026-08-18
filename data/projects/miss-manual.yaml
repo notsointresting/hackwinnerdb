@@ -1,0 +1,22 @@
+id: miss-manual
+name: Miss Manual
+slug: miss-manual
+tagline: Learn financial literacy without the lecture or the lingo, just the way Gen Z likes it!
+summary: Miss Manual received the 2nd place North Carolina FidHacks Winners award at North Carolina
+  FidHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/pk12-eng/FidHacksMissManual
+demo_url: null
+video_url: https://www.youtube.com/embed/MQDZrHPsopk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/663/804/datas/medium.png
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - java
+builders:
+  - name: Meghana Kanamurlapudi
+  - name: Annabel Balami
+  - name: Emily Morell
+  - name: Pkvander Vanderveen

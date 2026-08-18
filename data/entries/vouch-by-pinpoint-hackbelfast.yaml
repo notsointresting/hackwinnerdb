@@ -1,0 +1,14 @@
+id: vouch-by-pinpoint-hackbelfast
+project_id: vouch-by-pinpoint
+hackathon_id: hackbelfast
+submission_url: https://devpost.com/software/vouch-by-pinpoint-tl6n1r
+source:
+  platform: devpost
+  url: https://devpost.com/software/vouch-by-pinpoint-tl6n1r
+awards:
+  - type: category-winner
+    title: Best Use Of Solana - SuperTeam Ireland
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

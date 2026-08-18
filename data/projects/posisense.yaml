@@ -1,0 +1,24 @@
+id: posisense
+name: PosiSense
+slug: posisense
+tagline: Real-time AI interview coach that analyzes how you come across on camera — eye contact,
+  expression, and pacing — not just what you say.
+summary: PosiSense received the [MLH] Best Use of Presage award at Hack AI 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TrinhTT8/posi-sense
+demo_url: null
+video_url: https://www.youtube.com/embed/kLnBbITOxEc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/310/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - c-plus-plus
+  - figma
+  - mongodb
+  - react
+builders:
+  - name: Linh Tran
+  - name: Claire Perlick
+  - name: Trinh Tran

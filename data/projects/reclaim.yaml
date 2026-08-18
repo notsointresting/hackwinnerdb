@@ -1,0 +1,22 @@
+id: reclaim
+name: Reclaim.
+slug: reclaim
+tagline: Restoring agency and identity to non-verbal individuals.
+summary: "Reclaim. received the Best Use of DigitalOcean AI Platform in a Social Good Hack award at
+  AI for Social Good: Hack with MLH & DigitalOcean in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/AlanRoybal/reclaim/
+demo_url: null
+video_url: https://www.youtube.com/embed/D1nABnt_-C8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - react
+  - react-native
+builders:
+  - name: Alan Roybal

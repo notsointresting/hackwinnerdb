@@ -1,0 +1,22 @@
+id: quick2plan
+name: Quick2Plan
+slug: quick2plan
+tagline: Quick2Plan uses AI, graph optimization, and simulation to find faster, explainable factory
+  production sequences, reducing changeovers and helping planners react
+summary: Quick2Plan received the Winner LineWise Challenge award at DAMM <&> EHUB in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Santi-49/Damm-EHUB
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - langchain
+  - react
+builders:
+  - name: Santiago Romagosa Pérez-Portabella

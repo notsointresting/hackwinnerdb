@@ -1,0 +1,14 @@
+id: carver-the-migration-quoting-agent-gitlab-transcend-hackathon
+project_id: carver-the-migration-quoting-agent
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/carver-the-migration-quoting-agent
+source:
+  platform: devpost
+  url: https://devpost.com/software/carver-the-migration-quoting-agent
+awards:
+  - type: first-place
+    title: "Showcase Track: Design and Usability, First Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

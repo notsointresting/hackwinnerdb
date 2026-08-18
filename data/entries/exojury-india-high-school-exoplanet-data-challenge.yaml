@@ -1,0 +1,14 @@
+id: exojury-india-high-school-exoplanet-data-challenge
+project_id: exojury
+hackathon_id: india-high-school-exoplanet-data-challenge
+submission_url: https://devpost.com/software/exojury
+source:
+  platform: devpost
+  url: https://devpost.com/software/exojury
+awards:
+  - type: other
+    title: Rising Star Award For the strongest solo participant, no team.
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

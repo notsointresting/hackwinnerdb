@@ -1,0 +1,22 @@
+id: wattasave
+name: WattaSave
+slug: wattasave
+tagline: Save watts. Save money. WattaSave!
+summary: WattaSave received the Best Clean Energy Solution [OneEthos] award at BloomKnights in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/retromonos/Bloomknights26
+demo_url: null
+video_url: https://www.youtube.com/embed/ybMlFHWhWI4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/883/208/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - figma
+  - react
+  - typescript
+builders:
+  - name: Kaitlyn  Awai
+  - name: Elizabeth Pretto-Sotelo ⊹.✮₊⋆
+  - name: CJ Young
+  - name: Luke Cullen

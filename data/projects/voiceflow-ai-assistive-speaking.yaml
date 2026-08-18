@@ -1,0 +1,23 @@
+id: voiceflow-ai-assistive-speaking
+name: "VoiceFlow: AI Assistive Speaking"
+slug: voiceflow-ai-assistive-speaking
+tagline: Imagine you have VCD, Tourette's, or no voice at all. VoiceFlow clones yours(premade ones
+  also available), turns typing into speech, then share a link so anyone
+summary: "VoiceFlow: AI Assistive Speaking received the Top 10 Teams award at LingHacks VII in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Jinanplayz/VoiceFlow-Assistive-Speaking.git
+demo_url: null
+video_url: https://www.youtube.com/embed/rSwCWa4IWp8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Ahnaf Saleque Jinan
+  - name: Nikita A
+  - name: Brendan Gho

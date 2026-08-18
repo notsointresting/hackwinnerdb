@@ -1,0 +1,20 @@
+id: t-os-ai-powered-systems-education-platform
+name: "T-OS: AI-Powered Systems Education Platform"
+slug: t-os-ai-powered-systems-education-platform
+tagline: A real bare-metal ARM OS paired with an AI tutor that teaches memory, scheduling, and OS
+  internals through live code.
+summary: "T-OS: AI-Powered Systems Education Platform received the Participation Prize award at DSH
+  Hacks V1 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/shadcy/TOS/tree/main-win-version-base-shareware
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/469/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Shreyash Wanjari

@@ -1,0 +1,22 @@
+id: k-vayo
+name: K Vayo
+slug: k-vayo
+tagline: K Vayo is made to help people understand and translate their medical papers, discharge
+  papers better. Especially in Nepal, where forget medical jargons, many pe
+summary: K Vayo received the Best Design (UI/UX) award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kripswips/kvayo
+demo_url: null
+video_url: https://www.youtube.com/embed/TmwF-3nlRLE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/772/825/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - gemini
+  - python
+builders:
+  - name: Kripesh Raj Sharma

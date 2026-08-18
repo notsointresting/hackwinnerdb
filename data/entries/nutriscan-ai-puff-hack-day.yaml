@@ -1,0 +1,14 @@
+id: nutriscan-ai-puff-hack-day
+project_id: nutriscan-ai
+hackathon_id: puff-hack-day
+submission_url: https://devpost.com/software/nutriscan-ai-e0ocvn
+source:
+  platform: devpost
+  url: https://devpost.com/software/nutriscan-ai-e0ocvn
+awards:
+  - type: other
+    title: Google Swags
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

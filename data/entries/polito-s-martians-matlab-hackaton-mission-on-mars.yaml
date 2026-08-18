@@ -1,0 +1,14 @@
+id: polito-s-martians-matlab-hackaton-mission-on-mars
+project_id: polito-s-martians
+hackathon_id: matlab-hackaton-mission-on-mars
+submission_url: https://devpost.com/software/polito-s-martians
+source:
+  platform: devpost
+  url: https://devpost.com/software/polito-s-martians
+awards:
+  - type: second-place
+    title: Second place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: voxvest
+name: VoxVest
+slug: voxvest
+tagline: Wearable Bidirectional Communication Device with Haptics for Visual & Auditory Impairments
+summary: VoxVest received the Social Good Challenge award at Rutgers IEEE X HART Build-a-thon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/suhani-mehra/VoxVest.git
+demo_url: null
+video_url: https://www.youtube.com/embed/nJfrlgS5Di0
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Preisha Mishra
+  - name: Julien Thiberge
+  - name: Suhani Mehra
+  - name: RidgyFool93

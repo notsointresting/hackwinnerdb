@@ -1,0 +1,25 @@
+id: aerofreight-ai
+name: AeroFreight AI
+slug: aerofreight-ai
+tagline: "AeroFreight AI: A multi-agent platform that plans smarter international shipments from
+  origin to final delivery, whether through air or sea."
+summary: AeroFreight AI received the Best Use of The Agentverse by Fetch AI award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/aniketggg/AeroFreight-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/5XbmtxZjauw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/804/415/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - python
+  - stripe
+builders:
+  - name: Riya Sameer Khasnis
+  - name: Aniket Gupta
+  - name: Neel Panchumarthi
+  - name: Ashwin Kalyan

@@ -1,0 +1,25 @@
+id: campusguard
+name: CampusGuard
+slug: campusguard
+tagline: Real-time AI fight detection across live campus cameras, instantly classifying every
+  incident by severity so the right response reaches the right place at the r
+summary: CampusGuard received the [MLH] Best Use of Gemini API award at JACHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Mohamed-Ltf/JackHacks2026/tree/v1
+demo_url: null
+video_url: https://www.youtube.com/embed/q7GQu2AOz8Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/216/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - opencv
+  - python
+builders:
+  - name: Hooman Afshari
+  - name: Mohamed-Ltf Loutfi
+  - name: AlexCoding123 Davila
+  - name: Amirreza Mojtahedi

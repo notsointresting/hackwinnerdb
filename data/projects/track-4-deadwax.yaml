@@ -1,0 +1,25 @@
+id: track-4-deadwax
+name: "[Track 4]: deadwax"
+slug: track-4-deadwax
+tagline: Music collab is stuck at ZIP files. deadwax gives producers shared workspaces, version
+  control, and attribution across any DAW. No overwritten files, no lost cr
+summary: "[Track 4]: deadwax received the Best Overall award at SJHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/rainazab/SJH26
+demo_url: null
+video_url: https://www.youtube.com/embed/IlEL72g80Pk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/343/datas/gallery.jpg
+categories:
+  - media
+  - creative-tools
+technologies:
+  - javascript
+  - sql
+  - supabase
+  - vercel
+builders:
+  - name: Matilda Verdejo Aitken
+  - name: Maria Palacios
+  - name: Guadalupe Carrillo Vega
+  - name: Raina Zab

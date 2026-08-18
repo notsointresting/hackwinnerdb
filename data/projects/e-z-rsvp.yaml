@@ -1,0 +1,29 @@
+id: e-z-rsvp
+name: e-z.rsvp
+slug: e-z-rsvp
+tagline: Say yes now. Find out later. e-z.rsvp matches you and your friends with surprise adventures
+  without decision fatigue. It's our job to find the events. All you h
+summary: e-z.rsvp received the name.com — Domain Roulette award at DeveloperWeek New York 2026
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/maaatm/ez-rsvp-app
+demo_url: null
+video_url: https://www.youtube.com/embed/Nnzwde5RhoM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/750/215/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - claude
+  - google-cloud
+  - react
+  - stripe
+  - supabase
+  - swift
+  - typescript
+  - vercel
+builders:
+  - name: Ayaan Malik
+  - name: Matthew Ma

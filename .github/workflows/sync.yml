@@ -1,0 +1,70 @@
+name: Sync Devpost Winners
+
+on:
+  schedule:
+    # Run hourly at minute 0
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      events:
+        description: "Number of events to discover and process"
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Devpost sync
+        run: |
+          EVENTS="${{ github.event.inputs.events || '10' }}"
+          npm run sync -- --events "$EVENTS"
+
+      - name: Validate data
+        run: |
+          npm run validate:data
+          npm run check:duplicates
+
+      - name: Re-generate static dataset
+        run: npm run generate:data
+
+      - name: Verify types & unit tests
+        run: |
+          npm run typecheck
+          npm test
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "data: auto-sync Devpost hackathon winners"
+          branch: sync/devpost-winners
+          delete-branch: true
+          title: "Auto-sync Devpost hackathon winners"
+          body: |
+            Automated background sync of ended Devpost hackathons and winning projects.
+
+            - All imported entries are marked as `unverified` ("Source pending review")
+            - Summaries are factually generated from structured fields (CC BY 4.0 compliant)
+            - Passed schema validation and duplicate checks
+
+            Please review the sources and verify entries when confirmed.
+          labels: |
+            data
+            automated-sync

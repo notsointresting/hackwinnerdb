@@ -1,0 +1,21 @@
+id: bridgebay
+name: BridgeBay
+slug: bridgebay
+tagline: "BridgeBay connects Bay Area teens with local seniors for structured tasks like tech help
+  and errands. Teens earn service hours and mentorship. Seniors get real "
+summary: BridgeBay received the 2nd Place award at Panther Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ersubhMPHqE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/666/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - figma
+  - javascript
+builders:
+  - name: Tate Wamola
+  - name: Zayaan Nafar
+  - name: Manuel Diuk

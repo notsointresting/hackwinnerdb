@@ -1,0 +1,29 @@
+id: launchpilot
+name: LaunchPilot
+slug: launchpilot
+tagline: LaunchPilot AI turns vague startup ideas into evidence-backed execution plans.#Your AI
+  cofounder for validating ideas before you build.Vague Idea → Evidence → L
+summary: LaunchPilot received the Best UI/UX award at Build the Future with AI — From Code to
+  No-Code in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/UnknownGod2011/USAII/tree/final-google-auth-projects
+demo_url: null
+video_url: https://www.youtube.com/embed/wM_m63qK2FA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/799/798/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - groq
+  - llama
+  - react
+  - sqlite
+  - typescript
+  - vercel
+builders:
+  - name: Tanush Shah
+  - name: Khushi Verma
+  - name: jiya032007 Yadav
+  - name: Krithik Poola

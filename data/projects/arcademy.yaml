@@ -1,0 +1,22 @@
+id: arcademy
+name: ARcademy
+slug: arcademy
+tagline: Make learning fun by bringing STEM content to life through AR technology
+summary: "ARcademy received the $50 Amazon Gift Card award at HackMars 3.0: NEON in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/UltraRaptorYT/ARcademy
+demo_url: null
+video_url: https://www.youtube.com/embed/6R_vUQwCU30
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/623/418/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Soh Hong Yu
+  - name: Kaleb Nim
+  - name: Jia Yi Tang
+  - name: Chai Pin Zheng

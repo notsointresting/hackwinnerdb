@@ -1,0 +1,19 @@
+id: rack
+name: Rack
+slug: rack
+tagline: Outfit planning built from your own closet
+summary: Rack received the Participation Certificates award at Ctrl+V Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/joseph17-mancity/rack-closet-style-planner-com
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/965/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+builders:
+  - name: Joseph Kayombo

@@ -1,0 +1,23 @@
+id: amberai
+name: AmberAI
+slug: amberai
+tagline: AmberAI uses multi-agent AI to analyze 1,000+ geospatial data points per wildfire,
+  predicting spread, optimizing response, and automating evacuations in real ti
+summary: AmberAI received the MacBook Neos award at HackUP in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/camelCasedAditya/Amber
+demo_url: null
+video_url: https://www.youtube.com/embed/E2c9EZXGSls
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/123/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - claude
+  - django
+  - javascript
+  - postgresql
+builders:
+  - name: Aditya Chandrashekaran
+  - name: Yashwanth Narayan Shravanaboyina Besta
+  - name: Shiva Charan Enaguthi

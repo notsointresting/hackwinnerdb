@@ -1,0 +1,14 @@
+id: ai-pharmax-youth-code-x-ai
+project_id: ai-pharmax
+hackathon_id: youth-code-x-ai
+submission_url: https://devpost.com/software/ai-pharmax
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-pharmax
+awards:
+  - type: category-winner
+    title: Best Original idea (Three teams)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

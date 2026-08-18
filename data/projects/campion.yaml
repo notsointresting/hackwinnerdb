@@ -1,0 +1,25 @@
+id: campion
+name: Campion
+slug: campion
+tagline: An AI multi-agent camping finder that surfaces undiscovered dispersed camping spots using
+  topographical map and environmental data, plus aggregates maps, forums
+summary: Campion received the Best UI/UX award at DiamondHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KN00nQhtAdQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/539/145/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+  - mapbox
+  - python
+builders:
+  - name: Jun Pei
+  - name: Joshua Doha Ko
+  - name: Richard Hefner, Jr.
+  - name: Jordan Ayling

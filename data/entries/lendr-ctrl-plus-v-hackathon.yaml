@@ -1,0 +1,16 @@
+id: lendr-ctrl-plus-v-hackathon
+project_id: lendr
+hackathon_id: ctrl-plus-v-hackathon
+submission_url: https://devpost.com/software/lendr-arix4l
+source:
+  platform: devpost
+  url: https://devpost.com/software/lendr-arix4l
+awards:
+  - type: first-place
+    title: First place - CTRL-V Champion
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

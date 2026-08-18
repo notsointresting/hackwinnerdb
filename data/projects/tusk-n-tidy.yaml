@@ -1,0 +1,24 @@
+id: tusk-n-tidy
+name: Tusk 'n Tidy
+slug: tusk-n-tidy
+tagline: From audio to answers, one elephant at a time.
+summary: Tusk 'n Tidy received the iMasons award at HackSMU VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ChauhanSai/hacksmu26
+demo_url: null
+video_url: https://www.youtube.com/embed/EAKHnHKYA9E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/534/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - solana
+builders:
+  - name: Jagadeep Kalluri
+  - name: Nathan Han
+  - name: Sai Chauhan
+  - name: Abhijith Utla

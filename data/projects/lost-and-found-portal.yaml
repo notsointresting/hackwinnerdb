@@ -1,0 +1,21 @@
+id: lost-and-found-portal
+name: Lost and Found Portal
+slug: lost-and-found-portal
+tagline: Campus Recollect is a smart campus Lost & Found platform that helps students report,
+  discover, and recover lost belongings through easy listings and secure owne
+summary: Lost and Found Portal received the MLH Stickers+ Swags . award at Hackdays Maa Chandika
+  Convent School  in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - social-impact
+  - iot
+technologies:
+  - gemini
+builders:
+  - name: Vanshika Singh

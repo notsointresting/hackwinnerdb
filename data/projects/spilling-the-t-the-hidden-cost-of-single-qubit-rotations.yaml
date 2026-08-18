@@ -1,0 +1,22 @@
+id: spilling-the-t-the-hidden-cost-of-single-qubit-rotations
+name: "Spilling the T : The Hidden Cost of Single-Qubit Rotations"
+slug: spilling-the-t-the-hidden-cost-of-single-qubit-rotations
+tagline: "YQuantum 2026 Competition Track: QuEra Challenge Team Name: Calbits Shuhul Mujoo,1 Nandana
+  Madhukara,1 Thuwaragesh Jayachandran,1 Joshua Mu,1 and Emiliano Nolas"
+summary: "Spilling the T : The Hidden Cost of Single-Qubit Rotations received the QuEra - 1st Place
+  award at YQuantum 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/shuhul
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/029/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Shuhul Mujoo
+  - name: Joshua Mu
+  - name: Nandana Madhukara
+  - name: Emiliano Nolasco

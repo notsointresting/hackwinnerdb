@@ -1,0 +1,26 @@
+id: whereto
+name: Whereto
+slug: whereto
+tagline: We built a realtime campus occupancy tracker that shows students exactly where to find
+  quiet study spot.No wandering, no wasted time!!This is something which ca
+summary: Whereto received the ITS Challenge award at JACHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Iktisad/JACHACKS_2026_Where2.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/779/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - javascript
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Mahim Rahman
+  - name: Iktisad Rashid
+  - name: Fatema Ahsan Meem

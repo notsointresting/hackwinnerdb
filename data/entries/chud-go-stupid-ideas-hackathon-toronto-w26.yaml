@@ -1,0 +1,14 @@
+id: chud-go-stupid-ideas-hackathon-toronto-w26
+project_id: chud-go
+hackathon_id: stupid-ideas-hackathon-toronto-w26
+submission_url: https://devpost.com/software/chud-go
+source:
+  platform: devpost
+  url: https://devpost.com/software/chud-go
+awards:
+  - type: second-place
+    title: stupider (2nd overall)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

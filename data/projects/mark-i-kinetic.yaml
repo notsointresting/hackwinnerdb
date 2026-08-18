@@ -1,0 +1,22 @@
+id: mark-i-kinetic
+name: "MARK I: KINETIC"
+slug: mark-i-kinetic
+tagline: "Inspired by Iron Man, MARK I: KINETIC smart gloves turn gestures into slide control. Swipe
+  mid-air, keep your flow. No mouse, just seamless, invisible communica"
+summary: "MARK I: KINETIC received the Best Hardware Hack award at RevolutionUC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/andrew-dang045/MARK-1-KINETIC
+demo_url: null
+video_url: https://www.youtube.com/embed/XLgsjJBrgK8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/852/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: Harry Nguyen
+  - name: huyle1002 Le
+  - name: Tran Phuoc Dung Dang
+  - name: chinguyen07

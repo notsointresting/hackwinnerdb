@@ -1,0 +1,21 @@
+id: mediexplainai
+name: MediExplainAI
+slug: mediexplainai
+tagline: "MediExplain AI is an AI-powered app that explains medical reports in simple English or
+  Bangla. Upload a PDF or image to get clear summaries, term explanations, "
+summary: MediExplainAI received the 50$ Visa Gift Card award at Build With AI Hack Days @RU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jonadib/MediExplainAI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/907/741/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: ADIB Adib

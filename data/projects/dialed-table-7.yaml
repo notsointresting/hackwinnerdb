@@ -1,0 +1,24 @@
+id: dialed-table-7
+name: dialed | table 7
+slug: dialed-table-7
+tagline: fighting intellectual rot in real time
+summary: dialed | table 7 received the Mental Health award at BeachHacks 9.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MatthewKim323/dialed#
+demo_url: null
+video_url: https://www.youtube.com/embed/4p465QSmuOE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/536/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Matthew Kim
+  - name: Nathan Kim

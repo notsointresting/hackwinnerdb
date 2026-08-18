@@ -1,0 +1,26 @@
+id: neuroprint-hackdartmouth-xi
+project_id: neuroprint
+hackathon_id: hackdartmouth-xi
+submission_url: https://devpost.com/software/neuroprint-cky41g
+source:
+  platform: devpost
+  url: https://devpost.com/software/neuroprint-cky41g
+awards:
+  - type: other
+    title: Nintendo Switch
+  - type: other
+    title: Instamax Polaroid Camera
+  - type: other
+    title: Ornata V3 Razer Gaming Keyboard
+  - type: other
+    title: Razor/Logtiech Gaming Mouse
+  - type: other
+    title: Razor Kraken V3X Gaming Headset
+  - type: other
+    title: AirPod 4
+  - type: track-winner
+    title: Adaptional Interview Fast Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

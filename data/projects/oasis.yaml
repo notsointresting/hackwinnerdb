@@ -1,0 +1,22 @@
+id: oasis
+name: .oasis
+slug: oasis
+tagline: IT is lonely. We have 1,000 tools for Jira, 0 for human connection. Enter .oasis. Blob AI
+  breaks the digital trance to get your team offline & social. Save 500k
+summary: .oasis received the MLH || Best Use of Gemini API || Google Swag Kits award at Hack Esbjerg
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mazonk/oasis-be
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/473/323/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - postgresql
+  - typescript
+  - vue
+builders:
+  - name: Katarína Brezániová
+  - name: 4ndris1114

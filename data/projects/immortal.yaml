@@ -1,0 +1,21 @@
+id: immortal
+name: Immortal
+slug: immortal
+tagline: Bryan Johnson spends 3 million dollars a year to stay alive forever. Not everyone has 3
+  million dollars. Download Immortal.
+summary: Immortal received the API Credits + Cash award at Anthropic x Maryland Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/658/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Adam Zeineldin
+  - name: Shanmukha Pothukuchi
+  - name: Reyan Yousif
+  - name: Bassil Shalaby

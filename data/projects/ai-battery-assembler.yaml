@@ -1,0 +1,19 @@
+id: ai-battery-assembler
+name: AI Battery Assembler
+slug: ai-battery-assembler
+tagline: Using machine learning to teach industrial robots
+summary: AI Battery Assembler received the Best Use of AMD Tech award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qi1dCMwPxhA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/227/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+builders:
+  - name: Willem Bell

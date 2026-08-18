@@ -1,0 +1,22 @@
+id: jac-in-the-block
+name: Jac in the Block
+slug: jac-in-the-block
+tagline: "We built an accessible learning toolkit for Jac that combines a block-based visual
+  interface, real-time graph visualization, and a VS Code Extension Suite with "
+summary: Jac in the Block received the Social Impact Track — 2nd Place award at JacHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adam1sm/japply
+demo_url: null
+video_url: https://www.youtube.com/embed/nxqcHtGdQfo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/529/690/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies: []
+builders:
+  - name: Kuldeep Debnath
+  - name: Junna Park
+  - name: Krish Deshmukh
+  - name: Adam

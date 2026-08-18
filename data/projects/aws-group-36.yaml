@@ -1,0 +1,20 @@
+id: aws-group-36
+name: AWS-Group-36
+slug: aws-group-36
+tagline: First time using AWS Services
+summary: AWS-Group-36 received the Honarary Mentions award at Cloudathon@SJSU 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - cybersecurity
+  - productivity
+technologies: []
+builders:
+  - name: Asher Drake Alacar
+  - name: Neel Patel
+  - name: Jason Doria
+  - name: Gloria Duo

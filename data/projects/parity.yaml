@@ -1,0 +1,25 @@
+id: parity
+name: Parity
+slug: parity
+tagline: Enter any opinion. AI steelmans both sides — you pick a position and fight back across 5
+  rounds. Voice duel, fallacy detection, and coach mode. AI judge renders
+summary: Parity received the Top 7–10 Projects - Rising Builder Awards award at LovHack Season 2 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/omshukla24/Parity
+demo_url: null
+video_url: https://www.youtube.com/embed/iMewWndyTG4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/483/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Om Shukla
+  - name: Ayush Shukla
+  - name: Mayank Tiwari

@@ -1,0 +1,20 @@
+id: agri-nexus
+name: AGRI NEXUS
+slug: agri-nexus
+tagline: Better Decision, Better Yields, Better Tommorrow
+summary: AGRI NEXUS received the Google Swag Kits award at Google Gemini at Acropolis in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aryanso7067-boop/Agri-tech-.git
+demo_url: null
+video_url: https://www.youtube.com/embed/_A_U4UGFmfo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/713/223/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - javascript
+builders:
+  - name: Aryan soni Soni
+  - name: Mahima Bhardwaj

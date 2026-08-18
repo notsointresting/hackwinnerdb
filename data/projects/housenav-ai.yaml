@@ -1,0 +1,21 @@
+id: housenav-ai
+name: HouseNav.ai
+slug: housenav-ai
+tagline: In SF, homelessness isn’t just housing—it’s a coordination problem. Housing Navigator AI
+  connects people to shelters and services in real time.
+summary: HouseNav.ai received the Housing Dignity First Place award at Milpitas Hacks 3 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AnishYarrakonda/house_navigator_ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/768/358/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Anish Yarrakonda
+  - name: shanayverma-ship-it Verma

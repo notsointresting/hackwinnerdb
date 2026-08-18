@@ -1,0 +1,27 @@
+id: lumina
+name: Lumina
+slug: lumina
+tagline: An AI-powered pentester that scans apps end-to-end, finds real vulnerabilities, and
+  delivers a full security report, with no human required.
+summary: Lumina received the DevSwarm Builder Opportunity award at LovHack Season 2 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AbhinavGGarg/Lumina-final
+demo_url: null
+video_url: https://www.youtube.com/embed/rEoxwN3CyB4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/499/152/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Teja Varkali
+  - name: Abhinav Garg

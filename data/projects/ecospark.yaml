@@ -1,0 +1,19 @@
+id: ecospark
+name: EcoSpark
+slug: ecospark
+tagline: "EcoSpark : an AI‑powered gamified platform that turns students’ real eco‑friendly actions
+  into verified points, streaks, and rewards—making sustainability a dai"
+summary: EcoSpark received the Champion award at CodeNova 2026 – National AI & Innovation Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ayalpha/ecospark-app
+demo_url: null
+video_url: https://www.youtube.com/embed/xI57JIdiVjc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/042/661/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Amitesh Yadav

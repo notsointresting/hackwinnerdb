@@ -1,0 +1,23 @@
+id: bloom-today
+name: Bloom Today
+slug: bloom-today
+tagline: Because no mom should have to heal alone. Bloom Today is a postpartum emotional support
+  platform that gives every new mother a personalized AI companion she can
+summary: "Bloom Today received the Product Bundle by Mind the Product award at Mind the Product
+  presents World Product Day: Everyone Ships Now in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/veeradyani222/bloom-today
+demo_url: null
+video_url: https://www.youtube.com/embed/NrOqGHyH470
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/788/822/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: veer adyani

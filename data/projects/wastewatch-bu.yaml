@@ -1,0 +1,24 @@
+id: wastewatch-bu
+name: WasteWatch BU
+slug: wastewatch-bu
+tagline: Analyzing Big Belly smart waste data at BU to optimize trash collection routes. The project
+  uses data analysis to help BU reduce unnecessary pickups & build a g
+summary: WasteWatch BU received the BU Sustainability Prize - Big Belly award at Civic Hacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tasnimahmed11/bin_there_done_that
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/131/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - mapbox
+  - openai
+  - sql
+  - tailwind-css
+builders:
+  - name: Tasnim Ahmed
+  - name: Thaer Burgan
+  - name: Aisha Naseema
+  - name: Bidipta Roy

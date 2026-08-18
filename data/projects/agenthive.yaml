@@ -1,0 +1,20 @@
+id: agenthive
+name: AgentHive
+slug: agenthive
+tagline: AgentHive is a visual multi-agent orchestration platform where AI agents collaborate,
+  learn, and execute tasks in a shared environment with memory and real-time
+summary: AgentHive received the Best Use of Ghost award at Deep Agents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nestorandressantosvidales/agenthive
+demo_url: null
+video_url: https://www.youtube.com/embed/uoO9wXC7ZLs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/498/711/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+builders:
+  - name: nestor andres santos vidales

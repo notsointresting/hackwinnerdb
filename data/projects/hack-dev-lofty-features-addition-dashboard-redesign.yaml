@@ -1,0 +1,23 @@
+id: hack-dev-lofty-features-addition-dashboard-redesign
+name: "Hack dev: Lofty Features Addition & Dashboard Redesign"
+slug: hack-dev-lofty-features-addition-dashboard-redesign
+tagline: Lofty is already a great AI first Real Estate agent CRM. To make it even better we analyzed
+  the reviews and found gaps. We filled those by adding multiple featu
+summary: "Hack dev: Lofty Features Addition & Dashboard Redesign received the Lofty award at
+  GlobeHack in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Kush402/equivest-app
+demo_url: null
+video_url: https://www.youtube.com/embed/fV9CkU1Kg_M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/208/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - nextjs
+builders:
+  - name: Aditya Singh
+  - name: Saatvik Choudhary
+  - name: Kush Sharma

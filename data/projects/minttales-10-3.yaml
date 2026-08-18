@@ -1,0 +1,24 @@
+id: minttales-10-3
+name: MintTales - 10.3
+slug: minttales-10-3
+tagline: Co-author AI stories with Gemini, hear them narrated by genre-matched voices, watch
+  cinematic scene visualizations, get multiagent analysis, and mint them as NF
+summary: MintTales - 10.3 received the [MLH] Best Use of Vultr award at BeachHacks 9.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aarshsharma2803-stack/minttales?tab=readme-ov-file
+demo_url: null
+video_url: https://www.youtube.com/embed/wY3LpdpVAts
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/538/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - web3
+technologies:
+  - elevenlabs
+  - javascript
+  - mongodb
+  - nextjs
+  - typescript
+builders:
+  - name: Aarsh Sharma

@@ -1,0 +1,14 @@
+id: mnemosyne-moonshot-hackathon
+project_id: mnemosyne
+hackathon_id: moonshot-hackathon
+submission_url: https://devpost.com/software/mnemosyne-0v8ogf
+source:
+  platform: devpost
+  url: https://devpost.com/software/mnemosyne-0v8ogf
+awards:
+  - type: finalist
+    title: Top 100 Finalist Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

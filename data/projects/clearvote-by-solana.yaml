@@ -1,0 +1,23 @@
+id: clearvote-by-solana
+name: ClearVote by Solana
+slug: clearvote-by-solana
+tagline: "ClearVote is a verifiable voting platform where every vote is minted as an NFT on the
+  Solana blockchain, to provide transparency, auditability, and recovery of "
+summary: ClearVote by Solana received the Best Use of Vultr award at HackNewHaven 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hlee18lee46/newhaven
+demo_url: null
+video_url: https://www.youtube.com/embed/GjPYbBB7JpY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/507/198/datas/gallery.jpg
+categories:
+  - education
+  - cybersecurity
+  - web3
+technologies:
+  - mongodb
+  - nextjs
+  - solana
+  - typescript
+builders:
+  - name: Cheerful Chipmunk

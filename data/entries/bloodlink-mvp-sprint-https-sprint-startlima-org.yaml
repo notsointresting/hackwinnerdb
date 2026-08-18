@@ -1,0 +1,14 @@
+id: bloodlink-mvp-sprint-https-sprint-startlima-org
+project_id: bloodlink
+hackathon_id: mvp-sprint-https-sprint-startlima-org
+submission_url: https://devpost.com/software/bloodlink-9d0wnx
+source:
+  platform: devpost
+  url: https://devpost.com/software/bloodlink-9d0wnx
+awards:
+  - type: other
+    title: Agradecimiento
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

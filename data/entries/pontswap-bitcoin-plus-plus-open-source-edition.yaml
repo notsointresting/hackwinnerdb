@@ -1,0 +1,14 @@
+id: pontswap-bitcoin-plus-plus-open-source-edition
+project_id: pontswap
+hackathon_id: bitcoin-plus-plus-open-source-edition
+submission_url: https://devpost.com/software/pontswap
+source:
+  platform: devpost
+  url: https://devpost.com/software/pontswap
+awards:
+  - type: category-winner
+    title: Best use of Pontmore
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

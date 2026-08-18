@@ -1,0 +1,18 @@
+id: careerpathfinder
+name: Careerpathfinder
+slug: careerpathfinder
+tagline: An AI-powered career path finder that analyzes your skills, interests, and trends to
+  recommend personalized career paths, required skills, and step-by-step road
+summary: Careerpathfinder received the Cash Prize (150 per team) award at HootHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/manasapatil0608/Fau-CareerPathFinder-AI/blob/main/app.py
+demo_url: null
+video_url: https://www.youtube.com/embed/9iqkZpy_UE8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Raja Manendra Surisetty

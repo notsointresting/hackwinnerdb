@@ -1,0 +1,21 @@
+id: rewind
+name: rewind
+slug: rewind
+tagline: Rewind lets you visually rewind coding agents to the moment they went wrong and fork a new
+  approach — preserving all context, from your phone, in minutes, on th
+summary: "rewind received the Track 2: Omnara (1st place) award at SDxUCSD Agent Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/g7vJ0nl1co0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/566/382/datas/medium.png
+categories:
+  - fintech
+  - productivity
+technologies:
+  - claude
+  - typescript
+builders:
+  - name: Pranay Yalamanchali
+  - name: Dat Nguyen

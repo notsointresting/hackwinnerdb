@@ -1,0 +1,14 @@
+id: renovate-create-a-thon
+name: reNOVAte Create-a-thon
+slug: renovate-create-a-thon
+organizer: []
+year: 2026
+sources:
+  - https://renovate.devpost.com/
+  - https://renovate.devpost.com/project-gallery?filter=winner
+website_url: https://renovate.devpost.com/
+platform: devpost
+participant_count: 38
+prize_pool: null
+currency: null
+description: "Devpost hackathon: reNOVAte Create-a-thon. Imported automatically."

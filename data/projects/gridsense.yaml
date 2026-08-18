@@ -1,0 +1,21 @@
+id: gridsense
+name: GridSense
+slug: gridsense
+tagline: GridSense is a tool that predicts motor breakdowns years in advance, providing users with
+  clear next steps based on an entirely local analysis of short audio se
+summary: GridSense received the Grand Prize Champion Certificate award at Global Tech Innovation
+  Challenge in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/mvkpsai-gif/gridsense
+demo_url: null
+video_url: https://www.youtube.com/embed/VVvdh0fHBVo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/032/046/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - streamlit
+builders:
+  - name: Sahishnu Manivannan

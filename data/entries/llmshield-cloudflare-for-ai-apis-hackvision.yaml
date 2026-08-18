@@ -1,0 +1,14 @@
+id: llmshield-cloudflare-for-ai-apis-hackvision
+project_id: llmshield-cloudflare-for-ai-apis
+hackathon_id: hackvision
+submission_url: https://devpost.com/software/llmshield-cloudflare-for-ai-apis
+source:
+  platform: devpost
+  url: https://devpost.com/software/llmshield-cloudflare-for-ai-apis
+awards:
+  - type: other
+    title: "Top 1–3 Teams: 100% free internship in any domain"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

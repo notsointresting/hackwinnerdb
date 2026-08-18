@@ -1,0 +1,23 @@
+id: cocoa-monster
+name: Cocoa Monster
+slug: cocoa-monster
+tagline: Privacy-First Prediction Market Built on Midnight ZK
+summary: Cocoa Monster received the Overall Winners award at Midnight Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Luxion-Labs/cocoa-monster
+demo_url: null
+video_url: https://www.youtube.com/embed/HqSGylenAxw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/675/811/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - blockchain
+technologies:
+  - ipfs
+  - javascript
+  - typescript
+builders:
+  - name: Rexy .
+  - name: Sandipan Dey
+  - name: Pratyay Banerjee
+  - name: Pikachu .

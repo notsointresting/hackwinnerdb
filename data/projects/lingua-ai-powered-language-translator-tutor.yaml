@@ -1,0 +1,25 @@
+id: lingua-ai-powered-language-translator-tutor
+name: Lingua - AI Powered Language Translator & Tutor
+slug: lingua-ai-powered-language-translator-tutor
+tagline: No more point and nod.Translate, learn, and actually converse — in English, Spanish,
+  French, Swahili, Japanese, and Mandarin.
+summary: "Lingua - AI Powered Language Translator & Tutor received the Best Domain Name from GoDaddy
+  Registry award at HackHCC: Code Runners in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Emmanuel-cod21/lingua
+demo_url: null
+video_url: https://www.youtube.com/embed/W98dAYGbc_g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/355/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - react
+builders:
+  - name: Keichara Fleeks
+  - name: Francisco Medina
+  - name: emmanuel uzoma

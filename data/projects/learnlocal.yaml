@@ -1,0 +1,22 @@
+id: learnlocal
+name: LearnLocal
+slug: learnlocal
+tagline: An offline first LMS that lets schools run classes, tests, coding labs, etc on local
+  servers, so learning continues smoothly even with poor or no internet while
+summary: LearnLocal received the Participation Swag & Benefits award at Quantum Sprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - fintech
+  - creative-tools
+technologies:
+  - docker
+  - postgresql
+  - react
+  - sqlite
+builders: []

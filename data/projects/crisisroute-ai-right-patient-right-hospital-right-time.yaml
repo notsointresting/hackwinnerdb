@@ -1,0 +1,24 @@
+id: crisisroute-ai-right-patient-right-hospital-right-time
+name: CrisisRoute AI –|Right Patient |Right Hospital |Right Time.
+slug: crisisroute-ai-right-patient-right-hospital-right-time
+tagline: A Gemini-powered emergency healthcare routing platform and MCP-integrated Elasticsearch
+  that intelligently matches patients to the most clinically appropriate h
+summary: CrisisRoute AI –|Right Patient |Right Hospital |Right Time. received the Elastic - 1st
+  Place award at Google Cloud Rapid Agent Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1T9yjez9jhI
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Vinay Janyavula

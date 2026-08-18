@@ -1,0 +1,27 @@
+id: care-circle
+name: Care Circle
+slug: care-circle
+tagline: turns scattered rounds photos, PDFs, voice memos into one synthesised case briefing that
+  catches the cross-disciplinary contradictions a busy aged care team wou
+summary: Care Circle received the 2nd Place award at The Atlassian X Mistral X AISoc Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DMK119/ai-teamwork-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/zFA35A6KOaA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - mistral
+  - react
+  - react-native
+  - sqlite
+builders:
+  - name: Dan Yang
+  - name: Jeremy Wu
+  - name: Leo Han
+  - name: Hugo Da Silva

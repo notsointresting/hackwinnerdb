@@ -1,0 +1,21 @@
+id: panacea-graph
+name: Panacea Graph
+slug: panacea-graph
+tagline: "Panacea Graph treats health as a continuous biological state, not disease labels—using
+  synthetic multi-omic graphs and a GNN to map patients in 3D and simulate "
+summary: Panacea Graph received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/uYFl3rJocWk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/864/471/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Aaryan Sharma

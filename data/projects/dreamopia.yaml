@@ -1,0 +1,18 @@
+id: dreamopia
+name: Dreamopia
+slug: dreamopia
+tagline: Unlimited Creativites, Endless Dream
+summary: Dreamopia received the Best Beginner Hack award at CareXR Hack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/486/333/datas/medium.png
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies: []
+builders:
+  - name: bohan wang

@@ -1,0 +1,26 @@
+id: niaga
+name: Niaga
+slug: niaga
+tagline: An AI-powered CRM that helps B2B teams profile leads, draft outreach, classify replies, and
+  turn warm prospects into paid trials or deposits through DOKU.
+summary: Niaga received the 3rd Place Winner award at OpenClaw Agenthon Build Club x RISTEK Fasilkom
+  UI in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/abiyyu2301/OpenClaw2026_Juwara_Niaga
+demo_url: null
+video_url: https://www.youtube.com/embed/iYPLGpr2zUk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/670/705/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - fastapi
+  - google-cloud
+  - python
+  - react
+  - typescript
+builders:
+  - name: Abiyyu Avicena Ismunandar
+  - name: Shenny Laurencia

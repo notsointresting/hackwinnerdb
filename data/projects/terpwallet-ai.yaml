@@ -1,0 +1,24 @@
+id: terpwallet-ai
+name: TerpWallet AI
+slug: terpwallet-ai
+tagline: An AI safety net for UMD students. TerpWallet watches your bank account and connects you to
+  free campus resources, Campus Pantry, SafeRide, emergency funds, bef
+summary: TerpWallet AI received the TerpAI Ultimate Agent Showdown - Cloudforce/Microsoft award at
+  Bitcamp 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/rishikathakre/terpwallet-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/vD4VIui3jSs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/390/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - azure
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Rishika Thakre

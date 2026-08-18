@@ -1,0 +1,19 @@
+id: fusionpilot
+name: FUSIONPILOT
+slug: fusionpilot
+tagline: "Can you keep a simulated fusion plasma alive longer than an AI can? FusionPilot is an
+  educational, browser-playable 0D plasma-control demo with three modes: lea"
+summary: FUSIONPILOT received the AI for Education award at ML Empowerment Build Challenge in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/josemacontrerasp-arch/fusionpilot
+demo_url: null
+video_url: https://www.youtube.com/embed/JAz1FZ0izmg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/649/260/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Jose Contreras

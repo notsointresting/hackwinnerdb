@@ -1,0 +1,21 @@
+id: airaware
+name: AIrAware
+slug: airaware
+tagline: Air Companion
+summary: "AIrAware received the Winner - Air Quality & Public Health Companion award at Hacknight
+  Bengaluru: Build AI Agents in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/254/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - openai
+  - react
+builders:
+  - name: Prince Sutariya
+  - name: Kartik Solanki

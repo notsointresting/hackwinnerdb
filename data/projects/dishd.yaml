@@ -1,0 +1,23 @@
+id: dishd
+name: Dishd
+slug: dishd
+tagline: Dishd is a restaurant discovery platform that matches groups to their perfect meal, turning
+  endless debate into a simple swipe, and dishing out success.
+summary: "Dishd received the Best Use of DigitalOcean Gradient™ AI award at HackHCC: Code Runners in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Abyss999/HCCHack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/396/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - mongodb
+  - swift
+builders:
+  - name: jason Quach
+  - name: Raghav Ojha
+  - name: Anushka Gupta

@@ -1,0 +1,21 @@
+id: f-os
+name: F.OS
+slug: f-os
+tagline: A focus copilot that learns your work patterns and delivers real-time improvements to break
+  distraction loops.
+summary: F.OS received the Best Use of Snowflake API - M5Stack Tab5 award at DeerHacks V (2026) in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EA_8b81CC40
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/384/714/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - azure
+  - python
+  - sqlite
+builders:
+  - name: Nathan Yan

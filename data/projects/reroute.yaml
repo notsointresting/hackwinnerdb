@@ -1,0 +1,25 @@
+id: reroute
+name: ReRoute
+slug: reroute
+tagline: Record one video of your unused stuff. AI agents identify every item, evaluate five sale
+  routes, and execute the best one across marketplaces. You do nothing. N
+summary: ReRoute received the Sustainability award at BeachHacks 9.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adityasingh2400/ReRoute
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/489/033/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - media
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - react
+builders:
+  - name: Aditya Singh
+  - name: Sumedh Aerram

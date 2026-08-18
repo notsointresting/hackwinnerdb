@@ -1,0 +1,14 @@
+id: pitchr-the-blueprint-hackathon-for-all-ages-july-17th-31st
+project_id: pitchr
+hackathon_id: the-blueprint-hackathon-for-all-ages-july-17th-31st
+submission_url: https://devpost.com/software/pitchr-a93fx1
+source:
+  platform: devpost
+  url: https://devpost.com/software/pitchr-a93fx1
+awards:
+  - type: third-place
+    title: 3rd place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: skillcity-hack-ai-2026
+project_id: skillcity
+hackathon_id: hack-ai-2026
+submission_url: https://devpost.com/software/game-v74z25
+source:
+  platform: devpost
+  url: https://devpost.com/software/game-v74z25
+awards:
+  - type: other
+    title: HackAI Pitch Competition
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

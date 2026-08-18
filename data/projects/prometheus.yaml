@@ -1,0 +1,22 @@
+id: prometheus
+name: Prometheus
+slug: prometheus
+tagline: project is in the works.
+summary: Prometheus received the Third Place award at Hawkathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Zeusangis/prometheus
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - react
+builders:
+  - name: Cecil Pradhan
+  - name: Unish Khadka
+  - name: Aayush Chaudhary
+  - name: Dipesh Sharma

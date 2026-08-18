@@ -1,0 +1,14 @@
+id: team-17-sdss-datathon-2026
+project_id: team-17
+hackathon_id: sdss-datathon-2026
+submission_url: https://devpost.com/software/team-17-kfd265
+source:
+  platform: devpost
+  url: https://devpost.com/software/team-17-kfd265
+awards:
+  - type: category-winner
+    title: Best Visualizations
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

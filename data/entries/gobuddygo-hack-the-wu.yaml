@@ -1,0 +1,14 @@
+id: gobuddygo-hack-the-wu
+project_id: gobuddygo
+hackathon_id: hack-the-wu
+submission_url: https://devpost.com/software/gobuddygo
+source:
+  platform: devpost
+  url: https://devpost.com/software/gobuddygo
+awards:
+  - type: other
+    title: Legos
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

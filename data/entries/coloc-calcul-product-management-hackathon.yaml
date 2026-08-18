@@ -1,0 +1,16 @@
+id: coloc-calcul-product-management-hackathon
+project_id: coloc-calcul
+hackathon_id: product-management-hackathon
+submission_url: https://devpost.com/software/coloc-calcul
+source:
+  platform: devpost
+  url: https://devpost.com/software/coloc-calcul
+awards:
+  - type: other
+    title: INTERVIEW FOR EDUQLASSE
+  - type: other
+    title: $25 YEN CUISINE JAPONAISE GIFTCARD
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

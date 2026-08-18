@@ -1,0 +1,19 @@
+id: tiny-tracer
+name: Tiny Tracer
+slug: tiny-tracer
+tagline: Sunlight simulation that fits in your browser.
+summary: Tiny Tracer received the Best Clean Energy Solution [OneEthos] award at BloomKnights in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cunkin375/tinytracer
+demo_url: null
+video_url: https://www.youtube.com/embed/E4iA_9e-tOI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/780/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+builders:
+  - name: Jeremy Whatts
+  - name: Maxwell Lokshin
+  - name: Grant Bonzo

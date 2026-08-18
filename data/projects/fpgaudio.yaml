@@ -1,0 +1,20 @@
+id: fpgaudio
+name: FPGAudio
+slug: fpgaudio
+tagline: A real-time audio effects processor. Includes mute, distortion, reverb, pitch shifting, and
+  a white noise / crackling effect generator.
+summary: FPGAudio received the First Place - FPGA award at UofT ASIC Team - IC Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tandr3w/fpga-audio-processor
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Andrew Tan
+  - name: Yujie Seah
+  - name: Ishraq Alam

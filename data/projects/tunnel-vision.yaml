@@ -1,0 +1,25 @@
+id: tunnel-vision
+name: Tunnel Vision
+slug: tunnel-vision
+tagline: "Tunnel Vision: evade UAlbany Man by running through UAlbany’s tunnels, possessing
+  different characters to steal their abilities, using hand gestures translated "
+summary: Tunnel Vision received the Fourth Place award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/onlycs/tunnel-vision
+demo_url: null
+video_url: https://www.youtube.com/embed/EenkjmymkLM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/737/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - flask
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: Madiha Fatima
+  - name: Angad Tendulkar
+  - name: Likith Kumar Kandukuri
+  - name: Kush Malwatkar

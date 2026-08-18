@@ -1,0 +1,20 @@
+id: a-single-page-portfolio
+name: A single page portfolio
+slug: a-single-page-portfolio
+tagline: A single page portfolio website
+summary: A single page portfolio received the Google Swag Kit award at Urdu AI Hackathon - Kick-off
+  Session in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/mutayyab63/portfolio
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/693/500/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Muhammad Tayyab

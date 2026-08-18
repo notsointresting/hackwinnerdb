@@ -1,0 +1,14 @@
+id: farmops-h0-hack-the-zero-stack-with-vercel-v0-and-aws-databases
+project_id: farmops
+hackathon_id: h0-hack-the-zero-stack-with-vercel-v0-and-aws-databases
+submission_url: https://devpost.com/software/farmops-desk
+source:
+  platform: devpost
+  url: https://devpost.com/software/farmops-desk
+awards:
+  - type: third-place
+    title: Third Place | Monetizable B2B App
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

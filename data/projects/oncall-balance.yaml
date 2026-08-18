@@ -1,0 +1,25 @@
+id: oncall-balance
+name: OnCall Balance
+slug: oncall-balance
+tagline: OnCall Balance helps engineers detect burnout risk early by privately correlating on-call
+  workload with Apple Watch health signals, entirely on-device, with zer
+summary: OnCall Balance received the Rootly Sub-Challenge award at Claude Builders AI Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sephorah/cbc-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/ybJI9ubwh98
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/538/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+  - dart
+  - figma
+  - flutter
+builders:
+  - name: Jeboy Compuesto
+  - name: Séphorah
+  - name: Babushka1 Li

@@ -1,0 +1,14 @@
+id: wildverse-pixel-gemini-3-0
+project_id: wildverse
+hackathon_id: pixel-gemini-3-0
+submission_url: https://devpost.com/software/wildverse
+source:
+  platform: devpost
+  url: https://devpost.com/software/wildverse
+awards:
+  - type: other
+    title: mlh swgas
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

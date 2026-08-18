@@ -1,0 +1,14 @@
+id: hermes-midnight-hackathon
+project_id: hermes
+hackathon_id: midnight-hackathon
+submission_url: https://devpost.com/software/hermes-7txsej
+source:
+  platform: devpost
+  url: https://devpost.com/software/hermes-7txsej
+awards:
+  - type: track-winner
+    title: AI Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: neuroprint
+name: NeuroPrint
+slug: neuroprint
+tagline: NeuroPrint uses computer vision and guided movement analysis to track Parkinson’s
+  progression, detect meaningful changes over time, and help doctors intervene e
+summary: NeuroPrint received the Nintendo Switch award at HackDartmouth XI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sharon-jlee/hackdartmouth
+demo_url: null
+video_url: https://www.youtube.com/embed/ieQqZmpQ4VA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/192/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Sharon Lee
+  - name: davidchong1224 Chong
+  - name: Sofia Grimm
+  - name: Jiang6082 Jiang

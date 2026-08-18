@@ -1,0 +1,19 @@
+id: soulscape
+name: Soulscape
+slug: soulscape
+tagline: The purpose of developing the Digital Wellbeing app is to address the growing concerns
+  regarding the negative impact of excessive phone usage on an individual's
+summary: Soulscape received the Mlh swags award at Hackdays Prayagraj  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - education
+technologies:
+  - flutter
+builders:
+  - name: Samarth Mishra

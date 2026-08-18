@@ -1,0 +1,14 @@
+id: project-m-e-g-a-n-thunderhacks
+project_id: project-m-e-g-a-n
+hackathon_id: thunderhacks
+submission_url: https://devpost.com/software/project-m-e-g-a-n
+source:
+  platform: devpost
+  url: https://devpost.com/software/project-m-e-g-a-n
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: flarecli-hackdays-prayagraj
+project_id: flarecli
+hackathon_id: hackdays-prayagraj
+submission_url: https://devpost.com/software/flarecli
+source:
+  platform: devpost
+  url: https://devpost.com/software/flarecli
+awards:
+  - type: third-place
+    title: Orion Distinction (3rd Place)
+  - type: category-winner
+    title: Most Popular
+  - type: second-place
+    title: 2nd Place
+  - type: other
+    title: Stickers
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

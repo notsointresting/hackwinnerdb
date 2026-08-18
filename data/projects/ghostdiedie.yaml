@@ -1,0 +1,31 @@
+id: ghostdiedie
+name: GhostDieDie
+slug: ghostdiedie
+tagline: Ghostdiedie is a webcam-based real-time social fighting game that transforms human motion
+  into combat, delivering VR-like immersion without specialized hardware
+summary: GhostDieDie received the Best Razzle Dazzle Hack - Bitcamp award at Bitcamp 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Ay273uz5BpE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/553/318/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - python
+  - react
+  - supabase
+  - tailwind-css
+  - vercel
+  - webrtc
+builders:
+  - name: Wonjae Kim
+  - name: Joonhyung Park
+  - name: minsooku Ku
+  - name: Junho Choi

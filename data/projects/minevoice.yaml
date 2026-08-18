@@ -1,0 +1,24 @@
+id: minevoice
+name: MineVoice
+slug: minevoice
+tagline: "Underground miners report hazards by voice. MineVoice transcribes, triages severity with
+  AI grounded in Ontario mining law, and tracks every incident on a live "
+summary: MineVoice received the Best Use of TiDB award at Cursor Hackathon Sudbury in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EL64wBPQrlE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/833/309/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - sql
+  - typescript
+builders:
+  - name: AYUSH PRAJAPATI
+  - name: Devarshi Dalwadi
+  - name: Qurban Hussain Yar

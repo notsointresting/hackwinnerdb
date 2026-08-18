@@ -1,0 +1,14 @@
+id: the-paradox-bigthink-x-world-labs
+project_id: the-paradox
+hackathon_id: bigthink-x-world-labs
+submission_url: https://devpost.com/software/the-paradox
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-paradox
+awards:
+  - type: category-winner
+    title: Best World
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

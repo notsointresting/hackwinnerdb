@@ -1,0 +1,14 @@
+id: brainrot-ai-dum-duber-and-dumber-hackathon
+project_id: brainrot-ai
+hackathon_id: dum-duber-and-dumber-hackathon
+submission_url: https://devpost.com/software/brainrot-ai-31w8py
+source:
+  platform: devpost
+  url: https://devpost.com/software/brainrot-ai-31w8py
+awards:
+  - type: category-winner
+    title: Most Viral - Social Media Award (To be given out by 17th July 23:59)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

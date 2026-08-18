@@ -1,0 +1,14 @@
+id: jac-in-the-block-jachacks
+project_id: jac-in-the-block
+hackathon_id: jachacks
+submission_url: https://devpost.com/software/jac-in-the-block
+source:
+  platform: devpost
+  url: https://devpost.com/software/jac-in-the-block
+awards:
+  - type: second-place
+    title: Social Impact Track — 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

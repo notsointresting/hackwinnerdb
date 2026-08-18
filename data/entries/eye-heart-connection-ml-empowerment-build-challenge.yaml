@@ -1,0 +1,14 @@
+id: eye-heart-connection-ml-empowerment-build-challenge
+project_id: eye-heart-connection
+hackathon_id: ml-empowerment-build-challenge
+submission_url: https://devpost.com/software/eye-heart-connection
+source:
+  platform: devpost
+  url: https://devpost.com/software/eye-heart-connection
+awards:
+  - type: category-winner
+    title: Most Innovative Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

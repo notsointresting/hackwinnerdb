@@ -1,0 +1,14 @@
+id: anther-nextgenhacks
+project_id: anther
+hackathon_id: nextgenhacks
+submission_url: https://devpost.com/software/anther
+source:
+  platform: devpost
+  url: https://devpost.com/software/anther
+awards:
+  - type: finalist
+    title: Top 9 Finalists
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

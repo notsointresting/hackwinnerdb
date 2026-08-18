@@ -1,0 +1,26 @@
+id: forze-ide
+name: Forze IDE
+slug: forze-ide
+tagline: "Forze IDE: The Sovereign OS for Startup Founders. A desktop workbench fusing code editing,
+  parallel AI agent grids, local secret blocking, and build-in-public m"
+summary: Forze IDE received the Winner award at Build the Future with AI — From Code to No-Code in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Arham-Begani/Forze_IDE
+demo_url: null
+video_url: https://www.youtube.com/embed/1RDXdCP4apg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/638/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - gemini
+  - javascript
+  - react
+  - rust
+  - sql
+  - sqlite
+  - supabase
+  - typescript
+builders: []

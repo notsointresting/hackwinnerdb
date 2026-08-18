@@ -1,0 +1,16 @@
+id: focusbeats-ai-creator-colosseum-startup-competition-student-founders-real-startups
+project_id: focusbeats-ai
+hackathon_id: creator-colosseum-startup-competition-student-founders-real-startups
+submission_url: https://devpost.com/software/focusbeats-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/focusbeats-ai
+awards:
+  - type: third-place
+    title: Third Place
+  - type: other
+    title: Top 10 Rankings - Mentoring
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

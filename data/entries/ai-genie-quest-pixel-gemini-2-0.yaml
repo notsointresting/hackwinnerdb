@@ -1,0 +1,14 @@
+id: ai-genie-quest-pixel-gemini-2-0
+project_id: ai-genie-quest
+hackathon_id: pixel-gemini-2-0
+submission_url: https://devpost.com/software/ai-genie-quest
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-genie-quest
+awards:
+  - type: other
+    title: MLH + GEMINI SWAG
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

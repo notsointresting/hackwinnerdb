@@ -1,0 +1,22 @@
+id: ecobot
+name: Ecobot
+slug: ecobot
+tagline: “Your Smart Guide to Sustainable Living”
+summary: Ecobot received the Narrative and Art award at Webster Hackfest 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AnveshK5/Ecobot.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/227/datas/gallery.jpg
+categories:
+  - sustainability
+technologies:
+  - javascript
+  - postgresql
+  - python
+  - vercel
+builders:
+  - name: Anvesh Kasarla
+  - name: Budida Ganesh
+  - name: Balakrishna Tumati

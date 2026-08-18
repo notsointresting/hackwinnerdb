@@ -1,0 +1,14 @@
+id: snapflow-ehacks-2026
+project_id: snapflow
+hackathon_id: ehacks-2026
+submission_url: https://devpost.com/software/snapflow
+source:
+  platform: devpost
+  url: https://devpost.com/software/snapflow
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

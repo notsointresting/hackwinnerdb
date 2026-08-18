@@ -1,0 +1,14 @@
+id: heatguard-health-in-climate-london-hackathon
+project_id: heatguard
+hackathon_id: health-in-climate-london-hackathon
+submission_url: https://devpost.com/software/heatguard-piw9ab
+source:
+  platform: devpost
+  url: https://devpost.com/software/heatguard-piw9ab
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

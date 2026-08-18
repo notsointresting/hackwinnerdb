@@ -1,0 +1,21 @@
+id: edumind-ai
+name: Edumind Ai
+slug: edumind-ai
+tagline: "EduMind AI — Free AI-powered STEM learning for 500M Indian students. 7 AI providers, 10+
+  features: quizzes, flashcards, mentor, resume & interview prep. Zero co"
+summary: Edumind Ai received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/preet1802yadavemailcom-design/edumind-ai-
+demo_url: null
+video_url: https://www.youtube.com/embed/OYTI15uskR4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/954/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - sqlite
+builders:
+  - name: Preet Yadav

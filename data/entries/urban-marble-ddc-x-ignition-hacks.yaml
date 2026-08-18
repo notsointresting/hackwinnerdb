@@ -1,0 +1,14 @@
+id: urban-marble-ddc-x-ignition-hacks
+project_id: urban-marble
+hackathon_id: ddc-x-ignition-hacks
+submission_url: https://devpost.com/software/urban-marble
+source:
+  platform: devpost
+  url: https://devpost.com/software/urban-marble
+awards:
+  - type: first-place
+    title: First Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,26 @@
+id: nexus-lending
+name: Nexus Lending
+slug: nexus-lending
+tagline: Buying a home is exciting; getting a mortgage shouldn't be exhausting. Nexus Lending uses
+  AI to guide borrowers, automate underwriting, and eliminate the paperw
+summary: Nexus Lending received the First Place - Advanced award at Weber State AI Hackathon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/PkUi_orFjDA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/525/358/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+builders:
+  - name: Tejas Ved
+  - name: Riya Ajay Singh
+  - name: Jason Crandall

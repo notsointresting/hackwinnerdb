@@ -1,0 +1,22 @@
+id: harnoldseye
+name: HarnoldsEye
+slug: harnoldseye
+tagline: Harnold’s Eye is an automated vulnerability analyzer for C/C++ code, allowing users to
+  determine possible exploits reducing the need for manual search.
+summary: HarnoldsEye received the Best Use of Vultr award at Hack Hack Goose in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/autonomical1/HarnoldsEye.git
+demo_url: null
+video_url: https://www.youtube.com/embed/nYFW1B5M12I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/092/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Aaditya Matampalli
+  - name: Hrishi Kamireddy
+  - name: Neel  Mittal
+  - name: Ankur Dabholkar

@@ -1,0 +1,28 @@
+id: agrisynapse-ai-based-agri-multimodal
+name: AGRISYNAPSE(AI based agri multimodal)
+slug: agrisynapse-ai-based-agri-multimodal
+tagline: AgriSynapse is an AI-IoT platform helping farmers monitor crops, detect diseases, forecast
+  demand, and sell directly. Real-time sensors, AI insights, voice supp
+summary: AGRISYNAPSE(AI based agri multimodal) received the Top 10 Best Performers award at Hackdays
+  Prayagraj  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/kanish14151/Agri-AI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/BodmWzyQOWM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/361/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - dart
+  - esp32
+  - firebase
+  - flutter
+  - javascript
+  - opencv
+  - python
+  - tensorflow
+builders:
+  - name: Sj Kanish

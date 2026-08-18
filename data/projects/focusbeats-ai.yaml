@@ -1,0 +1,22 @@
+id: focusbeats-ai
+name: FocusBeats AI
+slug: focusbeats-ai
+tagline: Same vibe. Sharper mind.
+summary: "FocusBeats AI received the Third Place award at Creator Colosseum Startup Competition:
+  Student Founders. Real Startups.  in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Basketball50/Focus-Beats-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/7SGXfO9GNlw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/697/908/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+builders:
+  - name: Aarav Jain

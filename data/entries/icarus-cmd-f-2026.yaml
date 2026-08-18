@@ -1,0 +1,14 @@
+id: icarus-cmd-f-2026
+project_id: icarus
+hackathon_id: cmd-f-2026
+submission_url: https://devpost.com/software/icarus-rejd3u
+source:
+  platform: devpost
+  url: https://devpost.com/software/icarus-rejd3u
+awards:
+  - type: category-winner
+    title: Best Use of Lovable (worth up to 300 USD)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,26 @@
+id: deepops
+name: Deepops
+slug: deepops
+tagline: DeepOps is an AI incident-response system that detects live app failures, fixes safe issues
+  automatically, and escalates risky ones to humans for approval or ph
+summary: Deepops received the Most Innovative Project Using Macroscope award at Deep Agents
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ayushozha/deepops
+demo_url: null
+video_url: https://www.youtube.com/embed/-q6q6YS3MX8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/498/511/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ayush Ojha
+  - name: Yoshihiro  Sekiya

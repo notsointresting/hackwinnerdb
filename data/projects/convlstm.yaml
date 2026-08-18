@@ -1,0 +1,20 @@
+id: convlstm
+name: convLSTM
+slug: convlstm
+tagline: convLSTM-battlesnake is a deep reinforcement learning Battlesnake AI designed for the 2026
+  NJIT Battlesnakes Tournament. It features a custom neural architectur
+summary: convLSTM received the Judge's Choice Award award at BattleSnake 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/giovannettif/convLSTM-Battlesnake/
+demo_url: null
+video_url: https://www.youtube.com/embed/Xg4QmuBAWIA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - pytorch
+builders:
+  - name: giovannettif Giovannetti

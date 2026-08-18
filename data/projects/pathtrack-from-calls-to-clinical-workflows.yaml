@@ -1,0 +1,21 @@
+id: pathtrack-from-calls-to-clinical-workflows
+name: PathTrack - From Calls to Clinical Workflows
+slug: pathtrack-from-calls-to-clinical-workflows
+tagline: "PathTrack is an AI voice agent that calls clinics to retrieve medical records, extracts
+  outcomes in real time, and automatically creates follow-up tasks. Phone "
+summary: PathTrack - From Calls to Clinical Workflows received the Best Project Built with
+  ElevenLabs award at Weber State AI Hackathon 2026 in 2026. This record was imported automatically;
+  the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/LiUaNN3xFlk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/524/981/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+builders:
+  - name: Julie  Maughan

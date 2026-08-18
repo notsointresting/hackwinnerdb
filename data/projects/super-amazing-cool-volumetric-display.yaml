@@ -1,0 +1,22 @@
+id: super-amazing-cool-volumetric-display
+name: super amazing cool volumetric display!
+slug: super-amazing-cool-volumetric-display
+tagline: horrors beyond your comprehension, brought to you in stunning 3D
+summary: super amazing cool volumetric display! received the Entertainment award at MakeMIT x
+  Harvard 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/eggoil166/voxelgen
+demo_url: null
+video_url: https://www.youtube.com/embed/6I_TlxXOccw
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - python
+  - raspberry-pi
+builders:
+  - name: Daniel Yi
+  - name: Kevin Chang
+  - name: Liam Hanrahan
+  - name: Ruslan Akmyradov

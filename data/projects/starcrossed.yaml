@@ -1,0 +1,22 @@
+id: starcrossed
+name: StarCrossed
+slug: starcrossed
+tagline: Our app StarCrosed helps students, researchers, and future mission planners quickly
+  identify promising destinations by matching mission requirements with scient
+summary: StarCrossed received the Runner Up award at Cyber Sages Hackathon  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/DHWrSbptzeg
+image_url: null
+categories:
+  - education
+  - productivity
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Priya Deshpande
+  - name: vibha koparde
+  - name: Radhika Deshpande

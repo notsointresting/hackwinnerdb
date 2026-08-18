@@ -1,0 +1,23 @@
+id: griffingpt
+name: GriffinGPT
+slug: griffingpt
+tagline: GriffinGPT turns your lecture PDFs into brainrot. Peter and Stewie explain your notes over
+  Minecraft parkour. Study smarter. Rot harder.
+summary: GriffinGPT received the Third Place award at Trend Hacker in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ericpchopra/trendhacker
+demo_url: null
+video_url: https://www.youtube.com/embed/QBoVZPOklsU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/640/990/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - groq
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Eric 93
+  - name: Sidak Sethi

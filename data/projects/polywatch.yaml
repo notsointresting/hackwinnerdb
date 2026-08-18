@@ -1,0 +1,24 @@
+id: polywatch
+name: PolyWatch
+slug: polywatch
+tagline: AI powered insider trading detection for prediction markets using Tree of Thought reasoning
+  to investigate manipulation, coordinated wallets, and suspicious tra
+summary: PolyWatch received the Fintech — 1st Place award at JacHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+  - react
+builders:
+  - name: Adam Christley
+  - name: Caeden Kidd
+  - name: Amar Zecevic
+  - name: schultzn6619

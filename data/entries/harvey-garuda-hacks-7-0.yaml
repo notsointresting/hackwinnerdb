@@ -1,0 +1,14 @@
+id: harvey-garuda-hacks-7-0
+project_id: harvey
+hackathon_id: garuda-hacks-7-0
+submission_url: https://devpost.com/software/harvey-3kjioh
+source:
+  platform: devpost
+  url: https://devpost.com/software/harvey-3kjioh
+awards:
+  - type: first-place
+    title: 1st Place Agriculture & Food Systems Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

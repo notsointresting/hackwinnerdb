@@ -1,0 +1,26 @@
+id: sanctii
+name: Sanctii
+slug: sanctii
+tagline: "Sanctii is an all-in-one healthcare management platform that streamlines care by
+  organizing medical information and simplifying communication for both patients "
+summary: Sanctii received the SPUR - Build a Real Canadian Startup (Top 10) award at Hack Canada
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Ari-Khan/sanctii/new/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/407/096/datas/gallery.jpg
+categories:
+  - healthcare
+technologies:
+  - gemini
+  - groq
+  - mongodb
+  - opencv
+  - react
+builders:
+  - name: Philip Yu
+  - name: Ari Khan
+  - name: David Huang
+  - name: Ingeun Yun

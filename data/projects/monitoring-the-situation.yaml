@@ -1,0 +1,27 @@
+id: monitoring-the-situation
+name: Monitoring the situation
+slug: monitoring-the-situation
+tagline: Every major city's nervous system. Get notified of every event, and threat in your city
+  happening in real time. Like Citizen App but straight from the radio wav
+summary: Monitoring the situation received the Best use of Nexla award at Multimodal Frontier
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/TeoSlayer/monitoring-the-situation
+demo_url: null
+video_url: https://www.youtube.com/embed/zWUiA8DsAks
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/819/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - mapbox
+  - python
+builders:
+  - name: Alex Godoroja
+  - name: Teodor Calin
+  - name: Artemii Amelin

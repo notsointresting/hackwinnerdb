@@ -1,0 +1,22 @@
+id: team-30-cocoon
+name: Team 30 - Cocoon
+slug: team-30-cocoon
+tagline: Smart Glasses powered real-time Hardware AI-assistant
+summary: "Team 30 - Cocoon received the GigLabs WORK Prize award at HARD MODE: Hardware x AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/474/043/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - c-plus-plus
+  - gemini
+builders:
+  - name: Chirantan Jain
+  - name: Hrishitaa Kurchania

@@ -1,0 +1,25 @@
+id: stop-ai
+name: Stop AI
+slug: stop-ai
+tagline: "Stop AI rebuilt on Devvit Web with Stop Bots and Repost Intel apps folded in. AI
+  auto-scan, cross-community repost tracking, BotBouncer routing, mod automation "
+summary: Stop AI received the Best New Mod Tool Honorable Mentions award at Reddit Mod Tools and
+  Migrated Apps Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Ne7Q6K_94UQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/711/821/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - postgresql
+  - react
+  - redis
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: flattened bricks

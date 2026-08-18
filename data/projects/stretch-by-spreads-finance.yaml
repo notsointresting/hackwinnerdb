@@ -1,0 +1,27 @@
+id: stretch-by-spreads-finance
+name: Stretch by Spreads Finance
+slug: stretch-by-spreads-finance
+tagline: Stretch your yield with an ecosystem of products around $STRC covering leveraged yield,
+  trading tools and a savings app.
+summary: "Stretch by Spreads Finance received the 2nd Prize award at xStocks Hackathon EthCC: Market
+  Open in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/RealKevinApetrei/xstocks-strc
+demo_url: null
+video_url: https://www.youtube.com/embed/egGUT4SQZ5k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/071/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - claude
+  - nextjs
+  - react
+  - solidity
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Kevin Apetrei
+  - name: Wajahat Mughal

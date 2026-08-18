@@ -1,0 +1,23 @@
+id: lily
+name: Lily
+slug: lily
+tagline: Make navigating documents as easy as saying hello.
+summary: Lily received the Best UI/UX Hack - 1st Place – Opennote award at IrvineHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/oliiviiak/IrvineHacks2026-LILY
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/265/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - figma
+  - python
+  - react-native
+  - sqlite
+builders:
+  - name: Branson Wong
+  - name: Isabel Wang
+  - name: Olivia Kong
+  - name: Sebastian Cusianovic

@@ -1,0 +1,15 @@
+id: novabay-hackusf-2026
+project_id: novabay
+hackathon_id: hackusf-2026
+submission_url: https://devpost.com/software/novabay
+source:
+  platform: devpost
+  url: https://devpost.com/software/novabay
+awards:
+  - type: other
+    title: "Climate Teach-In Sustainability Challenge: Living by the water; A Civic Challenge for
+      Environmental Resilience."
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

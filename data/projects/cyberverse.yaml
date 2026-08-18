@@ -1,0 +1,24 @@
+id: cyberverse
+name: Cyberverse
+slug: cyberverse
+tagline: We built a wind tunnel for digital civilization. AI attackers hunt human vulnerabilities
+  inside real organizations. Watch how the digital world actually fails —
+summary: Cyberverse received the 1st Grand Award - The Moonshot Award award at Moonshot Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/848/219/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Nadjitiessm Victoire

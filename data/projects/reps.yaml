@@ -1,0 +1,18 @@
+id: reps
+name: REPS
+slug: reps
+tagline: You paste in something and the app turns it into a convo where you explain the concept and
+  an AI tutor pokes holes using the Feynman technique. Tracks which con
+summary: REPS received the Creative Content Award award at Build with MeDo Hackathon  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FfQILqhbtlk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Precious Akpanowo

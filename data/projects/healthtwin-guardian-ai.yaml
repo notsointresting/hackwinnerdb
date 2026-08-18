@@ -1,0 +1,28 @@
+id: healthtwin-guardian-ai
+name: HealthTwin Guardian AI
+slug: healthtwin-guardian-ai
+tagline: HealthTwin Guardian AI – Making quality healthcare accessible through AI-powered medical
+  insights, medicine recognition, multilingual assistance, and preventive
+summary: HealthTwin Guardian AI received the Honorable mention award at Ctrl+V Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/teja739/HealthTwin-Guardian-AI-teja.git
+demo_url: null
+video_url: https://www.youtube.com/embed/9je0rY2ccPY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/416/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - groq
+  - openai
+  - postgresql
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Teja Akula
+  - name: SAI SREE SURYA AMRUTH DAMARAJU
+  - name: kumarraj

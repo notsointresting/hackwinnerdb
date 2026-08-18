@@ -1,0 +1,20 @@
+id: clew
+name: Clew
+slug: clew
+tagline: A Slack agent to help non-profits find, manage, and apply to grants.
+summary: Clew received the Second Place | Slack Agent for Good award at Slack Agent Builder
+  Challenge in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1Fy3qm548NQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/887/468/datas/medium.png
+categories:
+  - enterprise
+technologies:
+  - nextjs
+  - vercel
+builders:
+  - name: Ian Wang
+  - name: Jay D

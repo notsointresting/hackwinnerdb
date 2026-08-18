@@ -1,0 +1,14 @@
+id: baxpace-mpc-hacks
+project_id: baxpace
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/backspace
+source:
+  platform: devpost
+  url: https://devpost.com/software/backspace
+awards:
+  - type: second-place
+    title: 2nd Place - Valsoft Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

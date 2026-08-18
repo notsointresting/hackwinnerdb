@@ -1,0 +1,22 @@
+id: reefmind
+name: ReefMind
+slug: reefmind
+tagline: Reef restoration experiments take 7 years in the real ocean. ReefMind runs 10,000 overnight
+summary: ReefMind received the [GenAI Genesis] Top 2 Teams - Team 2 (Online Only) award at  GenAI
+  Genesis 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/DoanGiaHuyVu/ReefMind
+demo_url: null
+video_url: https://www.youtube.com/embed/GwM-uad9gY0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/442/772/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: "#huyvu Doan Gia Huy"

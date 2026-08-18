@@ -1,0 +1,26 @@
+id: festicleaner
+name: FestiCleaner
+slug: festicleaner
+tagline: "Our FestiCleaner robot autonomously identifies, locates, and cleans trash in real-time,
+  and presents data in an intuitive dashboard. Built using an Arduino Uno "
+summary: FestiCleaner received the [Qualcomm] 2nd place award at HackUPC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/iRobo1/FestiCleaner/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/eiZ9YTdD7X4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/209/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Sandro Karhula
+  - name: Darcy Robertson
+  - name: Nuria Segui Vidal

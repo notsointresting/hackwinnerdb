@@ -1,0 +1,25 @@
+id: doppel
+name: doppel
+slug: doppel
+tagline: doppel pairs computer-vision form analysis with an AI coach that drafts personalized plans
+  and explains exactly how each one would change your readiness and inj
+summary: doppel received the Sports & Fitness Track award at Broncohacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yinghao-Guan/Doppel
+demo_url: null
+video_url: https://www.youtube.com/embed/cc13jHQVq7Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/608/215/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - hugging-face
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Seongbeen Park
+  - name: Sean Esla
+  - name: Peter Guan
+  - name: Md Safkatul Islam

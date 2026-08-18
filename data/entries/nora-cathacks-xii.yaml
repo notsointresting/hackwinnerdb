@@ -1,0 +1,14 @@
+id: nora-cathacks-xii
+project_id: nora
+hackathon_id: cathacks-xii
+submission_url: https://devpost.com/software/nora-3gdjy6
+source:
+  platform: devpost
+  url: https://devpost.com/software/nora-3gdjy6
+awards:
+  - type: first-place
+    title: Most Wanted (First Overall)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

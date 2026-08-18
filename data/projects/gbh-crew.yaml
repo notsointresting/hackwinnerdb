@@ -1,0 +1,22 @@
+id: gbh-crew
+name: GBH_Crew
+slug: gbh-crew
+tagline: Investigating Gateway City Data in collaboration with GBH news
+summary: GBH_Crew received the Gateway Cities award at Civic Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dAVjS784RGE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/224/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - streamlit
+  - supabase
+builders:
+  - name: Ivan Melchor
+  - name: akeng746 Eng
+  - name: Ethan Ticehurst
+  - name: Gerald Rivera

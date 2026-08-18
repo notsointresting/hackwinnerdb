@@ -1,0 +1,31 @@
+id: hiveops
+name: HiveOps
+slug: hiveops
+tagline: An agentic AI incident resolution platform that ingests service incidents and orchestrates
+  AI agents for triage, root cause analysis, remediation, and verificat
+summary: HiveOps received the Best use of Hex API award at YHack Spring 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aumghelani/HiveOps-Yhack
+demo_url: null
+video_url: https://www.youtube.com/embed/Wgevevl1hTY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/202/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sql
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Sanjiv Sridhar
+  - name: Aum Ghelani
+  - name: Tarushi Gandhi
+  - name: Jigar Kanakhara

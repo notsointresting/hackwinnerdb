@@ -1,0 +1,22 @@
+id: focus-fee
+name: Focus Fee
+slug: focus-fee
+tagline: '"Doom scrolling to dividends" We are not the standard productivity app, money from your
+  account is transferred to Solana, a crypto currency as a punishment for '
+summary: Focus Fee received the [MLH] Best Use of Solana award at CUhackit 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tysons0/focus_fee.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Ui7CAajRu1Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/381/820/datas/gallery.jpg
+categories:
+  - productivity
+  - blockchain
+technologies:
+  - react
+  - typescript
+builders:
+  - name: George Friedl
+  - name: Tyson Small
+  - name: Jabari Weaver

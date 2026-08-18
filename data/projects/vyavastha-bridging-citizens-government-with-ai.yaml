@@ -1,0 +1,27 @@
+id: vyavastha-bridging-citizens-government-with-ai
+name: "VYAVASTHA: Bridging Citizens & Government with AI"
+slug: vyavastha-bridging-citizens-government-with-ai
+tagline: AI civic portal where citizens report verified local issues, get real-time updates &
+  government resolves faster powered by Featherless AI, Sight engine, Socket.
+summary: "VYAVASTHA: Bridging Citizens & Government with AI received the Top 4–6 Projects - Builder
+  Awards award at LovHack Season 2 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/RAMANABOYANA-UK/Vyavastha
+demo_url: null
+video_url: https://www.youtube.com/embed/kvZeqjM0LsI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/500/952/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - fastapi
+  - mongodb
+  - python
+  - pytorch
+  - react
+builders:
+  - name: V  R
+  - name: UNNATHI KRISHNA RAMANABOYANA

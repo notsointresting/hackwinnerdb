@@ -1,0 +1,20 @@
+id: turtlesim-dynamic-systems-engine
+name: "TurtleSim: Dynamic Systems Engine"
+slug: turtlesim-dynamic-systems-engine
+tagline: TurtleSim demonstrates three systems that explore how simple rules can generate complex yet
+  fascinating patterns and behaviors in evolving and structured system
+summary: "TurtleSim: Dynamic Systems Engine received the Honorable Mention award at PantherHack 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/raydubey34/TurtleSim.git
+demo_url: null
+video_url: https://www.youtube.com/embed/LH9u5NeaFmc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/584/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Reyansh Dubey
+  - name: Rajveer Sahota
+  - name: Ryan Zhou

@@ -1,0 +1,22 @@
+id: friendsheep
+name: FriendSheep
+slug: friendsheep
+tagline: Be the farm's biggest player. Woo sheep, headbutt rivals, don't die. Multiplayer chaos. One
+  pasture. Zero chill.
+summary: FriendSheep received the Rork 1st Place award at The London Rork Game Hackathon  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sula8/friendsheep
+demo_url: null
+video_url: https://www.youtube.com/embed/KKt9sn-_cOY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/960/datas/gallery.jpg
+categories:
+  - iot
+  - gaming
+technologies:
+  - claude
+builders:
+  - name: Mohit Israney
+  - name: workonthestreets Danishuski
+  - name: Black Bear
+  - name: Sultanbek Altayev

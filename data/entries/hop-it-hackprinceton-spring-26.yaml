@@ -1,0 +1,16 @@
+id: hop-it-hackprinceton-spring-26
+project_id: hop-it
+hackathon_id: hackprinceton-spring-26
+submission_url: https://devpost.com/software/hop-it
+source:
+  platform: devpost
+  url: https://devpost.com/software/hop-it
+awards:
+  - type: category-winner
+    title: Best Rookie Hack
+  - type: category-winner
+    title: Best Hardware + AI Hack by Justin Bojarski [$500 Gift Card]
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

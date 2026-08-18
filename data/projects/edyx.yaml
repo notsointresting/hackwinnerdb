@@ -1,0 +1,24 @@
+id: edyx
+name: Edyx
+slug: edyx
+tagline: Free, uncapped AI APIs for everyone
+summary: Edyx received the Best UI/UX award at GenAI Dev Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adityaverma9777/Edyx
+demo_url: null
+video_url: https://www.youtube.com/embed/l-2pmCIE1ws
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/254/200/datas/medium.png
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Aditya Verma
+  - name: Manika Kutiyal

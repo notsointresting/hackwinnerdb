@@ -1,0 +1,19 @@
+id: cloud-janitor
+name: Cloud Janitor
+slug: cloud-janitor
+tagline: Cloud Custodian runs rules. Cloud Janitor runs reasoning.
+summary: Cloud Janitor received the Most Practical Solution award at Kiro Buildfest 2026 Singapore
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/darthrevan030/Cloud-Janitor
+demo_url: null
+video_url: https://www.youtube.com/embed/tWeFBT_MwGg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/862/321/datas/gallery.jpg
+categories:
+  - cloud
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Samarth Bhatia
+  - name: Digant Dash

@@ -1,0 +1,23 @@
+id: rankify
+name: Rankify
+slug: rankify
+tagline: AI-Powered PDF to CBT
+summary: "Rankify received the Top 24-85 award at Creator Colosseum Startup Competition: Student
+  Founders. Real Startups.  in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/namandhakad712/rankify
+demo_url: null
+video_url: https://www.youtube.com/embed/1jtTfavzF1c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/950/834/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - gemini
+  - groq
+  - javascript
+  - typescript
+  - vue
+builders:
+  - name: Naman Dhakad

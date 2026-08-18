@@ -1,0 +1,14 @@
+id: hackvision
+name: HackVision
+slug: hackvision
+organizer: []
+year: 2026
+sources:
+  - https://hackvision.devpost.com/
+  - https://hackvision.devpost.com/project-gallery?filter=winner
+website_url: https://hackvision.devpost.com/
+platform: devpost
+participant_count: 281
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackVision. Imported automatically."

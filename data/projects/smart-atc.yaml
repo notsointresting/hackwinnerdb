@@ -1,0 +1,21 @@
+id: smart-atc
+name: Smart ATC
+slug: smart-atc
+tagline: Reducing air traffic control workload & improving flight safety.
+summary: Smart ATC received the 1st Place Winner award at Grizzhacks 8 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/804/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - go
+builders:
+  - name: Sadi Rahman
+  - name: Ankit Bhandiwad
+  - name: Husain Aziz

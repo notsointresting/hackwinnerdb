@@ -1,0 +1,28 @@
+id: ourcampus
+name: OurCampus
+slug: ourcampus
+tagline: Turn free time into friend time
+summary: OurCampus received the Best science students project award at JACHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/IXy2J-jF7Ec
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/134/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Jongmin Lee
+  - name: Matteo Rombola
+  - name: Deven Doughan
+  - name: Brian Kim

@@ -1,0 +1,14 @@
+id: somna-idea-hacks-2026
+project_id: somna
+hackathon_id: idea-hacks-2026
+submission_url: https://devpost.com/software/somna
+source:
+  platform: devpost
+  url: https://devpost.com/software/somna
+awards:
+  - type: other
+    title: Renovate the Future
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

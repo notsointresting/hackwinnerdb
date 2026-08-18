@@ -1,0 +1,22 @@
+id: fetch
+name: Fetch
+slug: fetch
+tagline: A gallery robot that brings the trash can to whoever needs it.
+summary: Fetch received the 1st Place award at CSI Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rishith-c/fetch
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/025/195/datas/gallery.jpg
+categories:
+  - robotics
+technologies:
+  - arduino
+  - c-plus-plus
+  - opencv
+  - python
+  - raspberry-pi
+builders:
+  - name: Rishith Chennupati
+  - name: Varun Chilukuri

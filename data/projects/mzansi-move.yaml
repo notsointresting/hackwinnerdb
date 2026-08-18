@@ -1,0 +1,22 @@
+id: mzansi-move
+name: Mzansi Move
+slug: mzansi-move
+tagline: Mzansi Move uses AI to help minibus taxi drivers optimize routes and pickups, so they can
+  earn more and drive safer—giving passengers more reliable, safer trips
+summary: Mzansi Move received the Best Use of AI Powered by Reach Capital award at Color Hacks +
+  Northwestern NSBE  in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/NDikeni/Mzansi-Move
+demo_url: null
+video_url: https://www.youtube.com/embed/zSu2E_H9anM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/394/270/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - google-maps
+  - react
+  - sql
+builders:
+  - name: Nisema Dikeni

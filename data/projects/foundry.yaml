@@ -1,0 +1,22 @@
+id: foundry
+name: Foundry
+slug: foundry
+tagline: Turning any table into a smart workspace that guides your builds in real time.
+summary: Foundry received the Best UI/UX award at Los Altos Hacks X in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/534/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - opencv
+  - python
+builders:
+  - name: Karthik Pasupuleti
+  - name: Yuvraj D
+  - name: ipadmini0 Selvaraj
+  - name: Harish Allamraju

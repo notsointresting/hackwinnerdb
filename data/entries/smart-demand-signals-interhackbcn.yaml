@@ -1,0 +1,14 @@
+id: smart-demand-signals-interhackbcn
+project_id: smart-demand-signals
+hackathon_id: interhackbcn
+submission_url: https://devpost.com/software/smart-demand-signals
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-demand-signals
+awards:
+  - type: second-place
+    title: 2nd price - Inibsa Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

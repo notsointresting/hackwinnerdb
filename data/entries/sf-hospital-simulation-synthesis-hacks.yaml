@@ -1,0 +1,14 @@
+id: sf-hospital-simulation-synthesis-hacks
+project_id: sf-hospital-simulation
+hackathon_id: synthesis-hacks
+submission_url: https://devpost.com/software/sf-hospital-simulation
+source:
+  platform: devpost
+  url: https://devpost.com/software/sf-hospital-simulation
+awards:
+  - type: other
+    title: Network Programmability and Automation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

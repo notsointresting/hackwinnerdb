@@ -1,0 +1,19 @@
+id: regional-speech-recognition-model
+name: Regional Speech Recognition Model
+slug: regional-speech-recognition-model
+tagline: Bringing regional voices to AI — a bilingual regional speech dataset for fair, inclusive,
+  and accurate recognition
+summary: Regional Speech Recognition Model received the Codex $100 Credits award at Codex Meetup
+  Dhaka - UIU in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/misbah7172/Regional-Speech-Recognition-Model
+demo_url: null
+video_url: https://www.youtube.com/embed/eREd3rIr1aY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/745/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - tensorflow
+builders: []

@@ -1,0 +1,14 @@
+id: x-wrapped-falconhacks-by-mongodb
+project_id: x-wrapped
+hackathon_id: falconhacks-by-mongodb
+submission_url: https://devpost.com/software/x-wrapped
+source:
+  platform: devpost
+  url: https://devpost.com/software/x-wrapped
+awards:
+  - type: category-winner
+    title: Best Use of Magic Hour
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

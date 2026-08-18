@@ -1,0 +1,24 @@
+id: esper
+name: Esper
+slug: esper
+tagline: Automatically detect and disconnect compromised IoT devices!
+summary: Esper received the Sony Headphones award at HackMerced XI in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/airwuu/OMAO/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/107/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - esp32
+  - python
+  - raspberry-pi
+builders:
+  - name: Maxwell Hu
+  - name: Alex C
+  - name: aaron wu
+  - name: Owen Gao

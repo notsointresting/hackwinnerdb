@@ -1,0 +1,23 @@
+id: everycent
+name: EveryCent
+slug: everycent
+tagline: EveryCent predicts grocery prices so low-income families always know when to buy and when
+  to wait, making every dollar count.
+summary: EveryCent received the Best Statistical Model award at HackDavis 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MrFiscus/EveryCent
+demo_url: null
+video_url: https://www.youtube.com/embed/9j3tJxrll_o
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Tenzing Gurung
+  - name: Smaran Pokharel
+  - name: Sandesh Dhakal

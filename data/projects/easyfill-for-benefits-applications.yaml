@@ -1,0 +1,22 @@
+id: easyfill-for-benefits-applications
+name: EasyFill for Benefits Applications
+slug: easyfill-for-benefits-applications
+tagline: People in urgent need of food assistance shouldn’t have to struggle with confusing,
+  inaccessible PDFs or pay for software just to apply. We offer autofilling fo
+summary: EasyFill for Benefits Applications received the CODE FOR A CAUSE award at SharkHack 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/387/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - accessibility
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Hanna Ondrasek
+  - name: Maia Young

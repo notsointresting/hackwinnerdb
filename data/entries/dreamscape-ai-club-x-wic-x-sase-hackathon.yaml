@@ -1,0 +1,14 @@
+id: dreamscape-ai-club-x-wic-x-sase-hackathon
+project_id: dreamscape
+hackathon_id: ai-club-x-wic-x-sase-hackathon
+submission_url: https://devpost.com/software/dreamscape-e60ydz
+source:
+  platform: devpost
+  url: https://devpost.com/software/dreamscape-e60ydz
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

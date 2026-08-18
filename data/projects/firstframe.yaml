@@ -1,0 +1,21 @@
+id: firstframe
+name: FirstFrame
+slug: firstframe
+tagline: FirstFrame lets studios review AI-generated video in seconds, not after the full render. It
+  streams each scene as it’s ready, cutting review waits while preserv
+summary: "FirstFrame received the Grand Prize award at Backblaze Generative Media Hackathon: Build
+  with Genblaze on B2 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/backblaze-labs/genblaze/pull/258
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/055/372/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies: []
+builders:
+  - name: Carmen Salvado
+  - name: Miguel Garcia

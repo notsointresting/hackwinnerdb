@@ -1,0 +1,24 @@
+id: artemis-q
+name: Artemis-Q
+slug: artemis-q
+tagline: ARTEMIS-Q is a radiation-aware mission intelligence platform for adaptive spaceflight
+  decision-making, combining physics, live data, and decision analytics.
+summary: Artemis-Q received the Advanced Track - Apple Airtag & Powerbank award at Carolina Quantum
+  Hacks 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sawwatihnin/artemisq
+demo_url: null
+video_url: https://www.youtube.com/embed/NjcSdUlZdYI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/592/244/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+  - tailwind-css
+  - typescript
+builders:
+  - name: Vivienne Hnin
+  - name: Mohammad Agha Mohammadi
+  - name: Andrew Barber
+  - name: Kunal Krishna

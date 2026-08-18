@@ -1,0 +1,14 @@
+id: sidride-grizzhacks-8
+project_id: sidride
+hackathon_id: grizzhacks-8
+submission_url: https://devpost.com/software/sidride
+source:
+  platform: devpost
+  url: https://devpost.com/software/sidride
+awards:
+  - type: track-winner
+    title: Hell's Kitchen Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: tempo-leaf-hacks-26
+project_id: tempo
+hackathon_id: leaf-hacks-26
+submission_url: https://devpost.com/software/tempo-gquotz
+source:
+  platform: devpost
+  url: https://devpost.com/software/tempo-gquotz
+awards:
+  - type: track-winner
+    title: Main Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

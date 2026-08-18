@@ -1,0 +1,29 @@
+id: orca
+name: Orca
+slug: orca
+tagline: Global Agent Orchestration Network applied to label World Models for Emergency Responders
+summary: Orca received the Best Voyager Hack award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ryunzz/orca
+demo_url: null
+video_url: https://www.youtube.com/embed/OFuL2hlm1cc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/530/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - mapbox
+  - postgresql
+  - python
+  - redis
+  - solana
+  - tailwind-css
+  - typescript
+builders:
+  - name: .Ryan Ni
+  - name: Sujal Dhakal
+  - name: Aritra Saha
+  - name: Krish Golcha

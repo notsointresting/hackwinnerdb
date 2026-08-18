@@ -1,0 +1,24 @@
+id: aura-ai-your-intelligent-task-co-pilot
+name: Aura-AI Your Intelligent Task Co-Pilot
+slug: aura-ai-your-intelligent-task-co-pilot
+tagline: An AI-powered decision intelligence system that automatically plans your work and assigns
+  tasks using real-time data and smart algorithms.
+summary: Aura-AI Your Intelligent Task Co-Pilot received the 2nd place award at Kindly labs weekly
+  hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Aicodebyprince/aura_ai_task_manager
+demo_url: null
+video_url: https://www.youtube.com/embed/XXQhEYt934E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/550/710/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - gemini
+  - openai
+  - react
+  - vercel
+builders:
+  - name: Prince Sherathiya

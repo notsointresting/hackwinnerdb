@@ -1,0 +1,28 @@
+id: team-05-team-kk
+name: team-05-team-kk
+slug: team-05-team-kk
+tagline: "WIAL’s global chapter platform: one admin, one template, AI-powered coach search, and
+  one-click chapter launches."
+summary: "team-05-team-kk received the Top majority female/non-binary team award at Women in
+  Computer Science x Opportunity Hack: Spring 2026 Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/05-team-kk
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/663/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - cloudflare
+  - postgresql
+  - react
+  - stripe
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Ashwanth Balakrishnan
+  - name: Keerthana Jayaraman

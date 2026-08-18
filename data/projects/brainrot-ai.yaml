@@ -1,0 +1,23 @@
+id: brainrot-ai
+name: Brainrot.AI
+slug: brainrot-ai
+tagline: "Brainrot.AI brings enterprise-grade rigor to the most urgent communication challenge of
+  our time: understanding Gen Alpha."
+summary: Brainrot.AI received the Most Viral - Social Media Award (To be given out by 17th July
+  23:59) award at Dum, Duber and Dumber Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/wvkwoYPrTHY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/884/161/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - enterprise
+technologies:
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Keith Ijaya
+  - name: Zach Sindhunata

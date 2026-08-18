@@ -1,0 +1,14 @@
+id: suscruit-hack-brooklyn
+project_id: suscruit
+hackathon_id: hack-brooklyn
+submission_url: https://devpost.com/software/suscruit
+source:
+  platform: devpost
+  url: https://devpost.com/software/suscruit
+awards:
+  - type: grand-prize
+    title: "Grand Prize: Second Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: cascade
+name: Cascade
+slug: cascade
+tagline: There are 27000 pieces of debris flying over your head right now. One collision could take
+  down GPS, weather satellites, and the internet. We built the game tha
+summary: Cascade received the Best Overall Execution award at Project Stellar in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nusima-59487/stellar
+demo_url: null
+video_url: https://www.youtube.com/embed/3jAlrEkBdiw
+image_url: null
+categories:
+  - gaming
+technologies: []
+builders:
+  - name: nusima-59487 Wong
+  - name: jagrat agrawal
+  - name: Jayden Dai
+  - name: AlvinYiChunLiu

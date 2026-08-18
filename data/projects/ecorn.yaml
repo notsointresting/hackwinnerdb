@@ -1,0 +1,21 @@
+id: ecorn
+name: EcoRN
+slug: ecorn
+tagline: We are letting you choose sustainability right now.
+summary: EcoRN received the Software - Amazon Echo Dot (newest model) award at reNOVAte
+  Create-a-thon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/597/datas/gallery.jpg
+categories:
+  - sustainability
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: berzi05 Pandya
+  - name: Thanh Hoang Pham
+  - name: SM-Code444 M

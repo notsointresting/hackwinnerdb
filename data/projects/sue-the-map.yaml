@@ -1,0 +1,21 @@
+id: sue-the-map
+name: Sue The Map
+slug: sue-the-map
+tagline: They sued the AI. We mapped it. Spin the globe, pick your language (lawyer or human), ask
+  questions out loud. 307 cases. 34 states. One file.
+summary: Sue The Map received the Problem Statement 2 Winner award at Trustworthy AI Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Hidhayath-Nisha/SueTheMap
+demo_url: null
+video_url: https://www.youtube.com/embed/wg6UIX5XaDw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/383/837/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Hidhayath Nisha Mohamed Idris
+  - name: Anaswara Raghuthaman

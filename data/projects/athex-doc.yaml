@@ -1,0 +1,24 @@
+id: athex-doc
+name: Athex.Doc
+slug: athex-doc
+tagline: An AI-powered document analyst that lets you upload any document and have an intelligent
+  conversation with it — extracting insights, answering questions, and su
+summary: Athex.Doc received the Best Deployment on Google Cloud award at Hacks day Bhopal in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BpYR-4KdClY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/533/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - mongodb
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Piyush Bilthariya

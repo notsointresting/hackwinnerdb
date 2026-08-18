@@ -1,0 +1,24 @@
+id: beadb
+name: beaDB
+slug: beadb
+tagline: Consolidating non-profit knowledge from experienced volunteers for aspiring volunteers to
+  prevent generational knowledge loss and inefficient, unnecessary onboa
+summary: beaDB received the 2nd Place - SAP Stream award at youCode 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jennyuxi/youcode2026
+demo_url: null
+video_url: https://www.youtube.com/watch?v=sY-xXueX4Qg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/748/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Eva Jiang
+  - name: Jenny Sun
+  - name: jack sun
+  - name: Sean Sun

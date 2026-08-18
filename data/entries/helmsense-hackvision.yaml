@@ -1,0 +1,20 @@
+id: helmsense-hackvision
+project_id: helmsense
+hackathon_id: hackvision
+submission_url: https://devpost.com/software/safe2go-0rexcb
+source:
+  platform: devpost
+  url: https://devpost.com/software/safe2go-0rexcb
+awards:
+  - type: other
+    title: Participation & Completion Recognition
+  - type: category-winner
+    title: Best Social or Environmental Contribution
+  - type: other
+    title: Swags and Stickers
+  - type: other
+    title: "Top 4–10 Teams: 60% discount on any internship"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

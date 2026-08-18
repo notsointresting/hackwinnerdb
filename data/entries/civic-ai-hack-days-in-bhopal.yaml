@@ -1,0 +1,14 @@
+id: civic-ai-hack-days-in-bhopal
+project_id: civic-ai
+hackathon_id: hack-days-in-bhopal
+submission_url: https://devpost.com/software/civic-ai-9ecoh2
+source:
+  platform: devpost
+  url: https://devpost.com/software/civic-ai-9ecoh2
+awards:
+  - type: other
+    title: Innovation Excellence Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

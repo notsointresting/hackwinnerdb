@@ -1,0 +1,23 @@
+id: nimbus
+name: Nimbus
+slug: nimbus
+tagline: "Open Source the cloud. SaaS is dying and we're here to take the fight home. We're bringing
+  the fight straight to the source - AWS. Your hardware. Your network. "
+summary: "Nimbus received the Arista Networks: Connect the Dots Challenge award at LA Hacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/smalex-z/nimbus
+demo_url: null
+video_url: https://www.youtube.com/embed/mk75Ryr81Y8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/776/datas/gallery.jpg
+categories:
+  - social-impact
+  - iot
+  - cloud
+technologies:
+  - react
+builders:
+  - name: Alex Zheng
+  - name: Nathan Zhang
+  - name: KEVIN SUN
+  - name: BRENDAN STAINES

@@ -1,0 +1,16 @@
+id: founderforge-ai-gemini-exe-2-0
+project_id: founderforge-ai
+hackathon_id: gemini-exe-2-0
+submission_url: https://devpost.com/software/founderforge-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/founderforge-ai
+awards:
+  - type: category-winner
+    title: Best Use of Google APIs (Gemini/Cloud)
+  - type: category-winner
+    title: Best App Deployed on Google Cloud
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: puff-hack-day
+name: Puff Hack Day
+slug: puff-hack-day
+organizer: []
+year: 2026
+sources:
+  - https://puff-hack-day.devpost.com/
+  - https://puff-hack-day.devpost.com/project-gallery?filter=winner
+website_url: https://puff-hack-day.devpost.com/
+platform: devpost
+participant_count: 11
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Puff Hack Day. Imported automatically."

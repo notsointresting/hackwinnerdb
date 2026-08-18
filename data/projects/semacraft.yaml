@@ -1,0 +1,19 @@
+id: semacraft
+name: SemaCraft
+slug: semacraft
+tagline: An immersive minecraft experience using computer vision with semaphore for movement and a
+  real life pickaxe for mining block and viewing.
+summary: SemaCraft received the People's Choice award at TechVision UXHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KisukeMaybe/UXHackathon.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/386/944/datas/medium.jpg
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Mus'ab Sudirman
+  - name: Simeon R Jackson

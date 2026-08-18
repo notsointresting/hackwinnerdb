@@ -1,0 +1,14 @@
+id: whisper-ds3-x-sic-x-bow-capital-hackathon
+project_id: whisper
+hackathon_id: ds3-x-sic-x-bow-capital-hackathon
+submission_url: https://devpost.com/software/whisper-egjwpa
+source:
+  platform: devpost
+  url: https://devpost.com/software/whisper-egjwpa
+awards:
+  - type: second-place
+    title: "Autonomous Navigation and Edge AI Track (Hardware): 2nd Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

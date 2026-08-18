@@ -1,0 +1,24 @@
+id: ivy-agents
+name: IVY Agents
+slug: ivy-agents
+tagline: We support non-english speakers seeking medical care by taking their voice in their
+  preferred language and outputting a structured doctors intake form.
+summary: IVY Agents received the Best use of Modulate's APIs award at Self Improving Agents Hack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hardik5902/Self-Improving-Agent-Hackaton/tree/fb_hardik
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Nicholas Goguen-Compagnoni
+  - name: Paul Amnuaypayoat
+  - name: Sarah Madhavan Konety
+  - name: Hardik Gupta

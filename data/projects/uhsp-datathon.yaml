@@ -1,0 +1,18 @@
+id: uhsp-datathon
+name: UHSP Datathon
+slug: uhsp-datathon
+tagline: This is our analysis of the dataset.
+summary: UHSP Datathon received the Best Use of Gemini API award at Data Snax Datathon in St. Louis
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Ran Duan

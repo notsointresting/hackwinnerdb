@@ -1,0 +1,22 @@
+id: worldtour
+name: WorldTour
+slug: worldtour
+tagline: Explore and learn about the world through your own unique lens. Journey to anywhere on the
+  map, or discover places associated with any topic you can dream of. T
+summary: WorldTour received the Best Beginner Hack award at DiamondHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AndrewR270/WorldTour
+demo_url: null
+video_url: https://www.youtube.com/embed/kPvVLIWDY0g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/390/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Andrew Rafal
+  - name: Archith Datta Erigineni

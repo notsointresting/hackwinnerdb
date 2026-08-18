@@ -1,0 +1,14 @@
+id: operation-atlas-blaze-edition-realityshift
+project_id: operation-atlas-blaze-edition
+hackathon_id: realityshift
+submission_url: https://devpost.com/software/operation-atlas-blaze-edition
+source:
+  platform: devpost
+  url: https://devpost.com/software/operation-atlas-blaze-edition
+awards:
+  - type: first-place
+    title: Main Track 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

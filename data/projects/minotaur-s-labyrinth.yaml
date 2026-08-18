@@ -1,0 +1,20 @@
+id: minotaur-s-labyrinth
+name: Minotaur's Labyrinth
+slug: minotaur-s-labyrinth
+tagline: You immerse yourself in a first person view of a giant labyrinth inspired by the myth of
+  Minotaur; try to survive and get to the center without him getting you!
+summary: Minotaur's Labyrinth received the Over $10,000 in pirzes award at LancerHacks IX in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Eat-thePizza/Lancerhacks2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Eat-thePizza Liu
+  - name: epicnitrox-oss Koch
+  - name: LaurenLind1

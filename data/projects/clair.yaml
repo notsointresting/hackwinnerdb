@@ -1,0 +1,26 @@
+id: clair
+name: Clair
+slug: clair
+tagline: Patients shouldn't have to be the memory of their hospital. We turn spoken updates into a
+  shared record every clinician can inherit.
+summary: Clair received the Best AI/ML Hack award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/justinsiek/HackDavis2026
+demo_url: null
+video_url: https://www.youtube.com/embed/wOVGxAudW8o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/129/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - flask
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Sanskar Mishra
+  - name: Justin Siek
+  - name: Juan Muhirwe
+  - name: Leo Wu-Hacohen

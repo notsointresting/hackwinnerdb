@@ -1,0 +1,19 @@
+id: cats-like-milk
+name: Cats Like Milk
+slug: cats-like-milk
+tagline: Find out if Seno would trust you with the aux, using cats, milk, and extremely scientific vibes.
+summary: Cats Like Milk received the Useless Prize award at senohacks. in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sohamr01/seno-hacks
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Soham Roy

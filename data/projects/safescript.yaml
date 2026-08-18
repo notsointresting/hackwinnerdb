@@ -1,0 +1,26 @@
+id: safescript
+name: SafeScript
+slug: safescript
+tagline: SafeScript AI, an AI-powered clinical safety layer designed to support physicians by
+  verifying diagnoses and identifying potential blind spots.
+summary: SafeScript received the Best Project in HealthCare award at ACM Trojan Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JacobScheff/ACM-TrojanHacks-2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/I1z9WQqPJrg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/353/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - flask
+  - gemini
+  - groq
+  - react
+  - whisper
+builders:
+  - name: 孟璇 林
+  - name: Jacob Scheff
+  - name: 熙貞 王

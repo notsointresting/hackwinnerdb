@@ -1,0 +1,14 @@
+id: aplicacion-de-idiomas-zuzu-hack-days-in-bogota
+project_id: aplicacion-de-idiomas-zuzu
+hackathon_id: hack-days-in-bogota
+submission_url: https://devpost.com/software/aplicacion-de-idiomas-zuzu
+source:
+  platform: devpost
+  url: https://devpost.com/software/aplicacion-de-idiomas-zuzu
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

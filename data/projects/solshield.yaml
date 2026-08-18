@@ -1,0 +1,27 @@
+id: solshield
+name: SolShield
+slug: solshield
+tagline: SolShield is a minimal non-custodial Solana-based wallet focused on seamless USDC
+  transactions with automatic wallet creation, smart token transfers, and an int
+summary: SolShield received the [MLH] Best Use of Solana award at HackMerced XI in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/408/933/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - react
+  - solana
+  - tailwind-css
+  - vercel
+builders:
+  - name: Phonn Nay Khant
+  - name: Isaac Puah
+  - name: Kaung Thet Zaw

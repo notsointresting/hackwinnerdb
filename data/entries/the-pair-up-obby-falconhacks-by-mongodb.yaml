@@ -1,0 +1,14 @@
+id: the-pair-up-obby-falconhacks-by-mongodb
+project_id: the-pair-up-obby
+hackathon_id: falconhacks-by-mongodb
+submission_url: https://devpost.com/software/the-pair-up-obby
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-pair-up-obby
+awards:
+  - type: category-winner
+    title: Best Use Of MongoDB
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

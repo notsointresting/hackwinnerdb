@@ -1,0 +1,21 @@
+id: dream-team-v1
+name: Dream Team V1
+slug: dream-team-v1
+tagline: A real-time multiplayer decision engine that eliminates group indecision and forces fast
+  consensus on where to eat.
+summary: Dream Team V1 received the 3rd award at Ship In a day in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anchitlahkar/ForkCast
+demo_url: null
+video_url: https://www.youtube.com/embed/yngJuXPJbTY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/129/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - firebase
+  - javascript
+  - nextjs
+builders:
+  - name: Anchit Lahkar
+  - name: Kaushal Das

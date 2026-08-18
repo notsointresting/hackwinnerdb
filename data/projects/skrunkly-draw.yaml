@@ -1,0 +1,23 @@
+id: skrunkly-draw
+name: Skrunkly Draw
+slug: skrunkly-draw
+tagline: Skrunkly Draw is the desire for an art platform that rules out machines and lets humanity shine.
+summary: Skrunkly Draw received the [MLH] Best Use of MongoDB Atlas award at HackUPC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HackHajs/skrunkly_draw_backend
+demo_url: null
+video_url: https://www.youtube.com/embed/nd9fhv2EHoE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/652/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mongodb
+  - python
+  - rust
+builders:
+  - name: theflowestate Poczka
+  - name: Pol Corella
+  - name: Fay
+  - name: Mar Roca

@@ -1,0 +1,18 @@
+id: beatfall
+name: Beatfall
+slug: beatfall
+tagline: A modernised version of guitar hero powered by musical analysis based visuals
+summary: Beatfall received the Rork 3rd Place award at The London Rork Game Hackathon  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/AT7dcM4VHrU
+image_url: null
+categories:
+  - iot
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: Andrew Nguyen

@@ -1,0 +1,22 @@
+id: hilbertshield
+name: HilbertShield
+slug: hilbertshield
+tagline: Quantum-inspired fraud detection using RBF kernels to map transactions into
+  infinite-dimensional Hilbert space. Catches sophisticated fraud patterns in <50ms th
+summary: HilbertShield received the Theme-Based Track Prizes award at Quantum Sprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Anshulmehra001/HilbertShield-Quantum-Kernel-Fraud-Detection
+demo_url: null
+video_url: https://www.youtube.com/embed/SJaLmwnrOu8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/314/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+  - enterprise
+technologies:
+  - flask
+  - python
+builders:
+  - name: Aniket Mehra
+  - name: Apoorv Bhargava

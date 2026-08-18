@@ -1,0 +1,21 @@
+id: piqasso-tackles-cat-qubits
+name: Piqasso tackles Cat Qubits
+slug: piqasso-tackles-cat-qubits
+tagline: We characterize the robustness of cat qubits to drift with the application of a PPO neural
+  network optimization algorithm. Through this, we seek to gain a deepe
+summary: Piqasso tackles Cat Qubits received the Alice & Bob - 1st Place award at YQuantum 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LekChaiCoding/Piqasso-YQuantumSubmission-Alice-Bob-Challenge
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Alex Wong
+  - name: Jack Ploof
+  - name: Tymofii Baranenko
+  - name: Batu Yalcin

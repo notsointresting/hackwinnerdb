@@ -1,0 +1,22 @@
+id: signalforge
+name: SignalForge
+slug: signalforge
+tagline: SignalForge is a Business & E-commerce AI workspace that turns messy competitor research
+  into clear positioning strategy, helpteams find market gaps, score idea
+summary: SignalForge received the Creative Content Award award at Build with MeDo Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/oE7-LSx4Tn4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/685/536/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - javascript
+  - react
+  - supabase
+builders:
+  - name: Kaelah Emmanuel

@@ -1,0 +1,14 @@
+id: wingman-stevens-quackhacks-2026
+project_id: wingman
+hackathon_id: stevens-quackhacks-2026
+submission_url: https://devpost.com/software/wingman-43yq6g
+source:
+  platform: devpost
+  url: https://devpost.com/software/wingman-43yq6g
+awards:
+  - type: other
+    title: ADP Challenge Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,26 @@
+id: snapsign
+name: SnapSign
+slug: snapsign
+tagline: Two-way translator between Sign Language and English to encourage inclusion and shared
+  understanding between the Deaf and Hearing communities.
+summary: SnapSign received the Main Track 2nd Place award at RealityShift in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/billigoat/SnapSign
+demo_url: null
+video_url: https://www.youtube.com/embed/wokLXfdxssg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/479/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+  - ar-vr
+technologies:
+  - gemini
+  - javascript
+  - openai
+  - typescript
+builders:
+  - name: theirsandman Sandman-Long
+  - name: Evy Chan
+  - name: Cynthia Huang
+  - name: Bilal Qazi

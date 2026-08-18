@@ -1,0 +1,20 @@
+id: bombastic-workout-app
+name: Bombastic Workout App
+slug: bombastic-workout-app
+tagline: A web-based fitness app that uses your webcam to detect exercise reps with high-energy meme
+  humor and a progressive leveling system.
+summary: Bombastic Workout App received the Second Place award at Trend Hacker in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TripleS-M/brainrot-fitness-coach
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/640/374/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Suhaas Mavuri
+  - name: Maria Diana Olayta

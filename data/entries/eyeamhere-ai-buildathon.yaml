@@ -1,0 +1,14 @@
+id: eyeamhere-ai-buildathon
+project_id: eyeamhere
+hackathon_id: ai-buildathon
+submission_url: https://devpost.com/software/smart-face-attendence-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-face-attendence-system
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

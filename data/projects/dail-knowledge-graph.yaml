@@ -1,0 +1,25 @@
+id: dail-knowledge-graph
+name: DAIL-Knowledge-Graph
+slug: dail-knowledge-graph
+tagline: 375 AI lawsuits trapped in a spreadsheet. We turned them into a living knowledge graph -
+  queryable, relational, and ready for the scale AI litigation demands.
+summary: DAIL-Knowledge-Graph received the Problem Statement 1 Winner award at Trustworthy AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Nikhil123n/dail-knowledge-graph
+demo_url: null
+video_url: https://www.youtube.com/embed/WLt_hcJ3a1M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/384/079/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Shrey Jain
+  - name: Nikhil Arethiya

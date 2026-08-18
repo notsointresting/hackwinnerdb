@@ -1,0 +1,27 @@
+id: mathtutor-ai
+name: MathTutor AI
+slug: mathtutor-ai
+tagline: "MathTutor AI: an AI tutor that knows where you actually are — it places you, tracks what
+  you've mastered, and teaches the next right thing, not just answers."
+summary: MathTutor AI received the Grand Champion award at NextGen Innovation2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/LP3fhSRA4WY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/068/108/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - anthropic
+  - claude
+  - postgresql
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Atharva Singh
+  - name: David Benjamin Kanakapudi
+  - name: RishabhSinha2009

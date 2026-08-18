@@ -1,0 +1,24 @@
+id: cartograph
+name: CARTograph
+slug: cartograph
+tagline: Chart your cart!
+summary: CARTograph received the 2nd Place award at Esri's Weekend of Innovation 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hannahttrng/cartograph
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/169/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - azure
+  - figma
+  - python
+  - react-native
+  - typescript
+builders:
+  - name: Audrey Huang
+  - name: Lynette Hemingway
+  - name: Tisha Kothari
+  - name: Caitlin Chan

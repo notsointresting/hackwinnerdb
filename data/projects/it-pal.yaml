@@ -1,0 +1,23 @@
+id: it-pal
+name: IT Pal
+slug: it-pal
+tagline: AI-powered desktop assistant that lets seniors and less tech-savvy people describe problems
+  in their own words and get them solved in one tap
+summary: IT Pal received the 2nd Place Grand Prize award at KiroHacks Cal Poly in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samsonchang2028/KIROHACKS2026
+demo_url: null
+video_url: https://www.youtube.com/embed/WKphyGZriD4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - openai
+builders:
+  - name: Isaac Pressman
+  - name: Dash Pickrell
+  - name: samsonchang2028
+  - name: Dillon Schaffer

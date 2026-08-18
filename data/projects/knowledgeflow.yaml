@@ -1,0 +1,24 @@
+id: knowledgeflow
+name: KnowledgeFlow
+slug: knowledgeflow
+tagline: Admins assign roles and manage access, teachers share knowledge, and learners receive
+  structured training with summaries, quizzes, and a teach-back feature to e
+summary: KnowledgeFlow received the 3rd Place award at Southwest MN Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BkEla/knowledgeFlow
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/685/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - llama
+  - mistral
+  - react
+  - whisper
+builders:
+  - name: Ebunoluwa Shokefun
+  - name: Biruk Ayalew
+  - name: Kaleab Yoseph

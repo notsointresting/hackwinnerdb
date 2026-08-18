@@ -1,0 +1,23 @@
+id: 911stock
+name: 911stock
+slug: 911stock
+tagline: AI agent that monitors real news for your stocks and calls your phone when something
+  matters — with source citations, trade execution, and human-in-the-loop app
+summary: "911stock received the Truefoundry: Best use of AI Gateway award at Deep Agents Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/aayushdixit27/911stock
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/498/692/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - gemini
+  - tailwind-css
+  - typescript
+builders:
+  - name: Bunyasit Fang
+  - name: aayushdixit27 Dixit

@@ -1,0 +1,18 @@
+id: gratitude-garden
+name: Gratitude Garden!
+slug: gratitude-garden
+tagline: send what you're grateful for and your garden grows!
+summary: Gratitude Garden! received the Participants award at Code as a Canvas in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/brooklynp0che/thegratitudegarden
+demo_url: null
+video_url: https://www.youtube.com/embed/4oh5MKsJMUo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/479/676/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - javascript
+builders:
+  - name: rose Dumas
+  - name: Brooklyn poche

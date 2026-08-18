@@ -1,0 +1,14 @@
+id: 8-milliwatts-hard-mode-hardware-x-ai-hackathon
+project_id: 8-milliwatts
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/journeyman-augmenting-personal-realities
+source:
+  platform: devpost
+  url: https://devpost.com/software/journeyman-augmenting-personal-realities
+awards:
+  - type: other
+    title: IFM Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: someone-save-us
+name: Someone Save Us
+slug: someone-save-us
+tagline: Help them escape the flooding island!!
+summary: Someone Save Us received the Best Entertainment and Media Hack award at HackPrinceton
+  Spring '26 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/notcolumbus/hackprinceton-island-habits/tree/feature/resources
+demo_url: null
+video_url: https://www.youtube.com/watch?v=v2OeK1gbblo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/226/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Aman Anwar
+  - name: Hung Truong
+  - name: Shiva Pochampally
+  - name: Justin Zhao

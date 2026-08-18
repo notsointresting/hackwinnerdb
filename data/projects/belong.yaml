@@ -1,0 +1,25 @@
+id: belong
+name: Belong
+slug: belong
+tagline: Belong helps newcomers to a London neighbourhood create connections. Instead of picking
+  events from a feed, Frankie, picks one existing weekly activity for you.
+summary: "Belong received the Product Bundle by Mind the Product award at Mind the Product presents
+  World Product Day: Everyone Ships Now in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/nakagawamariana/belong-mvp
+demo_url: null
+video_url: https://www.youtube.com/embed/am1a-umMHu8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/742/136/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - claude
+  - firebase
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Mariana Nakagawa

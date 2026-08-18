@@ -1,0 +1,19 @@
+id: memo
+name: Memo
+slug: memo
+tagline: Daily calls that map the aging mind
+summary: Memo received the Best Use of Render award at Autonomous Agents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ASmT7Yi9ApM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/376/775/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+builders:
+  - name: Justin Kim

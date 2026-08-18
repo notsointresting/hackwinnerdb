@@ -1,0 +1,22 @@
+id: pact
+name: Pact
+slug: pact
+tagline: Pact is a social accountability app where users stake money on a goal, submit proof, and
+  let trusted friends vote on whether they followed through
+summary: Pact received the Best Use of Solana award at HackSMU VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/satvikh/pact
+demo_url: null
+video_url: https://www.youtube.com/embed/GrcLCmhFtxw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/659/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Vik Hegde
+  - name: Kushagra Bharti
+  - name: suhaas gaddala

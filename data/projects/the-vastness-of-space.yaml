@@ -1,0 +1,16 @@
+id: the-vastness-of-space
+name: The vastness of space
+slug: the-vastness-of-space
+tagline: The Earth rendered at the scale of the universe.
+summary: The vastness of space received the Participant award at Project Stellar in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/AjWfY7SnMBI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/719/datas/gallery.jpg
+categories:
+  - other
+technologies: []
+builders:
+  - name: Henry Van Iersel

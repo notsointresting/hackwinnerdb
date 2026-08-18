@@ -1,0 +1,17 @@
+id: fruit-collector
+name: Fruit Collector
+slug: fruit-collector
+tagline: The player collects fruit and avoids dogs and spikes.
+summary: Fruit Collector received the 2nd Place Overall award at BigRedHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/w6OXgpFzkNU
+image_url: null
+categories:
+  - ar-vr
+  - gaming
+technologies: []
+builders:
+  - name: Zoey Ludwig

@@ -1,0 +1,14 @@
+id: panenin-apps-garuda-hacks-7-0
+project_id: panenin-apps
+hackathon_id: garuda-hacks-7-0
+submission_url: https://devpost.com/software/panenin
+source:
+  platform: devpost
+  url: https://devpost.com/software/panenin
+awards:
+  - type: category-winner
+    title: Most Unique Idea
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

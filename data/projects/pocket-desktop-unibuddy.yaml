@@ -1,0 +1,19 @@
+id: pocket-desktop-unibuddy
+name: Pocket Desktop UniBuddy
+slug: pocket-desktop-unibuddy
+tagline: UniBuddy – The Study Companion That Keeps You Focused
+summary: Pocket Desktop UniBuddy received the [Hackathons UK] Hackiest Hack award at HackLondon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LightestDark/Unibuddy
+demo_url: null
+video_url: https://www.youtube.com/embed/GjLW2NmiDvU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/355/747/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - c-plus-plus
+builders:
+  - name: Huangxin Dong
+  - name: Jiayi Qiu

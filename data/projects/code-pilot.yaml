@@ -1,0 +1,22 @@
+id: code-pilot
+name: Code Pilot
+slug: code-pilot
+tagline: Understand any codebase in seconds, not days.
+summary: Code Pilot received the Best use of Augment Code award at Multimodal Frontier Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/evyMascarenhas/codepilot
+demo_url: null
+video_url: https://www.youtube.com/embed/gxtakT4hDWA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - nextjs
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Evellyn Mascarenhas

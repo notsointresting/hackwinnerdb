@@ -1,0 +1,24 @@
+id: thread-ai
+name: Thread.ai
+slug: thread-ai
+tagline: Talk to AI face-to-face. Thread.ai transforms conversations into real-time avatar video
+  interactions powered by RAG, vision, OCR, and multimodal intelligence.
+summary: Thread.ai received the Top 9 Finalists award at NextGenHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/viv2005ek/ThreadAi-RealTimeAiVideoCall
+demo_url: null
+video_url: https://www.youtube.com/embed/ci9qdkgSVss
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/918/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - media
+technologies:
+  - firebase
+  - pinecone
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Vivek Kumar Garg

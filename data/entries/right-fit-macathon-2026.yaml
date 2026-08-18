@@ -1,0 +1,14 @@
+id: right-fit-macathon-2026
+project_id: right-fit
+hackathon_id: macathon-2026
+submission_url: https://devpost.com/software/right-fit
+source:
+  platform: devpost
+  url: https://devpost.com/software/right-fit
+awards:
+  - type: category-winner
+    title: Best Social Media
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

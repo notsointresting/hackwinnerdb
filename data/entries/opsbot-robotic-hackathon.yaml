@@ -1,0 +1,14 @@
+id: opsbot-robotic-hackathon
+project_id: opsbot
+hackathon_id: robotic-hackathon
+submission_url: https://devpost.com/software/opsbot
+source:
+  platform: devpost
+  url: https://devpost.com/software/opsbot
+awards:
+  - type: track-winner
+    title: "​Special Award: Most Empathic Robot (Interhuman AI Track)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

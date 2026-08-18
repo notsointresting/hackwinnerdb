@@ -1,0 +1,21 @@
+id: stroke-predicticn
+name: STROKE PREDICTICN
+slug: stroke-predicticn
+tagline: AI-powered IoT wearable healthcare system designed for real-time stroke risk prediction.The
+  system uses simulated sensor data, cloud-based,machine learning anal
+summary: STROKE PREDICTICN received the 3rd Overall award at Evorozen Innovators Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thamaraiselvang2025aids-oss/STROKE_PREDICTION_AI_IOT_REALTIME
+demo_url: null
+video_url: https://www.youtube.com/embed/_IYC-AjeRSw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/670/987/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - c-plus-plus
+builders:
+  - name: G. Thamarai Selvan
+  - name: THAMIRA H AIDS

@@ -1,0 +1,14 @@
+id: syncspace-worlds-in-action-hack-01-sf
+project_id: syncspace
+hackathon_id: worlds-in-action-hack-01-sf
+submission_url: https://devpost.com/software/syncspace
+source:
+  platform: devpost
+  url: https://devpost.com/software/syncspace
+awards:
+  - type: category-winner
+    title: Best World Models Implementation with PICO
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: 6th-sense
+name: 6th Sense
+slug: 6th-sense
+tagline: 6th Sense is a real-time AI assistant that listens, reads social cues, and suggests what to
+  say instantly. Built for speed and accessibility, it helps users com
+summary: 6th Sense received the Best use of Lovable award at JacHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/dFl09zi6uoQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/228/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - c-plus-plus
+  - python
+builders:
+  - name: rajtherockstar Raj
+  - name: Adwayan Goswami
+  - name: Aryan Singh
+  - name: Param Natu

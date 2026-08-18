@@ -1,0 +1,25 @@
+id: jento
+name: jento
+slug: jento
+tagline: Less planning. More exploring.
+summary: "jento received the Product Bundle by Mind the Product award at Mind the Product presents
+  World Product Day: Everyone Ships Now in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/R16qXxAqJoY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/666/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - google-maps
+  - nextjs
+  - postgresql
+  - typescript
+  - vercel
+builders:
+  - name: Jitesh khurana
+  - name: Kshitija Kothavade

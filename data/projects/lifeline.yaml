@@ -1,0 +1,18 @@
+id: lifeline
+name: Lifeline
+slug: lifeline
+tagline: A smart companion that helps you track your elderly loved ones's mental health
+summary: Lifeline received the Best use of Modulate's APIs award at Autonomous Agents Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/manuvikash/Lifeline
+demo_url: null
+video_url: https://www.youtube.com/embed/O3dX-spvWw8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/376/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Manuvikash Saravanakumar

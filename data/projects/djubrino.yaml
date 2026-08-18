@@ -1,0 +1,24 @@
+id: djubrino
+name: Djubriño
+slug: djubrino
+tagline: Djubriño turns trash container into intelligent systems—preventing overflow, reducing
+  pollution, and optimizing collection with real-time data and AI.
+summary: Djubriño received the [Qualcomm] 1st place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ColG-02/backend_hackupc
+demo_url: null
+video_url: https://www.youtube.com/embed/Q5vyWMaQkP0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/432/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - fastapi
+  - mongodb
+  - python
+builders:
+  - name: Mihajlo Krunic
+  - name: Nikola Koldzic
+  - name: Andrej Aleksic

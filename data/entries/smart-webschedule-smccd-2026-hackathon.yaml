@@ -1,0 +1,14 @@
+id: smart-webschedule-smccd-2026-hackathon
+project_id: smart-webschedule
+hackathon_id: smccd-2026-hackathon
+submission_url: https://devpost.com/software/smart-webschedule
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-webschedule
+awards:
+  - type: track-winner
+    title: "Improving SMCCD Track 4th place: Secret prize (per team member)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

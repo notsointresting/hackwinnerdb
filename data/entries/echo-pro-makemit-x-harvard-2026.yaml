@@ -1,0 +1,18 @@
+id: echo-pro-makemit-x-harvard-2026
+project_id: echo-pro
+hackathon_id: makemit-x-harvard-2026
+submission_url: https://devpost.com/software/ai-detection-and-steering-crane
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-detection-and-steering-crane
+awards:
+  - type: category-winner
+    title: Best Use of Viam
+  - type: category-winner
+    title: Best Use of deFlex (Transcend)
+  - type: other
+    title: Communication
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

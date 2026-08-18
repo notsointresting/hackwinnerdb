@@ -1,0 +1,16 @@
+id: auris-hoohacks-2026
+project_id: auris
+hackathon_id: hoohacks-2026
+submission_url: https://devpost.com/software/cadence-r6is0f
+source:
+  platform: devpost
+  url: https://devpost.com/software/cadence-r6is0f
+awards:
+  - type: category-winner
+    title: Best Health & Wellness
+  - type: category-winner
+    title: MLH || Best Use of Presage || Fitbit Inspire & Presage Perks
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

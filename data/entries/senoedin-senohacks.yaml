@@ -1,0 +1,14 @@
+id: senoedin-senohacks
+project_id: senoedin
+hackathon_id: senohacks
+submission_url: https://devpost.com/software/senoedin
+source:
+  platform: devpost
+  url: https://devpost.com/software/senoedin
+awards:
+  - type: other
+    title: Senorable Mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

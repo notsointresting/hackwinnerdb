@@ -1,0 +1,20 @@
+id: blockout
+name: BlockOut
+slug: blockout
+tagline: Your payment terminal just became a witness
+summary: "BlockOut received the Grand Prize: Finance Track award at HackDuke: Code For Good 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/SamisLife/BlockOut
+demo_url: null
+video_url: https://www.youtube.com/embed/ScPBqUitlGc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/265/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - arduino
+  - esp32
+  - gemini
+  - swift
+builders:
+  - name: Sami Maghnaoui

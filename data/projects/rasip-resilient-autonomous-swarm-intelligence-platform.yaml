@@ -1,0 +1,33 @@
+id: rasip-resilient-autonomous-swarm-intelligence-platform
+name: RASIP --- Resilient Autonomous Swarm Intelligence Platform
+slug: rasip-resilient-autonomous-swarm-intelligence-platform
+tagline: RASIP is an intelligent autonomous drone swarm platform built for civilian disaster
+  response, search & rescue, environmental monitoring, infrastructure inspecti
+summary: RASIP --- Resilient Autonomous Swarm Intelligence Platform received the Second place -
+  Innovation Award award at Ctrl+V Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/danielmuthama23/RASIP---Resilient_Autonomous_Swarm_Intelligence_Platform-.git
+demo_url: null
+video_url: https://www.youtube.com/embed/dYNoWVRRhwk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/855/994/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - docker
+  - fastapi
+  - graphql
+  - javascript
+  - kubernetes
+  - opencv
+  - postgresql
+  - python
+  - pytorch
+  - redis
+  - sql
+  - tailwind-css
+  - typescript
+builders:
+  - name: Daniel Muthama

@@ -1,0 +1,28 @@
+id: palm
+name: Palm
+slug: palm
+tagline: "PALM unifies your child's health from day one and answers parents 24/7 on validated
+  protocols- giving Pediatricians more time to care, less spent answering the "
+summary: Palm received the Vibiz award at HackRome in 2026. This record was imported automatically;
+  the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/765/722/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - fastapi
+  - mongodb
+  - openai
+  - react
+  - vercel
+builders:
+  - name: diegomontanari Montanari
+  - name: Roberto Nicola Ponticiello
+  - name: Davide Ripanucci
+  - name: Gabriele

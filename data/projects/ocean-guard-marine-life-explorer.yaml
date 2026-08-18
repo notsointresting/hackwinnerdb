@@ -1,0 +1,20 @@
+id: ocean-guard-marine-life-explorer
+name: "Ocean Guard: Marine Life Explorer"
+slug: ocean-guard-marine-life-explorer
+tagline: Protect what you cannot replace!
+summary: "Ocean Guard: Marine Life Explorer received the MLH || Best Use of ElevenLabs || Wireless
+  Earbuds award at MasseyHacks XII in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/661/158/datas/medium.jpeg
+categories:
+  - education
+technologies:
+  - python
+builders:
+  - name: Nihaarika Putta
+  - name: Maheen Ahmad
+  - name: Sarah Dianat

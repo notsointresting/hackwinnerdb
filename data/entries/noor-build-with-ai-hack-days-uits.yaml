@@ -1,0 +1,16 @@
+id: noor-build-with-ai-hack-days-uits
+project_id: noor
+hackathon_id: build-with-ai-hack-days-uits
+submission_url: https://devpost.com/software/noor-rmdjhl
+source:
+  platform: devpost
+  url: https://devpost.com/software/noor-rmdjhl
+awards:
+  - type: other
+    title: Google Swag Kits
+  - type: other
+    title: Inference Credits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

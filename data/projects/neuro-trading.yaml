@@ -1,0 +1,26 @@
+id: neuro-trading
+name: neuro-trading.
+slug: neuro-trading
+tagline: fMRI-enhanced swarm simulations for prediction markets
+summary: neuro-trading. received the Best Use of Hermes -- Nous Research award at YHack Spring 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nikmcfly/MiroFish-Offline
+demo_url: null
+video_url: https://www.youtube.com/embed/WmDdycsx_a0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/703/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - flask
+  - python
+  - pytorch
+  - sqlite
+builders:
+  - name: Alexandru Jerpelea
+  - name: Petra Hedesiu
+  - name: matei coldea

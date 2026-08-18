@@ -1,0 +1,14 @@
+id: fork-yeah-hack-ai-2026
+project_id: fork-yeah
+hackathon_id: hack-ai-2026
+submission_url: https://devpost.com/software/fork-yeah
+source:
+  platform: devpost
+  url: https://devpost.com/software/fork-yeah
+awards:
+  - type: sponsor-prize
+    title: "[SPONSOR] NRVE"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

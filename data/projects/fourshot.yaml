@@ -1,0 +1,20 @@
+id: fourshot
+name: FourShot
+slug: fourshot
+tagline: A topdown 2D roguelike dungeon crawler shooter with a pixel art style.
+summary: "FourShot received the Game Development Track: 1st place: Secret Prize (Per team member)
+  award at SMCCD 2026 Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/AltDual/FourShot
+demo_url: null
+video_url: https://www.youtube.com/embed/edzBj9f6EX0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/600/813/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Taiki S
+  - name: Michael Chen
+  - name: Braden C

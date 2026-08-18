@@ -1,0 +1,25 @@
+id: piedpiper
+name: PiedPiper
+slug: piedpiper
+tagline: A multimodal compression platform for LLM context windows. Whether it's text or video,
+  we'll make it small.
+summary: PiedPiper received the 1st Prize award at FoundersHack Sydney 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/antoinenguyen27/piedpiper
+demo_url: null
+video_url: https://www.youtube.com/embed/ANrEO81BzkM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/482/209/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - hugging-face
+  - python
+  - pytorch
+builders:
+  - name: Kevin Lin
+  - name: Ngan Giang Le
+  - name: erzhrn
+  - name: Antoine Nguyen

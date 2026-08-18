@@ -1,0 +1,28 @@
+id: weseeon-see-through-sound-feel-through-motion
+name: Weseeon - See Through Sound, Feel Through Motion
+slug: weseeon-see-through-sound-feel-through-motion
+tagline: For players who trust their senses,not just sight.For anyone who wants to playbeyond the
+  screen.Because with Weseeon, you don’t need to see to play.We turn perc
+summary: Weseeon - See Through Sound, Feel Through Motion received the Build The Future of Video
+  Understanding with TwelveLabs award at DiamondHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zqwIa7Vjiks
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/669/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - c-plus-plus
+  - elevenlabs
+  - flask
+  - javascript
+  - opencv
+  - python
+  - react
+builders:
+  - name: Antara Chhabra
+  - name: authentic-arc
+  - name: Uday Nain

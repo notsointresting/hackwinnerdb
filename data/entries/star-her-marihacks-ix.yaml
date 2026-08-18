@@ -1,0 +1,14 @@
+id: star-her-marihacks-ix
+project_id: star-her
+hackathon_id: marihacks-ix
+submission_url: https://devpost.com/software/star-her
+source:
+  platform: devpost
+  url: https://devpost.com/software/star-her
+awards:
+  - type: other
+    title: Advanced | Women-in-Tech Honourable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

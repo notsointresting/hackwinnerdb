@@ -1,0 +1,16 @@
+id: terraglide-hackillinois-2026
+project_id: terraglide
+hackathon_id: hackillinois-2026
+submission_url: https://devpost.com/software/terraglide-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/terraglide-ai
+awards:
+  - type: first-place
+    title: "Track: Best Hardware Hack (John Deere Mechathon) (1st Place)"
+  - type: track-winner
+    title: "Track: Best Hardware Hack (John Deere Mechathon) (Easy Track Winner)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

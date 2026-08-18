@@ -1,0 +1,24 @@
+id: operation-atlas-blaze-edition
+name: "Operation Atlas: Blaze Edition"
+slug: operation-atlas-blaze-edition
+tagline: Los Angeles is known for its endless sun, but not everyone has a place to escape it. Our
+  game highlights the everyday reality of navigating a city with too litt
+summary: "Operation Atlas: Blaze Edition received the Main Track 1st Place award at RealityShift in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/EtheriumBot/shiftsc-hack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/559/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+  - ar-vr
+technologies:
+  - gemini
+  - unity
+builders:
+  - name: Anjali Zalani
+  - name: Alexandra Siy
+  - name: Julius Howlett
+  - name: EtheriumBot

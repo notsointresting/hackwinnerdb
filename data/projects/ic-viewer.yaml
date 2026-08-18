@@ -1,0 +1,23 @@
+id: ic-viewer
+name: IC-Viewer
+slug: ic-viewer
+tagline: AI-assisted IC layout review for GDS and OpenROAD — Directly in your browser.
+summary: IC-Viewer received the Best Vibe Coded Project award at Vibe Coding Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AIALRA-0/IC-Viewer
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - cloudflare
+  - fastapi
+  - openai
+  - python
+  - react
+  - typescript
+builders:
+  - name: AIALRA Lucas Ding

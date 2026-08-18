@@ -1,0 +1,14 @@
+id: carebridge-navigator-github-readme-generation
+project_id: carebridge-navigator
+hackathon_id: github-readme-generation
+submission_url: https://devpost.com/software/carebridge-navigator
+source:
+  platform: devpost
+  url: https://devpost.com/software/carebridge-navigator
+awards:
+  - type: honorable-mention
+    title: Honorable mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

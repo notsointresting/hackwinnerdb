@@ -1,0 +1,19 @@
+id: aleph
+name: Aleph
+slug: aleph
+tagline: "An evolution engine with no fitness function: digital organisms adapt and keep inventing
+  new behaviors forever - a first step toward AI that creates instead of "
+summary: Aleph received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nitingpt000/aleph
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Nitin Gupta

@@ -1,0 +1,22 @@
+id: hazard-hound
+name: Hazard Hound
+slug: hazard-hound
+tagline: Not everywhere is as safe as home. Wouldn't you like to be aware of the hazards in your community?
+summary: Hazard Hound received the App Programming Track award at HackNewHaven 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abdu5524-cpu/HYGIENE_ACCESSIBILITY/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/511/974/datas/medium.jpg
+categories:
+  - education
+  - cybersecurity
+technologies:
+  - mongodb
+  - react
+builders:
+  - name: Ren Oberdorfer
+  - name: Nathan Johnson
+  - name: Syed Safin
+  - name: Abdu5524-cpu Uralov

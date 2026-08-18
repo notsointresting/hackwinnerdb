@@ -1,0 +1,14 @@
+id: smartrent-boeing-presents-truhacks-2026
+project_id: smartrent
+hackathon_id: boeing-presents-truhacks-2026
+submission_url: https://devpost.com/software/smartrent-x31ea8
+source:
+  platform: devpost
+  url: https://devpost.com/software/smartrent-x31ea8
+awards:
+  - type: other
+    title: Beginner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

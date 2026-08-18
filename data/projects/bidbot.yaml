@@ -1,0 +1,25 @@
+id: bidbot
+name: BidBot
+slug: bidbot
+tagline: The AI that calls every contractor simultaneously, negotiates the best price, and books the
+  winner — so homeowners never overpay again.
+summary: BidBot received the AI Track (1st Place) award at HackHayward 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sahildadhwal/HackHayward
+demo_url: null
+video_url: https://www.youtube.com/watch?v=4ubH7-AyoFg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/319/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - elevenlabs
+  - gemini
+  - google-cloud
+  - groq
+  - twilio
+  - typescript
+builders:
+  - name: Sahil Dadhwal

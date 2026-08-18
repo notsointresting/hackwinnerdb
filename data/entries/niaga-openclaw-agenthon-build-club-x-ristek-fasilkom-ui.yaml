@@ -1,0 +1,14 @@
+id: niaga-openclaw-agenthon-build-club-x-ristek-fasilkom-ui
+project_id: niaga
+hackathon_id: openclaw-agenthon-build-club-x-ristek-fasilkom-ui
+submission_url: https://devpost.com/software/niaga
+source:
+  platform: devpost
+  url: https://devpost.com/software/niaga
+awards:
+  - type: third-place
+    title: 3rd Place Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

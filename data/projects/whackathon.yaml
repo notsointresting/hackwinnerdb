@@ -1,0 +1,20 @@
+id: whackathon
+name: Whackathon
+slug: whackathon
+tagline: correct your posture - OR ELSE!
+summary: Whackathon received the [MLH] Best Use of ElevenLabs award at MakeMIT x Harvard 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/antaramazumdar/makemit
+demo_url: null
+video_url: https://www.youtube.com/embed/zVVqPrmJUBk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/360/446/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Antara Mazumdar
+  - name: James Hamilton
+  - name: Liam Fries
+  - name: Maya Adelma

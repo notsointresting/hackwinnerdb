@@ -1,0 +1,19 @@
+id: paytrack
+name: PayTrack
+slug: paytrack
+tagline: Fight back against employers blatantly stealing from you.
+summary: PayTrack received the Best use of Render 1st award at STEMist Hacks IV in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/srinivas-vb/paytrack
+demo_url: null
+video_url: https://www.youtube.com/embed/ek7iGLX6qa8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/167/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - claude
+  - javascript
+  - react
+builders:
+  - name: Srinivas Vijay Babu

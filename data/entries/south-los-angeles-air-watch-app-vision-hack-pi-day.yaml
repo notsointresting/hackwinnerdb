@@ -1,0 +1,14 @@
+id: south-los-angeles-air-watch-app-vision-hack-pi-day
+project_id: south-los-angeles-air-watch-app
+hackathon_id: vision-hack-pi-day
+submission_url: https://devpost.com/software/south-los-angeles-air-watch-app
+source:
+  platform: devpost
+  url: https://devpost.com/software/south-los-angeles-air-watch-app
+awards:
+  - type: other
+    title: Information here will be updated soon.
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: pontswap
+name: Pontswap
+slug: pontswap
+tagline: A Nostr-native coordination layer for Bitcoin ⇄ fiat swaps.
+summary: Pontswap received the Best use of Pontmore award at Bitcoin++ Open Source Edition in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MrNyamu/Pontswap
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Wesley Nyamu
+  - name: Cynthia Muemi

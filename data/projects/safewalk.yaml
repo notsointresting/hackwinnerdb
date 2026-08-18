@@ -1,0 +1,27 @@
+id: safewalk
+name: SafeWalk
+slug: safewalk
+tagline: SafeWalk is an AI-powered voice companion that keeps women safe during late-night walks by
+  detecting distress in real time and alerting emergency contacts insta
+summary: SafeWalk received the Most Likely to Become a Startup award at AthenaHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/700/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+  - react
+  - twilio
+builders:
+  - name: Shivani Rao
+  - name: Samantha Sy-Perez

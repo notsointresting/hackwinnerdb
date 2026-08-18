@@ -1,0 +1,14 @@
+id: skim-southern-knowledge-internal-mentor-play-with-purpose-hackathon-presented-by-cox-enterprises
+project_id: skim-southern-knowledge-internal-mentor
+hackathon_id: play-with-purpose-hackathon-presented-by-cox-enterprises
+submission_url: https://devpost.com/software/sustainability-at-major-events
+source:
+  platform: devpost
+  url: https://devpost.com/software/sustainability-at-major-events
+awards:
+  - type: sponsor-prize
+    title: Energy - sponsored by Southern Company
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

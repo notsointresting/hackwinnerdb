@@ -1,0 +1,23 @@
+id: it-budgeting-and-forecasting-software
+name: IT Budgeting and Forecasting Software
+slug: it-budgeting-and-forecasting-software
+tagline: This project is an AI-powered IT budgeting platform that helps organizations plan, track,
+  and forecast their technology expenses while making the process easy t
+summary: IT Budgeting and Forecasting Software received the 4th Place award at Southwest MN Hacks in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AbenezerLegesse/smsu-hacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/610/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Esrom Mulugeta
+  - name: abenezer legesse

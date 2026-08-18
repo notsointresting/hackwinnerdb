@@ -1,0 +1,28 @@
+id: theatomicals
+name: TheAtomicals
+slug: theatomicals
+tagline: Sistema Inteligente de Monitoreo y Gestión de Riesgos en Reactor Nuclear PWR mediante
+  Machine Learning avanzado, Blockchain (Solana) y Modelos Estocásticos para
+summary: TheAtomicals received the Best Use of Solana award at Hackathon Troyano 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElmarcianitoGtR/KabumKabum
+demo_url: null
+video_url: https://www.youtube.com/embed/H0AiAIxED3s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/787/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - solana
+builders:
+  - name: Kay Garcia
+  - name: ANA ROSA RAMIREZ LOPEZ
+  - name: Cristofer Martinez
+  - name: Belusaurio Botillo

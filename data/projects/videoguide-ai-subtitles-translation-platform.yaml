@@ -1,0 +1,22 @@
+id: videoguide-ai-subtitles-translation-platform
+name: VideoGuide — AI Subtitles & Translation Platform
+slug: videoguide-ai-subtitles-translation-platform
+tagline: VideoGuide breaks language and hearing barriers by transforming any online video into an
+  inclusive learning experience with AI subtitles, translation, and real-
+summary: VideoGuide — AI Subtitles & Translation Platform received the Participation Certificates
+  award at Ctrl+V Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Jasurcyb/ctrl-v-ai-subtitles
+demo_url: null
+video_url: https://www.youtube.com/embed/l3Tlzd-OCCA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/862/959/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Jasur Maxkamov

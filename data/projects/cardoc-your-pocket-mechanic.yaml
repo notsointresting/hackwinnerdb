@@ -1,0 +1,22 @@
+id: cardoc-your-pocket-mechanic
+name: CarDoc- Your Pocket Mechanic
+slug: cardoc-your-pocket-mechanic
+tagline: Don't guess. Diagnose with the CarDoc!
+summary: CarDoc- Your Pocket Mechanic received the 3rd Place award at KeanUHackThis 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pfBWxe_yfyA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/611/310/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - gemini
+  - typescript
+builders:
+  - name: Andrea Manzanares Claros
+  - name: Kevin Andrade
+  - name: Santiago Quintero

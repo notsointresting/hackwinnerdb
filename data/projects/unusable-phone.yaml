@@ -1,0 +1,19 @@
+id: unusable-phone
+name: Unusable Phone
+slug: unusable-phone
+tagline: The Most Counter Intuitive phone UI ever!
+summary: Unusable Phone received the Best UnPhone UI/UX Design award at TechVision UXHack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rithped/UnuseablePhone
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/543/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - arduino
+builders:
+  - name: Wen Jiunn Loh
+  - name: Cameron Mcguire
+  - name: Rithvik Peduru

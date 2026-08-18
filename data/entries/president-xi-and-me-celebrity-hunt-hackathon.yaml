@@ -1,0 +1,14 @@
+id: president-xi-and-me-celebrity-hunt-hackathon
+project_id: president-xi-and-me
+hackathon_id: celebrity-hunt-hackathon
+submission_url: https://devpost.com/software/president-xi-and-me
+source:
+  platform: devpost
+  url: https://devpost.com/software/president-xi-and-me
+awards:
+  - type: other
+    title: Runner-Up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

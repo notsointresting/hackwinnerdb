@@ -1,0 +1,23 @@
+id: claritydna
+name: ClarityDNA
+slug: claritydna
+tagline: "ClarityDNA takes complex genetic information and turns it into clear and simple data that
+  patients can understand. It takes genomic data and simplifies it into "
+summary: ClarityDNA received the Portable Projector award at BNFOthon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cccookiw/claritydna-dashboard/blob/main/app.py
+demo_url: null
+video_url: https://www.youtube.com/embed/_ICpKjHtjbg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/590/225/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Riya N
+  - name: Manvi Upadhyay
+  - name: Aditi Rajesh

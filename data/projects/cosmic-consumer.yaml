@@ -1,0 +1,20 @@
+id: cosmic-consumer
+name: Cosmic Consumer
+slug: cosmic-consumer
+tagline: Consuming the universe, one planet at a time.
+summary: Cosmic Consumer received the 1st place award at Cyber Sages Hackathon  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/O09uBT8uxOo
+image_url: null
+categories:
+  - productivity
+  - consumer
+technologies:
+  - vercel
+builders:
+  - name: Mangesh Jha
+  - name: Anush Chauhan
+  - name: Prabhav Pulumati

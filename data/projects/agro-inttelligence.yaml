@@ -1,0 +1,23 @@
+id: agro-inttelligence
+name: AGRO INTTELLIGENCE
+slug: agro-inttelligence
+tagline: Cultivating the Future with AI
+summary: AGRO INTTELLIGENCE received the 1st Prize Winner award at Global Tech Innovation 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/X4vr4L1NNzY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/854/872/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - iot
+technologies:
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+  - react
+builders:
+  - name: VARSHITHA SAI REDDY ALLA

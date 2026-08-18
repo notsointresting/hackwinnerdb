@@ -1,0 +1,22 @@
+id: paritok-s-labyrinth
+name: Paritok's Labyrinth
+slug: paritok-s-labyrinth
+tagline: A roguelike where your memory is your token budget — and Paritok keeps you alive.
+summary: "Paritok's Labyrinth received the 3rd Place award at Build with Paritok: The
+  Token-Efficiency Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/extremecoder-rgb/Paritok-s-Labyrinth
+demo_url: null
+video_url: https://www.youtube.com/embed/4HFcicikzfM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/050/788/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Subhranil Mondal

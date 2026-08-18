@@ -1,0 +1,27 @@
+id: sentinelglove-instinctive-edge-ai-for-industrial-safety
+name: "SentinelGlove: Instinctive Edge AI for Industrial Safety"
+slug: sentinelglove-instinctive-edge-ai-for-industrial-safety
+tagline: Instinctive SmartGlove for industrial safety. Built in RUST on ESP32-S3 for zero-leak
+  reliability. Our edge AI enables good control in hazardous zones. Features
+summary: "SentinelGlove: Instinctive Edge AI for Industrial Safety received the Espressif Innovation
+  in Smart Home/City award at StarkHacks in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/robcholz/SmartGlove.git
+demo_url: null
+video_url: https://www.youtube.com/embed/dQLXI0FbA6U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/871/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - c-plus-plus
+  - docker
+  - python
+  - rust
+builders:
+  - name: sbhadgao@purdue.edu Shrirang
+  - name: Ayush Chhangani
+  - name: Cedric Jovenet
+  - name: Finn Sheng

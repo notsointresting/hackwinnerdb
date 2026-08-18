@@ -1,0 +1,22 @@
+id: terraai-smart-farming-copilot
+name: "TerraAI: Smart Farming Copilot"
+slug: terraai-smart-farming-copilot
+tagline: Terra-AI uses AI to help farmers detect crop diseases, overcome real-world AI challenges
+  and enable smarter, data-driven farming building the future of precisio
+summary: "TerraAI: Smart Farming Copilot received the Participation Certificates award at Ctrl+V
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/asamnazim333-oss/terra-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/H914CFwfFxg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Sufian  Yaser
+  - name: Asamnazim Nazim

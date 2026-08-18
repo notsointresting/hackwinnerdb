@@ -1,0 +1,14 @@
+id: fraud-de-tech-mpc-hacks
+project_id: fraud-de-tech
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/val-d-ector
+source:
+  platform: devpost
+  url: https://devpost.com/software/val-d-ector
+awards:
+  - type: category-winner
+    title: "[MLH] Best .Tech Domain Name"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

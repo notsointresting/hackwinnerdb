@@ -1,0 +1,25 @@
+id: aegis-adaptive-emergency-guidance-and-intelligence-system
+name: AEGIS (Adaptive Emergency Guidance and Intelligence System)
+slug: aegis-adaptive-emergency-guidance-and-intelligence-system
+tagline: AEGIS is AI for the ER that reads patient intake and ambulance reports, ranks who's doing
+  worst, and gets the sickest seen first
+summary: AEGIS (Adaptive Emergency Guidance and Intelligence System) received the Best Youth Hack
+  award at HackJPS 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/hashbrownsnj/AEGIS
+demo_url: null
+video_url: https://www.youtube.com/embed/DVU82VqoySM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/849/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mongodb
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Nivas Palaniappan
+  - name: Advaith Banigandlapati
+  - name: Aakshat Hariharan

@@ -1,0 +1,18 @@
+id: phone-duels
+name: Phone Duels
+slug: phone-duels
+tagline: Each player will connect to the game via a QR code, which will be displayed on the laptop.
+  Then the game will display the rules, and then get straight to the ga
+summary: Phone Duels received the [Hackathons UK] Hackiest Hack award at KentHackIt in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/astridngodji/phone-duels
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - gaming
+technologies:
+  - react
+builders:
+  - name: Astrid TN

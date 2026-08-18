@@ -1,0 +1,22 @@
+id: nba-predictors
+name: NBA predictors
+slug: nba-predictors
+tagline: An app that lets you engage with the NBA in a more meaningful way. Make predictions, keep
+  your streak, and compare results with your friends
+summary: NBA predictors received the Amazon Gift Cards award at GDG Winter 2026 Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Alex-V-S/GDGC-Winter-Hackathon-Project
+demo_url: null
+video_url: https://www.youtube.com/embed/s9uilf6xSz0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/419/068/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react-native
+  - supabase
+builders:
+  - name: Alejandro Villeda Schaeufler
+  - name: Jakhangir Tynshimov
+  - name: Sohan Bellundagi

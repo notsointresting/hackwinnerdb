@@ -1,0 +1,14 @@
+id: lasagna-bitcamp-2026
+project_id: lasagna
+hackathon_id: bitcamp-2026
+submission_url: https://devpost.com/software/lasagna-hongpv
+source:
+  platform: devpost
+  url: https://devpost.com/software/lasagna-hongpv
+awards:
+  - type: category-winner
+    title: Best Moonshot Hack - Bitcamp
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

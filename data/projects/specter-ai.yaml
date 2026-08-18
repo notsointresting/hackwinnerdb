@@ -1,0 +1,26 @@
+id: specter-ai
+name: SPECTER-AI
+slug: specter-ai
+tagline: A voice-controlled portable cybersecurity assistant that detects attacks in real time and
+  enforces human authorization through hardware before executing defense
+summary: SPECTER-AI received the Tech for Good award at Hackabull VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rama7i11/specter-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/nyizyfvXqmE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/617/848/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - c-plus-plus
+  - fastapi
+  - javascript
+  - openai
+  - python
+builders:
+  - name: alihabil365 Habil
+  - name: Rama7i11 Abushamma
+  - name: Omar Mohamed

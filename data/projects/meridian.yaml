@@ -1,0 +1,28 @@
+id: meridian
+name: Meridian
+slug: meridian
+tagline: Who hates elevator music? We do! But imagine you're in pain on hold with a clinic, in need
+  of a Doctor. Meridian answers your call, encrypts/reads your submitte
+summary: Meridian received the 3rd Prize award at Daytona HackSprint w/ Braintrust - SF, July 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/N1tu-Mar/Merid
+demo_url: null
+video_url: https://www.youtube.com/embed/p5PcKYD1090
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/021/904/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - fastapi
+  - openai
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Nityanth  Maramreddy
+  - name: AyaanFaisal F
+  - name: Azra Bano

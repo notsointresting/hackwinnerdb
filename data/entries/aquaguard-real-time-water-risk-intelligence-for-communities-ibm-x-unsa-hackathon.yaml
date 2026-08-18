@@ -1,0 +1,14 @@
+id: aquaguard-real-time-water-risk-intelligence-for-communities-ibm-x-unsa-hackathon
+project_id: aquaguard-real-time-water-risk-intelligence-for-communities
+hackathon_id: ibm-x-unsa-hackathon
+submission_url: https://devpost.com/software/tbd-aqua-health-secure
+source:
+  platform: devpost
+  url: https://devpost.com/software/tbd-aqua-health-secure
+awards:
+  - type: category-winner
+    title: Best UN Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

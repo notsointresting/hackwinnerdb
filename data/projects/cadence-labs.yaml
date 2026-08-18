@@ -1,0 +1,25 @@
+id: cadence-labs
+name: Cadence Labs
+slug: cadence-labs
+tagline: Meta Quest utilizes hand tracking to drive two SO-101 follower robot arms in real time,
+  recording each session as a LeRobot training episode. This way, the user
+summary: Cadence Labs received the Microsoft AI & Automation award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaryan-lath/Aether-Logic/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/DtMRnSCeFm8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - flask
+  - opencv
+  - python
+builders:
+  - name: Selin Ozsaracoglu
+  - name: Afia Ava
+  - name: Godfred O
+  - name: aaryan-lath Lath

@@ -1,0 +1,14 @@
+id: surge-flood-safety
+project_id: surge
+hackathon_id: flood-safety
+submission_url: https://devpost.com/software/surge-73tgri
+source:
+  platform: devpost
+  url: https://devpost.com/software/surge-73tgri
+awards:
+  - type: other
+    title: Certificate of Achievement
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

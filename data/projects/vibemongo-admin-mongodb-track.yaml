@@ -1,0 +1,22 @@
+id: vibemongo-admin-mongodb-track
+name: VibeMongo Admin - MongoDB Track
+slug: vibemongo-admin-mongodb-track
+tagline: "AI-first MongoDB administration dashboard powered by a triad of cutting-edge technologies:
+  Google Cloud Agent, the MongoDB MCP Server, and Arize Phoenix Cloud &"
+summary: VibeMongo Admin - MongoDB Track received the Best Use of Gemini API award at Build with
+  Gemini in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/agrhub/vibe-mongo-admin
+demo_url: null
+video_url: https://www.youtube.com/embed/aBllMNcpBB4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/708/274/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cloud
+technologies:
+  - gemini
+  - google-cloud
+builders:
+  - name: Minh Truong

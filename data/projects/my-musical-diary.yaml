@@ -1,0 +1,18 @@
+id: my-musical-diary
+name: My Musical Diary
+slug: my-musical-diary
+tagline: I like to write songs, so this project is my attempt to blend coding and music to create a
+  music diary where journal entries can be stored. This is coded mainly
+summary: My Musical Diary received the Participants award at Code as a Canvas in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/o_AFdLDq4TU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/154/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - javascript
+builders:
+  - name: elroi e

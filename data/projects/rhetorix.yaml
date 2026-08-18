@@ -1,0 +1,32 @@
+id: rhetorix
+name: Rhetorix
+slug: rhetorix
+tagline: AI-driven public speaking coach. Our React/Flask app auto-scores pace, eye contact, and
+  filler words during distraction-filled pressure drills, delivering insta
+summary: Rhetorix received the Most Technically Impressive award at Bath Hack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Fitch-Gamer/Bath-hack-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/507/303/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - docker
+  - flask
+  - openai
+  - opencv
+  - python
+  - pytorch
+  - react
+  - sql
+  - sqlite
+  - typescript
+builders:
+  - name: Alan Gruszkiewicz
+  - name: Reyansh Tellis
+  - name: Edwin Auton
+  - name: Finley Hitchings

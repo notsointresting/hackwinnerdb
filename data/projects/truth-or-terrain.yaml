@@ -1,0 +1,27 @@
+id: truth-or-terrain
+name: Truth Or Terrain
+slug: truth-or-terrain
+tagline: "Truth or Terran is a city trivia game: spot the false fact, connect the true ones, guess
+  the city, challenge friends, and level up your geography skills while h"
+summary: Truth Or Terrain received the [SPONSOR] NRVE award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/prestonctx2006-rgb/HackAI-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Oypo3qyx0Dw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/865/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - firebase
+  - flask
+  - javascript
+  - python
+  - react-native
+builders:
+  - name: Amna Ashraf
+  - name: Ankitha Thomas
+  - name: Preston Crowe
+  - name: David A

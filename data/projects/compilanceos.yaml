@@ -1,0 +1,24 @@
+id: compilanceos
+name: CompilanceOS
+slug: compilanceos
+tagline: A compliance agent that audits your code against real law, writes the fixes, and reads its
+  own Phoenix traces through MCP to get better after every scan.
+summary: CompilanceOS received the Arize - 2nd Place award at Google Cloud Rapid Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bhupenbandi/compliance-os
+demo_url: null
+video_url: https://www.youtube.com/embed/vJrLgml8E6w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/758/761/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Bhupen Sai Bandi
+  - name: Aryaman Mishra

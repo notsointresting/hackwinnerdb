@@ -1,0 +1,25 @@
+id: accordion
+name: Accordion
+slug: accordion
+tagline: Context management you can trust - Say goodbye to /compact
+summary: Accordion received the Best Compression Model for The Token Company award at UC Berkeley AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/a-Fig/Accordion-AI-hackBerkeley
+demo_url: null
+video_url: https://www.youtube.com/embed/T1omrI2VjLA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/804/809/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - javascript
+  - rust
+  - typescript
+builders:
+  - name: Sheel Shah
+  - name: aadityad12 Desai
+  - name: Thy Tang
+  - name: Tyler Darisme

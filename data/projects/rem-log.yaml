@@ -1,0 +1,20 @@
+id: rem-log
+name: REM.log
+slug: rem-log
+tagline: REM.log is a guided digital space for capturing and revisiting dreams as the fragmented,
+  visual, irrational things they are.
+summary: "REM.log received the Figma Make Track: 1st Place award at CreateSC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/564/607/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - claude
+builders:
+  - name: Psychea Dai
+  - name: Iris Xu
+  - name: Tina Jiang

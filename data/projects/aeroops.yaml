@@ -1,0 +1,26 @@
+id: aeroops
+name: AeroOps
+slug: aeroops
+tagline: Autonomous HVAC robot for real-time inspection, live sensing, and smarter maintenance in
+  commercial buildings and data centers.
+summary: AeroOps received the 3rd Prize award at FoundersHack Sydney 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Devansh292004/aero-back
+demo_url: null
+video_url: https://www.youtube.com/embed/qkRiQy-tX3U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/481/965/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: Akrishh Bali
+  - name: devansh mathur
+  - name: Aaryan Bansal
+  - name: Hisham Akhtar

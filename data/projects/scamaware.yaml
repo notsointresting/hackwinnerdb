@@ -1,0 +1,24 @@
+id: scamaware
+name: ScamAware
+slug: scamaware
+tagline: Every day, people are exposed to phishing emails, scam text messages, malicious links, and
+  fake websites designed to steal personal information.
+summary: ScamAware received the Session A Winner (Virtual) award at 305 HackShells Edition April
+  2026  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/bryanfernandez-eng/ScamAware
+demo_url: null
+video_url: https://www.youtube.com/embed/ZapfU0XeTxk
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - fastapi
+  - javascript
+  - openai
+  - react
+builders:
+  - name: Shamar weekes
+  - name: Bryan A. Fernandez
+  - name: FELIPE TRUJILLO-AVILA

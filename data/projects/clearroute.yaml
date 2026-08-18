@@ -1,0 +1,23 @@
+id: clearroute
+name: ClearRoute
+slug: clearroute
+tagline: ClearRoute AI is an intelligent emergency response system that uses AI-driven triage, smart
+  hospital routing, and real-time load balancing to save critical time
+summary: ClearRoute received the Participation award at Measure up in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RajanyaSaha-27/ClearRoute
+demo_url: null
+video_url: https://www.youtube.com/embed/LlW9UUTF5v8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/018/203/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+  - sqlite
+  - twilio
+builders:
+  - name: Rajanya Saha

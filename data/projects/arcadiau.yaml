@@ -1,0 +1,28 @@
+id: arcadiau
+name: ArcadiaU
+slug: arcadiau
+tagline: ArcadiaU gamifies learning. Most use AI as a crutch, we flip that. Our platform uses AI as
+  a learning tool with an AI assistant, blockchain login, and more. Edu
+summary: ArcadiaU received the Best Use of Gemini API award at HackNewHaven 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hossainm10/2026HackNewHaven
+demo_url: null
+video_url: https://www.youtube.com/embed/x_MGKhIF8Cs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/756/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - javascript
+  - mongodb
+  - python
+  - react
+  - rust
+  - solana
+builders:
+  - name: Khaled Khan
+  - name: hossainm10
+  - name: Remmy Khamis

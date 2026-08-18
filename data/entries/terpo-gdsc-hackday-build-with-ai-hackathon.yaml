@@ -1,0 +1,14 @@
+id: terpo-gdsc-hackday-build-with-ai-hackathon
+project_id: terpo
+hackathon_id: gdsc-hackday-build-with-ai-hackathon
+submission_url: https://devpost.com/software/terpo
+source:
+  platform: devpost
+  url: https://devpost.com/software/terpo
+awards:
+  - type: category-winner
+    title: Most Creative Hack - Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

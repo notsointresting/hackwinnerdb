@@ -1,0 +1,21 @@
+id: medusa
+name: MEDUSA
+slug: medusa
+tagline: MEDUSA is an agentic, graph-native Jac platform that turns a defense team's existing
+  inventory into an explainable, AI-guided initial hardware design.
+summary: MEDUSA received the Special Awards Best Use of Jaclang award at JacHacks SF in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5kUCo6-Vruc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/753/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies: []
+builders:
+  - name: Sidhant Parashar
+  - name: Rohit Kancharla
+  - name: Sujay Kanakamedala

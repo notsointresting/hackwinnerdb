@@ -1,0 +1,18 @@
+id: smartbite-sk
+name: SmartBite SK
+slug: smartbite-sk
+tagline: Aplikácia porovná ceny a akcie obchodov, navrhne recept podľa zadaného jedla a ukáže, kde
+  sa nákup najviac oplatí podľa polohy používateľa.
+summary: SmartBite SK received the 2nd Place award at Hack Day in UPJŠ in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Vadym Bahen

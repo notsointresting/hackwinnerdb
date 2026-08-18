@@ -1,0 +1,22 @@
+id: stock-pridiction-ai-application
+name: Stock-Pridiction-Ai-Application
+slug: stock-pridiction-ai-application
+tagline: AI Stock Predictor combines ML models and Gemini AI to predict stock prices, explain
+  trends, and analyze news sentiment—giving users clear insights, not just nu
+summary: Stock-Pridiction-Ai-Application received the Innovation Excellence Award award at Hack Days
+  in Bhopal in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/shivammakode04/Stock-Prediction-Ai-Application
+demo_url: null
+video_url: https://www.youtube.com/embed/35n4ZriUqy8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - postgresql
+builders:
+  - name: Shivam Makode

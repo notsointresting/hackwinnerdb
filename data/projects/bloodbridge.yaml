@@ -1,0 +1,25 @@
+id: bloodbridge
+name: bloodBridge
+slug: bloodbridge
+tagline: "bloodBridge is a data-driven blood supply intelligence platform that predicts shortages,
+  routes donors to high-impact locations, and helps hospitals coordinate "
+summary: bloodBridge received the Overall Winning Team award at GreyHacks Spring 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aashwikagupta/bloodBridge--GreyHacks26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/405/163/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: RakshithaKannan Kannan
+  - name: aarushi-mathwiz
+  - name: Aashwika Gupta
+  - name: Riana Sherali

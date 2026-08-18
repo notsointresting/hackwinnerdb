@@ -1,0 +1,23 @@
+id: saferelay
+name: SafeRelay
+slug: saferelay
+tagline: A Jac-powered application that provides moral support and grabs first responders' attention
+  when cell towers have been demolished
+summary: SafeRelay received the Social Impact Track 1st Place award at JacHacks SF in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KScFBI7-xpI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/825/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - mapbox
+  - react
+  - swift
+builders:
+  - name: Rishabh Bansal
+  - name: Aditya Das

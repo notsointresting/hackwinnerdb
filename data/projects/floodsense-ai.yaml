@@ -1,0 +1,22 @@
+id: floodsense-ai
+name: FloodSense AI
+slug: floodsense-ai
+tagline: Python-powered flood detection from Sentinel-1 SAR imagery using deep learning —
+  pixel-accurate flood mapping through clouds in real-time for disaster responder
+summary: FloodSense AI received the Senorable Mentions award at senohacks. in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arajapriya33/FloodSense-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/ReQZ_xtJqB4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/762/546/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cloud
+technologies:
+  - python
+  - pytorch
+  - streamlit
+builders:
+  - name: RAJAPRIYA  A

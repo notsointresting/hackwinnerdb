@@ -1,0 +1,19 @@
+id: medusarena
+name: Medusarena
+slug: medusarena
+tagline: A game where you must survive as long as you can, by setting your enemies to stone
+summary: Medusarena received the Honorable mentions award at The Cambridge Game Jam 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/852/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies:
+  - unity
+builders:
+  - name: JayGee0 Georgis
+  - name: Lev Tichonov

@@ -1,0 +1,20 @@
+id: moviesphere
+name: MovieSphere
+slug: moviesphere
+tagline: Real-time watch parties + AI-powered recommendations — Netflix but social
+summary: MovieSphere received the Participation Certificates award at Ctrl+V Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MuhammadHamza123c/MovieSphere
+demo_url: null
+video_url: https://www.youtube.com/embed/55KF_V-PMeQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/856/187/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - supabase
+builders:
+  - name: Muhammad Hamza

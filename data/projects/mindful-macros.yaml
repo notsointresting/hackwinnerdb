@@ -1,0 +1,21 @@
+id: mindful-macros
+name: Mindful Macros
+slug: mindful-macros
+tagline: A smart dining app that turns everyday eating into clear behavioral insights—tracking
+  timing, choices, and consistency—to help students build better habits, not
+summary: Mindful Macros received the Best Solo Hack award at Build4Good 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/1J6K21/build4good
+demo_url: null
+video_url: https://www.youtube.com/embed/_Ed4d8Gtxmg
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - docker
+  - react
+  - sqlite
+builders:
+  - name: Jonathan Kalsky

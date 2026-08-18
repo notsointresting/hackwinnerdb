@@ -1,0 +1,18 @@
+id: trashemon
+name: Trashemon
+slug: trashemon
+tagline: asdf
+summary: Trashemon received the Best Overall Theme Solution award at DPI CS Innovators Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/begYVnVj_58
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Ambuja Singh

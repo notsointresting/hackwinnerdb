@@ -1,0 +1,23 @@
+id: maternaai
+name: MaternaAI
+slug: maternaai
+tagline: AI triage for maternal mortality. Six vitals in → risk class, 90% CI, LIME explanation,
+  counterfactual advice, and bias audit across teen vs adult mothers. Powe
+summary: MaternaAI received the Coffee Chat with IBM Leader - Ashar Azmat - Senior Technical
+  Consultant at IBM | TPO | Adobe & MarTech award at IBM x UNSA Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RumaizaNorova/MaternaAI
+demo_url: null
+video_url: https://www.youtube.com/watch?v=YskxfUgPAUg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - python
+builders:
+  - name: Rumaiza Norova
+  - name: Аружан Капсеметова

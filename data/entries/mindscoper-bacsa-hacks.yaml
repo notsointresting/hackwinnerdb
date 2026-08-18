@@ -1,0 +1,14 @@
+id: mindscoper-bacsa-hacks
+project_id: mindscoper
+hackathon_id: bacsa-hacks
+submission_url: https://devpost.com/software/mindscoper
+source:
+  platform: devpost
+  url: https://devpost.com/software/mindscoper
+awards:
+  - type: second-place
+    title: "Open Challenge Second Place: INIU Portable Chargers"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

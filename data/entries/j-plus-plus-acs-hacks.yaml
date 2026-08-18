@@ -1,0 +1,14 @@
+id: j-plus-plus-acs-hacks
+project_id: j-plus-plus
+hackathon_id: acs-hacks
+submission_url: https://devpost.com/software/j-tcuszw
+source:
+  platform: devpost
+  url: https://devpost.com/software/j-tcuszw
+awards:
+  - type: category-winner
+    title: Best Overall Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

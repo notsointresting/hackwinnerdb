@@ -1,0 +1,23 @@
+id: slaoo
+name: Slaoo
+slug: slaoo
+tagline: Reduce financial and regulatory uncertainty of home decarbonization by transforming EPC and
+  planning data into personalized investment roadmaps to predict prope
+summary: Slaoo received the (Serac Track) 4x Steam Deck OLED award at HackLondon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alexsukhin/slaoo-hacklondon26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/354/810/datas/gallery.jpg
+categories:
+  - education
+  - climate
+  - iot
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Conor Brennan
+  - name: Alexander Sukhin
+  - name: katherine zhao

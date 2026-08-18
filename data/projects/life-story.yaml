@@ -1,0 +1,27 @@
+id: life-story
+name: Life Story
+slug: life-story
+tagline: When Alzheimer’s blurs the memories, love can still find its way back. Life Story is a
+  living album that keeps familiar faces, voices, and moments close to home
+summary: Life Story received the Social Impact award at Uncommon Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JzJoker/uncommonhacks-life-story/tree/feature/camera-photo-detection/memory%20record%20player
+demo_url: null
+video_url: https://www.youtube.com/embed/qAj0T48g6-k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/674/470/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - elevenlabs
+  - figma
+  - nextjs
+  - react
+  - supabase
+builders:
+  - name: Junheng Zheng
+  - name: Justin Zhao
+  - name: Andy Lin
+  - name: Vincent Lin

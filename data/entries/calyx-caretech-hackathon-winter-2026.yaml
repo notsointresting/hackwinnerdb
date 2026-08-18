@@ -1,0 +1,14 @@
+id: calyx-caretech-hackathon-winter-2026
+project_id: calyx
+hackathon_id: caretech-hackathon-winter-2026
+submission_url: https://devpost.com/software/calyx-7hnod6
+source:
+  platform: devpost
+  url: https://devpost.com/software/calyx-7hnod6
+awards:
+  - type: category-winner
+    title: Best Overall Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

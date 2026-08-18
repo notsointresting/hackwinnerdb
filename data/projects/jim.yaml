@@ -1,0 +1,20 @@
+id: jim
+name: JIM
+slug: jim
+tagline: Allowing students to revise easily straight from their lecture slides!
+summary: JIM received the [MLH] Best Use of Gemini API award at KentHackIt in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ibitolaomole/JIM
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+technologies:
+  - python
+  - react
+builders:
+  - name: Ibitola Omole
+  - name: Mary Piskunova
+  - name: Jensine Chisimdi Eso

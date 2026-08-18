@@ -1,0 +1,19 @@
+id: community-chats
+name: Community Chats
+slug: community-chats
+tagline: Reviving Chat Channels with Devvit App , With Better Moderation tools than native Chat
+  Channels , A Chat space where Subreddit's Automod and Reddit native filte
+summary: Community Chats received the Best New Mod Tool Honorable Mentions award at Reddit Mod Tools
+  and Migrated Apps Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/705/361/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders: []

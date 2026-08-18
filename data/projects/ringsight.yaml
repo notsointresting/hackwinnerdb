@@ -1,0 +1,25 @@
+id: ringsight
+name: RingSight
+slug: ringsight
+tagline: A 4-agent fraud investigation tool that finds hidden account networks, ranks risky cases,
+  recommends actions, and generates analyst-ready reports.
+summary: "RingSight received the Best use of Trupeer (special prize) award at vibeFORWARD: M2—Agents
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Soulemane12/RingSight
+demo_url: null
+video_url: https://www.youtube.com/embed/eDOYkV_WXek
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/742/379/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Soulemane Sow
+  - name: Ajay Gutha
+  - name: Midhili Asok
+  - name: Matthew Zheng

@@ -1,0 +1,20 @@
+id: flakewarden
+name: FlakeWarden
+slug: flakewarden
+tagline: "Agentic flaky-test triage for UiPath Test Cloud: a deterministic scorer and a grounded AI
+  classifier separate real defects from flaky tests, with a human approv"
+summary: FlakeWarden received the Best of UiPath Test Cloud award at UiPath AgentHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JonathanSolvesProblems/flakewarden
+demo_url: null
+video_url: https://www.youtube.com/watch?v=6md-vEuY_-0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/839/956/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+builders:
+  - name: Jonathan SolvesProblems

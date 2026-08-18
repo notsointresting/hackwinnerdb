@@ -1,0 +1,24 @@
+id: apixchange
+name: apiXchange
+slug: apixchange
+tagline: Giving International Founders Access to Cheap Keys
+summary: "apiXchange received the Ripple: First Place Winner award at NSBE HACKS 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/MarcDasilva/NSBEHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/ItjVx81Mobk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/103/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - javascript
+  - nextjs
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Marc Da Silva
+  - name: Aaron Ye
+  - name: Chris Yang

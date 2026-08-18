@@ -1,0 +1,26 @@
+id: tinyvitals
+name: TinyVitals
+slug: tinyvitals
+tagline: "A smart nursery system that uses computer vision and embedded sensors to watch over babies
+  while they sleep; detecting breathing, movement, and sleep positions "
+summary: "TinyVitals received the Hack the 6ix: Best Hardware Hack award at Hack the 6ix 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/anabor2008/tiny-vitals-ht6
+demo_url: null
+video_url: https://www.youtube.com/embed/Wa87J-msHMc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/936/138/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Reim El Sherbini
+  - name: Emily Pham
+  - name: Anastasiia Boruk
+  - name: Maksim Isayenka

@@ -1,0 +1,14 @@
+id: tinystep-includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+project_id: tinystep
+hackathon_id: includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+submission_url: https://devpost.com/software/tinystep
+source:
+  platform: devpost
+  url: https://devpost.com/software/tinystep
+awards:
+  - type: track-winner
+    title: "Track Winner: AI for K–12 Learning"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

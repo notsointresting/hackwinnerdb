@@ -1,0 +1,21 @@
+id: sharenet
+name: ShareNet
+slug: sharenet
+tagline: ShareNet is a verified campus marketplace where students rent, sell, give, recover lost
+  items, and post needs — powered by trust scores and smart recommendation
+summary: "ShareNet received the Top 4–10 Teams: 60% discount on any internship award at HackVision
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Pranilash/ShareNet-Web
+demo_url: null
+video_url: https://www.youtube.com/embed/U67ZZzl-YKk
+image_url: null
+categories:
+  - education
+  - cybersecurity
+  - blockchain
+technologies:
+  - react
+builders:
+  - name: Pranilash Reddy
+  - name: Unknownme None

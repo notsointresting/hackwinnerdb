@@ -1,0 +1,14 @@
+id: everloop-createsc-2026
+project_id: everloop
+hackathon_id: createsc-2026
+submission_url: https://devpost.com/software/everloop
+source:
+  platform: devpost
+  url: https://devpost.com/software/everloop
+awards:
+  - type: first-place
+    title: "Figma Design Track: 1st Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

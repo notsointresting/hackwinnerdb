@@ -1,0 +1,14 @@
+id: fee-system-vission-x-hack-day
+project_id: fee-system
+hackathon_id: vission-x-hack-day
+submission_url: https://devpost.com/software/fee-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/fee-system
+awards:
+  - type: other
+    title: Google Plano
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: brim-it
+name: Brim it
+slug: brim-it
+tagline: Got a lot of confusing data on your hands? Just Brim it.
+summary: Brim it received the [MLH] Best Use of Solana award at MPC Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gt12889/hackmpc/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/_kyq1sSIeCY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/256/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sara Shaikh
+  - name: tuan dinh

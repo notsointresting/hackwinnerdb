@@ -1,0 +1,14 @@
+id: the-hydra-heads-globehack
+project_id: the-hydra-heads
+hackathon_id: globehack
+submission_url: https://devpost.com/software/the-hydra-heads
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-hydra-heads
+awards:
+  - type: other
+    title: Tamagrow
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

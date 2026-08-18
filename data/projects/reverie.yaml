@@ -1,0 +1,21 @@
+id: reverie
+name: Reverie
+slug: reverie
+tagline: Every dream, a revelation.
+summary: Reverie received the Honorable Mentions award at FigBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KH6Fu2HLkk8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/421/313/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - claude
+  - figma
+builders:
+  - name: Angelina Wu
+  - name: Emily Shen
+  - name: Ellie Huang
+  - name: Nancy Rios

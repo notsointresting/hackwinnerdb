@@ -1,0 +1,26 @@
+id: elderease-accessible-healthcare-for-independent-seniors
+name: ElderEase — Accessible Healthcare for Independent Seniors
+slug: elderease-accessible-healthcare-for-independent-seniors
+tagline: An inclusive healthcare platform that helps seniors live safely and independently through
+  accessible real-time monitoring and caregiver support.
+summary: ElderEase — Accessible Healthcare for Independent Seniors received the Honorable Mention
+  award at Next Byte Hacks V3 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/Aadya2901/ElderEase
+demo_url: null
+video_url: https://www.youtube.com/embed/_SGCBwhe9vI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/226/datas/gallery.jpg
+categories:
+  - healthcare
+  - accessibility
+  - social-impact
+technologies:
+  - javascript
+  - mongodb
+  - tailwind-css
+  - vercel
+builders:
+  - name: Aadya Patel
+  - name: Anish Kushwaha
+  - name: ANANYA MISHRA

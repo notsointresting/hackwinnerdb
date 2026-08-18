@@ -1,0 +1,23 @@
+id: verdantflow-carbon-aware-devsecops-for-gitlab
+name: VerdantFlow — Carbon-Aware DevSecOps for GitLab
+slug: verdantflow-carbon-aware-devsecops-for-gitlab
+tagline: Carbon-aware CI/CD meets smart vulnerability triage. VerdantFlow uses live grid data to cut
+  pipeline emissions and reachability analysis to silence false securi
+summary: VerdantFlow — Carbon-Aware DevSecOps for GitLab received the InnoSpark 2026 Champion award
+  at InnoSpark 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5atZq4zxoSc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/493/850/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - javascript
+  - python
+builders:
+  - name: Awais Ur Rehman

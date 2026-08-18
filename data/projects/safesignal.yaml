@@ -1,0 +1,22 @@
+id: safesignal
+name: SafeSignal
+slug: safesignal
+tagline: Studies show that police response time is decreasing. That's why we have created SafeSignal
+  to help give the police as early a warning as possible, thereby decr
+summary: SafeSignal received the [Hackathons UK] Hackiest Hack award at KentHackIt in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/m1k0103/kenthackit
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/238/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - javascript
+  - raspberry-pi
+  - twilio
+builders:
+  - name: miko Grzebyta
+  - name: Hassan6237 Ali

@@ -1,0 +1,14 @@
+id: sentinel-multi-agent-fraud-investigation-system-jachacks-spring
+project_id: sentinel-multi-agent-fraud-investigation-system
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/sentinel-multi-agent-fraud-investigation-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/sentinel-multi-agent-fraud-investigation-system
+awards:
+  - type: first-place
+    title: Fintech track - 1st place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

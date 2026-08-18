@@ -1,0 +1,26 @@
+id: verum
+name: Verum
+slug: verum
+tagline: Verum is THE decentralized exchange platform for borrowers who don't want to be exposed to
+  the risks of overcollateralization and the first exchange of its kind
+summary: Verum received the [MLH] Best Use of Solana award at Los Altos Hacks X in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/c-EJvKd1y_c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/358/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - openai
+  - react
+  - rust
+  - solana
+  - solidity
+builders:
+  - name: Eesh Kapoor
+  - name: DerekEtc Lo
+  - name: Jeffrey Chen
+  - name: Neil Shah

@@ -1,0 +1,23 @@
+id: scavenger-work
+name: Scavenger.Work
+slug: scavenger-work
+tagline: A real-life RPG where career opportunities are collectible encounters on a map - hunt them,
+  level up, and let AI reveal what's hidden in the world around you.
+summary: "Scavenger.Work received the Tower Pipeline Challenge: Data-to-AI award at DeveloperWeek
+  New York 2026 Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/tahminaminara21-ui/scavengerwork.git
+demo_url: null
+video_url: https://www.youtube.com/embed/RT6ROFcW7tU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/750/839/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - openai
+  - python
+  - typescript
+builders:
+  - name: Tasfia C

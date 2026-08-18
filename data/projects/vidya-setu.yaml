@@ -1,0 +1,20 @@
+id: vidya-setu
+name: Vidya Setu (विद्या सेतु)
+slug: vidya-setu
+tagline: Bridging every learner to their potential — AI-powered gap detection, peer collaboration,
+  silent safety signals, and burnout-aware teacher support for India's c
+summary: Vidya Setu (विद्या सेतु) received the Participation Prize award at DSH Hacks V1 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rohanjain1648/WADHWANI-AI-RESKILL
+demo_url: null
+video_url: https://www.youtube.com/embed/rSbN1IxO6HQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/777/810/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+builders:
+  - name: ROHAN JAIN

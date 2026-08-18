@@ -1,0 +1,20 @@
+id: haptic-ev
+name: Haptic_EV
+slug: haptic-ev
+tagline: Smart EV charging made simple through AI-powered recommendations, efficient slot booking,
+  and secure verification
+summary: Haptic_EV received the Best Use of the Google Gemini API award at Hack Days in Bansal in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Arshi Khan

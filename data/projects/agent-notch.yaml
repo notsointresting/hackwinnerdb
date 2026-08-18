@@ -1,0 +1,32 @@
+id: agent-notch
+name: Agent Notch
+slug: agent-notch
+tagline: Your agent in the notch. A little pal that watches, learns, and acts with you, connecting
+  you to AI through your cursor
+summary: Agent Notch received the Most Innovative award at TritonHacks 26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/vncELHOToqI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/296/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - gemini
+  - javascript
+  - nextjs
+  - openai
+  - react
+  - swift
+  - typescript
+  - vercel
+  - whisper
+builders:
+  - name: Sam siavoshian
+  - name: Wyatt Gill
+  - name: Arshan Shokoohi

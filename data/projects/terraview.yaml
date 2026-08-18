@@ -1,0 +1,23 @@
+id: terraview
+name: TerraView
+slug: terraview
+tagline: Your yard can't tell you what it needs, but TerraView can. Just snap a photo to map
+  sprinklers, spot hidden risk zones, and highlight ideal growth areas. Save t
+summary: TerraView received the ASUS Sustainability Third Place award at Milpitas Hacks 3 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zzsatvik/milpitashacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/410/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - google-maps
+  - openai
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Yuvan Pradeep
+  - name: Satvik Sharma

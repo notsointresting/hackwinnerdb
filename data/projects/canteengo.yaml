@@ -1,0 +1,19 @@
+id: canteengo
+name: CanteenGo
+slug: canteengo
+tagline: Where students meet convenience
+summary: CanteenGo received the Third Place award at .exploreSWE in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dieshin/llm-workshop
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+technologies: []
+builders:
+  - name: lee austin
+  - name: nic nicole
+  - name: nafiz Nafiz
+  - name: Carlson Chia

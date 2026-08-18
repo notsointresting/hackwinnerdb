@@ -1,0 +1,19 @@
+id: horizons
+name: Horizons
+slug: horizons
+tagline: Horizons is an app to help you relax with yoga and meditation.
+summary: Horizons received the 1st Place award at Firehacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vaiybhav/firehacks-project
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/078/120/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Vaiybhav Coimbatore

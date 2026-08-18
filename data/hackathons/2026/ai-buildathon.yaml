@@ -1,0 +1,14 @@
+id: ai-buildathon
+name: AI Buildathon
+slug: ai-buildathon
+organizer: []
+year: 2026
+sources:
+  - https://aibuildathon.devpost.com/
+  - https://aibuildathon.devpost.com/project-gallery?filter=winner
+website_url: https://aibuildathon.devpost.com/
+platform: devpost
+participant_count: 83
+prize_pool: 10000
+currency: USD
+description: "Devpost hackathon: AI Buildathon. Imported automatically."

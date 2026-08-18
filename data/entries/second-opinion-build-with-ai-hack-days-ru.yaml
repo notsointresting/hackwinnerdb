@@ -1,0 +1,14 @@
+id: second-opinion-build-with-ai-hack-days-ru
+project_id: second-opinion
+hackathon_id: build-with-ai-hack-days-ru
+submission_url: https://devpost.com/software/second-opinion-q8lua5
+source:
+  platform: devpost
+  url: https://devpost.com/software/second-opinion-q8lua5
+awards:
+  - type: other
+    title: 50$ Visa Gift Card
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

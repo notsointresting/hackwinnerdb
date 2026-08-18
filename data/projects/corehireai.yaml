@@ -1,0 +1,24 @@
+id: corehireai
+name: CoreHireAi
+slug: corehireai
+tagline: making interviews easy by ai
+summary: CoreHireAi received the MLH Stickers+ Swags . award at Hackdays Maa Chandika Convent
+  School  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ARBAB2171217/CoreHireAI
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - social-impact
+  - iot
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Arbab Ali

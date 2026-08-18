@@ -1,0 +1,24 @@
+id: sort-it-out
+name: Sort it Out!
+slug: sort-it-out
+tagline: Sort It Out addresses sustainability by transforming static ecological lessons into an
+  interactive, fast-paced challenge that builds muscle memory and sorting s
+summary: Sort it Out! received the 3rd Place award at Hack For The World 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4bvjwrp_ztA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/466/datas/gallery.jpg
+categories:
+  - education
+  - sustainability
+  - social-impact
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Samvir Devineni
+  - name: Ujwal Gurugubelli
+  - name: Berke Yildirim
+  - name: Ck-3D2Y Kulkarni

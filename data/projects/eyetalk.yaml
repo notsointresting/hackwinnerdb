@@ -1,0 +1,18 @@
+id: eyetalk
+name: EyeTalk
+slug: eyetalk
+tagline: "A communication tool that allows people with limited speech to talk by looking at words
+  and phrases with their eyes. Runs on a tiny model for face tracking and "
+summary: EyeTalk received the Honorable Mention award at Katy Youth Hacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saamirkhrl/eyetalk
+demo_url: null
+video_url: https://www.youtube.com/embed/tZQn8HTc4aQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/053/899/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Samir Kharel

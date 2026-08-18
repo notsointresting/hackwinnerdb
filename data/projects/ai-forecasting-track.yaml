@@ -1,0 +1,24 @@
+id: ai-forecasting-track
+name: AI Forecasting Track
+slug: ai-forecasting-track
+tagline: We built an AI agent that argues with itself before making a prediction to beat real-money
+  traders on prediction markets.
+summary: AI Forecasting Track received the Agents for Prediction Markets (Sigma Lab) award at
+  Uncommon Hacks 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/mitchellcrevier/uncommon-hacks/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/g0p6ii9vJaA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: themitchellcrevier Crevier
+  - name: Conner Hawkins
+  - name: Aarush Bhardwaj
+  - name: Sameer Mohamed

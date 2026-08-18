@@ -1,0 +1,21 @@
+id: "365"
+name: "365"
+slug: "365"
+tagline: "365 helps you escape the perfection of social media and embrace everyday life. You can
+  choose to take daily photos, complete challenges with friends, or create "
+summary: 365 received the Reward award at Product Design Sprint in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/618/datas/gallery.jpg
+categories:
+  - media
+  - creative-tools
+technologies: []
+builders:
+  - name: Kenneth Wang
+  - name: Arun Rajakumar
+  - name: Matthew Lu
+  - name: Chung He

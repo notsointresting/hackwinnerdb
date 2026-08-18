@@ -1,0 +1,24 @@
+id: climbit-team-4
+name: Climbit - Team 4
+slug: climbit-team-4
+tagline: Turn grip training into an AI-powered climbing adventure with a handheld tangible controller.
+summary: "Climbit - Team 4 received the Bambu Labs Prize award at HARD MODE: Hardware x AI Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/436/711/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - arduino
+  - claude
+  - unity
+builders:
+  - name: Yutong Alison Mei
+  - name: YileFan Fan
+  - name: Edward Xu
+  - name: Yao Wang

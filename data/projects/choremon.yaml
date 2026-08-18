@@ -1,0 +1,26 @@
+id: choremon
+name: Chorémon
+slug: choremon
+tagline: Are you too lazy to do your house chores? Choremon is here to fix your habits in a fun and
+  entertaining way.
+summary: Chorémon received the MLH || Best Use of Gemini API || Google Swag Kits award at Hack Indy
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/winnrras/choremon
+demo_url: null
+video_url: https://www.youtube.com/embed/QNTnY8eavig
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/506/115/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - react
+  - tensorflow
+  - unity
+  - vercel
+builders:
+  - name: radit farell
+  - name: Winner Rasendriya

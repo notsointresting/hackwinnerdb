@@ -1,0 +1,18 @@
+id: crisisconnect-cmd-f-2026
+project_id: crisisconnect
+hackathon_id: cmd-f-2026
+submission_url: https://devpost.com/software/crisisconnect-wvze6a
+source:
+  platform: devpost
+  url: https://devpost.com/software/crisisconnect-wvze6a
+awards:
+  - type: second-place
+    title: 2nd Place Winner (Worth up to 820 CAD)
+  - type: other
+    title: ElevenLabs Challenge
+  - type: other
+    title: UBC CS Project Hub
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

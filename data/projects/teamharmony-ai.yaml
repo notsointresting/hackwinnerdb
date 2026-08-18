@@ -1,0 +1,23 @@
+id: teamharmony-ai
+name: TeamHarmony AI
+slug: teamharmony-ai
+tagline: TeamHarmony AI is a stability-aware, multi-agent team formation platform that validates
+  personality data, evaluates compatibility, and optimizes classroom group
+summary: TeamHarmony AI received the [MLH] Best Use of ElevenLabs award at HackTCNJ 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dr2Pathak/TeamHarmony
+demo_url: null
+video_url: https://www.youtube.com/embed/GXXDeNJo4P0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/365/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - supabase
+builders:
+  - name: Deepak Pathak
+  - name: Ayush Singh
+  - name: Yash Chaudhari

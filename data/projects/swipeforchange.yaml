@@ -1,0 +1,26 @@
+id: swipeforchange
+name: SwipeForChange
+slug: swipeforchange
+tagline: Social action should be as simple as doomscrolling.
+summary: "SwipeForChange received the Deloitte: Green AI, and AI for Green award at Hack the 6ix
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/zeukyr/SwipeForChange
+demo_url: null
+video_url: https://www.youtube.com/embed/sybXI_MoAcs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/937/963/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mongodb
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Angela Li
+  - name: Angela Zheng
+  - name: Jasmine Chen
+  - name: Kale Wu

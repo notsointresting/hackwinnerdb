@@ -1,0 +1,14 @@
+id: grid-hacklondon-2026
+project_id: grid
+hackathon_id: hacklondon-2026
+submission_url: https://devpost.com/software/grid-38zo0l
+source:
+  platform: devpost
+  url: https://devpost.com/software/grid-38zo0l
+awards:
+  - type: track-winner
+    title: (Societies Track) 4x Meta Quest 3
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: pharmapath-ramhack-2026
+project_id: pharmapath
+hackathon_id: ramhack-2026
+submission_url: https://devpost.com/software/pharmapath
+source:
+  platform: devpost
+  url: https://devpost.com/software/pharmapath
+awards:
+  - type: category-winner
+    title: "Best Tech For Good: Gift Card"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

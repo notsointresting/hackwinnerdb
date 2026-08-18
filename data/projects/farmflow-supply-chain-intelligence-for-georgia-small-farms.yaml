@@ -1,0 +1,20 @@
+id: farmflow-supply-chain-intelligence-for-georgia-small-farms
+name: FarmFlow — Supply Chain Intelligence for Georgia Small Farms
+slug: farmflow-supply-chain-intelligence-for-georgia-small-farms
+tagline: FarmFlow gives small Georgia farmers supply chain intelligence, so they know what to order,
+  from whom, and by when, before the season costs them.
+summary: FarmFlow — Supply Chain Intelligence for Georgia Small Farms received the Agriculture -
+  sponsored by Cox Farms award at Play with Purpose Hackathon presented by Cox Enterprises in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sagarika2005/farmflow
+demo_url: null
+video_url: https://www.youtube.com/embed/TZtxhqhOqOM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/782/431/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Sagarika Sankar Ganesh

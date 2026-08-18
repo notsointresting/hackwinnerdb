@@ -1,0 +1,20 @@
+id: futureos
+name: FutureOS
+slug: futureos
+tagline: What if your goals came with an AI-generated execution plan, daily missions, progress
+  tracking, and a reality check — all in one beautiful, unified experience?
+summary: FutureOS received the Best Use of Jac award at JacHacks Spring in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kshitijkumrawat20/JacHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/v_5TzI9crGo
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - gemini
+builders:
+  - name: kshitij kumrawat

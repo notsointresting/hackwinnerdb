@@ -1,0 +1,27 @@
+id: vascusense-cerebrovascular-arterial-blood-vessel-analysis
+name: VascuSense - Cerebrovascular arterial blood vessel analysis
+slug: vascusense-cerebrovascular-arterial-blood-vessel-analysis
+tagline: An arterial blood vessel analysis tool that provides in-depth analysis of the vessel based
+  on MRI scan inputs, and percentage risks of developing different type
+summary: VascuSense - Cerebrovascular arterial blood vessel analysis received the Track 3 - Future
+  (Data Storytelling) award at WildHacks in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dustintliang/WildHacks26
+demo_url: null
+video_url: https://www.youtube.com/embed/scuR9xreccM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/555/225/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - docker
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Hub-Varith Varith
+  - name: Jason Ta
+  - name: Dustin Liang
+  - name: Vivian Chang

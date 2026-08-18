@@ -1,0 +1,19 @@
+id: docs-skill-add-prerequisites-to-skill-md
+name: "docs(skill): add prerequisites to SKILL.md"
+slug: docs-skill-add-prerequisites-to-skill-md
+tagline: Adds a prerequisites section to SKILL.md so first-time users and AI agents can reach a
+  working Orbit setup without hitting setup errors when running skill recip
+summary: "docs(skill): add prerequisites to SKILL.md received the Contribute Track: A qualified
+  Merged Merge Request award at GitLab Transcend Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders: []

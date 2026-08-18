@@ -1,0 +1,24 @@
+id: classroom-copilot
+name: Classroom Copilot
+slug: classroom-copilot
+tagline: "Speech-first classroom copilot: VALSEA realtime ASR + annotation + clarification +
+  translation + formatting for Vietnamese - English lectures → structured notes"
+summary: Classroom Copilot received the Internship/ Full time opportunity award at VALSEA EdTech
+  System Sprint (HCM) in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/trahoangdev/valsea-classroom-copilot
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/644/258/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Tra Hoang Trong

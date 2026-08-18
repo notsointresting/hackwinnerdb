@@ -1,0 +1,18 @@
+id: truplate
+name: TruPlate
+slug: truplate
+tagline: AI-powered meal planning, built around your real dining hall menu.
+summary: TruPlate received the Beginner award at Boeing presents TruHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TriMai303/TruPlate-TruHacks26
+demo_url: null
+video_url: https://www.youtube.com/embed/5f3v6HaUXlU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/481/635/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Tri Mai

@@ -1,0 +1,25 @@
+id: medly
+name: MEDLY
+slug: medly
+tagline: Visión, arquitectura, costos operativos, impacto esperado y retos técnicos, de seguridad,
+  legales, culturales y éticos — en un solo lugar.
+summary: MEDLY received the 2do Lugar award at Hackathon Troyano 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/interscode/medly-web
+demo_url: null
+video_url: https://www.youtube.com/embed/Lpaztgdy7Kk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/404/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - nextjs
+builders:
+  - name: MIGUEL ANGEL BALDERAS BALDERAS
+  - name: GAEL ROSAS SERRATOS
+  - name: Ana María Velázquez Figueroa
+  - name: JOSE MANUEL MORALES GOMEZ

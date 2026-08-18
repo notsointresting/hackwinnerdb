@@ -1,0 +1,14 @@
+id: voyager-codebrew-2026
+project_id: voyager
+hackathon_id: codebrew-2026
+submission_url: https://devpost.com/software/voyager-ke06yc
+source:
+  platform: devpost
+  url: https://devpost.com/software/voyager-ke06yc
+awards:
+  - type: category-winner
+    title: Best Product
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

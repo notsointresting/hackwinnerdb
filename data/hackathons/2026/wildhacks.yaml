@@ -1,0 +1,14 @@
+id: wildhacks
+name: WildHacks
+slug: wildhacks
+organizer: []
+year: 2026
+sources:
+  - https://wildhacks-2026.devpost.com/
+  - https://wildhacks-2026.devpost.com/project-gallery?filter=winner
+website_url: https://wildhacks-2026.devpost.com/
+platform: devpost
+participant_count: 248
+prize_pool: null
+currency: null
+description: "Devpost hackathon: WildHacks. Imported automatically."

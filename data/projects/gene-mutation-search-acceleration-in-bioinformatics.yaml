@@ -1,0 +1,22 @@
+id: gene-mutation-search-acceleration-in-bioinformatics
+name: Gene Mutation Search Acceleration in Bioinformatics
+slug: gene-mutation-search-acceleration-in-bioinformatics
+tagline: As patient databases grow, sequential mutation searches will crawl to a halt. Our Qiskit
+  prototype uses Grover’s Algorithm to search quadratically faster—droppi
+summary: Gene Mutation Search Acceleration in Bioinformatics received the Beginner Track - UNC
+  Tumblers award at Carolina Quantum Hacks 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aadano/Quantum-Hacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/CrFzNYcm-tw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/591/393/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Seungyoung Ryu
+  - name: William Pak
+  - name: Adharsh Balimelu
+  - name: Addam Dano

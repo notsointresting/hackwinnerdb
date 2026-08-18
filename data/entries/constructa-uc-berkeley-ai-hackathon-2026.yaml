@@ -1,0 +1,16 @@
+id: constructa-uc-berkeley-ai-hackathon-2026
+project_id: constructa
+hackathon_id: uc-berkeley-ai-hackathon-2026
+submission_url: https://devpost.com/software/constructa
+source:
+  platform: devpost
+  url: https://devpost.com/software/constructa
+awards:
+  - type: category-winner
+    title: Best Use of The Agentverse by Fetch AI
+  - type: category-winner
+    title: Best Use of Browserbase
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

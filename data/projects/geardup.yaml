@@ -1,0 +1,18 @@
+id: geardup
+name: GeardUp!
+slug: geardup
+tagline: nyeoowwwww zooom zoom
+summary: GeardUp! received the Hacker’s Choice award at IrvineHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mhtruong1031/geardup
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/534/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Minh Truong
+  - name: Derrick T

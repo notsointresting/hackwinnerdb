@@ -1,0 +1,23 @@
+id: green-spark-ai
+name: Green Spark AI
+slug: green-spark-ai
+tagline: Find the waste. Fund the change.
+summary: Green Spark AI received the High School - Responsible AI award at USAII® Global AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ximena-pg-projects/green-spark-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/yexq04A0Szw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/809/053/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: ximena-pg-projects Perez Gomez
+  - name: Ismum Al-Araf
+  - name: Mason Cao

@@ -1,0 +1,28 @@
+id: casetrack
+name: CaseTrack
+slug: casetrack
+tagline: Less Admin. More ImpactA free, open-source platform for nonprofits to manage clients, log
+  services, schedule visits, and generate funder reports with AI built i
+summary: "CaseTrack received the Founding Engineer, Client Case Management award at Women in
+  Computer Science x Opportunity Hack: Spring 2026 Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/18-stumble-guys
+demo_url: null
+video_url: https://www.youtube.com/embed/cPbH9p1UsDA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/151/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - postgresql
+  - supabase
+  - typescript
+builders:
+  - name: Saniya Nande
+  - name: Siddhesh More
+  - name: Shreeraj Vijay Bhamare
+  - name: Siddharth Bhamare

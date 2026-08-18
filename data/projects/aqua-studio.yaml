@@ -1,0 +1,21 @@
+id: aqua-studio
+name: Aqua Studio
+slug: aqua-studio
+tagline: Aqua Studio is a browser-based motion graphics studio that enables creators to design,
+  preview, and render professional animated videos
+summary: Aqua Studio received the 5th Grand Award - Builder’s Award award at Moonshot Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/trishit726/AQUA-studio
+demo_url: null
+video_url: https://www.youtube.com/embed/wYVbhBy9uqk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/847/879/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Trishit Bodkhe

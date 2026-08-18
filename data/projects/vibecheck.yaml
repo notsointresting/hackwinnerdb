@@ -1,0 +1,22 @@
+id: vibecheck
+name: VibeCheck
+slug: vibecheck
+tagline: We took the friction out of 3D modeling and turned it into an intuitive, swipe-to-generate
+  showroom.
+summary: VibeCheck received the [MLH] Best Use of Gemini API award at DesignVerse 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Abulala1/vibecheck-hackathon.git
+demo_url: null
+video_url: https://www.youtube.com/embed/f8Nbzj4aj4Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/674/974/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - react
+  - solana
+builders:
+  - name: Aaron Yew Sing Wong

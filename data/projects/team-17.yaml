@@ -1,0 +1,23 @@
+id: team-17
+name: Team 17
+slug: team-17
+tagline: We built a Financial Resilience Score that uses personal‑finance data to reveal how well
+  adults can handle financial shocks, helping institutions spot vulnerabi
+summary: Team 17 received the Best Visualizations award at SDSS Datathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JeffMonk888/SSDC_Datathon
+demo_url: null
+video_url: https://www.youtube.com/embed/-KPZWnGjJwI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/396/263/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - python
+builders:
+  - name: Sherry Wang
+  - name: Dino
+  - name: Lincoln Cheng
+  - name: tnvn431-a11y

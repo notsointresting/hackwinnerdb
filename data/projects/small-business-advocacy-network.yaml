@@ -1,0 +1,22 @@
+id: small-business-advocacy-network
+name: Small Business Advocacy Network
+slug: small-business-advocacy-network
+tagline: Small businesses often lack the time and money to influence state laws. We help them pool
+  resources, hire a lobbyist, understand legislation, and vote equally o
+summary: Small Business Advocacy Network received the Track 3 award at DMV Hackathon  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/OpYyTt2rnlA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/024/939/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Amani Mansour
+  - name: Bismah Ahmed

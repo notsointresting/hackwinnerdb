@@ -1,12 +1,13 @@
 id: youtube-study-kit
 name: YouTube Study Kit
 tagline: Turns YouTube lectures into structured study guides
-summary: A Chrome extension that converts educational videos into summaries, timestamped notes, and multilingual study material.
+summary: A Chrome extension that converts educational videos into summaries, timestamped notes, and
+  multilingual study material.
 website_url: https://chromewebstore.google.com/detail/youtube-study-kit/eoepepnjglaaomodjadnfedjfhilebol
 github_url: https://github.com/umeshSinghVerma/Youtube-study-kit
 demo_url: null
 video_url: null
-image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/215/271/datas/medium.png
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/170/085/datas/gallery.jpg
 categories:
   - education
   - artificial-intelligence

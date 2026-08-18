@@ -1,0 +1,27 @@
+id: bunqahead
+name: bunqAhead
+slug: bunqahead
+tagline: Keep your calendar and money in sync. bunqAhead analyses upcoming events and creates bunq
+  saving goals.
+summary: bunqAhead received the Third Prize award at bunq Hackathon 7.0 - Multimodal AI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/StijnRis/bunq-hackathon-7.0
+demo_url: null
+video_url: https://www.youtube.com/embed/hjDmfmI2mic
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/604/366/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - claude
+  - gemini
+  - nextjs
+  - typescript
+  - vercel
+builders:
+  - name: pelayo :)
+  - name: Stijn Risseeuw
+  - name: Joan Gayan
+  - name: Jochem Gebraad

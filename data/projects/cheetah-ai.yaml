@@ -1,0 +1,23 @@
+id: cheetah-ai
+name: Cheetah.ai
+slug: cheetah-ai
+tagline: "Serving engines are blind to intent. Cheetah.ai reads the workflow DAG to pre-warm the
+  right document between agent calls. The cold prefill doesn't disappear: i"
+summary: Cheetah.ai received the Best Use of Snowflake award at Uncommon Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samadmd786/cheetah.ai
+demo_url: null
+video_url: https://www.youtube.com/embed/dvwehHzJIjU
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Ali Mardan
+  - name: Md Samad
+  - name: abdullahyousaf1798

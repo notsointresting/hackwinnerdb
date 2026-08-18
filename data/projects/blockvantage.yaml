@@ -1,0 +1,19 @@
+id: blockvantage
+name: BlockVantage
+slug: blockvantage
+tagline: Shifting from manual querying to autonomous reasoning over the entire Ethereum schema
+summary: BlockVantage received the Honorable Mention award at Enterprise Agents Hackathon by
+  Emergence & Nebius in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/108/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: Sahil Kharya

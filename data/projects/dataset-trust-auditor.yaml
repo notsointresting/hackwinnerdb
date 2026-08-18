@@ -1,0 +1,23 @@
+id: dataset-trust-auditor
+name: Dataset Trust Auditor
+slug: dataset-trust-auditor
+tagline: Know what's in your data before you train on it. Dataset Trust Auditor scores datasets
+  across 8 trust dimensions — provenance, licensing, bias, quality — in sec
+summary: Dataset Trust Auditor received the 3rd Place award at ZerveHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nicolas-brieuc/dataset-trust-auditor
+demo_url: null
+video_url: https://www.youtube.com/embed/1atK_g_5tDQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/626/375/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - javascript
+  - python
+  - streamlit
+  - supabase
+builders:
+  - name: nicolas-brieuc Brieuc

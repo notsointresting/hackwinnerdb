@@ -1,0 +1,22 @@
+id: dysphagiasense
+name: DysphagiaSense
+slug: dysphagiasense
+tagline: "DysphagiaSense uses audio from a swallow to detect early swallowing issues. It applies
+  simple, explainable rules to classify risk, offering fast, non-invasive, "
+summary: DysphagiaSense received the Healthy Aging Challenge (NSERC SMAP CREATE) — Third Place award
+  at MacHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/harsifatsingh/DysphagiaSense/
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Purav Kanda
+  - name: Ali Fadoo
+  - name: Pratik Mahaveer Surana
+  - name: Harsifat Singh

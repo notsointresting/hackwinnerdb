@@ -1,0 +1,14 @@
+id: linkup-hack-days-in-agadir
+project_id: linkup
+hackathon_id: hack-days-in-agadir
+submission_url: https://devpost.com/software/linkup-yc69ot
+source:
+  platform: devpost
+  url: https://devpost.com/software/linkup-yc69ot
+awards:
+  - type: other
+    title: IdeaHack Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

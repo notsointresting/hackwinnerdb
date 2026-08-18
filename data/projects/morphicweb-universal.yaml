@@ -1,0 +1,22 @@
+id: morphicweb-universal
+name: MorphicWeb Universal
+slug: morphicweb-universal
+tagline: "A private, on device browser extension that reads, scores and rewrites any page:
+  readability, parts of speech, passive voice, entities, and meaning checked simp"
+summary: MorphicWeb Universal received the Top 10 Teams award at LingHacks VII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vaibhavshakya11/morphicweb-universal
+demo_url: null
+video_url: https://www.youtube.com/embed/PsrsTeWLBMc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini-nano
+  - javascript
+builders:
+  - name: Vaibhav Shakya
+  - name: Swastik Dash

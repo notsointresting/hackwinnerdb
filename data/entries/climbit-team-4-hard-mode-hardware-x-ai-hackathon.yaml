@@ -1,0 +1,14 @@
+id: climbit-team-4-hard-mode-hardware-x-ai-hackathon
+project_id: climbit-team-4
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/climbit-team-4
+source:
+  platform: devpost
+  url: https://devpost.com/software/climbit-team-4
+awards:
+  - type: other
+    title: Bambu Labs Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

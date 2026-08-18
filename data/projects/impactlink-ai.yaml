@@ -1,0 +1,23 @@
+id: impactlink-ai
+name: ImpactLink AI`
+slug: impactlink-ai
+tagline: Help NGO draft and track grant proposals
+summary: ImpactLink AI` received the Best Project in Social Cause award at ACM Trojan Hacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aarushi211/ImpactLink
+demo_url: null
+video_url: https://www.youtube.com/embed/-QlgHftegNg
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - groq
+  - langchain
+  - python
+  - react
+builders:
+  - name: Aryan Parab
+  - name: Aarushi Jain

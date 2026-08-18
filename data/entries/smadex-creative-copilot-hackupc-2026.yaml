@@ -1,0 +1,14 @@
+id: smadex-creative-copilot-hackupc-2026
+project_id: smadex-creative-copilot
+hackathon_id: hackupc-2026
+submission_url: https://devpost.com/software/smadex-creative-copilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/smadex-creative-copilot
+awards:
+  - type: third-place
+    title: "[HackUPC] 3rd place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

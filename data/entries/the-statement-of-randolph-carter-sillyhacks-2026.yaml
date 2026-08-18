@@ -1,0 +1,14 @@
+id: the-statement-of-randolph-carter-sillyhacks-2026
+project_id: the-statement-of-randolph-carter
+hackathon_id: sillyhacks-2026
+submission_url: https://devpost.com/software/bya
+source:
+  platform: devpost
+  url: https://devpost.com/software/bya
+awards:
+  - type: category-winner
+    title: Best Solo
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

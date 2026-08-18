@@ -1,0 +1,14 @@
+id: crittr-product-design-sprint
+project_id: crittr
+hackathon_id: product-design-sprint
+submission_url: https://devpost.com/software/critter-eucypz
+source:
+  platform: devpost
+  url: https://devpost.com/software/critter-eucypz
+awards:
+  - type: other
+    title: Reward
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

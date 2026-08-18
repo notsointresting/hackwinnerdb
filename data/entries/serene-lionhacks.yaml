@@ -1,0 +1,14 @@
+id: serene-lionhacks
+project_id: serene
+hackathon_id: lionhacks
+submission_url: https://devpost.com/software/serene-5i9n87
+source:
+  platform: devpost
+  url: https://devpost.com/software/serene-5i9n87
+awards:
+  - type: track-winner
+    title: NorthOaks Health Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

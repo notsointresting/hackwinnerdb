@@ -1,0 +1,23 @@
+id: civica
+name: Civica
+slug: civica
+tagline: AI-powered policy stress testing. 8 domain specialists identify risks in any Canadian
+  policy, then 50 demographic personas validate them with real StatsCan data
+summary: Civica received the Google - Build with AI award at Hack Canada 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Shlok-Ippala/Civica
+demo_url: null
+video_url: https://www.youtube.com/embed/Ic8XNInKIG0
+image_url: null
+categories:
+  - artificial-intelligence
+  - govtech
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Shlok-Ippala Ippala
+  - name: Aadi Chauhan

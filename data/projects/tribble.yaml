@@ -1,0 +1,20 @@
+id: tribble
+name: Tribble
+slug: tribble
+tagline: Tribble is a spatiotemporal ontology, a live map of conflicts using web, satellite,
+  weather, and ground reports. Agents verify in real time. For individuals pla
+summary: Tribble received the Grand Winner of 2026 Claude AI Hackathon award at Claude AI Hackathon
+  - Machines of Loving Grace in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/desmondzee/tribble
+demo_url: null
+video_url: https://www.youtube.com/embed/AjWfY7SnMBI
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Nikolaus Niewerth
+  - name: jamesagainagain Carver

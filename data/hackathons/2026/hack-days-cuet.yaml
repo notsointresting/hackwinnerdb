@@ -1,0 +1,14 @@
+id: hack-days-cuet
+name: Hack Days CUET
+slug: hack-days-cuet
+organizer: []
+year: 2026
+sources:
+  - https://hack-days-cuet.devpost.com/
+  - https://hack-days-cuet.devpost.com/project-gallery?filter=winner
+website_url: https://hack-days-cuet.devpost.com/
+platform: devpost
+participant_count: 20
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Days CUET. Imported automatically."

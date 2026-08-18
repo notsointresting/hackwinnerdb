@@ -1,0 +1,27 @@
+id: friendunity
+name: FriendUnity
+slug: friendunity
+tagline: "Studying alone is isolating. We built a Knowunity social layer, turning revision into a
+  multiplayer ecosystem. With our live Quiz Arena, we bridge shared notes "
+summary: FriendUnity received the (Knowunity Track) 4x 100 GBP Amazon Gift Card award at HackLondon
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/akshyaprakkash05/Knowunity-Hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/355/501/datas/medium.png
+categories:
+  - education
+  - iot
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Skye Whistler
+  - name: Meda Juodzeviciute
+  - name: sadanasuresh-01 Suresh
+  - name: Akshya PV

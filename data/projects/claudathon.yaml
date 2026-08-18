@@ -1,0 +1,21 @@
+id: claudathon
+name: Claudathon
+slug: claudathon
+tagline: solved challenges involving real world cloud challenges and learning via them
+summary: Claudathon received the Cloud Track Gold Medal (1st Place) award at Cloudathon@SJSU 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - cybersecurity
+  - productivity
+technologies: []
+builders:
+  - name: Indraneel Vishwas Sarode
+  - name: Vatsal Gandhi
+  - name: Harshita Gupta
+  - name: Ambarish Govindarajulu Kaliamurthi

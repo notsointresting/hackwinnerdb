@@ -1,0 +1,14 @@
+id: synthesisos-enterprise-agents-hackathon-by-emergence-nebius
+project_id: synthesisos
+hackathon_id: enterprise-agents-hackathon-by-emergence-nebius
+submission_url: https://devpost.com/software/synthesisos-qk04dt
+source:
+  platform: devpost
+  url: https://devpost.com/software/synthesisos-qk04dt
+awards:
+  - type: other
+    title: Runner Up Prizes
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

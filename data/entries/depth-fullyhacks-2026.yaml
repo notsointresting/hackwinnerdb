@@ -1,0 +1,14 @@
+id: depth-fullyhacks-2026
+project_id: depth
+hackathon_id: fullyhacks-2026
+submission_url: https://devpost.com/software/healthy-depths
+source:
+  platform: devpost
+  url: https://devpost.com/software/healthy-depths
+awards:
+  - type: category-winner
+    title: Best Health & Wellness
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

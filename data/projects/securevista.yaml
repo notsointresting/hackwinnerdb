@@ -1,0 +1,25 @@
+id: securevista
+name: SecureVista
+slug: securevista
+tagline: Stop reviewing footage; prevent the crime. We deploy computer vision to spot anomalies
+  instantly, turning your cameras into a 24/7 active security force. We mak
+summary: SecureVista received the 3rd Overall award at ML Empowerment Build Challenge in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aashu-11/AI-Campus-CCTV-System/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/9wF1_5OCdTk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/025/974/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - flask
+  - opencv
+  - python
+  - twilio
+builders:
+  - name: Akshat Patil
+  - name: Aayush Kolte

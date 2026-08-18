@@ -1,0 +1,22 @@
+id: belonginclusivity-analytics-dashboard
+name: BelongInclusivity - Analytics Dashboard
+slug: belonginclusivity-analytics-dashboard
+tagline: An intuitive visual analytics dashboard revealing participant drop-offs and equity barriers
+  for BelongInclusivity's programs and systems.
+summary: "BelongInclusivity - Analytics Dashboard received the UI/UX: 1st Place (BelongInclusivity)
+  award at AdaHacks 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1ufLPLuMb0M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/413/582/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: salian97 Salian
+  - name: Leigh <3
+  - name: Daniel Liang
+  - name: Linh Le

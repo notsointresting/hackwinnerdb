@@ -1,0 +1,21 @@
+id: pi-erre-the-pianist
+name: Pi’erre The Pianist
+slug: pi-erre-the-pianist
+tagline: Yooo Pi’erre you wanna come out here? Pi'erre takes MIDI to serial inputs from an Arduino
+  controlled circuit to communicate with solenoids placed above one octa
+summary: "Pi’erre The Pianist received the Bronze: Second Runner-Up award at  HARDWIRED 2026 MUEEC X
+  CISSA in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/dondonjones/Hardwired2026---PianoBot
+demo_url: null
+video_url: https://www.youtube.com/embed/wzxiitUQ8Ec
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/040/933/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - arduino
+builders:
+  - name: Joshua Pacifici
+  - name: Natnael Ayano

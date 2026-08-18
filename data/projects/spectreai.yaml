@@ -1,0 +1,20 @@
+id: spectreai
+name: SpectreAI
+slug: spectreai
+tagline: Bot issues flood your Slack. SpectreAI investigates autonomously, converses with users, and
+  fixes bots via CLI — developers only decide, never dig
+summary: SpectreAI received the Best of UiPath Maestro BPMN award at UiPath AgentHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UipathAgentHackNithin/SpectreAI-Maestro
+demo_url: null
+video_url: https://www.youtube.com/embed/W2dmjm7PAHY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/817/780/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - python
+builders:
+  - name: Nithin BR

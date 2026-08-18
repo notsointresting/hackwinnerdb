@@ -1,0 +1,23 @@
+id: receiptify
+name: Receiptify
+slug: receiptify
+tagline: Turn receipts into clarity. Scan, track, and understand your spending instantly so small
+  purchases don’t turn into big surprises!
+summary: Receiptify received the Best Use of Gemini API award at HACKMESA 2.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/console-angel/Receipt-Scanner
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/206/datas/gallery.jpg
+categories:
+  - fintech
+technologies:
+  - react
+  - sql
+  - supabase
+  - vercel
+builders:
+  - name: Angel Gomez
+  - name: Kayla Sarkissian
+  - name: Joy Gonzalez

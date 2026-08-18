@@ -1,0 +1,26 @@
+id: life-os
+name: Life OS
+slug: life-os
+tagline: Web based productivity app that incorporates student data, fitness date and user input data
+  to allow an individual to be more productive in general.
+summary: Life OS received the [MLH] Best Use of Auth0 AI Agents award at Broncohacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mtafoya-web/lifeos
+demo_url: null
+video_url: https://www.youtube.com/embed/XG0pKZR4S1s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/043/datas/gallery.jpg
+categories:
+  - education
+  - productivity
+technologies:
+  - elevenlabs
+  - gemini
+  - postgresql
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: alanlopez000 Lopez
+  - name: Mike Nguyen
+  - name: Mario Tafoya

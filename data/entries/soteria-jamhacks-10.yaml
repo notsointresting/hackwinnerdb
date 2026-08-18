@@ -1,0 +1,14 @@
+id: soteria-jamhacks-10
+project_id: soteria
+hackathon_id: jamhacks-10
+submission_url: https://devpost.com/software/soteria-dg8xa3
+source:
+  platform: devpost
+  url: https://devpost.com/software/soteria-dg8xa3
+awards:
+  - type: category-winner
+    title: Best Use of MongoDB Atlas
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

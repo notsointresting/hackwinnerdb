@@ -1,0 +1,16 @@
+id: sentinel-ai-powered-stroke-predictor-lumora-hacks
+project_id: sentinel-ai-powered-stroke-predictor
+hackathon_id: lumora-hacks
+submission_url: https://devpost.com/software/sentinel-ai-powered-stroke-predictor
+source:
+  platform: devpost
+  url: https://devpost.com/software/sentinel-ai-powered-stroke-predictor
+awards:
+  - type: other
+    title: Genuine Effort- All in!
+  - type: third-place
+    title: 3rd Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

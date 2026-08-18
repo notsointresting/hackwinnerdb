@@ -1,0 +1,23 @@
+id: translyte
+name: TransLyte
+slug: translyte
+tagline: To elevate the students of tomorrow in their educational journey and boost confidence in
+  navigating their lives through communication and literature!
+summary: TransLyte received the 3rd Place Prize award at IDEA Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/G2J84wb76Pc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/629/005/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - arduino
+  - c-plus-plus
+  - raspberry-pi
+builders:
+  - name: BRANDON ESCAMILLA-SANCHEZ
+  - name: AYOMIDE OLOWOOKERE
+  - name: Ethan Tong
+  - name: Andrew Lemus

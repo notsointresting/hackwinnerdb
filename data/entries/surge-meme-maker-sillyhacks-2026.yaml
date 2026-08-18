@@ -1,0 +1,14 @@
+id: surge-meme-maker-sillyhacks-2026
+project_id: surge-meme-maker
+hackathon_id: sillyhacks-2026
+submission_url: https://devpost.com/software/surge-meme-maker
+source:
+  platform: devpost
+  url: https://devpost.com/software/surge-meme-maker
+awards:
+  - type: other
+    title: "IATSU: Cursed UI"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

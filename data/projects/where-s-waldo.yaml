@@ -1,0 +1,20 @@
+id: where-s-waldo
+name: Where's Waldo
+slug: where-s-waldo
+tagline: A modern take on the classic game "Where's Waldo?"
+summary: Where's Waldo received the 2nd Place Prizes! award at CreateRU 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MwDn0B4MAaU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/524/208/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Anuj Kakumanu
+  - name: Safwan Sain
+  - name: Preisha Mishra

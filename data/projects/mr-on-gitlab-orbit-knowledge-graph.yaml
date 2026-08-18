@@ -1,0 +1,19 @@
+id: mr-on-gitlab-orbit-knowledge-graph
+name: MR on GitLab Orbit (Knowledge Graph)
+slug: mr-on-gitlab-orbit-knowledge-graph
+tagline: Added CONTRIBUTING.md to the GitLab Orbit repository, a missing onboarding entry point for
+  new and community contributors.
+summary: "MR on GitLab Orbit (Knowledge Graph) received the Contribute Track: A qualified Merged
+  Merge Request award at GitLab Transcend Hackathon in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders: []

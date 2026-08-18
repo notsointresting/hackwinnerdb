@@ -1,0 +1,27 @@
+id: soteria
+name: Soteria
+slug: soteria
+tagline: Web app that turns picking up litter into a game. Win points by picking up a piece of
+  trash, compete with others in a leaderboard, and maintain a high streak. M
+summary: Soteria received the Best Use of MongoDB Atlas award at JAMHacks 10 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zainaleem906/Soteria
+demo_url: null
+video_url: https://www.youtube.com/embed/xhbjfTkSwbY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/191/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - claude
+  - fastapi
+  - mongodb
+  - nextjs
+  - opencv
+  - python
+  - typescript
+builders:
+  - name: janiehacker Ossine
+  - name: zainaleem906
+  - name: pokuerica Poku
+  - name: Ella poku

@@ -1,0 +1,22 @@
+id: uli
+name: uli
+slug: uli
+tagline: Uli is a sleek, premium, and intentionally designed nicotine pouch case. Coming at only
+  0.39 inches thick, Uli takes up 1/3 of the space a traditional puck woul
+summary: uli received the Best solution to a problem nobody asked for award at SEP X Microsoft for
+  Startups Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/QqQBi4-eAp0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/395/962/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Christian Friis
+  - name: Mia Lin

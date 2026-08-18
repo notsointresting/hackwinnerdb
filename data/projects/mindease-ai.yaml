@@ -1,0 +1,19 @@
+id: mindease-ai
+name: MindEase AI
+slug: mindease-ai
+tagline: MindEase AI is a privacy-first mental wellness app using Gemini API
+summary: MindEase AI received the SWAG award at HACK DAYS JABALPUR in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/755/232/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Mohammad Shadab

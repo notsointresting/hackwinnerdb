@@ -1,0 +1,20 @@
+id: medical-triage
+name: Medical Triage
+slug: medical-triage
+tagline: N/A
+summary: Medical Triage received the Best Use of Gemini API award at ACS Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: sg78excel Guo
+  - name: Rayden Nie
+  - name: bobbyjoey07

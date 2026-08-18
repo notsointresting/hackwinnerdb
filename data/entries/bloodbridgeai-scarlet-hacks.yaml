@@ -1,0 +1,14 @@
+id: bloodbridgeai-scarlet-hacks
+project_id: bloodbridgeai
+hackathon_id: scarlet-hacks
+submission_url: https://devpost.com/software/bloogbridgeai
+source:
+  platform: devpost
+  url: https://devpost.com/software/bloogbridgeai
+awards:
+  - type: category-winner
+    title: LOF Best Use of AI in a Healthcare Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

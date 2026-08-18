@@ -1,0 +1,14 @@
+id: theatomicals-hackathon-troyano-2026
+project_id: theatomicals
+hackathon_id: hackathon-troyano-2026
+submission_url: https://devpost.com/software/theatomicals
+source:
+  platform: devpost
+  url: https://devpost.com/software/theatomicals
+awards:
+  - type: category-winner
+    title: Best Use of Solana
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: curiding
+name: CuRiding
+slug: curiding
+tagline: An attachable, hard real-time ADAS for youth e-bikes. Powered by QNX 8, it uses local
+  edge-AI for active collision braking and a zero-internet BLE tracking mesh
+summary: CuRiding received the People's Choice award at cuHacking7 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akramboussanni/cuRiding-pi
+demo_url: null
+video_url: https://www.youtube.com/embed/Ubc34F7nnvk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/927/655/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - opencv
+  - python
+  - tensorflow
+builders:
+  - name: Siddig Ahmed
+  - name: Sid Sajan
+  - name: Van Nguyen
+  - name: Akram Boussanni

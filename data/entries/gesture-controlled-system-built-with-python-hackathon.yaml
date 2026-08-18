@@ -1,0 +1,14 @@
+id: gesture-controlled-system-built-with-python-hackathon
+project_id: gesture-controlled-system
+hackathon_id: built-with-python-hackathon
+submission_url: https://devpost.com/software/gesture-controlled-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/gesture-controlled-system
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

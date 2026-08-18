@@ -1,0 +1,21 @@
+id: pitbull
+name: pitbull
+slug: pitbull
+tagline: "PITBULL AI : The game where you talk a dramatic desi street dog off the ledge — in English
+  or Hindi. You have ~3 minutes to shift PITBULL’s mood from rage / den"
+summary: pitbull received the Best use of Google Gemini API award at Hack Days Nagpur in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Tanmay-say/Game-Pitbull
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/635/964/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: TANMAY SAYARE

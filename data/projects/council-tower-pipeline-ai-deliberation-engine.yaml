@@ -1,0 +1,21 @@
+id: council-tower-pipeline-ai-deliberation-engine
+name: Council Tower Pipeline — AI Deliberation Engine
+slug: council-tower-pipeline-ai-deliberation-engine
+tagline: "Multi-agent AI deliberation pipeline on Tower: 4 specialized agents debate decisions
+  through a rigorous 5-phase protocol, producing quality-scored recommendatio"
+summary: "Council Tower Pipeline — AI Deliberation Engine received the Tower Pipeline Challenge:
+  Data-to-AI award at DeveloperWeek New York 2026 Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/zan-maker/council-tower
+demo_url: null
+video_url: https://www.youtube.com/embed/7jklIM7N2C4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/719/242/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - python
+builders:
+  - name: Shyam Desigan

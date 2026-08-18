@@ -1,0 +1,26 @@
+id: genoscript
+name: GenoScript
+slug: genoscript
+tagline: GenoScript leverages pharmacogenomic data and CPIC guidelines to support evidence-based
+  medication selection, reducing trial-and-error and improving clinical ou
+summary: GenoScript received the Best Use of AI award at Vandyhacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fenrear55/GenoScript
+demo_url: null
+video_url: https://www.youtube.com/embed/n6-3jBB7M50
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/749/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - mongodb
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Abigail Henderson
+  - name: Braeden Treutel
+  - name: Bryan Brown
+  - name: Mario Missiha

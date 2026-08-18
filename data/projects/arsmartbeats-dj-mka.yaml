@@ -1,0 +1,22 @@
+id: arsmartbeats-dj-mka
+name: ARSmartBeats (DJ MKA)
+slug: arsmartbeats-dj-mka
+tagline: Augmented Reality DJ
+summary: ARSmartBeats (DJ MKA) received the [MLH] Best Use of ElevenLabs award at Grizzhacks 8 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MoeAbboud/ARSmartBeats
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/623/520/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - flask
+  - python
+builders:
+  - name: Haneen Yahfoufi
+  - name: Jeneen Jadallah
+  - name: Mohamad Abboud

@@ -1,12 +1,13 @@
 id: tube-uni
 name: Tube Uni
 tagline: Generates a personal podcast on any topic, sized to your commute
-summary: Tube Uni turns a topic request into a narrated podcast episode whose length is matched to the listener's travel time.
+summary: Tube Uni turns a topic request into a narrated podcast episode whose length is matched to
+  the listener's travel time.
 website_url: https://tubeuni.app
 github_url: null
 demo_url: https://tubeuni.app
 video_url: null
-image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/874/400/datas/medium.png
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/874/447/datas/gallery.jpg
 categories:
   - education
   - media

@@ -1,0 +1,22 @@
+id: receipts
+name: Receipts
+slug: receipts
+tagline: AI agent that tracks whether powerful people keep their promises
+summary: Receipts received the Best use of Nimble's API or Web Search Agents award at Agentic
+  Engineering Hack in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Vanshika2021/receipts
+demo_url: null
+video_url: https://www.youtube.com/embed/9RUAJAycuAA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - anthropic
+  - claude
+  - python
+builders:
+  - name: Vanshika2021 Agrawal

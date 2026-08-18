@@ -1,0 +1,19 @@
+id: pictrack
+name: PicTrack
+slug: pictrack
+tagline: No reading required! Just a picture of which vaccine your child needs next.
+summary: PicTrack received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vaish725/pictrack
+demo_url: null
+video_url: https://www.youtube.com/embed/yM7L7b_uWI0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/858/774/datas/medium.png
+categories:
+  - education
+technologies:
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: Vaishnavi Kamdi

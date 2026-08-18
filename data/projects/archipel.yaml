@@ -1,0 +1,23 @@
+id: archipel
+name: ARCHIPEL
+slug: archipel
+tagline: silicon-spartans
+summary: ARCHIPEL received the Google Cloud and MLH Swag award at Hack Days In Lome Build In
+  Public  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/LUC-cmd/ARCHIPEL
+demo_url: null
+video_url: https://www.youtube.com/embed/dMcEzNgJ7bI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/403/102/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - javascript
+  - sqlite
+builders:
+  - name: Hiwè N'DJANOUNAI
+  - name: Kenneth Lawson

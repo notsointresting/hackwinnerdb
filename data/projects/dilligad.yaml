@@ -1,0 +1,20 @@
+id: dilligad
+name: DILLIGAD
+slug: dilligad
+tagline: Do I Look Like I Give a Duck - A chrome extension for mindful browsing. Find ducks hidden
+  in webpages you visit and take a break for a minute!
+summary: DILLIGAD received the Most Useless award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kristin-wiseman/DILLIGAD
+demo_url: null
+video_url: https://www.youtube.com/embed/faNpS9oGT-4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/380/560/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Harini Sankar
+  - name: Kristin Wiseman

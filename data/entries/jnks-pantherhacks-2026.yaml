@@ -1,0 +1,16 @@
+id: jnks-pantherhacks-2026
+project_id: jnks
+hackathon_id: pantherhacks-2026
+submission_url: https://devpost.com/software/jnks
+source:
+  platform: devpost
+  url: https://devpost.com/software/jnks
+awards:
+  - type: other
+    title: Hacker's Choice Award
+  - type: track-winner
+    title: Healthcare Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

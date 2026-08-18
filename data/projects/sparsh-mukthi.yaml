@@ -1,0 +1,20 @@
+id: sparsh-mukthi
+name: Sparsh Mukthi
+slug: sparsh-mukthi
+tagline: Embracing Touchless Technology....
+summary: Sparsh Mukthi received the First place - CTRL-V Champion award at Ctrl+V Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ishaan-Gpt/gesture-studio
+demo_url: null
+video_url: https://www.youtube.com/embed/8Dtl-HaX3uY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/771/367/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - opencv
+  - python
+builders:
+  - name: Keshav Agrawal

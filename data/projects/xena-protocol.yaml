@@ -1,0 +1,21 @@
+id: xena-protocol
+name: Xena Protocol
+slug: xena-protocol
+tagline: "Xena: decentralized anti-phishing open claw skill. AI agents catch scams, post hashed
+  reports on Ethereum, every other user instantly immune. Privacy-preserving"
+summary: Xena Protocol received the Tickets to TechBBQ award at RoyalHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/hHzNKUq28hA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/682/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - react
+  - solidity
+builders:
+  - name: Nicolò Vanzo

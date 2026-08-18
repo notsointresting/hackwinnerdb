@@ -1,0 +1,14 @@
+id: an-rtl-accelerator-for-grid-based-physics-simulations-uoft-asic-team-ic-hackathon
+project_id: an-rtl-accelerator-for-grid-based-physics-simulations
+hackathon_id: uoft-asic-team-ic-hackathon
+submission_url: https://devpost.com/software/an-rtl-accelerator-for-grid-based-physics-simulations
+source:
+  platform: devpost
+  url: https://devpost.com/software/an-rtl-accelerator-for-grid-based-physics-simulations
+awards:
+  - type: second-place
+    title: Second Place - ASIC
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

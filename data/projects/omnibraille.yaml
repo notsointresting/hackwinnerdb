@@ -1,0 +1,22 @@
+id: omnibraille
+name: OmniBraille
+slug: omnibraille
+tagline: Mastering Braille, one touch at a time.
+summary: OmniBraille received the DevSwarm Builder Opportunity award at LovHack Season 2 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4aMnA_dLS7E
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - arduino
+  - c-plus-plus
+  - react
+  - vercel
+builders:
+  - name: Nanier P. Leona

@@ -1,0 +1,14 @@
+id: sleep-score-dd-multiagents-hackathon
+project_id: sleep-score-dd
+hackathon_id: multiagents-hackathon
+submission_url: https://devpost.com/software/sleep-score-dd
+source:
+  platform: devpost
+  url: https://devpost.com/software/sleep-score-dd
+awards:
+  - type: category-winner
+    title: Best use of Senso.ai
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

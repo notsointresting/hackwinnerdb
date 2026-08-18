@@ -1,0 +1,14 @@
+id: login-puzzle-hell-techvision-uxhack
+project_id: login-puzzle-hell
+hackathon_id: techvision-uxhack
+submission_url: https://devpost.com/software/login-puzzle-hell
+source:
+  platform: devpost
+  url: https://devpost.com/software/login-puzzle-hell
+awards:
+  - type: category-winner
+    title: Best Full-stack Application Design
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: gate-the-last-gate-before-payment
+name: GATE — The Last Gate Before Payment
+slug: gate-the-last-gate-before-payment
+tagline: "Built for small engineering startups: one local AI tool to cross-check invoices, orders &
+  project docs before you pay—no AP department, no cloud upload. You dec"
+summary: GATE — The Last Gate Before Payment received the Participation Certificates award at Ctrl+V
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Shao116/GATE
+demo_url: null
+video_url: https://www.youtube.com/watch?v=iYG1CtsRwtA&amp;t=14s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/738/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cloud
+technologies:
+  - fastapi
+  - javascript
+  - llama
+  - python
+builders:
+  - name: Zetong Shao
+  - name: Jessica Yi

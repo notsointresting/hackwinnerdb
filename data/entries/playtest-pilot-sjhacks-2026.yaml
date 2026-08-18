@@ -1,0 +1,14 @@
+id: playtest-pilot-sjhacks-2026
+project_id: playtest-pilot
+hackathon_id: sjhacks-2026
+submission_url: https://devpost.com/software/playtest-pilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/playtest-pilot
+awards:
+  - type: category-winner
+    title: Best Game Development Tool
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

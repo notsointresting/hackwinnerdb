@@ -1,0 +1,22 @@
+id: sentinel-multi-agent-fraud-investigation-system
+name: "Sentinel: Multi-Agent Fraud Investigation System"
+slug: sentinel-multi-agent-fraud-investigation-system
+tagline: Five AI agents walk a Medicare claims knowledge graph to turn fraud signals into complete,
+  cited investigations, not scores.
+summary: "Sentinel: Multi-Agent Fraud Investigation System received the Fintech track - 1st place
+  award at JacHacks Spring in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Yxp23/Sentinel
+demo_url: null
+video_url: https://www.youtube.com/embed/U2bF5Golysk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/681/752/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - python
+  - react
+builders:
+  - name: yash patil

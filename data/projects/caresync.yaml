@@ -1,0 +1,25 @@
+id: caresync
+name: CareSync
+slug: caresync
+tagline: CareSync is an AI-powered personal health companion designed to improve medication
+  adherence and promote healthier daily habits.
+summary: CareSync received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xs
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+  - sqlite
+  - typescript
+  - vercel
+builders:
+  - name: Michael GTA Fan

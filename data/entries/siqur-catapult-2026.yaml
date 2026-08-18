@@ -1,0 +1,14 @@
+id: siqur-catapult-2026
+project_id: siqur
+hackathon_id: catapult-2026
+submission_url: https://devpost.com/software/watchman-zifchr
+source:
+  platform: devpost
+  url: https://devpost.com/software/watchman-zifchr
+awards:
+  - type: category-winner
+    title: Most Promising Startup
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

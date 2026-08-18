@@ -1,0 +1,25 @@
+id: hushmap
+name: HushMap
+slug: hushmap
+tagline: HushMap eliminates wasted trips to loud, packed study spots with an interactive map,
+  prevents sensory overload for neurodivergent students, and removes the need
+summary: HushMap received the Best UI/UX Hack - Bitcamp award at Bitcamp 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SirBlobby/BitCamp-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/NAVREyJwKOc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/993/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mapbox
+  - mongodb
+  - svelte
+builders:
+  - name: Sameera Nageshwar
+  - name: Gagan M
+  - name: Jolie Wu
+  - name: Sarayu Jilludumudi

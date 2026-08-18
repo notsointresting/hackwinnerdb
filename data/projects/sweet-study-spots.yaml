@@ -1,0 +1,22 @@
+id: sweet-study-spots
+name: Sweet Study Spots
+slug: sweet-study-spots
+tagline: "Do you love a sweet treat? Do you need to study for your degree? Then we've got you
+  covered here at Sweet Study Spots. There's always a study spot with a sweet "
+summary: Sweet Study Spots received the Best Use of GitHub award at DUWiT Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/egomidget/DUWIT-2026.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - django
+  - google-maps
+  - react
+builders:
+  - name: Prema Poudyal
+  - name: egomidget
+  - name: Sarah Malone

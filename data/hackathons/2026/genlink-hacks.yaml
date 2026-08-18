@@ -1,0 +1,14 @@
+id: genlink-hacks
+name: GenLink Hacks
+slug: genlink-hacks
+organizer: []
+year: 2026
+sources:
+  - https://genlink-hacks.devpost.com/
+  - https://genlink-hacks.devpost.com/project-gallery?filter=winner
+website_url: https://genlink-hacks.devpost.com/
+platform: devpost
+participant_count: 251
+prize_pool: 42402
+currency: USD
+description: "Devpost hackathon: GenLink Hacks. Imported automatically."

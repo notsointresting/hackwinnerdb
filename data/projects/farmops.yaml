@@ -1,0 +1,21 @@
+id: farmops
+name: FarmOps
+slug: farmops
+tagline: The operating system for Nigerian poultry and catfish farms. Ops, feed, money, and AI in
+  one calm view. It watches risk. It drafts work. You decide.
+summary: "FarmOps received the Third Place | Monetizable B2B App award at H0: Hack the Zero Stack
+  with Vercel v0 and AWS Databases in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/e3-ZAF__ud8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/296/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - nextjs
+  - postgresql
+  - vercel
+builders:
+  - name: Jamal Ibrahim Umar

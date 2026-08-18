@@ -1,0 +1,17 @@
+id: fpga-hexagon-video-game
+name: FPGA hexagon video game
+slug: fpga-hexagon-video-game
+tagline: Written in verilog, runs on an FPGA.
+summary: FPGA hexagon video game received the Most Technical award at The Cambridge Game Jam 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Chris-F5/2425_cambridge_game_jam
+demo_url: null
+video_url: https://www.youtube.com/watch?v=jnG2rAN-wWk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/400/368/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: Chris-F5 .

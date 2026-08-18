@@ -1,0 +1,23 @@
+id: tauras
+name: Tauras
+slug: tauras
+tagline: We don’t sell solar — we build scalable energy infrastructure that generates recurring
+  revenue at the neighborhood level.
+summary: Tauras received the Business Innovation award at Webster Hackfest 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jerold2105/smart-grid-dashboard
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - infrastructure
+technologies:
+  - claude
+  - javascript
+  - react
+builders:
+  - name: jerold anbarasan
+  - name: Pranav D
+  - name: Siwani Sapkota
+  - name: alina shrestha

@@ -1,0 +1,26 @@
+id: mirl-minecraft-irl
+name: MIRL - MINECRAFT IRL
+slug: mirl-minecraft-irl
+tagline: Play Minecraft with your body. Swing a real sword, raise a shield, fire a bow, sprint,
+  jump, and look around IRL while IMU sensors and computer vision translate
+summary: "MIRL - MINECRAFT IRL received the Hack the 6ix: 3rd Place award at Hack the 6ix 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Solaror0/HT62026-MIRL
+demo_url: null
+video_url: https://www.youtube.com/embed/vkHMMlXg5PI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/932/937/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - esp32
+  - java
+  - opencv
+builders:
+  - name: Josh Wu
+  - name: Andy Duong
+  - name: Junnur Mustaqeem
+  - name: James Li

@@ -1,0 +1,14 @@
+id: scrybe-hack-the-break-2026
+project_id: scrybe
+hackathon_id: hack-the-break-2026
+submission_url: https://devpost.com/software/scrybe-48p26z
+source:
+  platform: devpost
+  url: https://devpost.com/software/scrybe-48p26z
+awards:
+  - type: second-place
+    title: Second
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

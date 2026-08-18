@@ -1,0 +1,14 @@
+id: marshal-autonomous-migration-assistant-gitlab-transcend-hackathon
+project_id: marshal-autonomous-migration-assistant
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/marshal-autonomous-migration-assistant
+source:
+  platform: devpost
+  url: https://devpost.com/software/marshal-autonomous-migration-assistant
+awards:
+  - type: second-place
+    title: "Showcase Track: Design and Usability, Second Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

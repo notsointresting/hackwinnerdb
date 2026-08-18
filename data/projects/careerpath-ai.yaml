@@ -1,0 +1,22 @@
+id: careerpath-ai
+name: CareerPath AI
+slug: careerpath-ai
+tagline: CareerPath AI is an AI-powered platform that creates personalized career roadmaps, analyzes
+  skill gaps, reviews resumes, recommends courses, and provides AI men
+summary: CareerPath AI received the Best Use of Gemini API award at Hacks day Bhopal in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TD2jS2zgNpA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/765/392/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - mongodb
+  - react
+  - vercel
+builders:
+  - name: Preetish Gharami Gharami

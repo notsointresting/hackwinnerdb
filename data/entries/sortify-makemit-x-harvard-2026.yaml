@@ -1,0 +1,14 @@
+id: sortify-makemit-x-harvard-2026
+project_id: sortify
+hackathon_id: makemit-x-harvard-2026
+submission_url: https://devpost.com/software/sortify-kemb3i
+source:
+  platform: devpost
+  url: https://devpost.com/software/sortify-kemb3i
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of Gemini API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

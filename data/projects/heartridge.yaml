@@ -1,0 +1,21 @@
+id: heartridge
+name: HeartRidge
+slug: heartridge
+tagline: Grow stronger, one heartbeat at a time
+summary: HeartRidge received the 1st place award at Pulse Foundry AI Healthcare Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VJDiPaola/heartbridge-garden.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - vercel
+builders:
+  - name: Ambica Bhatia
+  - name: Samrudhi Prashant Baldota
+  - name: Abhisek Upadhyaya
+  - name: Vincent DiPaola

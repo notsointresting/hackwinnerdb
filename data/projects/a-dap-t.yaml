@@ -1,0 +1,26 @@
+id: a-dap-t
+name: A-DAP-T
+slug: a-dap-t
+tagline: A-DAP-T helps builders scan, prove, fix, compare, and gate AI-agent deployment risks before
+  shipping.
+summary: A-DAP-T received the 3rd Prize Second Runner-Up award at Impact Creation in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dhruvg334/a-dap-t
+demo_url: null
+video_url: https://www.youtube.com/embed/1r-QIjQmbbo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/587/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Akshhaya Isa
+  - name: Dhruv Gupta
+  - name: Pavit Agrawal

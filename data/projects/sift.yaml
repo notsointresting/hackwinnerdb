@@ -1,0 +1,22 @@
+id: sift
+name: Sift
+slug: sift
+tagline: AI knowledge infra for humans and agents
+summary: Sift received the YC x HackTech - YC Office Hours award at Hacktech by Caltech 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Aq5WXmQQooo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Andrea Li

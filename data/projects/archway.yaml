@@ -1,0 +1,26 @@
+id: archway
+name: Archway
+slug: archway
+tagline: Archway is an AI system design playground where you turn ideas into architectures, learn as
+  PM, Engineer, and Ethics roles, earn points, and share builds with a
+summary: Archway received the AIF Award award at strAIght up! Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Oganesson0221/design-de-coder
+demo_url: null
+video_url: https://www.youtube.com/embed/ftsU0EHj6lw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/603/093/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mongodb
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Janhavee Singh
+  - name: Rishika Mehta
+  - name: gunraj singh
+  - name: Samriddhi Srivastava

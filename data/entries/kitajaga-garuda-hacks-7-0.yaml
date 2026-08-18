@@ -1,0 +1,14 @@
+id: kitajaga-garuda-hacks-7-0
+project_id: kitajaga
+hackathon_id: garuda-hacks-7-0
+submission_url: https://devpost.com/software/kitajaga
+source:
+  platform: devpost
+  url: https://devpost.com/software/kitajaga
+awards:
+  - type: second-place
+    title: 2nd Place Health Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

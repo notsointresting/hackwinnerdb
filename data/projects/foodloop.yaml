@@ -1,0 +1,23 @@
+id: foodloop
+name: FoodLoop
+slug: foodloop
+tagline: FoodLoop is an AI-powered food surplus routing that predicts waste before it happens and
+  redirects it to those who need it most.
+summary: FoodLoop received the Climate Track award at Rutgers MTC Code for Impact Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SaimM2007/Foodloop
+demo_url: null
+video_url: https://www.youtube.com/embed/zbKRYfvWIzI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/400/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - tailwind-css
+builders:
+  - name: SaimM2007 Meher
+  - name: Abubaker Ali
+  - name: ayaan Mohammed

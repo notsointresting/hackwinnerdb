@@ -1,0 +1,22 @@
+id: smartcookie
+name: SmartCookie
+slug: smartcookie
+tagline: Be a smart cookie, use SmartCookie.
+summary: "SmartCookie received the Track: The Scholar’s Spellbook (Education) award at DiamondHacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/lgullon/DiamondHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/2bNd4_yZBE0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/115/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Lindsay Gullon
+  - name: addy abrar

@@ -1,0 +1,21 @@
+id: kith
+name: Kith
+slug: kith
+tagline: Between the calls, the texts, and the visits — Kith keeps you in each other's lives through
+  one-tap updates and passive widgets, so when you finally get togethe
+summary: Kith received the Professional Track - 1st award at UCI Design-a-thon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/F0Kgkdx4i98
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/615/958/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Maiella Nona Laquindanum Nuqui
+  - name: Grace Jong
+  - name: Reyna Phan
+  - name: Jessica Jahja

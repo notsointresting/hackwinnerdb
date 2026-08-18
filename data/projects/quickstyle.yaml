@@ -1,0 +1,22 @@
+id: quickstyle
+name: QuickStyle
+slug: quickstyle
+tagline: Live react component editor you can use in the browser that can directly update your code
+  to reduce the number of windows you need open on your computer while d
+summary: QuickStyle received the First award at Hack The Break 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kvnbanunu/quick-style
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/465/436/datas/gallery.jpg
+categories:
+  - productivity
+technologies:
+  - javascript
+  - react
+builders:
+  - name: weckest Pedersen
+  - name: kvnbanunu Nguyen
+  - name: Taylor Ockerman
+  - name: Reece

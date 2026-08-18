@@ -1,0 +1,21 @@
+id: adventure-quest
+name: Adventure Quest
+slug: adventure-quest
+tagline: Adventure Quest gamifies the road to recovery for youth struggling with substance abuse.
+  Traditional clinical campaigns lack engagement. Our platform solves thi
+summary: Adventure Quest received the Mlh swags award at Hackdays Prayagraj  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/iamsamarthmishra/hackathon_project
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/873/919/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - javascript
+  - mongodb
+  - postgresql
+  - react
+builders:
+  - name: Sarthak Thakur

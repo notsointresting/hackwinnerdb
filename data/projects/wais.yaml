@@ -1,0 +1,23 @@
+id: wais
+name: Wais
+slug: wais
+tagline: puNO ng talino, PUno ng talino
+summary: "Wais received the Track Winner and Grand Champion award at  InnOlympics 2026: To Let
+  Filipinos Dream Without Compromise in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/thanreiz/wais-inno
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/608/079/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - kotlin
+builders:
+  - name: thanreiz Baltazar
+  - name: Drew Clarence Basadre
+  - name: Eleneus Gyen Ng
+  - name: Rica Diaz

@@ -1,0 +1,20 @@
+id: taskflow-rescue
+name: TaskFlow Rescue
+slug: taskflow-rescue
+tagline: TaskFlow Rescue helps people turn scattered, blocked, and overdue work into clear,
+  trackable execution with AI-guided recovery plans.
+summary: TaskFlow Rescue received the Creative Content Award award at Build with MeDo Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/OnApfsDc3m0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/690/016/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Endurance Udoh

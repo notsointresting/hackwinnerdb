@@ -1,0 +1,19 @@
+id: smartemoji
+name: SmartEmoji
+slug: smartemoji
+tagline: Rethinking Emoji Prediction with Semantic Understanding
+summary: SmartEmoji received the Best Use of StrataScratch Data award at Data Heist 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AnushreeNema/SmartEmoji1
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/535/677/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Anushree Nema

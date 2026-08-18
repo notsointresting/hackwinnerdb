@@ -1,0 +1,24 @@
+id: disaster-command-center
+name: Disaster Command center
+slug: disaster-command-center
+tagline: Every second in a crisis has a cost. We made sure it doesn't have to
+summary: Disaster Command center received the Overall Winner award at Rutgers MTC Code for Impact
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/62p5LtKPaIE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/474/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - python
+builders:
+  - name: Aryan Sehgal
+  - name: Aminah Memon
+  - name: Ghania Piracha
+  - name: Gurkarn Samra

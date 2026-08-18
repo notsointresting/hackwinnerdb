@@ -1,0 +1,22 @@
+id: podlingo-ai-automatic-podcast-transcription-translation
+name: PodLingo AI – Automatic Podcast Transcription & Translation
+slug: podlingo-ai-automatic-podcast-transcription-translation
+tagline: PodLingo AI is an AI-powered tool designed to automatically generate captions and
+  translations for podcast interviews and audio/video content. The platform help
+summary: PodLingo AI – Automatic Podcast Transcription & Translation received the Best Use of Gemini
+  API award at Build with Gemini in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qP1vuzWHktk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Ragul K

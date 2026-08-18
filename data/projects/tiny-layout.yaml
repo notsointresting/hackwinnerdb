@@ -1,0 +1,21 @@
+id: tiny-layout
+name: Tiny Layout
+slug: tiny-layout
+tagline: Tiny Layout is a tool based on HTML's native Web Components designed to make it easy to
+  create interactive diagrams for education, based on SVG.
+summary: Tiny Layout received the General 3rd place award at BlasterHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/282/datas/gallery.jpg
+categories:
+  - education
+  - gaming
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: Edna Lange
+  - name: Renn Gilbert

@@ -1,0 +1,14 @@
+id: unusable-phone-techvision-uxhack
+project_id: unusable-phone
+hackathon_id: techvision-uxhack
+submission_url: https://devpost.com/software/unusable-phone
+source:
+  platform: devpost
+  url: https://devpost.com/software/unusable-phone
+awards:
+  - type: category-winner
+    title: Best UnPhone UI/UX Design
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

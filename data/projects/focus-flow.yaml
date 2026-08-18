@@ -1,0 +1,18 @@
+id: focus-flow
+name: Focus Flow
+slug: focus-flow
+tagline: Behavioral Feedback Loop (BBFL). It moves beyond standard "wellness apps"
+summary: Focus Flow received the Google Swag Kits award at Build with AI Hack Days @UITS in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/360/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Jahid Hassan

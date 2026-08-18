@@ -1,0 +1,24 @@
+id: bookbridge
+name: BookBridge
+slug: bookbridge
+tagline: "An urban-infrastructure and connectivity solution: matching disadvantaged-students with old books"
+summary: BookBridge received the Participation Certificates award at The Mastery Mentors Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FireWolf-2019/Book-Bridge
+demo_url: null
+video_url: https://www.youtube.com/watch?v=eBpbUF5MTvw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/840/514/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - fastapi
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Avishai Rajkumar
+  - name: Aryan Rapolu

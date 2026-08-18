@@ -1,0 +1,24 @@
+id: descascador-online
+name: Descascador Online
+slug: descascador-online
+tagline: Cansado de perder 10% da sua batata na casca? O seu tempo? Talvez o seu dedo em algumas
+  ocasiões? Descascador resolve o seu problema! Acesse o site hoje mesmo e
+summary: Descascador Online received the 3º lugar award at Codecon Universe 26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Gab1203/descascador
+demo_url: null
+video_url: https://www.youtube.com/embed/WOYbmYED6QM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/723/484/datas/gallery.jpg
+categories:
+  - productivity
+technologies:
+  - gemini
+  - nextjs
+  - python
+  - typescript
+builders:
+  - name: Gab Galáctico
+  - name: Giovanna Resende Lima
+  - name: Pedro Silva
+  - name: Gustavo M. Trindade

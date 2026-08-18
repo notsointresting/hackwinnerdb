@@ -1,0 +1,14 @@
+id: not-my-first-swamp-2026-uf-design-a-thon-by-gud
+project_id: not-my-first-swamp
+hackathon_id: 2026-uf-design-a-thon-by-gud
+submission_url: https://devpost.com/software/not-my-first-swamp
+source:
+  platform: devpost
+  url: https://devpost.com/software/not-my-first-swamp
+awards:
+  - type: category-winner
+    title: Best Framer Implementation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

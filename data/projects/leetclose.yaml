@@ -1,0 +1,24 @@
+id: leetclose
+name: LeetClose
+slug: leetclose
+tagline: An AI sales coach & live simulator that lets you nail mock sales calls, without burning leads
+summary: LeetClose received the 3rd Place award at ProduHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zayan-sheikh/leetclose
+demo_url: null
+video_url: https://www.youtube.com/embed/OhcL-6o1HbY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/779/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ayden lum
+  - name: Zayan Sheikh
+  - name: Saketh Poori
+  - name: Ziyana Amershi

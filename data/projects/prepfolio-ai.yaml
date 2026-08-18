@@ -1,0 +1,21 @@
+id: prepfolio-ai
+name: Prepfolio AI
+slug: prepfolio-ai
+tagline: AI-Interview-prep
+summary: Prepfolio AI received the Best Use of the Google Gemini API award at Hack Days in Jabalpur
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/117/497/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - mongodb
+  - react
+  - vercel
+builders:
+  - name: Sandeep vishvakrma

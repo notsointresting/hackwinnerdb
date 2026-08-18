@@ -1,0 +1,20 @@
+id: lemons
+name: Lemons
+slug: lemons
+tagline: Stop losing money when you bet !
+summary: Lemons received the Fintech/Open Track 2nd Place award at JacHacks SF in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/usedloomandemailedit
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - java
+  - typescript
+builders:
+  - name: Manit Guliani

@@ -1,0 +1,22 @@
+id: nfcmon
+name: NFCmon
+slug: nfcmon
+tagline: Ever spectated a live TCG game and have no idea what you're watching? This aims to improve
+  the spectator experience by rendering changes on the game board live.
+summary: NFCmon received the Most Creative Idea award at SillyHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sillyhacks2026spring/mono
+demo_url: null
+video_url: https://www.youtube.com/embed/UqBxiiJTjv4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/272/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - python
+  - svelte
+  - typescript
+builders:
+  - name: Kent Claudio
+  - name: Kurt Milan
+  - name: Ray Gong

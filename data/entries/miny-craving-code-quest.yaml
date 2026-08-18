@@ -1,0 +1,14 @@
+id: miny-craving-code-quest
+project_id: miny-craving
+hackathon_id: code-quest
+submission_url: https://devpost.com/software/miny-crave
+source:
+  platform: devpost
+  url: https://devpost.com/software/miny-crave
+awards:
+  - type: category-winner
+    title: Best Beginner Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

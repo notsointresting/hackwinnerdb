@@ -1,0 +1,24 @@
+id: finance-paradise
+name: Finance Paradise
+slug: finance-paradise
+tagline: "Wanna demo trade on an accurate simulation of the market? Test your skills for free today!
+  Our simulation is based on a Markov chain where traders place trades "
+summary: Finance Paradise received the Fintech Track award at Grizzhacks 8 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ChrisBastajian/Finance-Paradise
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/106/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - flask
+  - python
+builders:
+  - name: Chris Bastajian
+  - name: Thomas Rowden
+  - name: Arina Rodionova
+  - name: Elmedina05

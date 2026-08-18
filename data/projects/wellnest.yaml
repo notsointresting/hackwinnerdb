@@ -1,0 +1,23 @@
+id: wellnest
+name: WellNest
+slug: wellnest
+tagline: Unexpected period? Struggling to find a pad when you need it the most? WellNest uses smart
+  dispensers to track stock levels in real time so you can find one fas
+summary: WellNest received the [MLH] Best Use of MongoDB Atlas award at cmd-f 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Swarnarja/WellNest
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/871/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Swarnarja Raja
+  - name: mehreen0903 Arif
+  - name: lsong0909 Song
+  - name: Gorata Gaolaolwe

@@ -1,0 +1,26 @@
+id: medunity
+name: medunity
+slug: medunity
+tagline: Longitudinal healthcare platform to empower and inform Canadians personally and systemically.
+summary: medunity received the [GenAI Genesis] TOP 10 Team - Finalists (In-Person Only) award
+  at  GenAI Genesis 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/archangelinux/medunity
+demo_url: null
+video_url: https://www.youtube.com/embed/Kme0d9UaCcI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/442/257/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - google-cloud
+  - mapbox
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Angie Wang

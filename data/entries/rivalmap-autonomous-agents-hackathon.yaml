@@ -1,0 +1,16 @@
+id: rivalmap-autonomous-agents-hackathon
+project_id: rivalmap
+hackathon_id: autonomous-agents-hackathon
+submission_url: https://devpost.com/software/rivalmap
+source:
+  platform: devpost
+  url: https://devpost.com/software/rivalmap
+awards:
+  - type: category-winner
+    title: Best Use of Airbyte
+  - type: other
+    title: Top 3 Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

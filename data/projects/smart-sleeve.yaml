@@ -1,0 +1,22 @@
+id: smart-sleeve
+name: Smart Sleeve
+slug: smart-sleeve
+tagline: Automatic rehabilitation tracker to replace physical therapy consults
+summary: Smart Sleeve received the 1st Place award at MACATHON 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/xeenoon/s-sleeve
+demo_url: null
+video_url: https://www.youtube.com/watch?v=MK2thHAHGt4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/555/078/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+  - python
+builders:
+  - name: Christopher  Whalley
+  - name: Manan Chavda

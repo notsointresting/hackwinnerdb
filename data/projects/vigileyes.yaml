@@ -1,0 +1,27 @@
+id: vigileyes
+name: VigilEyes
+slug: vigileyes
+tagline: "Truckers drive 11+ hours daily in isolation. VigilEyes uses custom YOLOv8 and sensor
+  fusion to detect fatigue and swerving, providing a real-time risk score to "
+summary: VigilEyes received the Best Overall 3rd award at HackUSF 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Arthur1asdf/truckDriver
+demo_url: null
+video_url: https://www.youtube.com/embed/moiJdbqj3q0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/507/756/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - python
+  - react
+  - react-native
+builders:
+  - name: Bowen Groff
+  - name: TWilliamsA7 Williams
+  - name: Arthur Teng
+  - name: Natalia Cano

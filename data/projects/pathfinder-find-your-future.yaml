@@ -1,0 +1,23 @@
+id: pathfinder-find-your-future
+name: Pathfinder - Find your Future
+slug: pathfinder-find-your-future
+tagline: "Career exploration tool to help students from GCSEs to PhD to procedurally explore
+  potential branching career paths based on their unique profile, with chatbot "
+summary: Pathfinder - Find your Future received the Claude Track Winners award at Claude AI
+  Hackathon - Machines of Loving Grace in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/Henry-Skeels/claude-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/8YEXQ9N2myA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/783/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - python
+  - typescript
+builders:
+  - name: Matyas Vecsei
+  - name: Henry Skeels

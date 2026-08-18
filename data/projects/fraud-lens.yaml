@@ -1,0 +1,27 @@
+id: fraud-lens
+name: Fraud Lens
+slug: fraud-lens
+tagline: Detect AI-generated & manipulated media using explainable forensic signals combined with AI
+  in seconds and with very less computational resources compared to cu
+summary: Fraud Lens received the Chubb Challenge Prize award at Stevens QuackHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/harshadasari451/Fraud_AI
+demo_url: null
+video_url: https://www.youtube.com/embed/XNMSnVFSlWk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/067/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - pytorch
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Harsha Dasari
+  - name: Jitesh Dnyandeo Gadage

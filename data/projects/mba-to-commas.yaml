@@ -1,0 +1,20 @@
+id: mba-to-commas
+name: MBA to Commas
+slug: mba-to-commas
+tagline: "Free, AI-powered MBA admissions coaching for first-gen and underrepresented applicants —
+  the same playbook elite consultants charge $10K+ for, built end-to-end "
+summary: MBA to Commas received the Creative Content Award award at Build with MeDo Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Jy6vPm_Fvbg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/623/201/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Ifeanyi Ifediba

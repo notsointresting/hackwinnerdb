@@ -1,0 +1,24 @@
+id: do-not-consume
+name: Do Not Consume
+slug: do-not-consume
+tagline: 48 million Americans get sick from food every year. Our agents find the source before the
+  body count rises
+summary: Do Not Consume received the Runner-up of UiPath Maestro Case award at UiPath AgentHack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yadavmanan/donotconsume
+demo_url: null
+video_url: https://www.youtube.com/embed/RfJz4ZeRiSA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/844/794/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - flask
+  - python
+builders:
+  - name: NEEHARA AJITHKUMAR
+  - name: keerthana kumar
+  - name: jyothi krishna s
+  - name: Manan Yadav

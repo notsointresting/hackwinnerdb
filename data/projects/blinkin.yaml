@@ -1,0 +1,19 @@
+id: blinkin
+name: BlinkIn
+slug: blinkin
+tagline: Turn your blinks into messages. Encrypt them, and send them to another device.
+summary: BlinkIn received the Sustainability award at MakeMIT x Harvard 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/EslgzvM7t3Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/363/142/datas/medium.jpg
+categories:
+  - creative-tools
+technologies:
+  - esp32
+builders:
+  - name: Sami Maghnaoui
+  - name: Jose Pomavilla-Guaman
+  - name: Ava Brule

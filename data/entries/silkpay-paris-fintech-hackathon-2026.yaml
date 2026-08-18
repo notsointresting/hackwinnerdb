@@ -1,0 +1,20 @@
+id: silkpay-paris-fintech-hackathon-2026
+project_id: silkpay
+hackathon_id: paris-fintech-hackathon-2026
+submission_url: https://devpost.com/software/silkpay
+source:
+  platform: devpost
+  url: https://devpost.com/software/silkpay
+awards:
+  - type: other
+    title: Station F Workspace
+  - type: other
+    title: Lovable Credits
+  - type: other
+    title: Portage Ventures
+  - type: second-place
+    title: 2nd place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

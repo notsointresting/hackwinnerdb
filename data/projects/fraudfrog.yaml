@@ -1,0 +1,25 @@
+id: fraudfrog
+name: FraudFrog
+slug: fraudfrog
+tagline: "🐸 Meet FraudFrog: Tinder for fraud ops. Swipe right to approve clean transactions, swipe
+  left to block bad actors, and swipe up for Gemini AI-powered edge-case"
+summary: FraudFrog received the 1st Place - Valsoft Challenge award at MPC Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/benjaminsunliu/FraudFrog
+demo_url: null
+video_url: https://www.youtube.com/embed/3TlWvV0LBuw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/739/409/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - docker
+  - nextjs
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ricky Nguyen
+  - name: Xiaoxiao Tai
+  - name: Benjamin Liu
+  - name: alexanderluo10890 Luo

@@ -1,0 +1,20 @@
+id: timetable-go-pro
+name: Timetable Go Pro
+slug: timetable-go-pro
+tagline: It allows you to import an image of a timetable and uses AI to analyse and give suggestions
+  based on the timetable. You can add your own flexible dates.
+summary: Timetable Go Pro received the [Hackathons UK] Hackiest Hack award at Hack With SWiCS in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/361/883/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - gemini
+  - python
+builders:
+  - name: suernane A

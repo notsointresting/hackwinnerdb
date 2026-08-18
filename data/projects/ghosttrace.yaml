@@ -1,0 +1,23 @@
+id: ghosttrace
+name: GhostTrace
+slug: ghosttrace
+tagline: GhostTrace is a multi-agent cybersecurity IR system where Attacker and Skeptic agents
+  debate evidence. An Arbiter validates claims and generates confidence-scor
+summary: GhostTrace received the Top 9 Finalists award at NextGenHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SHYAMSUNDAR2396/GhostTrace-Core.git
+demo_url: null
+video_url: https://www.youtube.com/embed/JuL50C-MknQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/954/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Shyam Sundar m
+  - name: PK LATHISS KHUMAR

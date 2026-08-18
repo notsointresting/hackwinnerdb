@@ -1,0 +1,23 @@
+id: zerowall
+name: ZeroWall
+slug: zerowall
+tagline: ZeroWall is a generative AI firewall on NVIDIA DGX Spark that mutates code, replays
+  exploits, verifies safe behavior, and redeploys hardened variants in real ti
+summary: ZeroWall received the [Yconic] Neural Tide - NVDIA award at Hack@URI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DDjohnson21/ZeroWall
+demo_url: null
+video_url: https://www.youtube.com/embed/J3y-1RC4t2s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/366/241/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - docker
+  - fastapi
+  - python
+  - streamlit
+builders:
+  - name: Damien Johnson

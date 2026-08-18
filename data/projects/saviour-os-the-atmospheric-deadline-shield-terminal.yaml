@@ -1,0 +1,25 @@
+id: saviour-os-the-atmospheric-deadline-shield-terminal
+name: SAVIOUR.OS — The Atmospheric Deadline Shield Terminal
+slug: saviour-os-the-atmospheric-deadline-shield-terminal
+tagline: "A multi-agent AI copilot productivity OS that predicts missed deadlines, breaks down
+  tasks, automates recovery plans, and helps students and professionals stay "
+summary: SAVIOUR.OS — The Atmospheric Deadline Shield Terminal received the Stickers award at
+  Hackdays Prayagraj  in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/manishpatel00/Saviour-AI-The-Last-Minute-Life-Saver
+demo_url: null
+video_url: https://www.youtube.com/embed/Ky-tkYBW_Co
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/862/988/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - firebase
+  - google-ai-studio
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Manish Kumar

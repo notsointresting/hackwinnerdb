@@ -1,0 +1,19 @@
+id: aplicacion-de-idiomas-zuzu
+name: Aplicacion de Idiomas Zuzu
+slug: aplicacion-de-idiomas-zuzu
+tagline: Aplicacion innovadora para aprender idiomas de acuerdo a tus gustos
+summary: Aplicacion de Idiomas Zuzu received the Second Place award at Hack Days in Bogotá in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Sherlly Santander
+  - name: Sebastián Ramírez

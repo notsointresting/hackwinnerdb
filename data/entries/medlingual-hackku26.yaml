@@ -1,0 +1,15 @@
+id: medlingual-hackku26
+project_id: medlingual
+hackathon_id: hackku26
+submission_url: https://devpost.com/software/medlingual
+source:
+  platform: devpost
+  url: https://devpost.com/software/medlingual
+awards:
+  - type: other
+    title: H&R Block | two Logitech G733 Lightspeed Wireless RGB Gaming Headset and two Logitech G305
+      Lightspeed Wireless Gaming Mouse + G213 Prodigy Gaming Keyboard Bundle
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

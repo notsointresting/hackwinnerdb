@@ -1,0 +1,14 @@
+id: code-with-gemini-api
+name: Code with Gemini API
+slug: code-with-gemini-api
+organizer: []
+year: 2026
+sources:
+  - https://code-api.devpost.com/
+  - https://code-api.devpost.com/project-gallery?filter=winner
+website_url: https://code-api.devpost.com/
+platform: devpost
+participant_count: 174
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Code with Gemini API. Imported automatically."

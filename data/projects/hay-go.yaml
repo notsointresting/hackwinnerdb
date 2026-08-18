@@ -1,0 +1,17 @@
+id: hay-go
+name: Hay-Go
+slug: hay-go
+tagline: A pollen tracker that helps you route the optimal exercise path for minimal pollen exposure.
+summary: Hay-Go received the $3000+ worth of prizes award at Equinox Vancouver Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/soulmars432-ctrl/Hay-Go
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/595/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: soul mars

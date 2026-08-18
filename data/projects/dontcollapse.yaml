@@ -1,0 +1,26 @@
+id: dontcollapse
+name: DontCollapse
+slug: dontcollapse
+tagline: DontCollapse uses AI to identify high-risk urban zones by analyzing flood, infrastructure,
+  and social data, delivering fragility scores and clear actions to pre
+summary: DontCollapse received the Best Design Hack award at HackUSF 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/narcistiq/DontCollapse
+demo_url: null
+video_url: https://www.youtube.com/embed/iz3KyI7E0HU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/685/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - groq
+  - javascript
+  - mapbox
+  - python
+builders:
+  - name: Colin Onevathana
+  - name: Tiffany Huang
+  - name: Sweetest Deputy

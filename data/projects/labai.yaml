@@ -1,0 +1,23 @@
+id: labai
+name: LabAI
+slug: labai
+tagline: "LabAI: A virtual AI-powered lab for STEM. With 100+ interactive experiments and real-time
+  AI tutoring, we provide accessible science learning for students witho"
+summary: LabAI received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/faaad766/LABAI
+demo_url: null
+video_url: https://www.youtube.com/embed/7oWxRlbtfPk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/126/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - gemini
+  - javascript
+  - supabase
+  - typescript
+builders:
+  - name: Fawad Nadeem

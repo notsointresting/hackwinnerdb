@@ -1,0 +1,23 @@
+id: opsbot
+name: Opsbot
+slug: opsbot
+tagline: Opsbot is an AI front desk for events and coworking spaces. Visitors ask questions from any
+  phone, get live answers, and see a robot guide them to check-in, hel
+summary: "Opsbot received the ​Special Award: Most Empathic Robot (Interhuman AI Track) award at
+  Robotic Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/borjasolerme/opsbot
+demo_url: null
+video_url: https://www.youtube.com/embed/tkUf0umhlLY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/795/741/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - nextjs
+  - openai
+  - python
+builders:
+  - name: Borja Soler

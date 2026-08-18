@@ -1,0 +1,24 @@
+id: syncos
+name: SyncOS
+slug: syncos
+tagline: A context-aware AI workspace that unifies learning, tracking, and tutoring.
+summary: SyncOS received the Winner(Best gemini build) – BuildX Nagpur award at BuildX Nagpur in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/543/168/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - google-cloud
+  - react
+  - react-native
+builders:
+  - name: PIYUSH DESHKAR
+  - name: Ahinsa Dhote
+  - name: Siya Mandhane
+  - name: Eyenesh Agrawal

@@ -1,0 +1,14 @@
+id: chorderlate-techvision-uxhack
+project_id: chorderlate
+hackathon_id: techvision-uxhack
+submission_url: https://devpost.com/software/chorderlate
+source:
+  platform: devpost
+  url: https://devpost.com/software/chorderlate
+awards:
+  - type: category-winner
+    title: Best Figma Design
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

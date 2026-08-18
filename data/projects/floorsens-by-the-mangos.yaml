@@ -1,0 +1,25 @@
+id: floorsens-by-the-mangos
+name: FloorSens by The Mangos
+slug: floorsens-by-the-mangos
+tagline: FloorSense application looks at floor plans, borrowing the same spatial thinking used in
+  tactical games like Rainbow Six Siege and CS:GO to assess real architec
+summary: FloorSens by The Mangos received the Best Use of MongoDB Atlas award at SotonHack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Alchemy06/FloorSense/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/443/730/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - claude
+  - elevenlabs
+  - kotlin
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: Adit Sharma
+  - name: Raghav C
+  - name: Ervin Oks

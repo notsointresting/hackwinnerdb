@@ -1,0 +1,20 @@
+id: shaddy
+name: Shaddy
+slug: shaddy
+tagline: GPU coding unlocks a whole new world, for digital artists and programmers. Yet access to
+  the frontiers are barred behind unintuitive paradigms and lack of resou
+summary: Shaddy received the Category Winner award at HackTheMountain 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/017/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - typescript
+builders:
+  - name: Andy Han
+  - name: Falilou Khouma
+  - name: Badr Zejli

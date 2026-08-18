@@ -1,0 +1,24 @@
+id: wallhax
+name: WallHax
+slug: wallhax
+tagline: "Shared situational awareness in AR: Many devices, one picture of the world"
+summary: WallHax received the Best AI & Data Science award at HooHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HyunLee8/wallhax
+demo_url: null
+video_url: https://www.youtube.com/embed/II26dfXLtV0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/415/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - ar-vr
+technologies:
+  - javascript
+  - python
+  - swift
+builders:
+  - name: Aryan Thind
+  - name: Isaac Lee
+  - name: Ken Zhou
+  - name: Tony Lam

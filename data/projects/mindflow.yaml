@@ -1,0 +1,21 @@
+id: mindflow
+name: Mindflow
+slug: mindflow
+tagline: It’s a thinking system that maps your notes into a visual network so you can discover
+  patterns in your own ideas.
+summary: Mindflow received the Honorable Mentions award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rkchung1/maddata
+demo_url: null
+video_url: https://www.youtube.com/embed/vKL3-Tq-Ons
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/360/817/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ryan Chung
+  - name: Duy Tran

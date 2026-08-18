@@ -1,0 +1,22 @@
+id: stem-ai-tutor
+name: STEM-AI-TUTOR
+slug: stem-ai-tutor
+tagline: STEM AI is an intelligent learning platform designed to help students improve their
+  understanding in STEM subjects. By creating a highly personalized experience
+summary: STEM-AI-TUTOR received the Participation Prize award at DSH Hacks V1 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/skN6L7rUxxU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/376/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - groq
+  - postgresql
+  - react-native
+builders:
+  - name: Harshini Kanithi

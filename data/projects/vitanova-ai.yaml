@@ -1,0 +1,21 @@
+id: vitanova-ai
+name: VITANOVA - AI
+slug: vitanova-ai
+tagline: “VitaNova AI – Your intelligent, multilingual health companion for body and mind.”
+summary: VITANOVA - AI received the Session B (Virtual) Winners award at DevFest + AI Hackathon
+  Spring 2026 — Build with AI in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/KRITHIKA-S-797/vitanova-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/hK9Rz-3WIy8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/631/783/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+  - sqlite
+  - streamlit
+builders: []

@@ -1,0 +1,14 @@
+id: atelier-ai-art-teacher-and-mentor-includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+project_id: atelier-ai-art-teacher-and-mentor
+hackathon_id: includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+submission_url: https://devpost.com/software/atelier-ai-art-teacher-and-mentor
+source:
+  platform: devpost
+  url: https://devpost.com/software/atelier-ai-art-teacher-and-mentor
+awards:
+  - type: track-winner
+    title: "Track Winner: AI Creative Amplifier"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

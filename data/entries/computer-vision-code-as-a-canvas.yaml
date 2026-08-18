@@ -1,0 +1,14 @@
+id: computer-vision-code-as-a-canvas
+project_id: computer-vision
+hackathon_id: code-as-a-canvas
+submission_url: https://devpost.com/software/computer-vision-jkdw02
+source:
+  platform: devpost
+  url: https://devpost.com/software/computer-vision-jkdw02
+awards:
+  - type: second-place
+    title: 2nd Runners-up (Both Tracks)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

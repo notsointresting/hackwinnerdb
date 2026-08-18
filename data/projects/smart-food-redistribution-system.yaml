@@ -1,0 +1,20 @@
+id: smart-food-redistribution-system
+name: Smart Food Redistribution System
+slug: smart-food-redistribution-system
+tagline: FoodBridge uses geolocation to connect restaurants and stores with excess food directly to
+  nearby shelters and food banks - turning today's waste into tomorrow'
+summary: Smart Food Redistribution System received the Best Hack award at JPS Girls Who Code 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/aDnxrQdvafM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/230/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Neha Shinil
+  - name: Hannah Kochher
+  - name: Anmol Bhowmik

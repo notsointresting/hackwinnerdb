@@ -1,0 +1,24 @@
+id: chudops
+name: ChudOps
+slug: chudops
+tagline: Real-time seismic risk intelligence for California's solar grid; because the earthquake and
+  the cloud outage arrive at the same time.
+summary: ChudOps received the Cloud track award at DataHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/s_-reR1OfEw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/584/406/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Rafael Lopez
+  - name: Jordan Valerio

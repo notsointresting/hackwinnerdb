@@ -1,0 +1,23 @@
+id: finlife
+name: FinLife
+slug: finlife
+tagline: FinLife is a mobile-first financial life simulator that transforms financial literacy from
+  passive learning into an interactive experience for GenZ Indians.
+summary: FinLife received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vaishnaviigithub/finLife
+demo_url: null
+video_url: https://www.youtube.com/embed/aCkf32jQlSA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Surohita Snigdha Satrasala
+  - name: Vaishnavi Chada

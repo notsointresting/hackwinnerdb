@@ -1,0 +1,14 @@
+id: hume-hack-the-6ix-2026
+project_id: hume
+hackathon_id: hack-the-6ix-2026
+submission_url: https://devpost.com/software/the-industry-standard
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-industry-standard
+awards:
+  - type: other
+    title: "CORTEX BioSciences: GROUD TRUTH"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

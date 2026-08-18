@@ -1,0 +1,16 @@
+id: amberai-hackup
+project_id: amberai
+hackathon_id: hackup
+submission_url: https://devpost.com/software/amberai
+source:
+  platform: devpost
+  url: https://devpost.com/software/amberai
+awards:
+  - type: other
+    title: MacBook Neos
+  - type: other
+    title: Sony Headphones
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

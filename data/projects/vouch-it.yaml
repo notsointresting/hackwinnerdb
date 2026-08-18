@@ -1,0 +1,21 @@
+id: vouch-it
+name: Vouch It
+slug: vouch-it
+tagline: Vouch It is Decentralized Reputation for Freelancers. For gig workers, reputation is
+  important but they are not saved across platforms. Vouch it can help transf
+summary: Vouch It received the [MLH] Best Use of Solana award at WildHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jasonlin1222/wildhacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/w50GhMe_PGc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/997/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - nextjs
+  - rust
+  - solana
+builders:
+  - name: Jason Lin
+  - name: Anthony Chen

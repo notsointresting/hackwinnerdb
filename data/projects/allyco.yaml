@@ -1,0 +1,25 @@
+id: allyco
+name: AllyCo
+slug: allyco
+tagline: Ever struggled to speak up in a tough situation at work or with friends? Our app helps you
+  prepare, giving you the confidence and guidance to stand up for yours
+summary: AllyCo received the [MLH] Best Use of ElevenLabs award at WiCHacks '26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sbajrac2/wichacks26.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/170/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - react
+  - vercel
+builders:
+  - name: Shrishtika Bajracharya
+  - name: Bivushi Basnet
+  - name: Praneeta Pradhan
+  - name: Bivushi777

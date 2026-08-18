@@ -1,0 +1,26 @@
+id: sapling
+name: Sapling
+slug: sapling
+tagline: "Sapling is an AI teaching platform that builds a live knowledge graph in real time as you
+  learn. Watch your understanding grow, take adaptive quizzes, and find "
+summary: Sapling received the AI Tutor award at Civic Hacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SaplingLearn/Sapling
+demo_url: null
+video_url: https://www.youtube.com/embed/nR59UYz_uZE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/951/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Andres Lopez
+  - name: Jack He
+  - name: Luke Cooper
+  - name: Jose Cruz

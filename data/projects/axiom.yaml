@@ -1,0 +1,27 @@
+id: axiom
+name: Axiom
+slug: axiom
+tagline: "Claude code for game development: Axiom"
+summary: Axiom received the [GenAI Genesis] Top 2 Teams - Team 1 (In-Person Only) award at  GenAI
+  Genesis 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/MankyDanky/genai-genesis-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/3ZQvP4RUvsA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/438/044/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - anthropic
+  - claude
+  - elevenlabs
+  - gemini
+  - typescript
+builders:
+  - name: Kenny Wu
+  - name: Aadi Kulsh
+  - name: Aksshatt Bariar
+  - name: Stanley Pang

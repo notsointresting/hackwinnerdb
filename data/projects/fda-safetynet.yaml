@@ -1,0 +1,21 @@
+id: fda-safetynet
+name: FDA SafetyNet
+slug: fda-safetynet
+tagline: Every day, 4 FDA drug recalls hit the market. 10% are lethal Class I hazards. FDA SafetyNet
+  instantly cross-references real-time recalls with patient records to
+summary: "FDA SafetyNet received the Conquer with Context: Best Use of Airbyte's Agent Engine award
+  at Harness Engineering Hack in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/mansiguptacs/FDASafetyNet
+demo_url: null
+video_url: https://www.youtube.com/embed/RgiZAAYiIB8
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - python
+builders:
+  - name: Udit Gupta

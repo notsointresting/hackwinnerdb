@@ -1,0 +1,22 @@
+id: ecotrack-ai
+name: EcoTrack AI
+slug: ecotrack-ai
+tagline: An AI-powered sustainability companion that helps users measure, understand, and reduce
+  their carbon footprint through intelligent insights and personalized rec
+summary: EcoTrack AI received the Best Use of Gemini API award at Hack Days Varanasi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/751/436/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - firebase
+  - gemini
+  - typescript
+builders:
+  - name: Anoop Kumar

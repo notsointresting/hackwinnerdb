@@ -1,0 +1,26 @@
+id: doceo
+name: Doceo
+slug: doceo
+tagline: AI Piano Tutor
+summary: Doceo received the MIDI Controller award at EurekaHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dzkchen/doceo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/638/010/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - nextjs
+  - opencv
+  - python
+  - react
+  - typescript
+builders:
+  - name: David Chen

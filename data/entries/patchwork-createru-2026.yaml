@@ -1,0 +1,14 @@
+id: patchwork-createru-2026
+project_id: patchwork
+hackathon_id: createru-2026
+submission_url: https://devpost.com/software/patchwork-mo1dp2
+source:
+  platform: devpost
+  url: https://devpost.com/software/patchwork-mo1dp2
+awards:
+  - type: first-place
+    title: 1st Place Prizes!
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

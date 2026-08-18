@@ -1,0 +1,30 @@
+id: below-hackdays-delhi
+project_id: below
+hackathon_id: hackdays-delhi
+submission_url: https://devpost.com/software/below
+source:
+  platform: devpost
+  url: https://devpost.com/software/below
+awards:
+  - type: other
+    title: Google AI Pro Postcard
+  - type: other
+    title: Gemini Hack Days Postcard
+  - type: category-winner
+    title: Gemini Prize Category Postcard
+  - type: other
+    title: MLH Logo Sticker
+  - type: other
+    title: MLH Season Sticker
+  - type: other
+    title: MLH LEARN Sticker
+  - type: other
+    title: MLH BUILD Sticker
+  - type: other
+    title: MLH SHARE Sticker
+  - type: other
+    title: MLH Astronaut Sticker
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

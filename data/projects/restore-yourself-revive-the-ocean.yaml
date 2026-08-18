@@ -1,0 +1,21 @@
+id: restore-yourself-revive-the-ocean
+name: Restore Yourself. Revive the Ocean.
+slug: restore-yourself-revive-the-ocean
+tagline: habit-tracking web application where every meaningful habit helps restore a living
+  underwater ecosystem.
+summary: Restore Yourself. Revive the Ocean. received the Google AI Pro Postcard award at HackDays
+  Delhi in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/264/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - java
+builders:
+  - name: alok yadav
+  - name: Lucky Singh
+  - name: dredcake singh

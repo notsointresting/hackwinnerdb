@@ -1,0 +1,24 @@
+id: paytial
+name: Paytial
+slug: paytial
+tagline: "Paytial is an AI-powered WebSpatial checkout platform that transforms e-commerce into
+  immersive 3D experiences with real-time guidance and one-click blockchain "
+summary: "Paytial received the MLH: Best Use of Snowflake API award at ImmerseGT 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/YearningAsian/Paytial
+demo_url: null
+video_url: https://www.youtube.com/embed/d3c6gQkmD_k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/163/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - azure
+  - elevenlabs
+  - solana
+  - typescript
+builders:
+  - name: Colin Onevathana
+  - name: Yunchan Kwon

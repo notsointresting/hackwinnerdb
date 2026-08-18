@@ -1,0 +1,24 @@
+id: prompt-golf
+name: Prompt Golf
+slug: prompt-golf
+tagline: Race your friends to recreate AI images with text prompts. Write fast, pick your best shot,
+  then vote whose prompt nailed it. Most votes wins.
+summary: Prompt Golf received the [Main Track] 1st Place award at KentHackIt in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AKforCodes/PromptGolf
+demo_url: null
+video_url: https://www.youtube.com/embed/TFaQ8ENYCe4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/438/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - redis
+  - typescript
+  - vercel
+builders:
+  - name: Daniel Olusakin
+  - name: Anwar Rafiu
+  - name: Sean
+  - name: Akin Ibitoye

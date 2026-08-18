@@ -1,0 +1,14 @@
+id: votetrack-hackmhc-plus-plus
+project_id: votetrack
+hackathon_id: hackmhc-plus-plus
+submission_url: https://devpost.com/software/votetrack
+source:
+  platform: devpost
+  url: https://devpost.com/software/votetrack
+awards:
+  - type: category-winner
+    title: Best Overall Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

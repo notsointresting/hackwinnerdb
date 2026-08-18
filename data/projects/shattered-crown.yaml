@@ -1,0 +1,23 @@
+id: shattered-crown
+name: Shattered Crown
+slug: shattered-crown
+tagline: Chess, but pieces fight for their lives. ShatteredCrown is a browser-based battle chess
+  game where every piece carries HP, wields unique abilities, and must sur
+summary: Shattered Crown received the Third Place award at DDC x Ignition Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/irisxu/ShatteredCrown.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - gaming
+technologies:
+  - javascript
+  - python
+builders:
+  - name: IrisXu307 Xu
+  - name: Michael Liu
+  - name: Aiden Geng
+  - name: ANTIP3RF3CT Lu

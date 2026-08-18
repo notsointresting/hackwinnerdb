@@ -1,0 +1,14 @@
+id: taxiway-reliability-stemist-hacks-iv
+project_id: taxiway-reliability
+hackathon_id: stemist-hacks-iv
+submission_url: https://devpost.com/software/taxiway-reliability
+source:
+  platform: devpost
+  url: https://devpost.com/software/taxiway-reliability
+awards:
+  - type: second-place
+    title: Best Vision and Hardware Hack 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

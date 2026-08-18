@@ -1,0 +1,24 @@
+id: legaleasy
+name: LegalEasy
+slug: legaleasy
+tagline: Understand what you're signing. Before you sign it.
+summary: "LegalEasy received the Referral Reward Program for participants: award at Quantum Sprint
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/642/086/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+  - enterprise
+technologies:
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Venkata Siva Lalitaaditya Duggi
+  - name: Rohiith Krishnan. R
+  - name: Sunayana Yakkala
+  - name: Ganesh Siddhartha

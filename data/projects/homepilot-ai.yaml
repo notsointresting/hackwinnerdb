@@ -1,0 +1,25 @@
+id: homepilot-ai
+name: HomePilot AI
+slug: homepilot-ai
+tagline: "AI for Good: A demo that defines a real-world problem outside of college life and shows
+  the AI addressing it."
+summary: HomePilot AI received the Cash Prize (150 per team) award at HootHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ba-00001/hoothacks
+demo_url: null
+video_url: https://www.youtube.com/embed/FOuoqQQCfgY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/192/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - defi
+technologies:
+  - flutter
+  - google-cloud
+  - java
+  - python
+builders:
+  - name: BRIAN B.
+  - name: Pablo Valdes
+  - name: Amilcar Pena

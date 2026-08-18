@@ -1,0 +1,24 @@
+id: auris
+name: Auris
+slug: auris
+tagline: Auris uses a webcam to tag vitals (HRV/Breath) to specific PTSD clinical questions. We use
+  Snowflake AI to cluster triggers, giving therapists objective data on
+summary: Auris received the Best Health & Wellness award at HooHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vishnu-kalaparty/hoohacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/485/404/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - kotlin
+builders:
+  - name: Arjunsivakumar28 Sivakumar
+  - name: Vishnu
+  - name: Pranay Dhalwani
+  - name: Xing gao

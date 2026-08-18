@@ -1,0 +1,23 @@
+id: fishfinder
+name: FishFinder
+slug: fishfinder
+tagline: "FishFinder is a resource to allow the community to access up to date, globally accurate
+  info about endangered fish populations. Our goal is to spread awareness "
+summary: FishFinder received the MLH || Best Use of Gen AI || Assorted Prizes award at MasseyHacks
+  XII in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Brayden7627/FishFinder
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/521/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - flask
+  - python
+builders:
+  - name: Brayden Wang
+  - name: Joel Langton
+  - name: Heidi Long
+  - name: Jasmine Wan

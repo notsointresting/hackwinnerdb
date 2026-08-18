@@ -1,0 +1,29 @@
+id: tuneacademy
+name: TuneAcademy
+slug: tuneacademy
+tagline: TuneAcademy connects music students with the perfect instructor through AI-powered weakness
+  analysis, verified ratings, and a musician social feed. Learn smarte
+summary: "TuneAcademy received the Sponsor Challenge: Best Prenora Dynamics Hack award at Hack
+  Brooklyn in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/LoistCloist/brooklyn_hackathon_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/aZhOMv4DRpE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/204/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: John Ortega
+  - name: Fiona Vladi
+  - name: Fardin Saraf
+  - name: Hein Zarni Aung

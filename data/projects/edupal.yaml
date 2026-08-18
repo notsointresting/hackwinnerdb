@@ -1,0 +1,23 @@
+id: edupal
+name: EduPal
+slug: edupal
+tagline: Turn messy notes into flashcards, summaries, and fun study games. EduPal transforms passive
+  studying into interactive learning so students remember more in less
+summary: EduPal received the Best use of AI award at Witathon 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/5iVo5W3aT8Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/409/274/datas/medium.png
+categories:
+  - education
+  - gaming
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Shreya Chawla
+  - name: uthnimat
+  - name: Ridhima Bhamu
+  - name: Leanne Seet

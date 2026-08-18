@@ -1,0 +1,22 @@
+id: legalos
+name: LegalOS
+slug: legalos
+tagline: "LegalOS lets anyone upload a legal document and instantly know what's dangerous, whether
+  to fight or settle, and how to argue their case — complete with a live "
+summary: LegalOS received the [MLH] Best Use of ElevenLabs award at Los Altos Hacks X in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mqntis/legalOS
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/139/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - react
+  - tailwind-css
+  - vercel
+builders:
+  - name: Yba1 SRIVASTAVA
+  - name: Prayag Nambiar

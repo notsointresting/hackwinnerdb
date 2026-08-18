@@ -1,0 +1,31 @@
+id: patientpulse
+name: PatientPulse
+slug: patientpulse
+tagline: Clinicians are drowning in fragmented patient data. PatientPulse unifies EHRs, wearables,
+  and patient signals into a real-time view to enable earlier interventi
+summary: PatientPulse received the LOF Best Use of AI in a Healthcare Project award at Scarlet Hacks
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pprenapurkar/Patientpulse
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/250/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - anthropic
+  - claude
+  - docker
+  - fastapi
+  - java
+  - javascript
+  - postgresql
+  - python
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Prasanna Pravin Renapurkar
+  - name: Rahul Sanjay Mandviya

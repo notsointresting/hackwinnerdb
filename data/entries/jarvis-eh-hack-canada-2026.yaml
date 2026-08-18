@@ -1,0 +1,14 @@
+id: jarvis-eh-hack-canada-2026
+project_id: jarvis-eh
+hackathon_id: hack-canada-2026
+submission_url: https://devpost.com/software/jarvis-eh
+source:
+  platform: devpost
+  url: https://devpost.com/software/jarvis-eh
+awards:
+  - type: category-winner
+    title: Most technically complex AI hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

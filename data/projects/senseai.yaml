@@ -1,0 +1,19 @@
+id: senseai
+name: SenseAI
+slug: senseai
+tagline: Sense Before it's Serious
+summary: SenseAI received the The "Keep Shipping" Commitment (Honorable Mentions) award at day zero
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/oGQ-duZVNnE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/892/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - flutter
+builders:
+  - name: ANISHA SHANKAR
+  - name: TEJAS GADGE

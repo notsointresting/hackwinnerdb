@@ -1,0 +1,25 @@
+id: motormind
+name: MotorMind
+slug: motormind
+tagline: MotorMind turns training videos on YouTube into interactive courses with AI-generated
+  notes, quizzes, diagrams and a tutor, so creators do not have to rebuild l
+summary: MotorMind received the [MLH] Best Use of Solana award at KentHackIt in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/t3rryhuang/MotorMind
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/534/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - django
+  - gemini
+  - solana
+  - sqlite
+builders:
+  - name: Terry Huang
+  - name: Aligbe Emmanuel
+  - name: Eron Jacob Buenaflor

@@ -1,0 +1,14 @@
+id: invock-stemist-hacks-iv
+project_id: invock
+hackathon_id: stemist-hacks-iv
+submission_url: https://devpost.com/software/invock
+source:
+  platform: devpost
+  url: https://devpost.com/software/invock
+awards:
+  - type: second-place
+    title: Best Security or Privacy 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,23 @@
+id: voice-atlas
+name: Voice Atlas
+slug: voice-atlas
+tagline: Walk into voice memories planted by friends and family, places remember what people said there.
+summary: Voice Atlas received the Top 10 Finalists award at ImmerseGT 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adityajha25/ImmerseGTAR.git
+demo_url: null
+video_url: https://www.youtube.com/embed/5fAuGQN0fwg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/556/640/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Aditya Jha
+  - name: Om Patil
+  - name: Akarsh Duddu
+  - name: Ibrahim Irfan

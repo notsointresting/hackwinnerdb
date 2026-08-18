@@ -1,0 +1,21 @@
+id: walkable
+name: Walkable
+slug: walkable
+tagline: walk through any app like an expert
+summary: Walkable received the Best use of Ghost award at Ship to Prod - Agentic Engineering
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/betterclever/walkableapp
+demo_url: null
+video_url: https://www.youtube.com/embed/4rVQmcmL58g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/127/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - openai
+  - swift
+builders:
+  - name: Pranjal Paliwal

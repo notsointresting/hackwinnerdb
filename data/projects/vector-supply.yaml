@@ -1,0 +1,20 @@
+id: vector-supply
+name: Vector Supply
+slug: vector-supply
+tagline: "Our AI Platform enables for the efficiency of supply chains by using suppliers and
+  manufacturers from around the world. It enables companies to easily create a "
+summary: Vector Supply received the 3-D Pen award at WaveHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/hU2iknJJBVo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/741/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Aaryan Nadgauda
+  - name: Himaghna R

@@ -1,0 +1,14 @@
+id: fairlend-scarlet-hacks
+project_id: fairlend
+hackathon_id: scarlet-hacks
+submission_url: https://devpost.com/software/fairlend-cj805r
+source:
+  platform: devpost
+  url: https://devpost.com/software/fairlend-cj805r
+awards:
+  - type: category-winner
+    title: Best FinTech Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

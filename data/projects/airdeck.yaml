@@ -1,0 +1,23 @@
+id: airdeck
+name: AirDeck
+slug: airdeck
+tagline: AirDeck lets you control slides with hand gestures and whispers AI cues into your earpiece
+  as each slide appears. No clicker, no notes, no memorizing.
+summary: AirDeck received the First award at TillyHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bournechoi4353/AirDeck,
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Sam Moen
+  - name: bournechoi4353 Choi
+  - name: BiglyNing Ning

@@ -1,0 +1,22 @@
+id: buzzy-ai
+name: Buzzy ai
+slug: buzzy-ai
+tagline: Buzzy AI is a Nepali voice-based financial assistant that tracks expenses, manages budgets,
+  and gives spoken insights—just by listening to you.
+summary: Buzzy ai received the Best Use of Gemini API award at Infinity Hackday in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yajju-Dangol/Buzzy
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/544/180/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - supabase
+builders:
+  - name: YAJJU DANGOL
+  - name: Abastha Basukala

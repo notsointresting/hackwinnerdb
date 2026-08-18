@@ -1,0 +1,20 @@
+id: pic-perfect-buddy
+name: pic perfect buddy
+slug: pic-perfect-buddy
+tagline: "**Pic-Perfect Buddy** uses location photos to suggest outfits and funny poses. Pick styles
+  like Desi or Cool for a tailored vibe check that makes every photo op"
+summary: pic perfect buddy received the Build with AI Swags award at Build with AI Hack Days @UITS
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - typescript
+builders:
+  - name: Razia Rosie

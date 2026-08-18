@@ -1,0 +1,16 @@
+id: student-companion-ai-platform-claude-builders-club-hackathon-alu
+project_id: student-companion-ai-platform
+hackathon_id: claude-builders-club-hackathon-alu
+submission_url: https://devpost.com/software/student-companion-ai-chatbot
+source:
+  platform: devpost
+  url: https://devpost.com/software/student-companion-ai-chatbot
+awards:
+  - type: other
+    title: Participation Prize
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

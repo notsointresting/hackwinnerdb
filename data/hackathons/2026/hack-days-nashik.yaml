@@ -1,0 +1,14 @@
+id: hack-days-nashik
+name: Hack Days Nashik
+slug: hack-days-nashik
+organizer: []
+year: 2026
+sources:
+  - https://hack-days-nashik.devpost.com/
+  - https://hack-days-nashik.devpost.com/project-gallery?filter=winner
+website_url: https://hack-days-nashik.devpost.com/
+platform: devpost
+participant_count: 24
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Days Nashik. Imported automatically."

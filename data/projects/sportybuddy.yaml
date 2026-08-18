@@ -1,0 +1,26 @@
+id: sportybuddy
+name: SportyBuddy
+slug: sportybuddy
+tagline: A game is waiting. A teammate is missing. Sporty Buddy connects people in Chicago through
+  pickup sports, making fitness, friendship, and community accessible to
+summary: SportyBuddy received the Best Overall Theme Solution award at DPI CS Innovators Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pranavalathi/sporty-buddy
+demo_url: null
+video_url: https://www.youtube.com/embed/jmdkOGx3K6g
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - figma
+  - firebase
+  - javascript
+  - react
+builders:
+  - name: Pranav Alaparthi
+  - name: Utsav Gandhi
+  - name: Logan Taylor
+  - name: Abdullah

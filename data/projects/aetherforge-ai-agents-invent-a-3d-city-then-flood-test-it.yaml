@@ -1,0 +1,24 @@
+id: aetherforge-ai-agents-invent-a-3d-city-then-flood-test-it
+name: Aetherforge - AI agents invent a 3D city—then flood-test it
+slug: aetherforge-ai-agents-invent-a-3d-city-then-flood-test-it
+tagline: What if you summoned a city into existence by typing? AI agents design it live, then
+  flood-test it—so your design isn’t judged by slides, but by survival metric
+summary: Aetherforge - AI agents invent a 3D city—then flood-test it received the 1st place award at
+  The Blueprint Hackathon  (For All Ages, July 17th-31st) in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/prakshark/aetherforge
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/031/134/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Prakhar Srivastava

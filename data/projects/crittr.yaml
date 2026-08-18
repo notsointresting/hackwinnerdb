@@ -1,0 +1,20 @@
+id: crittr
+name: Crittr
+slug: crittr
+tagline: Crittr is a platform that brings back 2016, going outside and enjoying time with
+  family/friends. Bring your virtual pet with you on adventures and complete chal
+summary: Crittr received the Reward award at Product Design Sprint in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/x8mOuCoHezM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/312/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Samriddhi Makasare
+  - name: Princess Idul
+  - name: Wing Huen Shing

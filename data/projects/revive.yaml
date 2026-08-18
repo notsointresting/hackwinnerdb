@@ -1,0 +1,27 @@
+id: revive
+name: Revive
+slug: revive
+tagline: AI-powered CPR training on a doll. Real compressions, live vitals, AI coaching. Save lives for $17.
+summary: Revive received the [MLH] Best Use of ElevenLabs award at Hackabull VII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/VickyAnaJ/Revive.git
+demo_url: null
+video_url: https://www.youtube.com/embed/mbjH27CmkY0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/220/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - arduino
+  - elevenlabs
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Ana Jaramillo
+  - name: keillycespedes Cespedes
+  - name: shiv Nagamandla
+  - name: Hareng8374 Gannarapu

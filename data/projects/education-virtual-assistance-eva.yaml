@@ -1,0 +1,20 @@
+id: education-virtual-assistance-eva
+name: Education Virtual Assistance (EVA)
+slug: education-virtual-assistance-eva
+tagline: This is a virtual tool to mitigate confusion during lectures and enhance peer collaboration.
+summary: Education Virtual Assistance (EVA) received the Empowered Learning award at Civic Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Mya Kelly
+  - name: Sophia Yee
+  - name: Jolin Edmondson

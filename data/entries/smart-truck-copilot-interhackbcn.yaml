@@ -1,0 +1,14 @@
+id: smart-truck-copilot-interhackbcn
+project_id: smart-truck-copilot
+hackathon_id: interhackbcn
+submission_url: https://devpost.com/software/truck-copilot
+source:
+  platform: devpost
+  url: https://devpost.com/software/truck-copilot
+awards:
+  - type: second-place
+    title: 2nd price - DAMM Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: south-los-angeles-air-watch-app
+name: South Los Angeles Air Watch (App)
+slug: south-los-angeles-air-watch-app
+tagline: SoLA Air Watch helps South LA communities identify air pollution and mold risks using a
+  simple app. It bridges the digital divide by turning complex environment
+summary: South Los Angeles Air Watch (App) received the Information here will be updated soon. award
+  at VISION HACK - Pi Day  in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/437/309/datas/gallery.jpg
+categories:
+  - climate
+  - iot
+  - ar-vr
+technologies:
+  - firebase
+  - gemini
+builders:
+  - name: vanessa  peralta

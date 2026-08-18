@@ -1,0 +1,19 @@
+id: replay
+name: Replay
+slug: replay
+tagline: Replay makes AI-assisted clinical decisions transparent, verifiable and replayable.
+summary: Replay received the Top Overall Winners award at Multiagents Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/builtbydans/Replay-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/853/538/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: Danish Shafi

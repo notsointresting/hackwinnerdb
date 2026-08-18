@@ -1,0 +1,14 @@
+id: flows-flood-warning-system-sispik-hacks-1-0
+project_id: flows-flood-warning-system
+hackathon_id: sispik-hacks-1-0
+submission_url: https://devpost.com/software/flows-flood-warning-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/flows-flood-warning-system
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

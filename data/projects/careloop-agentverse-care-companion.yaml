@@ -1,0 +1,21 @@
+id: careloop-agentverse-care-companion
+name: CareLoop Agentverse Care Companion
+slug: careloop-agentverse-care-companion
+tagline: CareLoop coordinates prescriptions, appointments, OTC medicine, FET payments, calendars,
+  and caregiver updates through Fetch.ai agents
+summary: "CareLoop Agentverse Care Companion received the Fetch.ai: OmegaClaw Skill Forge powered by
+  Agentverse award at LA Hacks 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4RKYgNmFiSM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/399/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - python
+builders:
+  - name: Aditya Ashok Lagad

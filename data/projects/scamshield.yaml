@@ -1,0 +1,28 @@
+id: scamshield
+name: ScamShield
+slug: scamshield
+tagline: "ScamShield listens for scam calls in real time, warns seniors through lights, voice, and
+  display alerts, and instantly notifies trusted family through a secure "
+summary: ScamShield received the Best Overall - 3rd Place award at HooHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TristanGru/ScamShield
+demo_url: null
+video_url: https://www.youtube.com/embed/z5F1gDdCr84
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/174/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - python
+  - raspberry-pi
+  - sqlite
+  - twilio
+  - typescript
+  - vercel
+builders:
+  - name: Caleb Wiese
+  - name: TristanGru Grubbs
+  - name: Alex Clunan

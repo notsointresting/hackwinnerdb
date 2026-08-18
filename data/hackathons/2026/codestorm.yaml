@@ -1,0 +1,14 @@
+id: codestorm
+name: CodeStorm
+slug: codestorm
+organizer: []
+year: 2026
+sources:
+  - https://codestorm.devpost.com/
+  - https://codestorm.devpost.com/project-gallery?filter=winner
+website_url: https://codestorm.devpost.com/
+platform: devpost
+participant_count: 158
+prize_pool: null
+currency: null
+description: "Devpost hackathon: CodeStorm. Imported automatically."

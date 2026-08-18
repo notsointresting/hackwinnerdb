@@ -1,0 +1,26 @@
+id: eyta-ai-smart-assistive-glasses-for-the-visually-impaired
+name: Eyta AI - Smart Assistive Glasses for the Visually Impaired
+slug: eyta-ai-smart-assistive-glasses-for-the-visually-impaired
+tagline: AI powered smart glasses and mobile assistant that help visually impaired individuals
+  navigate, detect objects, read text and receive real time voice guidance.
+summary: "Eyta AI - Smart Assistive Glasses for the Visually Impaired received the BEST AI PROJECT
+  award at Girls in STEM: AI for Social Good Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/hisn00/smart-glasses-assistive-device
+demo_url: null
+video_url: https://www.youtube.com/embed/GKhPYbmNOSU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/668/460/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - python
+  - tensorflow
+builders:
+  - name: Hisnul Mohammed
+  - name: Sebrina Mohammed
+  - name: Anud Oumer
+  - name: Yumna Mohammed

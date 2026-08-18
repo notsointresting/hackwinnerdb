@@ -1,0 +1,14 @@
+id: the-ghost-buster-rutgers-ieee-x-hart-build-a-thon
+project_id: the-ghost-buster
+hackathon_id: rutgers-ieee-x-hart-build-a-thon
+submission_url: https://devpost.com/software/the-ghost-buster
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-ghost-buster
+awards:
+  - type: other
+    title: Game Build Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

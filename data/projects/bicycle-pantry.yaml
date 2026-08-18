@@ -1,0 +1,23 @@
+id: bicycle-pantry
+name: Bicycle Pantry
+slug: bicycle-pantry
+tagline: Every ingredient for your first ride in LA :)
+summary: Bicycle Pantry received the Best Hack for Bicycle Kitchen award at Hack2Impact 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gn-67/bicicocina
+demo_url: null
+video_url: https://www.youtube.com/embed/gkZVmfCRkm0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/640/402/datas/medium.jpg
+categories:
+  - social-impact
+technologies:
+  - mapbox
+  - react-native
+  - supabase
+  - typescript
+builders:
+  - name: gokul nambiar
+  - name: Nancy Her
+  - name: Lexi Chua
+  - name: Kay Kim

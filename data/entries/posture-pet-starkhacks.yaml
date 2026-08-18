@@ -1,0 +1,14 @@
+id: posture-pet-starkhacks
+project_id: posture-pet
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/posture-pet-brh6vx
+source:
+  platform: devpost
+  url: https://devpost.com/software/posture-pet-brh6vx
+awards:
+  - type: category-winner
+    title: Best Use of AMD Tech
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: medtrack
+name: MedTrack
+slug: medtrack
+tagline: "Upload a prescription, get AI-extracted meds info, auto reminders, diet advice, meal plan
+  suggestion, supply alerts & doctor contacts : all in one app. Built wi"
+summary: MedTrack received the Overall Hackathon Winner award at LionHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sujanamht/medtrack.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Jc64PyLkjyw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/699/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - flask
+  - python
+  - react
+  - typescript
+builders:
+  - name: Anjali Thapa
+  - name: Samiksha Gnawali
+  - name: Sujana Mehta

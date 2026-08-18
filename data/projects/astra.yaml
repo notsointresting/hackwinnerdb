@@ -1,0 +1,20 @@
+id: astra
+name: Astra
+slug: astra
+tagline: Learn, Explore, Visualize.
+summary: Astra received the [MLH] Best Use of MongoDB Atlas award at Hack AI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nathanhanxp/qAPIbara
+demo_url: null
+video_url: https://www.youtube.com/embed/6oEOwzhewCs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/792/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: Nathan Han

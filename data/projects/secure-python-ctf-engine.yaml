@@ -1,0 +1,23 @@
+id: secure-python-ctf-engine
+name: Secure Python CTF Engine
+slug: secure-python-ctf-engine
+tagline: An interactive security lab that safely executes untrusted Python code.
+summary: Secure Python CTF Engine received the CS4Everyone Excellence Award award at Built with
+  Python Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Lyhorng-labs/CTF-Engine
+demo_url: null
+video_url: https://www.youtube.com/embed/Z8sE0C4ZRNc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/781/321/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Lyhorng Heng

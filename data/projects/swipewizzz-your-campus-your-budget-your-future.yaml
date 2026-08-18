@@ -1,0 +1,22 @@
+id: swipewizzz-your-campus-your-budget-your-future
+name: SwipeWizzz - Your Campus, Your Budget, Your Future.
+slug: swipewizzz-your-campus-your-budget-your-future
+tagline: "Campus Cost Optimizer helps students see the real impact of daily spending. Upload
+  transactions, detect money leaks, simulate reductions, and turn small habits "
+summary: "SwipeWizzz - Your Campus, Your Budget, Your Future. received the WiC: Fan Favorite award
+  at WiCHacks '26 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/408/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Bhavana Avirneni
+  - name: Anvita Chebrolu
+  - name: Lahari Ijju

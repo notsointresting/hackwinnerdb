@@ -1,0 +1,20 @@
+id: life-com
+name: Life.com
+slug: life-com
+tagline: A comprehensive web-based healthcare portal that connects patients with providers, enables
+  appointment management, and provides pharmacy information - all in on
+summary: Life.com received the 2nd Place AWS Track award at ECU Spark in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+technologies:
+  - javascript
+  - python
+builders:
+  - name: ramifayad105 fayad
+  - name: Sarthak Acharya

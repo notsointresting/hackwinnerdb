@@ -1,0 +1,20 @@
+id: between-time
+name: Between Time
+slug: between-time
+tagline: Every app wants your attention now. We want it in the future. Between time - write it, seal
+  it, wait for it.
+summary: "Between Time received the Framer Track: Runner-up award at CreateSC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TGuGmv1LHA0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/564/553/datas/medium.png
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Dara Macareno
+  - name: Shreya Shanmugam
+  - name: Renae Wang

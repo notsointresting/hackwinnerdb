@@ -1,0 +1,29 @@
+id: keepinibsa-cam-platform
+name: KeepInibsa - CAM Platform
+slug: keepinibsa-cam-platform
+tagline: KeepInibsa Client Alert Manager turns dental clinic purchase data into explainable sales
+  alerts, helping INIBSA predict buying needs, detect churn risk, and pri
+summary: KeepInibsa - CAM Platform received the 1st price - Inibsa Challenge award at InterHackBCN
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ki-re/InterHack-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/966/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - pytorch
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Erik Batiste
+  - name: Ernest Rull Turigas
+  - name: Alvaroost8

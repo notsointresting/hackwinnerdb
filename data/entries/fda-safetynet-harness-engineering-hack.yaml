@@ -1,0 +1,16 @@
+id: fda-safetynet-harness-engineering-hack
+project_id: fda-safetynet
+hackathon_id: harness-engineering-hack
+submission_url: https://devpost.com/software/silvershield-ofgwi2
+source:
+  platform: devpost
+  url: https://devpost.com/software/silvershield-ofgwi2
+awards:
+  - type: category-winner
+    title: "Conquer with Context: Best Use of Airbyte's Agent Engine"
+  - type: winner
+    title: Top 2 Overall Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

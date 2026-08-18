@@ -1,0 +1,14 @@
+id: geo-mcp-codex-meetup-dhaka-uiu
+project_id: geo-mcp
+hackathon_id: codex-meetup-dhaka-uiu
+submission_url: https://devpost.com/software/geo-mcp
+source:
+  platform: devpost
+  url: https://devpost.com/software/geo-mcp
+awards:
+  - type: other
+    title: Codex $100 Credits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

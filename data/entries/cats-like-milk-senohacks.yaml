@@ -1,0 +1,14 @@
+id: cats-like-milk-senohacks
+project_id: cats-like-milk
+hackathon_id: senohacks
+submission_url: https://devpost.com/software/cats-like-milk
+source:
+  platform: devpost
+  url: https://devpost.com/software/cats-like-milk
+awards:
+  - type: other
+    title: Useless Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

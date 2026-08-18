@@ -1,0 +1,24 @@
+id: foodgrid
+name: FoodGrid
+slug: foodgrid
+tagline: Mapping Boston's food system gaps to guide equitable action.
+summary: FoodGrid received the Best Overall Hack award at Civic Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aumghelani/Foodgrid
+demo_url: null
+video_url: https://www.youtube.com/embed/_61UYIDWWwg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/359/241/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - django
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aum Ghelani
+  - name: Sanjiv Sridhar
+  - name: Jigar Kanakhara
+  - name: Tarushi Gandhi

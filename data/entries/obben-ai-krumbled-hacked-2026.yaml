@@ -1,0 +1,14 @@
+id: obben-ai-krumbled-hacked-2026
+project_id: obben-ai-krumbled
+hackathon_id: hacked-2026
+submission_url: https://devpost.com/software/krumbled
+source:
+  platform: devpost
+  url: https://devpost.com/software/krumbled
+awards:
+  - type: second-place
+    title: Diversity Stream - 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: proful-eficient-build-the-future-with-ai-from-code-to-no-code
+project_id: proful-eficient
+hackathon_id: build-the-future-with-ai-from-code-to-no-code
+submission_url: https://devpost.com/software/proful-eficient
+source:
+  platform: devpost
+  url: https://devpost.com/software/proful-eficient
+awards:
+  - type: category-winner
+    title: Best AI/ML Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

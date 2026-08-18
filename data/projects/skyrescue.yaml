@@ -1,0 +1,23 @@
+id: skyrescue
+name: SkyRescue
+slug: skyrescue
+tagline: SkyRescue turns low-cost RC aircraft into flying Meshtastic nodes, bringing emergency
+  communication to search and rescue areas with no cellular coverage.
+summary: SkyRescue received the OpenAI Credits award at HackRome in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RobertoD91/SkyRescue_HackRome2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/281/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - esp32
+  - openai
+builders:
+  - name: Roberto D'Isanto
+  - name: Marco Fucito

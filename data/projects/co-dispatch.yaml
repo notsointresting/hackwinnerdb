@@ -1,0 +1,27 @@
+id: co-dispatch
+name: Co-Dispatch
+slug: co-dispatch
+tagline: AI copilot for small fleets that turns dispatch chaos into clear decisions, matching the
+  best driver, finding profitable backhauls, and preventing delays before
+summary: Co-Dispatch received the Trucker Path award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Splendor73/ChugMilk-Truckerpath/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/ExdViFyJ1UU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/591/696/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - groq
+  - mapbox
+  - nextjs
+  - react
+  - sql
+  - typescript
+builders:
+  - name: Anish Pravin Kulkarni
+  - name: Vihar Jain
+  - name: Yashu Patel

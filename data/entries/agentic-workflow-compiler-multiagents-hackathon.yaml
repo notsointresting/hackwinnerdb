@@ -1,0 +1,14 @@
+id: agentic-workflow-compiler-multiagents-hackathon
+project_id: agentic-workflow-compiler
+hackathon_id: multiagents-hackathon
+submission_url: https://devpost.com/software/asdfsad
+source:
+  platform: devpost
+  url: https://devpost.com/software/asdfsad
+awards:
+  - type: winner
+    title: Top Overall Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

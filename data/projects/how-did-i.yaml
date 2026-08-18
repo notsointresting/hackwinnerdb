@@ -1,0 +1,28 @@
+id: how-did-i
+name: How Did I?
+slug: how-did-i
+tagline: How Did I? is an agentic ecommerce operator that diagnoses daily revenue leaks across
+  carts, ads, inventory, and support—then drafts owner-approved fixes in one
+summary: How Did I? received the Fivetran - 3rd Place award at Google Cloud Rapid Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/76YGaFKQupk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/742/337/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - docker
+  - gemini
+  - python
+  - react
+  - sqlite
+  - stripe
+  - tailwind-css
+  - typescript
+  - vertex-ai
+builders:
+  - name: Amir Lotfy

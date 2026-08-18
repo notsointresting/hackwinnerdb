@@ -1,0 +1,22 @@
+id: agribridge
+name: Agribridge
+slug: agribridge
+tagline: AgriSmart uses AI for rural farming. It offers instant disease diagnosis and expert advice
+  through a simple web interface powered by the Gemini family of models
+summary: Agribridge received the Best use of Gemini API award at Genovate Hack Days in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jai-Shankar1033/Agribridge-.git
+demo_url: null
+video_url: https://www.youtube.com/embed/ShrHJ5z-t0I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/471/958/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - infrastructure
+technologies:
+  - react
+  - tailwind-css
+builders:
+  - name: 9005_Kaustav Maji KAUSTAV MAJI
+  - name: JAI SHANKAR

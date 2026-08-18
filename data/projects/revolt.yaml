@@ -1,0 +1,26 @@
+id: revolt
+name: ReVolt
+slug: revolt
+tagline: Scan any dead gadget. ReVolt finds the parts worth saving, proves the circuit, and
+  voice-guides you through building something new down to a 3D-printable body a
+summary: ReVolt received the Best AI Hack award at cuHacking7 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/noirbatman/revolt
+demo_url: null
+video_url: https://www.youtube.com/embed/mabLbNAMMI4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/883/188/datas/gallery.jpg
+categories:
+  - education
+  - infrastructure
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: bat man
+  - name: Claire Sarcia

@@ -1,0 +1,20 @@
+id: c-mahv
+name: C:/mahv
+slug: c-mahv
+tagline: Analytics for public Github repositories, showing commits, contributors, and various other metrics.
+summary: C:/mahv received the Best Beginner Prize award at Hack The Break 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/megan-chow/htb-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/446/986/datas/medium.png
+categories:
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Vish Epa
+  - name: cadu Fonseca
+  - name: Halie Favron
+  - name: Megan Chow

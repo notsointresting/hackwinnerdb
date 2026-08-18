@@ -1,0 +1,14 @@
+id: bus-factor-oracle-gitlab-transcend-hackathon
+project_id: bus-factor-oracle
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/bus-factor-oracle
+source:
+  platform: devpost
+  url: https://devpost.com/software/bus-factor-oracle
+awards:
+  - type: track-winner
+    title: "Contribute Track: A qualified Merged Merge Request"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

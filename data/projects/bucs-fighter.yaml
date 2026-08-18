@@ -1,0 +1,20 @@
+id: bucs-fighter
+name: BUCS Fighter
+slug: bucs-fighter
+tagline: Play your favourite BUCS character in Super Smash BUCS!
+summary: BUCS Fighter received the 2nd Place award at BUCS Hackathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jjohngrey/bucs-a-thon-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/BZXWpYrPBfw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/098/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - typescript
+builders:
+  - name: John Grey
+  - name: Elijah Zhao
+  - name: Jay Park
+  - name: Lucas Gingera

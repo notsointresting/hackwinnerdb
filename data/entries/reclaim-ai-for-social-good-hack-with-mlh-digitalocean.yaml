@@ -1,0 +1,14 @@
+id: reclaim-ai-for-social-good-hack-with-mlh-digitalocean
+project_id: reclaim
+hackathon_id: ai-for-social-good-hack-with-mlh-digitalocean
+submission_url: https://devpost.com/software/reclaim-j30yrd
+source:
+  platform: devpost
+  url: https://devpost.com/software/reclaim-j30yrd
+awards:
+  - type: category-winner
+    title: Best Use of DigitalOcean AI Platform in a Social Good Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

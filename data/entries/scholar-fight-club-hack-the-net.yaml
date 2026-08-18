@@ -1,0 +1,14 @@
+id: scholar-fight-club-hack-the-net
+project_id: scholar-fight-club
+hackathon_id: hack-the-net
+submission_url: https://devpost.com/software/scholar-fight-club
+source:
+  platform: devpost
+  url: https://devpost.com/software/scholar-fight-club
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

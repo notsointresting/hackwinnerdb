@@ -1,0 +1,23 @@
+id: hotel-with-no-hosts
+name: Hotel With No Hosts
+slug: hotel-with-no-hosts
+tagline: Contacting hosts can be very tedious. In our website, you can reserve your own rooms AI
+  chat bot right there to help you, and you can add your key cards to ente
+summary: Hotel With No Hosts received the Owala Water Bottle award at HackHounds 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/danielpagano202/HotelWithNoHosts
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/560/680/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: JosueDS27 Sanchez
+  - name: Rohama60 Mulugeta
+  - name: Daniel Pagano

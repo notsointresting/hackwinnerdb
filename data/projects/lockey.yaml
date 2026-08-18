@@ -1,0 +1,22 @@
+id: lockey
+name: Lockey
+slug: lockey
+tagline: Traveling for work shouldn't feel like a second job. Lockey is the clever companion that
+  makes sure the only thing you have to worry about is your meeting—not y
+summary: Lockey received the Lockton award at HackKU26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aruneem-bhowmick/hackku
+demo_url: null
+video_url: https://www.youtube.com/embed/YAOOcHevCJs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/583/981/datas/medium.png
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - mongodb
+  - typescript
+builders:
+  - name: Aruneem Bhowmick
+  - name: Matthew Moisseyev
+  - name: Micah Tidball

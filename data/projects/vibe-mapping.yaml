@@ -1,0 +1,18 @@
+id: vibe-mapping
+name: Vibe-Mapping
+slug: vibe-mapping
+tagline: Have you always wanted a space for you to share what you envision while reading, or are you
+  in a reading slump and searching for a book with a very specific vib
+summary: Vibe-Mapping received the Participants award at Code as a Canvas in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FPMVb7DETyE
+image_url: null
+categories:
+  - media
+technologies:
+  - figma
+builders:
+  - name: Vincy Ng

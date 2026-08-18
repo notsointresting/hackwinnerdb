@@ -1,0 +1,24 @@
+id: vibeview
+name: VibeView
+slug: vibeview
+tagline: A spatial computing app that lets you spawn, monitor, and voice-command teams of AI coding
+  agents displayed as floating terminal windows in your Apple Vision Pr
+summary: VibeView received the Best Emulator Project with PICO award at Worlds in Action Hack
+  [01-SF] in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/20Klj9AnR5g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/517/874/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - python
+  - swift
+builders:
+  - name: Aadi Krishna
+  - name: Jonathan Hawkins

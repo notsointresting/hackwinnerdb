@@ -1,0 +1,22 @@
+id: hakilab
+name: Hakilab
+slug: hakilab
+tagline: Legal intelligence and law firm management platform in the DRC, equipped with HakiLab's
+  Analytical Virtual Judge and legal guides.
+summary: "Hakilab received the Best Use of Gemini API award at AI for Campus: Build with MLH in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Micheline922/hakilab
+demo_url: null
+video_url: https://www.youtube.com/embed/I-kMx7tR4n0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/215/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: Micheline NTALE
+  - name: EDDY KESY
+  - name: Harmonie Nankafu
+  - name: Marcellin Murhula

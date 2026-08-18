@@ -1,0 +1,23 @@
+id: seeplusplus-seeingeyecamera
+name: SeePlusPlus_SeeingEyeCamera
+slug: seeplusplus-seeingeyecamera
+tagline: A voice-powered seeing-eye system for visually impared individuals.
+summary: SeePlusPlus_SeeingEyeCamera received the Diversity Stream - 1st award at Hacked 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ilya-Nalivaiko/SeePlusPlus_SeeingEyeCamera
+demo_url: null
+video_url: https://www.youtube.com/embed/hRJj_374dA0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/402/955/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - docker
+  - opencv
+  - python
+  - yolo
+builders:
+  - name: Laurie Gantuangco
+  - name: Ilya Nalivaiko
+  - name: Aiden Mitchell

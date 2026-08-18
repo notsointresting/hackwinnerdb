@@ -1,0 +1,27 @@
+id: adaptive-air
+name: Adaptive Air
+slug: adaptive-air
+tagline: AdaptiveAIR is an AI wellness dashboard integrating wearable data (Apple Watch,
+  Fitbit,Whoop) for HRV, sleep, recovery insights with an AI coach and cycle-aware
+summary: Adaptive Air received the $250 in Claude API Credits and Claude Hats award at HackHealth
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/BhagyasriUddandam/adaptive-air
+demo_url: null
+video_url: https://www.youtube.com/embed/ggb5KPzKuZw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/442/528/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+  - firebase
+  - groq
+  - llama
+  - react
+  - typescript
+builders:
+  - name: Bhagyasri Uddandam
+  - name: krupa patel

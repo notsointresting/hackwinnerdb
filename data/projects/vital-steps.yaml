@@ -1,0 +1,22 @@
+id: vital-steps
+name: Vital Steps
+slug: vital-steps
+tagline: "Bringing basic medical and health literacy to every home with AR-powered interactive
+  lessons and SnapML for real-time prescription and vein detection, with the "
+summary: Vital Steps received the Snap AR 3rd Place Track Winner award at ImmerseGT 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sethipriyanshu/VitalSteps
+demo_url: null
+video_url: https://www.youtube.com/embed/SIU4r8yAmpw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/552/497/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - typescript
+builders:
+  - name: Priyanshu Sethi
+  - name: Margulan Baizhakyp

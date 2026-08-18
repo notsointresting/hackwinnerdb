@@ -1,0 +1,21 @@
+id: ai-pharmax
+name: AI PharmaX
+slug: ai-pharmax
+tagline: AI-powered platform for drug repurposing using multi-source biomedical data and intelligent
+  agent workflows.
+summary: AI PharmaX received the Best Original idea (Three teams) award at Youth Code x AI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DiyaMenon/AI-PharmaX
+demo_url: null
+video_url: https://www.youtube.com/embed/tCAAiZBW_HM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/827/123/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - productivity
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Diya Satish Kumar

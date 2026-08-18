@@ -1,0 +1,25 @@
+id: matterport
+name: Matterport
+slug: matterport
+tagline: The architect in your browser.Walk through every room in 3D. Swap walls, drop in real
+  furniture, and get AI-powered analysis of your heating, WiFi, and acoustic
+summary: Matterport received the Loveable x HackTech - Best use of Lovable award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/sparshgarg92/hearth-designer-bot/
+demo_url: null
+video_url: https://www.youtube.com/embed/f1YDUEdHKkM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/613/901/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Saksham Raheja
+  - name: sparsh garg

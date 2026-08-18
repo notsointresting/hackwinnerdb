@@ -1,0 +1,23 @@
+id: bukavu-propre
+name: Bukavu Propre
+slug: bukavu-propre
+tagline: Bukavu Propre is a mobile app that connects citizens and the city council to clean up
+  Bukavu together. It turns every phone into a tool to report and solve wast
+summary: "Bukavu Propre received the Best App Deployed on Google Cloud award at AI for Campus: Build
+  with MLH in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/abc123xyz
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/738/151/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - flutter
+  - google-cloud
+  - react
+builders:
+  - name: Evariste Ngongo

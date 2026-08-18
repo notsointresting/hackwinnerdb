@@ -1,0 +1,21 @@
+id: fit-check-hackhcc-2026
+name: Fit Check - HackHCC 2026
+slug: fit-check-hackhcc-2026
+tagline: Our app will plan an outfit for when planning an outfit becomes overwhelming. Eliminating
+  anxiety about wasted time or having the wrong outfit for the occasion.
+summary: "Fit Check - HackHCC 2026 received the General Track award at HackHCC: Code Runners in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ParsaAsil/HackHCC2026
+demo_url: null
+video_url: https://www.youtube.com/embed/rlv3JtfP44k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/381/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - swift
+builders:
+  - name: Reese Thrush
+  - name: Seyed Parsa Fatahnaei Asi
+  - name: Zeyan Jesani

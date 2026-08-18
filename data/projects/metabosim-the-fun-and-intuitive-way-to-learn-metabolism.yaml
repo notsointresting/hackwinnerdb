@@ -1,0 +1,20 @@
+id: metabosim-the-fun-and-intuitive-way-to-learn-metabolism
+name: MetaboSim - the fun and intuitive way to learn metabolism!
+slug: metabosim-the-fun-and-intuitive-way-to-learn-metabolism
+tagline: Metabolism is a complicated topic. This app allows undergraduate students to tinker with
+  and learn microbial metabolism. Includes a guided Socratic tutorial.
+summary: MetaboSim - the fun and intuitive way to learn metabolism! received the Third Place -
+  Novice award at Weber State AI Hackathon 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/522/877/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Olof Nilsson
+  - name: Lisa Wiltbank

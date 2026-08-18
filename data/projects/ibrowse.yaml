@@ -1,0 +1,29 @@
+id: ibrowse
+name: IBrowse
+slug: ibrowse
+tagline: An adaptive browser overlay extension that enables webpage customization and interaction
+  through persistent DOM transformations, presets, and voice controls
+summary: "IBrowse received the Grand Prize: Interactive Media Track award at HackDuke: Code For Good
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/aadhirsandeep/hackduke26-I-Browse
+demo_url: null
+video_url: https://www.youtube.com/embed/zA_hBq063JM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/293/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - javascript
+  - python
+  - react
+  - sql
+  - supabase
+builders:
+  - name: Suhas Puttoju
+  - name: Rishabh Bedidha
+  - name: Aadhir Sandeep
+  - name: Siddhant Borkar

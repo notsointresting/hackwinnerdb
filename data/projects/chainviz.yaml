@@ -1,0 +1,23 @@
+id: chainviz
+name: ChainViz
+slug: chainviz
+tagline: 3D visualization of npm's single points of failure — with autonomous Jac agents that
+  investigate any package's blast radius in real time.
+summary: ChainViz received the Best use of Jac award at JacHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/drPod/supply-chain-risk-analyzer
+demo_url: null
+video_url: https://www.youtube.com/embed/R1tjGuE_HS8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/605/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - javascript
+  - python
+  - sqlite
+  - vercel
+builders:
+  - name: Darsh Poddar

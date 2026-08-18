@@ -1,0 +1,19 @@
+id: escape-gimi-chan
+name: Escape Gimi-chan
+slug: escape-gimi-chan
+tagline: "'Escape Gimi-chan' is a Gemini-powered visual novel Yandere dating sim where there are no
+  dialogue choices just Gimi-chan, reading and reacting to whatever you "
+summary: Escape Gimi-chan received the Certificate award at GABA Hackday in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sonicsmrit/Escape-Gimi-chan
+demo_url: null
+video_url: https://www.youtube.com/embed/oLIjJtoshV0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/965/025/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Sonic Shrestha

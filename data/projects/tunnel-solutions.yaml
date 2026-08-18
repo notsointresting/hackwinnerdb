@@ -1,0 +1,23 @@
+id: tunnel-solutions
+name: tunnel.solutions
+slug: tunnel-solutions
+tagline: Every great performance starts in the tunnel.
+summary: tunnel.solutions received the Nimble - Build an Agentic App That Sees the Live Web award at
+  DeveloperWeek New York 2026 Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/rs9459-dot/tunnel-solutions
+demo_url: null
+video_url: https://www.youtube.com/embed/1kPvpJx08LM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/750/501/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - fastapi
+  - groq
+  - javascript
+  - python
+builders:
+  - name: Rhea Shastri

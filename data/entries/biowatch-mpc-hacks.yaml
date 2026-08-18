@@ -1,0 +1,14 @@
+id: biowatch-mpc-hacks
+project_id: biowatch
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/biowatch
+source:
+  platform: devpost
+  url: https://devpost.com/software/biowatch
+awards:
+  - type: third-place
+    title: 3rd Place - General Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

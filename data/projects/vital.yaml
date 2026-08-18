@@ -1,0 +1,26 @@
+id: vital
+name: VITAL
+slug: vital
+tagline: Our AI-powered VLM camera system that continuously monitors waiting rooms to detect signs
+  of patient deterioration and flag high-risk cases in real time, giving
+summary: VITAL received the Best Healthcare Hack award at HackPrinceton Spring '26 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/matnvd/HackPrincetonS26-VITAL
+demo_url: null
+video_url: https://www.youtube.com/embed/OAqgWxTv3gs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - react
+  - typescript
+builders:
+  - name: trickfu Fu
+  - name: Aryan Moore
+  - name: pchen33
+  - name: Mathias Nguyen-Van-Duong

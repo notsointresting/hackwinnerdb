@@ -1,0 +1,21 @@
+id: glossplusone-g-plus-1
+name: GlossPlusOne (g+1)
+slug: glossplusone-g-plus-1
+tagline: What if every web-page on the internet can teach you a language?
+summary: GlossPlusOne (g+1) received the Second Place Overall award at Hack Canada 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sokmontrey/gloss-plus-one
+demo_url: null
+video_url: https://www.youtube.com/embed/_RZUI0Su11o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/583/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - gemini
+  - groq
+  - react
+  - typescript
+builders:
+  - name: Sokmontrey Sythat

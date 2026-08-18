@@ -1,0 +1,23 @@
+id: bloom-pcos-wellness-tracker
+name: Bloom- PCOS Wellness Tracker
+slug: bloom-pcos-wellness-tracker
+tagline: A compassionate PCOS wellness tracker combining symptom tracking, cycle prediction,
+  analytics, and emotional support in one safe space.
+summary: "Bloom- PCOS Wellness Tracker received the GREATEST WOMEN IMPACT award at Girls in STEM: AI
+  for Social Good Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/vallabhii/hackathons/tree/main/girls_in_stem_hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/srShtdq6pno
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/665/854/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Vishnu Vallabhi Chintala

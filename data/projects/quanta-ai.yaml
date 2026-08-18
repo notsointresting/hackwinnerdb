@@ -1,0 +1,25 @@
+id: quanta-ai
+name: Quanta AI
+slug: quanta-ai
+tagline: Bridging the gap between retail trading and institutional-grade quantitative analysis
+summary: "Quanta AI received the General 3rd Place award at NTHS Hack 2026: Hack the next frontier
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Arths17/Nthshack26
+demo_url: null
+video_url: https://www.youtube.com/embed/C_Of3gRH5pk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/689/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Atharv Ranjan
+  - name: Shreyas Gandhe
+  - name: Siddharth Lakshmi Narayanan
+  - name: Krishna Saketh Adimatyam

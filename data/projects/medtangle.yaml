@@ -1,0 +1,21 @@
+id: medtangle
+name: MedTangle
+slug: medtangle
+tagline: Scan your medication list and see which drug pairs are flagged as interaction signals in
+  the FDA's adverse-event data, ranked worst-first; not medical advice, j
+summary: MedTangle received the Best Design award at Vitalitics 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Mangambit/medtangle
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/043/388/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Dariush Afshar

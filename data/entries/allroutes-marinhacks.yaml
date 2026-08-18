@@ -1,0 +1,14 @@
+id: allroutes-marinhacks
+project_id: allroutes
+hackathon_id: marinhacks
+submission_url: https://devpost.com/software/no-roll-models
+source:
+  platform: devpost
+  url: https://devpost.com/software/no-roll-models
+awards:
+  - type: other
+    title: BeginnerHack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

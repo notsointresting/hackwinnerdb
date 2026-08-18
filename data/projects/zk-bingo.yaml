@@ -1,0 +1,18 @@
+id: zk-bingo
+name: ZK-Bingo
+slug: zk-bingo
+tagline: Save your Grandma from Bingo Frauds
+summary: ZK-Bingo received the Gaming Track award at Midnight Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/imraghavojha/midnight-bingo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/674/661/datas/gallery.jpg
+categories:
+  - blockchain
+technologies:
+  - javascript
+builders:
+  - name: Raghav Ojha
+  - name: Nikunj  S

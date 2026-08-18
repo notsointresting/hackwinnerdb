@@ -1,0 +1,25 @@
+id: neuroguard-ai-smart-stroke-risk-monitoring
+name: "NeuroGuard AI: Smart Stroke Risk Monitoring"
+slug: neuroguard-ai-smart-stroke-risk-monitoring
+tagline: NeuroGuard AI is an AI-powered wearable platform that continuously monitors vital signs,
+  estimates stroke risk, and enables remote patient monitoring through Io
+summary: "NeuroGuard AI: Smart Stroke Risk Monitoring received the All participant get 1 month of
+  free snap2measure api award at CodeNova 2026 – National AI & Innovation Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/thamaraiselvang2025aids-oss/MEDIVERSEAI
+demo_url: null
+video_url: https://www.youtube.com/embed/WrNokyIbICQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/025/806/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - esp32
+  - fastapi
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: G. Thamarai Selvan

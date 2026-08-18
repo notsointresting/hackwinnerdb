@@ -1,0 +1,14 @@
+id: learnvis-evorozen-innovators-hackathon
+project_id: learnvis
+hackathon_id: evorozen-innovators-hackathon
+submission_url: https://devpost.com/software/learnvis-et503i
+source:
+  platform: devpost
+  url: https://devpost.com/software/learnvis-et503i
+awards:
+  - type: second-place
+    title: 2nd Place Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: ai-powered-perioperative-command-center-beyond-tomorrow-summit
+project_id: ai-powered-perioperative-command-center
+hackathon_id: beyond-tomorrow-summit
+submission_url: https://devpost.com/software/ai-powered-perioperative-command-center
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-powered-perioperative-command-center
+awards:
+  - type: third-place
+    title: Third
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

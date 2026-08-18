@@ -1,0 +1,14 @@
+id: tam-maddata26
+project_id: tam
+hackathon_id: maddata26
+submission_url: https://devpost.com/software/tam-in2mso
+source:
+  platform: devpost
+  url: https://devpost.com/software/tam-in2mso
+awards:
+  - type: second-place
+    title: 2nd Place - General Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

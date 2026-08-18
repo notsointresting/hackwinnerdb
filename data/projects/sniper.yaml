@@ -1,0 +1,22 @@
+id: sniper
+name: sniper
+slug: sniper
+tagline: helping recruiters cherrypick the best of the best
+summary: sniper received the Best In Security award at Build It Break It 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shaleenthaker/sniper
+demo_url: null
+video_url: https://www.youtube.com/embed/UpbZZ1PRABg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/659/774/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - nextjs
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Hastin Chen
+  - name: Shaleen Thaker

@@ -1,0 +1,14 @@
+id: djubrino-hackupc-2026
+project_id: djubrino
+hackathon_id: hackupc-2026
+submission_url: https://devpost.com/software/djubrino
+source:
+  platform: devpost
+  url: https://devpost.com/software/djubrino
+awards:
+  - type: first-place
+    title: "[Qualcomm] 1st place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

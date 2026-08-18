@@ -1,0 +1,14 @@
+id: rgb-led-the-rgb-stands-for-rube-goldberg-sotonhack
+project_id: rgb-led-the-rgb-stands-for-rube-goldberg
+hackathon_id: sotonhack
+submission_url: https://devpost.com/software/rgb-led-the-rgb-stands-for-rube-goldberg
+source:
+  platform: devpost
+  url: https://devpost.com/software/rgb-led-the-rgb-stands-for-rube-goldberg
+awards:
+  - type: other
+    title: "[Hackathons UK] Hackiest Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,19 @@
+id: a-day-in-stem
+name: A Day in STEM
+slug: a-day-in-stem
+tagline: A story about STEM and mental health, A Day in STEM combines fantasy, technology, and
+  reality into a game that can be relatable to a wider audience through crea
+summary: A Day in STEM received the 2nd Runners-up (Both Tracks) award at Code as a Canvas in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/485/801/datas/medium.png
+categories:
+  - healthcare
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: Gabriela Segura

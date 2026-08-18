@@ -1,0 +1,26 @@
+id: siqur
+name: SIQUR
+slug: siqur
+tagline: The first fully-integrated intelligent security suite
+summary: SIQUR received the Most Promising Startup award at Catapult 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mihir-chauhan/SIQUR
+demo_url: null
+video_url: https://www.youtube.com/embed/GKgVX_yecO4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/532/711/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - opencv
+  - pytorch
+  - react
+  - yolo
+builders:
+  - name: David Wang
+  - name: Ritvik Indupuri
+  - name: david chen
+  - name: Mihir Chauhan

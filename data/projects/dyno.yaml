@@ -1,0 +1,20 @@
+id: dyno
+name: Dyno
+slug: dyno
+tagline: Track climbs. Measure progress. Send harder.
+summary: Dyno received the nwChoice Award award at cmd-f 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/liang-mikayla/cmd-f-2026.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/049/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Allison Tao
+  - name: Mikayla Liang
+  - name: Eliana Barbosa

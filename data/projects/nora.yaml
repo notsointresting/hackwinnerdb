@@ -1,0 +1,21 @@
+id: nora
+name: Nora
+slug: nora
+tagline: Nora is AI baked into macOS. Learn any app while you use it, send emails without ever
+  opening gmail, and ask anything about what's on your screen. No more alt-t
+summary: Nora received the Video Cooker - Best video and representation award at SOON Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/215/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - anthropic
+  - claude
+  - sqlite
+  - swift
+builders:
+  - name: Imad Baida

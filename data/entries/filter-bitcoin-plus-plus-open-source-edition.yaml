@@ -1,0 +1,14 @@
+id: filter-bitcoin-plus-plus-open-source-edition
+project_id: filter
+hackathon_id: bitcoin-plus-plus-open-source-edition
+submission_url: https://devpost.com/software/filter-s3bjhv
+source:
+  platform: devpost
+  url: https://devpost.com/software/filter-s3bjhv
+awards:
+  - type: other
+    title: Solve Open Source Contribution Spam
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

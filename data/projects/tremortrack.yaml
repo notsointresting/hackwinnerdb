@@ -1,0 +1,20 @@
+id: tremortrack
+name: TremorTrack
+slug: tremortrack
+tagline: Parkinson's patients see their neurologist every 3 months. That's 4 data points a year
+  about a disease that changes every single day. TremorTrack gives them the
+summary: TremorTrack received the Wacom Drawing Tablets award at HackUP in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zhenghchen/tremor-tracker
+demo_url: null
+video_url: https://www.youtube.com/embed/ryI9c5n8KXM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/076/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: Zheng H. Chen

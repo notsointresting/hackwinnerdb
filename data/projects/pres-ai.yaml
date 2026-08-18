@@ -1,0 +1,22 @@
+id: pres-ai
+name: Pres.AI
+slug: pres-ai
+tagline: Helping you channel your inner TED Talk.
+summary: Pres.AI received the Take a Painful Academic Process and Make It 10× Less Painful award at
+  MacHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/jamiewlh2-cloud/hackshots.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/740/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Rowan Breakey
+  - name: Jan Chryscienko
+  - name: Jamie Hammill

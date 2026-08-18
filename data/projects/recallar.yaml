@@ -1,0 +1,26 @@
+id: recallar
+name: RecallAR
+slug: recallar
+tagline: RecallAR turns AR glasses into a real-time cognitive companion—helping users recognize
+  loved ones, navigate familiar spaces, and feel safe.
+summary: RecallAR received the Overall Third Place award at CareXR Hack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/deepinsight/insightface
+demo_url: null
+video_url: https://www.youtube.com/embed/13fIMLIIORs
+image_url: null
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies:
+  - elevenlabs
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: Shengyi Z
+  - name: shenglei6868
+  - name: plain-noodle-expert Tang
+  - name: Yan Sabrina

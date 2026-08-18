@@ -1,0 +1,27 @@
+id: bloomy
+name: Bloomy
+slug: bloomy
+tagline: Bloomy turns daily health signals into early outbreak warnings, helping communities spot
+  risks, guide care, and support public health action.
+summary: Bloomy received the [MLH] Best Use of Gemma 4 award at Hack Arizona 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Elbaraaa/HackAZ
+demo_url: null
+video_url: https://www.youtube.com/embed/jAXn84gMOyk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/406/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - mapbox
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Santiago Vargas Roldan
+  - name: Elbaraa Abdalla
+  - name: Abdelrahman Marwan Alsharif
+  - name: Fatih Bozdogan

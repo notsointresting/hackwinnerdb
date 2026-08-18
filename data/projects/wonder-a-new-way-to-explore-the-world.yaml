@@ -1,0 +1,28 @@
+id: wonder-a-new-way-to-explore-the-world
+name: Wonder - a new way to explore the world
+slug: wonder-a-new-way-to-explore-the-world
+tagline: Wonder helps kids explore landmarks on a map, visit in Street View, and learn each place
+  through voice with AI historical figures.
+summary: Wonder - a new way to explore the world received the Societal Impact award at YHack Spring
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/jessie-qs-li/timefriends
+demo_url: null
+video_url: https://www.youtube.com/embed/lJdLAomGyzM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/742/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - gemini
+  - javascript
+  - python
+  - react
+  - vercel
+builders:
+  - name: Ashlee Chae
+  - name: Jessie Li

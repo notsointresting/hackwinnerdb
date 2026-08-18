@@ -1,0 +1,26 @@
+id: eyeq
+name: EyeQ
+slug: eyeq
+tagline: An intelligent system that helps flag caregiver abuse. This can be used to notify guardians
+  of vulnerable individuals who are unable to report the abuse themsel
+summary: EyeQ received the Best Social Good Hack - Bitcamp award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Haadesx/EyeQ
+demo_url: null
+video_url: https://www.youtube.com/embed/HCbvz9BsFx8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/559/465/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - python
+  - sqlite
+  - yolo
+builders:
+  - name: Aparajita Sarkar
+  - name: Varesh Patel
+  - name: Urvi Desai
+  - name: Sinchana S Arun

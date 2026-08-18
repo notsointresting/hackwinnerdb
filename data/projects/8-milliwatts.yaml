@@ -1,0 +1,24 @@
+id: 8-milliwatts
+name: 8 Milliwatts
+slug: 8-milliwatts
+tagline: Instead of augmenting reality by traditional AR glasses interaction, we project to the
+  actual environment—a helmet with lasers to guide people to learn in a mor
+summary: "8 Milliwatts received the IFM Prize award at HARD MODE: Hardware x AI Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/sln7g3raf7Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/432/259/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Keira Boone
+  - name: Anna Zhang
+  - name: Ruizhuo Yang
+  - name: Gloria Zhu

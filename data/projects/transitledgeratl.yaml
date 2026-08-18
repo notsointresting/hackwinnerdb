@@ -1,0 +1,23 @@
+id: transitledgeratl
+name: transitLedgerATL
+slug: transitledgeratl
+tagline: MARTA publishes the schedule. We hold it accountable, live ghost-bus and reliability
+  receipts for every Atlanta route.
+summary: transitLedgerATL received the Best Use of Tiger Data | Elgato Stream Deck Mini award at
+  Hack RenderATL in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/kavyakavime/renderATL_hack
+demo_url: null
+video_url: https://www.youtube.com/embed/TVh_fsU9Y5U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/092/138/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - typescript
+builders:
+  - name: Kavyashree Mohankumar

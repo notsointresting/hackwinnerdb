@@ -1,0 +1,16 @@
+id: propsim-hacktech-by-caltech-2026
+project_id: propsim
+hackathon_id: hacktech-by-caltech-2026
+submission_url: https://devpost.com/software/propsim
+source:
+  platform: devpost
+  url: https://devpost.com/software/propsim
+awards:
+  - type: track-winner
+    title: Best "Not so sexy" - WHOOP 5.0 One Health and Fitness Tracker
+  - type: winner
+    title: "Listen Labs x HackTech: Interview Winners"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: shadowkey
+name: ShadowKey
+slug: shadowkey
+tagline: ShadowKey private login for blockchain apps. Prove you're real without exposing your
+  wallet, balance, or history. Built on Midnight's zero-knowledge proofs.
+summary: ShadowKey received the DeFi Track award at Midnight Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/atharvmantri/ShadowKey
+demo_url: null
+video_url: https://www.youtube.com/embed/VxBBq0BvQoM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/675/387/datas/gallery.jpg
+categories:
+  - blockchain
+technologies:
+  - docker
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Atharv Mantri

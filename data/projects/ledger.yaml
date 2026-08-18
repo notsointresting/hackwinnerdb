@@ -1,0 +1,16 @@
+id: ledger
+name: Ledger
+slug: ledger
+tagline: The first compiler for the world's most-used programming language.
+summary: Ledger received the Most Technical Projects award at JecHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ashwath-satish/LEDGER
+demo_url: null
+video_url: https://www.youtube.com/embed/rdRyu6Zj2nI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/587/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders: []

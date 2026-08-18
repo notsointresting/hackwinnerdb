@@ -1,0 +1,24 @@
+id: solarsense
+name: SolarSense
+slug: solarsense
+tagline: Map your solar savings. Reduce your carbon footprint.
+summary: SolarSense received the UI/UX Design + Web Development track award at DataHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/_6xW1c3X0-M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/592/510/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - google-cloud
+  - javascript
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aman Palanati
+  - name: Luis Corona

@@ -1,0 +1,14 @@
+id: sheguard-x-bugbash
+project_id: sheguard-x
+hackathon_id: bugbash
+submission_url: https://devpost.com/software/sheguard-x
+source:
+  platform: devpost
+  url: https://devpost.com/software/sheguard-x
+awards:
+  - type: second-place
+    title: 2nd SheBuilder
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

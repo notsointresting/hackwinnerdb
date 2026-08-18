@@ -1,0 +1,20 @@
+id: abc-fraudnot
+name: abc - FraudNot
+slug: abc-fraudnot
+tagline: FraudNot is a multimodal Telegram bot designed to help people with scams. It analyzes text
+  messages, screenshots, and voice notes, providing a verdict with an e
+summary: abc - FraudNot received the Most Innovative Solution award at SummerBuild 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yanheng0/SummerBuild-2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Ph_SKQxMs-M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/783/450/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - docker
+  - elevenlabs
+  - python
+builders:
+  - name: Hongshun Lim

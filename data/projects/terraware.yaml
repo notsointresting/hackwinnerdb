@@ -1,0 +1,21 @@
+id: terraware
+name: Terraware
+slug: terraware
+tagline: We built a tool connecting real-time environmental data to biodiversity and local action —
+  so anyone can understand what climate change means for their state, a
+summary: "Terraware received the Mystery Award award at The Climate Change-Makers Challenge: 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Gawlson/Terraware
+demo_url: null
+video_url: https://www.youtube.com/embed/_u5j0mYtK2U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/539/607/datas/gallery.jpg
+categories:
+  - climate
+  - social-impact
+technologies:
+  - react
+  - vercel
+builders:
+  - name: Gavin Wilson
+  - name: gracelafary LaFary

@@ -1,0 +1,22 @@
+id: seismo
+name: Seismo
+slug: seismo
+tagline: AI-assisted seismic screening and retrofit planning for buildings, powered by structural
+  simulation and interactive 3D visualization.
+summary: Seismo received the AI/ML track award at DataHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/0DMoAUtOdvc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Adithya Giri
+  - name: Dhruv Bhargava

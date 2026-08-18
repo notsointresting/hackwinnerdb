@@ -1,0 +1,22 @@
+id: flows-flood-warning-system
+name: Flows (Flood Warning System)
+slug: flows-flood-warning-system
+tagline: Transforming existing CCTV infrastructure into active quantitative instruments for
+  reliable, localized flood warnings
+summary: Flows (Flood Warning System) received the 1st Place award at SISPIK HACKS 1.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xOWvba6ftO0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/074/827/datas/medium.png
+categories:
+  - infrastructure
+technologies:
+  - figma
+  - javascript
+  - python
+  - react
+builders:
+  - name: Albar Malik
+  - name: Hiraki Prayata Ananggadipa

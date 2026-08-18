@@ -1,0 +1,20 @@
+id: celestivine
+name: Celestivine
+slug: celestivine
+tagline: Explainable AI for Exoplanet Discovery using Random Forest and SHAP, enabling astronomers
+  to understand why a Kepler Object of Interest is classified as a plane
+summary: Celestivine received the 2nd Place award at India High School Exoplanet Data Challenge in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hriteshvirat/Celestivine
+demo_url: null
+video_url: https://www.youtube.com/embed/Gf_AIEO8oIM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/041/700/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Hritesh Kumar

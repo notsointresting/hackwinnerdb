@@ -1,0 +1,14 @@
+id: saferelay-jachacks-sf
+project_id: saferelay
+hackathon_id: jachacks-sf
+submission_url: https://devpost.com/software/saferelay
+source:
+  platform: devpost
+  url: https://devpost.com/software/saferelay
+awards:
+  - type: first-place
+    title: Social Impact Track 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

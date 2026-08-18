@@ -1,0 +1,21 @@
+id: ninth
+name: Ninth
+slug: ninth
+tagline: Create animated stories from a single idea and direct every scene on a real timeline, with
+  every asset stored and restorable on Backblaze B2.
+summary: "Ninth received the Feedback prize award at Backblaze Generative Media Hackathon: Build
+  with Genblaze on B2 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Jz3MqFVEpdg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/055/940/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - python
+builders:
+  - name: Abel1011 Mendez

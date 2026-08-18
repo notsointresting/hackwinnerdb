@@ -1,0 +1,22 @@
+id: biocyclic
+name: BioCyclic
+slug: biocyclic
+tagline: From toxic waste to life-saving resources—reinventing recycling for public health.
+summary: BioCyclic received the Team Prize 2nd award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/bss7-mOpXxA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/632/455/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - google-maps
+  - mongodb
+  - python
+builders:
+  - name: Tanush Shah

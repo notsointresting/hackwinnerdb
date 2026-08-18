@@ -1,0 +1,22 @@
+id: deap-crash
+name: Deap Crash
+slug: deap-crash
+tagline: It’s an audit-ready operating system for making high-stakes portfolio allocation decisions
+  more transparent, defensible, and explainable.
+summary: Deap Crash received the [OFI] Bio-Innovation Hub Resource Allocation Simulator award at
+  BioHackathon Edinburgh 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/906/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - nextjs
+builders:
+  - name: Emmanuel Olowe
+  - name: Pammi Bhadra

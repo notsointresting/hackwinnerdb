@@ -1,0 +1,25 @@
+id: dill-pkl
+name: dill.pkl
+slug: dill-pkl
+tagline: Turn any CSV into a production-ready model and know exactly how and why, every step of the way.
+summary: "dill.pkl received the [Sponsored] Bitdeer Beyond the Prototype: Best Production-Ready AI
+  Tool (In-Person Only) award at  GenAI Genesis 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/jasmehar-k/dill.pkl
+demo_url: null
+video_url: https://www.youtube.com/embed/gd5_XDCytLc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/441/733/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Harshita Chandani
+  - name: Jasmehar Kaur
+  - name: Srija Chitturi

@@ -1,0 +1,20 @@
+id: guardwave
+name: GuardWave
+slug: guardwave
+tagline: WiFi signals already fill every room. GuardWave turns them into an invisible safety net —
+  detecting falls right on the momment, alerting caregivers instantly, n
+summary: GuardWave received the 3rd Place award at WayneHacks 4 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adithyagovind05-commits/waynehacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/526/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Sidharth Kalyan Ram .
+  - name: Adithya Govindarajan
+  - name: Tharun Subramanya

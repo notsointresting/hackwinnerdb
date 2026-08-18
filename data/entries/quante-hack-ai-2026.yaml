@@ -1,0 +1,16 @@
+id: quante-hack-ai-2026
+project_id: quante
+hackathon_id: hack-ai-2026
+submission_url: https://devpost.com/software/sfds
+source:
+  platform: devpost
+  url: https://devpost.com/software/sfds
+awards:
+  - type: track-winner
+    title: "HackAI General Track: Make Your Mark"
+  - type: sponsor-prize
+    title: "[SPONSOR] Rindler Institute of Quantitative Education"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

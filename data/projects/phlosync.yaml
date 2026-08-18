@@ -1,0 +1,20 @@
+id: phlosync
+name: PhloSync
+slug: phlosync
+tagline: If trees can distribute energy without waste, so can our cities.
+summary: PhloSync received the Grand Winner award at 1st Nature's Blueprint Ideathon 2026 !! in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/VYBIiFt5lxQ
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - python
+  - streamlit
+  - tensorflow
+builders:
+  - name: MUDIT KHATER

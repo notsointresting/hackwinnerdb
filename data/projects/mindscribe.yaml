@@ -1,0 +1,24 @@
+id: mindscribe
+name: MindScribe
+slug: mindscribe
+tagline: AI-powered text-to-mindmap tool that turns dense study material into interactive visual
+  knowledge maps.
+summary: MindScribe received the Codex $100 Credit award at Hack Days CUET in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/OarisaR/mind-scribe
+demo_url: null
+video_url: https://www.youtube.com/embed/dXaIf_BVEA4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/838/205/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - firebase
+  - openai
+  - python
+  - react
+builders:
+  - name: Oarisa Rebayet

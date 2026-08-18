@@ -1,0 +1,25 @@
+id: intervai
+name: IntervAI
+slug: intervai
+tagline: Hyper-personalized, face-to-face AI mock interviews powered by Google Gemini—tailored to
+  your resume and target job description.
+summary: IntervAI received the mlh swgas award at PIXEL.GEMINI 3.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yash-Bharvada/IntervAI
+demo_url: null
+video_url: https://www.youtube.com/embed/Pk7IjRPVLIQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/080/376/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - groq
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Yash Bharvada

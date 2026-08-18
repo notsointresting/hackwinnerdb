@@ -1,0 +1,20 @@
+id: kazasense
+name: KazaSense
+slug: kazasense
+tagline: This project is dedicated to assist Nigerian farmers recoginse diseases in their plants and
+  poultry on the farm.
+summary: KazaSense received the MLH Prizes and GitHub award at AgentCamp Hack-Day Ibadan in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sparktech001/KazaSense.git
+demo_url: null
+video_url: https://www.youtube.com/embed/NIdf-N3sy84
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/737/573/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+builders:
+  - name: Joseph Dania

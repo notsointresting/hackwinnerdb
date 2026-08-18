@@ -1,0 +1,14 @@
+id: meltdown-pattern-predictor-adahacks-2026
+project_id: meltdown-pattern-predictor
+hackathon_id: adahacks-2026
+submission_url: https://devpost.com/software/meltdown-pattern-predictor
+source:
+  platform: devpost
+  url: https://devpost.com/software/meltdown-pattern-predictor
+awards:
+  - type: second-place
+    title: "General Stream: 2nd Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

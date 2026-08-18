@@ -1,0 +1,14 @@
+id: codenomaly-stevens-quackhacks-2026
+project_id: codenomaly
+hackathon_id: stevens-quackhacks-2026
+submission_url: https://devpost.com/software/codenomaly
+source:
+  platform: devpost
+  url: https://devpost.com/software/codenomaly
+awards:
+  - type: other
+    title: Gaming Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

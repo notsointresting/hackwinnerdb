@@ -1,0 +1,26 @@
+id: cleo
+name: Cleo
+slug: cleo
+tagline: Meet Cleo, the AI-powered AR companion built for good. From continuous visual navigation
+  for the blind to accessible multimodal note-taking, Cleo puts proactive
+summary: "Cleo received the Core: Most Innovative award at CUhackit 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Stelath/cleo
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/204/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - accessibility
+  - ar-vr
+technologies:
+  - c-plus-plus
+  - python
+  - react
+  - rust
+builders:
+  - name: Taran Kavuru
+  - name: Ethan Anderson
+  - name: Alex Korte
+  - name: ItsMacto Howe

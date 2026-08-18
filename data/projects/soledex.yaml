@@ -1,0 +1,21 @@
+id: soledex
+name: Solédex
+slug: soledex
+tagline: Pokémon collectors have binders full of cards that are collecting dust. Solédex offers to
+  turn those Pokémon cards into digital NFTs on Solana that you can trad
+summary: Solédex received the Best UI/UX award at HACKMESA 2.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KA0F311_5Kw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/797/datas/gallery.jpg
+categories:
+  - fintech
+  - web3
+technologies:
+  - python
+  - react
+builders:
+  - name: Simon Dekrmnjian
+  - name: Manuel Gonzalez

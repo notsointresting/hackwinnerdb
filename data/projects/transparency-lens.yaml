@@ -1,0 +1,24 @@
+id: transparency-lens
+name: Transparency Lens
+slug: transparency-lens
+tagline: Every website you visit silently auctions your data in milliseconds. We make that invisible
+  economy visible, live, in real time.
+summary: Transparency Lens received the [MLH] Best Use of MongoDB Atlas award at KeanUHackThis 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MQIDbN7mr1Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/611/701/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Belal Ezat
+  - name: Yassin Abdalla
+  - name: Ameer Hassan

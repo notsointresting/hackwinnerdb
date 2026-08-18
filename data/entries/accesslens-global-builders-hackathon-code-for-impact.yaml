@@ -1,0 +1,14 @@
+id: accesslens-global-builders-hackathon-code-for-impact
+project_id: accesslens
+hackathon_id: global-builders-hackathon-code-for-impact
+submission_url: https://devpost.com/software/accesslens-ihp4bx
+source:
+  platform: devpost
+  url: https://devpost.com/software/accesslens-ihp4bx
+awards:
+  - type: grand-prize
+    title: Global Impact Award (Grand Prize)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

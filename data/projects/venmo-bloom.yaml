@@ -1,0 +1,19 @@
+id: venmo-bloom
+name: Venmo Bloom
+slug: venmo-bloom
+tagline: Venmo treats every payment as disposable. Bloom turns your transaction history into a
+  living garden, where contacts grow closer and flowers bloom through real u
+summary: "Venmo Bloom received the Figma Design Track: Runner-up award at CreateSC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/JeX6IxpNuJY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/832/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Gavin Nguyen
+  - name: Kathleen Chen

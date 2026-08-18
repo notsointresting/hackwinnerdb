@@ -1,0 +1,23 @@
+id: rock-paper-scissors-shock
+name: Rock Paper Scissors Shock
+slug: rock-paper-scissors-shock
+tagline: One winner. One loser. One very unpleasant surprise.
+summary: Rock Paper Scissors Shock received the Surge Choice (best overall) award at SillyHacks 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Joandrew24/SillyHack-ShockGlove
+demo_url: null
+video_url: https://www.youtube.com/embed/h6xg8E6oniA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/522/236/datas/medium.jpeg
+categories:
+  - other
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+builders:
+  - name: Clement Darmadi
+  - name: jonathan andrew
+  - name: Alvin Sugianto
+  - name: Verrill Angelo

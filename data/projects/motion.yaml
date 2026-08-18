@@ -1,0 +1,21 @@
+id: motion
+name: Motion
+slug: motion
+tagline: Nonprofits face rising demand yet lack affordable tools—current volunteer management
+  software is outdated, inefficient, and inaccessible. Motion is a free, simp
+summary: Motion received the Diversity in CS Project Hub award at youCode 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/p8Kdu08og0k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/693/datas/gallery.jpg
+categories:
+  - accessibility
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: ariellesktm Soukantima
+  - name: Lana Nakai
+  - name: vivian peng

@@ -1,0 +1,20 @@
+id: synk-f-ai-powered-ece-smart-lab-assistant
+name: Synk-F AI powered ECE smart lab assistant
+slug: synk-f-ai-powered-ece-smart-lab-assistant
+tagline: "We're not just building a tool for labs; we're building the future of AI-assisted
+  engineering education. 🚀👑 Project deployed link : https://synk-f-lab-assista"
+summary: Synk-F AI powered ECE smart lab assistant received the CANVA PREMIUM award at AgentVerse in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fahmianwar1cybersec/Synk-F-Lab-assistant
+demo_url: null
+video_url: https://www.youtube.com/embed/3iymah4p_wM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/718/671/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - vercel
+builders:
+  - name: Fahmitha  Thasneem.A

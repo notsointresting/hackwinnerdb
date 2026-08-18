@@ -1,0 +1,19 @@
+id: jac-wi-fi-occupancy-heatmap
+name: JAC Wi‑Fi Occupancy Heatmap
+slug: jac-wi-fi-occupancy-heatmap
+tagline: Real‑time Wi‑Fi occupancy heatmaps with historical analytics.
+summary: JAC Wi‑Fi Occupancy Heatmap received the [MLH] Best Use of Solana award at JACHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LyWilson/JACHACK-Heatmap
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/347/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Wilson Ly

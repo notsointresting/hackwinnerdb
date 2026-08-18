@@ -1,0 +1,25 @@
+id: cassandra
+name: Cassandra
+slug: cassandra
+tagline: AI agents fail silently, confidently wrong, and nobody notices. Cassandra is an AI that
+  watches your AIs. It catches every lie, diagnoses why, ships a proven fi
+summary: Cassandra received the Arize - 1st Place award at Google Cloud Rapid Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SirjanSingh/cassandra
+demo_url: null
+video_url: https://www.youtube.com/embed/6a_CFiQ6L24
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/759/985/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - google-ai-studio
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sirjan Singh
+  - name: Kshitij Verma

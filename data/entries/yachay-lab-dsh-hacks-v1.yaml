@@ -1,0 +1,24 @@
+id: yachay-lab-dsh-hacks-v1
+project_id: yachay-lab
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/novamind-ai-powered-stem-adventure
+source:
+  platform: devpost
+  url: https://devpost.com/software/novamind-ai-powered-stem-adventure
+awards:
+  - type: second-place
+    title: 2nd Place
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - Aniko.ai
+  - type: other
+    title: Special Awards - Crackd.it
+  - type: other
+    title: Special Awards - InterviewCake
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

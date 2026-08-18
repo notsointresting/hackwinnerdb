@@ -1,0 +1,23 @@
+id: bloom-pantry
+name: Bloom Pantry
+slug: bloom-pantry
+tagline: Our platform helps women’s shelters efficiently track and manage their food inventory, with
+  a focus on identifying food items nearing expiration and creating nu
+summary: Bloom Pantry received the Diversity in CS Project Hub award at youCode 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sefu06/youcode2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Bd0XN-ZDW_8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/537/405/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - gemini
+  - react
+builders:
+  - name: Selina Jia
+  - name: Nina Tsai
+  - name: Amelie Marshall
+  - name: Selina Fu

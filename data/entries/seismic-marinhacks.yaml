@@ -1,0 +1,14 @@
+id: seismic-marinhacks
+project_id: seismic
+hackathon_id: marinhacks
+submission_url: https://devpost.com/software/seismic-nueydx
+source:
+  platform: devpost
+  url: https://devpost.com/software/seismic-nueydx
+awards:
+  - type: first-place
+    title: 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,18 @@
+id: robosustain-girls-in-stem-global-hackathon
+project_id: robosustain
+hackathon_id: girls-in-stem-global-hackathon
+submission_url: https://devpost.com/software/robosustain
+source:
+  platform: devpost
+  url: https://devpost.com/software/robosustain
+awards:
+  - type: honorable-mention
+    title: Honorable Mention
+  - type: honorable-mention
+    title: Honorable mention
+  - type: third-place
+    title: 3rd Place Overall — Rising Innovator Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

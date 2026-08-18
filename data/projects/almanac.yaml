@@ -1,0 +1,20 @@
+id: almanac
+name: Almanac
+slug: almanac
+tagline: Almanac is an MCP that gives AI agents optimized recipes for navigating websites. Instead
+  of fumbling through the UI on every task, the agent runs the recipe. S
+summary: Almanac received the Grand Prize (Cursor) award at Cursor Hackathon Vancouver in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Metroxe/almanac
+demo_url: null
+video_url: https://www.youtube.com/embed/NxDWFuZh4ck
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/658/660/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Christopher Powroznik
+  - name: Shan Liu

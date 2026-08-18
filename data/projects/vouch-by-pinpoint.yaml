@@ -1,0 +1,22 @@
+id: vouch-by-pinpoint
+name: Vouch by Pinpoint
+slug: vouch-by-pinpoint
+tagline: Belfast 2036 - the city is a beacon for world class health care and public services - that
+  journey begins with Vouch by Pinpoint.
+summary: Vouch by Pinpoint received the Best Use Of Solana - SuperTeam Ireland award at HackBelfast
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/OQfAleGFri8
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - rust
+  - solana
+builders:
+  - name: JP McCorley

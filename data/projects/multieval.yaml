@@ -1,0 +1,27 @@
+id: multieval
+name: MultiEval
+slug: multieval
+tagline: The first agent-eval platform built for multi-agent orchestration. Graph + Gantt trace
+  viewer, A/B compare with Wilson CIs, and a meta-agent that evolves harnes
+summary: "MultiEval received the Track: Agentverse - Search & Discovery of Agents award at LA Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/AlfredSjoqvist/multieval
+demo_url: null
+video_url: https://www.youtube.com/embed/__OU7Ftl4EM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/302/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Alfred Sjöqvist
+  - name: Lamek Tsegay
+  - name: Stuti Gaonkar
+  - name: Jahanvi Jeswani

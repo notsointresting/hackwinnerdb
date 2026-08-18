@@ -1,0 +1,22 @@
+id: wing
+name: Wing
+slug: wing
+tagline: A safety app disguised as an everyday app. It looks and functions like a normal app
+  interface, but with a single tap, the app silently sends the user’s location
+summary: Wing received the 3rd Place Winner (Worth up to 700 CAD) award at cmd-f 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nb488/cmd-f_2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/223/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - react-native
+  - typescript
+builders:
+  - name: Ellen Ren
+  - name: Natalia Blanco
+  - name: Manbeena Sidhu

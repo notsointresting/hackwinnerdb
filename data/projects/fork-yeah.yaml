@@ -1,0 +1,24 @@
+id: fork-yeah
+name: Fork Yeah
+slug: fork-yeah
+tagline: ForkYeah is a gamified cultural cooking app - learn real recipes, earn XP, complete quests,
+  and compete with friends. Your AI chef guide makes every dish an adv
+summary: Fork Yeah received the [SPONSOR] NRVE award at Hack AI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MdajsD2QFEw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/412/346/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - react-native
+  - typescript
+builders:
+  - name: Iris Le
+  - name: Avneet Kaur
+  - name: Ayesha Shaikh
+  - name: Makeda Ogunalana

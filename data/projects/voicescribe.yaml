@@ -1,0 +1,22 @@
+id: voicescribe
+name: VoiceScribe
+slug: voicescribe
+tagline: Real-time speech disfluency coach for people who struggle with speaking — browser based,
+  free + AI feedback.
+summary: VoiceScribe received the First Place award at STEMINATE HACKS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arj-co/VoiceScribe
+demo_url: null
+video_url: https://www.youtube.com/embed/oBJULEBJykU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/294/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Neytiri Cheng
+  - name: Arjun S

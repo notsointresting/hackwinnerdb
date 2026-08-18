@@ -1,0 +1,27 @@
+id: theracail
+name: TheraCaIl
+slug: theracail
+tagline: TheraCaIl is an AI-based Treatment Alliance Aid, targeted towards clinicians who notice
+  that their patients have trouble completing their Action Plan.
+summary: TheraCaIl received the JBL Tune 720BT award at HackMerced XI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/egomez714/CareAI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Q2bwVuf-Zf4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/408/333/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Christopher Hernandez
+  - name: Wenqing Li
+  - name: Erick Gomez
+  - name: Serafim Sharkov

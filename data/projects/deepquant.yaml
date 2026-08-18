@@ -1,0 +1,21 @@
+id: deepquant
+name: DeepQuant
+slug: deepquant
+tagline: world's most advanced quant agent using mix of agents and overmind to optimize results
+summary: DeepQuant received the Most Innovative Use of Aerospike APIs and Storage Model to Build a
+  Compelling Application award at Deep Agents Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Steve-Dusty/deepquant
+demo_url: null
+video_url: https://www.youtube.com/embed/lf5Aph0Aryo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+builders:
+  - name: Pranjal Adhikari
+  - name: Steve Kuo

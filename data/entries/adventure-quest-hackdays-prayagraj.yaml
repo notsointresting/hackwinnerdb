@@ -1,0 +1,16 @@
+id: adventure-quest-hackdays-prayagraj
+project_id: adventure-quest
+hackathon_id: hackdays-prayagraj
+submission_url: https://devpost.com/software/adventure-quest-0cjq2d
+source:
+  platform: devpost
+  url: https://devpost.com/software/adventure-quest-0cjq2d
+awards:
+  - type: other
+    title: Mlh swags
+  - type: other
+    title: Stickers
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

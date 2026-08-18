@@ -1,0 +1,24 @@
+id: helm
+name: Helm
+slug: helm
+tagline: Steer the fleet. See what you gave back.
+summary: Helm received the 3rd Place – Building with Bedrock award at AWSHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AWSHacks-2026/MergeAI
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - docker
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Rithvik Duddupudi
+  - name: Sameer Sahai
+  - name: Caden  Saltzberg

@@ -1,0 +1,16 @@
+id: do-not-consume-uipath-agenthack
+project_id: do-not-consume
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/intelligent-incident-resolution-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/intelligent-incident-resolution-system
+awards:
+  - type: other
+    title: Runner-up of UiPath Maestro Case
+  - type: audience-choice
+    title: People's Choice
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,26 @@
+id: civicpaws-ai-powered-platform-for-human-animal-coexistence
+name: "CivicPaws: AI-Powered Platform for Human-Animal Coexistence"
+slug: civicpaws-ai-powered-platform-for-human-animal-coexistence
+tagline: CivicPaws lets citizens report human-animal conflicts in seconds and track them live on a
+  hotspot map, a fully-designed foundation built to turn every phone int
+summary: "CivicPaws: AI-Powered Platform for Human-Animal Coexistence received the Participation
+  Certificate award at CodeNova 2026 – National AI & Innovation Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/trishab004/CivicPaws-H-
+demo_url: null
+video_url: https://www.youtube.com/embed/2-1sXSm8Px8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/041/619/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - figma
+  - react
+  - typescript
+builders:
+  - name: Trisha Bej
+  - name: Tanisha Debnath
+  - name: Roney Ghosh
+  - name: Shivraj Bhattacharya

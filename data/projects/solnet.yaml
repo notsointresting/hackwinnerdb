@@ -1,0 +1,24 @@
+id: solnet
+name: SolNet
+slug: solnet
+tagline: A peer-to-peer network of devices powered by Solana. High-speed detection of compromised
+  devices, remote access to each device, and status reports on device dat
+summary: SolNet received the Best Use of Solana - Ledger Nano S Plus award at DeerHacks V (2026) in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mi-ellis/deerhacks-v
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/385/840/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - figma
+  - python
+  - react
+  - solana
+builders:
+  - name: Marcus Anastacio
+  - name: Alex Min
+  - name: Michael Ellis

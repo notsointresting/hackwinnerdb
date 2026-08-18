@@ -1,0 +1,18 @@
+id: chronos
+name: CHRONOS
+slug: chronos
+tagline: "Extreme weather don't just destroy landscapes; they paralyze the supply chains that
+  deliver laid. CHRONOS: autonomous orchestrator that shifts logistics from re"
+summary: CHRONOS received the Best Use Of Gemini award at Code With Gemini in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aritra-Roy-O6/Chronos
+demo_url: null
+video_url: https://www.youtube.com/embed/y3gYi4zTViI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/660/846/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Aritra Roy

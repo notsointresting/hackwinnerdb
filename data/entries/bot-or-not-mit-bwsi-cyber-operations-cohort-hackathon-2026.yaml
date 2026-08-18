@@ -1,0 +1,14 @@
+id: bot-or-not-mit-bwsi-cyber-operations-cohort-hackathon-2026
+project_id: bot-or-not
+hackathon_id: mit-bwsi-cyber-operations-cohort-hackathon-2026
+submission_url: https://devpost.com/software/bot-or-not-3ig4un
+source:
+  platform: devpost
+  url: https://devpost.com/software/bot-or-not-3ig4un
+awards:
+  - type: third-place
+    title: Bronze Project (3rd Place)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

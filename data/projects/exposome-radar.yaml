@@ -1,0 +1,23 @@
+id: exposome-radar
+name: Exposome Radar
+slug: exposome-radar
+tagline: We built an engine that takes a patient's genetic mutation, cross-references it with the
+  live air and soil toxicity in their exact neighborhood, and automatical
+summary: Exposome Radar received the Lava Lamp award at BioHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Chayan03/ExposomeRadar
+demo_url: null
+video_url: https://www.youtube.com/embed/AJH85LG_NFc
+image_url: null
+categories:
+  - productivity
+  - creative-tools
+technologies:
+  - c-plus-plus
+  - python
+  - react
+builders:
+  - name: Chayan Manchanda
+  - name: Gauri Nair
+  - name: Lalitha Chamarty

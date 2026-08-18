@@ -1,0 +1,21 @@
+id: zero-hour
+name: Zero Hour
+slug: zero-hour
+tagline: A AI Engineer assessment platform to test how efficient a software is being made .
+summary: Zero Hour received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hirakjnn/Zero-hour/
+demo_url: null
+video_url: https://www.youtube.com/embed/oKbq_HxKlyc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/859/175/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - llama
+  - python
+  - react
+builders:
+  - name: Hirak Jain

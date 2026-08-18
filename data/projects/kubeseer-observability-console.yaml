@@ -1,0 +1,21 @@
+id: kubeseer-observability-console
+name: Kubeseer Observability Console
+slug: kubeseer-observability-console
+tagline: "KubeSeer: a single Rust binary that replaces 5 K8s tools. Visual topology, logs, metrics,
+  traces, and AI troubleshooting — zero config, open source, runs in you"
+summary: Kubeseer Observability Console received the Most Ambitious Build award at Kiro Buildfest
+  2026 Singapore in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/jephoton/kubeseer-observability-gui
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/861/497/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+  - rust
+  - typescript
+builders:
+  - name: Jethro Tan

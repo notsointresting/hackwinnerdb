@@ -1,0 +1,23 @@
+id: mechathon-hard-robot
+name: Mechathon Hard robot
+slug: mechathon-hard-robot
+tagline: We have a robot that levels sand in a box.
+summary: "Mechathon Hard robot received the Track: Best Hardware Hack (John Deere Mechathon) (Hard
+  Track Winner) award at HackIllinois 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Tn4YGxU5mDY
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+builders:
+  - name: Sansel06 Selvam
+  - name: davidjr6
+  - name: Alphraneous
+  - name: pijack43 Larson

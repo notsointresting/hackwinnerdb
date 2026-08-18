@@ -1,0 +1,21 @@
+id: playground
+name: Playground
+slug: playground
+tagline: Snap a photo, transform physical objects into playable 2D games, and join a global platform!
+summary: Playground received the 3rd Place award at SummerHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RohanGottipati/Playground
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/076/190/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Harnake Reehal
+  - name: Rohan Gottipati
+  - name: Krish Bhoopati

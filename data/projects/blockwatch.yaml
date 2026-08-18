@@ -1,0 +1,22 @@
+id: blockwatch
+name: BlockWatch
+slug: blockwatch
+tagline: In one command, and your repository becomes explorable terrain folders are districts, files
+  are buildings, and git changes show up visually on minecraft in real
+summary: BlockWatch received the Most Technically Impressive award at RevolutionUC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/c-degni/blockwatch
+demo_url: null
+video_url: https://www.youtube.com/embed/9VUzkc7Zihc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/510/908/datas/medium.png
+categories:
+  - other
+technologies:
+  - java
+  - typescript
+builders:
+  - name: msacko2 Sacko
+  - name: Christ Degni
+  - name: EricXu404
+  - name: Jonathan Cheruiyot

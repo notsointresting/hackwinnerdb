@@ -1,0 +1,23 @@
+id: lastcall-eats-ai-powered-surplus-food-marketplace
+name: "LastCall Eats: AI-Powered Surplus Food Marketplace"
+slug: lastcall-eats-ai-powered-surplus-food-marketplace
+tagline: An AI-powered marketplace connecting local restaurants with students to buy end-of-day
+  surplus meals at a 70% discount, reducing urban food waste while providin
+summary: "LastCall Eats: AI-Powered Surplus Food Marketplace received the Codex $100 Credits award
+  at Codex Meetup Dhaka - UIU in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Dev-Change-Makers-Community/Codex-Dhaka-Meetup/tree/main/OpenAI_Developer_Platform_Demo
+demo_url: null
+video_url: https://www.youtube.com/embed/77zgmBEoW-I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/653/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - supabase
+  - tailwind-css
+builders:
+  - name: syad mehedi hasan alvi

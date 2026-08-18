@@ -1,0 +1,20 @@
+id: alttext-guardian
+name: AltText Guardian
+slug: alttext-guardian
+tagline: AltText Guardian detects image submissions lacking post description, generates auto-reply
+  alt-text for the OP using a vision model.
+summary: AltText Guardian received the Best New Mod Tool Honorable Mentions award at Reddit Mod
+  Tools and Migrated Apps Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/bloo-berries/AltText-Guardian
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/710/260/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Blooberries Blooberries
+  - name: DROO AMOR

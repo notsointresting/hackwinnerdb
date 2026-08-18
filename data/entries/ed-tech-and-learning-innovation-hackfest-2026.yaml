@@ -1,0 +1,14 @@
+id: ed-tech-and-learning-innovation-hackfest-2026
+project_id: ed-tech-and-learning-innovation
+hackathon_id: hackfest-2026
+submission_url: https://devpost.com/software/ed-tech-and-learning-innovation
+source:
+  platform: devpost
+  url: https://devpost.com/software/ed-tech-and-learning-innovation
+awards:
+  - type: winner
+    title: Winners – HackFest 2026
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

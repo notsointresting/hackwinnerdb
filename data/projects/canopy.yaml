@@ -1,0 +1,20 @@
+id: canopy
+name: Canopy
+slug: canopy
+tagline: Smarter urban tree dispatch anywhere. Crews routed by real need, weighted by situation.
+  Live 311 data, drought stress, and equity-weighted AI briefings. Plug an
+summary: Canopy received the 1st Place Intermediate award at FutureHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jsplaystore/canopy
+demo_url: null
+video_url: https://www.youtube.com/embed/YKw34aU_6sM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/839/337/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - javascript
+  - vercel
+builders:
+  - name: Jayesh Singhal

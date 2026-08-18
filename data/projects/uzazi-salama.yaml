@@ -1,0 +1,22 @@
+id: uzazi-salama
+name: UZAZI SALAMA
+slug: uzazi-salama
+tagline: Uzazi Salama is a digital maternal health platform connecting pregnant women and hospital
+  staff for real-time monitoring, clinical tracking, and safer pregnancy
+summary: "UZAZI SALAMA received the Best Use of Gemini API award at AI for Campus: Build with MLH in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Prince21126/Uzazi-Salama
+demo_url: null
+video_url: https://www.youtube.com/embed/aQ1oqBLRzDg
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - tailwind-css
+builders:
+  - name: Prince Bamba
+  - name: stephaneansima-glitch

@@ -1,0 +1,19 @@
+id: moodleos
+name: MoodleOS
+slug: moodleos
+tagline: A Learning Management system that helps you plan out your study life, and help you in the process.
+summary: MoodleOS received the Best API Integration award at Code Quest in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jeremy-misola/MoodleOS
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: jeremy-misola Misola

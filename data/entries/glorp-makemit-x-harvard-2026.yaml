@@ -1,0 +1,14 @@
+id: glorp-makemit-x-harvard-2026
+project_id: glorp
+hackathon_id: makemit-x-harvard-2026
+submission_url: https://devpost.com/software/glorp-pndqg5
+source:
+  platform: devpost
+  url: https://devpost.com/software/glorp-pndqg5
+awards:
+  - type: other
+    title: Healthcare
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

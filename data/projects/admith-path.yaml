@@ -1,0 +1,24 @@
+id: admith-path
+name: Admith Path
+slug: admith-path
+tagline: AI college-planning assistant that turns a student’s profile, goals, and interests into
+  personalized roadmaps, college lists, essay help, and next steps.
+summary: Admith Path received the Books, Mentorship, Internshipt, Became Club member award at
+  Cyber_Coders in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/792/085/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - javascript
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Mitran Loganathan

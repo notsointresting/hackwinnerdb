@@ -1,0 +1,20 @@
+id: underlie
+name: Underlie
+slug: underlie
+tagline: A benchmark to test AI's ability to create emotions.
+summary: Underlie received the Futuristic Track Winner award at SWECCathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/scholar-e/Underlie/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/726/305/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: "[Insert name here]"
+  - name: Yuqian Xue
+  - name: Goodman599 Gong

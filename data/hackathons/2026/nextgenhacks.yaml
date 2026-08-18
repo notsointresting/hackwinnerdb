@@ -1,0 +1,14 @@
+id: nextgenhacks
+name: NextGenHacks
+slug: nextgenhacks
+organizer: []
+year: 2026
+sources:
+  - https://nextgenhacks.devpost.com/
+  - https://nextgenhacks.devpost.com/project-gallery?filter=winner
+website_url: https://nextgenhacks.devpost.com/
+platform: devpost
+participant_count: 1336
+prize_pool: 1000
+currency: USD
+description: "Devpost hackathon: NextGenHacks. Imported automatically."

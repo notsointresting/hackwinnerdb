@@ -1,0 +1,20 @@
+id: evlink
+name: EVLink
+slug: evlink
+tagline: Connect your EV to any AI. Gemini reads your car's real state via genuine tool calls;
+  deterministic software does the battery math and plans your charging stops
+summary: EVLink received the Best Use of Gemini API || Gift card award at Hack RenderATL in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/francolinx/evlink-renderatl-hackathon-
+demo_url: null
+video_url: https://www.youtube.com/embed/ACz5PvzrP9M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/092/214/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+builders:
+  - name: Francolin Plathottathil

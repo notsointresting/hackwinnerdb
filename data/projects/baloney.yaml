@@ -1,0 +1,23 @@
+id: baloney
+name: Baloney
+slug: baloney
+tagline: 51% of web traffic is now bots. 74% of new web pages contain AI content. People can't tell
+  what's real anymore, and there's no easy and non invasive way to chec
+summary: Baloney received the 1st Place - General Track award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nategarelik/baloney/blob/master/docs/AI_CITATION.md
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/367/887/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - media
+technologies:
+  - javascript
+  - python
+  - react
+builders:
+  - name: Nathaniel Garelik
+  - name: Ben Verhaalen

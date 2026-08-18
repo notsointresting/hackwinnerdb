@@ -1,0 +1,22 @@
+id: ecopulse
+name: EcoPulse
+slug: ecopulse
+tagline: Environment and welfare
+summary: EcoPulse received the MLH Stickers+ Swags . award at Hackdays Maa Chandika Convent
+  School  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/88-sameeksha/project3
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/089/669/datas/gallery.jpg
+categories:
+  - climate
+  - social-impact
+  - iot
+technologies:
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Sameeksha Sharma

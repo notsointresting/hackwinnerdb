@@ -1,0 +1,14 @@
+id: academia-eu-hackathon
+name: Academia EU Hackathon
+slug: academia-eu-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://academiaeu.devpost.com/
+  - https://academiaeu.devpost.com/project-gallery?filter=winner
+website_url: https://academiaeu.devpost.com/
+platform: devpost
+participant_count: 43
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Academia EU Hackathon. Imported automatically."

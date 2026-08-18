@@ -1,0 +1,26 @@
+id: asclepius
+name: Asclepius
+slug: asclepius
+tagline: Asclepius turns 10,000 messy Indian healthcare records into trusted decisions for patients,
+  planners & hospitals—every answer cited, every uncertainty shown. On
+summary: Asclepius received the 2nd Place Gift Card award at Databricks Apps & Agents for Good
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/fulks89-hub/Databricks-2026-Hackathon-Devon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - postgresql
+  - python
+  - react
+  - typescript
+builders:
+  - name: Dakota Bowles
+  - name: brett fulks
+  - name: Peter Ndiang

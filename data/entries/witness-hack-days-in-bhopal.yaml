@@ -1,0 +1,14 @@
+id: witness-hack-days-in-bhopal
+project_id: witness
+hackathon_id: hack-days-in-bhopal
+submission_url: https://devpost.com/software/witness-01ndk2
+source:
+  platform: devpost
+  url: https://devpost.com/software/witness-01ndk2
+awards:
+  - type: first-place
+    title: First Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

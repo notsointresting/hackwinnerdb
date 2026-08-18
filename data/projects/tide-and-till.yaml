@@ -1,0 +1,22 @@
+id: tide-and-till
+name: Tide and Till
+slug: tide-and-till
+tagline: Tide and Till is a cozy educational catch-and-cook game where players learn to identify
+  different fish species and discover the marine regions they call home.
+summary: Tide and Till received the KNOWIDEA Prize award at Sandcastle in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aman-a-shah/sandbox
+demo_url: null
+video_url: https://www.youtube.com/embed/usHPEN28OWc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/703/894/datas/gallery.jpg
+categories:
+  - education
+  - gaming
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Dorothy Zheng
+  - name: Aman Shah
+  - name: Edison Cai

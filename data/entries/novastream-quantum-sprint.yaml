@@ -1,0 +1,14 @@
+id: novastream-quantum-sprint
+project_id: novastream
+hackathon_id: quantum-sprint
+submission_url: https://devpost.com/software/novastream
+source:
+  platform: devpost
+  url: https://devpost.com/software/novastream
+awards:
+  - type: track-winner
+    title: Theme-Based Track Prizes
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

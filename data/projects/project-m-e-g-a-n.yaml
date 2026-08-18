@@ -1,0 +1,21 @@
+id: project-m-e-g-a-n
+name: Project M.E.G.A.N
+slug: project-m-e-g-a-n
+tagline: An MR AI mentor that lives in your real room, walks to you, visualizes concepts in 3D, and
+  proactively supports students through academics, finances, and wellbe
+summary: Project M.E.G.A.N received the Second Place award at ThunderHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/joel662/MeganAI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/441/203/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - gemini
+  - unity
+builders:
+  - name: Joel Saji

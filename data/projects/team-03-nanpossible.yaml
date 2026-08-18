@@ -1,0 +1,26 @@
+id: team-03-nanpossible
+name: Team-03-nanpossible
+slug: team-03-nanpossible
+tagline: A unified digital platform for the World Institute for Action Learning to manage coach
+  certification, discovery, and chapter coordination.
+summary: "Team-03-nanpossible received the Founding Engineer, World Institute of Action Learning
+  award at Women in Computer Science x Opportunity Hack: Spring 2026 Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/03-nanpossible
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/970/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - stripe
+  - supabase
+builders:
+  - name: Manaswi Seela
+  - name: Pragyan jyoti
+  - name: Ryan Sam Varghese
+  - name: Chirag Manjeshwar

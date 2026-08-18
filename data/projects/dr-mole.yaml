@@ -1,0 +1,24 @@
+id: dr-mole
+name: Dr. Mole
+slug: dr-mole
+tagline: One in five Americans will develop skin cancer. Mr. Mole lets you scan a mole in seconds,
+  track changes over time, and know exactly when to see a doctor, before
+summary: Dr. Mole received the USB Drives award at HackUP in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chengenli9/HackUP/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/TmSg4g_SbhU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/888/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - groq
+  - react-native
+  - typescript
+builders:
+  - name: Cody Gima
+  - name: Shubu Aryal
+  - name: Chengen Li
+  - name: Daniel Le

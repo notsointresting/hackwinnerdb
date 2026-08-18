@@ -1,0 +1,14 @@
+id: first-hackathon-thingy-project-stellar
+project_id: first-hackathon-thingy
+hackathon_id: project-stellar
+submission_url: https://devpost.com/software/first-hackathon-thingy
+source:
+  platform: devpost
+  url: https://devpost.com/software/first-hackathon-thingy
+awards:
+  - type: other
+    title: Participant
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

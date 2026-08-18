@@ -1,0 +1,20 @@
+id: pocketguru-grizzly-hacks-iii
+project_id: pocketguru
+hackathon_id: grizzly-hacks-iii
+submission_url: https://devpost.com/software/pocketguru
+source:
+  platform: devpost
+  url: https://devpost.com/software/pocketguru
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - InterviewCake
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

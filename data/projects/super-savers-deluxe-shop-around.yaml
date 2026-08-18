@@ -1,0 +1,20 @@
+id: super-savers-deluxe-shop-around
+name: "Super Savers Deluxe: Shop Around"
+slug: super-savers-deluxe-shop-around
+tagline: A lighthearted narrative arcade-style game, centred around financial literacy, saving, and
+  how banks like Wave Community Bank can help you start your saving jou
+summary: "Super Savers Deluxe: Shop Around received the First Place award at Hackabury 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/762/datas/gallery.jpg
+categories:
+  - gaming
+technologies: []
+builders:
+  - name: Rune Painter
+  - name: Lain Thornby-Cook
+  - name: Halle Mae Mills
+  - name: CloverPlays

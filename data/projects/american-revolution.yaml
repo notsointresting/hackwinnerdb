@@ -1,0 +1,20 @@
+id: american-revolution
+name: American Revolution
+slug: american-revolution
+tagline: American Revolution is an interactive documentary built from generated worlds — history you
+  stand inside. Relive iconic moments, experience key battles, and put
+summary: American Revolution received the Best Branched Narrative or Edutainment Project - by
+  Reactor 1st Place award at Worlds in Action Hack [02-LA] in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/xuelongmu/interactive-worlds
+demo_url: null
+video_url: https://www.youtube.com/embed/jDE7Z1kZMnU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/941/948/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: xuelongmu Mu

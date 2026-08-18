@@ -1,0 +1,29 @@
+id: cryptx
+name: cryptX
+slug: cryptx
+tagline: is a reverse-engineered hardware ledger for the Solana blockchain, with custom PIN + seed
+  phrase authentication, real-time balance monitoring, and live fraud de
+summary: cryptX received the Best Financial Hack - Capital One award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/navincodesalot/cryptx/
+demo_url: null
+video_url: https://www.youtube.com/embed/ckU2XB6r1WQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/556/066/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - gemini
+  - mongodb
+  - react
+  - solana
+  - typescript
+  - vercel
+builders:
+  - name: Navin Narayanan
+  - name: SakthiS-oss Sadayappan
+  - name: Akshat Goyal
+  - name: Rahul Balasubramanian

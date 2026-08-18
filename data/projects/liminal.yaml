@@ -1,0 +1,24 @@
+id: liminal
+name: Liminal
+slug: liminal
+tagline: "Between dreams and reality, there is a threshold. Liminal Web XR OS brings spatial
+  computing, AI voice assistants, and immersive 3D experiences to any browser, "
+summary: Liminal received the [MLH] Best Use of Gemma 4 award at KeanUHackThis 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aageer/liminalxros
+demo_url: null
+video_url: https://www.youtube.com/embed/C7F8AWOwkBM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/086/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - mongodb
+  - typescript
+  - vercel
+builders:
+  - name: Akhil Ageer
+  - name: Md. Jonayed Hossain Chowdhury
+  - name: Kyle Humlen

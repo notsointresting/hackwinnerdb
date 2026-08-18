@@ -1,0 +1,22 @@
+id: privion
+name: Privion
+slug: privion
+tagline: With IoT at an all time high, privacy matters more than ever. Deadzone protects you from
+  eavesdropping by generating anti-waves that cancel speech, preventing p
+summary: "Privion received the General 1st Place award at NTHS Hack 2026: Hack the next frontier in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/SidSam15/Privion
+demo_url: null
+video_url: https://www.youtube.com/embed/CAHmdUa2qDw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/102/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Siddhant Samar
+  - name: Atharva Naveen
+  - name: R Jaiswal

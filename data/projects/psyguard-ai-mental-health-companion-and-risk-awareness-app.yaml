@@ -1,0 +1,27 @@
+id: psyguard-ai-mental-health-companion-and-risk-awareness-app
+name: PsyGuard AI — Mental Health Companion and Risk Awareness App
+slug: psyguard-ai-mental-health-companion-and-risk-awareness-app
+tagline: "PsyGuard AI is a mental health companion app that helps users reflect through AI chat,
+  mood check-ins, sleep tracking, trend analysis, and risk awareness while "
+summary: PsyGuard AI — Mental Health Companion and Risk Awareness App received the Internship @
+  World Assembly of Youth (WAY) award at GNEC Hackathon 2026 Spring - Compete For UN-Affiliated/NGO
+  Internships & Prizes in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/Sutdents-Project-Hub/PsyGuard_AI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/6xGlHTiPVuA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/640/309/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - dart
+  - flutter
+  - sqlite
+builders:
+  - name: Angie Chao
+  - name: wangchenhao452-bot Chen hao
+  - name: yuze Wang
+  - name: Lydia Chou

@@ -1,0 +1,17 @@
+id: left-for-loot
+name: Left for Loot
+slug: left-for-loot
+tagline: Slay hordes, grind loot, rank up from E to SSS — a full survivor ARPG inside a Reddit post.
+summary: Left for Loot received the Honorable Mentions award at Reddit’s Games with a Hook Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Dn6unpQUcFw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/904/341/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - unity
+builders:
+  - name: Dharanidhar Venugopal

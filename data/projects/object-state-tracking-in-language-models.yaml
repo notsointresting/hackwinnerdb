@@ -1,0 +1,23 @@
+id: object-state-tracking-in-language-models
+name: Object State Tracking in Language Models
+slug: object-state-tracking-in-language-models
+tagline: I investigate whether language models can track evolving object states across multi-step
+  narratives or fail at state overwriting.
+summary: Object State Tracking in Language Models received the AI Research and Alignment
+  Environments by d_model [$500 for 1st, $250 for 2nd, $125 for 3rd (Amazon gift cards)] award at
+  HackPrinceton Spring '26 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/ddiyas/Object-State-Tracking-in-Language-Models
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/499/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Diya Shah

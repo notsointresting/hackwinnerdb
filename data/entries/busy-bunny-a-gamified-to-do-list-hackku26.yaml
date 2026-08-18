@@ -1,0 +1,14 @@
+id: busy-bunny-a-gamified-to-do-list-hackku26
+project_id: busy-bunny-a-gamified-to-do-list
+hackathon_id: hackku26
+submission_url: https://devpost.com/software/bunny-bulletin
+source:
+  platform: devpost
+  url: https://devpost.com/software/bunny-bulletin
+awards:
+  - type: category-winner
+    title: Most Creative UI/UX
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

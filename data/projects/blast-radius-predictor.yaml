@@ -1,0 +1,21 @@
+id: blast-radius-predictor
+name: Blast Radius Predictor
+slug: blast-radius-predictor
+tagline: Predictive Blast Radius for Splunk alerts — pushes future-cascade impact into the alert
+  payload at fire time.
+summary: Blast Radius Predictor received the Best of Observability award at Splunk Agentic Ops
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/rereindev/blast-radius-predictor
+demo_url: null
+video_url: https://www.youtube.com/embed/6lzu-7r-k18
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: rereindev Liu

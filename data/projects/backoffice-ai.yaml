@@ -1,0 +1,24 @@
+id: backoffice-ai
+name: backoffice.ai
+slug: backoffice-ai
+tagline: "\"We free founders from busywork.\" Startup founders lose 15-20 hours every week on
+  mundane back-office work. We're building an AI workforce that runs your back o"
+summary: backoffice.ai received the Best Use of Neo4j award at Autonomous Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yajatns/Feb27Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/jAO21nxiQZs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/376/744/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - tailwind-css
+  - typescript
+builders:
+  - name: Nagarjun Srinivasan

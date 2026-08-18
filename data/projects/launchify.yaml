@@ -1,0 +1,26 @@
+id: launchify
+name: Launchify
+slug: launchify
+tagline: Know what you don't know — before you build.
+summary: Launchify received the College/Undergraduate Third Place award at USAII® Global AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/DarkerMinecraft/USAII-Launchify
+demo_url: null
+video_url: https://www.youtube.com/embed/YnJLvSvBf10
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/807/352/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+  - nextjs
+  - postgresql
+  - typescript
+builders:
+  - name: Elaine Chu
+  - name: Eric Wei
+  - name: Ben Nelson

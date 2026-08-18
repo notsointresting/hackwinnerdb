@@ -1,0 +1,14 @@
+id: rit-club-controller-wichacks-26
+project_id: rit-club-controller
+hackathon_id: wichacks-26
+submission_url: https://devpost.com/software/rit-club-controller
+source:
+  platform: devpost
+  url: https://devpost.com/software/rit-club-controller
+awards:
+  - type: category-winner
+    title: "RIT Student Government: Best New Student Experience Concept"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

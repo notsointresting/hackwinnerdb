@@ -1,0 +1,22 @@
+id: lifequest
+name: LifeQuest
+slug: lifequest
+tagline: "Turn chores into a Cyberpunk RPG. LifeQuest uses Gemini AI to validate real-life tasks
+  with photos.Level up your life: Turn your daily tasks into an epic RPG ad"
+summary: LifeQuest received the Best AI Use award at AI Game Week in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/therealmamagacha-tech/Lifequest
+demo_url: null
+video_url: https://www.youtube.com/embed/GGajHONhz7A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/651/667/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - python
+  - streamlit
+builders:
+  - name: Maëlys  Samson

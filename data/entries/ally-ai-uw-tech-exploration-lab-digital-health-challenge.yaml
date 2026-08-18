@@ -1,0 +1,16 @@
+id: ally-ai-uw-tech-exploration-lab-digital-health-challenge
+project_id: ally-ai
+hackathon_id: uw-tech-exploration-lab-digital-health-challenge
+submission_url: https://devpost.com/software/ally-ai-9tpiuh
+source:
+  platform: devpost
+  url: https://devpost.com/software/ally-ai-9tpiuh
+awards:
+  - type: second-place
+    title: 2nd Place Prize
+  - type: finalist
+    title: Finalist
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

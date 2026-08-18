@@ -1,0 +1,21 @@
+id: datascale
+name: datascale
+slug: datascale
+tagline: ai-assisted dataset annotation platform, fully on your tailnet
+summary: datascale received the SPUR - Build a Real Canadian Startup (Top 3) award at Hack Canada
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/t9nzin/datascale
+demo_url: null
+video_url: https://www.youtube.com/embed/jEqFOQzjBxE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/389/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - react
+  - sqlite
+builders:
+  - name: t9nzin :D
+  - name: fr4nsyz :)

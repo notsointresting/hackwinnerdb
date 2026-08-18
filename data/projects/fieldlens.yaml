@@ -1,0 +1,23 @@
+id: fieldlens
+name: FieldLens
+slug: fieldlens
+tagline: AI agents that watch live HVAC job-site video like a senior mentor, flagging hazards,
+  guiding the work, and scaling across sites.
+summary: FieldLens received the Best Agentic Spatial System - by PICO Runner-Up award at Worlds in
+  Action Hack [02-LA] in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ejVgjdLeLKM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/034/122/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Avilash Angirekula
+  - name: Ekansh Arora

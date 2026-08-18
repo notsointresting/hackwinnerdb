@@ -1,0 +1,32 @@
+id: vanguard
+name: Vanguard
+slug: vanguard
+tagline: AI-powered emergency evacuation — intelligent, real-time, and radically inclusive. Built
+  for the 300 hotel guests who get handed a paper map when the fire alarm
+summary: Vanguard received the FutureAI Runner-Up (2nd Place) award at HACKFEST'26 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sreejeetaroy2005-svg/Vanguard-total.git
+demo_url: null
+video_url: https://www.youtube.com/embed/4ui3ZTW8dtA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/736/979/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - firebase
+  - gemini
+  - java
+  - javascript
+  - python
+  - react
+  - tensorflow
+  - twilio
+  - webrtc
+builders:
+  - name: Sreejeeta Roy
+  - name: Saanvi Jaiswal
+  - name: Suryansh Singh
+  - name: Priyanka Chourasia

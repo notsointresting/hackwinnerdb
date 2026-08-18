@@ -1,0 +1,19 @@
+id: punjab-sabak-portal
+name: Punjab sabak portal
+slug: punjab-sabak-portal
+tagline: A safe AI study platform with course-locked guardrails. Generates targeted MCQs, checks
+  handwritten papers via photo upload, exports parental analytics PDFs, an
+summary: Punjab sabak portal received the Participation Prize award at DSH Hacks V1 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/P-5B8quW1TE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/775/484/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Abdul Rehman Developer

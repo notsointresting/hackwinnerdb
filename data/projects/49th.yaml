@@ -1,0 +1,24 @@
+id: 49th
+name: 49th
+slug: 49th
+tagline: Hit the ground thriving.
+summary: 49th received the Third Place Overall award at Hack Canada 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/akashngb/roots.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/408/678/datas/medium.png
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - javascript
+  - react
+  - twilio
+  - typescript
+builders:
+  - name: Akash Nagabhirava
+  - name: Sehreen Basara
+  - name: Seeron Sivashankar
+  - name: Betul Cetintas

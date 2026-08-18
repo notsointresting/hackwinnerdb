@@ -1,0 +1,21 @@
+id: yapocalypse
+name: Yapocalypse
+slug: yapocalypse
+tagline: Oversharing? We think NOT
+summary: Yapocalypse received the 1st place award at Dum, Duber and Dumber Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/884/214/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Ariq Saviz
+  - name: Vihaan Vijay
+  - name: nadia waterkamp
+  - name: Nadia Waterkamp

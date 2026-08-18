@@ -1,0 +1,21 @@
+id: incomebase
+name: IncomeBase
+slug: incomebase
+tagline: Eliminate manual loan review. IncomeBase uses AI agents to instantly parse messy financial
+  documents, catch missing pages, and generate an auditable, self-emplo
+summary: IncomeBase received the Third Place - Intermediate award at Weber State AI Hackathon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sroberts03/IncomeBase
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/517/500/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+builders:
+  - name: Sam Roberts

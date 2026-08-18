@@ -1,0 +1,14 @@
+id: vision-ops-the-vakathon
+project_id: vision-ops
+hackathon_id: the-vakathon
+submission_url: https://devpost.com/software/vision-ops
+source:
+  platform: devpost
+  url: https://devpost.com/software/vision-ops
+awards:
+  - type: other
+    title: ($4k+) Other Awards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

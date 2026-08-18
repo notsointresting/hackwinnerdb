@@ -1,0 +1,14 @@
+id: equipe-19-cann-go-starhack
+project_id: equipe-19-cann-go
+hackathon_id: starhack
+submission_url: https://devpost.com/software/equipe-19-cann-go
+source:
+  platform: devpost
+  url: https://devpost.com/software/equipe-19-cann-go
+awards:
+  - type: other
+    title: Prix 2ème place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

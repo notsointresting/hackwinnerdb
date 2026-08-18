@@ -1,0 +1,24 @@
+id: voyage
+name: Voyage
+slug: voyage
+tagline: Read the cortex before you spend. Drop in any ad and Voyage predicts how the brain reacts
+  across 24 regions, then turns it into one appeal score and five signal
+summary: Voyage received the Best Design/Website award at Synthesis Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rishith-c/voyage
+demo_url: null
+video_url: https://www.youtube.com/embed/AzHuGKR-tac
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/837/625/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - openai
+  - python
+  - react
+  - supabase
+  - typescript
+  - vercel
+  - whisper
+builders:
+  - name: Rishith Chennupati

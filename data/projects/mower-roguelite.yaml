@@ -1,0 +1,17 @@
+id: mower-roguelite
+name: Mower Roguelite
+slug: mower-roguelite
+tagline: A lawnmower roguelite where you must strategically manage your fuel while dodging rocks and
+  mowing all the grass.
+summary: Mower Roguelite received the Best Gaming Hack award at PantherHack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Corrinedev/LawnMowerLite
+demo_url: null
+video_url: https://www.youtube.com/embed/IwOvaK0xT6M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/654/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Corbin Smith

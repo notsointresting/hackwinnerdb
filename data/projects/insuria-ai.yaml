@@ -1,0 +1,20 @@
+id: insuria-ai
+name: insuria-ai
+slug: insuria-ai
+tagline: an ai driven insurance platfform
+summary: insuria-ai received the 1st Runner Up award at Build With AI x Hackday FUTMINNA 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Av7XiQgWbuE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/828/173/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Glitch Ex
+  - name: Starxandra
+  - name: Kudirat Yahaya

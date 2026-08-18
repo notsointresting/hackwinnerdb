@@ -1,0 +1,14 @@
+id: classloop-creator-colosseum-startup-competition-student-founders-real-startups
+project_id: classloop
+hackathon_id: creator-colosseum-startup-competition-student-founders-real-startups
+submission_url: https://devpost.com/software/classloop-iz8tfe
+source:
+  platform: devpost
+  url: https://devpost.com/software/classloop-iz8tfe
+awards:
+  - type: other
+    title: Top 10 Rankings - Mentoring
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

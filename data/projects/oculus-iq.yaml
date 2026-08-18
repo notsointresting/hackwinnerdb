@@ -1,0 +1,23 @@
+id: oculus-iq
+name: Oculus IQ
+slug: oculus-iq
+tagline: OculusIQ is an AI-powered multi-agent intelligence platform that predicts disruptions,
+  identifies risks, and transforms fragmented operational data into actiona
+summary: Oculus IQ received the Top 100 Finalist Award award at Ctrl+V Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/amansingh-001/Oculus-IQ
+demo_url: null
+video_url: https://www.youtube.com/embed/UGm98O2Du14
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/742/330/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Aman Singh

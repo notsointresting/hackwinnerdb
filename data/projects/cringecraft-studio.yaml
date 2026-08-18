@@ -1,0 +1,21 @@
+id: cringecraft-studio
+name: CringeCraft Studio
+slug: cringecraft-studio
+tagline: Live out your 2016 MLG youtuber dream
+summary: CringeCraft Studio received the best use of falcon.so award at Stupid Ideas Hackathon
+  (Toronto W26) in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/501/778/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+builders:
+  - name: Bel' Cheng
+  - name: amy huang
+  - name: ariana zheng
+  - name: Rodoshi Mondal

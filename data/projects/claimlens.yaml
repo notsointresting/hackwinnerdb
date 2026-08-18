@@ -1,0 +1,19 @@
+id: claimlens
+name: ClaimLens
+slug: claimlens
+tagline: Break any text into clear, verifiable claims to help you think critically and spot misinformation.
+summary: ClaimLens received the Stickers award at Hackdays Prayagraj  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aminaait6/ClaimLens
+demo_url: null
+video_url: https://www.youtube.com/embed/gowvB88YNx0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/865/470/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - javascript
+  - openai
+builders:
+  - name: aitahmed amina

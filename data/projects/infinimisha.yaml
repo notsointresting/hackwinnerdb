@@ -1,0 +1,20 @@
+id: infinimisha
+name: InfiniMisha
+slug: infinimisha
+tagline: "Play as the great hero Marcus: Defender of the World from onslaught of the evil Misha and
+  Matty. Death is not the end; upon dying, use their life force to resur"
+summary: InfiniMisha received the [CSS] - Most Fun Hack award at birmingHack 2.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/laniro/Birminghack26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/441/995/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies: []
+builders:
+  - name: Cal Don
+  - name: William Marshall
+  - name: laniro R
+  - name: Bros112

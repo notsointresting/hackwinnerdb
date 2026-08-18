@@ -1,0 +1,23 @@
+id: visapath-ai
+name: VisaPath AI
+slug: visapath-ai
+tagline: single platform that assesses your profile, calculates real eligibility scores, generates
+  personalized roadmaps, and connects you with an AI advisor that actual
+summary: VisaPath AI received the Swags and Goodies award at CodeStorm in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/codedivaa/Global-Visa-Navigator.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Ja2eqJ096io
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/743/054/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - blockchain
+technologies:
+  - gemini
+  - javascript
+  - openai
+  - supabase
+builders:
+  - name: codedivaa Singh

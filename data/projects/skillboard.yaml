@@ -1,0 +1,22 @@
+id: skillboard
+name: SkillBoard
+slug: skillboard
+tagline: SkillBoard helps people find and connect with skilled professionals by turning local
+  expertise into a searchable network.
+summary: SkillBoard received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jacky208-crypto/SkillBoard.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/778/414/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - sql
+builders:
+  - name: Jacky Fnounou

@@ -1,0 +1,17 @@
+id: workout-buddy
+name: Workout Buddy
+slug: workout-buddy
+tagline: Real-time squat coaching. 100% on-device
+summary: Workout Buddy received the Third Price award at Melange On-Device AI Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/zetic-ai/ZeticMLangeiOS
+demo_url: null
+video_url: https://www.youtube.com/embed/GZN-j5zns64
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/431/745/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: E Kolawole

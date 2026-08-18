@@ -1,0 +1,20 @@
+id: unified-disaster-intelligence-adaptive-response-system
+name: Unified Disaster Intelligence & Adaptive Response System
+slug: unified-disaster-intelligence-adaptive-response-system
+tagline: UDIARS unifies flood, wildfire, and earthquake intelligence into one live map that shows
+  you real-time disaster risk and computes evacuation routes with voice n
+summary: Unified Disaster Intelligence & Adaptive Response System received the Best User experience
+  award at Youth Code x AI in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Ansh87/UDIARS2
+demo_url: null
+video_url: https://www.youtube.com/embed/RHZXeYg0mxg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/835/131/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Ansh Saini

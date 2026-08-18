@@ -1,0 +1,27 @@
+id: watchdog
+name: WatchDog
+slug: watchdog
+tagline: WatchDog remotely tracks and analyzes your dog’s behavior using a wearable collar and edge
+  AI. It detects activity in real time, flags potential health issues a
+summary: WatchDog received the Espressif Innovation in Smart Home/City award at StarkHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/9PZALiYdXlI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/756/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - c-plus-plus
+  - postgresql
+  - react-native
+  - tensorflow
+  - typescript
+builders:
+  - name: Lovro Šantek
+  - name: Neven Lukić
+  - name: Luka Bradarić Lisić
+  - name: Petar Jakuš

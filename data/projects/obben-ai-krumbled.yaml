@@ -1,0 +1,23 @@
+id: obben-ai-krumbled
+name: obben ai - KrumblED
+slug: obben-ai-krumbled
+tagline: Browser extension that detects cookies and explains what each does, helping users spot
+  tracking cookies and make informed privacy choices fast.
+summary: obben ai - KrumblED received the Diversity Stream - 2nd award at Hacked 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Benjamin-He123/KrumblED
+demo_url: null
+video_url: https://www.youtube.com/embed/nB2_Rm0Am4k
+image_url: null
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - productivity
+technologies:
+  - javascript
+builders:
+  - name: Benjamin-He123 He
+  - name: Edward Bui
+  - name: boscochann
+  - name: Tako7518 Mah

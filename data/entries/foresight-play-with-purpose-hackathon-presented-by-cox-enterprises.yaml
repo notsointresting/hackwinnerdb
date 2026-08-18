@@ -1,0 +1,14 @@
+id: foresight-play-with-purpose-hackathon-presented-by-cox-enterprises
+project_id: foresight
+hackathon_id: play-with-purpose-hackathon-presented-by-cox-enterprises
+submission_url: https://devpost.com/software/secret-1qtjol
+source:
+  platform: devpost
+  url: https://devpost.com/software/secret-1qtjol
+awards:
+  - type: sponsor-prize
+    title: Freekick - sponsored by gener8tor
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

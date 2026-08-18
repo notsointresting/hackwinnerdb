@@ -1,0 +1,14 @@
+id: videogen-agent-summer-hackathon-2026
+project_id: videogen-agent
+hackathon_id: summer-hackathon-2026
+submission_url: https://devpost.com/software/videogen-agent
+source:
+  platform: devpost
+  url: https://devpost.com/software/videogen-agent
+awards:
+  - type: other
+    title: Internship Opportunities
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: medclarify-ai
+name: MedClarify AI
+slug: medclarify-ai
+tagline: Translating complex prescription labels into safe, plain-English daily schedules using
+  Gemini 2.5 Flash. A serverless, safety-first AI medical companion.
+summary: MedClarify AI received the Codex $100 Credit award at Hack Days CUET in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sheikh-mohammad-rakib/MedClarify-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/mtoexbNcyOw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/837/453/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - firebase
+  - react
+  - typescript
+builders:
+  - name: Sheikh Mohammad Rakib

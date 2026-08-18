@@ -1,0 +1,22 @@
+id: fambai-cv
+name: Fambai cv
+slug: fambai-cv
+tagline: AI Chat like CV generator
+summary: Fambai cv received the Theme-Based Awards award at Quantum Sprint in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Db4T5qt5wXQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/052/766/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - creative-tools
+technologies:
+  - fastapi
+  - firebase
+  - flutter
+  - python
+builders:
+  - name: Priviledge Kurura

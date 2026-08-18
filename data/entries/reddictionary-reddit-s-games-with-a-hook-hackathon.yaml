@@ -1,0 +1,14 @@
+id: reddictionary-reddit-s-games-with-a-hook-hackathon
+project_id: reddictionary
+hackathon_id: reddit-s-games-with-a-hook-hackathon
+submission_url: https://devpost.com/software/reddictionary
+source:
+  platform: devpost
+  url: https://devpost.com/software/reddictionary
+awards:
+  - type: category-winner
+    title: Best Use of Retention Mechanics
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

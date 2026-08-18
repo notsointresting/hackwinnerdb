@@ -1,0 +1,21 @@
+id: handoff
+name: Handoff
+slug: handoff
+tagline: Handoff is your Care Home Coordinator built inside Slack. It replaces sticky notes,
+  binders, and text messages used in coordinating elderly care, where missed c
+summary: Handoff received the Most Innovative Slack Agent award at Slack Agent Builder Challenge in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kV_zy050rlw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/711/989/datas/medium.png
+categories:
+  - enterprise
+technologies:
+  - claude
+  - docker
+  - python
+  - supabase
+builders:
+  - name: Frank Rossi

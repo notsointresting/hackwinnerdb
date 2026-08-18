@@ -1,0 +1,20 @@
+id: foresee
+name: ForeSee
+slug: foresee
+tagline: Predict the tab. Protect the vibe.
+summary: ForeSee received the [MLH] Best Use of ElevenLabs award at Mountain Madness 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/harjotsk03/ForeSee
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/394/977/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - typescript
+builders:
+  - name: Faaiz Abdullah
+  - name: Kashfi Pranta
+  - name: Harjot Singh

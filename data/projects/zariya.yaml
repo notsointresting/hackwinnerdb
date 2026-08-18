@@ -1,0 +1,24 @@
+id: zariya
+name: Zariya
+slug: zariya
+tagline: With Zariya, you don’t just practice speaking, you see how well you’re articulating, get
+  instant feedback, and improve every time. It’s like having a personal A
+summary: Zariya received the Best UI/UX award at AthenaHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yashvi-sc/Zariya-AthenaHacks2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - flask
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: yashvi-sc Hiranandani
+  - name: Anika Verma

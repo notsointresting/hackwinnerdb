@@ -1,0 +1,14 @@
+id: project-stellar
+name: Project Stellar
+slug: project-stellar
+organizer: []
+year: 2026
+sources:
+  - https://project-stellar.devpost.com/
+  - https://project-stellar.devpost.com/project-gallery?filter=winner
+website_url: https://project-stellar.devpost.com/
+platform: devpost
+participant_count: 29
+prize_pool: 150
+currency: USD
+description: "Devpost hackathon: Project Stellar. Imported automatically."

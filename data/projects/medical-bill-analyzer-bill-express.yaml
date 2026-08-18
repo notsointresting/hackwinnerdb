@@ -1,0 +1,27 @@
+id: medical-bill-analyzer-bill-express
+name: Medical Bill Analyzer - Bill Express
+slug: medical-bill-analyzer-bill-express
+tagline: Provides a summary of crucial details on medical documents, including multi-lingual
+  features to support accessibility.
+summary: Medical Bill Analyzer - Bill Express received the Best Beginner Hack award at Hack Brooklyn
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/frawnda/HackBrooklyn-Healthcare.git
+demo_url: null
+video_url: https://www.youtube.com/embed/xPNl-MoBrOA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/444/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - flask
+  - langchain
+  - python
+  - react
+builders:
+  - name: Michelle Fronda
+  - name: Nathan Chin
+  - name: Musfirat Rahman
+  - name: Aqual 336

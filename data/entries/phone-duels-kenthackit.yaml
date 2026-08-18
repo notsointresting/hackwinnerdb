@@ -1,0 +1,14 @@
+id: phone-duels-kenthackit
+project_id: phone-duels
+hackathon_id: kenthackit
+submission_url: https://devpost.com/software/phone-duels
+source:
+  platform: devpost
+  url: https://devpost.com/software/phone-duels
+awards:
+  - type: other
+    title: "[Hackathons UK] Hackiest Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

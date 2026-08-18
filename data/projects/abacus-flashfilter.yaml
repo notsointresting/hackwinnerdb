@@ -1,0 +1,20 @@
+id: abacus-flashfilter
+name: abacus_FlashFilter
+slug: abacus-flashfilter
+tagline: Real time, fullscreen flash protection for epilepsy.
+summary: abacus_FlashFilter received the Software 2nd award at Hacked 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GenericConfluent/abacus_FlashFilter
+demo_url: null
+video_url: https://www.youtube.com/embed/1cnUtuRpziQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/737/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies: []
+builders:
+  - name: Christopher Lamers
+  - name: Anraj Singh
+  - name: Matthew Power
+  - name: Chaitanya DS Thakur

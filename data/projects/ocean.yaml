@@ -1,0 +1,23 @@
+id: ocean
+name: Ocean
+slug: ocean
+tagline: in my 30 square ft san francisco 1 bedroom apartment
+summary: "Ocean received the PICO: Best Emulator or Spatial SDK Project award at ImmerseGT 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/riddhimadeb10/Ocean
+demo_url: null
+video_url: https://www.youtube.com/embed/0Pl9udOcIJQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/484/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - arduino
+  - elevenlabs
+  - react
+builders:
+  - name: Kai Wen Khoo
+  - name: Sanjushree Bastia
+  - name: Riddhima Deb

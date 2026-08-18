@@ -1,0 +1,14 @@
+id: prestige-auto-x-autopost-daybot-commerce-hackathon
+project_id: prestige-auto-x-autopost
+hackathon_id: daybot-commerce-hackathon
+submission_url: https://devpost.com/software/prestige-auto-x-autopost
+source:
+  platform: devpost
+  url: https://devpost.com/software/prestige-auto-x-autopost
+awards:
+  - type: other
+    title: Daybot Pro — 1 Year Subscription
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

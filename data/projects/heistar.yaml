@@ -1,0 +1,23 @@
+id: heistar
+name: HeistAR
+slug: heistar
+tagline: Rob a haunted museum and collect artifacts without getting killed by the monsters!
+summary: "HeistAR received the ImmerseGT: Gaming Track award at ImmerseGT 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/shreya6064/monsterseatyou
+demo_url: null
+video_url: https://www.youtube.com/embed/cFyOfECdazU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/061/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Mika Dewar
+  - name: Sherry Li
+  - name: Nasim Ahmed
+  - name: Shreya Punjabi

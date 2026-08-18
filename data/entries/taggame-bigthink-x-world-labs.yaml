@@ -1,0 +1,14 @@
+id: taggame-bigthink-x-world-labs
+project_id: taggame
+hackathon_id: bigthink-x-world-labs
+submission_url: https://devpost.com/software/taggame
+source:
+  platform: devpost
+  url: https://devpost.com/software/taggame
+awards:
+  - type: category-winner
+    title: Best Game
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

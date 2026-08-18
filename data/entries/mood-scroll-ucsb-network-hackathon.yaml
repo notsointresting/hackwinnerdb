@@ -1,0 +1,14 @@
+id: mood-scroll-ucsb-network-hackathon
+project_id: mood-scroll
+hackathon_id: ucsb-network-hackathon
+submission_url: https://devpost.com/software/mood-scroll
+source:
+  platform: devpost
+  url: https://devpost.com/software/mood-scroll
+awards:
+  - type: honorable-mention
+    title: Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

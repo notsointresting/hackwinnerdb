@@ -1,0 +1,14 @@
+id: belonginclusivity-analytics-dashboard-adahacks-2026
+project_id: belonginclusivity-analytics-dashboard
+hackathon_id: adahacks-2026
+submission_url: https://devpost.com/software/belonginclusivity-analytic-dashboard
+source:
+  platform: devpost
+  url: https://devpost.com/software/belonginclusivity-analytic-dashboard
+awards:
+  - type: first-place
+    title: "UI/UX: 1st Place (BelongInclusivity)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

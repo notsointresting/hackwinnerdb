@@ -1,0 +1,20 @@
+id: financial-aid-tracker
+name: Financial Aid Tracker
+slug: financial-aid-tracker
+tagline: A centralized hub where students can input their financial aid package, compare it against
+  offers from other institutions, and see a clear visual breakdown of t
+summary: Financial Aid Tracker received the Best Beginner Hack award at HACKMESA 2.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/821/datas/gallery.jpg
+categories:
+  - education
+  - fintech
+technologies:
+  - react
+builders:
+  - name: Charliee510 Hoang
+  - name: Francisco Ortega Pantoja

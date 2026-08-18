@@ -1,0 +1,21 @@
+id: nutri-ai
+name: nutri.ai
+slug: nutri-ai
+tagline: Eat informed. Grow confidently.
+summary: nutri.ai received the Google Gemini Swag Kits award at Hack the Valley Hack Day  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aarontran321/nutri.ai
+demo_url: null
+video_url: https://www.youtube.com/embed/FIFTnvzTPYo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/024/625/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Aaron Tran
+  - name: kaley
+  - name: aaronwxng
+  - name: Anita Jiang

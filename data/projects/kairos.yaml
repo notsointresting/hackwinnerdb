@@ -1,0 +1,23 @@
+id: kairos
+name: Kairos
+slug: kairos
+tagline: Her heart, our future.
+summary: Kairos received the Heart Health At Warp Speed - Sponsored by the Office of the California
+  Surgeon General award at VenusHacks 2026 in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/wenn00/VenusHack-Project
+demo_url: null
+video_url: https://www.youtube.com/embed/en9rg1n1Yz8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/152/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: wenn00 Lee
+  - name: gamejam-sandwich
+  - name: Sunmitha Mohanraja
+  - name: Sahana Chockalingam

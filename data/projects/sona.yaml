@@ -1,0 +1,22 @@
+id: sona
+name: Sona
+slug: sona
+tagline: Sona catches the early signs of dementia, years before you'd ever notice.
+summary: Sona received the Judge's Prize (USA Address Only) award at PeddieHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/momenbuilds/sona
+demo_url: null
+video_url: https://www.youtube.com/embed/7Kh7R97hiRE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/113/293/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Arav Bhandari
+  - name: Chase Chang
+  - name: Momen Adel
+  - name: Vivaan Gupta

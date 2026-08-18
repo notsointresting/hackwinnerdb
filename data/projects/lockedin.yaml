@@ -1,0 +1,18 @@
+id: lockedin
+name: LockedIn
+slug: lockedin
+tagline: Have trouble staying awake? Try this!
+summary: LockedIn received the Crowd Favourite - Voted by you award at Dum, Duber and Dumber
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/BigSpaceMan/jumpscareExtension/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/884/350/datas/gallery.jpg
+categories:
+  - other
+technologies: []
+builders:
+  - name: adithya rayudu
+  - name: Madhu Niveditha

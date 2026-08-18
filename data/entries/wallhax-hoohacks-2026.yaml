@@ -1,0 +1,14 @@
+id: wallhax-hoohacks-2026
+project_id: wallhax
+hackathon_id: hoohacks-2026
+submission_url: https://devpost.com/software/wallhax-896ck3
+source:
+  platform: devpost
+  url: https://devpost.com/software/wallhax-896ck3
+awards:
+  - type: category-winner
+    title: Best AI & Data Science
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: tutortrust-gemma-says-no-but-politely
+name: TutorTrust (Gemma Says No But Politely)
+slug: tutortrust-gemma-says-no-but-politely
+tagline: We tried to trick Gemma into cheating - roleplay, sob stories, fake prof permission. Tested
+  2 languages, 4 judges, and if it acts different when "watched." Resu
+summary: TutorTrust (Gemma Says No But Politely) received the 3rd Place award at DS6051 Decoding
+  LLMs Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/aniyahlater/ds-6051-hackathon/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/m7Xmq7m7VSg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/872/052/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Tiandra Threat
+  - name: Aniyah McWilliams
+  - name: Razan Habboub
+  - name: shaveen327 Saadee

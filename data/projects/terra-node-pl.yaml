@@ -1,0 +1,25 @@
+id: terra-node-pl
+name: Terra Node PL
+slug: terra-node-pl
+tagline: AI-assisted climate and infrastructure decision platform
+summary: Terra Node PL received the 4th Place Winner award at Evorozen Innovators Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bnssaanirudh/terra-node-pl
+demo_url: null
+video_url: https://www.youtube.com/embed/XSoa5WLC-94
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/726/656/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - fastapi
+  - groq
+  - mapbox
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Anirudh Badampudi

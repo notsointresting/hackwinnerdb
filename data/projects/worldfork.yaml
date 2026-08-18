@@ -1,0 +1,22 @@
+id: worldfork
+name: WorldFork
+slug: worldfork
+tagline: Fork reality into multiverses, simulating how societies mutate and cascade across alternate
+  futures. Powered by sociology, mechanistic interpretation, and cohor
+summary: "WorldFork received the Listen Labs x HackTech: Simulate Humanity award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/Hilo-Hilo/WorldFork
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/644/195/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Hanson Wen
+  - name: James Gui

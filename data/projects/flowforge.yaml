@@ -1,0 +1,21 @@
+id: flowforge
+name: FlowForge
+slug: flowforge
+tagline: From prompt to production pipelines.
+summary: FlowForge received the Top 4–6 Projects - Builder Awards award at LovHack Season 2 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Praneel7015/flowforge
+demo_url: null
+video_url: https://www.youtube.com/embed/slGugf1d6Fw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/861/469/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - docker
+  - react
+builders:
+  - name: Praneel S
+  - name: Ojasvi Poonia

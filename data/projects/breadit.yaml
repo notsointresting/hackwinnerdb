@@ -1,0 +1,19 @@
+id: breadit
+name: BreadIt
+slug: breadit
+tagline: BreadIt; an anonymous academic forum where students can request feedback, share a
+  community, and be themselves authentically no matter what.
+summary: BreadIt received the Second Prize award at Berea College Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xGWxpFozwGM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/488/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Alicia  Bacani

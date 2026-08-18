@@ -1,0 +1,23 @@
+id: surviv
+name: Surviv
+slug: surviv
+tagline: A decentralized offline mesh app that turns phones into lifelines
+summary: Surviv received the Best Accessiblity & Empowerment award at HooHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CruidGals/surviv
+demo_url: null
+video_url: https://www.youtube.com/embed/FmG9QfbV3Wk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/464/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - python
+  - pytorch
+  - swift
+builders:
+  - name: Prakhar Singh
+  - name: Kyle  Chiem
+  - name: Khai Ta
+  - name: Leo Lu

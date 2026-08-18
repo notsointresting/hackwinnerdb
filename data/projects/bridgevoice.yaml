@@ -1,0 +1,22 @@
+id: bridgevoice
+name: BridgeVoice
+slug: bridgevoice
+tagline: "BridgeVoice is an AI medical communication platform that removes language and hearing
+  barriers by turning doctor-patient conversations into real-time captions, "
+summary: BridgeVoice received the Best Project Built with ElevenLabs award at GreyHacks Spring 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sbobbala1/GreyHacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/424/157/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Sahasra Bobbala
+  - name: Sanjana Gorantala
+  - name: Harini Talluri
+  - name: Purvi Bojedla

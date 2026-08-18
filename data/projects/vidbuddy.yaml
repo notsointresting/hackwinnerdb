@@ -1,0 +1,19 @@
+id: vidbuddy
+name: Vidbuddy
+slug: vidbuddy
+tagline: AI Audio Descriptions for Blind & Low-Vision Viewers
+summary: Vidbuddy received the 2nd Place – Innovation Excellence Award award at Quantum Sprint in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6AbnXBLcbc0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/526/626/datas/medium.png
+categories:
+  - artificial-intelligence
+  - fintech
+  - creative-tools
+technologies:
+  - azure
+builders:
+  - name: Sumedh Chandanshive

@@ -1,0 +1,23 @@
+id: postmortem
+name: PostMortem
+slug: postmortem
+tagline: The real-time anonymous retrospective that lets product teams finally say what actually
+  went wrong — then commit to fixing it, publicly, with their name attache
+summary: "PostMortem received the Product Bundle by Mind the Product award at Mind the Product
+  presents World Product Day: Everyone Ships Now in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Boweii22/Post-Mortem
+demo_url: null
+video_url: https://www.youtube.com/embed/dN2lKtt5fPU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/786/274/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Tombri Bowei

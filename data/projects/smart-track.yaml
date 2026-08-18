@@ -1,0 +1,19 @@
+id: smart-track
+name: Smart-track
+slug: smart-track
+tagline: Smart Track turns Lofty's nine-widget dashboard into a four-minute morning playlist — three
+  AI-ranked decisions, one tap to approve. Same Lofty AI underneath, n
+summary: Smart-track received the Lofty award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Prathamcodes111/Smart-track.git
+demo_url: null
+video_url: https://www.youtube.com/embed/wcyNG_TvXAk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies: []
+builders:
+  - name: Pratham Nanekar

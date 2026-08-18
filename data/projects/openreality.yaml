@@ -1,0 +1,26 @@
+id: openreality
+name: OpenReality
+slug: openreality
+tagline: OpenClaw in the real world! Generate and reason in a 3d map with just your phone!
+summary: OpenReality received the Most Creative award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bdavidzhang/Open-Reality
+demo_url: null
+video_url: https://www.youtube.com/embed/oADszl90gkc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/385/580/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - flask
+  - gemini
+  - python
+  - pytorch
+  - typescript
+builders:
+  - name: Jalen Lu
+  - name: David Zhang
+  - name: Tarang Pande
+  - name: Parinthapat Pengpun

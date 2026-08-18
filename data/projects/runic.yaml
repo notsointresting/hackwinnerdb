@@ -1,0 +1,23 @@
+id: runic
+name: Runic
+slug: runic
+tagline: The fastest hands-free voice-powered ai browser agent
+summary: Runic received the 1st place award at Los Altos Hacks X in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/unixers/runic/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/558/199/datas/medium.png
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - python
+  - swift
+  - typescript
+builders:
+  - name: Owen Cheng
+  - name: adam z
+  - name: James Hughes
+  - name: Adam Zheng

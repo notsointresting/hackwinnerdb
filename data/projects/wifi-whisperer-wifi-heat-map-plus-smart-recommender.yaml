@@ -1,0 +1,21 @@
+id: wifi-whisperer-wifi-heat-map-plus-smart-recommender
+name: WiFi Whisperer (WiFi Heat Map + Smart Recommender)
+slug: wifi-whisperer-wifi-heat-map-plus-smart-recommender
+tagline: WiFi Whisperer is a smart campus tool that helps students find the best place to study
+  based on real-time WiFi quality. Don't guess where the signal is stronges
+summary: WiFi Whisperer (WiFi Heat Map + Smart Recommender) received the Laptop Bag award at
+  HackHounds 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Yohann Gouin

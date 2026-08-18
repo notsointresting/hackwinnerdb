@@ -1,0 +1,23 @@
+id: assistconnect
+name: AssistConnect
+slug: assistconnect
+tagline: AssistConnect is an AI-powered platform that connects people with disabilities to
+  volunteers, organizations, support services, and accessibility resources throu
+summary: AssistConnect received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/atiqursafayat/AssistConnect
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - openai
+  - postgresql
+  - supabase
+  - typescript
+builders:
+  - name: atiqur rahman atiq

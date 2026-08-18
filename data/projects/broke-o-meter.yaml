@@ -1,0 +1,21 @@
+id: broke-o-meter
+name: broke_o_meter
+slug: broke-o-meter
+tagline: Prove your bank balance is below a threshold without revealing the number. OCR runs
+  client-side, the proof is cryptographic, and nothing leaves the browser.
+summary: broke_o_meter received the Books, Mentorship, Internshipt, Became Club member award at
+  Cyber_Coders in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/hi-heisenbug/broke_o_meter
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/704/201/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - blockchain
+technologies:
+  - javascript
+  - vercel
+builders:
+  - name: Saurabh Gupta

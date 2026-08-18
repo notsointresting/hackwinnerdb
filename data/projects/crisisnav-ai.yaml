@@ -1,0 +1,20 @@
+id: crisisnav-ai
+name: CrisisNav AI
+slug: crisisnav-ai
+tagline: Turning Panic into Precision.
+summary: CrisisNav AI received the Runner-Up – BuildX Nagpur award at BuildX Nagpur in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yashaswicharjan-jpg/rescue-nav-ai.git
+demo_url: null
+video_url: https://www.youtube.com/embed/@yashaswicharjan
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/546/680/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Siddhi Thombre
+  - name: Riba Khan
+  - name: Shreya Nandurkar
+  - name: Yashaswi

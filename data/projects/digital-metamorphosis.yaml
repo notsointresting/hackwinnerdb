@@ -1,0 +1,22 @@
+id: digital-metamorphosis
+name: “Digital Metamorphosis”
+slug: digital-metamorphosis
+tagline: An interactive film exploring identity transformation shaped by algorithmic systems. Help
+  Yu navigate her journey from an optimistic first-year university stude
+summary: “Digital Metamorphosis” received the The Media Jam Public Voting Prize award at MSSA Media
+  Jam 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/864/datas/gallery.jpg
+categories:
+  - education
+  - media
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Ellen Chu
+  - name: Yu Yamura

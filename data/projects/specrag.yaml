@@ -1,0 +1,26 @@
+id: specrag
+name: SpecRAG
+slug: specrag
+tagline: SpecRAG is a real-time validation engine that catches fatal constraint violations
+  instantly, preventing burned silicon and saving weeks of debugging
+summary: SpecRAG received the CS4Everyone Innovation Award award at Built with Python Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/seeramsujay/specRAG
+demo_url: null
+video_url: https://www.youtube.com/embed/bzrTZULhvq4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/833/774/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - azure
+  - c-plus-plus
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: DoppalapudiNagaVenkataSai Venkat Sai
+  - name: Aditya Tummuri
+  - name: Lochan B
+  - name: Sujay Seeram

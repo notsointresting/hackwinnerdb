@@ -1,0 +1,22 @@
+id: clinicflow
+name: ClinicFlow
+slug: clinicflow
+tagline: "ClinicFlow AI: An AI-native clinic receptionist that books appointments, manages patient
+  memory, prevents workflow errors, and routes urgent cases safely throug"
+summary: ClinicFlow received the ChatGPT Plus award at Codex Meetup Dhaka - UIU in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/devdidar/clinicflow-hackathon
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - openai
+  - typescript
+  - vercel
+builders:
+  - name: didarul azam mahi

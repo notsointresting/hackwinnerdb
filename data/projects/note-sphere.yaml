@@ -1,0 +1,18 @@
+id: note-sphere
+name: Note Sphere
+slug: note-sphere
+tagline: AI-powered smart note sharing for collaborative and personalized learning.
+summary: Note Sphere received the 50$ Gift Card award at Build With AI Hack Days @DIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/683/358/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: SUPAN ROY

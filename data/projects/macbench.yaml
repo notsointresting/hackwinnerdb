@@ -1,0 +1,19 @@
+id: macbench
+name: Macbench
+slug: macbench
+tagline: An app that reads out fun facts as Shakespeare and tests you while also functioning as a
+  gym tracker.
+summary: Macbench received the [Hackathons UK] Best Use of AI Agents on Arm award at SotonHack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AI000007/SotonHack2026-Backend
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - kotlin
+builders:
+  - name: Al T
+  - name: Ethan Woollett

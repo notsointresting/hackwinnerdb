@@ -1,0 +1,23 @@
+id: being-nemo
+name: Being Nemo
+slug: being-nemo
+tagline: "Being Nemo is a 3rd-person survival game where you are a clownfish clearing litter before
+  it suffocates the ecosystem, while dodging predators—showing the real "
+summary: Being Nemo received the Game Design award at Uncommon Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/skaraen/Being-Nemo.git
+demo_url: null
+video_url: https://www.youtube.com/embed/b5nry0m7jhc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/692/803/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - unity
+builders:
+  - name: Agnes Srinivasan
+  - name: Tushar Sonthalia
+  - name: Karaen Senthilkumar
+  - name: Adi Suresh

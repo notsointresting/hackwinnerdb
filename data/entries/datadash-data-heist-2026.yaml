@@ -1,0 +1,14 @@
+id: datadash-data-heist-2026
+project_id: datadash
+hackathon_id: data-heist-2026
+submission_url: https://devpost.com/software/datadash-qisy6a
+source:
+  platform: devpost
+  url: https://devpost.com/software/datadash-qisy6a
+awards:
+  - type: category-winner
+    title: Best Presentation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

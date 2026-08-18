@@ -1,0 +1,22 @@
+id: wtf-is-monad
+name: WTF IS MONAD
+slug: wtf-is-monad
+tagline: Claude Code for DJs
+summary: WTF IS MONAD received the Unconventional connections award at SotonHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NovaCodesStuff/WTFIsMonad
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/442/962/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+  - javascript
+  - python
+  - react
+builders:
+  - name: Martin Perreau
+  - name: Tamtej Johal
+  - name: Milo Griffiths

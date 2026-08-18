@@ -1,0 +1,19 @@
+id: linkedhistory
+name: LinkedHistory
+slug: linkedhistory
+tagline: Linkedin for Historical Figures
+summary: LinkedHistory received the [MLH] Best .Tech Domain Name award at Los Altos Hacks X in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stananan/linkedhistory
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/466/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - firebase
+  - react
+builders:
+  - name: Stanley Ho

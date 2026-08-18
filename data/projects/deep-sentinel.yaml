@@ -1,0 +1,22 @@
+id: deep-sentinel
+name: Deep Sentinel
+slug: deep-sentinel
+tagline: Finds what Snyk and CodeQL miss by correlating GitHub PRs, Slack discussions, and codebase
+  architecture to surface deferred fixes and compound risks no code-onl
+summary: Deep Sentinel received the Most Innovative Use of Aerospike APIs and Storage Model to Build
+  a Compelling Application award at Deep Agents Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElijahUmana/deep-sentinel
+demo_url: null
+video_url: https://www.youtube.com/embed/0l_-wCSpXFc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - openai
+  - python
+builders:
+  - name: Elijah Umana

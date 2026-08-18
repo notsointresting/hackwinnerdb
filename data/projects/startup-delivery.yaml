@@ -1,0 +1,25 @@
+id: startup-delivery
+name: startup-delivery
+slug: startup-delivery
+tagline: "The step before Lovable: one sentence in → live, cited market recon, a deterministic 0–100
+  verdict that can say pass, and a real buyable domain secured on .deli"
+summary: startup-delivery received the Nimble - Build an Agentic App That Sees the Live Web award at
+  DeveloperWeek New York 2026 Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/aryarahimi1/startup-delivery
+demo_url: null
+video_url: https://www.youtube.com/embed/kPf7mGO_Z30
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/751/044/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - fastapi
+  - python
+  - svelte
+  - typescript
+  - vercel
+builders:
+  - name: Arya RH

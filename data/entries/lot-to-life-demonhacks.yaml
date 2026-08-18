@@ -1,0 +1,14 @@
+id: lot-to-life-demonhacks
+project_id: lot-to-life
+hackathon_id: demonhacks
+submission_url: https://devpost.com/software/lot-to-life
+source:
+  platform: devpost
+  url: https://devpost.com/software/lot-to-life
+awards:
+  - type: other
+    title: Depaul Athletics Backpack & Chicago Themed Experience
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

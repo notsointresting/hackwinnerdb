@@ -1,0 +1,20 @@
+id: scene-blocker
+name: Scene Blocker
+slug: scene-blocker
+tagline: Using Snapchat Spectacles, this lens uses XR technology to assist theater by simulating a
+  scene with your lines and blocking, switching lines through voice reco
+summary: Scene Blocker received the XR in Education Track 2nd Place - Sponsored by Spectacles award
+  at TigerVerse 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/sonicstep4/Tigerverse-Hackathon-2026---Spectacles---Scene-Blocker.git
+demo_url: null
+video_url: https://www.youtube.com/embed/l2tkBvf0ZtM
+image_url: null
+categories:
+  - education
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: Caleb Shields

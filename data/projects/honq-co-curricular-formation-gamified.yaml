@@ -1,0 +1,20 @@
+id: honq-co-curricular-formation-gamified
+name: "Honq: Co-Curricular Formation, Gamified"
+slug: honq-co-curricular-formation-gamified
+tagline: "Honq turns Honors College's co-curricular requirements into a game: scan codes to earn
+  badges, build credentials, and climb a leaderboard... without storing any"
+summary: "Honq: Co-Curricular Formation, Gamified received the Merit Award award at AI for Learning
+  & Development Build Challenge — AI Collective HR + Regent in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/simontarr/honq
+demo_url: null
+video_url: https://www.youtube.com/embed/4p3fQ7krgGc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/781/552/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies: []
+builders:
+  - name: Simon Tarr

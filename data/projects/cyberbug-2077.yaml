@@ -1,0 +1,19 @@
+id: cyberbug-2077
+name: CyberBug 2077
+slug: cyberbug-2077
+tagline: CyberBug 2077 is a neon bugrunner where you avoid enemy debuggers and corrupt an infinite
+  codeworld. The best way to learn code is by breaking, gaming, and surv
+summary: CyberBug 2077 received the Best Game award at SillyHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/maisinxyz/CyberBug2077
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/030/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - gaming
+technologies: []
+builders:
+  - name: Ayush Narayanaswamy
+  - name: Vince Kevin Oliverio Ong

@@ -1,0 +1,25 @@
+id: penguin
+name: Penguin
+slug: penguin
+tagline: Penguin is an AI agent that lives inside your iMessage group chat. Add it like any other
+  member, @mention it, and it answers with memory of all the inside jokes
+summary: Penguin received the 1st Overall award at SCU Hack-a-Stack - Endurance Track in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/michaelt244/hackai
+demo_url: null
+video_url: https://www.youtube.com/embed/wAy7khnE3ig
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/768/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - cloudflare
+  - fastapi
+  - python
+builders:
+  - name: ibra-zhan Tleukulov
+  - name: Michael Tiburcio
+  - name: Temujin Talkenov
+  - name: AlfonsoZo06

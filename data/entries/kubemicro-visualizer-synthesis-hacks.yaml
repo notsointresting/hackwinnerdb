@@ -1,0 +1,14 @@
+id: kubemicro-visualizer-synthesis-hacks
+project_id: kubemicro-visualizer
+hackathon_id: synthesis-hacks
+submission_url: https://devpost.com/software/kubemicro-visualizer
+source:
+  platform: devpost
+  url: https://devpost.com/software/kubemicro-visualizer
+awards:
+  - type: other
+    title: Network Application
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

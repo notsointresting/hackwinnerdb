@@ -1,0 +1,27 @@
+id: smogguard
+name: smogGuard
+slug: smogguard
+tagline: AI-powered smart pollution monitoring and health advisory system helping communities
+  detect, predict, and respond to smog in real time.
+summary: smogGuard received the 2nd Prize award at SmogNet Datathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AlgoHub-2025/SMOG_NET_DATATHONE
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/697/459/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - python
+  - sql
+  - twilio
+builders:
+  - name: MUHAMMAD YOUNAS KHAN
+  - name: Zafar Ullah
+  - name: Abdul Muhemin
+  - name: Muhammad Ali

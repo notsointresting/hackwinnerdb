@@ -1,0 +1,28 @@
+id: pawpath
+name: PAWPATH
+slug: pawpath
+tagline: PawPath is an AI-powered dog walk planner that tells you exactly when, where, and how long
+  to walk your dog. You snap a photo of your dog, and instantly identif
+summary: "PAWPATH received the Design: Wireless Bluetooth Mouse award at RAMHACK 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Kwasiga06/pawpath
+demo_url: null
+video_url: https://www.youtube.com/embed/du3zCJ9oTwE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/192/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - gemini
+  - google-maps
+  - python
+  - react
+  - supabase
+builders:
+  - name: JoshJuarez Juarez
+  - name: Kwasi Gyimah-Asante
+  - name: Ryan Jose Emmanuel II Tanjutco
+  - name: Soowlihh Compaore

@@ -1,0 +1,18 @@
+id: genie
+name: Genie
+slug: genie
+tagline: I Built a Privacy-First Autonomous Agent That Controls Your Phone, Entirely Offline
+summary: "Genie received the Top 10 Rankings - Mentoring award at Creator Colosseum Startup
+  Competition: Student Founders. Real Startups.  in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Akeem1955/Genie
+demo_url: null
+video_url: https://www.youtube.com/embed/QgUxKgRWELY
+image_url: null
+categories:
+  - cybersecurity
+  - social-impact
+technologies:
+  - kotlin
+builders: []

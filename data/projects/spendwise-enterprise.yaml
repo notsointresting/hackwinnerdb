@@ -1,0 +1,23 @@
+id: spendwise-enterprise
+name: Spendwise-Enterprise
+slug: spendwise-enterprise
+tagline: SpendWise Enterprise automates expense submission, OCR extraction, policy validation, risk
+  scoring, approval workflows, and executive analytics
+summary: Spendwise-Enterprise received the 3rd Best award at Internal Tools Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hari-hara-sudharsan/spendwise-enterprise
+demo_url: null
+video_url: https://www.youtube.com/embed/khv-hYjQLf0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/615/datas/gallery.jpg
+categories:
+  - productivity
+  - enterprise
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Hari Hara Sudharsan J

@@ -1,0 +1,23 @@
+id: snapdance
+name: SnapDance
+slug: snapdance
+tagline: Learn any dance head-to-head in AR with full-body tracking and scoring in real-time, all
+  from your phone camera.
+summary: SnapDance received the Best use of Snap Lens Studio award at YHack Spring 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/YHack-Project/dance
+demo_url: null
+video_url: https://www.youtube.com/embed/D44gx8M5m84
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/356/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Evan Boyle
+  - name: Tanav Prabhu
+  - name: Sumedh Sinha
+  - name: Nishadraj Bhava

@@ -1,0 +1,14 @@
+id: jira-hard-mode-hardware-x-ai-hackathon
+project_id: jira
+hackathon_id: hard-mode-hardware-x-ai-hackathon
+submission_url: https://devpost.com/software/jira-ivo7cr
+source:
+  platform: devpost
+  url: https://devpost.com/software/jira-ivo7cr
+awards:
+  - type: track-winner
+    title: THRIVE - Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

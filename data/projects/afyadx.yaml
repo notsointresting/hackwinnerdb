@@ -1,0 +1,26 @@
+id: afyadx
+name: AfyaDX
+slug: afyadx
+tagline: AfyaDX is an AI-powered radiology assistant that analyzes medical scans and helps doctors
+  generate faster, more accurate diagnostic reports.
+summary: AfyaDX received the First Runner Up award at 2026 CodeXtreme Ingenious Hackathon Season 1
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aibrahiam/Afya
+demo_url: null
+video_url: https://www.youtube.com/embed/cAlCm63fLAg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/403/448/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - docker
+  - postgresql
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Lokosang Felix
+  - name: Ahmed Ibrahim
+  - name: Nancy Teta kwizera
+  - name: Mustafa SalahAldin

@@ -1,0 +1,25 @@
+id: storesense
+name: StoreSense
+slug: storesense
+tagline: StoreSense helps small retailers spot profitable SKUs, track vendor cost increases, manage
+  inventory, and get simple reorder and pricing recommendations without
+summary: StoreSense received the Stipend & Tech Experience at Queens Tech Week award at LAGCC Spring
+  2026 Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Bijay-Thakur/StoreSense---AI-Profit-Leak-Assistant-for-Small-Stores
+demo_url: null
+video_url: https://www.youtube.com/embed/CERsBC_9PKU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/650/152/datas/medium.png
+categories:
+  - education
+  - productivity
+  - e-commerce
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Lhakpa K Sherpa
+  - name: Bijay Thakur
+  - name: Jojobone
+  - name: Alif Rony

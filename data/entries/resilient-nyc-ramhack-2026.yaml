@@ -1,0 +1,14 @@
+id: resilient-nyc-ramhack-2026
+project_id: resilient-nyc
+hackathon_id: ramhack-2026
+submission_url: https://devpost.com/software/resilient-nyc
+source:
+  platform: devpost
+  url: https://devpost.com/software/resilient-nyc
+awards:
+  - type: other
+    title: "Finance: Rocketbook Core: Reusable Notebook"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

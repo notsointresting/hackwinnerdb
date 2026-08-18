@@ -1,0 +1,14 @@
+id: hack-days-iut
+name: Hack Days IUT
+slug: hack-days-iut
+organizer: []
+year: 2026
+sources:
+  - https://hack-days-iut.devpost.com/
+  - https://hack-days-iut.devpost.com/project-gallery?filter=winner
+website_url: https://hack-days-iut.devpost.com/
+platform: devpost
+participant_count: 8
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Hack Days IUT. Imported automatically."

@@ -1,0 +1,14 @@
+id: utsc-connect-utsc-hacks
+project_id: utsc-connect
+hackathon_id: utsc-hacks
+submission_url: https://devpost.com/software/utsc-connect-r5t3xy
+source:
+  platform: devpost
+  url: https://devpost.com/software/utsc-connect-r5t3xy
+awards:
+  - type: other
+    title: Amazon Gift Card ($100)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

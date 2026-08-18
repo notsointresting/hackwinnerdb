@@ -1,0 +1,23 @@
+id: synthesisos
+name: SynthesisOS
+slug: synthesisos
+tagline: Our app addresses gaps in current medical research papers, maps concepts together in
+  creative ways and researches new connections(indirect links) using Spider2'
+summary: SynthesisOS received the Runner Up Prizes award at Enterprise Agents Hackathon by Emergence
+  & Nebius in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/TheAryanAnode/SynthesisOS
+demo_url: null
+video_url: https://www.youtube.com/embed/NxvSJYh67TY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/880/967/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Harish A
+  - name: Aryan Acharya

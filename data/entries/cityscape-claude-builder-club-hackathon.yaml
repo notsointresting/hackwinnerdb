@@ -1,0 +1,14 @@
+id: cityscape-claude-builder-club-hackathon
+project_id: cityscape
+hackathon_id: claude-builder-club-hackathon
+submission_url: https://devpost.com/software/cityscape-b02jei
+source:
+  platform: devpost
+  url: https://devpost.com/software/cityscape-b02jei
+awards:
+  - type: other
+    title: $500 dollars in API Credits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

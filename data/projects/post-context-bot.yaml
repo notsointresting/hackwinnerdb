@@ -1,0 +1,19 @@
+id: post-context-bot
+name: Post Context Bot
+slug: post-context-bot
+tagline: Porting the code behind u/mmm-submission-bot that is written in Python to a "Devvit" app.
+summary: Post Context Bot received the Best Ported Data API App Honorable Mentions award at Reddit
+  Mod Tools and Migrated Apps Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: https://github.com/CplSyx/post-context-bot
+demo_url: null
+video_url: https://www.youtube.com/embed/aoImx4CrPck
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/707/062/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - redis
+  - typescript
+builders:
+  - name: Sam Hissaund

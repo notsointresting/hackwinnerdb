@@ -1,0 +1,14 @@
+id: edu-notification-blocker-bigredhacks
+project_id: edu-notification-blocker
+hackathon_id: bigredhacks
+submission_url: https://devpost.com/software/edu-notification-blocker
+source:
+  platform: devpost
+  url: https://devpost.com/software/edu-notification-blocker
+awards:
+  - type: first-place
+    title: 1st Place Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

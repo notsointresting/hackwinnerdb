@@ -1,0 +1,22 @@
+id: datagrid
+name: DataGrid
+slug: datagrid
+tagline: Standardizing patient information, with safety verification for Low Middle Income (LMIC)
+  institutions
+summary: DataGrid received the Overmind Builders Prize award at Deep Agents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AUW160150/datagrid
+demo_url: null
+video_url: https://www.youtube.com/embed/aufWPcHjLrk
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - groq
+  - python
+builders:
+  - name: AUW160150 Rodela

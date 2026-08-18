@@ -1,0 +1,23 @@
+id: warmpath
+name: WarmPath
+slug: warmpath
+tagline: An ethical public-data network intelligence engine that maps high-probability relationship
+  paths to any public figure.
+summary: WarmPath received the Best Use of Supabase award at Celebrity Hunt Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TlO7L94HzA8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/799/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Ayush Adi

@@ -1,0 +1,14 @@
+id: domain-cv-ucla-hack-on-the-hill-hoth-xiii
+project_id: domain-cv
+hackathon_id: ucla-hack-on-the-hill-hoth-xiii
+submission_url: https://devpost.com/software/domain-cv
+source:
+  platform: devpost
+  url: https://devpost.com/software/domain-cv
+awards:
+  - type: third-place
+    title: 3rd Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,24 @@
+id: guardianai-your-personal-emergency-intelligence-companion
+name: GuardianAI – Your Personal Emergency Intelligence Companion
+slug: guardianai-your-personal-emergency-intelligence-companion
+tagline: GuardianAI uses AI to detect emergencies, provide real-time first-aid guidance, assess
+  risks, and instantly connect users with emergency contacts and nearby med
+summary: GuardianAI – Your Personal Emergency Intelligence Companion received the Second award at
+  Beyond Tomorrow Summit in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/yourusername/guardian-ai
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - cybersecurity
+technologies:
+  - firebase
+  - langchain
+  - openai
+  - vercel
+builders:
+  - name: Harman V

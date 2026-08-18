@@ -1,0 +1,14 @@
+id: panacea-graph-moonshot-hackathon
+project_id: panacea-graph
+hackathon_id: moonshot-hackathon
+submission_url: https://devpost.com/software/panacea-graph
+source:
+  platform: devpost
+  url: https://devpost.com/software/panacea-graph
+awards:
+  - type: finalist
+    title: Top 100 Finalist Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

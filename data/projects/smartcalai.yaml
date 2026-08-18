@@ -1,0 +1,22 @@
+id: smartcalai
+name: SmartCalAI
+slug: smartcalai
+tagline: "SmartCal AI: One app that schedules, prioritizes, and remembers — so you don't have to."
+summary: SmartCalAI received the 50$ Gift Card award at Build With AI Hack Days @DIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/foysalpranto121/SmartCal_AI.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - langchain
+  - postgresql
+  - redis
+builders:
+  - name: Foysal Ahmed Pranto

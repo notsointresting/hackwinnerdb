@@ -1,0 +1,21 @@
+id: shufflr
+name: Shufflr
+slug: shufflr
+tagline: Shufflr creates spontaneous, low-stakes hangout moments, bringing back the natural,
+  unfiltered social energy of the 2016 internet.
+summary: Shufflr received the Reward award at Product Design Sprint in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/210/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Kelly M
+  - name: Emma Phuntsok
+  - name: Jasmine Kumar
+  - name: Lucas Vu

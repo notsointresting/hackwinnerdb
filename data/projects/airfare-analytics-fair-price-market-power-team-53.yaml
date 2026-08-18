@@ -1,0 +1,23 @@
+id: airfare-analytics-fair-price-market-power-team-53
+name: "Airfare Analytics: Fair Price & Market Power (Team 53)"
+slug: airfare-analytics-fair-price-market-power-team-53
+tagline: A data-driven airfare transparency platform that benchmarks fair prices and uncovers the
+  role of competition and market dominance.
+summary: "Airfare Analytics: Fair Price & Market Power (Team 53) received the Best Overall Project
+  award at SDSS Datathon 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/ERICYOOOOOO/SDSS-Datathon-2026-Team-53-Airline
+demo_url: null
+video_url: https://www.youtube.com/embed/0NvBupEFEhA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/984/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Yifan Gu
+  - name: Jon Ho
+  - name: HexiangLi6007678 Hexiang Li

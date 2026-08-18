@@ -1,0 +1,17 @@
+id: hanvas
+name: Hanvas
+slug: hanvas
+tagline: A web application using hand landmarking models.
+summary: Hanvas received the Winners award at GunnHacks 12.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/363/940/datas/medium.png
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Martin Malyshau

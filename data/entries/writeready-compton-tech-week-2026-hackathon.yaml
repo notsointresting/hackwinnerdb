@@ -1,0 +1,14 @@
+id: writeready-compton-tech-week-2026-hackathon
+project_id: writeready
+hackathon_id: compton-tech-week-2026-hackathon
+submission_url: https://devpost.com/software/writeready
+source:
+  platform: devpost
+  url: https://devpost.com/software/writeready
+awards:
+  - type: track-winner
+    title: Track 2 Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

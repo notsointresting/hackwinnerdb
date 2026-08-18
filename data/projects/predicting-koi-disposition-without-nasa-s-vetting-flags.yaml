@@ -1,0 +1,24 @@
+id: predicting-koi-disposition-without-nasa-s-vetting-flags
+name: Predicting KOI Disposition Without NASA's Vetting Flags
+slug: predicting-koi-disposition-without-nasa-s-vetting-flags
+tagline: "You can't put the answer inside the prediction. NASA's vetting flags are the answer, so my
+  leakage-conservative model drops them. Three classes, 0.836 macro F1 "
+summary: "Predicting KOI Disposition Without NASA's Vetting Flags received the Best Explainability
+  Award: Submission that makes complex ML most understandable to a layman-audience. award at India
+  High School Exoplanet Data Challenge in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/smukilan9-ship-it/Exoplanet-challenge-Mukilan/raw/main/Written_Explanation_Mukilan.pdf
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/031/989/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+  - react
+  - vercel
+builders:
+  - name: Mukilan Senthilkumar

@@ -1,0 +1,23 @@
+id: cost-intelligence-platform-construction-materials
+name: Cost Intelligence Platform - Construction Materials
+slug: cost-intelligence-platform-construction-materials
+tagline: Procurement for construction material made easier. No need to deal with messy spreadsheets
+  and calculations in your mind anymore.
+summary: Cost Intelligence Platform - Construction Materials received the Vector award at GlobeHack
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ishansingla-stack/Cost-Intelligence---Construction
+demo_url: null
+video_url: https://www.youtube.com/embed/CEn6xaqDIs0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/591/852/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - django
+  - react
+  - typescript
+builders:
+  - name: Ishan Singla
+  - name: Andi Mawladri

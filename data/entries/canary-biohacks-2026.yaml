@@ -1,0 +1,14 @@
+id: canary-biohacks-2026
+project_id: canary
+hackathon_id: biohacks-2026
+submission_url: https://devpost.com/software/canary-23vrpn
+source:
+  platform: devpost
+  url: https://devpost.com/software/canary-23vrpn
+awards:
+  - type: other
+    title: Mini Sticker Printer
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

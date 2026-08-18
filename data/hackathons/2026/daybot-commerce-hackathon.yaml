@@ -1,0 +1,14 @@
+id: daybot-commerce-hackathon
+name: Daybot Commerce Hackathon
+slug: daybot-commerce-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://daybot.devpost.com/
+  - https://daybot.devpost.com/project-gallery?filter=winner
+website_url: https://daybot.devpost.com/
+platform: devpost
+participant_count: 25
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Daybot Commerce Hackathon. Imported automatically."

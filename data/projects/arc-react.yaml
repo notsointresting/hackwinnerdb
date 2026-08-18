@@ -1,0 +1,27 @@
+id: arc-react
+name: ARC React
+slug: arc-react
+tagline: "An Augmented Reality Mobile Phone IDE, and IntelliJ Idea plugin. Vibe code and manually
+  edit code files on the go, whilst not being limited by the size of your "
+summary: ARC React received the [Jetbrains] 1st place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/elilourens/HackUPC-MobileIDE
+demo_url: null
+video_url: https://www.youtube.com/embed/pnYajwNBJK8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/486/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - fastapi
+  - kotlin
+  - mongodb
+  - python
+  - swift
+builders:
+  - name: Eli Lourens
+  - name: Akshat Thapa
+  - name: Terry Huang

@@ -1,0 +1,23 @@
+id: colorado-workforce-iq
+name: Colorado Workforce IQ
+slug: colorado-workforce-iq
+tagline: Real jobs. Real skills. No guesswork.
+summary: Colorado Workforce IQ received the Problem Statement 4 Winner award at Trustworthy AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/boratonAJ/GW_TAI_NLx_Job_Posting
+demo_url: null
+video_url: https://www.youtube.com/embed/zxgi6YSkgBY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/384/376/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - python
+  - streamlit
+builders:
+  - name: Akshara Y Tarikere
+  - name: Ajayi Olabode
+  - name: Ramin Gamzaev

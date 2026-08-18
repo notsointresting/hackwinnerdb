@@ -1,0 +1,24 @@
+id: delivery-tracker
+name: Delivery Tracker
+slug: delivery-tracker
+tagline: The delivery-date agent that proves padding wins — then refuses to do it.
+summary: Delivery Tracker received the First Prize award at Enterprise Agents Hackathon by Emergence
+  & Nebius in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/advik-bhatt/emergence-hackathon-info/tree/promise-engine
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/946/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Aslan Wang
+  - name: Advik Lall
+  - name: frank yu
+  - name: Advik Bhatt

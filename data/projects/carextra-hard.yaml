@@ -1,0 +1,22 @@
+id: carextra-hard
+name: CareXtRa Hard
+slug: carextra-hard
+tagline: Nervous, frightened, confused about you upcoming procedure (surgery, consultation). We're
+  here to CareXtRa Hard about your experience and make it more comfortab
+summary: CareXtRa Hard received the Cooperative Brain Health Track award at CareXR Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/arroNGk7PYI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/495/663/datas/medium.png
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies: []
+builders:
+  - name: Mariana Djafarian
+  - name: Lucie Shi
+  - name: Delia X
+  - name: Magalie Nicolas

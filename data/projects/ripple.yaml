@@ -1,0 +1,21 @@
+id: ripple
+name: Ripple
+slug: ripple
+tagline: Sounding out space
+summary: "Ripple received the Embedded Systems Track: 1st place: $100 Amazon Gift card (per team
+  member) award at SMCCD 2026 Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/FlavorlessQuark/3D_Mapper
+demo_url: null
+video_url: https://www.youtube.com/embed/nAFFMfMdFdM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/600/753/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: Jjosephi Johanna Josephine
+  - name: Claire O'Brien

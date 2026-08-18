@@ -1,0 +1,20 @@
+id: scopeai
+name: ScopeAI
+slug: scopeai
+tagline: Turn client chaos into a clean Scope of Work in 5 minutes powered by guided AI
+  conversation, built entirely with MeDo.
+summary: ScopeAI received the Creative Content Award award at Build with MeDo Hackathon  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/6l3BpJj7t6w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/674/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Mojeeb Titilayo

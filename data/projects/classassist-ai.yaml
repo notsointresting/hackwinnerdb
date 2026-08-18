@@ -1,0 +1,26 @@
+id: classassist-ai
+name: ClassAssist.AI
+slug: classassist-ai
+tagline: Real-time AI that detects student disengagement via webcam and delivers personalized nudges
+  — keeping every student on track while giving teachers live classroo
+summary: ClassAssist.AI received the Best Use of AI/ML Prize award at Broncohacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Samuaray/ClassAssist.AI
+demo_url: null
+video_url: https://www.youtube.com/embed/OgMvYOLdvgA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/800/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - fastapi
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: Samuel Araya
+  - name: Daniel Caceres
+  - name: Eric
+  - name: Maor Barzilay

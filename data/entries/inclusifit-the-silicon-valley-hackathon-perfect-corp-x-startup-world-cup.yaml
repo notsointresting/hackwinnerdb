@@ -1,0 +1,14 @@
+id: inclusifit-the-silicon-valley-hackathon-perfect-corp-x-startup-world-cup
+project_id: inclusifit
+hackathon_id: the-silicon-valley-hackathon-perfect-corp-x-startup-world-cup
+submission_url: https://devpost.com/software/inclusifit
+source:
+  platform: devpost
+  url: https://devpost.com/software/inclusifit
+awards:
+  - type: second-place
+    title: 2nd Place Winner!
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

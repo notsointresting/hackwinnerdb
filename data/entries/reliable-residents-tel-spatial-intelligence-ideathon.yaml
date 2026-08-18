@@ -1,0 +1,14 @@
+id: reliable-residents-tel-spatial-intelligence-ideathon
+project_id: reliable-residents
+hackathon_id: tel-spatial-intelligence-ideathon
+submission_url: https://devpost.com/software/reliable-residents
+source:
+  platform: devpost
+  url: https://devpost.com/software/reliable-residents
+awards:
+  - type: first-place
+    title: 1st Place for ZaiNar + SGA-AR in Healthcare Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

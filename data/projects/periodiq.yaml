@@ -1,0 +1,22 @@
+id: periodiq
+name: Periodiq
+slug: periodiq
+tagline: Learning is our element.
+summary: Periodiq received the Liftoff General Winners award at Liftoff in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/agrov5/Liftoff-2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - productivity
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Aryan Grover
+  - name: Rishit Brahmbhatt
+  - name: Owen Lor
+  - name: Theo Darie Schulze Torres

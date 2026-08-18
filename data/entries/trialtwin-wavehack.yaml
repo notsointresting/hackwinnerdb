@@ -1,0 +1,14 @@
+id: trialtwin-wavehack
+project_id: trialtwin
+hackathon_id: wavehack
+submission_url: https://devpost.com/software/trialtwin
+source:
+  platform: devpost
+  url: https://devpost.com/software/trialtwin
+awards:
+  - type: other
+    title: AI Internship
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

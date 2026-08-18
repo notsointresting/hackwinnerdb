@@ -1,0 +1,23 @@
+id: pulse-bot
+name: Pulse Bot
+slug: pulse-bot
+tagline: PulseBot the robot that enters collapsed buildings before humans do. It detects survivors
+  via CO2, heat & sound, then sends responders in with exact coordinates
+summary: Pulse Bot received the First Place award at 2026 MakeNJIT Hardware hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/AUuGBDDpdOc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/330/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - c-plus-plus
+builders:
+  - name: Malik Tariq
+  - name: Zarar Khokhar
+  - name: Muhammad Bilal

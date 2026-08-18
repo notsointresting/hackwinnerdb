@@ -1,0 +1,24 @@
+id: resilient-nyc
+name: Resilient NYC
+slug: resilient-nyc
+tagline: Predicting NYC sinkhole risk with machine learning to help city agencies inspect vulnerable
+  areas earlier, prevent failures, and build safer, more sustainable i
+summary: "Resilient NYC received the Finance: Rocketbook Core: Reusable Notebook award at RAMHACK
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/annalovespink/RamHack-2026/blob/main/README.md
+demo_url: null
+video_url: https://www.youtube.com/embed/aUy0B4zZmv0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/508/814/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - sustainability
+technologies:
+  - figma
+  - python
+  - react
+  - vercel
+builders:
+  - name: szahaykevich Zahaykevich

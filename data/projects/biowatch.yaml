@@ -1,0 +1,27 @@
+id: biowatch
+name: BioWatch
+slug: biowatch
+tagline: A $70 sensor that monitors hospital sink drains in real time, flagging pathogen outbreak
+  conditions before patients are exposed.
+summary: BioWatch received the 3rd Place - General Challenge award at MPC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ShayLuan/BioWatch
+demo_url: null
+video_url: https://www.youtube.com/embed/Iv_U8pLCo6c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/814/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - flask
+  - javascript
+  - python
+  - raspberry-pi
+builders:
+  - name: najlaa-code Achouhal
+  - name: Killian Gervais
+  - name: Charrat Mohamed
+  - name: Shay Luan

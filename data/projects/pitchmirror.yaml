@@ -1,0 +1,26 @@
+id: pitchmirror
+name: PitchMirror
+slug: pitchmirror
+tagline: PitchMirror is an AI simulation environment for interviews, pitches, and coding rounds,
+  with role-specific agents, live feedback, progress tracking, and persona
+summary: "PitchMirror received the Google: Build with AI - The Agentic Frontier award at Innovation
+  Hacks 2.0 - 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/Mitul9703/TeamNotNull_InnovationHacks
+demo_url: null
+video_url: https://www.youtube.com/embed/Usc9xnhoYxQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/462/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - langchain
+  - nextjs
+  - react
+builders:
+  - name: Mitul Krishna Balamurugan
+  - name: Ephraim Thomas Jacob
+  - name: Ishaan Sahay

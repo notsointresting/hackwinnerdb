@@ -1,0 +1,21 @@
+id: core-gate
+name: Core-gate
+slug: core-gate
+tagline: "Core-Gate gives Bitcoin Core maintainers their time back -> automatically triaging every
+  PR by quality, risk, and contribution standards before a human reads a "
+summary: Core-gate received the Solve Open Source Contribution Spam award at Bitcoin++ Open Source
+  Edition in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Zeegaths/core-gate
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/922/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: aishaomaa farah
+  - name: Mary Wangui

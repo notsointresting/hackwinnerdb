@@ -1,0 +1,17 @@
+id: growth-relay
+name: Growth Relay
+slug: growth-relay
+tagline: Two photos in, real measurements and a donation match out
+summary: Growth Relay received the Runner up award at Measure up in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kaur-gurnoor/growth-relay
+demo_url: null
+video_url: https://www.youtube.com/embed/-qcXaacT3ro
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/987/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - typescript
+builders:
+  - name: Gurnoor Kaur

@@ -1,0 +1,22 @@
+id: xprime
+name: xPrime
+slug: xprime
+tagline: Prime Brokerage for Onchain EquitiesUnlock yield, leverage, and liquidity from your stock
+  portfolio.Earn, borrow, trade, spend on your xStocks.
+summary: "xPrime received the 1st Prize award at xStocks Hackathon EthCC: Market Open in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/dzmbs/xprime
+demo_url: null
+video_url: https://www.youtube.com/embed/ndXhHKD1tw0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/419/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - ethereum
+  - typescript
+builders:
+  - name: Ethan L
+  - name: Divergence Dzam
+  - name: Aleksa Scant

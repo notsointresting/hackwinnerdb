@@ -1,0 +1,14 @@
+id: jambled-hack-the-net
+project_id: jambled
+hackathon_id: hack-the-net
+submission_url: https://devpost.com/software/jambled
+source:
+  platform: devpost
+  url: https://devpost.com/software/jambled
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

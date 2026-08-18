@@ -1,0 +1,16 @@
+id: can-you-beat-airport-parking-chaos-hackabury-2026
+project_id: can-you-beat-airport-parking-chaos
+hackathon_id: hackabury-2026
+submission_url: https://devpost.com/software/can-you-beat-airport-parking-chaos
+source:
+  platform: devpost
+  url: https://devpost.com/software/can-you-beat-airport-parking-chaos
+awards:
+  - type: third-place
+    title: Third Place
+  - type: other
+    title: Holiday Extras
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

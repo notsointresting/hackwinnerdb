@@ -1,0 +1,22 @@
+id: rit-club-controller
+name: RIT Club Controller
+slug: rit-club-controller
+tagline: Tool to interface with EMS/Reserve.rit.edu to schedule room reservations and manage club
+  announcements across multiple platforms.
+summary: "RIT Club Controller received the RIT Student Government: Best New Student Experience
+  Concept award at WiCHacks '26 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Ben-Does-Arcade/rit-club-controller
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - google-cloud
+  - python
+builders:
+  - name: Henry O
+  - name: Ben Stafford

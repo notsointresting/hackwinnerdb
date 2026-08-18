@@ -1,0 +1,14 @@
+id: sunday-thefirst-spark-2026-youth-symposium
+project_id: sunday
+hackathon_id: thefirst-spark-2026-youth-symposium
+submission_url: https://devpost.com/software/sunday-5zfnji
+source:
+  platform: devpost
+  url: https://devpost.com/software/sunday-5zfnji
+awards:
+  - type: third-place
+    title: 3rd Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

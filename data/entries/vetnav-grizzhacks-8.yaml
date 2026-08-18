@@ -1,0 +1,14 @@
+id: vetnav-grizzhacks-8
+project_id: vetnav
+hackathon_id: grizzhacks-8
+submission_url: https://devpost.com/software/vetnav
+source:
+  platform: devpost
+  url: https://devpost.com/software/vetnav
+awards:
+  - type: track-winner
+    title: Social Good Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

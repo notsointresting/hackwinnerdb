@@ -1,0 +1,20 @@
+id: vibe-chording
+name: Vibe Chording
+slug: vibe-chording
+tagline: Vibe it. Code it. Own it.
+summary: Vibe Chording received the Second Place award at .exploreSWE in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/068/915/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Nikita Zoshi
+  - name: auni marzuki
+  - name: lvecvva Gun
+  - name: Allen Soh

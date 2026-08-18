@@ -1,0 +1,23 @@
+id: smart-leads
+name: Smart Leads
+slug: smart-leads
+tagline: Sick of cold calling, find the best leads for your service from a 5-100 mile radius in your area!
+summary: Smart Leads received the Business Winner award at Dolphin Hacks  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FurkanSource/csihackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/564/372/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - groq
+  - javascript
+  - llama
+  - python
+  - react
+  - sqlite
+builders:
+  - name: AAbedallah Alsharqiya

@@ -1,0 +1,20 @@
+id: temp
+name: Temp
+slug: temp
+tagline: "Dynamic approach to agentic memory using temporal and urgency-based dynamic weighting,
+  graph-like traversals between records, and justifications of all changes "
+summary: Temp received the CBRE Challenge award at WEHack 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sachi-jh/we-hack
+demo_url: null
+video_url: https://www.youtube.com/embed/gEkJn4BiHfY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/890/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Ishita Saran
+  - name: Sachi Hansalia

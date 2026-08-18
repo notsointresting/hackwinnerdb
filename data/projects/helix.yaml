@@ -1,0 +1,22 @@
+id: helix
+name: Helix
+slug: helix
+tagline: A self-correcting ML agent that diagnoses its own failures, pulls live hospital data, and
+  reaches into Zero.xyz until it beats a published heart-disease benchma
+summary: Helix received the Most Innovative Use of Pomerium award at Loop Engineering Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anishgupta05/AWS-Hack
+demo_url: null
+video_url: https://www.youtube.com/embed/XBc7NHNipr0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/919/078/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Shivansh Bansal
+  - name: Anish Gupta

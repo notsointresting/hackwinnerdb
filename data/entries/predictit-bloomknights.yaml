@@ -1,0 +1,14 @@
+id: predictit-bloomknights
+project_id: predictit
+hackathon_id: bloomknights
+submission_url: https://devpost.com/software/predictit-n0r3f1
+source:
+  platform: devpost
+  url: https://devpost.com/software/predictit-n0r3f1
+awards:
+  - type: category-winner
+    title: Best Use of Google Gemini [Google Gemini]
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: uhsp-datathon-2026
+name: UHSP Datathon 2026
+slug: uhsp-datathon-2026
+tagline: . Our project utilizes resting-state EEG signals from the pre-frontal cortex (Fp1, Fpz,
+  Fp2) to create a data-driven diagnostic tool.
+summary: UHSP Datathon 2026 received the Gift Card 1s Place College award at Data Snax Datathon in
+  St. Louis in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Nino Godoradze

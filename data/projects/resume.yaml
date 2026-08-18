@@ -1,0 +1,20 @@
+id: resume
+name: Résumé
+slug: resume
+tagline: Transform casual WhatsApp chats into ATS-optimized, premium resumes. A seamless AI pipeline
+  connecting low-friction mobile onboarding
+summary: Résumé received the 2nd Runner Up award at Build With AI x Hackday FUTMINNA 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - nextjs
+  - typescript
+builders:
+  - name: Caleb Akomaye

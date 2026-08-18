@@ -1,0 +1,20 @@
+id: auditease-build-with-ai-code-social-from-idea-to-demo
+project_id: auditease
+hackathon_id: build-with-ai-code-social-from-idea-to-demo
+submission_url: https://devpost.com/software/auditease-f1pqzw
+source:
+  platform: devpost
+  url: https://devpost.com/software/auditease-f1pqzw
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Participation & Completion Recognition
+  - type: category-winner
+    title: Best Overall Project
+  - type: other
+    title: Participation Recognition (For All Participants)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

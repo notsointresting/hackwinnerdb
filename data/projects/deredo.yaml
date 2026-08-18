@@ -1,0 +1,18 @@
+id: deredo
+name: DEREDO
+slug: deredo
+tagline: Aplicación para que un dato muestre las partes donde visitar ir con la ruta
+summary: DEREDO received the Premio otorgado por el Municipio award at Hack Days in Durango in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mmrm-miranda/DEREDO.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/739/001/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flutter
+builders:
+  - name: mmrm-miranda Rodriguez

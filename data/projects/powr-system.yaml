@@ -1,0 +1,24 @@
+id: powr-system
+name: PoWR - System
+slug: powr-system
+tagline: Stop Guessing. Start verifying.Whether you are building reputation or hiring talent.PoWR
+  gives you the reciepts.
+summary: PoWR - System received the Honorable Mentions award at Bitcoin++ Open Source Edition in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Salma-dev-ops/PoWR-System.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/786/112/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - graphql
+  - python
+  - tailwind-css
+builders:
+  - name: Shannon Kioko
+  - name: Lucy Kamau
+  - name: Dev_Anne Mahonga
+  - name: SALMA ADAM.

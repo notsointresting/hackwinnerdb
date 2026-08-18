@@ -1,0 +1,20 @@
+id: breakup-buddy
+name: BreakUp Buddy
+slug: breakup-buddy
+tagline: "BreakUp Buddy helps teens recover from heartbreak with mood tracking, guided journaling,
+  AI emotional support, and daily healing tasks with private, anonymous, "
+summary: BreakUp Buddy received the Honorable mention award at Github readme generation  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thihanhein20/breakup-buddy
+demo_url: null
+video_url: https://www.youtube.com/embed/-E-uscxtTnM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/791/064/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Thi Han Hein

@@ -1,0 +1,20 @@
+id: davisverse
+name: DavisVerse
+slug: davisverse
+tagline: Turn campus life into a living 3D multiplayer adventure. Discover live events, chat with
+  classmates, and explore together in real-time.
+summary: DavisVerse received the Best Use of MongoDB Atlas award at HackDavis 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pavan-nuthi/hackdavis
+demo_url: null
+video_url: https://www.youtube.com/embed/7xfrDdy7rWM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/165/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Vikhas S G
+  - name: Rahul Kanagaraj
+  - name: Pavan Kumar Nuthi
+  - name: Aviral Chauhan

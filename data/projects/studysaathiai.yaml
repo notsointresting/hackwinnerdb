@@ -1,0 +1,22 @@
+id: studysaathiai
+name: StudySaathiAI
+slug: studysaathiai
+tagline: AI tutor helping students learn difficult concepts in simple Hinglish, Hindi or English
+  through personalized explanations, Socratic tutoring, adaptive quizzes a
+summary: StudySaathiAI received the MLH Stickers+ Swags . award at Hackdays Maa Chandika Convent
+  School  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/RqsImYCA4VA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/091/226/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: Samriddhi Singh

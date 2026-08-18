@@ -1,0 +1,21 @@
+id: phishlens
+name: PhishLens
+slug: phishlens
+tagline: PhishLens is a privacy-first Android security shield that combines real-time browser and
+  SMS interception with Groq AI intelligence to instantly detect and bloc
+summary: PhishLens received the Best Security or Privacy Hack 1st award at STEMist Hacks IV in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/syntax-savage/PhishLens
+demo_url: null
+video_url: https://www.youtube.com/embed/9X8VsjQ3WqY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/046/795/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - groq
+  - kotlin
+builders:
+  - name: jimmy XD

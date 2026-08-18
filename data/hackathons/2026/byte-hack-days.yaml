@@ -1,0 +1,14 @@
+id: byte-hack-days
+name: Byte. Hack Days
+slug: byte-hack-days
+organizer: []
+year: 2026
+sources:
+  - https://byte-hack-days.devpost.com/
+  - https://byte-hack-days.devpost.com/project-gallery?filter=winner
+website_url: https://byte-hack-days.devpost.com/
+platform: devpost
+participant_count: 13
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Byte. Hack Days. Imported automatically."

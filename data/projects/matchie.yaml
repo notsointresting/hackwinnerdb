@@ -1,0 +1,25 @@
+id: matchie
+name: matchie
+slug: matchie
+tagline: BC mandates 30 hours of community service to graduate. Vancouver nonprofits are desperate
+  for volunteers. And every existing platform was built for professional
+summary: matchie received the Diversity in CS Project Hub award at youCode 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nwfsh/matchie
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/616/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - groq
+  - mongodb
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Avery Chong
+  - name: Jagathi Moturi
+  - name: Sarah Chenwang

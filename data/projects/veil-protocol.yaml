@@ -1,0 +1,23 @@
+id: veil-protocol
+name: Veil Protocol
+slug: veil-protocol
+tagline: Veil Protocol lets you receive crypto without exposing your wallet. Senders generate a
+  one-time stealth address per payment on Midnight Network. No address reus
+summary: Veil Protocol received the AI Track award at Midnight Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ashihams/Veil_Protocol
+demo_url: null
+video_url: https://www.youtube.com/embed/maTiKoT_eFQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/675/825/datas/gallery.jpg
+categories:
+  - blockchain
+technologies:
+  - ipfs
+  - javascript
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Ashiha Mahesh Kumar
+  - name: Michael Paonam

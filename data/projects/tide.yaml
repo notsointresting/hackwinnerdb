@@ -1,0 +1,22 @@
+id: tide
+name: Tide
+slug: tide
+tagline: The realtime recovery layer for the Hydrawav3 belt
+summary: Tide received the Hydrawav3 award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ashwanthbalakrishnan5/globehack
+demo_url: null
+video_url: https://www.youtube.com/embed/8-e18vEjnEk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/323/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - gemini
+  - vercel
+builders:
+  - name: Ashwanth Balakrishnan
+  - name: Vaibav V

@@ -1,0 +1,22 @@
+id: talkie-walkie
+name: Talkie Walkie
+slug: talkie-walkie
+tagline: Walk through your community！
+summary: Talkie Walkie received the Main Track Honorable Mention award at RealityShift in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GDGutier/talkiewalkie
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/582/518/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+  - ar-vr
+technologies:
+  - typescript
+builders:
+  - name: MorandiWu Wu
+  - name: Gabe Gutierrez
+  - name: CIciiiiFang
+  - name: Shrey Patel

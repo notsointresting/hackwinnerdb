@@ -1,0 +1,14 @@
+id: herdsignal-hacksmu-vii
+project_id: herdsignal
+hackathon_id: hacksmu-vii
+submission_url: https://devpost.com/software/herdsignal
+source:
+  platform: devpost
+  url: https://devpost.com/software/herdsignal
+awards:
+  - type: first-place
+    title: Overall 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

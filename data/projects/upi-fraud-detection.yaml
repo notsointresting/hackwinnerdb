@@ -1,0 +1,20 @@
+id: upi-fraud-detection
+name: UPI_Fraud_Detection
+slug: upi-fraud-detection
+tagline: AI-powered UPI fraud detection system that analyzes transaction patterns in real time to
+  identify suspicious activities and help prevent digital payment fraud.
+summary: UPI_Fraud_Detection received the Participation Prize award at Measure up in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RajanyaSaha-27/UPI_Fraud_Detection
+demo_url: null
+video_url: https://www.youtube.com/embed/lo7FPQqr8H4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/431/718/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Rajanya Saha

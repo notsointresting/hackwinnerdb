@@ -1,0 +1,30 @@
+id: respondr
+name: Respondr
+slug: respondr
+tagline: Respondr is an emergency response platform that connects patients to verified doctors and
+  nearby volunteers in seconds, sharing live wearable data to guide care
+summary: Respondr received the Hack to Health award at Hack@URI 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Shovan554/Respondrr
+demo_url: null
+video_url: https://www.youtube.com/embed/EaD3qxXR9n0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/352/012/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - google-ai-studio
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Pranish Uprety
+  - name: Rahul Mandal
+  - name: Shovan Raut
+  - name: Anshuraj Sedai

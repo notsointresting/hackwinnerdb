@@ -1,0 +1,25 @@
+id: interstice
+name: Interstice
+slug: interstice
+tagline: Speak a command into your wrist. Your AI company — with agents that remember, communicate,
+  and learn — handles research, emails, code, calls, and social media w
+summary: Interstice received the AI-Driven Entrepreneurship Track (2nd Place) award at HackHayward
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/veersaraf/interstice
+demo_url: null
+video_url: https://www.youtube.com/embed/gBrb9YvE4c4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/752/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - react
+  - twilio
+  - typescript
+builders:
+  - name: Veer Saraf
+  - name: Varun Kalvakota

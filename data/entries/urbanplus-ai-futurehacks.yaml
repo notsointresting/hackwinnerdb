@@ -1,0 +1,14 @@
+id: urbanplus-ai-futurehacks
+project_id: urbanplus-ai
+hackathon_id: futurehacks
+submission_url: https://devpost.com/software/urbanplus-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/urbanplus-ai
+awards:
+  - type: first-place
+    title: 1st Place Advanced
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

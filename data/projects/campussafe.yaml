@@ -1,0 +1,20 @@
+id: campussafe
+name: CampusSafe
+slug: campussafe
+tagline: Making campus safety smarter, faster, and more connected.
+summary: CampusSafe received the Most Innovative Award award at PMC Power Platform Product Sprint
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/HQGIqDRBABw
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: Shayan Shaikh
+  - name: Bilal Ahmed
+  - name: Haris Naveed
+  - name: Arash Ajdari

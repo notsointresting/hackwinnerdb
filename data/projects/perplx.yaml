@@ -1,0 +1,23 @@
+id: perplx
+name: perplx
+slug: perplx
+tagline: Knowledge is enough, the agent for everyone.
+summary: perplx received the [Perplexity] Best project built with the Agent API award at HackHayward
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/perplx-ai/perplx
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/481/301/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - cloudflare
+  - typescript
+builders:
+  - name: Sajjaad Farzad
+  - name: Jordan Walker
+  - name: Rahul Suthar

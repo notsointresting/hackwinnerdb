@@ -1,0 +1,14 @@
+id: munchi-broncohacks-2026
+project_id: munchi
+hackathon_id: broncohacks-2026
+submission_url: https://devpost.com/software/munchi
+source:
+  platform: devpost
+  url: https://devpost.com/software/munchi
+awards:
+  - type: category-winner
+    title: Best Use of Vercel
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

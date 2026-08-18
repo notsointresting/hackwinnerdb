@@ -1,0 +1,18 @@
+id: everloop
+name: Everloop
+slug: everloop
+tagline: Making your new year resolutions your reality
+summary: "Everloop received the Figma Design Track: 1st Place award at CreateSC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TXqfmkfNMSo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/674/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Aarya Mahapatra
+  - name: Cherry Phan

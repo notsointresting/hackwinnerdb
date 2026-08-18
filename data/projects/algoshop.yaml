@@ -1,0 +1,22 @@
+id: algoshop
+name: AlgoShop
+slug: algoshop
+tagline: A quant terminal, AI agent, and 8 trading strategies — turning every product into a
+  tradeable instrument for consumers to save money on purchasing.
+summary: AlgoShop received the Most Technically Impressive award at The Phia Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sandra-Cai/AlgoShop
+demo_url: null
+video_url: https://www.youtube.com/embed/R7hNSzPOOpw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/863/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - e-commerce
+technologies:
+  - fastapi
+  - javascript
+  - python
+builders:
+  - name: Sandra Cai

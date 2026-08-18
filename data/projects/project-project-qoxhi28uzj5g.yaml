@@ -1,0 +1,18 @@
+id: project-project-qoxhi28uzj5g
+name: 기숙사 관리 시스템
+slug: project-project-qoxhi28uzj5g
+tagline: 학생들의 기숙사 생활을 효율적으로 관리하기 위해 제작한 사이트이다. 외출·외박 신청, 벌점 확인, 공지사항, 건의사항 제출 기능을 제공하며 파일 업로드와 신청서
+  다운로드 기능으로 행정 업무의 편의성을 높였다.
+summary: 기숙사 관리 시스템 received the REWARD award at Zero2One hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/713/655/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies: []
+builders:
+  - name: 애령 고

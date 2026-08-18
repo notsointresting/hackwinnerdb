@@ -1,0 +1,20 @@
+id: flare
+name: Flare
+slug: flare
+tagline: Predict at-risk students early, explain why, and enable timely intervention.
+summary: Flare received the Developer award at Boeing presents TruHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AdityaShah06/Flare
+demo_url: null
+video_url: https://www.youtube.com/embed/nwAM257cfPM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/928/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Aditya Shah

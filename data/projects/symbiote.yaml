@@ -1,0 +1,27 @@
+id: symbiote
+name: Symbiote
+slug: symbiote
+tagline: Voice agent orchestration platform for heavy equipment inspection. Voice-to-diagnosis in
+  seconds with no delay, no human error, and no waiting.
+summary: Symbiote received the [MLH] Best Use of AI powered by Reach Capital award at HackIllinois
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/sujaldeshmukh1012/Symbiote
+demo_url: null
+video_url: https://www.youtube.com/embed/VjlY7kMklCE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/882/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - swift
+builders:
+  - name: Manav Sharma
+  - name: SUJAL BHAKARE
+  - name: Pritika Aggarwal
+  - name: Abhi Ramtel

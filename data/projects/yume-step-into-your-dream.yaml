@@ -1,0 +1,23 @@
+id: yume-step-into-your-dream
+name: Yume - Step into your dream
+slug: yume-step-into-your-dream
+tagline: Turning kids drawing into explorable 3d Worlds.
+summary: Yume - Step into your dream received the Best Filmmaking, Entertainment, Simulation App
+  award at Worlds in Action Hack [01-SF] in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sylmmhy/xrhackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/o1Gl3bLY7VE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/449/608/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - react
+builders:
+  - name: Hermes XBT
+  - name: Yuxuan He
+  - name: Yilun Sun
+  - name: Yinan Xiong

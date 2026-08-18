@@ -1,0 +1,14 @@
+id: ai-pitch-deck-generator-byte-hack-days
+project_id: ai-pitch-deck-generator
+hackathon_id: byte-hack-days
+submission_url: https://devpost.com/software/ai-pitch-deck-generator
+source:
+  platform: devpost
+  url: https://devpost.com/software/ai-pitch-deck-generator
+awards:
+  - type: other
+    title: Google Swag Kits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

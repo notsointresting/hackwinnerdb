@@ -1,0 +1,22 @@
+id: surge-meme-maker
+name: Surge Meme Maker
+slug: surge-meme-maker
+tagline: "OMG haiiii ⸂⸂⸜(രᴗര๑)⸝⸃⸃ uwu This is a tool to make some haha funny memes using some meme
+  sparky and stormy art. We know creativity is too hard, so just fill in "
+summary: "Surge Meme Maker received the IATSU: Cursed UI award at SillyHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/R3alHumanBe1ng/sillyingit2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/206/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Cylixen Tyon
+  - name: Cameron Sadowski

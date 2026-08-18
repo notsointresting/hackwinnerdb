@@ -1,0 +1,24 @@
+id: astrodeck
+name: Astrodeck
+slug: astrodeck
+tagline: The Astrodeck is a fully offline, portable device that calculates and displays moon phase,
+  visible stars and planets, and sunrise/set times, making astronomy ac
+summary: "Astrodeck received the Silver: Runner-Up award at  HARDWIRED 2026 MUEEC X CISSA in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/aliciamcfarlane1234-prog/Astrodeck/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/8EKx7id2Dkw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/040/554/datas/gallery.jpg
+categories:
+  - education
+  - accessibility
+  - iot
+technologies:
+  - c-plus-plus
+  - esp32
+builders:
+  - name: Alicia McFarlane
+  - name: Chantelle Norton
+  - name: hsienweic
+  - name: sleepyleaves Lee

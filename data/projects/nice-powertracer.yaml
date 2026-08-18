@@ -1,0 +1,23 @@
+id: nice-powertracer
+name: NICE PowerTracer
+slug: nice-powertracer
+tagline: Map your home grid, compare energy uses of appliances through simulation, and make smarter
+  energy choices.
+summary: NICE PowerTracer received the [MLH] Best Use of .Tech award at RevolutionUC 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NekruzAsh/nicepowertracer
+demo_url: null
+video_url: https://www.youtube.com/embed/jyECqnkUut0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/341/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - javascript
+  - react
+builders:
+  - name: Ibrahim Konare
+  - name: djcadon O'Leary
+  - name: Nekruz Ashrapov
+  - name: Elmoataz Abdellah

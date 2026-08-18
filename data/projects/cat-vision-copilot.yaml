@@ -1,0 +1,32 @@
+id: cat-vision-copilot
+name: Cat Vision Copilot
+slug: cat-vision-copilot
+tagline: Cat Vision Copilot is an AI inspection assistant that analyzes live video in real time,
+  ranks issue severity, and delivers insights via a chatbot, built to inte
+summary: "Cat Vision Copilot received the Track: Best AI Inspection (2nd Place) award at
+  HackIllinois 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/W2niC2yt_Qc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/246/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - openai
+  - opencv
+  - python
+  - react
+  - supabase
+  - tensorflow
+  - typescript
+  - yolo
+builders:
+  - name: Sriram Natarajan
+  - name: Krish Badri
+  - name: EricW358 Wang
+  - name: Mridhan Balaji

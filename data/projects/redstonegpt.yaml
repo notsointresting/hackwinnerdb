@@ -1,0 +1,20 @@
+id: redstonegpt
+name: RedstoneGPT
+slug: redstonegpt
+tagline: Remember when you were 9 and you couldn't figure out Redstone for the life of you? Well,
+  now you can have the LLM do it for you, RedstoneGPT.
+summary: RedstoneGPT received the Featherless.ai Challenge Prize award at Stevens QuackHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/392/485/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - java
+builders:
+  - name: Yash Parmar

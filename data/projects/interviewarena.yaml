@@ -1,0 +1,22 @@
+id: interviewarena
+name: InterviewArena
+slug: interviewarena
+tagline: Interview an agent employee with your agent interviewers!
+summary: InterviewArena received the Claude Merch award at Claude Builder Club Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/edjx22/InterviewArena
+demo_url: null
+video_url: https://www.youtube.com/embed/rgR6-wCsmHA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/515/546/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Jialu Xu
+  - name: yifan zhou

@@ -1,0 +1,24 @@
+id: harvey
+name: Harvey
+slug: harvey
+tagline: A data-driven Decision Support System for Water User Associations (P3A) to optimize
+  irrigation water allocation and minimize crop losses during droughts.
+summary: Harvey received the 1st Place Agriculture & Food Systems Track award at Garuda Hacks 7.0 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AlvaJufinto/harvey_backend
+demo_url: null
+video_url: https://www.youtube.com/embed/MGyeQ60YdII
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/912/793/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Stanislaus Alva Jufinto
+  - name: Darrell Richie
+  - name: Abraham Gregorius
+  - name: Almer Aji Valentino

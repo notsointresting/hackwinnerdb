@@ -1,0 +1,14 @@
+id: agri-lens-mvp-sprint-https-sprint-startlima-org
+project_id: agri-lens
+hackathon_id: mvp-sprint-https-sprint-startlima-org
+submission_url: https://devpost.com/software/agri-lens
+source:
+  platform: devpost
+  url: https://devpost.com/software/agri-lens
+awards:
+  - type: other
+    title: Agradecimiento
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,14 @@
+id: aqx-sports-analytics-data-bowl-2-0
+name: AQX Sports Analytics Data Bowl 2.0
+slug: aqx-sports-analytics-data-bowl-2-0
+organizer: []
+year: 2026
+sources:
+  - https://aqxanalyticsdata.devpost.com/
+  - https://aqxanalyticsdata.devpost.com/project-gallery?filter=winner
+website_url: https://aqxanalyticsdata.devpost.com/
+platform: devpost
+participant_count: 102
+prize_pool: null
+currency: null
+description: "Devpost hackathon: AQX Sports Analytics Data Bowl 2.0. Imported automatically."

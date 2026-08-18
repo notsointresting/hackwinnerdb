@@ -1,0 +1,26 @@
+id: ctrl-ers
+name: CTRL-ERs
+slug: ctrl-ers
+tagline: CareBridge supports families with low medical literacy- from decoding medical language with
+  real-time TTS translations, friendly chatbots, and all medical infor
+summary: "CTRL-ERs received the BEST AI PROJECT award at Girls in STEM: AI for Social Good Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/pstar8/CareBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/BBSNIgaSDrw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/669/143/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - supabase
+  - vercel
+builders:
+  - name: Ifeoluwa Adeniyi
+  - name: Saf Riasat

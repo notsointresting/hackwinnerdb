@@ -1,0 +1,22 @@
+id: studypilot-ai
+name: StudyPilot AI
+slug: studypilot-ai
+tagline: Upload. Learn. Ace. Your Notes, Supercharged by AI. Turn Every PDF into a Personal Tutor.
+  Smarter Revision Starts Here. AI That Studies With You.
+summary: StudyPilot AI received the First Place Winner for Session B (Virtual) award at 305
+  HackShells Edition June 2026  in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/imdhruvangm-cmd/StudyPilot-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/844/891/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - groq
+  - python
+  - streamlit
+builders:
+  - name: Dhruvang Mehta

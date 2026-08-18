@@ -1,0 +1,21 @@
+id: audiate
+name: Audiate
+slug: audiate
+tagline: Music seen. Music felt
+summary: "Audiate received the Track 2: Omnara (3rd place) award at SDxUCSD Agent Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/JayaniSND/Audiate
+demo_url: null
+video_url: https://www.youtube.com/embed/8qKavo_eveQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/565/799/datas/medium.png
+categories:
+  - fintech
+  - productivity
+  - media
+technologies:
+  - python
+  - swift
+builders:
+  - name: Jayani Sri Nandika Duggirala
+  - name: Shuwen Wen

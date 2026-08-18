@@ -1,0 +1,14 @@
+id: nfcmon-sillyhacks-2026
+project_id: nfcmon
+hackathon_id: sillyhacks-2026
+submission_url: https://devpost.com/software/nfcmon
+source:
+  platform: devpost
+  url: https://devpost.com/software/nfcmon
+awards:
+  - type: category-winner
+    title: Most Creative Idea
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

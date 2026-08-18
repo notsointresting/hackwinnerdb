@@ -1,0 +1,22 @@
+id: inferno-defense-a-wildfire-strategy-game
+name: Inferno Defense- A Wildfire Strategy Game
+slug: inferno-defense-a-wildfire-strategy-game
+tagline: A wildfire strategy game to raise awareness where you protect thousands of people. Manage
+  moisture levels, control fires, and survive waves of fires with limite
+summary: Inferno Defense- A Wildfire Strategy Game received the Prize Pool award at Ponderosa Hacks
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/113/datas/gallery.jpg
+categories:
+  - social-impact
+  - gaming
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Julian Avila
+  - name: Dylan Tedesco
+  - name: alex vela

@@ -1,0 +1,14 @@
+id: kairo-includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+project_id: kairo
+hackathon_id: includai-the-neurodiversity-hackathon-in-partnership-with-stanford-nnea
+submission_url: https://devpost.com/software/kairo-ixf7o8
+source:
+  platform: devpost
+  url: https://devpost.com/software/kairo-ixf7o8
+awards:
+  - type: other
+    title: Neurodivergent Innovator Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

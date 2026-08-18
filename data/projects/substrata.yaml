@@ -1,0 +1,27 @@
+id: substrata
+name: SubStrata
+slug: substrata
+tagline: "SubStrata classifies GEE satellite tiles and scores predictions into a memory graph, so
+  past mistakes shift future classifications without retraining, enabling "
+summary: SubStrata received the 1st Prize award at Daytona HackSprint w/ Braintrust - SF, July 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shivanshb828/daytona-hack
+demo_url: null
+video_url: https://www.youtube.com/embed/5n8cdtw4-fw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/021/855/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - nextjs
+  - python
+  - react
+  - typescript
+builders:
+  - name: Shivansh Bansal
+  - name: Anish Gupta
+  - name: neevtamboli10

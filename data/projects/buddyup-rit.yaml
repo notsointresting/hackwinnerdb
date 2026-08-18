@@ -1,0 +1,22 @@
+id: buddyup-rit
+name: BuddyUp @ RIT
+slug: buddyup-rit
+tagline: Feeling nervous going to a new club meeting on campus? It can be scary going alone! What if
+  you were specifically paired with someone of that group to feel more
+summary: "BuddyUp @ RIT received the WiC: Best Women and Gender award at WiCHacks '26 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/704/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - flask
+  - gemini
+  - python
+builders:
+  - name: Lianna Pottgen
+  - name: Alexandria Pross

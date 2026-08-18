@@ -1,0 +1,14 @@
+id: cancer-tumor-evolution-tracker-biohacks-2026
+project_id: cancer-tumor-evolution-tracker
+hackathon_id: biohacks-2026
+submission_url: https://devpost.com/software/cancer-tumor-evolution-tracker
+source:
+  platform: devpost
+  url: https://devpost.com/software/cancer-tumor-evolution-tracker
+awards:
+  - type: other
+    title: Android 7 inch Tablet
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

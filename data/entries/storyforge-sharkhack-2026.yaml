@@ -1,0 +1,14 @@
+id: storyforge-sharkhack-2026
+project_id: storyforge
+hackathon_id: sharkhack-2026
+submission_url: https://devpost.com/software/storyforge-c0o2im
+source:
+  platform: devpost
+  url: https://devpost.com/software/storyforge-c0o2im
+awards:
+  - type: other
+    title: THE ALT
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

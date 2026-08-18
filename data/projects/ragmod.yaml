@@ -1,0 +1,24 @@
+id: ragmod
+name: RagMod
+slug: ragmod
+tagline: Compression first codebase agent- We over retrieve through tools, Paritok makes it cheap,
+  and we measure the savings.
+summary: "RagMod received the Social Blitz Prize award at Build with Paritok: The Token-Efficiency
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/shreshth006/Ragmod/blob/main/docs/PROOF.md
+demo_url: null
+video_url: https://www.youtube.com/embed/mE6uAXuv4w0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/055/972/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - gemini
+  - openai
+  - python
+builders:
+  - name: Harsh 24BIT0406
+  - name: Shreshth Mishra

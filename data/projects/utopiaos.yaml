@@ -1,0 +1,20 @@
+id: utopiaos
+name: UtopiaOS
+slug: utopiaos
+tagline: UtopiaOS is an AI-powered platform that lets people design, simulate and visualize a better
+  future by solving real-world problems like pollution, food waste and
+summary: UtopiaOS received the Honorable mentions award at GenAI Dev Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DevFuel01/utopiaos
+demo_url: null
+video_url: https://www.youtube.com/embed/RDyBVMZnBQY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/471/532/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: Idris Ibrahim

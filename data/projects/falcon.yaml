@@ -1,0 +1,22 @@
+id: falcon
+name: Falcon
+slug: falcon
+tagline: A powerful fraud detector
+summary: Falcon received the 3rd Place - Valsoft Challenge award at MPC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/marcG05/mpc-hacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/TBOVKKxhuHU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/671/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - python
+  - react
+  - typescript
+builders:
+  - name: Wei-sen Wang
+  - name: Marc-Antoine Gauthier
+  - name: Dan Njoumene

@@ -1,0 +1,21 @@
+id: my-steganography
+name: My Steganography
+slug: my-steganography
+tagline: "Secure your art, unmask the bots: A mobile workspace that seals invisible pixel
+  signatures, featuring a dual-scanner to extract human keys or identify synthetic"
+summary: My Steganography received the Best application within category award at Youth Code x AI in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Salmathmullali/My_Steganography
+demo_url: null
+video_url: https://www.youtube.com/embed/EYz6u3vWvpY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/829/446/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - python
+  - pytorch
+  - react-native
+builders:
+  - name: Salmath  Mullali

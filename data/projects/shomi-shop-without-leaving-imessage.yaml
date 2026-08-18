@@ -1,0 +1,22 @@
+id: shomi-shop-without-leaving-imessage
+name: "Shomi: Shop without leaving iMessage"
+slug: shomi-shop-without-leaving-imessage
+tagline: Skip the noise. Use your purchase history to streamline shopping, entirely through iMessage.
+summary: "Shomi: Shop without leaving iMessage received the What would you build on top of a user’s
+  purchase data? by KnotAPI [3 Prizes] award at HackPrinceton Spring '26 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/mitoiscool/shomi-hackprinceton26
+demo_url: null
+video_url: https://www.youtube.com/embed/1yPCRwChwF8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/585/251/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - langchain
+  - sqlite
+  - typescript
+builders:
+  - name: Caius Chevalier

@@ -1,0 +1,17 @@
+id: the-last-draft
+name: The Last Draft
+slug: the-last-draft
+tagline: The Last Draft, a retro basketball, 5 on 5, collectible, trading game exclusive to Reddit!
+summary: The Last Draft received the Honorable Mentions award at Reddit’s Games with a Hook
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8UUedzPGFIU
+image_url: null
+categories:
+  - gaming
+technologies: []
+builders:
+  - name: Long Do

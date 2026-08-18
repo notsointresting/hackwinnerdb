@@ -1,0 +1,14 @@
+id: havennow-hack-to-the-future
+project_id: havennow
+hackathon_id: hack-to-the-future
+submission_url: https://devpost.com/software/havennow
+source:
+  platform: devpost
+  url: https://devpost.com/software/havennow
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

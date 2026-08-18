@@ -1,0 +1,25 @@
+id: neurallens
+name: NeuralLens
+slug: neurallens
+tagline: An agentic system that models visual attention and neural engagement to autonomously
+  optimize your content.
+summary: "NeuralLens received the Track: Agentverse - Search & Discovery of Agents award at LA Hacks
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/anirudhmazumder/NeuralLens
+demo_url: null
+video_url: https://www.youtube.com/embed/Bf8ngLD5BEY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/616/909/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies:
+  - python
+  - react
+  - replicate
+  - stripe
+builders:
+  - name: Anirudh Mazumder
+  - name: Peem Puangmaha
+  - name: jwei11 Wei

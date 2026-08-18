@@ -1,0 +1,21 @@
+id: viper
+name: VIPER
+slug: viper
+tagline: A DOF Arm designed with math behind it, not just looks. Specifically engineered for
+  gameplay in Tic-Tac-Toe.
+summary: VIPER received the Most Technically Complex award at Los Altos Hacks X in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/_2aR6yJan-0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/445/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - arduino
+  - python
+builders:
+  - name: Siva Sundar
+  - name: Ethan Wang

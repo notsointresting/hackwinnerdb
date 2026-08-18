@@ -1,0 +1,20 @@
+id: medipulse
+name: MediPulse
+slug: medipulse
+tagline: MediPuls helps users manage medicines, receive timely reminders, and improve medication
+  adherence through a modern health management platform supporting SDG 3.
+summary: MediPulse received the Honorable mention award at Github readme generation  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sheefaaa/MediPulse
+demo_url: null
+video_url: https://www.youtube.com/embed/axGLVaEiSJw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/858/671/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - typescript
+builders:
+  - name: MST. ISRAT JAHAN SHEFA

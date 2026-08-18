@@ -1,0 +1,17 @@
+id: godot-royale
+name: Godot Royale
+slug: godot-royale
+tagline: Clash Royale but it's with Godot demo characters and it's a battle royale with movement.
+summary: Godot Royale received the 25 award at GDG Winter 2026 Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/wys1V1Uzibw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/806/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Vivek Dixit

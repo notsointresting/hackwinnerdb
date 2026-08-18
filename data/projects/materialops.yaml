@@ -1,0 +1,23 @@
+id: materialops
+name: MaterialOps
+slug: materialops
+tagline: MaterialOps uses AI to turn messy event waste into sorted batches, recovery routes, and
+  verified impact before it hits landfill.
+summary: MaterialOps received the Grand Prize award at Play with Purpose Hackathon presented by Cox
+  Enterprises in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/stuti-thummala/materialops-coxhacks
+demo_url: null
+video_url: https://www.youtube.com/embed/J71ur5esHs8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/782/685/datas/medium.png
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Stuti Thummala

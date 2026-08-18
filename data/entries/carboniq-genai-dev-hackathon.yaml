@@ -1,0 +1,14 @@
+id: carboniq-genai-dev-hackathon
+project_id: carboniq
+hackathon_id: genai-dev-hackathon
+submission_url: https://devpost.com/software/carboniq
+source:
+  platform: devpost
+  url: https://devpost.com/software/carboniq
+awards:
+  - type: honorable-mention
+    title: Honorable mentions
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

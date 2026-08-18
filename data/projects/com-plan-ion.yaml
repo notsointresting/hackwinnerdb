@@ -1,0 +1,28 @@
+id: com-plan-ion
+name: Com-Plan-ion
+slug: com-plan-ion
+tagline: Com-Plan-ion is an AI-powered event planning platform that handles everything from initial
+  concept to day-of execution.
+summary: Com-Plan-ion received the MLH || Best Use of MongoDB Atlas || M5Stack IoT Kit award at Hack
+  Indy 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/reposketched/indyhack2026-project/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/2Pd_jkq1Vqk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/402/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - react
+  - solana
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Maninder Kaur
+  - name: Sooryashankar Joy
+  - name: Ruthu Shankar

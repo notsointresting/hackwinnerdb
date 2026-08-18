@@ -1,0 +1,16 @@
+id: vanguard-futureai-global-hackathon-2026
+project_id: vanguard
+hackathon_id: futureai-global-hackathon-2026
+submission_url: https://devpost.com/software/vanguard-h7fpc9
+source:
+  platform: devpost
+  url: https://devpost.com/software/vanguard-h7fpc9
+awards:
+  - type: second-place
+    title: FutureAI Runner-Up (2nd Place)
+  - type: other
+    title: HACKFEST'26 Achievement Awards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

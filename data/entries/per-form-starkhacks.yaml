@@ -1,0 +1,14 @@
+id: per-form-starkhacks
+project_id: per-form
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/pur-form
+source:
+  platform: devpost
+  url: https://devpost.com/software/pur-form
+awards:
+  - type: category-winner
+    title: Best Use of AMD Tech
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

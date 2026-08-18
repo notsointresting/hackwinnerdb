@@ -1,0 +1,14 @@
+id: paragon-xstocks-hackathon-ethcc-market-open
+project_id: paragon
+hackathon_id: xstocks-hackathon-ethcc-market-open
+submission_url: https://devpost.com/software/paragon-h8isc4
+source:
+  platform: devpost
+  url: https://devpost.com/software/paragon-h8isc4
+awards:
+  - type: winner
+    title: Standout Idea Award (Discretionary & Split by Winners)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: qwave
+name: QWave
+slug: qwave
+tagline: Detect hidden cyber attacks in audio. Not all noise is natural—some is malicious in
+  disguise. We combine audio analysis and quantum simulation to Phish out thes
+summary: QWave received the Best Digital Forensics Related Hack - Cipher Tech Solutions award at
+  Bitcamp 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/shreya222mishra/bitcamp-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/dgCAY-YG5rw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/557/462/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+  - python
+  - streamlit
+builders:
+  - name: Shreya Mishra
+  - name: Sumiran Jaiswal
+  - name: FNU Aditi

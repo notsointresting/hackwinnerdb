@@ -1,0 +1,21 @@
+id: clawtv
+name: ClawTV
+slug: clawtv
+tagline: A reality show where your AI agent enforces dystopian law on humans — and you can only
+  watch. Every decision is its own. Every hidden thought is exposed.
+summary: ClawTV received the Best Project in Entertainment award at ACM Trojan Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Haipeng Wu

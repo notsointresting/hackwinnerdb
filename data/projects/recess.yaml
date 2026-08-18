@@ -1,0 +1,24 @@
+id: recess
+name: Recess
+slug: recess
+tagline: Recess helps students prevent burnout with smart breaks and campus zones. See who’s free,
+  meet new people, and take mindful breaks together, bringing back the i
+summary: Recess received the Mindfulness & Wellbeing Prize award at Stevens QuackHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mduddin112203/Recess
+demo_url: null
+video_url: https://www.youtube.com/embed/wmgr9Z-tkz0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/381/307/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - react-native
+  - supabase
+  - typescript
+builders:
+  - name: Md Uddin
+  - name: Ismail Shaikh
+  - name: Richie Rojas

@@ -1,0 +1,16 @@
+id: wais-innolympics-2026-to-let-filipinos-dream-without-compromise
+project_id: wais
+hackathon_id: innolympics-2026-to-let-filipinos-dream-without-compromise
+submission_url: https://devpost.com/software/wais
+source:
+  platform: devpost
+  url: https://devpost.com/software/wais
+awards:
+  - type: track-winner
+    title: Track Winner and Grand Champion
+  - type: other
+    title: Intuitive Design Excellence Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

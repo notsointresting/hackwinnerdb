@@ -1,0 +1,14 @@
+id: veritas-birminghack-2-0
+project_id: veritas
+hackathon_id: birminghack-2-0
+submission_url: https://devpost.com/software/veritas-68vkc1
+source:
+  platform: devpost
+  url: https://devpost.com/software/veritas-68vkc1
+awards:
+  - type: first-place
+    title: "[birmingHack] 1st Place - Best Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: bitecheck
+name: BiteCheck
+slug: bitecheck
+tagline: BiteCheck lets you scan a food label, ingredient list, or restaurant menu with your phone
+  and instantly get a breakdown of nutrition, allergens, and a personali
+summary: BiteCheck received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3BB9RdXkFyI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/945/779/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - groq
+  - javascript
+builders:
+  - name: Dhairya Jugran
+  - name: Rishi V

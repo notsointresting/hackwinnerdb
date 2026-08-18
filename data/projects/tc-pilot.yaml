@@ -1,0 +1,22 @@
+id: tc-pilot
+name: TC-Pilot
+slug: tc-pilot
+tagline: Getting diagnosed with cancer is very scary, we made an AI agentic cancer navigator that's
+  going to help navigate the diagnosis, manage symptoms. and find clini
+summary: TC-Pilot received the Best use of ClickHouse award at Agentic Engineering Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Haris320/tc-pilot
+demo_url: null
+video_url: https://www.youtube.com/embed/n-i_Wm6XZzA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/276/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Haris A
+  - name: Akhil Mohammed

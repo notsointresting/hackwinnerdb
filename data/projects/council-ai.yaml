@@ -1,0 +1,23 @@
+id: council-ai
+name: Council AI
+slug: council-ai
+tagline: Council AI is an AI-powered decision chamber where your dilemma gets put before a council
+  of distinct voices that challenge, defend, and pressure-test your thin
+summary: Council AI received the Best UI/UX Design award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/738/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - typescript
+builders:
+  - name: Satwik Padhy

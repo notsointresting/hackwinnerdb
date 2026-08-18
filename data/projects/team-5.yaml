@@ -1,0 +1,21 @@
+id: team-5
+name: Team 5
+slug: team-5
+tagline: Implementing quantum feature augmentation based on MRU and pairwise/rotational entanglement
+  operators to isolate nonlinear feature relationships in noisy data.
+summary: Team 5 received the AWS x State Street - 1st Place award at YQuantum 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/JamDiet/Team-5-AWS-State-Street
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/040/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Grant Palte
+  - name: Carson Brice
+  - name: Maxter1476
+  - name: Johnny Eschbach

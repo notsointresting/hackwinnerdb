@@ -1,0 +1,18 @@
+id: aqua-flow
+name: AQUA FLOW
+slug: aqua-flow
+tagline: Expense Tracker for track money flow like water
+summary: AQUA FLOW received the Google AI Pro Postcard award at HackDays Delhi in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nitikpsn
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/472/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Nitikk Paswan
+  - name: soniya Sharma

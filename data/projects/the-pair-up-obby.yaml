@@ -1,0 +1,18 @@
+id: the-pair-up-obby
+name: The Pair-Up Obby!
+slug: the-pair-up-obby
+tagline: A unique Roblox obstacle course game that you play without visibly seeing the other player!
+summary: The Pair-Up Obby! received the Best Use Of MongoDB award at FalconHacks by MongoDB in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/danijayvv/obby
+demo_url: null
+video_url: https://www.youtube.com/embed/qNazzgRx8j8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/496/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - figma
+  - mongodb
+builders:
+  - name: Croix

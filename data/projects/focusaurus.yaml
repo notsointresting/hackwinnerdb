@@ -1,0 +1,27 @@
+id: focusaurus
+name: Focusaurus
+slug: focusaurus
+tagline: An AI web app that helps people with Attention Deficit Hyperactivity Disorder (ADHD) focus
+  by breaking goals into tasks, tracking distractions, and optimizing s
+summary: Focusaurus received the UBC CS Project Hub award at cmd-f 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shrsin3/cmd-f2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/413/718/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+  - defi
+technologies:
+  - figma
+  - flask
+  - gemini
+  - python
+  - react
+builders:
+  - name: Mia Huang
+  - name: June Wang
+  - name: M S
+  - name: Nghi Phan - Wendy

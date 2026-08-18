@@ -1,0 +1,19 @@
+id: calenai
+name: calenAI
+slug: calenai
+tagline: Turn messages into scheduled plans instantly.
+summary: calenAI received the 50$ Gift Card award at Build With AI Hack Days @DIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/630/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+builders:
+  - name: bahiza bushra

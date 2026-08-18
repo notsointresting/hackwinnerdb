@@ -1,0 +1,22 @@
+id: under-pressure
+name: UNDER PRESSURE
+slug: under-pressure
+tagline: The team that genuinely outplayed its opponent won 95% of decisive World Cup matches. We
+  built the analytics platform that proves it, action by action.
+summary: UNDER PRESSURE received the Second Place Honors award at AQX Sports Analytics Data Bowl 1.0
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sithranjan-Suresh/under-pressure
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/822/422/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - vercel
+builders:
+  - name: Sithranjan Suresh

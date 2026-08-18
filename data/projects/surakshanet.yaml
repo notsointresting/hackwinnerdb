@@ -1,0 +1,25 @@
+id: surakshanet
+name: SurakshaNet
+slug: surakshanet
+tagline: SurakshaNet predicts and monitors floods in real-time using AI, IoT sensors, and satellite
+  data. It coordinates emergency response and enables instant community
+summary: SurakshaNet received the Best use of Google Gemini API award at Hack Days Guwahati in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Zen-X5/SurakshaNet
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/082/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - iot
+technologies:
+  - fastapi
+  - javascript
+  - langchain
+  - nextjs
+  - pinecone
+  - python
+  - pytorch
+builders:
+  - name: Sahid Ahmed

@@ -1,0 +1,20 @@
+id: quack-mars-microgrid
+name: Quack Mars Microgrid
+slug: quack-mars-microgrid
+tagline: We fulfilled the requirements with the least resources possible.
+summary: "Quack Mars Microgrid received the Third place award at MATLAB HackaTOn : Mission on
+  Mars  in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Quack-Space/Matlab_Microgrid
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+technologies: []
+builders:
+  - name: LordOfTheToroids Scimone
+  - name: Nicola Canti
+  - name: Leonardo Scotti
+  - name: Elettra V. Deiana

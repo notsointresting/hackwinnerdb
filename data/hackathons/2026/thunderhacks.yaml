@@ -1,0 +1,14 @@
+id: thunderhacks
+name: ThunderHacks
+slug: thunderhacks
+organizer: []
+year: 2026
+sources:
+  - https://thunder-hacks-au.devpost.com/
+  - https://thunder-hacks-au.devpost.com/project-gallery?filter=winner
+website_url: https://thunder-hacks-au.devpost.com/
+platform: devpost
+participant_count: 26
+prize_pool: 1500
+currency: USD
+description: "Devpost hackathon: ThunderHacks. Imported automatically."

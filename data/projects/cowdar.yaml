@@ -1,0 +1,25 @@
+id: cowdar
+name: Cowdar
+slug: cowdar
+tagline: A free, open-source iOS application that uses LiDAR technology to provide small scale
+  farmers with accessible and accurate cow weight estimations.
+summary: Cowdar received the MAIN PRIZE - Third Place award at UNIHACK 2026, funded by the European
+  Union in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/boblao8/CowDar/
+demo_url: null
+video_url: https://www.youtube.com/embed/IkFhjKXjp5k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/439/272/datas/gallery.jpg
+categories:
+  - accessibility
+technologies:
+  - fastapi
+  - python
+  - swift
+  - yolo
+builders:
+  - name: Aadi Dapurkar
+  - name: Tim Blair
+  - name: Reef Snell
+  - name: Ajay Bellamkonda

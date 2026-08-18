@@ -1,0 +1,20 @@
+id: mak-g
+name: MAK-G
+slug: mak-g
+tagline: Assistance device that monitor your posture, study's session and lots of other features
+summary: MAK-G received the [Hackathons UK] Best Use of AI Agents on Arm award at HackLondon 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/knd8412/MAKG
+demo_url: null
+video_url: https://www.youtube.com/embed/sB4Jc_SCBH0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/355/777/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - raspberry-pi
+builders:
+  - name: Emmanuel Ankomah
+  - name: Grigory
+  - name: Armita Eslami

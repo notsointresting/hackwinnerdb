@@ -1,0 +1,19 @@
+id: riskbridge
+name: RiskBridge
+slug: riskbridge
+tagline: video
+summary: RiskBridge received the Health Track award at Rutgers MTC Code for Impact Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yuvanshankar2/RiskBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/bMwxqBDtNWc
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Yuvanshankar Mahesh

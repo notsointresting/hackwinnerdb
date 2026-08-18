@@ -1,0 +1,14 @@
+id: dill-pkl-genai-genesis-2026
+project_id: dill-pkl
+hackathon_id: genai-genesis-2026
+submission_url: https://devpost.com/software/dill-pkl
+source:
+  platform: devpost
+  url: https://devpost.com/software/dill-pkl
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] Bitdeer Beyond the Prototype: Best Production-Ready AI Tool (In-Person Only)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

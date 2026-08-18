@@ -1,0 +1,19 @@
+id: schizoboard
+name: schizoboard
+slug: schizoboard
+tagline: Your favorite way to organize evidence, now online.
+summary: schizoboard received the UI/UX 2nd place award at BlasterHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/WittySmirk/schizoboard
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/350/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - typescript
+builders:
+  - name: Wyatt Degenhart
+  - name: Nathan Pederson

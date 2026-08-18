@@ -1,0 +1,23 @@
+id: ai-surveillance-system
+name: AI-Surveillance-System
+slug: ai-surveillance-system
+tagline: Keep a log of how AI-Surveillance-System has evolved. Post about new features, app store
+  releases, screenshots, or even code snippets. Your followers will see y
+summary: AI-Surveillance-System received the Gemini Swags and cloud Credits award at Code Gemini in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/466/705/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - gaming
+  - creative-tools
+technologies:
+  - firebase
+  - javascript
+  - opencv
+  - python
+builders:
+  - name: Ark Sharma

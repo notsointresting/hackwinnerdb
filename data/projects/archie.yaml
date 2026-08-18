@@ -1,0 +1,23 @@
+id: archie
+name: Archie
+slug: archie
+tagline: Archie is a voice-first AI co-builder that helps Roblox creators turn rough ideas into
+  clear plans, tasks, and game-ready direction through natural conversation
+summary: Archie received the First Place award at Hack to the Future in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ryou02/Archie
+demo_url: null
+video_url: https://www.youtube.com/embed/s445-fni0gQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/963/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Basil Liu
+  - name: Jordan Lin

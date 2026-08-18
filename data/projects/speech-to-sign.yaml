@@ -1,0 +1,17 @@
+id: speech-to-sign
+name: Speech to Sign
+slug: speech-to-sign
+tagline: The project aims to help people who do not know sign language and want to communicate with
+  the deaf people or just wants to learn the sign language
+summary: "Speech to Sign received the Hack Day I Demoed Stickers award at HackCafe : May Edition in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/T0F1Q2007/Speech-To-Sign
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/716/386/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Tofig Valizada

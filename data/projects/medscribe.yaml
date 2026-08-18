@@ -1,0 +1,24 @@
+id: medscribe
+name: MedScribe
+slug: medscribe
+tagline: MedScribe turns doctor visits into plain-language summaries, finds nearby pharmacies for
+  your prescriptions, and recommends home remedies, so patients stay info
+summary: MedScribe received the Best UI / User Experience award at CareTech Hackathon Winter 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/medhab123/Clinical_Assistance_AI
+demo_url: null
+video_url: https://www.youtube.com/embed/cggQ7TTYMOs
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - javascript
+builders:
+  - name: Sonia Mangat
+  - name: Kevin Pedregosa
+  - name: lucyariunbayar
+  - name: medhab123 Bhattacharya

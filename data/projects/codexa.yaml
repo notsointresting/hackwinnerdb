@@ -1,0 +1,22 @@
+id: codexa
+name: Codexa
+slug: codexa
+tagline: A gamified discipline platform that turns developer habits into XP, streaks, and levels —
+  because consistency is a skill, not a trait.
+summary: Codexa received the Best Use of MeDo award at Hack The Net in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dev-CoreX/Codexa
+demo_url: null
+video_url: https://www.youtube.com/embed/eIOBii83jlQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/476/296/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - claude
+  - mongodb
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Shivam Yadav

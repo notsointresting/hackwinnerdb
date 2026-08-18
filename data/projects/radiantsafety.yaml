@@ -1,0 +1,27 @@
+id: radiantsafety
+name: RadiantSafety
+slug: radiantsafety
+tagline: RadiantSafety is a live security ecosystem that routes you around urban danger and
+  instantly activates nearby community responders during an emergency to bridge
+summary: RadiantSafety received the 2nd Place award at MACATHON 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thabanamak/RadiantSafety
+demo_url: null
+video_url: https://www.youtube.com/embed/MKRPTa_PTFA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/971/datas/gallery.jpg
+categories:
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - google-maps
+  - mapbox
+  - python
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: thabanamak Mak
+  - name: Xiu Minh Ly
+  - name: Jun Lam

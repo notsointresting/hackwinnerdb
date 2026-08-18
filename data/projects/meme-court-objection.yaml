@@ -1,0 +1,23 @@
+id: meme-court-objection
+name: "Meme Court: Objection!"
+slug: meme-court-objection
+tagline: An AI-powered courtroom game where you defend the internet's most absurd cases. Choose
+  evidence, cross-examine witnesses, and convince an AI Judge with your mos
+summary: "Meme Court: Objection! received the Best Game overall award at AI Game Week in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/AszY3x1kKfk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/649/801/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - claude
+  - cloudflare
+  - typescript
+  - vercel
+builders:
+  - name: Zheming Zhao

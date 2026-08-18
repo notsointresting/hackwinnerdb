@@ -1,0 +1,25 @@
+id: baze
+name: Baze
+slug: baze
+tagline: Your waze for UC Davis biking - your shortest and safest path to your destination.
+summary: Baze received the Best Hardware Hack award at HackDavis 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/oi6W-lSYoRc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/657/057/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+builders:
+  - name: Karthik Konda
+  - name: Yogya Mehrotra
+  - name: Adam Carter
+  - name: SidShastri

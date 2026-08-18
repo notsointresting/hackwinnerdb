@@ -1,0 +1,21 @@
+id: lnpesa
+name: LNpesa
+slug: lnpesa
+tagline: Bitcoin on any phone. No app, no smartphone. Dial a code, become a Pontmore agent in 30
+  seconds. We built the door for the billion without smartphones.
+summary: LNpesa received the Best Tool for Mobile Money brokers/agents using Bitcoin award at
+  Bitcoin++ Open Source Edition in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/Nandiehakuna/LnPesa
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: DENVER MTANGE
+  - name: Kendi Litala
+  - name: kelly gakii

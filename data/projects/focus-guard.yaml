@@ -1,0 +1,20 @@
+id: focus-guard
+name: Focus Guard
+slug: focus-guard
+tagline: This is Focus Guard. It is a working extension which blocks sites which distract you and
+  decrease productivity
+summary: Focus Guard received the Overall 1st Place Hack(1 team) award at PantherHack 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pokemon7am-creator/Focus-Guard-Ultra
+demo_url: null
+video_url: https://www.youtube.com/embed/l4Rpnh5XELs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/040/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Aarav Mehta
+  - name: Armaan Sahni

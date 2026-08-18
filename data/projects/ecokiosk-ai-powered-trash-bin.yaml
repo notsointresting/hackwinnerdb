@@ -1,0 +1,22 @@
+id: ecokiosk-ai-powered-trash-bin
+name: EcoKiosk AI powered trash bin
+slug: ecokiosk-ai-powered-trash-bin
+tagline: Recycle. Get rewarded. It's that simple.
+summary: EcoKiosk AI powered trash bin received the Interview Cake Prize award at forinovation in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ZxgbGhL8-cc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/334/951/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - opencv
+  - python
+  - tensorflow
+  - yolo
+builders:
+  - name: sofia Bouazizi

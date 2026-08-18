@@ -1,0 +1,22 @@
+id: skillforge-ai
+name: SkillForge AI
+slug: skillforge-ai
+tagline: An AI-powered career and learning companion that helps users identify skill gaps, generate
+  personalized roadmaps, build projects, and prepare for interviews usi
+summary: SkillForge AI received the Best Use of Gemini API award at Hack Days Varanasi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/751/310/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - gemini
+  - javascript
+  - typescript
+builders:
+  - name: Aryan Kumar

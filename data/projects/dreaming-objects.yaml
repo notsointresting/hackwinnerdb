@@ -1,0 +1,21 @@
+id: dreaming-objects
+name: Dreaming Objects
+slug: dreaming-objects
+tagline: Everyday items that interact, empathize, and thrive together.
+summary: "Dreaming Objects received the Grand Prize (E14 Fund) award at HARD MODE: Hardware x AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/4GW0NdRvaYs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/469/809/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - claude
+builders:
+  - name: Cristiano Da Silva
+  - name: matthieujules Huss

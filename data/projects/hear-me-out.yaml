@@ -1,0 +1,26 @@
+id: hear-me-out
+name: Hear Me Out
+slug: hear-me-out
+tagline: Claude-powered music therapy for mental health. Emotional stories become personalized songs
+  with hand gesture audio controls, facial emotion tracking, guided me
+summary: Hear Me Out received the $250 in Claude API Credits and Claude Hats award at HackHealth
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Manikatlantis/HearMeOut-MentalHealth
+demo_url: null
+video_url: https://www.youtube.com/embed/6E8vdZ86Pgg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/445/445/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Syed Taswar Mahbub
+  - name: MANIK SHARMA
+  - name: Игорь Тен

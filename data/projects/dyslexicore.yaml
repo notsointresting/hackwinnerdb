@@ -1,0 +1,23 @@
+id: dyslexicore
+name: DyslexiCore
+slug: dyslexicore
+tagline: Empowering neurodivergent learners through personalized skill-quests and intelligent
+  screening tools
+summary: DyslexiCore received the Participation & Completion Recognition award at Quantum Sprint in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shhreya13/DyslexiCore
+demo_url: null
+video_url: https://www.youtube.com/embed/fAB8b4dyyUE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/213/533/datas/gallery.jpg
+categories:
+  - fintech
+  - creative-tools
+  - enterprise
+technologies:
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+builders: []

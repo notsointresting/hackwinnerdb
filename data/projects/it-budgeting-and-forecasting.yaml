@@ -1,0 +1,22 @@
+id: it-budgeting-and-forecasting
+name: IT Budgeting and Forecasting
+slug: it-budgeting-and-forecasting
+tagline: AI-powered IT budget planning and forecasting platform with intelligent analytics,
+  multi-variable scenario modeling, and seamless Excel integration.
+summary: IT Budgeting and Forecasting received the 1st Place award at Southwest MN Hacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Saar0/it-budgeting-strategy.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/687/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Sarthak Adhikari
+  - name: Pascal Pudasaini
+  - name: Luis Miguel Heyaime Bayonet

@@ -1,0 +1,14 @@
+id: watchdog-deep-agents-hackathon
+project_id: watchdog
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/watchdog-erlu0z
+source:
+  platform: devpost
+  url: https://devpost.com/software/watchdog-erlu0z
+awards:
+  - type: category-winner
+    title: Best Use of Auth0 for AI Agents
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

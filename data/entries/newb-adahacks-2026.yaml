@@ -1,0 +1,14 @@
+id: newb-adahacks-2026
+project_id: newb
+hackathon_id: adahacks-2026
+submission_url: https://devpost.com/software/newb
+source:
+  platform: devpost
+  url: https://devpost.com/software/newb
+awards:
+  - type: third-place
+    title: "General Stream: 3rd Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

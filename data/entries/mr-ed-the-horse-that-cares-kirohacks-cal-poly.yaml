@@ -1,0 +1,14 @@
+id: mr-ed-the-horse-that-cares-kirohacks-cal-poly
+project_id: mr-ed-the-horse-that-cares
+hackathon_id: kirohacks-cal-poly
+submission_url: https://devpost.com/software/mr-ed-the-horse-that-cares
+source:
+  platform: devpost
+  url: https://devpost.com/software/mr-ed-the-horse-that-cares
+awards:
+  - type: category-winner
+    title: Best Human-Centered Design
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

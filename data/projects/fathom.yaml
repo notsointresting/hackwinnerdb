@@ -1,0 +1,24 @@
+id: fathom
+name: Fathom
+slug: fathom
+tagline: Fathom turns any industry query into a live 3D knowledge graph, Human delta indexes each
+  company at query time and every edge carries a verbatim source quote. N
+summary: Fathom received the Best Uses of Human Delta API - 2nd Place award at FullyHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/egomez714/Landscape.git
+demo_url: null
+video_url: https://www.youtube.com/embed/p7BIsPerm6U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/571/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - nextjs
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Erick Gomez

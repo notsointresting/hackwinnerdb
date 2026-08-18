@@ -1,0 +1,14 @@
+id: cairn-hackthemountain-2026
+project_id: cairn
+hackathon_id: hackthemountain-2026
+submission_url: https://devpost.com/software/cairn
+source:
+  platform: devpost
+  url: https://devpost.com/software/cairn
+awards:
+  - type: other
+    title: CADUM's Mobile Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

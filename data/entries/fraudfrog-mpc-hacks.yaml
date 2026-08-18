@@ -1,0 +1,14 @@
+id: fraudfrog-mpc-hacks
+project_id: fraudfrog
+hackathon_id: mpc-hacks
+submission_url: https://devpost.com/software/fraudfrog
+source:
+  platform: devpost
+  url: https://devpost.com/software/fraudfrog
+awards:
+  - type: first-place
+    title: 1st Place - Valsoft Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

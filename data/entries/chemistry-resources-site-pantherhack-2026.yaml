@@ -1,0 +1,14 @@
+id: chemistry-resources-site-pantherhack-2026
+project_id: chemistry-resources-site
+hackathon_id: pantherhack-2026
+submission_url: https://devpost.com/software/chemistry-resources-site
+source:
+  platform: devpost
+  url: https://devpost.com/software/chemistry-resources-site
+awards:
+  - type: category-winner
+    title: Best Education Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

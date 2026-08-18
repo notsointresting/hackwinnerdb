@@ -1,0 +1,23 @@
+id: vibecheck-09
+name: VibeCheck-09
+slug: vibecheck-09
+tagline: AI agents that sense the crowd, debate the next move, and transform the room in real time.
+summary: VibeCheck-09 received the [MLH] Best Use of Solana award at BeachHacks 9.0 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/WupyCRDUayg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/689/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - elevenlabs
+  - fastapi
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Sejal Kishor Daterao
+  - name: Harsha Surisetty

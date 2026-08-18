@@ -1,0 +1,29 @@
+id: biosphere
+name: BioSphere
+slug: biosphere
+tagline: "BioSphere turns any bioreactor smart through cheap Arduino sensors, webcam turbidity, and
+  an AI copilot in one live dashboard. No six-figure SCADA. Just open a "
+summary: BioSphere received the Hardware + IoT track award at DataHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lakshj007/smart-bioreactor
+demo_url: null
+video_url: https://www.youtube.com/embed/VVFwSxXLmKo
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - elevenlabs
+  - fastapi
+  - opencv
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aryav Tyagi
+  - name: Laksh Jain
+  - name: Akshay Karumuri
+  - name: Arjan Gunsi

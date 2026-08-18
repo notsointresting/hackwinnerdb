@@ -1,0 +1,20 @@
+id: room-reveal
+name: Room Reveal
+slug: room-reveal
+tagline: Explore your future living spaces through crowdsourced 3D gaussian splat models of dorms
+  and apartments
+summary: Room Reveal received the Best Use of Claude award at Claude Builder Club Spring Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/GalacticQuasar/room-reveal
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/108/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+builders:
+  - name: Akash Ravandhu
+  - name: Dev Das

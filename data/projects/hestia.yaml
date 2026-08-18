@@ -1,0 +1,23 @@
+id: hestia
+name: Hestia
+slug: hestia
+tagline: "An agent harness for event ops: specialized AI agents help source venues, coordinate
+  vendors, draft sponsor outreach, manage logistics, and turn an event idea i"
+summary: "Hestia received the Conquer with Context: Best Use of Airbyte's Agent Engine award at
+  Harness Engineering Hack in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/alek-karp/hestia-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/mULwSxcUaek
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/763/973/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - typescript
+builders:
+  - name: Andrew Feng
+  - name: Priyanshu Mahey
+  - name: Aleksander Karp

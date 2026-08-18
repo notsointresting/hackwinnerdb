@@ -1,0 +1,20 @@
+id: studymind
+name: StudyMind
+slug: studymind
+tagline: Your notes, your schedule, organized by intelligence.
+summary: StudyMind received the 50$ Gift Card award at Build With AI Hack Days @DIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - firebase
+  - mongodb
+builders:
+  - name: Umme Munia

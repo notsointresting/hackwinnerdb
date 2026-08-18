@@ -1,0 +1,21 @@
+id: rayvein
+name: RayVein
+slug: rayvein
+tagline: "RayVein is the premier solution to determining overall well-being. Rather than gimmicky,
+  ineffective solutions, RayVein gets its information straight from your "
+summary: RayVein received the $50 Giftcard award at Product@TAMU Ideathon Spring 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qDb-q1Z6FYw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/019/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - claude
+  - figma
+builders:
+  - name: Grayson Mann
+  - name: Inioluwa Akanni
+  - name: Eric Garrett

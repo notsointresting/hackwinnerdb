@@ -1,0 +1,14 @@
+id: extratranslational-liftoff
+project_id: extratranslational
+hackathon_id: liftoff
+submission_url: https://devpost.com/software/extratranslational
+source:
+  platform: devpost
+  url: https://devpost.com/software/extratranslational
+awards:
+  - type: winner
+    title: Winner of "Beyond Language"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

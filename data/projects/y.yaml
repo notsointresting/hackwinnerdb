@@ -1,0 +1,22 @@
+id: y
+name: Y
+slug: y
+tagline: Y
+summary: Y received the TechCommons Hacks V1 - Creative Excellence Award award at TechCommons Hacks
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/library
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Anush Jain

@@ -1,0 +1,14 @@
+id: clearair-rutgers-mtc-code-for-impact-hackathon
+project_id: clearair
+hackathon_id: rutgers-mtc-code-for-impact-hackathon
+submission_url: https://devpost.com/software/clearair
+source:
+  platform: devpost
+  url: https://devpost.com/software/clearair
+awards:
+  - type: track-winner
+    title: Climate Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,31 @@
+id: aeo-aaas
+name: AEO AaaS
+slug: aeo-aaas
+tagline: Answer Engine Optimization Agent as a Service,
+  https://www.loom.com/share/da89204aa0eb44fba916155dbf234712
+summary: AEO AaaS received the $250 award at UCSB.network Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/HmW6wBilrUQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/809/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - enterprise
+technologies:
+  - anthropic
+  - claude
+  - gemini
+  - javascript
+  - llama
+  - openai
+  - postgresql
+  - react
+  - sql
+  - stripe
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Quinn Godfredsen

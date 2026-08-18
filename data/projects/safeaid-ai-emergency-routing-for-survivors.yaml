@@ -1,0 +1,23 @@
+id: safeaid-ai-emergency-routing-for-survivors
+name: SafeAid - AI Emergency Routing for Survivors
+slug: safeaid-ai-emergency-routing-for-survivors
+tagline: AI-powered platform that routes trafficking survivors and vulnerable people to the nearest
+  shelter, NGO, or emergency contact via SMS or the Web app (no smartph
+summary: SafeAid - AI Emergency Routing for Survivors received the Graduate (Masters/Doctoral) -
+  Social Impact award at USAII® Global AI Hackathon 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/codewithemmax/safeaid
+demo_url: null
+video_url: https://www.youtube.com/embed/LSz4SfEiD4I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/797/493/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: Emmanuel Olayinka
+  - name: Ashiah Ibrahim

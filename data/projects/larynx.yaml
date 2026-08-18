@@ -1,0 +1,21 @@
+id: larynx
+name: LARYNX
+slug: larynx
+tagline: Voice deepfake detection through articulatory physics. Not just if it's fake, but where the
+  physics break.
+summary: "LARYNX received the Track: Best AI Inference (2nd Place) award at HackIllinois 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Gladdonilli/hackillinois-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/6DpBxdVfRSY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/389/204/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Tianyi Li

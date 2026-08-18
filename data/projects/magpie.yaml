@@ -1,0 +1,25 @@
+id: magpie
+name: Magpie
+slug: magpie
+tagline: Copy anything while you study. Magpie silently classifies it, files it into the right
+  notebook, and builds your study session into a live, queryable dashboard —
+summary: Magpie received the Most Innovative Use of Agents (Guild.ai) award at Harness Engineering
+  Hack in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/shantanujoshi25/magpie
+demo_url: null
+video_url: https://www.youtube.com/embed/HWpXXJRrSqc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/763/754/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - openai
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Mehul Mangave
+  - name: Shantanu Joshi

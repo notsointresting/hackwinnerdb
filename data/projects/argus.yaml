@@ -1,0 +1,22 @@
+id: argus
+name: Argus
+slug: argus
+tagline: An autonomous agent that watches the web, maps what it finds into a knowledge graph, and
+  sells the intelligence to other agents. 100 eyes on the web, zero human
+summary: Argus received the Best Use of Tavily Search award at Multiagents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Hackathon-HQ/ARGUS
+demo_url: null
+video_url: https://www.youtube.com/embed/XNYmhp47c84
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: Sequoia Samuel
+  - name: Dennis B.

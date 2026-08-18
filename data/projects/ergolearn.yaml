@@ -1,0 +1,18 @@
+id: ergolearn
+name: Ergolearn
+slug: ergolearn
+tagline: ErgoLearn AI turns standard webcams into local 3D biomechanical sensors for all. Built on
+  Tauri + Python, it tracks slouching, asymmetry, and screen distance vi
+summary: Ergolearn received the 1st Place award at Built with Python Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BMWareSPEEDY/Ergolearn-AI.git
+demo_url: null
+video_url: https://www.youtube.com/embed/H_7LSYgvdNo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/834/437/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Ayansh Paliwal

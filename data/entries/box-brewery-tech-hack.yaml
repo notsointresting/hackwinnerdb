@@ -1,0 +1,18 @@
+id: box-brewery-tech-hack
+project_id: box-brewery
+hackathon_id: tech-hack
+submission_url: https://devpost.com/software/box-brewery
+source:
+  platform: devpost
+  url: https://devpost.com/software/box-brewery
+awards:
+  - type: other
+    title: Logitech MX Master 3S Mouse & Mousepad
+  - type: other
+    title: 24 Pk. of Monster Energy
+  - type: other
+    title: ElevenLabs Pro Tier (3 Months)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

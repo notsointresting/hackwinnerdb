@@ -1,0 +1,24 @@
+id: pomochi
+name: Pomochi
+slug: pomochi
+tagline: Pomochi turns focus into growth. A Tamagotchi-style study companion that uses Pomodoro
+  sessions & attention tracking to keep you accountable & motivated.
+summary: "Pomochi received the WiC: Best Accessible UI/UX award at WiCHacks '26 in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/kaclark219/wichacks-26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/306/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - flask
+  - javascript
+  - opencv
+  - python
+  - react
+builders:
+  - name: Katelyn Clark
+  - name: Myra Mulongoti

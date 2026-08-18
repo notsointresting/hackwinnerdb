@@ -1,0 +1,30 @@
+id: emergency-command-center-ecc
+name: Emergency Command Center (ECC)
+slug: emergency-command-center-ecc
+tagline: ECC is an AI-powered emergency command center that triages calls, detects disaster surges,
+  maps incidents live, and helps operators prioritize urgent cases when
+summary: Emergency Command Center (ECC) received the Coffee Chat with IBM Leader - Ashar Azmat -
+  Senior Technical Consultant at IBM | TPO | Adobe & MarTech award at IBM x UNSA Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MrSujalThapa/ecc/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/yy_Irg6lxh0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/653/313/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - javascript
+  - mapbox
+  - supabase
+  - twilio
+  - typescript
+builders:
+  - name: Sujal Thapa
+  - name: Hemangi Patil
+  - name: Kaushal Khadka
+  - name: frank-skyblue Kong

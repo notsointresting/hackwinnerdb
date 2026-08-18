@@ -1,0 +1,14 @@
+id: bugbash
+name: BugBash
+slug: bugbash
+organizer: []
+year: 2026
+sources:
+  - https://shebuilds-29495.devpost.com/
+  - https://shebuilds-29495.devpost.com/project-gallery?filter=winner
+website_url: https://shebuilds-29495.devpost.com/
+platform: devpost
+participant_count: 135
+prize_pool: 95000
+currency: USD
+description: "Devpost hackathon: BugBash. Imported automatically."

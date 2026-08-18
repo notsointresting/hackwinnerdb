@@ -1,0 +1,23 @@
+id: arkskill
+name: ArkSkill
+slug: arkskill
+tagline: ArkSkill is a free web app that generates a tailored Claude skill file for humanities
+  researchers working with sources like bibliographies, indexes, tables of c
+summary: ArkSkill received the 2nd Prize award at Claude@Stanford Buildathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/906/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - claude
+  - react
+  - vercel
+builders:
+  - name: Georgii Korotkov
+  - name: Lera K

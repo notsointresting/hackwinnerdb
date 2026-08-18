@@ -1,0 +1,18 @@
+id: ai-drug-discovery-swarm
+name: AI Drug Discovery Swarm
+slug: ai-drug-discovery-swarm
+tagline: A multi-agent AI swarm that evolves drug candidates by exploring chemical space, scoring
+  binding and safety, and surfacing top molecules in a real-time dashboar
+summary: AI Drug Discovery Swarm received the Prizes award at LynxHack2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sabir-yas/drug-discovery-swarm
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Yaseer Sabir

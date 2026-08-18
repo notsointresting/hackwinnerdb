@@ -1,0 +1,14 @@
+id: smartbuy-67birras-damm-ehub
+project_id: smartbuy-67birras
+hackathon_id: damm-ehub
+submission_url: https://devpost.com/software/smartbuy-67birras
+source:
+  platform: devpost
+  url: https://devpost.com/software/smartbuy-67birras
+awards:
+  - type: winner
+    title: Winner SmartBuy Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

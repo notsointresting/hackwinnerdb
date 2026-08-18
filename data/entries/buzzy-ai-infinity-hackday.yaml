@@ -1,0 +1,14 @@
+id: buzzy-ai-infinity-hackday
+project_id: buzzy-ai
+hackathon_id: infinity-hackday
+submission_url: https://devpost.com/software/buzzy-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/buzzy-ai
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

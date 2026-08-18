@@ -1,0 +1,14 @@
+id: dal-bhat-ehacks-2026
+project_id: dal-bhat
+hackathon_id: ehacks-2026
+submission_url: https://devpost.com/software/dal-bhat
+source:
+  platform: devpost
+  url: https://devpost.com/software/dal-bhat
+awards:
+  - type: other
+    title: Fourth Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

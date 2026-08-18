@@ -1,0 +1,14 @@
+id: kepler-ai-india-high-school-exoplanet-data-challenge
+project_id: kepler-ai
+hackathon_id: india-high-school-exoplanet-data-challenge
+submission_url: https://devpost.com/software/kepler-ai-mkvzw8
+source:
+  platform: devpost
+  url: https://devpost.com/software/kepler-ai-mkvzw8
+awards:
+  - type: third-place
+    title: 3rd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

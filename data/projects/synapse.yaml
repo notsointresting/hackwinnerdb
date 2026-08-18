@@ -1,0 +1,29 @@
+id: synapse
+name: Synapse
+slug: synapse
+tagline: The most complete, scalable UI/UX feedback loop for developers. Turns user emotions,
+  clicks, intent and direct, unfiltered feedback into automatic PRs to help y
+summary: Synapse received the Best General Hack award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aqtion/synapse
+demo_url: null
+video_url: https://www.youtube.com/embed/f-oB8XXwYKg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/388/746/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - cloudflare
+  - docker
+  - elevenlabs
+  - gemini
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Amey Gupta
+  - name: Keshav Badrinath
+  - name: Akshat Kumar Shahi
+  - name: neel-kumar-v Kumar

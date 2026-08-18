@@ -1,0 +1,22 @@
+id: questkey
+name: QuestKey
+slug: questkey
+tagline: QuestKey uses AI to make learning more accessible. Ask any question and it generates an
+  interactive quest that teaches through exploration, feedback, and discov
+summary: QuestKey received the Participation Certificates award at Ctrl+V Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/nyFvayJ8T0w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/861/945/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - accessibility
+technologies:
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Michelle Slee

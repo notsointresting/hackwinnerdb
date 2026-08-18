@@ -1,0 +1,16 @@
+id: vaccineos-hackduke-code-for-good-2026
+project_id: vaccineos
+hackathon_id: hackduke-code-for-good-2026
+submission_url: https://devpost.com/software/vaccineos
+source:
+  platform: devpost
+  url: https://devpost.com/software/vaccineos
+awards:
+  - type: track-winner
+    title: "Runner Up: Health Track"
+  - type: sponsor-prize
+    title: "[MLH] Best Use of AI powered by Reach Capital"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

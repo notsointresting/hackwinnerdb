@@ -1,0 +1,25 @@
+id: vitreous
+name: Vitreous
+slug: vitreous
+tagline: Who has your data right now? The answer should be simple. Vitreous lets you see every app
+  you've given access, giving personalized security recommendations to m
+summary: Vitreous received the UBC CS Project Hub award at cmd-f 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ada1027/vitreous.git
+demo_url: null
+video_url: https://www.youtube.com/embed/C59HpybuREA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/412/533/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: ada Huang
+  - name: Ella Pang
+  - name: Hemangi Singh
+  - name: Zoë Lee

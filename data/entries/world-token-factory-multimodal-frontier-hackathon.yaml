@@ -1,0 +1,14 @@
+id: world-token-factory-multimodal-frontier-hackathon
+project_id: world-token-factory
+hackathon_id: multimodal-frontier-hackathon
+submission_url: https://devpost.com/software/world-token-factory
+source:
+  platform: devpost
+  url: https://devpost.com/software/world-token-factory
+awards:
+  - type: category-winner
+    title: Best use of assistant-ui
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,18 @@
+id: interviewiq
+name: InterviewIq
+slug: interviewiq
+tagline: AI-powered interview simulator that generates role-based questions and delivers instant
+  performance feedback.
+summary: InterviewIq received the MLH + GEMINI SWAG award at PIXEL.GEMINI in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anjaliOfficialcoll/ai-interview-simulator
+demo_url: null
+video_url: https://www.youtube.com/embed/zhKakBSJPRY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/065/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Anjali anjali

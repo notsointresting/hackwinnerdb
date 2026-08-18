@@ -1,0 +1,19 @@
+id: bc-med-info
+name: BC MEd Info
+slug: bc-med-info
+tagline: Central website to view drug info for bc residents
+summary: BC MEd Info received the Third Place award at Claude Hackathon x UVicHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Mika Imamura
+  - name: Tristan William Tucker
+  - name: Ben Tran

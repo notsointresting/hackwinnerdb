@@ -1,0 +1,25 @@
+id: sahati-ai
+name: Sahati AI
+slug: sahati-ai
+tagline: "Sahati AI: An end-to-end AI medical concierge that triages symptoms and automates doctor
+  appointments."
+summary: Sahati AI received the 2nd Place - Runner-Up award at Gemini Hack Night by CGI Club at ENSA
+  Marrakech in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/I-l-y-a-Z-z/Sahati-ai
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/548/246/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Amine Chrif
+  - name: Ilyas Rahmouni
+  - name: Alae Sabir
+  - name: abdelmajid nidnasser

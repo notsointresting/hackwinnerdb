@@ -1,0 +1,14 @@
+id: deap-crash-biohackathon-edinburgh-2026
+project_id: deap-crash
+hackathon_id: biohackathon-edinburgh-2026
+submission_url: https://devpost.com/software/deap-crash
+source:
+  platform: devpost
+  url: https://devpost.com/software/deap-crash
+awards:
+  - type: other
+    title: "[OFI] Bio-Innovation Hub Resource Allocation Simulator"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: wavelearn
+name: WaveLearn
+slug: wavelearn
+tagline: "You're a dolphin. The shark is your study guide. Every right answer is a slam; every wrong
+  one is a bite to the face. An epic battle powered by your own notes. "
+summary: WaveLearn received the Best Overall award at MasseyHacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/i0CpisYxao4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/655/681/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - java
+builders:
+  - name: ItsIsaacIO Maxim
+  - name: Samarth Vyas
+  - name: Dinidu Siriwardane
+  - name: Lucas Herman

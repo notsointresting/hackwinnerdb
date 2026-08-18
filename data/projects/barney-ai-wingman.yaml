@@ -1,0 +1,20 @@
+id: barney-ai-wingman
+name: Barney - AI wingman
+slug: barney-ai-wingman
+tagline: ..
+summary: Barney - AI wingman received the Best use of Modulate's APIs award at Autonomous Agents
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Hrishikesh-Athreya/Barney
+demo_url: null
+video_url: https://www.youtube.com/embed/-XTWj6roKFE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+builders:
+  - name: Hrishikesh Athreya

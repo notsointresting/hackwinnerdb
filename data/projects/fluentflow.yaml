@@ -1,0 +1,23 @@
+id: fluentflow
+name: FluentFlow
+slug: fluentflow
+tagline: "Speak about real situations, not flashcards. Voice & text AI role-play in 7 languages with
+  live corrections & session scores; same FluentFlow on MeDo (web) and "
+summary: FluentFlow received the Community Choice Award award at Build with MeDo Hackathon  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NotMe22221/fluentflow
+demo_url: null
+video_url: https://www.youtube.com/watch?v=HwgcnDkHxek
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/634/919/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - google-cloud
+  - javascript
+  - sql
+  - supabase
+builders:
+  - name: Karthik Uppala

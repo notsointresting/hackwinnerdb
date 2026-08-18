@@ -1,0 +1,27 @@
+id: miro
+name: Miro
+slug: miro
+tagline: Upload the past, Mirror the present. Miro turns scattered emails and tenant history into a
+  clear, prioritized view of what matters right now.
+summary: Miro received the CBRE Challenge award at WEHack 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/enayas/wehack26
+demo_url: null
+video_url: https://www.youtube.com/embed/8P77MMqLxyI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/596/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - fastapi
+  - google-maps
+  - javascript
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Zahraa Al-Naami
+  - name: Ruba Osman
+  - name: Maryam Al-Naami
+  - name: enaya jawed

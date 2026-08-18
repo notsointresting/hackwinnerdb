@@ -1,0 +1,14 @@
+id: cairn-techcommons-hacks
+project_id: cairn
+hackathon_id: techcommons-hacks
+submission_url: https://devpost.com/software/cairn-8r0ojt
+source:
+  platform: devpost
+  url: https://devpost.com/software/cairn-8r0ojt
+awards:
+  - type: other
+    title: Participation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

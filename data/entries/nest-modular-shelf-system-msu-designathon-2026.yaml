@@ -1,0 +1,14 @@
+id: nest-modular-shelf-system-msu-designathon-2026
+project_id: nest-modular-shelf-system
+hackathon_id: msu-designathon-2026
+submission_url: https://devpost.com/software/nest-modular-shelf-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/nest-modular-shelf-system
+awards:
+  - type: track-winner
+    title: "[Accessibility & Inclusive Design] Winner of the Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

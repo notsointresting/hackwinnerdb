@@ -1,0 +1,20 @@
+id: seepdeek
+name: Seepdeek
+slug: seepdeek
+tagline: Seepdeek turns Slack and Linear messages, issues, and comments into one prioritized task
+  queue, using AI to keep work updated and closed automatically.
+summary: Seepdeek received the Best in Theme Award award at strAIght up! Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - nextjs
+builders:
+  - name: lionel Goh

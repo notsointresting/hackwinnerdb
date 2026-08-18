@@ -1,0 +1,25 @@
+id: attenda-health
+name: Attenda Health
+slug: attenda-health
+tagline: Streamlining the call-bell system for 21st century nursing
+summary: Attenda Health received the Grand Prize - Second Place Overall award at WildHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Bod1eF/wildhacks-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/vHAHlRfS7_c
+image_url: null
+categories:
+  - healthcare
+technologies:
+  - claude
+  - elevenlabs
+  - gemini
+  - react
+  - supabase
+  - tailwind-css
+builders:
+  - name: Aiden Tian
+  - name: Bodie Feinberg
+  - name: Andrew Xue
+  - name: Oscar Jakacki

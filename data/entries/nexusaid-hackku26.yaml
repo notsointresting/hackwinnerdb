@@ -1,0 +1,14 @@
+id: nexusaid-hackku26
+project_id: nexusaid
+hackathon_id: hackku26
+submission_url: https://devpost.com/software/nexusaid
+source:
+  platform: devpost
+  url: https://devpost.com/software/nexusaid
+awards:
+  - type: first-place
+    title: General Track 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

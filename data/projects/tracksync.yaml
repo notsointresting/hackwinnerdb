@@ -1,0 +1,26 @@
+id: tracksync
+name: Tracksync
+slug: tracksync
+tagline: The github for music.
+summary: Tracksync received the Most Creative Idea award at UNIHACK 2026, funded by the European
+  Union in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/andrew-c105/UNIHACK-2026-Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/fhlOkANMoIU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/438/839/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - tailwind-css
+builders:
+  - name: Louis Lim
+  - name: Christian Martinez
+  - name: Andrew Chan

@@ -1,0 +1,14 @@
+id: hoppyhour-cmd-f-2026
+project_id: hoppyhour
+hackathon_id: cmd-f-2026
+submission_url: https://devpost.com/software/hoppyhour
+source:
+  platform: devpost
+  url: https://devpost.com/software/hoppyhour
+awards:
+  - type: category-winner
+    title: "[MLH] Best Hack Built with Google Antigravity"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

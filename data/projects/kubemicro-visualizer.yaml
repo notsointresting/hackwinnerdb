@@ -1,0 +1,21 @@
+id: kubemicro-visualizer
+name: KubeMicro-Visualizer
+slug: kubemicro-visualizer
+tagline: "Real-time Kubernetes topology visualization for testing failures: take your microservices
+  architecture and bring it to life"
+summary: KubeMicro-Visualizer received the Network Application award at Synthesis Hacks in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/755/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - docker
+  - kubernetes
+  - react
+builders:
+  - name: Abby Kaur
+  - name: Mason Drake

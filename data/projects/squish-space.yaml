@@ -1,0 +1,21 @@
+id: squish-space
+name: squish.space
+slug: squish-space
+tagline: 3D graphs that you can morph with your hands (like desmos)
+summary: squish.space received the [Jebrains] Best use of Kotlin award at SotonHack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vickyvicky122/squish
+demo_url: null
+video_url: https://www.youtube.com/embed/DVfaUQXp9qA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/442/482/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - kotlin
+builders:
+  - name: Keanu Czirjak
+  - name: Vicky MATVIIUK
+  - name: Vikkash Sureshkumar
+  - name: Caden Fernandes

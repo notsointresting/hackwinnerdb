@@ -1,0 +1,23 @@
+id: endeerment
+name: Endeerment
+slug: endeerment
+tagline: Endeerment is a cozy mental wellness app that helps you build healthier habits through
+  reflective check-ins, gentle gamification, and a forest that grows as you
+summary: Endeerment received the Second Place award at HSHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/martmot/Endeerment
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/700/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Abhinav Manoj manojkumar
+  - name: Nur Nadi
+  - name: Kaushal Naresh Kumar
+  - name: grimreaper55430 Karthi Sankar

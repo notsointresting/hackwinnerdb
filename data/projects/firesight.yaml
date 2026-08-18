@@ -1,0 +1,24 @@
+id: firesight
+name: Firesight
+slug: firesight
+tagline: FireSight is a web-based wildfire mission control system where AI agents analyze satellite
+  data, predict fire spread, coordinate drones, and provide a first-per
+summary: Firesight received the Best Agentic Mission Control with PICO award at Worlds in Action
+  Hack [01-SF] in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/AlfredSjoqvist/agentic-mission-control
+demo_url: null
+video_url: https://www.youtube.com/embed/dLkCpeuGXOg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/448/458/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - javascript
+  - react
+builders:
+  - name: Xiya Tang
+  - name: Alfred Sjöqvist

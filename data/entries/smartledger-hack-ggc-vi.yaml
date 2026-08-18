@@ -1,0 +1,14 @@
+id: smartledger-hack-ggc-vi
+project_id: smartledger
+hackathon_id: hack-ggc-vi
+submission_url: https://devpost.com/software/smartledger
+source:
+  platform: devpost
+  url: https://devpost.com/software/smartledger
+awards:
+  - type: other
+    title: Runner up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

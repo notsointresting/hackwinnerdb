@@ -1,0 +1,19 @@
+id: vaulttok
+name: VaultTok
+slug: vaulttok
+tagline: Compress the context. Keep the secrets local.
+summary: "VaultTok received the Most Valuable Feedback Prize award at Build with Paritok: The
+  Token-Efficiency Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/13shreyansh/vaulttok
+demo_url: null
+video_url: https://www.youtube.com/embed/QJIxv5Kswec
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/058/295/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Shreyansh Agarwal

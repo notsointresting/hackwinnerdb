@@ -1,0 +1,16 @@
+id: last-stand-the-london-rork-game-hackathon
+project_id: last-stand
+hackathon_id: the-london-rork-game-hackathon
+submission_url: https://devpost.com/software/last-stand-pv1qy6
+source:
+  platform: devpost
+  url: https://devpost.com/software/last-stand-pv1qy6
+awards:
+  - type: other
+    title: HeySalad ® Hardware Challenge Prize — Return trip to Shenzhen for Maker Faire in November
+  - type: first-place
+    title: HeySalad ® 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

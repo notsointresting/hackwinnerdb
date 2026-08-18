@@ -1,0 +1,18 @@
+id: sci-sim-dsh-hacks-v1
+project_id: sci-sim
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/sci-sim
+source:
+  platform: devpost
+  url: https://devpost.com/software/sci-sim
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - InterviewCake
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

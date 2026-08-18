@@ -1,0 +1,22 @@
+id: uiu-scholarflow-ai
+name: UIU ScholarFlow AI
+slug: uiu-scholarflow-ai
+tagline: A multi-agent academic workflow coordinator that transforms chaotic university syllabi into
+  personalized, optimized study plans.
+summary: UIU ScholarFlow AI received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mrhjayeed/uiu-scholarflow-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/hPuWo4iMelE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/613/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - openai
+  - python
+  - streamlit
+builders:
+  - name: M. R. Haque Jayeed

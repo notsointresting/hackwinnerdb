@@ -1,0 +1,24 @@
+id: easey-prep
+name: EASEY PREP
+slug: easey-prep
+tagline: Plan out your meals using an LLM, with a focus on personalized health and nutrition.
+summary: "EASEY PREP received the General 2nd Place award at NTHS Hack 2026: Hack the next frontier
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Enckripted/nths-2026-project
+demo_url: null
+video_url: https://www.youtube.com/embed/ZsD9zhPRlIw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/504/125/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - supabase
+  - typescript
+  - vue
+builders:
+  - name: Nikhil Mandala
+  - name: Diego Morales
+  - name: Nitish Raj
+  - name: Joel Kim

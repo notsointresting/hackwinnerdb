@@ -1,0 +1,21 @@
+id: preview-dog
+name: Preview Dog
+slug: preview-dog
+tagline: Save time by automatically adding quick preview videos to issues and PRs.
+summary: Preview Dog received the 2nd Prize award at Daytona HackSprint w/ Braintrust - SF, July
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/morimori00/dashboard-mockup-for-daytona-hackathon/issues
+demo_url: null
+video_url: https://www.youtube.com/embed/mIui937gc3s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/022/044/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - nextjs
+  - python
+builders:
+  - name: Shintaro Morimoto

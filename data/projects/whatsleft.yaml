@@ -1,0 +1,27 @@
+id: whatsleft
+name: WhatsLeft
+slug: whatsleft
+tagline: We built WhatsLeft—a textless food management app for your fridge.While existing apps fail
+  due to constant manual input, WhatsLeft completely eliminates this fr
+summary: WhatsLeft received the 1st Place award at Changbal Innovation Hack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/798/659/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Yuna Kim
+  - name: YG H
+  - name: Brian Choi
+  - name: Jongwoo Ko

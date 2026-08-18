@@ -1,0 +1,14 @@
+id: ethos-vision-the-autonomous-supply-chain-oracle-genovate-hack-days
+project_id: ethos-vision-the-autonomous-supply-chain-oracle
+hackathon_id: genovate-hack-days
+submission_url: https://devpost.com/software/ethos-vision-the-autonomous-supply-chain-oracle
+source:
+  platform: devpost
+  url: https://devpost.com/software/ethos-vision-the-autonomous-supply-chain-oracle
+awards:
+  - type: category-winner
+    title: Best use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

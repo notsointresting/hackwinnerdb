@@ -1,0 +1,23 @@
+id: food-for-beautiful-skin
+name: Food for Beautiful Skin
+slug: food-for-beautiful-skin
+tagline: See how food you already have at home can make your skin more beautiful — powered by
+  Perfect Corp AI
+summary: "Food for Beautiful Skin received the 1st Place Winner! award at The Silicon Valley
+  Hackathon: Perfect Corp x Startup World Cup in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/williamcheung/food4beautifulskin
+demo_url: null
+video_url: https://www.youtube.com/embed/d2vVfGNwY14
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/648/440/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - productivity
+  - ar-vr
+technologies:
+  - google-cloud
+  - langchain
+  - python
+builders:
+  - name: William Cheung

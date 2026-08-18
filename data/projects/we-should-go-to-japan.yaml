@@ -1,0 +1,31 @@
+id: we-should-go-to-japan
+name: We should go to Japan
+slug: we-should-go-to-japan
+tagline: Get your Japan trip out of the GC. (Slang for Group Chat BTW (Slang for by the way))
+summary: "We should go to Japan received the Base44: Base44 Venture Builder Challenge award at Hack
+  the 6ix 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/alextgu/hack-the-6ix
+demo_url: null
+video_url: https://www.youtube.com/embed/t1_Amtt9RSQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/934/378/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - docker
+  - elevenlabs
+  - fastapi
+  - gemini
+  - javascript
+  - mongodb
+  - python
+  - typescript
+builders:
+  - name: Alexander Gu
+  - name: Kaamil Mirza
+  - name: Ryan Chang
+  - name: Lucas Vu

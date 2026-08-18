@@ -1,0 +1,21 @@
+id: smart-charger
+name: Smart Charger
+slug: smart-charger
+tagline: Saving money and the environment when charging battery devices.
+summary: Smart Charger received the Energy / Power Stream - 2nd award at Hacked 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/361/564/datas/gallery.jpg
+categories:
+  - climate
+  - productivity
+  - social-impact
+technologies:
+  - vercel
+builders:
+  - name: Nate Stork
+  - name: gbaltazart
+  - name: Mark Soria

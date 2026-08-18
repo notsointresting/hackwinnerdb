@@ -1,0 +1,23 @@
+id: hyper-famila
+name: Hyper Famila
+slug: hyper-famila
+tagline: We're developing a system for lab automation where an agent can control a robotic hand for
+  liquid withdrawal and analysis and hypothesis testing.
+summary: Hyper Famila received the OpenAI Credits award at HackRome in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/giacomoran/hyperfamila-hackrome-2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Ludovico Comito
+  - name: andrea avo
+  - name: Diego Perazzolo
+  - name: Giacomo Randazzo

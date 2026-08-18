@@ -1,0 +1,16 @@
+id: aidlink-produhacks-2026
+project_id: aidlink
+hackathon_id: produhacks-2026
+submission_url: https://devpost.com/software/aidlink-p4327y
+source:
+  platform: devpost
+  url: https://devpost.com/software/aidlink-p4327y
+awards:
+  - type: category-winner
+    title: Spring – Most Likely to Become a Startup
+  - type: category-winner
+    title: Fetch.ai - Best Use of Fetch AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

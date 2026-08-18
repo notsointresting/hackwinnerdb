@@ -1,0 +1,25 @@
+id: clauduck
+name: Clauduck
+slug: clauduck
+tagline: As a student, keeping up is hard. ClauDuck uses Claude and Linkup to prime you before
+  class, talk to slides, and update you on events around campus.
+summary: Clauduck received the Linkup Challenge - Best use of the Linkup search API award at Claude
+  Hackathon 2026 Columbia X NYU in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/SaranBodduluri/clauduck
+demo_url: null
+video_url: https://www.youtube.com/embed/qBtUWsixcwg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/564/807/datas/medium.png
+categories:
+  - education
+  - social-impact
+technologies:
+  - claude
+  - python
+  - react
+builders:
+  - name: Saran Bodduluri
+  - name: Haven Qin
+  - name: John Walter Tauber
+  - name: Sayem Ather

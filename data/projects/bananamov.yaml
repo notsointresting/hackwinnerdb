@@ -1,0 +1,26 @@
+id: bananamov
+name: BananaMOV
+slug: bananamov
+tagline: BananaMOV turns any video into an original, structure-matched score with ElevenLabs. These
+  scores are licensing-free and splittable into stems for downloading o
+summary: BananaMOV received the Best Use of ElevenLabs award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hppddub/jamhacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/qH7Tyug8NfA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/771/153/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - react
+  - sql
+  - typescript
+builders:
+  - name: Maxim Mohareb
+  - name: Alvin Kalaivannan
+  - name: lemonsoap21
+  - name: Stanley Zhou

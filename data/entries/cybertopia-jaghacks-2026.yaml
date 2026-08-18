@@ -1,0 +1,14 @@
+id: cybertopia-jaghacks-2026
+project_id: cybertopia
+hackathon_id: jaghacks-2026
+submission_url: https://devpost.com/software/cybertopia
+source:
+  platform: devpost
+  url: https://devpost.com/software/cybertopia
+awards:
+  - type: track-winner
+    title: Beginner Track Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

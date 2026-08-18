@@ -1,0 +1,20 @@
+id: padhai
+name: PadhAI
+slug: padhai
+tagline: "PadhAI: From prompt to narrated and animated lectures, instantly."
+summary: PadhAI received the Participation & Completion Recognition award at Hyperbloom V2 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kpsr01/padhai
+demo_url: null
+video_url: https://www.youtube.com/embed/1nJk5PZ5esc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/831/075/datas/medium.png
+categories:
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - openai
+  - react
+builders:
+  - name: Pranav Suhas Reddy Konduru

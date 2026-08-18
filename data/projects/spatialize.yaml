@@ -1,0 +1,25 @@
+id: spatialize
+name: Spatialize
+slug: spatialize
+tagline: The floor plan that talks back.
+summary: "Spatialize received the Feedback prize award at Backblaze Generative Media Hackathon:
+  Build with Genblaze on B2 in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/N-45div/Spatialize
+demo_url: null
+video_url: https://www.youtube.com/embed/V5ka_PAsq4I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/051/179/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: N DIVIJ .

@@ -1,0 +1,23 @@
+id: tailortab
+name: TailorTab
+slug: tailortab
+tagline: TailorTab transforms your new tab page into a personal dashboard. Type what you want to
+  see; from World Cup scores to current stock market updates, it appears i
+summary: "TailorTab received the BRONZE award at Mind the Product presents World Product Day:
+  Everyone Ships Now in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/atinm12/TailorTab
+demo_url: null
+video_url: https://www.youtube.com/embed/9jdIKpBV7TE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/792/987/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - cloudflare
+  - supabase
+  - typescript
+builders:
+  - name: Atin Mathur

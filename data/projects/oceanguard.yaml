@@ -1,0 +1,26 @@
+id: oceanguard
+name: OceanGuard
+slug: oceanguard
+tagline: "OceanGuard is an AI-powered website that transforms ocean health monitoring. We combine
+  smart AI analysis and real-time global tracking to detect, predict, and "
+summary: OceanGuard received the Honorary Participation award at NextGenHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/AqouHr4IUa4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/340/987/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - elevenlabs
+  - mongodb
+  - solana
+  - typescript
+builders:
+  - name: Ryan Saleh
+  - name: Shikhar S
+  - name: Dhruv Vootkuri
+  - name: Arya Cherukuri

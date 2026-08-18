@@ -1,0 +1,25 @@
+id: syncra
+name: Syncra
+slug: syncra
+tagline: Syncra is a platform that turns scattered event plans into one clear volunteer-facing
+  source of truth so organizers spend less time answering questions and volu
+summary: Syncra received the Notion Prize – Reinventing Productivity award at ProduHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/oburi/event-sync-hub
+demo_url: null
+video_url: https://www.youtube.com/embed/kgfS6T9ZEhY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/675/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - figma
+  - gemini
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Eric Yan
+  - name: Aubrey Ventura
+  - name: aurora cheng
+  - name: carys fong

@@ -1,0 +1,14 @@
+id: pharma-track-system-code-gemini
+project_id: pharma-track-system
+hackathon_id: code-gemini
+submission_url: https://devpost.com/software/pharma-track-system
+source:
+  platform: devpost
+  url: https://devpost.com/software/pharma-track-system
+awards:
+  - type: other
+    title: Gemini Swags and cloud Credits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

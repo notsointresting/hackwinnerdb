@@ -1,0 +1,22 @@
+id: monsoon-mitr-ai-for-sustainable-farming
+name: Monsoon Mitr – AI for Sustainable Farming
+slug: monsoon-mitr-ai-for-sustainable-farming
+tagline: Monsoon Mitr is an AI-powered farming companion that helps farmers predict rain, save
+  water, and protect their crops — even offline, in their own language.
+summary: Monsoon Mitr – AI for Sustainable Farming received the Categorical Prizes award at Fuel the
+  Future in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/MSAbhishek22/Monsoon_Mitr
+demo_url: null
+video_url: https://www.youtube.com/embed/Q1TuPIyUbHI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/487/645/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - sustainability
+technologies:
+  - react
+builders:
+  - name: M S Abhishek
+  - name: Aayushi Goel

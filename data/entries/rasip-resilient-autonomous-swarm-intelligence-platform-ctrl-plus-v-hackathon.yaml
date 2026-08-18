@@ -1,0 +1,16 @@
+id: rasip-resilient-autonomous-swarm-intelligence-platform-ctrl-plus-v-hackathon
+project_id: rasip-resilient-autonomous-swarm-intelligence-platform
+hackathon_id: ctrl-plus-v-hackathon
+submission_url: https://devpost.com/software/rasip-resilient-autonomous-swarm-intelligence-platform-dqax70
+source:
+  platform: devpost
+  url: https://devpost.com/software/rasip-resilient-autonomous-swarm-intelligence-platform-dqax70
+awards:
+  - type: second-place
+    title: Second place - Innovation Award
+  - type: other
+    title: Participation Certificates
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

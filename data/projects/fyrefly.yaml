@@ -1,0 +1,24 @@
+id: fyrefly
+name: Fyrefly
+slug: fyrefly
+tagline: Lighting the Way Out-When fire strikes, FYREFLY reads the danger, reroutes in real time,
+  and gets people out before the flames close in.
+summary: Fyrefly received the 2nd Place award at MarinHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Samreen10/fyrefly.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/930/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - google-maps
+  - java
+  - javascript
+  - python
+builders:
+  - name: Meghna Magesh
+  - name: Samreen Khosla

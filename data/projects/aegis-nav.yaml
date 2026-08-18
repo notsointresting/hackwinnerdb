@@ -1,0 +1,21 @@
+id: aegis-nav
+name: AEGIS-NAV
+slug: aegis-nav
+tagline: Quantum-powered emergency space navigation — real NASA/NOAA threat feeds, VQC star
+  classification, and QAOA route optimization rendered in live 3D.
+summary: AEGIS-NAV received the 3rd Place Overall award at Synthesis Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/735meis/aegis-nav
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - fastapi
+  - python
+  - typescript
+builders:
+  - name: Sanjay Vellore
+  - name: Karthik Tummala

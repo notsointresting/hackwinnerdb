@@ -1,0 +1,22 @@
+id: clearshot
+name: Clearshot
+slug: clearshot
+tagline: "From battlefields to buildings engulfed in flames, high visibility is paramount. Clearshot
+  provides soft real time image dehazing designed for the edge, making "
+summary: Clearshot received the QNX Challenge award at cuHacking7 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/885/881/datas/gallery.jpg
+categories:
+  - education
+  - infrastructure
+  - creative-tools
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Fisher Walsh
+  - name: Cameron Pinchin

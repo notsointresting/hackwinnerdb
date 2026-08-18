@@ -1,0 +1,22 @@
+id: team-1-seconds-ai
+name: team 1 - seconds.ai
+slug: team-1-seconds-ai
+tagline: "Law firms use seconds.ai to catch class-action lawsuits before they surface. The moment
+  complaints against a company spike online, our autonomous agents detect "
+summary: team 1 - seconds.ai received the Best Use of ClickHouse award at Harness Engineering Hack
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/txshah/seconds.ai
+demo_url: null
+video_url: https://www.youtube.com/embed/jNSkYxDTygo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/763/723/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+builders:
+  - name: Tvesha Shah
+  - name: Sajib Acharjee
+  - name: Munib Rahman
+  - name: sanjay devarajan

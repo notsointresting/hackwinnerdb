@@ -1,0 +1,24 @@
+id: guardia
+name: Guardia
+slug: guardia
+tagline: "Guardia: snap a photo of any food or product and instantly know if it's safe for you.
+  Realtime FDA recalls, allergen conflicts, and certifications. All personal"
+summary: "Guardia received the Track 2: Runner Up award at vibeFORWARD in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/dabomb1004/Fordham-Hackathon/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/jYQuMGiVHms
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/565/384/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - javascript
+  - supabase
+builders:
+  - name: XianhaiC Cao
+  - name: Daniel Kim
+  - name: Haina Sang

@@ -1,0 +1,23 @@
+id: biascheck
+name: BiasCheck
+slug: biascheck
+tagline: In 2021, a WA message told 3 millions of people that vaccine contained a microchip, before
+  any fact-check reached. It came too late, the belief was already aliv
+summary: BiasCheck received the [AlgoSoc] - AI for tackling misinformation award at birmingHack 2.0
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CrawfoBP23/BiasCheck
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/442/580/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - django
+  - groq
+  - python
+builders:
+  - name: Azhar Rafiq
+  - name: Patrick Lupton
+  - name: George Tong
+  - name: Bailey Crawford

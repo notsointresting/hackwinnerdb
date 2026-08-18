@@ -1,0 +1,16 @@
+id: wingman-autonomous-agents-hackathon
+project_id: wingman
+hackathon_id: autonomous-agents-hackathon
+submission_url: https://devpost.com/software/wingman-fca73y
+source:
+  platform: devpost
+  url: https://devpost.com/software/wingman-fca73y
+awards:
+  - type: category-winner
+    title: Best use of Tavily Search
+  - type: category-winner
+    title: Best Yutori API Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

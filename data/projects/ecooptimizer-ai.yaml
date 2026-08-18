@@ -1,0 +1,22 @@
+id: ecooptimizer-ai
+name: EcoOptimizer AI
+slug: ecooptimizer-ai
+tagline: EcoOptimizer AI uses machine learning to find the exact operating adjustments that maximize
+  power output in real time. More energy from the same fuel, zero extr
+summary: EcoOptimizer AI received the Tech Swag award at FusionHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Siddharthprabhakar/FusionHack_EcoOptimizer.git
+demo_url: null
+video_url: https://www.youtube.com/embed/GOm14fOWA-c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/597/618/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Siddharth Prabhakar
+  - name: Ritik FNU

@@ -1,0 +1,22 @@
+id: verdelab-research-agent
+name: VerdeLab Research Agent
+slug: verdelab-research-agent
+tagline: VerdeLab Research Agent is a LangGraph agent designed for non-technical biologists. It
+  helps biologists to manage the full research lifecycle from execution tra
+summary: VerdeLab Research Agent received the Runner Up Prizes award at Enterprise Agents Hackathon
+  by Emergence & Nebius in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/251/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Weiming He

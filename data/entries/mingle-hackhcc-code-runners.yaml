@@ -1,0 +1,14 @@
+id: mingle-hackhcc-code-runners
+project_id: mingle
+hackathon_id: hackhcc-code-runners
+submission_url: https://devpost.com/software/test-jbfodc
+source:
+  platform: devpost
+  url: https://devpost.com/software/test-jbfodc
+awards:
+  - type: track-winner
+    title: General Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

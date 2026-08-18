@@ -1,0 +1,21 @@
+id: where-s-my-diary
+name: Where's my Diary?
+slug: where-s-my-diary
+tagline: Dive into Barbie’s room, explore an immersive world, collect hidden items, and solve
+  challenges to help her find her lost diary.
+summary: Where's my Diary? received the Best Gaming, UGC Experience award at Worlds in Action Hack
+  [01-SF] in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/qAAPfjabmWw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/449/469/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: Pragya Verma
+  - name: Xu Ziyi

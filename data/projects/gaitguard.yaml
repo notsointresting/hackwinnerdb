@@ -1,0 +1,24 @@
+id: gaitguard
+name: GaitGuard
+slug: gaitguard
+tagline: Because a fall shouldn’t go unnoticed — real-time monitoring for safer independent living.
+summary: GaitGuard received the Most Philanthropic Hack - Bloomberg award at Bitcamp 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Schugh26/GaitGuard
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/554/468/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Sumit Chugh

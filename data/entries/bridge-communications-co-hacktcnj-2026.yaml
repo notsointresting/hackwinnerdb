@@ -1,0 +1,14 @@
+id: bridge-communications-co-hacktcnj-2026
+project_id: bridge-communications-co
+hackathon_id: hacktcnj-2026
+submission_url: https://devpost.com/software/bridge-communications-co
+source:
+  platform: devpost
+  url: https://devpost.com/software/bridge-communications-co
+awards:
+  - type: category-winner
+    title: "Best Overall Hack: Hotlemon Large Bluetooth Speaker"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: ancient-geese
+name: Ancient Geese
+slug: ancient-geese
+tagline: "Everyone gets one minute to deal as much damage to Megoosa as possible. Everyone gets one
+  attempt and damage done by previous people persists for everyone else "
+summary: Ancient Geese received the Honorable mentions award at The Cambridge Game Jam 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/randomuserhi/CamJam2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/619/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies:
+  - typescript
+builders:
+  - name: Will Chittick
+  - name: Maxim Chu
+  - name: Christopher Teo

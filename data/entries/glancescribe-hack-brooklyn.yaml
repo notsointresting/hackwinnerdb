@@ -1,0 +1,14 @@
+id: glancescribe-hack-brooklyn
+project_id: glancescribe
+hackathon_id: hack-brooklyn
+submission_url: https://devpost.com/software/glancescribe
+source:
+  platform: devpost
+  url: https://devpost.com/software/glancescribe
+awards:
+  - type: track-winner
+    title: "Main Track: Healthcare"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

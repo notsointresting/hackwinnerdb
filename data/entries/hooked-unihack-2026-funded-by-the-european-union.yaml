@@ -1,0 +1,14 @@
+id: hooked-unihack-2026-funded-by-the-european-union
+project_id: hooked
+hackathon_id: unihack-2026-funded-by-the-european-union
+submission_url: https://devpost.com/software/hooked-47pm25
+source:
+  platform: devpost
+  url: https://devpost.com/software/hooked-47pm25
+awards:
+  - type: category-winner
+    title: Best Use of Elastic Technology
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

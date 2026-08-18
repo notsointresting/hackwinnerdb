@@ -1,0 +1,18 @@
+id: gobble
+name: Gobble
+slug: gobble
+tagline: chrome plugin to estimate how much water each of your chatgpt sessions gobbled up
+summary: Gobble received the Amazon Gift Card ($100) award at UTSC Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Hiba-N/gobble
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/533/370/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Hiba Nasir

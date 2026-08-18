@@ -1,0 +1,27 @@
+id: intertrio
+name: InterTrio
+slug: intertrio
+tagline: LaunchScore utilizes RAG (Retrieval-Augmented Generation) to score Daybot-created websites.
+  BotMarket helps FRC teams sell/buy parts, and ListingExtract helps B
+summary: InterTrio received the $25 Gift Card award at Daybot Commerce Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mrinterlevel/LaunchScore/
+demo_url: null
+video_url: https://www.youtube.com/embed/WHSgGwRj7_0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/888/704/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - claude
+  - gemini
+  - javascript
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Rayaan Syed
+  - name: Irvin Sivya
+  - name: Mustafa Ahmed

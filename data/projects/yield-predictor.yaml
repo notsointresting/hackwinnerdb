@@ -1,0 +1,22 @@
+id: yield-predictor
+name: Yield Predictor
+slug: yield-predictor
+tagline: We predict the yields
+summary: Yield Predictor received the 2nd Place award at University of Washington Databricks
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/kennethton/files--2-
+demo_url: null
+video_url: https://www.youtube.com/embed/eG_GtEE3ECM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Kenneth Ton
+  - name: ellslin Lin
+  - name: Emmalyn Nguyen
+  - name: Mimi Wang

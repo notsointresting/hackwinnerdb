@@ -1,0 +1,22 @@
+id: pin-point-the-global-ground-truth-network
+name: "Pin Point : The Global Ground Truth Network"
+slug: pin-point-the-global-ground-truth-network
+tagline: AI can hallucinate.Humans can't ! The decentralised network providing live, on-the-ground
+  proof for the questions that matter
+summary: "Pin Point : The Global Ground Truth Network received the MLH - Best Use of Solana Prize
+  award at Stevens QuackHacks 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/Ramysandy/Pinpoint
+demo_url: null
+video_url: https://www.youtube.com/embed/udT7AdTTJuk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/392/129/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - fastapi
+builders:
+  - name: Shreeram Sankar
+  - name: Vishnu S

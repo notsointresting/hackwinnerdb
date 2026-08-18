@@ -1,0 +1,22 @@
+id: secure-shuttle
+name: secure-shuttle
+slug: secure-shuttle
+tagline: SecureShuttle is on-chain escrow for peer-to-peer deals on Solana, protecting buyers and
+  sellers with transparent holds, live dispute chat, and fast trusted set
+summary: secure-shuttle received the [MLH] Best Use of Solana award at Mountain Madness 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/j-z-w/secure-shuttle
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/393/763/datas/medium.png
+categories:
+  - other
+technologies:
+  - fastapi
+  - typescript
+builders:
+  - name: Justin W
+  - name: Riley Boakes
+  - name: Kwerz
+  - name: Eduardo Saito

@@ -1,0 +1,25 @@
+id: snappy
+name: Snappy
+slug: snappy
+tagline: Snappy is a robot companion helping sick kids through every hospital visit, playing before
+  procedures, coaching during, and explaining results after. Snappy rem
+summary: Snappy received the Clip Contest award at CareXR Hack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/minhajuddinm/Snappy01
+demo_url: null
+video_url: https://www.youtube.com/embed/F3fzr3j_ySQ
+image_url: null
+categories:
+  - social-impact
+  - robotics
+  - ar-vr
+technologies:
+  - javascript
+  - typescript
+  - unity
+builders:
+  - name: Muhammad Minhajuddin
+  - name: Tarang Rana
+  - name: Vikas Saahil
+  - name: Joel Saji

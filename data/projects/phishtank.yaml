@@ -1,0 +1,24 @@
+id: phishtank
+name: PhishTank
+slug: phishtank
+tagline: People are often the weakest link in security. Our extension uses AI sandboxes with K2
+  Think V2 and Gemma 4 to analyze links and deliver real-time safety insigh
+summary: PhishTank received the [MLH] Best Use of Gemma 4 - Google Swag Kits award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ClaraY05/hacktech-phishtank
+demo_url: null
+video_url: https://www.youtube.com/embed/-wqz3JBjkTs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/870/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - docker
+builders:
+  - name: Clara Yee
+  - name: CHRISTINA WANG
+  - name: Jeff Huang
+  - name: RYAN CHANG

@@ -1,0 +1,18 @@
+id: licensetrace
+name: LicenseTrace
+slug: licensetrace
+tagline: Traces hidden GPL/copyleft contamination through your dependency tree and proves the exact
+  path that can legally force your code open — with live reasoning powe
+summary: LicenseTrace received the Prometheux Intelligence Prize award at Multiagents Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Welddevelopment/Tokens-Hackathon---Codebase-Dependencies-Scanner
+demo_url: null
+video_url: https://www.youtube.com/embed/trJ8B1QgfKE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Welddevelopment Jeon

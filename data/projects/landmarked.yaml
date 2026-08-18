@@ -1,0 +1,21 @@
+id: landmarked
+name: LandMarked
+slug: landmarked
+tagline: "Claim real places near you with a single photo, the place keeps every photo forever, and
+  together they answer a strange question live: what colour is this neigh"
+summary: "LandMarked received the TECHNATION: Data Intelligence Track 3rd Place award at SummerHacks
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/nishantshah0/LandMarked
+demo_url: null
+video_url: https://www.youtube.com/embed/WxCnn0RYv-8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/075/702/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - docker
+  - javascript
+builders:
+  - name: Joshua Zhang
+  - name: Ibrahim Qureshi
+  - name: Nishant Shah

@@ -1,0 +1,21 @@
+id: sicknote
+name: SickNote
+slug: sicknote
+tagline: Know when your cough needs a closer look.
+summary: SickNote received the 3rd Place award at Hack Your Life in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jyshum/SickNote
+demo_url: null
+video_url: https://www.youtube.com/embed/SuJD9Y44TfE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/723/935/datas/medium.png
+categories:
+  - education
+technologies:
+  - fastapi
+  - nextjs
+  - python
+  - pytorch
+builders:
+  - name: migael du Preez
+  - name: Jared Shum

@@ -1,0 +1,19 @@
+id: breakloop
+name: BreakLoop
+slug: breakloop
+tagline: BreakLoop interrupts procrastination at the moment it becomes a pattern.
+summary: BreakLoop received the 2nd UGREEN Uno 65W USB-C Charger + Wireless Power Bank award at
+  HudHack2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/379/456/datas/gallery.jpg
+categories:
+  - education
+  - cybersecurity
+technologies: []
+builders:
+  - name: Minh Khang Tran
+  - name: Muaz Afzal

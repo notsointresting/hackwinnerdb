@@ -1,0 +1,24 @@
+id: horizon
+name: Horizon
+slug: horizon
+tagline: Predicting the future.
+summary: Horizon received the 2nd Place award at Southwest MN Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+builders:
+  - name: Sebastián Batista Ferrera
+  - name: Aidan Pereyra
+  - name: Bandit1984
+  - name: Diego Bello

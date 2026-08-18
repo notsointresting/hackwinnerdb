@@ -1,0 +1,20 @@
+id: bugout
+name: bugout
+slug: bugout
+tagline: fix long running open source bugs with distributed validation and up to date patching by
+  making PRDs that incorporate commend threads that span years.
+summary: bugout received the Best use of Fastino award at Autonomous Agents Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kristopolous/bugout
+demo_url: null
+video_url: https://www.youtube.com/embed/hExr8DupH9k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/377/222/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - python
+builders:
+  - name: chris mckenzie

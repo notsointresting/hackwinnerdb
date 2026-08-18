@@ -1,0 +1,19 @@
+id: star-her
+name: Star Her
+slug: star-her
+tagline: Star Her is an interactive 3D star map where every star is linked to a real woman who made
+  history in space exploration. Made by Alexandre Cabana, Selma Hajjami
+summary: Star Her received the Advanced | Women-in-Tech Honourable Mention award at MariHacks IX in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TheGrimalkin/MariHacks2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/302/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - unity
+builders:
+  - name: Alexandre Cabana

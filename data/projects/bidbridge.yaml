@@ -1,0 +1,23 @@
+id: bidbridge
+name: BidBridge
+slug: bidbridge
+tagline: Bid Bridge helps small businesses access $180B in federal contracts by matching them to
+  real opportunities and generating tailored, ready-to-submit proposals in
+summary: BidBridge received the Best Overall Hack - Runner Up award at GDSC HackDay  - Build With AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/chetanmaviti/BidBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/y5fXQRzPE4A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/392/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Anurag Perakalapudi
+  - name: Tanush Kallem
+  - name: Siddanth Vinay
+  - name: Chetan Maviti

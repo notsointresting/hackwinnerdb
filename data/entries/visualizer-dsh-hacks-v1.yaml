@@ -1,0 +1,16 @@
+id: visualizer-dsh-hacks-v1
+project_id: visualizer
+hackathon_id: dsh-hacks-v1
+submission_url: https://devpost.com/software/visualizer-ymi78s
+source:
+  platform: devpost
+  url: https://devpost.com/software/visualizer-ymi78s
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

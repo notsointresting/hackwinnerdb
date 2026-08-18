@@ -1,0 +1,20 @@
+id: abai
+name: Abai
+slug: abai
+tagline: Operational Memory for High Liability Domains
+summary: Abai received the Best Use of Nia award at Cursor Hackathon Vancouver in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/659/084/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - vercel
+builders:
+  - name: Diar Shakimov
+  - name: seanshakimov

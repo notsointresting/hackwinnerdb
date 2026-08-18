@@ -1,0 +1,27 @@
+id: quizzverse
+name: QuizzVerse
+slug: quizzverse
+tagline: "AI-powered quiz platform: generate smart quizzes from any topic or document, compete in
+  real-time multiplayer rooms, and master your mistakes with AI flashcards"
+summary: QuizzVerse received the Stickers award at Hackdays Prayagraj  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MuhammadHamza123c/Quizzverse
+demo_url: null
+video_url: https://www.youtube.com/embed/GW1KytSH89k
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/857/485/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+  - whisper
+builders:
+  - name: Muhammad Hamza

@@ -1,0 +1,21 @@
+id: runrealm
+name: RunRealm
+slug: runrealm
+tagline: "Claim your territory. Conquer the streets. RunRealm: The fitness game where every step
+  expands your empire."
+summary: RunRealm received the Community Choice Award award at Build with MeDo Hackathon  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/kxgUVJtIuSA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/649/460/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - google-cloud
+  - react
+builders:
+  - name: Shivata Sharma

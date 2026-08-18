@@ -1,0 +1,14 @@
+id: tech-hack
+name: Tech(Hack)
+slug: tech-hack
+organizer: []
+year: 2026
+sources:
+  - https://techhack.devpost.com/
+  - https://techhack.devpost.com/project-gallery?filter=winner
+website_url: https://techhack.devpost.com/
+platform: devpost
+participant_count: 52
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Tech(Hack). Imported automatically."

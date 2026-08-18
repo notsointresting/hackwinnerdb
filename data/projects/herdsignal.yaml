@@ -1,0 +1,25 @@
+id: herdsignal
+name: HerdSignal
+slug: herdsignal
+tagline: An Elephant Communication Intelligence System
+summary: HerdSignal received the Overall 1st Place award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mhosigiri/HackSMU
+demo_url: null
+video_url: https://www.youtube.com/embed/jrG-gxJHS1E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/563/168/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - groq
+  - postgresql
+  - python
+builders:
+  - name: folashewa olaniyi
+  - name: Ashirwad Dahal
+  - name: Nikesh Paudyal
+  - name: Anish KC

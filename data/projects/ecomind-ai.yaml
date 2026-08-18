@@ -1,0 +1,19 @@
+id: ecomind-ai
+name: EcoMind ai
+slug: ecomind-ai
+tagline: A simple climate platform for footprint tracking and sustainability guidance
+summary: EcoMind ai received the 3rd Place award at Reform Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ranojitdas/EcoMind
+demo_url: null
+video_url: https://www.youtube.com/embed/gdnubXryx04
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/552/220/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - typescript
+builders:
+  - name: Ranojit Das

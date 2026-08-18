@@ -1,0 +1,24 @@
+id: florence-2026
+name: Florence 2026
+slug: florence-2026
+tagline: Florence is the trusted front door to elder care after discharge. A compassionate voice AI
+  that helps caregivers understand their options, complete intake, find
+summary: Florence 2026 received the Grand Prize award at AI Healthcare Hack NYC - by Arya Health &
+  Twilio AI Startup Searchlight in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/DouglasMacKrell/florence
+demo_url: null
+video_url: https://www.youtube.com/embed/G_-XA6d1X70
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/880/855/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - twilio
+  - typescript
+builders:
+  - name: Morrison Chang
+  - name: Douglas MacKrell
+  - name: Andrew Lai

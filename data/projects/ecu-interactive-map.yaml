@@ -1,0 +1,20 @@
+id: ecu-interactive-map
+name: ECU Interactive Map
+slug: ecu-interactive-map
+tagline: Our program is a updated and colorful version of ECU's current interactive map. Geared
+  toward incoming students, this program can help guide and explain signifi
+summary: ECU Interactive Map received the 1st Place Beginner Track award at ECU Spark in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hh-u-hh/Spark-2026-Interactive-Map.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/474/271/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - python
+builders:
+  - name: DeaMcD24 McDaniel
+  - name: Cassidy-Fillingame
+  - name: hh-u-hh

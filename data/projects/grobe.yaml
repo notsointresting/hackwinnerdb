@@ -1,0 +1,20 @@
+id: grobe
+name: GROBE
+slug: grobe
+tagline: Measure microplastic exposure in fish
+summary: "GROBE received the Best Use of Data award at AI for Social Good: Hack with MLH &
+  DigitalOcean in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_land.geojson
+demo_url: null
+video_url: https://www.youtube.com/embed/ANMGS45U6bc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/046/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: 명건 이

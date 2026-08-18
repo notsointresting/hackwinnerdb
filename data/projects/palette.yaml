@@ -1,0 +1,22 @@
+id: palette
+name: Palette
+slug: palette
+tagline: Real math meets real menus, original drinks from exactly what's in the building.
+summary: Palette received the Best Bean! award at BeanHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sithranjan-Suresh/palette
+demo_url: null
+video_url: https://www.youtube.com/embed/K6nLAixC71M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/856/326/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - groq
+  - python
+  - react
+  - tailwind-css
+  - vercel
+builders:
+  - name: Sithranjan Suresh

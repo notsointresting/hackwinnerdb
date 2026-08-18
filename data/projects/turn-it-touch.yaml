@@ -1,0 +1,27 @@
+id: turn-it-touch
+name: Turn it Touch
+slug: turn-it-touch
+tagline: Turn any device, however large or small, into a functional touch screen at 1/100th the cost
+  of large companies. Improving classroom access to Smartboards and be
+summary: Turn it Touch received the Grand Prize - Overall award at VikingHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EstreemMC/turnittouch
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/503/789/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - c-plus-plus
+  - esp32
+  - openai
+  - opencv
+  - python
+builders:
+  - name: Riddhish Saravanan
+  - name: Rohan Devnani
+  - name: Yashmit Sunkara
+  - name: Prasham Yadothare

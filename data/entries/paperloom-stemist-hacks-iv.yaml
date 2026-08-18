@@ -1,0 +1,14 @@
+id: paperloom-stemist-hacks-iv
+project_id: paperloom
+hackathon_id: stemist-hacks-iv
+submission_url: https://devpost.com/software/paperloom
+source:
+  platform: devpost
+  url: https://devpost.com/software/paperloom
+awards:
+  - type: category-winner
+    title: Best Vision & Hardware Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

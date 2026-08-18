@@ -1,0 +1,21 @@
+id: the-archive
+name: The Archive
+slug: the-archive
+tagline: Every object has a story. Preserve yours.
+summary: The Archive received the Over $10,000 in pirzes award at LancerHacks IX in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LeonSpeed7/The_Archive
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/700/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Shruti Dusankar
+  - name: Saranya Duggirala
+  - name: Rishabh Sudharsan

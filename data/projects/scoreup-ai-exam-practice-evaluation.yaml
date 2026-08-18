@@ -1,0 +1,22 @@
+id: scoreup-ai-exam-practice-evaluation
+name: ScoreUp – AI Exam Practice & Evaluation
+slug: scoreup-ai-exam-practice-evaluation
+tagline: An AI-powered exam preparation platform that generates unlimited questions from study
+  notes, evaluates answers, provides instant feedback, tracks scores, and he
+summary: ScoreUp – AI Exam Practice & Evaluation received the mlh swgas award at PIXEL.GEMINI 3.0 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aurenox/ScoreUp/
+demo_url: null
+video_url: https://www.youtube.com/embed/T29KSMFprm4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/081/829/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - django
+  - javascript
+  - python
+builders:
+  - name: Saurav B

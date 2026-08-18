@@ -1,0 +1,30 @@
+id: vera-fund
+name: Vera Fund
+slug: vera-fund
+tagline: Personal finance OS with an AI advisor that knows every dollar you've spent. Point your
+  camera at a product — it tells you if you can afford it. Kill any subscr
+summary: Vera Fund received the [MLH] Best Use of MongoDB Atlas award at Grizzhacks 8 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/468/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - docker
+  - elevenlabs
+  - fastapi
+  - mongodb
+  - python
+  - solana
+  - stripe
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: mian abdullah
+  - name: samip devkota

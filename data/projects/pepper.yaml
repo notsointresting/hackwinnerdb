@@ -1,0 +1,31 @@
+id: pepper
+name: PEPPER
+slug: pepper
+tagline: Some minds have always struggled to be heard. Pepper listens. A brain-computer interface
+  with 6 AI agents that protects your focus, coaches your stress, and rem
+summary: PEPPER received the Hardware award at Hackabull VII in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DekStef/hackabull_2026_pepper
+demo_url: null
+video_url: https://www.youtube.com/embed/zR1OoEthBF4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/488/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - arduino
+  - elevenlabs
+  - fastapi
+  - gemini
+  - python
+  - react
+  - sql
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Dio Silveira
+  - name: Ethan Lawson
+  - name: Jacob Potantus

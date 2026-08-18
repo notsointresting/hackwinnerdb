@@ -1,0 +1,22 @@
+id: please-read-instructions-carefully-before-use
+name: Please Read Instructions Carefully Before Use
+slug: please-read-instructions-carefully-before-use
+tagline: varifocal lensing glasses with intelligent object tracking
+summary: Please Read Instructions Carefully Before Use received the Entertainment award at MakeMIT x
+  Harvard 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/oWQ-G-YE308
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/066/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - opencv
+  - raspberry-pi
+builders:
+  - name: Bernard Jin
+  - name: Jieruei Chang
+  - name: Eric Zou
+  - name: Liong Ma

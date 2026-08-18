@@ -1,0 +1,14 @@
+id: openbeats-harness-engineering-hack
+project_id: openbeats
+hackathon_id: harness-engineering-hack
+submission_url: https://devpost.com/software/openbeats
+source:
+  platform: devpost
+  url: https://devpost.com/software/openbeats
+awards:
+  - type: category-winner
+    title: Best Use of OpenUI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

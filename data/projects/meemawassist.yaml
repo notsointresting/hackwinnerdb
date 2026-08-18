@@ -1,0 +1,19 @@
+id: meemawassist
+name: MeemawAssist
+slug: meemawassist
+tagline: An AI-powered support system for different users. Three components work together.
+summary: MeemawAssist received the [MLH] Best Use of Gemini API award at Hack Kosice 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/qqxzew/-
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - kotlin
+  - react
+builders:
+  - name: Andrii Fedorov

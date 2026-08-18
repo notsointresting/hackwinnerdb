@@ -1,0 +1,18 @@
+id: car-reader
+name: Car Reader
+slug: car-reader
+tagline: To feel like driving a car while reading.
+summary: Car Reader received the Best Mr Hyde award at Mountain Madness 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/maskenary/mountain_madness_project
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - react
+builders:
+  - name: Brandon Fong
+  - name: Eric Jeong

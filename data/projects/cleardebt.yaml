@@ -1,0 +1,24 @@
+id: cleardebt
+name: ClearDebt
+slug: cleardebt
+tagline: Pay off debt smarter — AI that knows your calendar, your spending, and your next paycheck.
+summary: ClearDebt received the [MLH] Best Use of Snowflake API award at Mountain Madness 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ChakornK/clear-debt
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/395/500/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+  - typescript
+builders:
+  - name: Gaurika Sharma
+  - name: Chakorn Kungsanarux
+  - name: Ellie Neufeld
+  - name: Tulika Varma

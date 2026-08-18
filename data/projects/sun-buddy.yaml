@@ -1,0 +1,24 @@
+id: sun-buddy
+name: Sun Buddy
+slug: sun-buddy
+tagline: Your skin’s best friend. Most of us don't know we're burning until it's too late. With a
+  precision sensor that tracks the UV rays in real-time, it tells you whe
+summary: Sun Buddy received the Healthcare award at MakeMIT x Harvard 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UdGxG6FmBI8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/404/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - arduino
+  - c-plus-plus
+  - python
+  - swift
+builders:
+  - name: alazarll7 Lazaro
+  - name: syohannes50
+  - name: Queralt Piferrer Grau
+  - name: Valerie Gentzke

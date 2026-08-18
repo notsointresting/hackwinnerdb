@@ -1,0 +1,20 @@
+id: aegispath
+name: AegisPath
+slug: aegispath
+tagline: A safe route navigation system.
+summary: "AegisPath received the Gemini Rising Innovator award at Department Battle: Hack Days in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/cycode-as/HackDays-Aegispath
+demo_url: null
+video_url: https://www.youtube.com/embed/Z6k32LNZt_U
+image_url: null
+categories:
+  - infrastructure
+technologies:
+  - gemini
+  - javascript
+  - react
+builders:
+  - name: Ananya Sharma
+  - name: JAYSHREE CHOUHAN

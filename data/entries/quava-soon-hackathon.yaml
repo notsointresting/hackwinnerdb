@@ -1,0 +1,14 @@
+id: quava-soon-hackathon
+project_id: quava
+hackathon_id: soon-hackathon
+submission_url: https://devpost.com/software/aperture-pqdm7f
+source:
+  platform: devpost
+  url: https://devpost.com/software/aperture-pqdm7f
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] Composio Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

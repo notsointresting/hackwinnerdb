@@ -1,0 +1,22 @@
+id: denial-rescue-rossmd
+name: "Denial Rescue: RossMD"
+slug: denial-rescue-rossmd
+tagline: Wrongful Insurance Denials cost USA $30B+, affect millions of lives. 80% of contested
+  refusals get overturned. They rely on difficulty of appeal filling to make
+summary: "Denial Rescue: RossMD received the Top Overall Winners award at Agentic Engineering Hack
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/699/270/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - gemini
+builders:
+  - name: Shivraj Bhatti
+  - name: Aryan Yadav
+  - name: Buddhsen Tripathi

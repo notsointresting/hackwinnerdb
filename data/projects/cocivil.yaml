@@ -1,0 +1,19 @@
+id: cocivil
+name: CoCivil
+slug: cocivil
+tagline: Copilot for Civil Engineering
+summary: CoCivil received the Google - Build with AI award at Hack Canada 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Elliot-Sones/Hack_Canada
+demo_url: null
+video_url: https://www.youtube.com/embed/-lBpAbKFtKo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/914/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+builders:
+  - name: Steric Tsui
+  - name: Harmanpreet Singh
+  - name: Elliot Sones

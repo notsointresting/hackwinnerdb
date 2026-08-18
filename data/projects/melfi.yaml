@@ -1,0 +1,27 @@
+id: melfi
+name: Melfi
+slug: melfi
+tagline: A custom RLHF fine-tuned AI agentic therapist that calls your phone and builds an
+  interactive 3D terrain out of your conversations. Because everyone needs someo
+summary: Melfi received the [GenAI Genesis] TOP 10 Team - Finalists (In-Person Only) award at  GenAI
+  Genesis 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/ayushmangupta624/melfi-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/ncqAkkuWYNE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/437/674/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - nextjs
+  - postgresql
+  - python
+  - pytorch
+  - supabase
+  - twilio
+  - typescript
+builders:
+  - name: Ayushman Gupta
+  - name: ati altunbayrak

@@ -1,0 +1,21 @@
+id: agentmarketsim
+name: AgentMarketSim
+slug: agentmarketsim
+tagline: Bloomberg terminal for prediction markets (Kalshi, Polymarket, Forum)
+summary: "AgentMarketSim received the Track 3: Forum (1st place) award at SDxUCSD Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/TurkiAlrasheed/sport-sim
+demo_url: null
+video_url: https://www.youtube.com/embed/-s4tq9gLWq4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/300/datas/gallery.jpg
+categories:
+  - fintech
+  - productivity
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: V Daniel Budidharma
+  - name: Turki Alrasheed
+  - name: Parth Trivedi

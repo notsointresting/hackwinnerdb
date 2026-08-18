@@ -1,0 +1,23 @@
+id: the-oracle
+name: The Oracle
+slug: the-oracle
+tagline: Mapping the impact of global disasters in an interactive, 3D simulation
+summary: The Oracle received the Best Overall Hack - Winner award at GDSC HackDay  - Build With AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ampourmand/The_Oracle
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/399/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Amir Pourmand
+  - name: Ali Nilforoushan

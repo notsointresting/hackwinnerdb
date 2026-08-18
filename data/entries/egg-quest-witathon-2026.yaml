@@ -1,0 +1,14 @@
+id: egg-quest-witathon-2026
+project_id: egg-quest
+hackathon_id: witathon-2026
+submission_url: https://devpost.com/software/egg-quest
+source:
+  platform: devpost
+  url: https://devpost.com/software/egg-quest
+awards:
+  - type: category-winner
+    title: Best User Interface
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

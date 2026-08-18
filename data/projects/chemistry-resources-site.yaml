@@ -1,0 +1,18 @@
+id: chemistry-resources-site
+name: Chemistry Resources Site
+slug: chemistry-resources-site
+tagline: This website has many resources for studying chemistry, including a periodic table with
+  data on the elements and a built in calculator.
+summary: Chemistry Resources Site received the Best Education Hack award at PantherHack 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Maxematics/ChemistryResourcesSite
+demo_url: null
+video_url: https://www.youtube.com/embed/Sa5LeprSWkk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/834/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Maximillian Naumann

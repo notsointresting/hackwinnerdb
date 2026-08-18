@@ -1,0 +1,14 @@
+id: invert-sync-hack-days-in-bogota
+project_id: invert-sync
+hackathon_id: hack-days-in-bogota
+submission_url: https://devpost.com/software/invert-sync
+source:
+  platform: devpost
+  url: https://devpost.com/software/invert-sync
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

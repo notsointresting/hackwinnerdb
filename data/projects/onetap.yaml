@@ -1,0 +1,23 @@
+id: onetap
+name: OneTap
+slug: onetap
+tagline: No more deliberating between cards. Maximize rewards in One Tap.
+summary: OneTap received the Best Startup Idea award at Vandyhacks XII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/2tqr90ty_Gc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/221/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+builders:
+  - name: Ashwin Patri
+  - name: thung19 Hung
+  - name: Sam McFarland
+  - name: David

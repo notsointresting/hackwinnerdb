@@ -1,0 +1,23 @@
+id: propsim
+name: PropSim
+slug: propsim
+tagline: PropSim is a zero-risk AI swarm simulation that lets politicians predict viral network
+  effects before they occur. Mathematically validated by simulation on Cali
+summary: PropSim received the Best "Not so sexy" - WHOOP 5.0 One Health and Fitness Tracker award at
+  Hacktech by Caltech 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/derekmu8/propsim
+demo_url: null
+video_url: https://www.youtube.com/embed/R0Z_P58HxyE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/330/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Derek Mu
+  - name: Daniel He
+  - name: Karen Cao

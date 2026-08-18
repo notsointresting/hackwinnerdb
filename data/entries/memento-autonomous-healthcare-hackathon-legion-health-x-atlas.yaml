@@ -1,0 +1,14 @@
+id: memento-autonomous-healthcare-hackathon-legion-health-x-atlas
+project_id: memento
+hackathon_id: autonomous-healthcare-hackathon-legion-health-x-atlas
+submission_url: https://devpost.com/software/memento-slkbrf
+source:
+  platform: devpost
+  url: https://devpost.com/software/memento-slkbrf
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,27 @@
+id: legalease-live-demo-presented-at-session-b
+name: LegalEase - (Live Demo Presented at Session B)
+slug: legalease-live-demo-presented-at-session-b
+tagline: "Did Abuelita ever struggle reading her legal documents? With our app that struggle is no
+  more. With LegalEase you can automatically translate her documents and "
+summary: LegalEase - (Live Demo Presented at Session B) received the Session B Winner (Live Demo
+  Presented at Session B) See prize details on our website award at 305 HackShells Edition April
+  2026  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Gianfranco1805/LegalEase
+demo_url: null
+video_url: https://www.youtube.com/embed/RcqDiNenDZI
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Gianfranco Cisneros
+  - name: William Delaosa
+  - name: Raydel Martinez
+  - name: Just Aaron

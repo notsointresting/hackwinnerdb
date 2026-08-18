@@ -1,0 +1,26 @@
+id: bot-or-not
+name: Bot or Not?
+slug: bot-or-not
+tagline: A fast-paced web game that tests and trains your skill in detecting malicious and
+  AI-generated deepfakes, voices, and phishing emails. Can you see through the s
+summary: Bot or Not? received the Bronze Project (3rd Place) award at MIT BWSI Cyber Operations
+  Cohort Hackathon 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/RadinPourfarzi/BWSI-Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/ahM5YIpEqRQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/024/135/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - gaming
+technologies:
+  - postgresql
+  - supabase
+  - typescript
+builders:
+  - name: Madhav Kuruba
+  - name: Radin Pourfarzi
+  - name: Advait Badrish
+  - name: Ethan Wang

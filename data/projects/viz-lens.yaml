@@ -1,0 +1,24 @@
+id: viz-lens
+name: Viz-Lens
+slug: viz-lens
+tagline: Don’t ask AI for answers. Ask it to show you how things work. VIZ-LENS turns complexity
+  into clarity through interactive visualization, so you can understand th
+summary: Viz-Lens received the Top 10 winners each receive a free .xyz domain — launch your project
+  with a real web presence! (valued at $150) award at Hyperbloom V2 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/a3WOLWqVlrY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/522/676/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - python
+  - vercel
+builders:
+  - name: Saatvik Das
+  - name: Ayush Mishra
+  - name: saket rama
+  - name: Samaira malik

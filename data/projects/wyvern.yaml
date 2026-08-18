@@ -1,0 +1,25 @@
+id: wyvern
+name: Wyvern
+slug: wyvern
+tagline: Real-time AI command system that turns messy incident data into ranked priorities,
+  allocates units, and explains tradeoffs, empowering responders to make faster
+summary: "Wyvern received the MLH: Best Use of Gemini API award at Innovation Hacks 2.0 - 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/aneithalath/LowTide-InnovationHacks-26
+demo_url: null
+video_url: https://www.youtube.com/embed/ACh-UsZb2EM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/531/726/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - javascript
+  - python
+  - typescript
+builders:
+  - name: Pranshu Jahagirdar
+  - name: Advaith Neithalath
+  - name: Rahul K

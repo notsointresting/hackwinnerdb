@@ -1,0 +1,22 @@
+id: quorum-formerly-ringfence
+name: Quorum (Formerly RingFence)
+slug: quorum-formerly-ringfence
+tagline: The money laundering ring your rules missed in 90 days — Quorum finds in 90 seconds.
+summary: "Quorum (Formerly RingFence) received the 1st Runner-Up award at vibeFORWARD: M2—Agents in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Alred-79/nycTechWeekHack
+demo_url: null
+video_url: https://www.youtube.com/embed/vs39gGaUfU8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/742/743/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - python
+builders:
+  - name: Kenneth Xu
+  - name: bommar-lu
+  - name: Advik Lall
+  - name: Kushan Desai

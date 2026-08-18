@@ -1,0 +1,23 @@
+id: nodoze
+name: NoDoze
+slug: nodoze
+tagline: NoDoze a real-time drowsiness detection app that uses your webcam to monitor eye closure
+  and head tilt to trigger an alert when signs of fatigue are detected.
+summary: NoDoze received the Holy Stone Drones award at hackUMBC Mini Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hutaa/NoDoze
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/084/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - figma
+  - flask
+  - react-native
+builders:
+  - name: K E
+  - name: Atuh Fon
+  - name: Sarah Okome

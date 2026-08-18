@@ -1,0 +1,14 @@
+id: hackbelfast
+name: HackBelfast
+slug: hackbelfast
+organizer: []
+year: 2026
+sources:
+  - https://hackbelfastni.devpost.com/
+  - https://hackbelfastni.devpost.com/project-gallery?filter=winner
+website_url: https://hackbelfastni.devpost.com/
+platform: devpost
+participant_count: 47
+prize_pool: 14200
+currency: USD
+description: "Devpost hackathon: HackBelfast. Imported automatically."

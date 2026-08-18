@@ -1,0 +1,24 @@
+id: sentra
+name: Sentra
+slug: sentra
+tagline: "Sentra: AI orchestrator running 6 autonomous agents to live-audit your site, find WCAG
+  violations, and generate exact code fixes with plain English explanations"
+summary: Sentra received the 1st BugBasher award at BugBash in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aishwanth-dev/AAYAM_ZYPHER.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/267/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Aishwanth Aishwanth M S
+  - name: Vishwajeeth96 Rao
+  - name: GOVIND DS
+  - name: PRADYUMNNA

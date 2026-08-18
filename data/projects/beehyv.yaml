@@ -1,0 +1,21 @@
+id: beehyv
+name: beehyv
+slug: beehyv
+tagline: Agentic cross-pollination breaking the frontiers of research, literally.
+summary: beehyv received the Organizers' Choice award at LA Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/justanotherinternetguy/Beehyv
+demo_url: null
+video_url: https://www.youtube.com/embed/vaoXDTu0BjM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/615/564/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+  - sqlite
+  - typescript
+builders:
+  - name: Yuvraj Chaudhary
+  - name: Eric Zheng
+  - name: hendry xu

@@ -1,0 +1,14 @@
+id: csi-hacks
+name: CSI Hacks
+slug: csi-hacks
+organizer: []
+year: 2026
+sources:
+  - https://csi-hacks.devpost.com/
+  - https://csi-hacks.devpost.com/project-gallery?filter=winner
+website_url: https://csi-hacks.devpost.com/
+platform: devpost
+participant_count: 80
+prize_pool: 1000
+currency: USD
+description: "Devpost hackathon: CSI Hacks. Imported automatically."

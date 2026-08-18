@@ -1,0 +1,24 @@
+id: what-the-honk
+name: What the Honk!?
+slug: what-the-honk
+tagline: You're on trial. The Judge presents evidence from you or your surroundings and charges you
+  with increasingly ridiculous crimes. You must argue your innocence, a
+summary: What the Honk!? received the Harnold's Finest Feathers - Best Design ($140 value) award at
+  Hack Hack Goose in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/snugnaw/WhatTheHonk-
+demo_url: null
+video_url: https://www.youtube.com/embed/XwkoiZpAQH8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/047/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - opencv
+builders:
+  - name: Shreya  Shetty
+  - name: Sri Harini  Kolluru
+  - name: Sruthi  Suresh

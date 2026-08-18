@@ -1,0 +1,19 @@
+id: backstop
+name: Backstop
+slug: backstop
+tagline: When a business isn't able to deliver as promised, Backstop reaches every customer within
+  seconds and works out a new plan with each one - instead of them findi
+summary: Backstop received the Track 1 award at DMV Hackathon  in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/E7trtB6Mtvw
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+builders:
+  - name: Jabir Ould Mohamed

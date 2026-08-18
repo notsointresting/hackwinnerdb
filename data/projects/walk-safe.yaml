@@ -1,0 +1,18 @@
+id: walk-safe
+name: Walk Safe
+slug: walk-safe
+tagline: An add on device to walkers to prevent falls
+summary: Walk Safe received the Best Overall - Espresso Machine award at reNOVAte Create-a-thon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fpo22NovaSchool/hackathon_wheelchair/blob/main/sketch_apr18a.ino
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: The Armstrongs
+  - name: fpo22NovaSchool

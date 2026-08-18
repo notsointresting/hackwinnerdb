@@ -1,0 +1,18 @@
+id: nudge
+name: Nudge
+slug: nudge
+tagline: "Your texts, your email, your calendar in one chat: “Here's what to do next.”"
+summary: Nudge received the Gold Prize award at USC | Build with Trae and MiniMax  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/lsv63eL-Eww
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/153/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Teri Shim
+  - name: johnny sheng

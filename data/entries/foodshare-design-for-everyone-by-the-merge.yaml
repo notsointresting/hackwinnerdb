@@ -1,0 +1,20 @@
+id: foodshare-design-for-everyone-by-the-merge
+project_id: foodshare
+hackathon_id: design-for-everyone-by-the-merge
+submission_url: https://devpost.com/software/foodshare-ys7jp2
+source:
+  platform: devpost
+  url: https://devpost.com/software/foodshare-ys7jp2
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Participation & Completion Recognition
+  - type: first-place
+    title: 1st Place – Inspire Award (Overall Winner)
+  - type: other
+    title: "Referral Reward Program for participants:"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

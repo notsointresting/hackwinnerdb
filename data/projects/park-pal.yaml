@@ -1,0 +1,27 @@
+id: park-pal
+name: Park Pal
+slug: park-pal
+tagline: The Airbnb for Parking
+summary: "Park Pal received the GOLD award at Mind the Product presents World Product Day: Everyone
+  Ships Now in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pLH62HuMtG0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/822/416/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - mapbox
+  - postgresql
+  - react
+  - stripe
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Sree Kokkonda
+  - name: Romir  Chekuri

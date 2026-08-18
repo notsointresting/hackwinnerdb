@@ -1,0 +1,21 @@
+id: coordin8
+name: Coordin8
+slug: coordin8
+tagline: Coordin8 is an app that helps coordinate events and ventures, making the experience for
+  both the hosts and participants easier!
+summary: Coordin8 received the 2nd Place Overall award at STEMist Hacks IV in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stepandovbush/Coordin8
+demo_url: null
+video_url: https://www.youtube.com/embed/2PhNezP0I_w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/050/859/datas/medium.jpg
+categories:
+  - education
+technologies:
+  - claude
+  - javascript
+  - python
+builders:
+  - name: Stepan Dovbush
+  - name: Karthik Uppala

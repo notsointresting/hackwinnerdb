@@ -1,0 +1,14 @@
+id: owlet-acm-w-x-butterbase-build-night
+project_id: owlet
+hackathon_id: acm-w-x-butterbase-build-night
+submission_url: https://devpost.com/software/owlet
+source:
+  platform: devpost
+  url: https://devpost.com/software/owlet
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

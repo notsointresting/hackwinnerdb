@@ -1,0 +1,14 @@
+id: nba-predictors-gdg-winter-2026-hackathon
+project_id: nba-predictors
+hackathon_id: gdg-winter-2026-hackathon
+submission_url: https://devpost.com/software/nba-predictors
+source:
+  platform: devpost
+  url: https://devpost.com/software/nba-predictors
+awards:
+  - type: other
+    title: Amazon Gift Cards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

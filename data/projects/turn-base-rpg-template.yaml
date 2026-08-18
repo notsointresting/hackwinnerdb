@@ -1,0 +1,18 @@
+id: turn-base-rpg-template
+name: Turn Base RPG Template
+slug: turn-base-rpg-template
+tagline: A template and game that hopefully improve the interactivity of turn base RPG game.
+summary: Turn Base RPG Template received the Best Fluid UI award at MasseyHacks XII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - gaming
+technologies: []
+builders:
+  - name: Yichen Sun
+  - name: Bob Shen

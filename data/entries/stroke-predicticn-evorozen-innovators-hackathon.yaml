@@ -1,0 +1,16 @@
+id: stroke-predicticn-evorozen-innovators-hackathon
+project_id: stroke-predicticn
+hackathon_id: evorozen-innovators-hackathon
+submission_url: https://devpost.com/software/stroke-predicticn
+source:
+  platform: devpost
+  url: https://devpost.com/software/stroke-predicticn
+awards:
+  - type: third-place
+    title: 3rd Overall
+  - type: third-place
+    title: 3rd Place Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

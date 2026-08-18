@@ -1,0 +1,20 @@
+id: travelers
+name: Travelers
+slug: travelers
+tagline: Less Planning, More Traveling
+summary: Travelers received the 1st Place Overall Sponsored by T-Mobile award at STEMist Hacks IV in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kenneth123-web/Travelers
+demo_url: null
+video_url: https://www.youtube.com/embed/pINOkOzdwa8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/051/257/datas/medium.png
+categories:
+  - education
+technologies:
+  - cloudflare
+  - swift
+builders:
+  - name: Kenneth Huang
+  - name: Oley Yu
+  - name: Alexrui Rui

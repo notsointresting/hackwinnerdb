@@ -1,0 +1,23 @@
+id: soki
+name: Soki
+slug: soki
+tagline: Study smarter, Remember longer.
+summary: Soki received the Artificial Intelligence Award award at MindHack 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/cheikhwade07/Soki/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/781/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - postgresql
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sean Baldaia
+  - name: Seydi Cheikh Wade
+  - name: MartinMM-coder

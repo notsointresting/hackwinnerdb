@@ -1,0 +1,14 @@
+id: sonar-social-online-natural-disaster-alert-radar-csc-summer-impactathon
+project_id: sonar-social-online-natural-disaster-alert-radar
+hackathon_id: csc-summer-impactathon
+submission_url: https://devpost.com/software/sonar-social-online-natural-disaster-alert-radar-f9dhzb
+source:
+  platform: devpost
+  url: https://devpost.com/software/sonar-social-online-natural-disaster-alert-radar-f9dhzb
+awards:
+  - type: honorable-mention
+    title: CSC Impact Honorable Mention
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

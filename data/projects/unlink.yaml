@@ -1,0 +1,24 @@
+id: unlink
+name: UnLink
+slug: unlink
+tagline: In the digital age, leaving an unsafe relationship isn’t just emotional. It’s digital. It’s
+  overwhelming. UnLink helps you navigate your digital autonomy and pr
+summary: UnLink received the Honourable Mention Hack award at HackHer 2026  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hargunkour/hackher2026
+demo_url: null
+video_url: https://www.youtube.com/embed/WxcupgXdzRU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/389/746/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - google-cloud
+  - javascript
+  - react-native
+  - typescript
+builders:
+  - name: Hargun Kour
+  - name: Pelin Mete
+  - name: roni
+  - name: Phoebe Chan

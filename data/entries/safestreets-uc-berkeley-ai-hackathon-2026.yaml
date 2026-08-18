@@ -1,0 +1,14 @@
+id: safestreets-uc-berkeley-ai-hackathon-2026
+project_id: safestreets
+hackathon_id: uc-berkeley-ai-hackathon-2026
+submission_url: https://devpost.com/software/safestreets-h6yprx
+source:
+  platform: devpost
+  url: https://devpost.com/software/safestreets-h6yprx
+awards:
+  - type: category-winner
+    title: Best Use of Claude
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

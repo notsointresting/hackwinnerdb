@@ -1,0 +1,14 @@
+id: focusflow-diamondhacks-2026
+project_id: focusflow
+hackathon_id: diamondhacks-2026
+submission_url: https://devpost.com/software/focusflow-fv2ock
+source:
+  platform: devpost
+  url: https://devpost.com/software/focusflow-fv2ock
+awards:
+  - type: category-winner
+    title: Best Duo Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

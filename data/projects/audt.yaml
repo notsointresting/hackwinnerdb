@@ -1,0 +1,19 @@
+id: audt
+name: Audt
+slug: audt
+tagline: We built Nia for Patents R&D and Filing.
+summary: "Audt received the Track 1: Nozomio Labs (3rd place) award at SDxUCSD Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/PRpUNGl35KE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/567/602/datas/medium.png
+categories:
+  - fintech
+  - productivity
+technologies:
+  - react
+builders:
+  - name: Santiago Alvarez
+  - name: sebas tapia

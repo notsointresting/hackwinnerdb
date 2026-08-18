@@ -1,0 +1,14 @@
+id: verna-ibm-x-unsa-hackathon
+project_id: verna
+hackathon_id: ibm-x-unsa-hackathon
+submission_url: https://devpost.com/software/learnfast-ozgs9u
+source:
+  platform: devpost
+  url: https://devpost.com/software/learnfast-ozgs9u
+awards:
+  - type: first-place
+    title: Best First Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

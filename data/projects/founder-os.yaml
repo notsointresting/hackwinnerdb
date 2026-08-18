@@ -1,0 +1,25 @@
+id: founder-os
+name: Founder OS
+slug: founder-os
+tagline: Founder OS is your personal startup mentor and co-founder. Using industry data and AI, it
+  ensures you always know what to do next, while covering your bases, fr
+summary: Founder OS received the Best 'Solution for Startups' Stream award at The FinTech Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UIghodaro/Founder-OS
+demo_url: null
+video_url: https://www.youtube.com/embed/p2Y57EyQn6w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/743/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - anthropic
+  - javascript
+  - react
+builders:
+  - name: Adam Tan
+  - name: EgoMerchant Ighodaro
+  - name: Eu Jun Chan
+  - name: Rey Poh

@@ -1,0 +1,27 @@
+id: socializer
+name: Socializer
+slug: socializer
+tagline: Don’t sip alone ☕ scan, connect, and meet new people around you instantly.
+summary: "Socializer received the Sponsor Challenge: Girls Who Code award at Hack Brooklyn in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/matheusfarocha/Socialize
+demo_url: null
+video_url: https://www.youtube.com/embed/5_zpeBMtqAQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/587/479/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mapbox
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - webrtc
+builders:
+  - name: sharvin gavad Gavad
+  - name: Matheus Fonseca
+  - name: Akshat Agrawal
+  - name: Akshat Mishra

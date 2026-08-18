@@ -1,0 +1,25 @@
+id: wearwise-v1
+name: WearWise (v1)
+slug: wearwise-v1
+tagline: "WearWise: Know what you wear.Point your camera, understand your closet. WearWise instantly
+  tells you what you're wearing, how it fits the trends, and what to pa"
+summary: "WearWise (v1) received the Most Innovative: SwissGear 2769 ScanSmart Laptop Backpack award
+  at HackTCNJ 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: https://github.com/DeviDeviDeviKanumilli/HackTCNJ
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/066/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+  - python
+  - react
+builders:
+  - name: Ashwix10 Madhan
+  - name: shrenik gamini1
+  - name: Devi kanumilli
+  - name: Wasim Vorvoi

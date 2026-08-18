@@ -1,0 +1,26 @@
+id: policy-lens
+name: Policy Lens
+slug: policy-lens
+tagline: "**Policy Lens** turns 2 hours of PDF hunting into 10 seconds. One search surfaces drug
+  coverage, PA requirements, and policy changes across 400+ payers instantl"
+summary: "Policy Lens received the Anton RX: Medical Benefit Drug Policy ... Track award at
+  Innovation Hacks 2.0 - 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/SuhasR3/Policy-Lens
+demo_url: null
+video_url: https://www.youtube.com/embed/ZK5N2csVXVo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/536/288/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - sqlite
+  - tailwind-css
+builders:
+  - name: Navneetha Rajan
+  - name: Prarthana Thathpurusha
+  - name: Suhas Raghavendra
+  - name: Reuben Roy

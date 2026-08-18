@@ -1,0 +1,24 @@
+id: cancer-tumor-evolution-tracker
+name: Cancer Tumor Evolution Tracker
+slug: cancer-tumor-evolution-tracker
+tagline: We transform raw tumor mutations into an instant evolution blueprint, revealing the
+  cancer’s origins, its branching clones, and the seeds of resistance.
+summary: Cancer Tumor Evolution Tracker received the Android 7 inch Tablet award at BioHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AdamCarter27/TumorEvolution
+demo_url: null
+video_url: https://www.youtube.com/embed/gzmbKspHFEM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/283/datas/gallery.jpg
+categories:
+  - productivity
+  - creative-tools
+technologies:
+  - openai
+  - python
+  - streamlit
+builders:
+  - name: Karthik Konda
+  - name: Adam Carter
+  - name: Shourya Vermani
+  - name: Nikhil Pandia

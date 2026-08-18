@@ -1,0 +1,25 @@
+id: carbontrade
+name: CarbonTrade
+slug: carbontrade
+tagline: "CarbonTrade uses AI and blockchain to replace costly carbon audits with scalable
+  verification, enabling small farmers to measure, verify, and sell regenerative "
+summary: CarbonTrade received the [MLH] Best Use of Solana award at HackLondon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tapascodespace/NewCarbonFuture
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - openai
+  - solana
+  - supabase
+builders:
+  - name: Tapas B
+  - name: Shruti Zariye
+  - name: A T
+  - name: Abu

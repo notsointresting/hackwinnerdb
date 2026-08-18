@@ -1,0 +1,14 @@
+id: cure-ai-hackmars-3-0-neon
+project_id: cure-ai
+hackathon_id: hackmars-3-0-neon
+submission_url: https://devpost.com/software/cure-ai-iz5cer
+source:
+  platform: devpost
+  url: https://devpost.com/software/cure-ai-iz5cer
+awards:
+  - type: audience-choice
+    title: People's Choice
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

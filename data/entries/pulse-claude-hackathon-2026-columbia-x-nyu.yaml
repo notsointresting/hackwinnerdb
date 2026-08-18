@@ -1,0 +1,14 @@
+id: pulse-claude-hackathon-2026-columbia-x-nyu
+project_id: pulse
+hackathon_id: claude-hackathon-2026-columbia-x-nyu
+submission_url: https://devpost.com/software/pulse-tgiz8u
+source:
+  platform: devpost
+  url: https://devpost.com/software/pulse-tgiz8u
+awards:
+  - type: category-winner
+    title: Linkup Challenge - Best use of the Linkup search API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

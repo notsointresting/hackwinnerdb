@@ -1,0 +1,16 @@
+id: resq-girls-in-stem-ai-for-social-good-hackathon
+project_id: resq
+hackathon_id: girls-in-stem-ai-for-social-good-hackathon
+submission_url: https://devpost.com/software/resq-nwaq5r
+source:
+  platform: devpost
+  url: https://devpost.com/software/resq-nwaq5r
+awards:
+  - type: third-place
+    title: 3rd place Overall
+  - type: category-winner
+    title: BEST BEGINNER PROJECT
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

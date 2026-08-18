@@ -1,0 +1,31 @@
+id: mr-ed-the-horse-that-cares
+name: Mr.Ed — The Horse that Cares
+slug: mr-ed-the-horse-that-cares
+tagline: A bear with sensors that detects when old loved ones are upset and takes action. Plays a
+  grandson's voice, guides her breathing, then tells the family. No camer
+summary: Mr.Ed — The Horse that Cares received the Best Human-Centered Design award at KiroHacks Cal
+  Poly in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pt4CGuZeaA8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/639/399/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - c-plus-plus
+  - claude
+  - esp32
+  - fastapi
+  - nextjs
+  - python
+  - react
+  - sqlite
+  - typescript
+  - whisper
+builders:
+  - name: Jason Huynh
+  - name: Jia Hua Wu Zhang
+  - name: Tristan Au

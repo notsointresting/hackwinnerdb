@@ -1,0 +1,27 @@
+id: founderos
+name: FounderOS
+slug: founderos
+tagline: We built an autonomous AI advisory board that turns any startup idea into a stress-tested,
+  investor-ready business plan in under 5 minutes.
+summary: FounderOS received the Best use of Fastino award at Autonomous Agents Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chetas1208/Startup_sim/
+demo_url: null
+video_url: https://www.youtube.com/embed/mcya2IP8Uks
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: Chetas Parekh
+  - name: Pranav Patel
+  - name: Kabalan Gaspard

@@ -1,0 +1,14 @@
+id: warmpath-celebrity-hunt-hackathon
+project_id: warmpath
+hackathon_id: celebrity-hunt-hackathon
+submission_url: https://devpost.com/software/warmpath
+source:
+  platform: devpost
+  url: https://devpost.com/software/warmpath
+awards:
+  - type: category-winner
+    title: Best Use of Supabase
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

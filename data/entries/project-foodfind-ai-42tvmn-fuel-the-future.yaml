@@ -1,0 +1,14 @@
+id: project-foodfind-ai-42tvmn-fuel-the-future
+project_id: project-foodfind-ai-42tvmn
+hackathon_id: fuel-the-future
+submission_url: https://devpost.com/software/foodfind-ai-42tvmn
+source:
+  platform: devpost
+  url: https://devpost.com/software/foodfind-ai-42tvmn
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

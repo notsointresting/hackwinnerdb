@@ -1,0 +1,25 @@
+id: aftershock
+name: AFTERSHOCK
+slug: aftershock
+tagline: "Aftershock: the decision layer between a damage grade and knowing who to send first."
+summary: AFTERSHOCK received the Best Agentic Spatial System - by PICO 1st Place award at Worlds in
+  Action Hack [02-LA] in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/-tL1cu5kEss
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/943/398/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - javascript
+  - openai
+  - react
+builders:
+  - name: Valentina Rosas
+  - name: Ishani Patel
+  - name: Chloe-L0 Lo
+  - name: rparikh0119

@@ -1,0 +1,16 @@
+id: echoes-hack-brooklyn
+project_id: echoes
+hackathon_id: hack-brooklyn
+submission_url: https://devpost.com/software/echo-tyx3g2
+source:
+  platform: devpost
+  url: https://devpost.com/software/echo-tyx3g2
+awards:
+  - type: grand-prize
+    title: "Grand Prize: First Place"
+  - type: sponsor-prize
+    title: "Sponsor Challenge: Best Architecture Diagram"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

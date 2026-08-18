@@ -1,0 +1,25 @@
+id: keystone
+name: Keystone
+slug: keystone
+tagline: A property management platform that helps independent landlords streamlines leasing, tenant
+  screening, and investment decisions.
+summary: Keystone received the 3rd Place Overall award at CSBA x HBA Hack Day in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RayhanXD/CSB-Hack-Day
+demo_url: null
+video_url: https://www.youtube.com/embed/N0m7E_BIRtM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/565/948/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - cloudflare
+  - langchain
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Manil Shangle
+  - name: Keerti Koya
+  - name: Rayhan Mohammad
+  - name: Meghana  Chodavarapu

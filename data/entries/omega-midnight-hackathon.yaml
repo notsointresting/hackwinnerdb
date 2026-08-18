@@ -1,0 +1,14 @@
+id: omega-midnight-hackathon
+project_id: omega
+hackathon_id: midnight-hackathon
+submission_url: https://devpost.com/software/omega-dk7mc3
+source:
+  platform: devpost
+  url: https://devpost.com/software/omega-dk7mc3
+awards:
+  - type: winner
+    title: Overall Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

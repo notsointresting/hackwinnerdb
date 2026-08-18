@@ -1,0 +1,14 @@
+id: westtoeast-bitcoin-plus-plus-open-source-edition
+project_id: westtoeast
+hackathon_id: bitcoin-plus-plus-open-source-edition
+submission_url: https://devpost.com/software/westtoeast
+source:
+  platform: devpost
+  url: https://devpost.com/software/westtoeast
+awards:
+  - type: first-place
+    title: 1st Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

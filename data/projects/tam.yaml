@@ -1,0 +1,22 @@
+id: tam
+name: TAM
+slug: tam
+tagline: Financial due diligence takes weeks and costs firms thousands per deal. TAM cuts it to
+  minutes by automating the full workflow so your team closes faster and wi
+summary: TAM received the 2nd Place - General Track award at MadData26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/diyakayy/maddata2026
+demo_url: null
+video_url: https://www.youtube.com/embed/roue8jPTmlI
+image_url: null
+categories:
+  - productivity
+  - social-impact
+technologies:
+  - sqlite
+  - typescript
+builders:
+  - name: Yash Arvind
+  - name: HRIDAY THAKKAR
+  - name: Diya Kothari

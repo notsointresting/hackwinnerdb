@@ -1,0 +1,19 @@
+id: great-dane-games
+name: Great Dane Games
+slug: great-dane-games
+tagline: This is a series of player vs player mini games that follow the theme of the UAlbany environment.
+summary: Great Dane Games received the Fifth Place award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ArmaanNasri-code/Great-Dane-Games
+demo_url: null
+video_url: https://www.youtube.com/embed/IVBW3R8hGGY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/485/datas/gallery.jpg
+categories:
+  - climate
+  - gaming
+  - creative-tools
+technologies: []
+builders:
+  - name: Mkadan315 Kadanthod
+  - name: Kevin Thomas

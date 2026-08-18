@@ -1,0 +1,20 @@
+id: student-transfer-guide-stg
+name: Student Transfer Guide (STG)
+slug: student-transfer-guide-stg
+tagline: All needed transfer coursework, in a single place
+summary: "Student Transfer Guide (STG) received the Improving SMCCD Track: 1st place: $100 Amazon
+  Gift card (per team member) award at SMCCD 2026 Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/kuroiSora51/SMCCD-Tranfer-Guide
+demo_url: null
+video_url: https://www.youtube.com/embed/waol40-yhNQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/601/371/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - django
+  - python
+builders:
+  - name: Edgar Gonzalez

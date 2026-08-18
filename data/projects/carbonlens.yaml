@@ -1,0 +1,22 @@
+id: carbonlens
+name: CarbonLens
+slug: carbonlens
+tagline: Transit corridor partner that compares rail alternatives by embodied carbon, construction
+  emissions, cost, buildability, and community benefit using live public
+summary: "CarbonLens received the Amazon: Sustainability Challenge Track award at Innovation Hacks
+  2.0 - 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Pleesudjai/CarbonLens
+demo_url: null
+video_url: https://www.youtube.com/embed/4IChbwKEiTA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/747/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Chidchanok Pleesudjai
+  - name: Devansh Deepak Patel

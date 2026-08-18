@@ -1,0 +1,25 @@
+id: threebyte
+name: ThreeByte
+slug: threebyte
+tagline: Open-source case management platform for nonprofits, track clients, cases & finances in one
+  place. Affordable at under $30/month.
+summary: "ThreeByte received the Top freshman/sophomore team award at Women in Computer Science x
+  Opportunity Hack: Spring 2026 Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/2026-ASU-WiCS-Opportunity-Hack/27-three-byte?tab=readme-ov-file
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/596/346/datas/medium.jpeg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Joana Choong
+  - name: Trang Truong
+  - name: Huy Nguyen

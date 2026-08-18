@@ -1,0 +1,24 @@
+id: tiretrace
+name: TireTrace
+slug: tiretrace
+tagline: Stop pouring tire waste into your local river. Trace your route, and cut the pollution
+  using this app.
+summary: "TireTrace received the Grand NEON Prize award at HackMars 3.0: NEON in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Muhammad657/tiretrace
+demo_url: null
+video_url: https://www.youtube.com/embed/b5u6jJigyWg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - dart
+  - flutter
+  - python
+builders:
+  - name: Zakiulla Khan
+  - name: Pranav Polisetti
+  - name: ShriNaath AnandaKumar

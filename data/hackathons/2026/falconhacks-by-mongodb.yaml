@@ -1,0 +1,14 @@
+id: falconhacks-by-mongodb
+name: FalconHacks by MongoDB
+slug: falconhacks-by-mongodb
+organizer: []
+year: 2026
+sources:
+  - https://falconhacks-by-mongodb.devpost.com/
+  - https://falconhacks-by-mongodb.devpost.com/project-gallery?filter=winner
+website_url: https://falconhacks-by-mongodb.devpost.com/
+platform: devpost
+participant_count: 19
+prize_pool: null
+currency: null
+description: "Devpost hackathon: FalconHacks by MongoDB. Imported automatically."

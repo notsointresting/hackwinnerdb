@@ -1,0 +1,20 @@
+id: tumtastic
+name: Tumtastic!
+slug: tumtastic
+tagline: Tumtastic! is a mobile + AR companion experience that gives users a new way to sense
+  stomach fullness and understand digestion through Stummy, a virtual creatur
+summary: Tumtastic! received the Honorable Mentions award at FigBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/WHa91kk2gjg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/415/708/datas/gallery.jpg
+categories:
+  - ar-vr
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Naomi Tsang
+  - name: Annabel Luo

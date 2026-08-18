@@ -1,0 +1,16 @@
+id: senority-test
+name: senority test
+slug: senority-test
+tagline: do you know seno? or do you know seno?
+summary: senority test received the Seno's approval award at senohacks. in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Xx-cONm05h0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/768/527/datas/medium.jpeg
+categories:
+  - other
+technologies: []
+builders:
+  - name: Pranjal Bhatia

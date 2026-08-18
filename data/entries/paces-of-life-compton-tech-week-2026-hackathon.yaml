@@ -1,0 +1,14 @@
+id: paces-of-life-compton-tech-week-2026-hackathon
+project_id: paces-of-life
+hackathon_id: compton-tech-week-2026-hackathon
+submission_url: https://devpost.com/software/paces-of-life
+source:
+  platform: devpost
+  url: https://devpost.com/software/paces-of-life
+awards:
+  - type: track-winner
+    title: Track 3 Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

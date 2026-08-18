@@ -1,0 +1,26 @@
+id: vocalyze
+name: Vocalyze
+slug: vocalyze
+tagline: Leave others speechless.
+summary: Vocalyze received the [MLH] Best Use of ElevenLabs award at Hack AI 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rishiopenclaw/hackai2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Qx-1kOpmu94
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/652/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - mongodb
+  - react-native
+  - swift
+builders:
+  - name: aryav rastogi
+  - name: Rishi Golla
+  - name: jaiom rola
+  - name: Saharsh Buddhe

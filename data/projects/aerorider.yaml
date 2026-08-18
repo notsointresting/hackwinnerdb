@@ -1,0 +1,22 @@
+id: aerorider
+name: AeroRider
+slug: aerorider
+tagline: AeroRider helps a cyclist choose the healthiest route before and during a ride.
+summary: AeroRider received the Best Use of ClickHouse award at Harness Engineering Hack in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ybavgito/AeroRider
+demo_url: null
+video_url: https://www.youtube.com/embed/8JmDTt5OFw4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/763/879/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - google-maps
+  - javascript
+  - python
+builders:
+  - name: Mukunth Vaibhav Ganesh Kumar

@@ -1,0 +1,14 @@
+id: backtrack-wehack-2026
+project_id: backtrack
+hackathon_id: wehack-2026
+submission_url: https://devpost.com/software/neurovault-uy3vqf
+source:
+  platform: devpost
+  url: https://devpost.com/software/neurovault-uy3vqf
+awards:
+  - type: track-winner
+    title: WEHack General Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

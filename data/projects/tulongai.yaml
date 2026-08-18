@@ -1,0 +1,27 @@
+id: tulongai
+name: TulongAI
+slug: tulongai
+tagline: AI-powered benefits navigator helping Filipino families discover which of 4 government
+  programs they may qualify for — in plain language, with real next steps.
+summary: TulongAI received the College/Undergraduate Runner Up award at USAII® Global AI Hackathon
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/ZyS1b/usahacakthon-system3
+demo_url: null
+video_url: https://www.youtube.com/embed/GztCD8Fjehs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/811/580/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: matthewkiefe undefined
+  - name: Kristina Diane Aviles
+  - name: Zybert Jio Sibolboro
+  - name: Leuretto Bien Feliciano

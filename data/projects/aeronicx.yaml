@@ -1,0 +1,27 @@
+id: aeronicx
+name: AeronicX
+slug: aeronicx
+tagline: AeronicX is an Quantum-AI Climate Intelligence platform that visualizes pollution, predicts
+  air quality, and empowers cities and communities to take real-time a
+summary: AeronicX received the Referral & Community Bonus award at WeatherWise Hack in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/coderhash-sketch/AeronicX
+demo_url: null
+video_url: https://www.youtube.com/embed/LHzUVyaSpJQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/447/654/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - climate
+  - sustainability
+technologies:
+  - javascript
+  - mapbox
+  - python
+  - pytorch
+  - tailwind-css
+  - tensorflow
+  - typescript
+  - vercel
+builders:
+  - name: Agrim Garg

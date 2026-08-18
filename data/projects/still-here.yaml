@@ -1,0 +1,24 @@
+id: still-here
+name: Still Here
+slug: still-here
+tagline: Miss a daily tap, and your people get notified. Still Here is the safety net for the 36
+  million Americans living alone. One tap. Four escalation steps. No subsc
+summary: Still Here received the Best Use of Netcore - Netcore award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/xyzmr114/stillhere
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/559/343/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - python
+  - redis
+  - supabase
+builders:
+  - name: Harsh Rathi

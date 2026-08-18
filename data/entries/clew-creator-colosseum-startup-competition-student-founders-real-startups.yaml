@@ -1,0 +1,20 @@
+id: clew-creator-colosseum-startup-competition-student-founders-real-startups
+project_id: clew
+hackathon_id: creator-colosseum-startup-competition-student-founders-real-startups
+submission_url: https://devpost.com/software/clew
+source:
+  platform: devpost
+  url: https://devpost.com/software/clew
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Special Prize - Iteration Machine
+  - type: other
+    title: Special Awards - InterviewCake
+  - type: other
+    title: Top 10 Rankings - Mentoring
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

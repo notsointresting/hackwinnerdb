@@ -1,0 +1,21 @@
+id: fhir-forge
+name: FHIR Forge
+slug: fhir-forge
+tagline: Transforms clinical notes, discharge summaries, and referrals into validated FHIR R4
+  resources with RxNorm, ICD-10, and LOINC grounding, clinician review, inter
+summary: FHIR Forge received the Honorable Mentions award at Agents Assemble - The Healthcare AI
+  Endgame in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/0uelxxR7s9Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/661/124/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - typescript
+builders:
+  - name: Chirag H

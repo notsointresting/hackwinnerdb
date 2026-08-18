@@ -1,0 +1,20 @@
+id: daedalus
+name: Daedalus
+slug: daedalus
+tagline: Model 3D shapes directly with your hands.
+summary: Daedalus received the Best Non-GenAI Hack award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Festyve/Daedalus
+demo_url: null
+video_url: https://www.youtube.com/embed/xia7qTBnhXk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/208/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - typescript
+builders:
+  - name: Jerry Li
+  - name: Michael Zhang
+  - name: Alex Zhang
+  - name: Bryan Yao

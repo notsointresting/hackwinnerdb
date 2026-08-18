@@ -1,0 +1,22 @@
+id: shared-skies
+name: Shared Skies
+slug: shared-skies
+tagline: Leave your mark on this universe
+summary: Shared Skies received the Best UI/UX award at TritonHacks 26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/678/464/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - claude
+  - gemini
+builders:
+  - name: Nathanawesome21 Wang
+  - name: IansPuppy
+  - name: Mateo C
+  - name: casey nguyen

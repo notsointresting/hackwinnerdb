@@ -1,0 +1,14 @@
+id: pond-createsc-2026
+project_id: pond
+hackathon_id: createsc-2026
+submission_url: https://devpost.com/software/pond-8eioxn
+source:
+  platform: devpost
+  url: https://devpost.com/software/pond-8eioxn
+awards:
+  - type: track-winner
+    title: "Figma Make Track: Runner-up"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: electrigrid
+name: Electrigrid
+slug: electrigrid
+tagline: Save your utilities, save the environment.
+summary: Electrigrid received the Energy / Power Stream - 1st award at Hacked 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1K1eKV4xKrc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/753/datas/gallery.jpg
+categories:
+  - climate
+  - productivity
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: Sas Ta
+  - name: Manav Joshi

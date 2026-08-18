@@ -1,0 +1,21 @@
+id: linkedin-fighters
+name: LinkedIn Fighters
+slug: linkedin-fighters
+tagline: We give you the chance to find out whose LinkedIn profile is stronger. Import your LinkedIn
+  profiles, create your fighters, and battle in an epic Mortal Kombat-
+summary: LinkedIn Fighters received the HeySalad ® 2nd Place award at The London Rork Game
+  Hackathon  in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/1Z34FiRrlOY
+image_url: null
+categories:
+  - iot
+  - gaming
+technologies: []
+builders:
+  - name: Vladyslav Shuliar
+  - name: Mykyta Yakivets
+  - name: Stas Tyshkovets

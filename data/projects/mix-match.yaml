@@ -1,0 +1,18 @@
+id: mix-match
+name: MIX&MATCH!
+slug: mix-match
+tagline: A totally normal dress-up game... or is it?
+summary: MIX&MATCH! received the 1st Place (Both Tracks) award at Code as a Canvas in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/saiphzzo/MIX-AND-MATCH/
+demo_url: null
+video_url: https://www.youtube.com/embed/s9cPQmcGXtQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/472/444/datas/gallery.jpg
+categories:
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: Habiba Effat
+  - name: Cherrie .R

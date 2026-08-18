@@ -1,0 +1,14 @@
+id: smart-leads-dolphin-hacks
+project_id: smart-leads
+hackathon_id: dolphin-hacks
+submission_url: https://devpost.com/software/smart-leads
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-leads
+awards:
+  - type: winner
+    title: Business Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

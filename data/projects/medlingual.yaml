@@ -1,0 +1,25 @@
+id: medlingual
+name: MedLingual
+slug: medlingual
+tagline: MedLingual is an AI-powered, real-time multilingual medical triage assistant designed to
+  eliminate communication barriers between healthcare providers and patie
+summary: MedLingual received the H&R Block | two Logitech G733 Lightspeed Wireless RGB Gaming
+  Headset and two Logitech G305 Lightspeed Wireless Gaming Mouse + G213 Prodigy Gaming Keyboard
+  Bundle award at HackKU26 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/rahulnesan/MedLingual
+demo_url: null
+video_url: https://www.youtube.com/embed/MLzV_gs-NIg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/250/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - creative-tools
+technologies:
+  - javascript
+  - swift
+  - vercel
+builders:
+  - name: Disha Chakraborty
+  - name: Rahul nesan

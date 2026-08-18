@@ -1,0 +1,26 @@
+id: aimaxxing-senso
+name: aimaxxing_Senso
+slug: aimaxxing-senso
+tagline: "We are building a sub $100 wearable CO and methane detector with real time alerts designed
+  for contractors, mechanics, and everyday users who need portable gas "
+summary: aimaxxing_Senso received the Software 3rd award at Hacked 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nmackenzy/aimaxxing_senso
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/362/637/datas/gallery.jpg
+categories:
+  - productivity
+  - social-impact
+  - creative-tools
+technologies:
+  - c-plus-plus
+  - esp32
+  - react-native
+  - typescript
+builders:
+  - name: Shira Li
+  - name: Smit Chovatiya
+  - name: Joshua Pinkoski
+  - name: nmackenzy Mackenzy

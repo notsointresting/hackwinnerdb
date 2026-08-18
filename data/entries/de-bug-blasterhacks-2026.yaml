@@ -1,0 +1,16 @@
+id: de-bug-blasterhacks-2026
+project_id: de-bug
+hackathon_id: blasterhacks-2026
+submission_url: https://devpost.com/software/de-bug
+source:
+  platform: devpost
+  url: https://devpost.com/software/de-bug
+awards:
+  - type: first-place
+    title: Game Jam 1st place
+  - type: other
+    title: "Raffle: Corsair mechanical keyboard"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

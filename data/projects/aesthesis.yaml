@@ -1,0 +1,29 @@
+id: aesthesis
+name: Aesthesis
+slug: aesthesis
+tagline: Neuroscience-backed simulation of human feedback
+summary: Aesthesis received the Sideshift x HackTech - Cash Prize + Interview award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/wilyan09007/Aesthesis
+demo_url: null
+video_url: https://www.youtube.com/embed/TDymoWjShy0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/945/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - pytorch
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: William Yang
+  - name: Vineel Bhattiprolu

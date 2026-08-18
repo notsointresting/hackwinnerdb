@@ -1,0 +1,22 @@
+id: nest-guard
+name: Nest Guard
+slug: nest-guard
+tagline: Nest Guard is an AI-powered risk assessment tool that takes a few basic facts about your
+  home and past data to help you mitigate risks before they become claims
+summary: Nest Guard received the WEHack General Track award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TrinhTT8/nest-guard
+demo_url: null
+video_url: https://www.youtube.com/embed/996aFBkLE5I
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/559/217/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - python
+  - react
+  - vercel
+builders:
+  - name: Trinh Tran
+  - name: Linh Tran

@@ -1,0 +1,22 @@
+id: espboy
+name: ESPboy
+slug: espboy
+tagline: Interactive Snake game and Tetris running on an ESP32 LED matrix where users connect
+  through a web interface on their phones to control the game in real time.
+summary: ESPboy received the Extraordinary award at UMake 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rajdeep-Gill/umake2026
+demo_url: null
+video_url: https://www.youtube.com/embed/fZu7pxWN2TY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/405/602/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - c-plus-plus
+  - javascript
+builders:
+  - name: Kevin Tran
+  - name: Alex Haigh
+  - name: Youssof Mahmoud
+  - name: Rajdeep Gill

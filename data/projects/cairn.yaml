@@ -1,0 +1,20 @@
+id: cairn
+name: Cairn
+slug: cairn
+tagline: Cairn uses open-source AR to build a live, shared 3D map of data center construction. We
+  save crews 5.5 hours/week spent hunting for status , preventing $14.2M/
+summary: "Cairn received the 1st Place for SGA-AR: Find the Opportunity Track award at TEL: Spatial
+  Intelligence Ideathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/eG9jo5N2IzE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies: []
+builders:
+  - name: Parin Gouraram

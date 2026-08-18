@@ -1,0 +1,22 @@
+id: axiom-ai-dual-engine-combinatoria
+name: AXIOM AI — Dual-Engine Combinatoria
+slug: axiom-ai-dual-engine-combinatoria
+tagline: Most AI tutors guess their way through math and science. AXIOM computes first with a
+  deterministic combinatorial engine (exact Punnett squares, permutations, el
+summary: AXIOM AI — Dual-Engine Combinatoria received the Participation Prize award at DSH Hacks V1
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/radhikatmosphere/axiom-stem
+demo_url: null
+video_url: https://www.youtube.com/embed/44LphJlaFqw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/779/137/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - cloudflare
+  - firebase
+  - typescript
+builders:
+  - name: Axel Domingo Padilla Arriaga

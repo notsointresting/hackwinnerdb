@@ -1,0 +1,14 @@
+id: smogguard-smognet-datathon
+project_id: smogguard
+hackathon_id: smognet-datathon
+submission_url: https://devpost.com/software/smogguard-wejcr3
+source:
+  platform: devpost
+  url: https://devpost.com/software/smogguard-wejcr3
+awards:
+  - type: second-place
+    title: 2nd Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

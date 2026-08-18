@@ -1,0 +1,22 @@
+id: sound-for-all
+name: Sound For All
+slug: sound-for-all
+tagline: A privacy-first, system-wide real-time captioning overlay powered by local AI
+summary: Sound For All received the Participation Certificate award at CodeNova 2026 – National AI &
+  Innovation Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/extremecoder-rgb/Sound-for-all
+demo_url: null
+video_url: https://www.youtube.com/embed/8RKHj5KNGPA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/039/881/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - react
+  - rust
+  - typescript
+builders:
+  - name: Subhranil Mondal

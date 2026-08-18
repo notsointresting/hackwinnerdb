@@ -1,0 +1,23 @@
+id: cween
+name: Cween
+slug: cween
+tagline: "Challenge: A Genome-Scale Metabolic Modelling Tool for Non-Specialists to Enable Rapid
+  Strain and Media Optimisation"
+summary: Cween received the [Hackathons UK] Hackiest Hack award at BioHackathon Edinburgh 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElijahDowns/Biohack.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Wesley Koc
+  - name: Chisato Ishiwata
+  - name: Elijah Downs

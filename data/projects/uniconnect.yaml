@@ -1,0 +1,26 @@
+id: uniconnect
+name: UniConnecT
+slug: uniconnect
+tagline: UniConnecT is a verified university social network connecting students, alumni, faculty,
+  and admins with feeds, jobs, events, chat, news, and campus tools in on
+summary: UniConnecT received the Codex $100 Credits award at Codex Meetup Dhaka - UIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Joydip-007/UniConnecT_NEW
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/747/758/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - azure
+  - javascript
+  - postgresql
+  - react
+  - redis
+  - sql
+  - typescript
+  - vercel
+builders:
+  - name: Joydip Datta

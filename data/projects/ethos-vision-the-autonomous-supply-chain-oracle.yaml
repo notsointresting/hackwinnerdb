@@ -1,0 +1,20 @@
+id: ethos-vision-the-autonomous-supply-chain-oracle
+name: Ethos-Vision — The Autonomous Supply Chain Oracle
+slug: ethos-vision-the-autonomous-supply-chain-oracle
+tagline: Empowering conscious consumption through real-time, autonomous ethical verification.
+summary: Ethos-Vision — The Autonomous Supply Chain Oracle received the Best use of Gemini API award
+  at Genovate Hack Days in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Prithanjan/C-Shark
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/471/764/datas/gallery.jpg
+categories:
+  - fintech
+  - infrastructure
+technologies:
+  - gemini
+  - python
+builders:
+  - name: Prithanjan Acharyya

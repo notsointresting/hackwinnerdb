@@ -1,0 +1,17 @@
+id: project-kessler
+name: Project Kessler
+slug: project-kessler
+tagline: "27,000 pieces of junk are orbiting Earth right now. NASA built a vehicle to fix this. I
+  built the self-driving navigation. Powered by real aerospace algorithms "
+summary: Project Kessler received the 1st Place award at HACKMESA 2.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/003/datas/gallery.jpg
+categories:
+  - fintech
+technologies: []
+builders:
+  - name: Turbo S.

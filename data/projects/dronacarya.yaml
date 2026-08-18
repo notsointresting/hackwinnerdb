@@ -1,0 +1,25 @@
+id: dronacarya
+name: Dronacarya
+slug: dronacarya
+tagline: "Autonomous terrain-adaptive rover for disaster zones that transforms into a drone when
+  path is blocked, with a mechanical gripper to clear irregular debris and "
+summary: Dronacarya received the Ford Industrial Robotics Grippers award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/2vU2-4iUWR4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+builders:
+  - name: Chaitanya Nikhil Vikamsey
+  - name: Parth Yadav
+  - name: Adit Banerjee
+  - name: Akhil Chutkay

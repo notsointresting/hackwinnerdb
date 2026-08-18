@@ -1,0 +1,14 @@
+id: snap-species-3h-wildhack
+project_id: snap-species-3h
+hackathon_id: wildhack
+submission_url: https://devpost.com/software/snap-species
+source:
+  platform: devpost
+  url: https://devpost.com/software/snap-species
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

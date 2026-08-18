@@ -1,0 +1,23 @@
+id: kavach-upi-remote-fraud-security-shield
+name: "Kavach-UPI: Remote Fraud Security Shield"
+slug: kavach-upi-remote-fraud-security-shield
+tagline: An on-device security shield that blocks remote-access and screen-sharing scams during UPI
+  transactions by instantly deploying a touch-blocking overlay and bili
+summary: "Kavach-UPI: Remote Fraud Security Shield received the Books, Mentorship, Internshipt,
+  Became Club member award at Cyber_Coders in 2026. This record was imported automatically; the
+  summary and source check are still pending."
+website_url: null
+github_url: https://github.com/ADITYA-TUMMURI/Kavach-UPI
+demo_url: null
+video_url: https://www.youtube.com/embed/dfK_7crtSC4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/812/350/datas/gallery.jpg
+categories:
+  - cybersecurity
+technologies:
+  - java
+  - kotlin
+builders:
+  - name: Aditya Tummuri
+  - name: Sujay Seeram
+  - name: Lochan B
+  - name: DoppalapudiNagaVenkataSai Venkat Sai

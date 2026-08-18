@@ -1,0 +1,22 @@
+id: senioros
+name: SeniorOS
+slug: senioros
+tagline: SeniorOS transforms computers into conversational assistants, enabling senior citizens to
+  perform everyday tasks using natural language with secure, offline AI.
+summary: SeniorOS received the Second Runner-Up award at NextGen Innovation2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RishiRamani/seniorOS
+demo_url: null
+video_url: https://www.youtube.com/embed/xkhiLNqgFTc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/053/282/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Rishi Ramani
+  - name: Shubh Tyagi
+  - name: Arnav Jain
+  - name: Rachit Talwar

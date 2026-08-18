@@ -1,0 +1,20 @@
+id: ecotracker
+name: EcoTracker
+slug: ecotracker
+tagline: EcoTracker gamifies sustainability habits, turning eco-friendly actions into engaging
+  challenges and rewards to inspire lasting environmental change.
+summary: EcoTracker received the 2nd Place award at Hack For The World 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/view
+image_url: null
+categories:
+  - education
+  - climate
+  - sustainability
+technologies:
+  - react
+builders:
+  - name: Santiago Gutierrez

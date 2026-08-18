@@ -1,0 +1,14 @@
+id: stayed-shipped-gitlab-transcend-hackathon
+project_id: stayed-shipped
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/stayed-shipped
+source:
+  platform: devpost
+  url: https://devpost.com/software/stayed-shipped
+awards:
+  - type: second-place
+    title: "Showcase Track: Technological Implementation, Second Place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

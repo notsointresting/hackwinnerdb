@@ -1,0 +1,21 @@
+id: solace
+name: Solace
+slug: solace
+tagline: Solace is the Solana wallet that speaks human. Plain English commands, an AI guard that
+  scans every transaction for threats, and a portfolio manager that rebala
+summary: Solace received the [MLH] Best Use of Solana award at AI Hackfest in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nucleon2/AI-hackfest-AI-agent-wallet
+demo_url: null
+video_url: https://www.youtube.com/embed/sxuS8C6hyh0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/751/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - solana
+  - typescript
+builders:
+  - name: Ahmad Khamis

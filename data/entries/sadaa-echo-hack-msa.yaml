@@ -1,0 +1,14 @@
+id: sadaa-echo-hack-msa
+project_id: sadaa-echo
+hackathon_id: hack-msa
+submission_url: https://devpost.com/software/sadaa-echo
+source:
+  platform: devpost
+  url: https://devpost.com/software/sadaa-echo
+awards:
+  - type: track-winner
+    title: Go-to-Market Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

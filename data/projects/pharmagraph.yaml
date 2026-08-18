@@ -1,0 +1,22 @@
+id: pharmagraph
+name: PharmaGraph
+slug: pharmagraph
+tagline: PharmaGraph helps users quickly spot dangerous medication interactions from messy
+  prescriptions, with clear risk explanations. Powered by Jac graph traversal fo
+summary: PharmaGraph received the Best Demo award at JacHacks Spring in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nishantr14/jac
+demo_url: null
+video_url: https://www.youtube.com/embed/OQ4gawN_yf8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/684/346/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+  - social-impact
+technologies:
+  - sqlite
+builders:
+  - name: Nishant Rajpathak
+  - name: Dipen Singh
+  - name: Diljit Singh

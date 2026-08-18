@@ -1,0 +1,23 @@
+id: before-i-forget
+name: Before I Forget
+slug: before-i-forget
+tagline: We don’t preserve files. We preserve memories.
+summary: Before I Forget received the 3rd Place – Serverless Solutions award at AWSHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/himanipng/Before_I_Forget.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/677/130/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: Sanaa R
+  - name: Lasya Venna
+  - name: Anushka Boran
+  - name: Himani Soni

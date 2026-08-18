@@ -1,0 +1,20 @@
+id: sadaa-echo
+name: Sadaa Echo
+slug: sadaa-echo
+tagline: Know the world. Change it.
+summary: Sadaa Echo received the Go-to-Market Track award at hack.msa in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+builders:
+  - name: Nurfatihah Zulkifly
+  - name: Huda Sbeit
+  - name: Manaar Ali

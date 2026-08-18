@@ -1,0 +1,14 @@
+id: arvp-electric-skateboard-hacked-2026
+project_id: arvp-electric-skateboard
+hackathon_id: hacked-2026
+submission_url: https://devpost.com/software/electric-skateboard
+source:
+  platform: devpost
+  url: https://devpost.com/software/electric-skateboard
+awards:
+  - type: second-place
+    title: Civil, Environmental, Mining or Petroleum - 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

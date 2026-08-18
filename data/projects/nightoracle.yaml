@@ -1,0 +1,23 @@
+id: nightoracle
+name: NightOracle
+slug: nightoracle
+tagline: 50% of fatal crashes happen at night. We trained a model on 5 years of NHTSA crash data,
+  paired it with live sensors, and score your exact route before you leav
+summary: NightOracle received the State Farm Challenge award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/psr1hitha/wehackproj
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/973/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+builders:
+  - name: Pranavi Sammidi
+  - name: Srihitha Peddibotla
+  - name: Sanjana Vipperla

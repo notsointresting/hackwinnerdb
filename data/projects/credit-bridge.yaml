@@ -1,0 +1,26 @@
+id: credit-bridge
+name: Credit Bridge
+slug: credit-bridge
+tagline: No credit history? Your life already tells the story from everyday payments to real credit
+  bridging the invisible. Credit Bridge will make you visible to financ
+summary: Credit Bridge received the Best Use of AI Studio award at GDSC HackDay  - Build With AI
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/SanskarLoganDev/credit-bridge
+demo_url: null
+video_url: https://www.youtube.com/embed/4OYAJwt-t8s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/264/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - fastapi
+  - python
+  - react
+  - twilio
+builders:
+  - name: Kriti Shahi
+  - name: Sanskar Vidyarthi

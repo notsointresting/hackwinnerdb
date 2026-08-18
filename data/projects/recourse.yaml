@@ -1,0 +1,21 @@
+id: recourse
+name: Recourse
+slug: recourse
+tagline: "Tell Recourse your dispute. It assesses your California small claims case and helps
+  produce court-ready outputs: a demand letter, filled SC-100, service guidanc"
+summary: Recourse received the $250 award at UCSB.network Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pfc-7CG9Jsc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/699/726/datas/medium.png
+categories:
+  - cybersecurity
+  - enterprise
+technologies:
+  - python
+  - typescript
+builders:
+  - name: Christian Daniel Cabacungan
+  - name: Kyle Manternach

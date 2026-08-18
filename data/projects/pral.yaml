@@ -1,0 +1,23 @@
+id: pral
+name: PRAL
+slug: pral
+tagline: Using autonomous drones for cinematography.
+summary: PRAL received the Best Overall Project (1st Place) award at JAMHacks 10 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/101011101/PRAL-Drone-Systems
+demo_url: null
+video_url: https://www.youtube.com/embed/4aDAuiv1ktQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/770/995/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - fastapi
+  - mapbox
+  - python
+  - react
+builders:
+  - name: Vedant Sheel
+  - name: Naman Sonawane
+  - name: Ray Tan
+  - name: Shaoming Wu

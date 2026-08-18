@@ -1,0 +1,19 @@
+id: flipthescript
+name: FlipTheScript
+slug: flipthescript
+tagline: FlipTheScript rates films on the Bechdel, Sexy Lamp, and Ellen Willis tests — then uses AI
+  to show you the bias in action. Think Rotten Tomatoes, but for repres
+summary: FlipTheScript received the Most Technically Impressive award at Witathon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/409/078/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - figma
+builders:
+  - name: Natalia Hunt
+  - name: eleanorsp0

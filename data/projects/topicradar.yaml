@@ -1,0 +1,21 @@
+id: topicradar
+name: TopicRadar
+slug: topicradar
+tagline: A solution to frequently posted topic posts! Automate the removal/filter/report of
+  frequently posted topics using an advanced matching algorithm and display the
+summary: TopicRadar received the Best New Mod Tool Honorable Mentions award at Reddit Mod Tools and
+  Migrated Apps Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zo8RrmQf7t0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/711/321/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Patrick Reilly

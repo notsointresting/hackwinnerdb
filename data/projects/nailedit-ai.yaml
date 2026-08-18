@@ -1,0 +1,23 @@
+id: nailedit-ai
+name: NailedIt.ai
+slug: nailedit-ai
+tagline: An AI voice receptionist for Southeast Asian (ie. Vietnamnese) nail salon owners who
+  require language translation and automated appointment booking on live inco
+summary: NailedIt.ai received the Best use of Valsea API award at Cursor Hackathon Toronto Tech Week
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Bd7-iWWdhss
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/710/198/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - react
+  - sqlite
+builders:
+  - name: Flora Chu
+  - name: Yves Donato
+  - name: Ha Nguyen
+  - name: kai xie

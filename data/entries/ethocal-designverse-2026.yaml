@@ -1,0 +1,14 @@
+id: ethocal-designverse-2026
+project_id: ethocal
+hackathon_id: designverse-2026
+submission_url: https://devpost.com/software/ethocal
+source:
+  platform: devpost
+  url: https://devpost.com/software/ethocal
+awards:
+  - type: other
+    title: Cookie Cutter Challenge
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,28 @@
+id: veritas
+name: Veritas
+slug: veritas
+tagline: trust your research data.
+summary: Veritas received the Best Proof-of-Human Application award at Catapult 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/karthikcsq/veritas
+demo_url: null
+video_url: https://www.youtube.com/embed/aXmBme6b2-E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/533/193/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - nextjs
+  - openai
+  - pinecone
+  - postgresql
+  - supabase
+  - typescript
+  - vercel
+builders:
+  - name: Melody Yang
+  - name: Sonny Chen
+  - name: Karthik Thyagarajan
+  - name: Alex Li

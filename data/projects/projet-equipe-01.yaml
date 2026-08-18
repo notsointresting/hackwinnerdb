@@ -1,0 +1,21 @@
+id: projet-equipe-01
+name: Projet Equipe 01
+slug: projet-equipe-01
+tagline: On va vous surprendre
+summary: Projet Equipe 01 received the Prix Propolys award at StarHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Flinguee75/polystard-hackaton-2
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - social-impact
+  - iot
+technologies:
+  - arduino
+builders:
+  - name: Cisse Tidiane
+  - name: tabtouche Tabti
+  - name: yas114

@@ -1,0 +1,23 @@
+id: advanced-nn-for-brain-tumor-det-classification-using-mri
+name: Advanced NN for Brain Tumor Det. & Classification Using MRI
+slug: advanced-nn-for-brain-tumor-det-classification-using-mri
+tagline: AI-powered system for automatic brain tumor detection, segmentation, and classification
+  from MRI scans with explainable results.
+summary: Advanced NN for Brain Tumor Det. & Classification Using MRI received the Participation
+  Prize award at ML Empowerment Build Challenge in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AghoshJohnson/Advanced-NN-for-Brain-Tumor-Detection-MRI-Classification
+demo_url: null
+video_url: https://www.youtube.com/embed/Tc2PU5em-14
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/545/229/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - flask
+  - opencv
+  - python
+  - pytorch
+builders:
+  - name: Aghosh Johnson

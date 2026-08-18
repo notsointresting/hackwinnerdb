@@ -1,0 +1,16 @@
+id: reloop-techcommons-hacks
+project_id: reloop
+hackathon_id: techcommons-hacks
+submission_url: https://devpost.com/software/reloop-vti10z
+source:
+  platform: devpost
+  url: https://devpost.com/software/reloop-vti10z
+awards:
+  - type: winner
+    title: TechCommons Hacks V1 - Grand Winner
+  - type: other
+    title: Participation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,19 @@
+id: felix
+name: Felix
+slug: felix
+tagline: Point at anything. Say what you want. Felix does the rest.
+summary: Felix received the Best Use of GCP award at TillyHacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AnayShekhar/tillyhackswinners
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Ishaan Gulati
+  - name: Anay shekhar
+  - name: Varun S Surianarayanan

@@ -1,0 +1,21 @@
+id: focuslock
+name: FocusLock
+slug: focuslock
+tagline: FocusLock uses AI to watch you study through your webcam — not your screen. Compete with
+  friends in real-time, unlock achievements, buy new skins, share your wi
+summary: FocusLock received the 1st Overall award at UCLA Hack on the Hill (HOTH) XIII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jxdai2007/FocusLock
+demo_url: null
+video_url: https://www.youtube.com/embed/8qsZxIPn3W0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/399/575/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Jollen Dai

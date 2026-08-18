@@ -1,0 +1,14 @@
+id: image-magician-reddit-mod-tools-and-migrated-apps-hackathon
+project_id: image-magician
+hackathon_id: reddit-mod-tools-and-migrated-apps-hackathon
+submission_url: https://devpost.com/software/image-magician
+source:
+  platform: devpost
+  url: https://devpost.com/software/image-magician
+awards:
+  - type: category-winner
+    title: Best Ported Data API App
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

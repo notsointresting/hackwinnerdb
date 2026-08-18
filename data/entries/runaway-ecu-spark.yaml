@@ -1,0 +1,16 @@
+id: runaway-ecu-spark
+project_id: runaway
+hackathon_id: ecu-spark
+submission_url: https://devpost.com/software/runaway-jgdyuv
+source:
+  platform: devpost
+  url: https://devpost.com/software/runaway-jgdyuv
+awards:
+  - type: third-place
+    title: 3rd Place AWS Track
+  - type: second-place
+    title: 2nd Place General Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

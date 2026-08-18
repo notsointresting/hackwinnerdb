@@ -1,0 +1,22 @@
+id: dialogue-fastcare
+name: Dialogue FastCare
+slug: dialogue-fastcare
+tagline: "Dialogue FastCare turns AI intake into provider-ready clinical packets, helping clinicians
+  resolve more patients faster while keeping every medical decision in "
+summary: Dialogue FastCare received the Dialogue Challenge award at MPC Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dev-smurf/dialogue-mpc.git
+demo_url: null
+video_url: https://www.youtube.com/embed/WcLcgn-nRzk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/720/003/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - mongodb
+builders:
+  - name: Olivier Dussault
+  - name: Antoine Boudreau
+  - name: Gabriel
+  - name: Nazarie Miron

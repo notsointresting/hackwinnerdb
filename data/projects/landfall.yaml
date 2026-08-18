@@ -1,0 +1,23 @@
+id: landfall
+name: LandFall
+slug: landfall
+tagline: A Mixed Reality Table Top experience that uses World Labs Marble to generate a table top
+  environment to play a multiplayer experiences.
+summary: LandFall received the Best Storytelling & Entertainment Project Runner-Up award at Worlds
+  in Action Hack [02-LA] in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/wrTdbcxOBac
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/944/505/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - unity
+builders:
+  - name: Sushant Srikrish
+  - name: Finley Yuheng Sun
+  - name: hc tsui

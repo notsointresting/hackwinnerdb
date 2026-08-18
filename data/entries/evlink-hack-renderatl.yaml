@@ -1,0 +1,14 @@
+id: evlink-hack-renderatl
+project_id: evlink
+hackathon_id: hack-renderatl
+submission_url: https://devpost.com/software/evlink
+source:
+  platform: devpost
+  url: https://devpost.com/software/evlink
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API || Gift card
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

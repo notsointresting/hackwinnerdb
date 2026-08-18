@@ -1,0 +1,27 @@
+id: clearcomms
+name: ClearComms
+slug: clearcomms
+tagline: Fully offline AI that converts noisy radio communication into accurate transcripts and
+  structured incident summaries. Optimized to run locally on Qualcomm AI la
+summary: ClearComms received the 2nd Place - Qualcomm Track award at MadData26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pranav-singh1/clearcomms
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/361/975/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - fastapi
+  - llama
+  - python
+  - pytorch
+  - react
+  - typescript
+  - whisper
+builders:
+  - name: Adit Singh
+  - name: Pranav Singh
+  - name: Aagam Sogani

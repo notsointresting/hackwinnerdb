@@ -1,0 +1,25 @@
+id: operation-black-vault
+name: Operation Black Vault
+slug: operation-black-vault
+tagline: Browser-based cybersecurity escape-room CTF where players infiltrate a corrupt bank, solve
+  various hands-on challenges, and uncover hidden evidence. "Infiltrate
+summary: Operation Black Vault received the Golden Project (1st Place) award at MIT BWSI Cyber
+  Operations Cohort Hackathon 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/cF_miySbIKI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/022/262/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - infrastructure
+technologies:
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: Vincent Huynh
+  - name: Gabriel Sharipov
+  - name: Aakash Jhingran
+  - name: Omya Tomar

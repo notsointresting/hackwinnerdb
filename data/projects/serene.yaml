@@ -1,0 +1,25 @@
+id: serene
+name: Serene
+slug: serene
+tagline: Serene is an AI-powered mental health companion that predicts college student stress peaks
+  from their schedule and connects them to support before crisis hits.
+summary: Serene received the NorthOaks Health Track Winner award at LionHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AlameenW/Serene
+demo_url: null
+video_url: https://www.youtube.com/embed/XuKOumkaAm4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/495/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - vercel
+builders:
+  - name: David Bestman
+  - name: Alameen Adeku
+  - name: Sofia

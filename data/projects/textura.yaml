@@ -1,0 +1,25 @@
+id: textura
+name: Textura
+slug: textura
+tagline: Textura — Bringing handwritten Greek history back to life through AI-powered transcription,
+  modernisation, and translation of historical and family Greek docume
+summary: "Textura received the Product Bundle by Mind the Product award at Mind the Product presents
+  World Product Day: Everyone Ships Now in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/DFNzagafDfQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/714/495/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - cloudflare
+  - react
+  - stripe
+  - supabase
+  - typescript
+builders:
+  - name: Philip Papadopoulos

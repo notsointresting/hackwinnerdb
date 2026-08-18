@@ -1,0 +1,28 @@
+id: hestia-find-your-home
+name: "Hestia: find your home"
+slug: hestia-find-your-home
+tagline: Extends Rightmove with enhanced filtering options, AI-powered search tools, and improved
+  data visualisations to help you find your perfect home.
+summary: "Hestia: find your home received the Best Overall award at Bath Hack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/CharlieGroves/bath-hack-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/_nQJitkF6Mg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/507/132/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - postgresql
+  - python
+  - pytorch
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Aonghus Cooke
+  - name: Lachlan Horn
+  - name: Christian Henderson
+  - name: Charlie Groves

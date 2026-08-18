@@ -1,0 +1,14 @@
+id: bene-hack-to-the-future-presented-by-aisc-uw
+project_id: bene
+hackathon_id: hack-to-the-future-presented-by-aisc-uw
+submission_url: https://devpost.com/software/bene-p8zkot
+source:
+  platform: devpost
+  url: https://devpost.com/software/bene-p8zkot
+awards:
+  - type: track-winner
+    title: Best of The Ignored Problems Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

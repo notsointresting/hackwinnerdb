@@ -1,0 +1,22 @@
+id: dollar-dash
+name: Dollar Dash
+slug: dollar-dash
+tagline: "Turning classrooms into live markets: Where kids trade, learn, and master their financial future"
+summary: "Dollar Dash received the MLH: Best Use of ElevenLabs award at Innovation Hacks 2.0 - 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/WillBlair/dollardash
+demo_url: null
+video_url: https://www.youtube.com/embed/IWW6IgdAj5A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/111/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - elevenlabs
+  - react
+builders:
+  - name: Jay Rao
+  - name: Anushka Raghavendra
+  - name: Will Blair

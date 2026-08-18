@@ -1,0 +1,26 @@
+id: threatflix
+name: threatFlix
+slug: threatflix
+tagline: "threatFlix transforms raw application telemetry into MITRE ATT&CK-mapped investigations
+  using deterministic detection, behavioral anomaly scoring, attack graph "
+summary: threatFlix received the 1st Place Winner award at SS Hacker Team Cybersecurity GLOBAL
+  Challenge 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/scienstien/threatFlix
+demo_url: null
+video_url: https://www.youtube.com/embed/yQHF8VAp0P4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/751/263/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: Atharva Jaiswal
+  - name: scienstien__yt .
+  - name: parth jaiswal

@@ -1,0 +1,23 @@
+id: zerocmo-ai-cmo-smarter-every-week
+name: zeroCMO - AI CMO. Smarter every week
+slug: zerocmo-ai-cmo-smarter-every-week
+tagline: AI CMO. Onboarded before you arrive. Smarter every week you stay.
+summary: zeroCMO - AI CMO. Smarter every week received the Best Use Case of Akash award at Loop
+  Engineering Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/S1YuFRBj2B8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/917/745/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - claude
+  - sqlite
+  - typescript
+builders:
+  - name: yamancan can
+  - name: d0x471b ;

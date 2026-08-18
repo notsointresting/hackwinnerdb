@@ -1,0 +1,22 @@
+id: maku
+name: Maku
+slug: maku
+tagline: An AI-powered study companion that tests understanding through explanation, identifies
+  conceptual gaps, and turns them into targeted study material.
+summary: Maku received the 2nd Place Overall — Innovation Excellence Award award at Girls In STEM
+  Global Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/gitswara/maku
+demo_url: null
+video_url: https://www.youtube.com/embed/6adykbxDjzg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/966/520/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - javascript
+builders:
+  - name: Swara Kadam

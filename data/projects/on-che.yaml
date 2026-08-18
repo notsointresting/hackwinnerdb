@@ -1,0 +1,21 @@
+id: on-che
+name: On-Che (오늘의 체질)
+slug: on-che
+tagline: "On-Che is a Korean medicine-inspired daily wellness coach that combines body type and
+  today’s condition to give personalized guidance for food, movement, mood, "
+summary: On-Che (오늘의 체질) received the Best Idea Award award at Changbal Innovation Hack 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Byeongjoo Ahn
+  - name: JungBok Cho
+  - name: 연수 정

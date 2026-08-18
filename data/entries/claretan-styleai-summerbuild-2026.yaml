@@ -1,0 +1,14 @@
+id: claretan-styleai-summerbuild-2026
+project_id: claretan-styleai
+hackathon_id: summerbuild-2026
+submission_url: https://devpost.com/software/styleai-m98fs1
+source:
+  platform: devpost
+  url: https://devpost.com/software/styleai-m98fs1
+awards:
+  - type: category-winner
+    title: Best UI/UX
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

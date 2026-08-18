@@ -1,0 +1,26 @@
+id: ems
+name: EMS
+slug: ems
+tagline: 8 de cada 10 cenotes en Quintana Roo ya están contaminados. Nosotros construimos una
+  plataforma web con IA que analiza variables ecológicas con la NOM-001-SEMAR
+summary: EMS received the Tercer Lugar award at U-Hacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/JPPYeUmBmTI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/701/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - azure
+  - fastapi
+  - nextjs
+  - python
+  - react
+builders:
+  - name: nicolás juárez
+  - name: Victor Ruiz
+  - name: JimenaCamacho
+  - name: mxyen

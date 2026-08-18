@@ -1,0 +1,19 @@
+id: spark
+name: Spark
+slug: spark
+tagline: 3D environment of your fav memories. Captured by Rover.
+summary: Spark received the SummerHacks 1st Place award at SummerHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sai3000pro/spark
+demo_url: null
+video_url: https://www.youtube.com/embed/s5GVI3ibZUA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/076/376/datas/gallery.jpg
+categories:
+  - climate
+technologies: []
+builders:
+  - name: Matthew Sakhno
+  - name: Jack Le
+  - name: Sai Jilla
+  - name: Aman Shah

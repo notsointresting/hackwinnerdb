@@ -1,0 +1,21 @@
+id: lungoc-lung-cancer-risk-prediction-system-analysis-tool
+name: LungOC - Lung Cancer Risk Prediction System Analysis Tool
+slug: lungoc-lung-cancer-risk-prediction-system-analysis-tool
+tagline: AI-powered lung cancer malignancy risk assessment tool combining deep learning with
+  clinical risk factors
+summary: LungOC - Lung Cancer Risk Prediction System Analysis Tool received the Sony Wireless
+  Headphones award at BioHacks 2026 in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/hkadakia05/LungOC
+demo_url: null
+video_url: https://www.youtube.com/embed/rlhT1qbFOBE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/396/003/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - python
+builders:
+  - name: Heli Kadakia

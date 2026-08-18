@@ -1,0 +1,16 @@
+id: uhsp-datathon-data-snax-datathon-in-st-louis
+project_id: uhsp-datathon
+hackathon_id: data-snax-datathon-in-st-louis
+submission_url: https://devpost.com/software/uhsp-datathon
+source:
+  platform: devpost
+  url: https://devpost.com/software/uhsp-datathon
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+  - type: first-place
+    title: Gift Card 1st Place Open
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

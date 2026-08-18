@@ -1,0 +1,22 @@
+id: doodlpop
+name: Doodlpop
+slug: doodlpop
+tagline: From idea to illustrated storyboard in minutes — describe your story, refine your script,
+  and let AI generate every panel. Edit and regenerate until it's yours.
+summary: Doodlpop received the RIOT IN THE GALLERY award at SharkHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Reghunaath/doodlpop
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/532/983/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - social-impact
+technologies:
+  - typescript
+  - vercel
+builders:
+  - name: Srinivasan Raghavan
+  - name: Reghunaath Ajith Kumar Ahila

@@ -1,0 +1,14 @@
+id: qariin-rutgers-mtc-code-for-impact-hackathon
+project_id: qariin
+hackathon_id: rutgers-mtc-code-for-impact-hackathon
+submission_url: https://devpost.com/software/qariin
+source:
+  platform: devpost
+  url: https://devpost.com/software/qariin
+awards:
+  - type: track-winner
+    title: Disaster Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

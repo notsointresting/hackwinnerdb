@@ -1,0 +1,24 @@
+id: frenlin
+name: Frenlin
+slug: frenlin
+tagline: VS Code helps you write code. Copilot helps you write faster. We help you break problems
+  down through conversation.
+summary: Frenlin received the Most Entertaining Pitch award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pranav-joshi-fintech/frenlin
+demo_url: null
+video_url: https://www.youtube.com/embed/M2OpMdlq9Bw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/769/371/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - flask
+  - openai
+  - python
+  - typescript
+  - whisper
+builders:
+  - name: Pranav Joshi
+  - name: Ilyaas Ait Simmou

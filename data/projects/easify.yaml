@@ -1,0 +1,24 @@
+id: easify
+name: Easify
+slug: easify
+tagline: Find the right sponsor-company fit in minutes.
+summary: Easify received the Codex $100 Credit award at Hack Days CUET in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/towhid146/Easify.git
+demo_url: null
+video_url: https://www.youtube.com/embed/nIAhkMp8T2E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/843/133/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - javascript
+  - openai
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Towhidul Islam Rizvi

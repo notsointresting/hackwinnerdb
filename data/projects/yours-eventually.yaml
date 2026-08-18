@@ -1,0 +1,21 @@
+id: yours-eventually
+name: Yours, Eventually
+slug: yours-eventually
+tagline: letters to strangers
+summary: Yours, Eventually received the Best Use of Reve award at SummerHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/liuandy1207/summerhacks2026/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/075/739/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - openai
+  - sql
+  - supabase
+builders:
+  - name: Andy Liu
+  - name: Ema Mylvaganam

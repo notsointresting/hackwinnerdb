@@ -1,0 +1,23 @@
+id: qa-rehearsal-theater
+name: QA Rehearsal Theater
+slug: qa-rehearsal-theater
+tagline: See how real users will use your app — every build, before you ship. AI personas rehearse
+  and report the one biggest fix.
+summary: QA Rehearsal Theater received the 3rd Place award at Changbal Innovation Hack 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/VxcnNPXbCbQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/799/156/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - docker
+  - python
+  - react
+builders:
+  - name: Seon-ho Kim

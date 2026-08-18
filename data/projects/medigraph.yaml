@@ -1,0 +1,23 @@
+id: medigraph
+name: MediGraph
+slug: medigraph
+tagline: Your medications, safety-checked by AI agents that reason through your body's own chemistry
+  — not a lookup table.
+summary: MediGraph received the Agentic AI track - 2nd place award at JacHacks Spring in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SoujanyaChatti/MediGraph
+demo_url: null
+video_url: https://www.youtube.com/embed/8B1SQwvSf9w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/683/084/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - fintech
+technologies:
+  - groq
+  - llama
+  - python
+  - react
+builders:
+  - name: Soujanya Chatti

@@ -1,0 +1,19 @@
+id: biochar
+name: BioChar
+slug: biochar
+tagline: From Smoke to Soil
+summary: "BioChar received the Best-of-the-Rest (x2) award at The Climate Change-Makers Challenge:
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zzEOd4-NWLo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/539/310/datas/gallery.jpg
+categories:
+  - social-impact
+technologies: []
+builders:
+  - name: Akshat Shende
+  - name: Ananya Gupta
+  - name: Anushka Shende

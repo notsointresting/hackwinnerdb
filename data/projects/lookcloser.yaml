@@ -1,0 +1,20 @@
+id: lookcloser
+name: LookCloser
+slug: lookcloser
+tagline: A multi-agent safety net for incidental imaging findings, because 1 in 5 follow-ups never
+  happen, and no rule engine can read a visit note to know why.
+summary: LookCloser received the 1st Prize award at Agents Assemble - The Healthcare AI Endgame in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/0xNoramiya/lookcloser-mcp
+demo_url: null
+video_url: https://www.youtube.com/embed/hMFO7cOxq0M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/660/489/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - python
+builders:
+  - name: Rifqi Haikal

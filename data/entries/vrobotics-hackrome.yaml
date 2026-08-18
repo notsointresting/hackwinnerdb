@@ -1,0 +1,14 @@
+id: vrobotics-hackrome
+project_id: vrobotics
+hackathon_id: hackrome
+submission_url: https://devpost.com/software/vrobotics
+source:
+  platform: devpost
+  url: https://devpost.com/software/vrobotics
+awards:
+  - type: other
+    title: Cato AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: scraptech
+name: ScrapTech
+slug: scraptech
+tagline: ScrapTech Syndicate uses AI to scan your old tech. It instantly tells you whether to
+  revive, salvage, or recycle it so you can fight e-waste, save carbon, and f
+summary: ScrapTech received the 1st Place award at JagHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/CisnerosCodes/Scrap-Tech-Syndicate
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - climate
+technologies:
+  - typescript
+builders:
+  - name: Ash Cisneros

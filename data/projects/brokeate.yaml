@@ -1,0 +1,21 @@
+id: brokeate
+name: BROKEATE
+slug: brokeate
+tagline: INVERTIR SIN DEJAR DE ENTENDER
+summary: BROKEATE received the Primer lugar award at Agentic Scale in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/raydan90s/BROKEATE-APP
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react-native
+builders:
+  - name: Diego Parrales
+  - name: Miguel Medina
+  - name: Erick Murillo
+  - name: Jonathan Ramos

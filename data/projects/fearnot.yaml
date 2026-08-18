@@ -1,0 +1,22 @@
+id: fearnot
+name: FearNot!
+slug: fearnot
+tagline: Inspired by SkipIt's IP where people can skip scenes in movies that trigger their personal
+  trauma; we designed a Proof of Concept that allows people to determin
+summary: FearNot! received the Skipit Internship award at HackHealth 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KunjJoshi/trigger-detect
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/447/153/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - creative-tools
+technologies:
+  - flask
+  - javascript
+builders:
+  - name: Kunj Joshi
+  - name: Justin Feldman

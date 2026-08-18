@@ -1,0 +1,29 @@
+id: legalens
+name: LegaLens
+slug: legalens
+tagline: "Legal clarity on demand: Scan, negotiate, and rewrite with confidence."
+summary: LegaLens received the Google - Build with AI award at Hack Canada 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/derek750/LegaLens
+demo_url: null
+video_url: https://www.youtube.com/embed/2TNx1l9Sy68
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/811/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - google-cloud
+  - javascript
+  - langchain
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Derek Lau
+  - name: Serour Serour
+  - name: Sasha M.
+  - name: Layton Lin

@@ -1,0 +1,24 @@
+id: deepfake-shield-ai
+name: DEEPFAKE SHIELD AI
+slug: deepfake-shield-ai
+tagline: DeepFake Shield AI — Detect Truth. Defend Reality. Advanced AI-powered media forensics to
+  identify deepfakes, manipulated content, and misinformation in real ti
+summary: DEEPFAKE SHIELD AI received the Google Swag Kits award at Build with AI Hack Days @UITS in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LUZAYER/uitsminihackathon2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/663/341/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - firebase
+  - gemini
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Reyazul Islam

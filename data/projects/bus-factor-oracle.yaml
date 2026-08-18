@@ -1,0 +1,20 @@
+id: bus-factor-oracle
+name: Bus Factor Oracle
+slug: bus-factor-oracle
+tagline: Knowledge concentration risk is invisible until a person leaves. This agent tells you which
+  parts of your codebase are only known to one person.
+summary: "Bus Factor Oracle received the Contribute Track: A qualified Merged Merge Request award at
+  GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Matthew Gaiser

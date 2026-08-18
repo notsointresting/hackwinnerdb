@@ -1,0 +1,18 @@
+id: ghostext
+name: GhosText
+slug: ghostext
+tagline: Encrypt and decrypt messages directly in your terminal using secure symmetric encryption
+  (Fernet) derived from a auto-generated password. GhostText ensures that
+summary: GhosText received the KYXGO Innovator Award award at Kyxgo hack by Aditya Rai & Yash  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dunkel2heit/GhostText
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/677/686/datas/medium.jpg
+categories:
+  - cybersecurity
+technologies:
+  - python
+builders:
+  - name: Mohamed Rabie Sabbabi

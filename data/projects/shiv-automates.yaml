@@ -1,0 +1,22 @@
+id: shiv-automates
+name: Shiv Automates
+slug: shiv-automates
+tagline: The outbound sales system collapsed. Shiv Automates rebuilds it — one AI agent researches,
+  calls, scores, and follows up with a personalized video. Zero humans.
+summary: "Shiv Automates received the 1st Prize award at NO//CODE : BUILD CHAOS in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Shiv258/shiv
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Shiv258 Arora

@@ -1,0 +1,14 @@
+id: rehab-flow-hack-msa
+project_id: rehab-flow
+hackathon_id: hack-msa
+submission_url: https://devpost.com/software/rehab-flow
+source:
+  platform: devpost
+  url: https://devpost.com/software/rehab-flow
+awards:
+  - type: first-place
+    title: Main Track - 1st Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

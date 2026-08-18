@@ -1,0 +1,27 @@
+id: veryfi
+name: Veryfi
+slug: veryfi
+tagline: Veryfi detects misinformation and deepfakes in real-time across web, social media, and
+  media files, providing AI-powered, explainable, and community-backed veri
+summary: Veryfi received the [MLH] Best Use of MongoDB Atlas award at HackLondon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fid098/HackLondon2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/354/624/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - fastapi
+  - gemini
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Leena Abigail Dany
+  - name: Ayomide Ojediran
+  - name: Ishaan-k007
+  - name: Fidel Ehirim

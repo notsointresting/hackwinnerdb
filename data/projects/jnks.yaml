@@ -1,0 +1,25 @@
+id: jnks
+name: JNKS
+slug: jnks
+tagline: JNKS is an AI coach that watches your (missed) shots so your friends don’t have to.
+  Real-time feedback, form fixes, pro comparisons, and voice coaching that tak
+summary: JNKS received the Hacker's Choice Award award at PantherHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nathsmith-cs/JNKS
+demo_url: null
+video_url: https://www.youtube.com/embed/sJguYSnTAmg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/538/886/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - cybersecurity
+technologies:
+  - opencv
+  - react
+  - typescript
+builders:
+  - name: Sean Esla
+  - name: Kayode B
+  - name: Joshua Dowd
+  - name: Nate Smith

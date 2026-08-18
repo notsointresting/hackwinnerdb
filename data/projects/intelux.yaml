@@ -1,0 +1,24 @@
+id: intelux
+name: Intelux
+slug: intelux
+tagline: "Over 1 billion people live with visual impairment. Intelux gives them a voice for their
+  world: an AI-powered wearable device that provides audio descriptions of"
+summary: Intelux received the [MLH] Best Use of ElevenLabs award at WildHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aayush4515/intelux
+demo_url: null
+video_url: https://www.youtube.com/embed/SIyWcXNSy0w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/859/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - claude
+  - elevenlabs
+  - opencv
+  - python
+  - yolo
+builders:
+  - name: Aayush Acharya
+  - name: Dũng Nguyễn
+  - name: Ben DeJong

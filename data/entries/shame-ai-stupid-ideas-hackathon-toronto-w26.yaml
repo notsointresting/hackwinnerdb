@@ -1,0 +1,14 @@
+id: shame-ai-stupid-ideas-hackathon-toronto-w26
+project_id: shame-ai
+hackathon_id: stupid-ideas-hackathon-toronto-w26
+submission_url: https://devpost.com/software/shame-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/shame-ai
+awards:
+  - type: other
+    title: technical duh
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,19 @@
+id: lootboard
+name: LootBoard
+slug: lootboard
+tagline: One platform to connect all game developers and advertisers. Keep creative control, take
+  the loot you deserve.
+summary: LootBoard received the [Sponsored] Chatforce Track award at SOON Hackathon  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/whlpatricia/LootBoard
+demo_url: null
+video_url: https://www.youtube.com/embed/I5N-rbuMyYA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/733/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies: []
+builders:
+  - name: Patricia Wong
+  - name: Victoria Chernobay

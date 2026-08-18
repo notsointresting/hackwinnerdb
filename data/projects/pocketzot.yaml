@@ -1,0 +1,26 @@
+id: pocketzot
+name: PocketZot
+slug: pocketzot
+tagline: Use AI productively with PocketZot!
+summary: PocketZot received the Best Neuro Hack – Cognitive Science Association at UCI award at
+  IrvineHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/antsuh1028/PocketZot
+demo_url: null
+video_url: https://www.youtube.com/embed/JknUSpljYZo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/390/974/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - javascript
+  - openai
+  - python
+  - react
+  - sql
+builders:
+  - name: Jacobi Glenn
+  - name: Candice Lu
+  - name: Evie Nhat Vy Ngo
+  - name: Anthony Suh

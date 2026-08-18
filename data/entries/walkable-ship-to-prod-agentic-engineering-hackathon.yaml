@@ -1,0 +1,14 @@
+id: walkable-ship-to-prod-agentic-engineering-hackathon
+project_id: walkable
+hackathon_id: ship-to-prod-agentic-engineering-hackathon
+submission_url: https://devpost.com/software/walkable-e5o0j3
+source:
+  platform: devpost
+  url: https://devpost.com/software/walkable-e5o0j3
+awards:
+  - type: category-winner
+    title: Best use of Ghost
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

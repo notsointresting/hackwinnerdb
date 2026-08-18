@@ -1,0 +1,20 @@
+id: clean-vision
+name: Clean Vision
+slug: clean-vision
+tagline: 90% of energy waste is invisible. Clean Vision uses smart glasses to pinpoint electrical
+  leaks and suggest ways to cut facility power bills.
+summary: Clean Vision received the Best Clean Energy Solution [OneEthos] award at BloomKnights in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/spateluf04/CleanVision.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/576/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - gemini
+  - python
+builders:
+  - name: spateluf04 Patel
+  - name: Keyur Patel

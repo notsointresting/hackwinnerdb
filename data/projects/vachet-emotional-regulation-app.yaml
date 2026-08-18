@@ -1,0 +1,22 @@
+id: vachet-emotional-regulation-app
+name: "Vachet: Emotional Regulation App"
+slug: vachet-emotional-regulation-app
+tagline: A privacy-first emotional regulation app using calming tools, mood tracking, and
+  AI-assisted support to help users manage stress and anxiety.
+summary: "Vachet: Emotional Regulation App received the [Hackathons UK] Best Use of AI Agents on Arm
+  award at KentHackIt in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/yashaswineeraj/Vachet
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - cybersecurity
+technologies:
+  - python
+  - raspberry-pi
+  - swift
+builders:
+  - name: Yashaswinee Raj

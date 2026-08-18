@@ -1,0 +1,19 @@
+id: halo
+name: Halo
+slug: halo
+tagline: An AI teacher that can draw on, and interact with your screen.
+summary: Halo received the Second Place award at JecHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kavangill/jethacks
+demo_url: null
+video_url: https://www.youtube.com/embed/nmboKJn2uPU
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+builders:
+  - name: Kavan Gill
+  - name: Kevin Renjith
+  - name: Abhiram V

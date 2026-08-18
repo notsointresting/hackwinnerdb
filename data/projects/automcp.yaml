@@ -1,0 +1,17 @@
+id: automcp
+name: AutoMCP
+slug: automcp
+tagline: Automatically generate MCP servers from your APIs. Turn backend APIs into agent-ready MCP servers.
+summary: AutoMCP received the First Winner award at Hack Days in Bhopal 2.O in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lakshyabisen18/AutoMCP
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/115/697/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies: []
+builders:
+  - name: Lakshya Patel

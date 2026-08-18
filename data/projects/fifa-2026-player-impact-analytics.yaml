@@ -1,0 +1,19 @@
+id: fifa-2026-player-impact-analytics
+name: FIFA 2026 Player Impact Analytics
+slug: fifa-2026-player-impact-analytics
+tagline: Analyzed FIFA 2026 player data using SQL to identify top performers, evaluate team impact,
+  and generate data-driven football insights from 72 player statistics.
+summary: FIFA 2026 Player Impact Analytics received the Honorable Mentions award at AQX Sports
+  Analytics Data Bowl 1.0 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Cloudini-X/FIFA-2026-Player-Impact-Analytics
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/540/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - sql
+builders:
+  - name: Medini Hegde

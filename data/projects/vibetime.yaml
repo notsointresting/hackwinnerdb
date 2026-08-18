@@ -1,0 +1,20 @@
+id: vibetime
+name: VibeTime
+slug: vibetime
+tagline: VibeTime is a conversational calendar app. Talk to an integrated AI coach that auto-blocks
+  your day, enforces priorities, and uses the "Unblock Method" to crush
+summary: VibeTime received the 50$ Gift Card award at Build With AI Hack Days @DIU in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/683/350/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - supabase
+builders:
+  - name: Sajid Ali

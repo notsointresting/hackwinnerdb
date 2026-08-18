@@ -1,0 +1,22 @@
+id: new-age
+name: New Age
+slug: new-age
+tagline: New Age - an ARG built using various format to encrypt and hide information across
+  different platforms.
+summary: New Age received the [Main Track] Most Creative award at KentHackIt in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/spyder-8/Hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/Ir0ZHp4BqvE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/099/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - java
+  - python
+builders:
+  - name: Dan Bee
+  - name: Ender Scott
+  - name: Tyler lawrence

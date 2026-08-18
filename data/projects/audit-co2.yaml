@@ -1,0 +1,22 @@
+id: audit-co2
+name: Audit.Co2
+slug: audit-co2
+tagline: AI agents that turn months of manual ESG auditing into minutes. Drop in your invoices, get
+  back auditable Scope 1, 2 & 3 emissions. No spreadsheets. No consulta
+summary: Audit.Co2 received the AI Track (2nd Place) award at HackHayward 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HodeX7/Sustain.Co2
+demo_url: null
+video_url: https://www.youtube.com/embed/EkkqXKDAbPc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/733/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - enterprise
+technologies:
+  - langchain
+  - python
+builders:
+  - name: Akshar Sameer Mehta
+  - name: Richa Sapre

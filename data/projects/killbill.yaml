@@ -1,0 +1,19 @@
+id: killbill
+name: Killbill
+slug: killbill
+tagline: An agent that finds every recurring charge, judges which ones you actually use, and hands
+  you the cancellation emails ready to send. You keep 100% of what you s
+summary: Killbill received the Participation Prize award at JacHacks Spring in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/fozagtx/killBill
+demo_url: null
+video_url: https://www.youtube.com/embed/Q5hGeKgeuJk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/682/900/datas/gallery.jpg
+categories:
+  - healthcare
+  - fintech
+  - social-impact
+technologies: []
+builders:
+  - name: Ibrahim Pima

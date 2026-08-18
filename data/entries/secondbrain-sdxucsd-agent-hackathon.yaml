@@ -1,0 +1,14 @@
+id: secondbrain-sdxucsd-agent-hackathon
+project_id: secondbrain
+hackathon_id: sdxucsd-agent-hackathon
+submission_url: https://devpost.com/software/secondbrain-i47nzr
+source:
+  platform: devpost
+  url: https://devpost.com/software/secondbrain-i47nzr
+awards:
+  - type: second-place
+    title: "Track 1: Nozomio Labs (2nd place)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

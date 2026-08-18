@@ -1,0 +1,20 @@
+id: call-center
+name: Call Center
+slug: call-center
+tagline: Call center operations are handled easily
+summary: Call Center received the Google Swags award at Steph Hack Day in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - react
+builders:
+  - name: Protech Hub
+  - name: Enock Juma

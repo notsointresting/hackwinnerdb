@@ -1,0 +1,23 @@
+id: soleada-social
+name: Soleada Social
+slug: soleada-social
+tagline: Soleada Social is a platform that connects children, teens, and adults, respectively,
+  across communities and cultures in order to offer a supportive environment
+summary: Soleada Social received the [MLH] Best Use of Vultr award at SolHacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arjbarber/soleada
+demo_url: null
+video_url: https://www.youtube.com/embed/kqsVlH3OA5s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/596/datas/gallery.jpg
+categories:
+  - climate
+  - social-impact
+technologies:
+  - gemini
+  - react
+builders:
+  - name: Andrew Barber
+  - name: Kriti-Negi Negi
+  - name: ggreat317 Great
+  - name: Vivienne Hnin

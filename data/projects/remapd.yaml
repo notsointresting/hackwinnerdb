@@ -1,0 +1,27 @@
+id: remapd
+name: remapd
+slug: remapd
+tagline: Improving equity by bringing transparency to congressional district boundaries. Built for
+  stakeholders who are traditionally underrepresented in the creation of
+summary: remapd received the Finalist Award award at SP26 Cornell Claude Builders Club Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dlin14/remapd/
+demo_url: null
+video_url: https://www.youtube.com/embed/i4HB0eQS5wQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/606/010/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - nextjs
+  - python
+  - react
+  - typescript
+builders:
+  - name: Daniel Lin
+  - name: Alex Braverman
+  - name: thesantiagonadal

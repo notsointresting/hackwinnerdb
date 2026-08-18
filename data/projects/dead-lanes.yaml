@@ -1,0 +1,24 @@
+id: dead-lanes
+name: Dead Lanes
+slug: dead-lanes
+tagline: Dead Lanes is a zombie defense game where a custom Arduino controller is the game itself,
+  using one joystick, gesture controls, LEDs, and sound for real-time fe
+summary: Dead Lanes received the Third Place award at Hack-A-Damien in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tanishari/Hack-A-Damien-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/502/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - arduino
+  - claude
+  - python
+builders:
+  - name: Aditya Prasant Sripati
+  - name: jun061806-source Kwon
+  - name: Tanish Arique
+  - name: Harris Khan

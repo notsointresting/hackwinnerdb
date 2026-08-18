@@ -1,0 +1,23 @@
+id: paddle-pulse
+name: Paddle Pulse
+slug: paddle-pulse
+tagline: Where Precision meets Performance. Transform every swing to Professional with our Power and
+  motion detector technology Power through your Play and Push your Pic
+summary: Paddle Pulse received the Best Beginner Hack award at IrvineHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SihoChoii/pickleball_paddle_program
+demo_url: null
+video_url: https://www.youtube.com/embed/UR-f-P4IzoI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/054/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - c-plus-plus
+  - python
+builders:
+  - name: Merika Sudhirakuljai
+  - name: Rishi Dhaval Patel
+  - name: Daniel Jeorge  Adrayan
+  - name: SihoChoii Choi

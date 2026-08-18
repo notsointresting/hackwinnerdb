@@ -1,0 +1,14 @@
+id: geaux-wellness-2026-wics-hackathon
+project_id: geaux-wellness
+hackathon_id: 2026-wics-hackathon
+submission_url: https://devpost.com/software/geaux-wellness
+source:
+  platform: devpost
+  url: https://devpost.com/software/geaux-wellness
+awards:
+  - type: first-place
+    title: 1st Place Beginner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

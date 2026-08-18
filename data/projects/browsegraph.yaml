@@ -1,14 +1,14 @@
 id: browsegraph
 name: BrowseGraph
 tagline: In-browser GraphRAG over everything you have read
-summary: BrowseGraph builds a knowledge graph from browsing history and runs retrieval over it entirely inside the
-  browser, using a local Postgres build with vector search.
+summary: BrowseGraph builds a knowledge graph from browsing history and runs retrieval over it
+  entirely inside the browser, using a local Postgres build with vector search.
 solution: Embeddings and graph storage stay client-side, so history is never uploaded.
 website_url: https://www.browsegraph.com
 github_url: https://github.com/talperetz/browsegraph
 demo_url: https://www.browsegraph.com
 video_url: null
-image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/159/431/datas/medium.png
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/159/433/datas/gallery.jpg
 categories:
   - data
   - artificial-intelligence

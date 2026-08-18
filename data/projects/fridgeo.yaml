@@ -1,0 +1,19 @@
+id: fridgeo
+name: Fridgeo
+slug: fridgeo
+tagline: Highly visual recipe-finding app
+summary: Fridgeo received the 1st award at Ship In a day in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Viktor-Nedev/Fridgeo
+demo_url: null
+video_url: https://www.youtube.com/embed/xhMI34cJCNk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/403/970/datas/medium.png
+categories:
+  - other
+technologies:
+  - firebase
+  - svelte
+  - typescript
+builders:
+  - name: Viktor Nedev

@@ -1,0 +1,20 @@
+id: bridgeforge
+name: BridgeForge
+slug: bridgeforge
+tagline: Build bridges, break bridges, actually learn why they broke
+summary: BridgeForge received the 2nd Place award at The Mastery Mentors Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/calloolooh-ai/bridgeforge.git
+demo_url: null
+video_url: https://www.youtube.com/embed/0lWbPkVDNkw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/859/570/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: callooloo AI

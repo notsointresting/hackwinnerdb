@@ -1,0 +1,18 @@
+id: agri-lens
+name: Agri Lens
+slug: agri-lens
+tagline: Snap a leaf. Know the disease. Save the crop
+summary: Agri Lens received the Agradecimiento award at MVP Sprint [https://sprint.startlima.org/]
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/wkJBcEjX6mI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/229/213/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - gemini
+builders:
+  - name: Theedzith Reno J C -125

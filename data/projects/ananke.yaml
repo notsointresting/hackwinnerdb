@@ -1,0 +1,23 @@
+id: ananke
+name: Ananke
+slug: ananke
+tagline: "Ananke is a multi-platform productivity enforcement engine. It doesn't just store your
+  tasks—it actively ensures you complete them using an AI-fueled ecosystem "
+summary: Ananke received the Top 7–10 Projects - Rising Builder Awards award at LovHack Season 2 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/z7fkFuJklAc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/504/056/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Yelena Smirnov

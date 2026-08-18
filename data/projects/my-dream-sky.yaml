@@ -1,0 +1,16 @@
+id: my-dream-sky
+name: my dream sky
+slug: my-dream-sky
+tagline: write a dream and watch it turn into a star!
+summary: my dream sky received the Runners-up (Both Tracks) award at Code as a Canvas in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RikaGlitters/mydreamsky
+demo_url: null
+video_url: https://www.youtube.com/embed/o8gWPJXvCQk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/475/497/datas/gallery.jpg
+categories:
+  - media
+technologies:
+  - javascript
+builders: []

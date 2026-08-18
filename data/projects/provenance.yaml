@@ -1,0 +1,25 @@
+id: provenance
+name: Provenance
+slug: provenance
+tagline: Proving what's real
+summary: Provenance received the [MLH] Best Use of MongoDB Atlas award at cuHacking7 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/xz4X0Wvhl0s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/884/553/datas/medium.jpg
+categories:
+  - education
+  - infrastructure
+technologies:
+  - mongodb
+  - react-native
+  - rust
+  - solana
+  - typescript
+builders:
+  - name: Kevin Li
+  - name: Alan Cai
+  - name: Jacob Zheng
+  - name: Ryan Li

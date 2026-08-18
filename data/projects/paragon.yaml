@@ -1,0 +1,23 @@
+id: paragon
+name: Paragon
+slug: paragon
+tagline: Liquidation-free leverage for your xStock assets.
+summary: "Paragon received the Standout Idea Award (Discretionary & Split by Winners) award at
+  xStocks Hackathon EthCC: Market Open in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/narasim-teja/paragon
+demo_url: null
+video_url: https://www.youtube.com/embed/OaTLMjqXOh4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/521/555/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - foundry
+  - solidity
+  - supabase
+  - typescript
+builders:
+  - name: Kirill Rybkov
+  - name: NARASIMHA TEJA REDDY

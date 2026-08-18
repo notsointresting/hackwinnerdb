@@ -1,0 +1,24 @@
+id: b2travel
+name: B2Travel
+slug: b2travel
+tagline: "B2Travel uses semantic AI to organize travel inspirations from your browser bookmarks and
+  transforms them into an immersive 3D VR world you can explore through "
+summary: B2Travel received the [MLH] Best Use of ElevenLabs award at HackUPC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/laiamp/HackUPC-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/295/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - elevenlabs
+  - mongodb
+builders:
+  - name: bielupc Altimira
+  - name: Zhihao Chen
+  - name: Laia Mogas Pladevall
+  - name: Marc Rodríguez Vitolo

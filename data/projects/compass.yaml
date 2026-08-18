@@ -1,0 +1,26 @@
+id: compass
+name: Compass
+slug: compass
+tagline: "A parent receives an electricity shutoff notice and doesn't know where to start. Compass
+  turns a crisis described in plain words into a ready to file packet of "
+summary: Compass received the High School - Social Impact award at USAII® Global AI Hackathon 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaravjaichand/compass
+demo_url: null
+video_url: https://www.youtube.com/embed/2UQku8WDK1E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/779/168/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - groq
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Aarav Jaichand
+  - name: James Rakovsky
+  - name: ARNAV GARG

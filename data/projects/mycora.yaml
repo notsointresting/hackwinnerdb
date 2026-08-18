@@ -1,0 +1,19 @@
+id: mycora
+name: Mycora
+slug: mycora
+tagline: A bio-inspired monitoring system that uses plant root networks and fluid signals to detect
+  infrastructure damage early without batteries or electronic waste.
+summary: Mycora received the Top 10 Best Performers award at 1st Nature's Blueprint Ideathon 2026 !!
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/lYurw46-DZk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/843/686/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+  - infrastructure
+technologies: []
+builders:
+  - name: Reya attri

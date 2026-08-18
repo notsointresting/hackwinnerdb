@@ -1,0 +1,22 @@
+id: finsage
+name: FinSage
+slug: finsage
+tagline: FinSage is a multi-agent AI investing co-pilot designed for individual investors who
+  actively manage their own portfolios and want institutional-quality analysi
+summary: FinSage received the Track Winner award at Y-Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Diamondcutter1401/finsage/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/KL4pKwOyojM
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - claude
+  - python
+builders:
+  - name: Tung Le
+  - name: Jonathan Ennin

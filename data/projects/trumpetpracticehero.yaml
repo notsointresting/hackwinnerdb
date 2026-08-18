@@ -1,0 +1,19 @@
+id: trumpetpracticehero
+name: TrumpetPracticeHero
+slug: trumpetpracticehero
+tagline: "Music learning app FOR musicians, by musicians? Look no further! Complete with:
+  compatibility for ANY midi file, intonation gauge, automatic transposition, and "
+summary: TrumpetPracticeHero received the Most Creative Projects award at JecHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Arriators/TrumpetPracticeHero
+demo_url: null
+video_url: https://www.youtube.com/embed/i6L93Uhp8cY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/272/datas/gallery.jpg
+categories:
+  - education
+  - media
+technologies:
+  - javascript
+builders:
+  - name: Arnav Mathur

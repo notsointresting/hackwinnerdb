@@ -1,0 +1,14 @@
+id: horizon-southwest-mn-hacks
+project_id: horizon
+hackathon_id: southwest-mn-hacks
+submission_url: https://devpost.com/software/horizon-8i3u2h
+source:
+  platform: devpost
+  url: https://devpost.com/software/horizon-8i3u2h
+awards:
+  - type: second-place
+    title: 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

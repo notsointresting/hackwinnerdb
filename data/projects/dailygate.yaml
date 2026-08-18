@@ -1,0 +1,25 @@
+id: dailygate
+name: DailyGate
+slug: dailygate
+tagline: "DailyGate earns its autonomy: a team-management agent that self-learns from your approvals
+  and autonomously executes your team's busywork, so you focus on the w"
+summary: DailyGate received the Most Innovative Use of Agents (Guild.ai) award at Harness
+  Engineering Hack in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/SashaSkind/dailygate
+demo_url: null
+video_url: https://www.youtube.com/embed/B5a7SoK_7Bs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/763/998/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - sqlite
+  - typescript
+builders:
+  - name: SashaSkind Skinderev
+  - name: Tvisha Shah

@@ -1,0 +1,24 @@
+id: labkickstart
+name: LABKickstart
+slug: labkickstart
+tagline: It’s nobody’s fault that modern physics experimentation is broken
+summary: LABKickstart received the 1st Place Prize award at IDEA Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/d3vmeh/LABKickstart
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/617/492/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - javascript
+  - python
+builders:
+  - name: Dev Mehra
+  - name: Otis Tripp Wisehaupt
+  - name: Luke M
+  - name: Dice Jashnani

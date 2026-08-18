@@ -1,0 +1,27 @@
+id: aquapercent-ai
+name: AquaPercent AI
+slug: aquapercent-ai
+tagline: Predicting water failures before communities suffer.
+summary: AquaPercent AI received the Top 100 Finalist Award award at Moonshot Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Noufalthecoder/AquaPercent-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/hpaC4nF227c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/340/869/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - esp32
+  - fastapi
+  - mongodb
+  - nextjs
+  - python
+  - react
+  - react-native
+builders:
+  - name: MOHAMMED NOUFAL V IT
+  - name: Rohith R
+  - name: KAVINDRA K IT
+  - name: Revanth R

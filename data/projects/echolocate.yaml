@@ -1,0 +1,29 @@
+id: echolocate
+name: EchoLocate
+slug: echolocate
+tagline: Gamifying Digital Forensics with Autonomous AI Agents
+summary: EchoLocate received the Best Moonshot Hack - Bitcamp award at Bitcamp 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SujayCh07/bitcamp
+demo_url: null
+video_url: https://www.youtube.com/embed/7GeVlWojdWs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/558/595/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - openai
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Sujay Chava
+  - name: Abhinav Karumudi
+  - name: Pranay Kakkar
+  - name: Akshaj Nadimpalli

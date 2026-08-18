@@ -1,0 +1,21 @@
+id: brim-expense-intelligence
+name: Brim Expense Intelligence
+slug: brim-expense-intelligence
+tagline: Brim's AI finds waste, flags policy violations, and drafts the fix.
+summary: Brim Expense Intelligence received the 1st Place - Brim Financial Challenge award at MPC
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Kr0sy/MPC-HACKS
+demo_url: null
+video_url: https://www.youtube.com/embed/VsVfb5BQReM
+image_url: null
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+builders:
+  - name: Malek Khemakhem Malek
+  - name: Payal Rathod
+  - name: Sami Karam
+  - name: Qazal Motlaq

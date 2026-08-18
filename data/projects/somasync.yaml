@@ -1,0 +1,20 @@
+id: somasync
+name: SomaSync
+slug: somasync
+tagline: "SomaSync bridges academia and dev workflows. Using Azure AI, we sync Moodle syllabi
+  directly to your GitHub commits, gamifying your software engineering degree "
+summary: SomaSync received the Best App built on the themed track award at GITSYNC in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Vexx-bit/soma-sync.git
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - productivity
+technologies:
+  - azure
+builders:
+  - name: Samuel kangethe
+  - name: Memucan Kiprono

@@ -1,0 +1,24 @@
+id: frontdesk
+name: Frontdesk
+slug: frontdesk
+tagline: Support agents talk. Ours gets work done.
+summary: Frontdesk received the 2nd Place award at CSI Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/8Snasswt39Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/025/163/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - anthropic
+  - claude
+  - javascript
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+builders:
+  - name: Anne Nolte
+  - name: Adam Zheng

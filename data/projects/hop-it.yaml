@@ -1,0 +1,23 @@
+id: hop-it
+name: Hop-It
+slug: hop-it
+tagline: Draw levels on paper, play it and let AI remix it.
+summary: Hop-It received the Best Rookie Hack award at HackPrinceton Spring '26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/merkusvictory/platformer-level-builder
+demo_url: null
+video_url: https://www.youtube.com/embed/bCQjG7a_3lg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/415/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - vercel
+builders:
+  - name: Marcus Hilario
+  - name: Charbel Isaias Chavez Zavala
+  - name: Niharika Jadhav
+  - name: Azeez Shaik

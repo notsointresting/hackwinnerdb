@@ -1,0 +1,14 @@
+id: navora-techcommons-hacks
+project_id: navora
+hackathon_id: techcommons-hacks
+submission_url: https://devpost.com/software/navora-8zpcdx
+source:
+  platform: devpost
+  url: https://devpost.com/software/navora-8zpcdx
+awards:
+  - type: other
+    title: Participation
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

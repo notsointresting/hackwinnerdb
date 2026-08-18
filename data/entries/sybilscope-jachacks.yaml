@@ -1,0 +1,14 @@
+id: sybilscope-jachacks
+project_id: sybilscope
+hackathon_id: jachacks
+submission_url: https://devpost.com/software/sybilscope
+source:
+  platform: devpost
+  url: https://devpost.com/software/sybilscope
+awards:
+  - type: second-place
+    title: Fintech — 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,22 @@
+id: ai-debate-arena
+name: AI Debate Arena
+slug: ai-debate-arena
+tagline: Two AI personas argue any decision out loud, and you cast the final vote.
+summary: "AI Debate Arena received the Beginners Track award at HackHCC: Code Runners in 2026. This
+  record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/killingsworthaistudio-afk/AI-Debate-Arena
+demo_url: null
+video_url: https://www.youtube.com/embed/cTNflWerHUc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/698/188/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - elevenlabs
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Krhystopher Killingsworth

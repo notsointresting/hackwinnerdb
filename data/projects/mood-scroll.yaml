@@ -1,0 +1,23 @@
+id: mood-scroll
+name: Mood Scroll
+slug: mood-scroll
+tagline: Chrome extension for TikTok. Pick what you want (cooking, gym girls, brain rot) and AI
+  scrolls + auto-likes for you. FYP dialed in 10 min. Auto Scroll mode play
+summary: Mood Scroll received the Honorable Mention award at UCSB.network Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stefanocolmant/mood-scroll
+demo_url: null
+video_url: https://www.youtube.com/embed/RxaSkifN4Yc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/700/315/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cybersecurity
+  - enterprise
+technologies:
+  - gpt-4
+  - javascript
+  - openai
+  - typescript
+builders:
+  - name: Stephane Colmant

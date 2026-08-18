@@ -1,0 +1,19 @@
+id: floodly
+name: Floodly
+slug: floodly
+tagline: Every year, floods claim thousands of lives — most of them preventable. Floodly is the
+  interactive safety guide that turns fear into action, so when the water r
+summary: Floodly received the Certificate of Achievement award at Flood Safety in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/567/895/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Rishabh Bansal

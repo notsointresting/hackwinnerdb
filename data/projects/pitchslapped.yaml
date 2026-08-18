@@ -1,0 +1,23 @@
+id: pitchslapped
+name: PitchSlapped
+slug: pitchslapped
+tagline: PitchSlapped is a real-time Shark Tank simulator where you pitch your startup idea to 3
+  ruthless AI judges, each with a distinct personality and voice, who deba
+summary: PitchSlapped received the Best Domain Name from GoDaddy Registry award at HackDavis 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/blanklavender/pitch-slapped
+demo_url: null
+video_url: https://www.youtube.com/embed/7fmk6_BBZTY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/656/323/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - claude
+  - elevenlabs
+  - javascript
+  - react
+builders:
+  - name: Mahima Rudrapati
+  - name: Ananya Pandey

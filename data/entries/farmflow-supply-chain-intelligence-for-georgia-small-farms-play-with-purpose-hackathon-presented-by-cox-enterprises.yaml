@@ -1,0 +1,14 @@
+id: farmflow-supply-chain-intelligence-for-georgia-small-farms-play-with-purpose-hackathon-presented-by-cox-enterprises
+project_id: farmflow-supply-chain-intelligence-for-georgia-small-farms
+hackathon_id: play-with-purpose-hackathon-presented-by-cox-enterprises
+submission_url: https://devpost.com/software/farmflow-supply-chain-intelligence-for-georgia-small-farms
+source:
+  platform: devpost
+  url: https://devpost.com/software/farmflow-supply-chain-intelligence-for-georgia-small-farms
+awards:
+  - type: sponsor-prize
+    title: Agriculture - sponsored by Cox Farms
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

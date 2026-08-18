@@ -1,0 +1,22 @@
+id: lssd-thriftcycle
+name: LSSD - ThriftCycle
+slug: lssd-thriftcycle
+tagline: Giving every donation a smarter second life.
+summary: LSSD - ThriftCycle received the Goodwill Problem Statement Winner award at George Hacks x
+  United Nations "Reboot the Earth" Hackathon in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/thedanielju/georgehacks
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/592/550/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - creative-tools
+technologies:
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Daniel Ju

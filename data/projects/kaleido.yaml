@@ -1,0 +1,18 @@
+id: kaleido
+name: Kaleido
+slug: kaleido
+tagline: Switch AIs without losing your train of thought.
+summary: Kaleido received the Best Use of AI/ML award at LingHacks VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kunj-Parikh/Kaleido/
+demo_url: null
+video_url: https://www.youtube.com/embed/qiBwaBTrjBM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/771/530/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders: []

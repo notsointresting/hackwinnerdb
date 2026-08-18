@@ -1,0 +1,22 @@
+id: trust-flow
+name: Trust Flow
+slug: trust-flow
+tagline: TrustFlow automates microfinance loan repayment reminders in Nigeria via WhatsApp in Pidgin
+  & English. Powered by repayment history, saves officer time while ke
+summary: Trust Flow received the Build-Zero award at Build-zero unilag in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/G9bHtP2cwuY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/021/062/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - supabase
+  - twilio
+builders:
+  - name: Onigbinde Taiwo
+  - name: Samuel Olowu

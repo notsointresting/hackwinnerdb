@@ -1,0 +1,14 @@
+id: trumpetpracticehero-jechacks-2026
+project_id: trumpetpracticehero
+hackathon_id: jechacks-2026
+submission_url: https://devpost.com/software/trumpetpracticehero
+source:
+  platform: devpost
+  url: https://devpost.com/software/trumpetpracticehero
+awards:
+  - type: category-winner
+    title: Most Creative Projects
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

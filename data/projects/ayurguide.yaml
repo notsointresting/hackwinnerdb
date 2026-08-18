@@ -1,0 +1,23 @@
+id: ayurguide
+name: AyurGuide
+slug: ayurguide
+tagline: A modern digital platform that combines traditional Ayurvedic wisdom with modern technology
+  to provide personalized health consultations and recommendations.
+summary: "AyurGuide received the Second Place award at Creator Colosseum Startup Competition:
+  Student Founders. Real Startups.  in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/GaurRitika/DVA
+demo_url: null
+video_url: https://www.youtube.com/embed/vee0-QQQOBU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/700/625/datas/gallery.jpg
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - flask
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Ritika Gaur

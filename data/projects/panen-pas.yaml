@@ -1,0 +1,29 @@
+id: panen-pas
+name: Panen Pas
+slug: panen-pas
+tagline: Agria, a Telegram bot, tells rural Indonesian chili farmers when to sell before a local
+  harvest floods the village market and crashes prices that swing 3-4x a y
+summary: Panen Pas received the 3rd Place Agriculture & Food Systems Track award at Garuda Hacks 7.0
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/geraldman/gh7-umn
+demo_url: null
+video_url: https://www.youtube.com/embed/qkeUCBQf7Bo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/914/678/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - docker
+  - postgresql
+  - python
+  - react
+  - sql
+  - tailwind-css
+  - typescript
+builders:
+  - name: Abiyyu Soenan
+  - name: Gerald M
+  - name: Nathaniel Sachio
+  - name: Tam. Harmawan

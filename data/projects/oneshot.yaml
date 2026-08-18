@@ -1,0 +1,32 @@
+id: oneshot
+name: OneShot
+slug: oneshot
+tagline: One-shotting human demonstrations to LeRobot SO101 tasks.
+summary: OneShot received the Best Use of AMD Tech award at StarkHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Samuelford24/starkhacks
+demo_url: null
+video_url: https://www.youtube.com/embed/F950OFXm4zw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/551/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - docker
+  - fastapi
+  - google-cloud
+  - javascript
+  - opencv
+  - postgresql
+  - python
+  - react
+  - sql
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Divyansh Pramanick
+  - name: Samuel Ford
+  - name: Ujjawal Prasad

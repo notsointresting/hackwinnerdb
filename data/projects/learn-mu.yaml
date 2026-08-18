@@ -1,0 +1,19 @@
+id: learn-mu
+name: Learn-Mu
+slug: learn-mu
+tagline: An AI-powered study companion that learns how you learn — then personalizes notes, past
+  papers, quizzes, and explanations around your learning style.
+summary: Learn-Mu received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bhavish06/learn-mu
+demo_url: null
+video_url: https://www.youtube.com/embed/q6gf2dL0M0E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/952/892/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Bhavishsingh Joottun

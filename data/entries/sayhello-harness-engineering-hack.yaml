@@ -1,0 +1,14 @@
+id: sayhello-harness-engineering-hack
+project_id: sayhello
+hackathon_id: harness-engineering-hack
+submission_url: https://devpost.com/software/sayhello-y3lszj
+source:
+  platform: devpost
+  url: https://devpost.com/software/sayhello-y3lszj
+awards:
+  - type: category-winner
+    title: "Conquer with Context: Best Use of Airbyte's Agent Engine"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

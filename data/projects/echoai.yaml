@@ -1,0 +1,22 @@
+id: echoai
+name: EchoAI
+slug: echoai
+tagline: A MERN-based AI virtual assistant was engineered with Gemini API, JWT authentication,
+  MongoDB persistence, Cloudinary storage, voice APIs, RESTful services, use
+summary: EchoAI received the Participation award at Measure up in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/RajanyaSaha-27/EchoAI
+demo_url: null
+video_url: https://www.youtube.com/embed/s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/870/870/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - cloud
+technologies:
+  - gemini
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Rajanya Saha

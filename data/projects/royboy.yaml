@@ -1,0 +1,25 @@
+id: royboy
+name: RoyBoy
+slug: royboy
+tagline: Earthquake Visualizations at Your Fingertips!
+summary: RoyBoy received the UI/UX Design + Web Development track award at DataHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Jerry00261/EARFQUAKE
+demo_url: null
+video_url: https://www.youtube.com/embed/QbF240wDlDw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/592/501/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - mongodb
+  - python
+  - react
+builders:
+  - name: Jerry Barillas
+  - name: Kelvin Mai
+  - name: Royce Nguyen

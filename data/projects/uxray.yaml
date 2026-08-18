@@ -1,0 +1,20 @@
+id: uxray
+name: UXRay
+slug: uxray
+tagline: UXRay combines UX (User Experience) with X-Ray. Just as an X-ray reveals hidden problems
+  inside the body, UXRay scans interfaces and automatically repairs them.
+summary: UXRay received the Codex Credit of $100 award at Codex Community Meetup - Dhaka in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nafiz-codes/UXRay
+demo_url: null
+video_url: https://www.youtube.com/embed/VhzPjcIm6Hk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/829/027/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - javascript
+builders:
+  - name: NAFIZ SHAHRIAR SAMI

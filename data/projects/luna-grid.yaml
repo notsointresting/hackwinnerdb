@@ -1,0 +1,23 @@
+id: luna-grid
+name: Luna Grid
+slug: luna-grid
+tagline: Luna Grid is an interactive system that consists of a cabinet containing feminine products
+  that is linked to a live map for tracking feminine hygiene supplies (
+summary: "Luna Grid received the Track: Alchemy of the Earth (Social Impact/Sustainability) award at
+  DiamondHacks 2026 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/Rebecca-J7/luna-grid
+demo_url: null
+video_url: https://www.youtube.com/embed/RVD1Q93B7WY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/529/755/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - arduino
+  - react
+builders:
+  - name: Rebecca Jennings
+  - name: Anoushka Limaye
+  - name: Zehua Bao

@@ -1,0 +1,24 @@
+id: urgensys
+name: UrgenSys
+slug: urgensys
+tagline: Herramienta clínica para urgencias hospitalarias que prioriza pacientes automáticamente
+  basado en el estándar ESI
+summary: UrgenSys received the 3er Lugar award at Hackathon Troyano 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ChrisAvens/UrgenSys
+demo_url: null
+video_url: https://www.youtube.com/embed/DKDtf5-dWvw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/579/432/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - gemini
+  - sqlite
+  - typescript
+builders:
+  - name: Gael de Jesús Posada Hernández
+  - name: Gael Vivas
+  - name: Jafet1030
+  - name: Christian Avendaño

@@ -1,0 +1,24 @@
+id: solace-ai
+name: Solace.ai
+slug: solace-ai
+tagline: Solace.ai is a real-time AI voice companion that provides comfort for children in hospital
+  care, with a stuffed animal as its physical interface.
+summary: "Solace.ai received the Oracle: Technology in Service of Humanity award at HackUSF 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/MDiopp/Solace.ai
+demo_url: null
+video_url: https://www.youtube.com/embed/oaZEGE-M9wY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/506/594/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - openai
+  - python
+  - react
+builders:
+  - name: Madu Diop

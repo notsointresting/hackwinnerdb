@@ -1,0 +1,23 @@
+id: civicbrief
+name: CivicBrief
+slug: civicbrief
+tagline: We've built a highlight reel for democracy. Unbiased, easy to digest political content for
+  people who care about their country, but don't want to sit through ho
+summary: CivicBrief received the Claude Merch award at Claude Builder Club Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shreyashmishra/anthropic-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/bRM1qYuUTuc
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - claude
+builders:
+  - name: Eric Schilha
+  - name: Ansh Maru
+  - name: Daniel Lam
+  - name: Raghav Gupta

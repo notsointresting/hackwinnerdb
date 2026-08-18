@@ -1,0 +1,14 @@
+id: inbox-zero-ucla-hack-on-the-hill-hoth-xiii
+project_id: inbox-zero
+hackathon_id: ucla-hack-on-the-hill-hoth-xiii
+submission_url: https://devpost.com/software/inbox-zero-wa26c7
+source:
+  platform: devpost
+  url: https://devpost.com/software/inbox-zero-wa26c7
+awards:
+  - type: category-winner
+    title: Best AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

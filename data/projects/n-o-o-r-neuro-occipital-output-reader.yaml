@@ -1,0 +1,27 @@
+id: n-o-o-r-neuro-occipital-output-reader
+name: N.O.O.R. - Neuro-Occipital Output Reader
+slug: n-o-o-r-neuro-occipital-output-reader
+tagline: TLIS patients can't speak, move, or shift their eyes. NOOR turns thought into speech. The
+  user focuses on flickering tiles and EEG decodes which frequency their
+summary: N.O.O.R. - Neuro-Occipital Output Reader received the Health Care by SASE award at
+  Hackabull VII in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/xanbaba/noor
+demo_url: null
+video_url: https://www.youtube.com/embed/BQCIq2GFWgU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/618/486/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Saber Abuomar
+  - name: Zahid Hasan
+  - name: Khanbaba Fatullayev
+  - name: Mahmood Shanaah

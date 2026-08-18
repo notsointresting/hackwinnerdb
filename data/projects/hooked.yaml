@@ -1,0 +1,23 @@
+id: hooked
+name: Hooked
+slug: hooked
+tagline: An AI-powered FishDex that transforms fishing into conservation. Gamify your catches, get
+  hyper local insights, and track invasive species to protect our waterw
+summary: Hooked received the Best Use of Elastic Technology award at UNIHACK 2026, funded by the
+  European Union in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Valin-K/Hooked/
+demo_url: null
+video_url: https://www.youtube.com/embed/Xl9vsCxtX-U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/440/329/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - supabase
+builders:
+  - name: Valin-K Kennedy
+  - name: vaz yogananthan
+  - name: Declan
+  - name: Jasdyal

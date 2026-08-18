@@ -1,0 +1,23 @@
+id: routesforgood
+name: RoutesForGood
+slug: routesforgood
+tagline: A new way to deliver food shelf products.
+summary: RoutesForGood received the 3rd Place award at Tommie BuildFest in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/SonderCoding/routes-for-good
+demo_url: null
+video_url: https://www.youtube.com/embed/Ny9itXBAzAA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/347/641/datas/medium.png
+categories:
+  - healthcare
+  - social-impact
+technologies:
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Jack Sonder
+  - name: Luca Comba
+  - name: Joel Agbemadon
+  - name: Arthur Kennedy

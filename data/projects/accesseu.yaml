@@ -1,0 +1,23 @@
+id: accesseu
+name: AccessEU
+slug: accesseu
+tagline: "Democracy Without Barriers — A digital platform ensuring 80M Europeans with disabilities
+  can find accessible polling stations, get easy-read voting guides, and "
+summary: AccessEU received the 1st Place – Grand Prize award at Academia EU Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/664/477/datas/gallery.jpg
+categories:
+  - accessibility
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+builders:
+  - name: Harsh Raj
+  - name: Samir _
+  - name: Aliza Ashraff

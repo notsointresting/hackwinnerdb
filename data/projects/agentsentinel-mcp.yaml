@@ -1,0 +1,25 @@
+id: agentsentinel-mcp
+name: AgentSentinel-MCP
+slug: agentsentinel-mcp
+tagline: Autonomous multi-agent red-teaming for clinical AI — turns every MCP-native adversarial
+  test run into EU AI Act (Art. 9/12/15) compliance evidence.
+summary: AgentSentinel-MCP received the Honorable mention award at Github readme generation  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Vilsee/AgentSentinel-MCP
+demo_url: null
+video_url: https://www.youtube.com/embed/LfXafgl1f7E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/864/706/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - postgresql
+  - python
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Vilsee Kumar Shandilya

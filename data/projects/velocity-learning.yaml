@@ -1,0 +1,22 @@
+id: velocity-learning
+name: Velocity Learning
+slug: velocity-learning
+tagline: Empowering young learners globally through an AI platform that turns abstract science
+  lessons into instant, tailor-made videos.
+summary: Velocity Learning received the Best application within category award at Youth Code x AI in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/daURT0McAiM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/834/587/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - google-cloud
+  - python
+  - react
+builders:
+  - name: Sriram Mylavarapu

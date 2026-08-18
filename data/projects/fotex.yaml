@@ -1,0 +1,24 @@
+id: fotex
+name: FoTex
+slug: fotex
+tagline: "FoTex: The AI-driven, privacy-first LaTeX editor that keeps your research local and your
+  genius secure.."
+summary: FoTex received the Wild Card award at Cheesehacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Huaiyuan-Jing/fotex
+demo_url: null
+video_url: https://www.youtube.com/embed/a4SJC8ahcLo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/386/501/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - cybersecurity
+technologies:
+  - rust
+  - typescript
+builders:
+  - name: Sherry Xia
+  - name: HY Jing
+  - name: portable-platypus
+  - name: Yuxin Feng

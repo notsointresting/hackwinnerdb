@@ -1,0 +1,24 @@
+id: adhikaar-india-s-ai-welfare-copilot
+name: "Adhikaar: India’s AI Welfare Copilot"
+slug: adhikaar-india-s-ai-welfare-copilot
+tagline: AI-powered welfare copilot helping citizens discover government schemes, verify documents
+  with OCR, and auto-fill applications using voice in their local langua
+summary: "Adhikaar: India’s AI Welfare Copilot received the Best Use Of Gemini award at Code With
+  Gemini in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/Niss54/Right
+demo_url: null
+video_url: https://www.youtube.com/embed/3p5uJTIeVbI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/669/360/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies:
+  - docker
+  - python
+  - tailwind-css
+  - typescript
+builders:
+  - name: Niss maurya

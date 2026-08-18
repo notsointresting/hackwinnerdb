@@ -1,0 +1,19 @@
+id: boredom-buster
+name: Boredom Buster
+slug: boredom-buster
+tagline: It will display random photos and videos while you're working, making sure you're
+  constantly engaged in what you're doing!
+summary: Boredom Buster received the 3rd Place Overall award at BigRedHacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/The-EmRod/BoredomKiller.git
+demo_url: null
+video_url: https://www.youtube.com/embed/DVX17QIFL08
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/432/107/datas/gallery.jpg
+categories:
+  - ar-vr
+  - gaming
+  - media
+technologies: []
+builders:
+  - name: The-EmRod Rodriguez-Colon

@@ -1,0 +1,27 @@
+id: dora
+name: dora
+slug: dora
+tagline: Dora is an AI-powered travel companion that transforms how people explore new places.
+  Combining trip planning, local recommendations, transport, and translation
+summary: dora received the Best AI Integration award at SummerBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/prak0310/dora-travel-buddy1
+demo_url: null
+video_url: https://www.youtube.com/embed/GHQ3nfPRjn0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/200/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - transportation
+technologies:
+  - javascript
+  - python
+  - react
+  - supabase
+  - typescript
+  - whisper
+builders:
+  - name: Ka-ya-with-a-v Kavya
+  - name: Prakriti Muralidharan
+  - name: VLS005 Surya
+  - name: Latchiya Dhurga Raja

@@ -1,0 +1,19 @@
+id: avenoir
+name: Avenoir
+slug: avenoir
+tagline: The desire that memory could flow backward.
+summary: Avenoir received the Second Place award at The Vakathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BiswajitAcharya1/avenoir
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - swift
+builders:
+  - name: kiran bathala
+  - name: Biswajit Acharya
+  - name: Taksha Singh

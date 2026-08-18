@@ -1,0 +1,21 @@
+id: cut-the-crap
+name: Cut the Crap
+slug: cut-the-crap
+tagline: "Cut the Crap is a browser extension that saves you time by radically compressing bloated,
+  jargon-heavy text into the one honest sentence it was actually trying "
+summary: Cut the Crap received the 3rd place award at Dum, Duber and Dumber Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/884/254/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - openai
+builders:
+  - name: Clayton Luther Young
+  - name: Nathan Keith
+  - name: Rupert Hokada

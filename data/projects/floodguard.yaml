@@ -1,0 +1,17 @@
+id: floodguard
+name: Floodguard
+slug: floodguard
+tagline: A quick guide how to deal with floods. Prepations, survive, recovery and community reated
+  guidelines.
+summary: Floodguard received the Certificate of Achievement award at Flood Safety in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/556/064/datas/gallery.jpg
+categories:
+  - education
+technologies: []
+builders:
+  - name: Mughees RASHID

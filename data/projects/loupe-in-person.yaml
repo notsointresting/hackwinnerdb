@@ -1,0 +1,20 @@
+id: loupe-in-person
+name: Loupe - In Person
+slug: loupe-in-person
+tagline: Early-stage dementia steals confidence before it steals memory. Loupe quietly surfaces
+  information in the wearer's AR glasses view, so people keep their indepen
+summary: Loupe - In Person received the Most Novel award at UCI Design-a-thon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/204/datas/gallery.jpg
+categories:
+  - ar-vr
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Galen Jauss
+  - name: Jordan Netz

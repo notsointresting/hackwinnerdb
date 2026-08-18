@@ -1,0 +1,14 @@
+id: capcraft-ai-aqx-sports-analytics-data-bowl-1-0
+project_id: capcraft-ai
+hackathon_id: aqx-sports-analytics-data-bowl-1-0
+submission_url: https://devpost.com/software/capcraft-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/capcraft-ai
+awards:
+  - type: first-place
+    title: First Place Honors
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

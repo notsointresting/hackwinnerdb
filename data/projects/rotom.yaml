@@ -1,0 +1,24 @@
+id: rotom
+name: Rotom
+slug: rotom
+tagline: Rotom helps cities manage waste smarter with IoT and real-time data, enabling efficient
+  collection, optimized routes, and transparent operations for cleaner com
+summary: Rotom received the 2nd Place award at SISPIK HACKS 1.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mraihanaf/sispik-hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/7KY7M3IzfIw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/074/620/datas/gallery.jpg
+categories:
+  - iot
+technologies:
+  - c-plus-plus
+  - docker
+  - nextjs
+  - typescript
+builders:
+  - name: Muhammad Raihan Al Farizy
+  - name: Christine Meta
+  - name: Verrel Adriel Gunawan
+  - name: M.Azka A.R

@@ -1,0 +1,14 @@
+id: texas-data-center-location-explorer-bard-colorstack-computing-for-social-good
+project_id: texas-data-center-location-explorer
+hackathon_id: bard-colorstack-computing-for-social-good
+submission_url: https://devpost.com/software/texas-data-center-location-explorer
+source:
+  platform: devpost
+  url: https://devpost.com/software/texas-data-center-location-explorer
+awards:
+  - type: other
+    title: Bard Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

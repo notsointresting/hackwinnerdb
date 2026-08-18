@@ -1,0 +1,21 @@
+id: kozai
+name: KOZAI
+slug: kozai
+tagline: A smart text-to-speech and braille scanner helping blind people read any document fully offline.
+summary: KOZAI received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Shun-1109/Braille-prototype
+demo_url: null
+video_url: https://www.youtube.com/embed/1C1eb3vL3P4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/788/488/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - opencv
+  - python
+builders:
+  - name: Shun-1109 Galymuly

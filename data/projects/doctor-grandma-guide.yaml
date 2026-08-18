@@ -1,0 +1,23 @@
+id: doctor-grandma-guide
+name: Doctor Grandma Guide
+slug: doctor-grandma-guide
+tagline: Doctor Grandma Apothecary is a modern AI‑powered web app with a traditional apothecary
+  aesthetic. It provides instant, personalized wellness insights.
+summary: Doctor Grandma Guide received the Innovation Excellence Award award at Hack Days in Bhopal
+  2.O in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/117/618/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Pankaj Amrate

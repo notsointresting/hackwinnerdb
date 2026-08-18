@@ -1,0 +1,25 @@
+id: scribedoc
+name: ScribeDoc
+slug: scribedoc
+tagline: ScribeDoc is an ambient AI companion that listens to your doctor, translates complex
+  medical jargon into simple next steps, and instantly keeps your family in t
+summary: ScribeDoc received the Healthy Aging Challenge (NSERC SMAP CREATE) — Second Place award at
+  MacHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/hmani3/MacHacks-2026-ScribeDoc/tree/main
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/600/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Heeman Ijaz
+  - name: Benjamin Guo
+  - name: Mostafa Faghani

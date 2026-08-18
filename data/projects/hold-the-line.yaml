@@ -1,0 +1,21 @@
+id: hold-the-line
+name: Hold the Line
+slug: hold-the-line
+tagline: "Hold the Line is a financial literacy sim. You manage a checking account, student loans,
+  and investments in real time while handling bills, groceries, and live "
+summary: Hold the Line received the General Track 2nd Place award at HackKU26 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/XDTerminated/hackku_2026
+demo_url: null
+video_url: https://www.youtube.com/embed/oBYUlXtfLDA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/925/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - javascript
+  - unity
+builders:
+  - name: Sayam Gupta
+  - name: Alvin Moy
+  - name: Matthew Martin

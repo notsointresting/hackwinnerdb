@@ -1,0 +1,28 @@
+id: percept
+name: Percept
+slug: percept
+tagline: Using generative AI to improve short videos with Meta TRIBE v2 as a predicted
+  brain-engagement reward model.
+summary: Percept received the Finalist award at UC Berkeley AI Hackathon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/edrlu/Percept.git
+demo_url: null
+video_url: https://www.youtube.com/embed/qeZA_msdMEs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/806/511/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - claude
+  - opencv
+  - redis
+  - supabase
+  - typescript
+  - yolo
+builders:
+  - name: Sebastian Arellano-Rubach
+  - name: Dean Barrow
+  - name: Edward Lu
+  - name: Adrian Mittal

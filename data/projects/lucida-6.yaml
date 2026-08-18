@@ -1,0 +1,25 @@
+id: lucida-6
+name: Lucida - 6
+slug: lucida-6
+tagline: Breaks lessons into core concepts, simulates diverse student thinking, and predicts where
+  understanding will fail, before teaching begins.
+summary: Lucida - 6 received the Track 2 - EdTech (1st place) award at VikingHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/NotAT7600/Lucida
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/885/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - groq
+  - javascript
+  - python
+  - whisper
+builders:
+  - name: Aadi Tiwari
+  - name: Yuveer Sachdev

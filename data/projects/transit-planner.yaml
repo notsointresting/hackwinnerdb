@@ -1,0 +1,21 @@
+id: transit-planner
+name: Transit Planner
+slug: transit-planner
+tagline: Interactive transit design sandbox. Plan, optimize and visualize the next revolutionary
+  transit line at your fingertips.
+summary: Transit Planner received the Google - Build with AI award at Hack Canada 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/evanzyang91/transit-planner
+demo_url: null
+video_url: https://www.youtube.com/embed/SWgS5wDHnrA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/410/874/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - supabase
+builders:
+  - name: Fiona Fang
+  - name: Christopher Stevers
+  - name: evan
+  - name: Richard L

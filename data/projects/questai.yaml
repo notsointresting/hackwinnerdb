@@ -1,0 +1,23 @@
+id: questai
+name: QuestAI
+slug: questai
+tagline: High school is tough, but QuestAI makes it a game. It’s the AI planner that schedules your
+  passions first and breaks goals into daily levels, so you can ace you
+summary: QuestAI received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/pvL1nmaBQ-Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/779/094/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - google-cloud
+  - javascript
+  - react
+  - typescript
+builders:
+  - name: Ishaan Singh

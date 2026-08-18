@@ -1,0 +1,23 @@
+id: maestrosynth
+name: MaestroSynth
+slug: maestrosynth
+tagline: Control a synthesizer, conduct a symphony, jam and perform live without hardware.
+  Functional from any digital audio work station, on any audio plugin. A new way
+summary: MaestroSynth received the Best Overall Hack award at HackBU in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sanjit-g/MaestroSynth
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/411/526/datas/medium.png
+categories:
+  - fintech
+  - iot
+  - media
+technologies:
+  - python
+builders:
+  - name: Losera Naranjo
+  - name: Axel Larsson
+  - name: Sanjit Gunasekaran
+  - name: Reagan Simos

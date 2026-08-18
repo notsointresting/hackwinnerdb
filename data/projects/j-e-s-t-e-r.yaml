@@ -1,0 +1,18 @@
+id: j-e-s-t-e-r
+name: J.E.S.T.E.R
+slug: j-e-s-t-e-r
+tagline: "Conduct 3D holograms with your bare hands and command a wisecracking AI that talks back
+  and actually runs your PC. Tony Stark's JARVIS, reimagined as a jester, "
+summary: J.E.S.T.E.R received the 1st Prize award at Aethera Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/heeelol/jester
+demo_url: null
+video_url: https://www.youtube.com/embed/Ebt0xdvOKuo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/927/425/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - openai
+builders: []

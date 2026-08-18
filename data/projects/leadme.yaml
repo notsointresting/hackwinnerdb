@@ -1,0 +1,26 @@
+id: leadme
+name: LeadMe
+slug: leadme
+tagline: AI-powered self-navigating white cane for the visually impaired
+summary: LeadMe received the Hardware award at YHack Spring 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Kapitar/yhack26
+demo_url: null
+video_url: https://www.youtube.com/embed/9Jfd2hqdgIA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/910/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - elevenlabs
+  - opencv
+  - python
+  - yolo
+builders:
+  - name: Artem Kim
+  - name: Satchit Seth
+  - name: Sai Guvvala
+  - name: Justin Peng

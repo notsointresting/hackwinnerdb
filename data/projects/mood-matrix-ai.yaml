@@ -1,0 +1,23 @@
+id: mood-matrix-ai
+name: Mood matrix AI
+slug: mood-matrix-ai
+tagline: Our NLP-powered Emotion Engine transforms raw text into actionable emotional intelligence,
+  enabling real-time empathy at
+summary: Mood matrix AI received the Best Use of Gemini API award at IntelliAI Arena in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yash3396/MoodMatrix-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/732/354/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: ABHINAV UPADHYAY
+  - name: Yash Verma
+  - name: alok kumar

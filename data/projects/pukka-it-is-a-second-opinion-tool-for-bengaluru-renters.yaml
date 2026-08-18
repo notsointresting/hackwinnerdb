@@ -1,0 +1,24 @@
+id: pukka-it-is-a-second-opinion-tool-for-bengaluru-renters
+name: Pukka - It is a second-opinion tool for Bengaluru renters.
+slug: pukka-it-is-a-second-opinion-tool-for-bengaluru-renters
+tagline: Pukka is a second-opinion tool for Bengaluru renters. It checks listings against real
+  market data, flags risky rent/deposit patterns, and helps you avoid broker
+summary: "Pukka - It is a second-opinion tool for Bengaluru renters. received the Winner - Housing &
+  Rental Truth-Teller award at Hacknight Bengaluru: Build AI Agents in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/160/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - fastapi
+  - javascript
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Deepanshu S

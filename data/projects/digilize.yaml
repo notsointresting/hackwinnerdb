@@ -1,0 +1,21 @@
+id: digilize
+name: Digilize
+slug: digilize
+tagline: AI for business
+summary: Digilize received the Build-Zero award at Build-zero unilag in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Olagold-hackxx/Digilize/
+demo_url: null
+video_url: https://www.youtube.com/embed/jEcqktMnyTg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - gemini
+  - nextjs
+  - python
+builders:
+  - name: Abdulqoyyum Aileru

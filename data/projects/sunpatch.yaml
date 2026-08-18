@@ -1,0 +1,24 @@
+id: sunpatch
+name: Sunpatch
+slug: sunpatch
+tagline: "Sunpatch turns backyard growing into a local food network: optimize your farm, list your
+  harvest, and trade or buy from nearby growers."
+summary: Sunpatch received the Best Hack for Social Justice award at HackDavis 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/YK2fCPDKG9A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/436/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - react
+  - react-native
+  - tailwind-css
+  - typescript
+builders:
+  - name: Oleks G
+  - name: Luca Verweyen
+  - name: Sabawoon Hakimi

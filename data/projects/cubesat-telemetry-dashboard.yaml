@@ -1,0 +1,18 @@
+id: cubesat-telemetry-dashboard
+name: CubeSat Telemetry Dashboard
+slug: cubesat-telemetry-dashboard
+tagline: CubeSat dashboard that simulates anomalies and makes reports.
+summary: CubeSat Telemetry Dashboard received the Runner-up Prize award at vsHacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shaymaa0420/cubesat-telemetry
+demo_url: null
+video_url: https://www.youtube.com/embed/zXWSfUgqspE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/888/288/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Shaymaa Mourchid

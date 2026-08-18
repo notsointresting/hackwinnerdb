@@ -1,0 +1,19 @@
+id: linkup
+name: LinkUP
+slug: linkup
+tagline: "LinkUP: Hyperlocal gig platform. Post any job, find help nearby. Any skill. Any task.
+  Right around you. Built with Next.js + Supabase."
+summary: LinkUP received the Best Use of the Google Gemini API award at Hack Days in Jabalpur in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/116/739/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+builders:
+  - name: Jayant Chaphekar

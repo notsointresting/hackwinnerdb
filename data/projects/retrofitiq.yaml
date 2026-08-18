@@ -1,0 +1,26 @@
+id: retrofitiq
+name: RetroFitIQ
+slug: retrofitiq
+tagline: RetrospectIQ uses AI to analyze historical building permits, helping contractors and cities
+  accelerate retrofits, streamline approvals, reduce costs, and cut bu
+summary: RetroFitIQ received the Places & Spaces - sponsored by Mayor's Office of Sustainability and
+  Resilience award at Play with Purpose Hackathon presented by Cox Enterprises in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mikeiioo/RetroFIT
+demo_url: null
+video_url: https://www.youtube.com/embed/IPNAcn2B-Ds
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/782/534/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - claude
+  - mongodb
+  - openai
+  - typescript
+builders:
+  - name: Michael Abraham
+  - name: Aaron Jones
+  - name: samuel f
+  - name: Omar Arnaout

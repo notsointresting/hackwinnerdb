@@ -1,0 +1,19 @@
+id: jambled
+name: Jambled
+slug: jambled
+tagline: A game about unjambling Wikipedia articles
+summary: Jambled received the 3rd Place award at Hack The Net in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/0BBLER/Jambled?tab=readme-ov-file#jambled
+demo_url: null
+video_url: https://www.youtube.com/embed/R_OShbUvpwk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/486/169/datas/medium.png
+categories:
+  - cybersecurity
+  - gaming
+technologies:
+  - svelte
+  - typescript
+builders:
+  - name: 0BBLER H

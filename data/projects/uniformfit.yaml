@@ -1,0 +1,21 @@
+id: uniformfit
+name: UniformFit
+slug: uniformfit
+tagline: Bulk uniform sizing from two phone photos — every teammate scans, and you get an
+  order-ready size manifest with zero guesswork.
+summary: UniformFit received the Runner up award at Measure up in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaditkedia/uniformfit
+demo_url: null
+video_url: https://www.youtube.com/embed/XQgrS9sIvPw
+image_url: null
+categories:
+  - other
+technologies:
+  - postgresql
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Aadit Kedia

@@ -1,0 +1,21 @@
+id: equiembryo-ai
+name: EquiEmbryo AI
+slug: equiembryo-ai
+tagline: IVF clinics use AI to rank embryos, but these systems can inherit hidden bias. We built
+  EquiEmbryo AI to detect unfair gaps between groups and retrain models to
+summary: EquiEmbryo AI received the JBL Speakers award at BioHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/taniamakhija/EquiEmbryo-AI-biohacks
+demo_url: null
+video_url: https://www.youtube.com/embed/AH2QKrVgE60
+image_url: null
+categories:
+  - artificial-intelligence
+  - productivity
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Sukriti Turaga
+  - name: Tania Makhija

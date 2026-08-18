@@ -1,0 +1,23 @@
+id: chalk-ai
+name: Chalk AI
+slug: chalk-ai
+tagline: Turn a one‑line prompt into a narrated, hand‑drawn whiteboard explainer video fully
+  AI‑directed, scene by scene. You type “Explain how credit scores work" and A
+summary: Chalk AI received the Runner up award at The Blueprint Hackathon  (For All Ages, July
+  17th-31st) in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Avinash1286/chalkai
+demo_url: null
+video_url: https://www.youtube.com/embed/wNv9a2rCCag
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/043/755/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Abinash Yadav

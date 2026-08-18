@@ -1,0 +1,26 @@
+id: trueface
+name: TrueFace
+slug: trueface
+tagline: Master your next interview with a real-time AI Live Avatar! Practice questions, track
+  filler words, review saved video responses to build confidence, and have a
+summary: TrueFace received the Instamax Polaroid Camera award at HackDartmouth XI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bharaths27/HackDartmouthXI
+demo_url: null
+video_url: https://www.youtube.com/embed/oRwWkHM_534
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/876/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - gemini
+  - mongodb
+  - pinecone
+  - python
+  - typescript
+builders:
+  - name: Bharath Srividhya
+  - name: Sri Ram Swaminathan
+  - name: Vighanesh Gaund
+  - name: Verna Lin

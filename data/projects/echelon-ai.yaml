@@ -1,0 +1,22 @@
+id: echelon-ai
+name: Echelon AI
+slug: echelon-ai
+tagline: We explain why stocks move — combining cultural signals and financial metrics into one
+  score. First platform of its kind. Not a prediction. A narrative."
+summary: "Echelon AI received the Track 3: Forum (3rd place) award at SDxUCSD Agent Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/SakshamAror/EchelonAI
+demo_url: null
+video_url: https://www.youtube.com/embed/zEYzzOAFItU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/112/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - productivity
+technologies:
+  - typescript
+builders:
+  - name: Saksham Arora
+  - name: Daksh Rustagi
+  - name: Shreyaan Chhabra

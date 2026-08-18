@@ -1,0 +1,14 @@
+id: hackdays-delhi
+name: HackDays Delhi
+slug: hackdays-delhi
+organizer: []
+year: 2026
+sources:
+  - https://hackdays-delhi.devpost.com/
+  - https://hackdays-delhi.devpost.com/project-gallery?filter=winner
+website_url: https://hackdays-delhi.devpost.com/
+platform: devpost
+participant_count: 284
+prize_pool: null
+currency: null
+description: "Devpost hackathon: HackDays Delhi. Imported automatically."

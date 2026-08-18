@@ -1,0 +1,22 @@
+id: shellmate
+name: Shellmate
+slug: shellmate
+tagline: Shellmate helps students navigate campus chaos through one simple text.
+summary: Shellmate received the API Credits + Cash award at Anthropic x Maryland Hackathon in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/IshaanKalra2103/claude-hack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/094/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - openai
+  - python
+  - sql
+builders:
+  - name: Ishaan kalra
+  - name: Sathya Gnanakumar

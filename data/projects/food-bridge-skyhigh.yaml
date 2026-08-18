@@ -1,0 +1,25 @@
+id: food-bridge-skyhigh
+name: food-bridge-SkyHigh
+slug: food-bridge-skyhigh
+tagline: '"Eat well, spend smart — personalized nutrition for every community."'
+summary: food-bridge-SkyHigh received the United Nations & FAO Problem Statement Winner award at
+  George Hacks x United Nations "Reboot the Earth" Hackathon in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/damianleng/food-bridge
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/972/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - creative-tools
+technologies:
+  - docker
+  - langchain
+  - python
+  - typescript
+builders:
+  - name: DYDAMIAN LENG
+  - name: jeremy99-med Mednik
+  - name: Eduardo Salgado-Liceaga

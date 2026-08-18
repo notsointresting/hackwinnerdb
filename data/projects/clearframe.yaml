@@ -1,0 +1,21 @@
+id: clearframe
+name: ClearFrame
+slug: clearframe
+tagline: Selective privacy for live video. ClearFrame hides passerby while keeping the rest of the
+  background live.
+summary: ClearFrame received the Third Place award at JecHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ECfrixqevj8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/734/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - media
+technologies:
+  - javascript
+  - tensorflow
+builders:
+  - name: Henry Zhao
+  - name: Austin Luo

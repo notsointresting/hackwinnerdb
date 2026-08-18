@@ -1,0 +1,25 @@
+id: cyber-tool-recommender
+name: Cyber Tool Recommender
+slug: cyber-tool-recommender
+tagline: AI-powered cybersecurity assistant for CTFs and ethical hacking education that recommends
+  reconnaissance tools and Linux enumeration methodologies without solvi
+summary: Cyber Tool Recommender received the Gemini API - MLH giveaway award at Hack2Dawn in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/eilyn0208/Cyber-Tool-Recomender
+demo_url: null
+video_url: https://www.youtube.com/embed/LfP9vxy4q9M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/652/639/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - python
+  - react
+builders:
+  - name: eilyn Resendez
+  - name: Victor-123321 Velázquez

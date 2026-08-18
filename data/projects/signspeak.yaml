@@ -1,0 +1,25 @@
+id: signspeak
+name: SignSpeak
+slug: signspeak
+tagline: SignSpeak is an AI powered translation tool that gives a spoken voice to sign languages,
+  converting ASL signs from video into natural spoken audio.
+summary: SignSpeak received the MLH - Best Use of Gemini API award at Vandyhacks XII in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3zE2YprxBVY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/483/472/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - elevenlabs
+  - gemini
+  - python
+  - react
+builders:
+  - name: Gabrielle Miller
+  - name: hahernanchang Hernandez
+  - name: Liam Rudewicz

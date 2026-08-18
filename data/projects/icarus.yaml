@@ -1,0 +1,26 @@
+id: icarus
+name: Icarus
+slug: icarus
+tagline: Prevent eye strain with real-time eye landmark detection and voice-based eye exercises with
+  Icarus, the Chrome extension!
+summary: Icarus received the Best Use of Lovable (worth up to 300 USD) award at cmd-f 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/commit111/cmdf-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/H7b123TsiXA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/361/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - javascript
+  - mongodb
+  - nextjs
+  - react
+builders:
+  - name: Eojin Lee
+  - name: Linda L
+  - name: Marian Cheung
+  - name: S. L.

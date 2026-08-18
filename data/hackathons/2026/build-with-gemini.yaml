@@ -1,0 +1,14 @@
+id: build-with-gemini
+name: Build with Gemini
+slug: build-with-gemini
+organizer: []
+year: 2026
+sources:
+  - https://build-with-gemini-0.devpost.com/
+  - https://build-with-gemini-0.devpost.com/project-gallery?filter=winner
+website_url: https://build-with-gemini-0.devpost.com/
+platform: devpost
+participant_count: 203
+prize_pool: null
+currency: null
+description: "Devpost hackathon: Build with Gemini. Imported automatically."

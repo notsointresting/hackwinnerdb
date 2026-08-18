@@ -1,0 +1,24 @@
+id: guardian
+name: Guardian
+slug: guardian
+tagline: Guardian watches every page your grandparent visits, speaks up about scams, and walks them
+  through tasks one step at a time - no typing required.
+summary: "Guardian received the Honorable Mention: Most Creative Use of Claude award at SoCal Claude
+  Builder Club Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Jay-Thpr/Guardian
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/228/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - nextjs
+  - react
+  - supabase
+builders:
+  - name: Boris Hong Pak Lo
+  - name: Jay Thapar

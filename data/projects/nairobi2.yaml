@@ -1,0 +1,20 @@
+id: nairobi2
+name: nairobi2
+slug: nairobi2
+tagline: Permissionless ridesharing app with market based price discovery and Sybil protection
+  through verifiable Bitcoin notarization
+summary: nairobi2 received the 3rd Overall award at Bitcoin++ Open Source Edition in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/f321x/nairobi2
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/786/215/datas/gallery.jpg
+categories:
+  - fintech
+  - social-impact
+technologies:
+  - claude
+  - rust
+builders:
+  - name: Anon Ym

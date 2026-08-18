@@ -1,0 +1,21 @@
+id: visualizer
+name: Visualizer
+slug: visualizer
+tagline: Most students can do the math — they just can't see it. Visualizer is an interactive 2D and
+  3D graphing tool with a built-in AI mentor that explains exactly wha
+summary: Visualizer received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/KaZmSrWtlHQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/779/100/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - tailwind-css
+  - typescript
+builders:
+  - name: Aylin Rym

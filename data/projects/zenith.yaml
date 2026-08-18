@@ -1,0 +1,24 @@
+id: zenith
+name: Zenith
+slug: zenith
+tagline: Capture, organize, activate your digital brain.
+summary: Zenith received the KELEA award at HackUDC 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Martinhdeez/zenith.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/382/673/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+builders:
+  - name: Alberto Paz
+  - name: alex-mosquera-gundin
+  - name: Martin Hernández González

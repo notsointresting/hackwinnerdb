@@ -1,0 +1,22 @@
+id: propeller-boy
+name: Propeller Boy
+slug: propeller-boy
+tagline: Blow the fan to gain elevation! Move as far as you can to get the high score in our tiny
+  arcade machine!
+summary: Propeller Boy received the Efficient award at UMake 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Breaded-Embedded/FanJumper
+demo_url: null
+video_url: https://www.youtube.com/embed/2nxWG5VVb2U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/405/578/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - python
+builders:
+  - name: Connor Langan
+  - name: Logan Decock
+  - name: Brijesh Patel
+  - name: Kolosso Furedi

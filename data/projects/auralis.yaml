@@ -1,0 +1,24 @@
+id: auralis
+name: Auralis
+slug: auralis
+tagline: Auralis unifies emergency care by turning raw audio into structured intelligence,
+  preserving critical context from 911 call to paramedic handoff to hospital for
+summary: Auralis received the LOF Best Use of AI in a Healthcare Project award at Scarlet Hacks in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/vishnurvt/auralis
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/534/484/datas/medium.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Vishnu Rama Varma Thampuran

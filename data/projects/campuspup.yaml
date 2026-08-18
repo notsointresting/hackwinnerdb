@@ -1,0 +1,22 @@
+id: campuspup
+name: CampusPup
+slug: campuspup
+tagline: Students have a lot of stress from schoolwork. They don’t need Redbull or Monster, but just
+  irresistible cuteness from puppy to heal their emotional distress.
+summary: CampusPup received the [MLH] Best Use of Solana award at Hackabull VII in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hlee18lee46/campuspup
+demo_url: null
+video_url: https://www.youtube.com/embed/0GsI9SCZotk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/605/785/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - elevenlabs
+  - mongodb
+  - solana
+builders:
+  - name: Han Lee

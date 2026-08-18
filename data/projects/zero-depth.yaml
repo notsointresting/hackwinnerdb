@@ -1,0 +1,26 @@
+id: zero-depth
+name: Zero Depth
+slug: zero-depth
+tagline: "Robotics is bleeding money on 3D cameras. Zero Depth uses standard RGB lenses and voxel
+  carving to synthesize 3D grasp coordinates, streaming them to the robot "
+summary: Zero Depth received the Ford Industrial Robotics Grippers award at StarkHacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HardCounter/CompMech-Stark-Hacks
+demo_url: null
+video_url: https://www.youtube.com/embed/QoJwE_sIzck
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/586/924/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - arduino
+  - python
+  - raspberry-pi
+  - streamlit
+builders:
+  - name: Aleksander Jeżowski
+  - name: Isabelle Co
+  - name: Rafał Lasota
+  - name: C'lette Coronado

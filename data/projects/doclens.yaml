@@ -1,0 +1,23 @@
+id: doclens
+name: DocLens
+slug: doclens
+tagline: AI-powered forensic detection of forged signatures and tampered documents.
+summary: DocLens received the Best AI Hack 2nd award at STEMist Hacks IV in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/yvesseraphin/DocLens
+demo_url: null
+video_url: https://www.youtube.com/embed/xjW_mmkwONA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/051/587/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - javascript
+  - opencv
+  - postgresql
+  - python
+  - pytorch
+builders:
+  - name: MANZI SHIMWA Yves Seraphin

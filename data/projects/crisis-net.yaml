@@ -1,0 +1,28 @@
+id: crisis-net
+name: Crisis-Net
+slug: crisis-net
+tagline: "Crisis-Net is a real-time disaster response dashboard that utilizes AI agents to detect
+  threats, record severity, map impact, locate shelter, and send targeted "
+summary: Crisis-Net received the [MLH] Best Use of .Tech award at HackUSF 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hackusf-2026-kzmn/hackusf-2026
+demo_url: null
+video_url: https://www.youtube.com/embed/Yz0kD8GUAhI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/507/928/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - gemini
+  - python
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Nicholas Westerfeld
+  - name: Zayne Dockery
+  - name: kevin li
+  - name: Michael Dunn

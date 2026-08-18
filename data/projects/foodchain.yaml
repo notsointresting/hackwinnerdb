@@ -1,0 +1,25 @@
+id: foodchain
+name: FoodChain
+slug: foodchain
+tagline: Food banks today find out about crises when the line gets longer. CrisisGrid detects the
+  signal before the surge hits and creates analytics-powered response pla
+summary: FoodChain received the Best use of Hex API award at YHack Spring 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/richykim7/YHack2026
+demo_url: null
+video_url: https://www.youtube.com/embed/KBmjbQHAL_0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/639/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - postgresql
+  - python
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Ian Tinney

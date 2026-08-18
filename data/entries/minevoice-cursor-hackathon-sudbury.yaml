@@ -1,0 +1,14 @@
+id: minevoice-cursor-hackathon-sudbury
+project_id: minevoice
+hackathon_id: cursor-hackathon-sudbury
+submission_url: https://devpost.com/software/minevoice
+source:
+  platform: devpost
+  url: https://devpost.com/software/minevoice
+awards:
+  - type: category-winner
+    title: Best Use of TiDB
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

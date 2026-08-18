@@ -1,0 +1,14 @@
+id: eleet-hunterhacks
+project_id: eleet
+hackathon_id: hunterhacks
+submission_url: https://devpost.com/software/eleet
+source:
+  platform: devpost
+  url: https://devpost.com/software/eleet
+awards:
+  - type: track-winner
+    title: The Bronx (Education Track)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

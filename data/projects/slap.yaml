@@ -1,0 +1,24 @@
+id: slap
+name: Slap
+slug: slap
+tagline: "SLAP stands for a simple idea: when something is wrong, reporting it should be immediate.
+  Not buried in email. Not lost in a channel. Just report it, structure "
+summary: Slap received the [Bending Spoons] 1st place award at HackUPC 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mogonlac/hackupc2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/609/020/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Nicholas Tchakov
+  - name: Victor Asensio Bermudez
+  - name: Marina Dasca Bravo
+  - name: Phoebe Iglesias

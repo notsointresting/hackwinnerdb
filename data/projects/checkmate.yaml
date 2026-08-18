@@ -1,0 +1,22 @@
+id: checkmate
+name: CheckMate
+slug: checkmate
+tagline: Accuracy in every move
+summary: CheckMate received the Genomic Diagnostics Grand Prize award at HackRare 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Kq7gbg97XDE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/385/008/datas/medium.png
+categories:
+  - healthcare
+technologies:
+  - openai
+  - python
+  - pytorch
+  - streamlit
+builders:
+  - name: Akshay Vakharia
+  - name: Sanil Desai
+  - name: Henry Greenhut

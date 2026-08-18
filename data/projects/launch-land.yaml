@@ -1,0 +1,18 @@
+id: launch-land
+name: Launch&Land
+slug: launch-land
+tagline: Lanch
+summary: Launch&Land received the 2nd Place Overall Project award at ACS Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nugts/LaunchAndLand
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - kotlin
+builders:
+  - name: Dhiren Sathvik Devineni

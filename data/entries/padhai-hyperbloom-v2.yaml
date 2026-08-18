@@ -1,0 +1,17 @@
+id: padhai-hyperbloom-v2
+project_id: padhai
+hackathon_id: hyperbloom-v2
+submission_url: https://devpost.com/software/padhai
+source:
+  platform: devpost
+  url: https://devpost.com/software/padhai
+awards:
+  - type: other
+    title: Participation & Completion Recognition
+  - type: winner
+    title: Top 10 winners each receive a free .xyz domain — launch your project with a real web
+      presence! (valued at $150)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

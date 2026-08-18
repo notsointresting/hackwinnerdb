@@ -1,0 +1,24 @@
+id: zappatory-labs
+name: Zappatory Labs
+slug: zappatory-labs
+tagline: Zappatory Labs turns electronics education into an interactive AR experience, guiding users
+  step-by-step to build real breadboard circuits using our Floating AI
+summary: Zappatory Labs received the 2nd Place award at Reality Hack at AWE 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/tejasXR/specs-awe-hack-2026/
+demo_url: null
+video_url: https://www.youtube.com/embed/jHuudm6_p4s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/774/288/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - figma
+  - gemini
+  - typescript
+builders:
+  - name: Danny Tapia
+  - name: Tejas Shroff
+  - name: Sasha Menscikova

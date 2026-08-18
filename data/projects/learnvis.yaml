@@ -1,0 +1,23 @@
+id: learnvis
+name: LearnVis
+slug: learnvis
+tagline: Your AI study partner that turns dense engineering textbooks into interactive video animations
+summary: LearnVis received the 2nd Place Winner award at Evorozen Innovators Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/San245o/LearnVis
+demo_url: null
+video_url: https://www.youtube.com/embed/sQWg8bdWPLM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/737/653/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - fastapi
+  - langchain
+  - python
+  - supabase
+  - typescript
+builders:
+  - name: sankeerth banagar

@@ -1,0 +1,14 @@
+id: bfg-i-hackudc-2026
+project_id: bfg-i
+hackathon_id: hackudc-2026
+submission_url: https://devpost.com/software/bfg-i
+source:
+  platform: devpost
+  url: https://devpost.com/software/bfg-i
+awards:
+  - type: other
+    title: ALÉN SPACE
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

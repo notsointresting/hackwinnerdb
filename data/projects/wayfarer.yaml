@@ -1,0 +1,18 @@
+id: wayfarer
+name: Wayfarer
+slug: wayfarer
+tagline: “Walking gives you agency and a sense of direction, it gives you purpose when you’re
+  feeling lost and a sense of place in the midst of surrounding chaos.”
+summary: Wayfarer received the 1st Place award at CU Design-a-thon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/c-prWIRe-gc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/937/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Peter Huang

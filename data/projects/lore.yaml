@@ -1,0 +1,21 @@
+id: lore
+name: LORE
+slug: lore
+tagline: Eight seconds. That's how long people look at a painting. Then they move on. They forget.
+  LORE resurrects the witness who was there. Now you can't look away.
+summary: LORE received the 3rd Place award at Build with MeDo Hackathon  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/hAuqLxB12bE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/679/785/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - elevenlabs
+  - javascript
+builders:
+  - name: Aima Mohammad

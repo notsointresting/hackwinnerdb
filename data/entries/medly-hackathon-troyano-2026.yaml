@@ -1,0 +1,14 @@
+id: medly-hackathon-troyano-2026
+project_id: medly
+hackathon_id: hackathon-troyano-2026
+submission_url: https://devpost.com/software/medly-o37z8j
+source:
+  platform: devpost
+  url: https://devpost.com/software/medly-o37z8j
+awards:
+  - type: other
+    title: 2do Lugar
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

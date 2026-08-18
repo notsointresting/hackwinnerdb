@@ -1,0 +1,20 @@
+id: steve
+name: STEVE
+slug: steve
+tagline: Our team have created this mobile app named "STEVE" to help boyfriends take aesthetic
+  photos of their girlfriends when they are out on a date.
+summary: STEVE received the 1st Runner-up award at SummerBuild 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/legoleekokpeng/STEVE/tree/main/frontend
+demo_url: null
+video_url: https://www.youtube.com/embed/I3WNhWFUW3U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/785/249/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: Kok Peng Lego Lee
+  - name: Marcus Yeong
+  - name: Y M

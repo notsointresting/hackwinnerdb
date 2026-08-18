@@ -1,0 +1,20 @@
+id: radiogenomics
+name: RadioGenomics
+slug: radiogenomics
+tagline: '"Ask a cancer research question in plain English — get a matched patient cohort, survival
+  curves, and governed SQL in seconds, not weeks."'
+summary: RadioGenomics received the Honorable Mention award at Enterprise Agents Hackathon by
+  Emergence & Nebius in 2026. This record was imported automatically; the summary and source check
+  are still pending.
+website_url: null
+github_url: https://github.com/kcbhola3030/PanCancer
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/881/330/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - govtech
+technologies: []
+builders:
+  - name: Krishnacharan Bhola

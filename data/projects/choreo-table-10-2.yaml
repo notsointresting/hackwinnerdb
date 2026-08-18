@@ -1,0 +1,23 @@
+id: choreo-table-10-2
+name: choreo. (Table 10.2)
+slug: choreo-table-10-2
+tagline: choreo. uses computer vision and a Google's Gemini AI to automatically break down any dance
+  routine into step-by-step tutorials for you to become a better dance
+summary: choreo. (Table 10.2) received the Best Overall award at BeachHacks 9.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/jLGM1J_OJwI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/484/603/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+technologies:
+  - flask
+  - opencv
+  - python
+  - react
+  - sqlite
+builders:
+  - name: Brandon Chu

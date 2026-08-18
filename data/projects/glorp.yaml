@@ -1,0 +1,18 @@
+id: glorp
+name: Glorp
+slug: glorp
+tagline: Bison Bio-Bullets, Using a drone to vaccinate Bison
+summary: Glorp received the Healthcare award at MakeMIT x Harvard 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/2i8iNi1NQb8
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - arduino
+  - python
+builders:
+  - name: Matthew De Jesus

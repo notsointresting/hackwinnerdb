@@ -1,0 +1,28 @@
+id: towerguard
+name: Towerguard
+slug: towerguard
+tagline: TowerGuard quantifies the Cost of Doing Nothing in America's air-traffic-controller
+  staffing crisis.
+summary: Towerguard received the Graduate (Masters/Doctoral) Runner Up award at USAII® Global AI
+  Hackathon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/BoruChen0908/towerguard.git
+demo_url: null
+video_url: https://www.youtube.com/embed/T7rsJuc0-xE
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - anthropic
+  - claude
+  - cloudflare
+  - fastapi
+  - python
+  - react
+  - redis
+builders:
+  - name: Yun Ting Su
+  - name: Boru Chen, MS in CS, Northeastern University

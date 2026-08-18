@@ -1,0 +1,16 @@
+id: 49th-hack-canada-2026
+project_id: 49th
+hackathon_id: hack-canada-2026
+submission_url: https://devpost.com/software/hack-canada-2026
+source:
+  platform: devpost
+  url: https://devpost.com/software/hack-canada-2026
+awards:
+  - type: third-place
+    title: Third Place Overall
+  - type: other
+    title: Google - Build with AI
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

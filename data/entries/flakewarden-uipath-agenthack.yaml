@@ -1,0 +1,14 @@
+id: flakewarden-uipath-agenthack
+project_id: flakewarden
+hackathon_id: uipath-agenthack
+submission_url: https://devpost.com/software/flakewarden
+source:
+  platform: devpost
+  url: https://devpost.com/software/flakewarden
+awards:
+  - type: category-winner
+    title: Best of UiPath Test Cloud
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

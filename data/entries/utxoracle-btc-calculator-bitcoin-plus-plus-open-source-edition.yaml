@@ -1,0 +1,14 @@
+id: utxoracle-btc-calculator-bitcoin-plus-plus-open-source-edition
+project_id: utxoracle-btc-calculator
+hackathon_id: bitcoin-plus-plus-open-source-edition
+submission_url: https://devpost.com/software/utxoracle-btc-calculator
+source:
+  platform: devpost
+  url: https://devpost.com/software/utxoracle-btc-calculator
+awards:
+  - type: category-winner
+    title: Best Contribution to Open Source
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

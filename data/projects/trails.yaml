@@ -1,0 +1,22 @@
+id: trails
+name: Trails
+slug: trails
+tagline: Agents that coordinate without talking. Five AI agents walk your evidence like ants,
+  leaving trails by marking connections, and lay out the evidence chains, and
+summary: Trails received the Agentic AI Track 2nd Place award at JacHacks SF in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Ws2XPfxSQ6o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/027/743/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - react
+builders:
+  - name: Harshith Sai Mannaru
+  - name: Tirth  Suba
+  - name: Aarnav Gutti

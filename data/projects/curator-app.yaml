@@ -1,0 +1,21 @@
+id: curator-app
+name: Curator App
+slug: curator-app
+tagline: Curator turns your memories into a personal museum. Log moments, tag emotions, and watch
+  your life's story unfold as a living gallery because every feeling dese
+summary: Curator App received the UX’s Midnight Experience Design Track award at WEHack 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/PmWRkJlQcig
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/434/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - figma
+builders:
+  - name: Berra GURHAN
+  - name: Lakshmi Jinkala
+  - name: Kyndal Breaux
+  - name: Meryem Kilic

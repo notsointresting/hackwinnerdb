@@ -1,0 +1,14 @@
+id: deepdive-code-a-site
+project_id: deepdive
+hackathon_id: code-a-site
+submission_url: https://devpost.com/software/deepdive-3f5tru
+source:
+  platform: devpost
+  url: https://devpost.com/software/deepdive-3f5tru
+awards:
+  - type: first-place
+    title: 1st Overall, Amazon Gift Cards
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

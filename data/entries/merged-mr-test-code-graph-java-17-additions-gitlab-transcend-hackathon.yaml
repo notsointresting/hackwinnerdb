@@ -1,0 +1,14 @@
+id: merged-mr-test-code-graph-java-17-additions-gitlab-transcend-hackathon
+project_id: merged-mr-test-code-graph-java-17-additions
+hackathon_id: gitlab-transcend-hackathon
+submission_url: https://devpost.com/software/merged-mr-test-code-graph-java-17-additions
+source:
+  platform: devpost
+  url: https://devpost.com/software/merged-mr-test-code-graph-java-17-additions
+awards:
+  - type: track-winner
+    title: "Contribute Track: A qualified Merged Merge Request"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: selfsign
+name: SelfSign
+slug: selfsign
+tagline: Learning ASL through spaced-repetition and with immediate live feedback.
+summary: "SelfSign received the Main Track: Education award at Hack Brooklyn in 2026. This record
+  was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/beaulierelindsay/brooklynhacks-asltool
+demo_url: null
+video_url: https://www.youtube.com/embed/xw34C8HO08M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/589/722/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - react
+builders:
+  - name: Sania A
+  - name: Lindsay Beauliere

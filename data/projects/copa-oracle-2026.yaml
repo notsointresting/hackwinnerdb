@@ -1,0 +1,22 @@
+id: copa-oracle-2026
+name: Copa Oracle 2026
+slug: copa-oracle-2026
+tagline: ML-powered 2026 FIFA World Cup prediction engine. Find where Polymarket is mispricing teams
+  - live Copa Oracle Scores, Monte Carlo bracket simulation, and a RES
+summary: Copa Oracle 2026 received the 1st Place award at ZerveHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/nobelchowdary/zerveai
+demo_url: null
+video_url: https://www.youtube.com/embed/jExDi60fZWo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/625/495/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - streamlit
+builders:
+  - name: Nobel Chowdary Mandepudi
+  - name: Rani Chowdary Mandepudi Mandepudi

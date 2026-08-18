@@ -1,0 +1,23 @@
+id: snaphunt
+name: SnapHunt
+slug: snaphunt
+tagline: SnapHunt turns waiting into a real-world game. Instead of scrolling, explore your
+  environment by finding objects to unlock fun facts and collectibles. Turn your
+summary: "SnapHunt received the Track 1: Waiting Rooms, Honorable Mention award at CATALYST 2026:
+  UI/UX Designathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zVGfhQmtLb4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/487/337/datas/gallery.jpg
+categories:
+  - education
+  - climate
+  - gaming
+technologies:
+  - figma
+builders:
+  - name: Francesca Dumary
+  - name: Tony Lin
+  - name: Xuanxi Chen

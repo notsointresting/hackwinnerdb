@@ -1,0 +1,27 @@
+id: urturnintern
+name: UrTurnIntern
+slug: urturnintern
+tagline: One buried email. One missed deadline. One generic resume. That's how offers slip away.
+  UrTurnIntern organises and uses AI to tailor resumes, prep interviews, a
+summary: UrTurnIntern received the 1st Place Team - $200 per team member award at SMU .Hack
+  Enrichment Application Programme 2026 in 2026. This record was imported automatically; the summary
+  and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/018/758/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: CHEO CHLOE _
+  - name: JAYDON SOONG YU CHEN _
+  - name: Fong Yi Jie
+  - name: Jerryl Loo

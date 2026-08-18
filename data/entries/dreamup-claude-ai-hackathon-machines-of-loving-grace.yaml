@@ -1,0 +1,14 @@
+id: dreamup-claude-ai-hackathon-machines-of-loving-grace
+project_id: dreamup
+hackathon_id: claude-ai-hackathon-machines-of-loving-grace
+submission_url: https://devpost.com/software/dreamup
+source:
+  platform: devpost
+  url: https://devpost.com/software/dreamup
+awards:
+  - type: track-winner
+    title: Claude Track Winners
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

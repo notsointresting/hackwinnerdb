@@ -1,0 +1,23 @@
+id: ecotrace
+name: EcoTrace
+slug: ecotrace
+tagline: Scan any waste. Know exactly where it goes.
+summary: EcoTrace received the Top 100 Finalist Award award at HACKFEST'26 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AnuTyagi-1306/EcoTrace
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/814/340/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - groq
+  - postgresql
+  - supabase
+  - tailwind-css
+  - typescript
+builders:
+  - name: Anushka Tyagi

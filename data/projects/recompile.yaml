@@ -1,0 +1,24 @@
+id: recompile
+name: Recompile
+slug: recompile
+tagline: son, don't be stressed, I got u
+summary: "Recompile received the Backboard: Most Innovative use of Backboard.io award at Hack the
+  6ix 2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/UBc3Zu8VX10
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/938/087/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - gemini
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: Aman Shah

@@ -1,0 +1,22 @@
+id: fireforce
+name: FireForce
+slug: fireforce
+tagline: AI-powered firefighter AR helmet via Meta Quest 3 — Gemini Vision classifies wildfire fuel
+  for firebreak construction, predicts fire spread, monitors biometrics
+summary: FireForce received the Hardware + IoT track award at DataHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sanjith-Shan/SolSpecs
+demo_url: null
+video_url: https://www.youtube.com/embed/KdLrhyPXnrQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/593/583/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - python
+builders:
+  - name: Sanjith Shanmugavel
+  - name: Hansel P

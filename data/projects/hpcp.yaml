@@ -1,0 +1,26 @@
+id: hpcp
+name: hpcp
+slug: hpcp
+tagline: We turn the HP Metal Jet S100 into a self-aware digital twin.
+summary: hpcp received the [HP] 2nd place award at HackUPC 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stickerdaniel/hackUPC
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/610/665/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - python
+  - sqlite
+  - streamlit
+  - svelte
+builders:
+  - name: Jana Rawe
+  - name: Leonie Greber
+  - name: Daniel Sticker
+  - name: chuancag Huanca

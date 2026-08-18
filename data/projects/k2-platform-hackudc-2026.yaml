@@ -1,0 +1,23 @@
+id: k2-platform-hackudc-2026
+name: K2 Platform | HackUDC 2026
+slug: k2-platform-hackudc-2026
+tagline: K2 Platform is an advanced data orchestration and intelligence hub developed for HackUDC 2026.
+summary: K2 Platform | HackUDC 2026 received the DENODO award at HackUDC 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/InnovateXYZ/HackUDC2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/384/889/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - docker
+  - javascript
+  - sqlite
+  - tailwind-css
+builders:
+  - name: Choped 7626
+  - name: Álex Borrazás
+  - name: gitdfigueroa Daniel García Figueroa
+  - name: Sergio Goyanes Legazpi

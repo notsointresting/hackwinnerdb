@@ -1,0 +1,14 @@
+id: qo-carolina-quantum-hacks-2026
+project_id: qo
+hackathon_id: carolina-quantum-hacks-2026
+submission_url: https://devpost.com/software/qo
+source:
+  platform: devpost
+  url: https://devpost.com/software/qo
+awards:
+  - type: other
+    title: "Build Your Own: UNCQC Hoodies"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

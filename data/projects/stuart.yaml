@@ -1,0 +1,24 @@
+id: stuart
+name: Stuart
+slug: stuart
+tagline: The AI That Cares About Your Community's Stuff
+summary: "Stuart received the Akamai – most creative connected device, most innovative use of
+  distributed computing, most effective use of specialized AI models. award at HARD MODE: Hardware x
+  AI Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/92WEfUOpTaY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/495/795/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - postgresql
+  - python
+builders:
+  - name: Max Holschneider
+  - name: Matti Gruener
+  - name: Saetbyeol Leeyouk

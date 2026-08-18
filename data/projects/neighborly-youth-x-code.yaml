@@ -1,0 +1,23 @@
+id: neighborly-youth-x-code
+name: Neighborly - Youth x Code
+slug: neighborly-youth-x-code
+tagline: Neighborly empowers communities with AI-audited shared budgets, crowdsourced safety alerts,
+  and direct civic reporting. We build transparent, resilient neighbor
+summary: Neighborly - Youth x Code received the Best User experience award at Youth Code x AI in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/9O_5JGaNRV8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/830/144/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - govtech
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Ujwal Gurugubelli
+  - name: Ck-3D2Y Kulkarni
+  - name: Samvir Devineni

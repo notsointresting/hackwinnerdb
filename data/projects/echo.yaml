@@ -1,0 +1,29 @@
+id: echo
+name: Echo
+slug: echo
+tagline: Echo simulates how your workforce will react to a policy, in real behavior, crash testing
+  your HR decisions before rollout.
+summary: Echo received the YC x HackTech - YC Office Hours award at Hacktech by Caltech 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/michaeltgao/Echo
+demo_url: null
+video_url: https://www.youtube.com/embed/KNGY9FIZRQQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/420/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - claude
+  - fastapi
+  - nextjs
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Michael Gao
+  - name: jsafrata
+  - name: Nicholas Ciordas
+  - name: Jadon Lam

@@ -1,0 +1,22 @@
+id: gt-showdesk-ai-production-management-for-theater
+name: GT ShowDesk — AI Production Management for Theater
+slug: gt-showdesk-ai-production-management-for-theater
+tagline: 45 years of institutional knowledge behind one password. An AI-built, AI-powered production
+  management tool created for volunteer theater producers who can't af
+summary: GT ShowDesk — AI Production Management for Theater received the Merit Award award at AI for
+  Learning & Development Build Challenge — AI Collective HR + Regent in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/784/914/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - react
+  - supabase
+builders:
+  - name: Julianne Baker

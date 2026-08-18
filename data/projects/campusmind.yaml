@@ -1,0 +1,23 @@
+id: campusmind
+name: CampusMind
+slug: campusmind
+tagline: CampusMind transforms any course material into a personalized AI learning journey—chat with
+  notes, generate podcasts, practice with adaptive quizzes, and simula
+summary: "CampusMind received the AI Builder Credits Award award at AI for Campus: Build with MLH in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/fearlessalan/campusmind
+demo_url: null
+video_url: https://www.youtube.com/embed/CUAAUGLB7-E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/741/099/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - firebase
+  - gemini
+  - google-cloud
+  - react
+builders:
+  - name: fearlessalan Alain
+  - name: trela Sbbt

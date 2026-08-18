@@ -1,0 +1,22 @@
+id: pitchloop-vr
+name: PitchLoop VR
+slug: pitchloop-vr
+tagline: Practice the room before you enter it
+summary: "PitchLoop VR received the 3rd Place award at Girls in STEM: AI for Social Good Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Minuet-Hoax/PitchLoop-VR
+demo_url: null
+video_url: https://www.youtube.com/embed/JBYRRE-QSxs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/657/682/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - swift
+builders:
+  - name: Celine Darvas
+  - name: Alice Zhang
+  - name: Dhruvi Jagani
+  - name: Gennifer Hom

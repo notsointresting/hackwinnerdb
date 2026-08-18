@@ -1,0 +1,14 @@
+id: bedside-ai-for-social-good-hack-with-mlh-digitalocean
+project_id: bedside
+hackathon_id: ai-for-social-good-hack-with-mlh-digitalocean
+submission_url: https://devpost.com/software/bedside
+source:
+  platform: devpost
+  url: https://devpost.com/software/bedside
+awards:
+  - type: category-winner
+    title: Best Use of DigitalOcean AI Platform in a Social Good Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

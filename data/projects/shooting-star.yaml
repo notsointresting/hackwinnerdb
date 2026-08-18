@@ -1,0 +1,23 @@
+id: shooting-star
+name: Shooting Star
+slug: shooting-star
+tagline: "Shooting Star: A therapeutic VR game that transforms rehab into a space adventure with
+  personalized tracking and visualized data to support clinical assessment."
+summary: Shooting Star received the Overall First Place award at CareXR Hack in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Fb6ZJmxrefg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/478/185/datas/gallery.jpg
+categories:
+  - social-impact
+  - ar-vr
+  - gaming
+technologies:
+  - unity
+builders:
+  - name: Emily Li
+  - name: Kenneth Xu
+  - name: Anisa Hashemi
+  - name: yupenta Isetani

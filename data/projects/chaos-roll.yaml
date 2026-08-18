@@ -1,0 +1,23 @@
+id: chaos-roll
+name: Chaos Roll
+slug: chaos-roll
+tagline: A wave-survival brawler where Gemini forges new abilities mid-fight, generating mechanics,
+  stats, and pixel-art data as you race an AI rival wave by wave.
+summary: Chaos Roll received the First Place award at Hack the Valley Hack Day  in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/HisMonDon/htv_hack_day
+demo_url: null
+video_url: https://www.youtube.com/embed/dQyLQlPcRgw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/047/475/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Chenyu (Eric) Lu
+  - name: Sulaiman Qazi
+  - name: Darshan Vinay
+  - name: Andre Sidarous

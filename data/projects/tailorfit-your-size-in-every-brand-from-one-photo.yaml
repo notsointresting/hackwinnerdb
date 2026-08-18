@@ -1,0 +1,19 @@
+id: tailorfit-your-size-in-every-brand-from-one-photo
+name: TailorFit — your size in every brand, from one photo
+slug: tailorfit-your-size-in-every-brand-from-one-photo
+tagline: Snap one full-body photo → the SnapMeasure API returns 9 real measurements → your exact
+  size in Uniqlo, Zara, H&M, jeans & suits. Right size first time, zero wa
+summary: TailorFit — your size in every brand, from one photo received the Runner up award at
+  Measure up in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/auth889-ai/tailorfit
+demo_url: null
+video_url: https://www.youtube.com/embed/oB2uQsmzkzY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/029/417/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+builders:
+  - name: jana eva

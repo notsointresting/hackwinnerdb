@@ -1,0 +1,20 @@
+id: train-sim-world-6-telemetry-interface
+name: Train Sim World 6 Telemetry Interface
+slug: train-sim-world-6-telemetry-interface
+tagline: Telemetry interface using the Train Sim World 6 API to see live stats and implement
+  features such as cruise control and weather adjustments
+summary: Train Sim World 6 Telemetry Interface received the Second Place award at Hackabury 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/728/345/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Yuto Crosby
+  - name: Benjamin Godfrey

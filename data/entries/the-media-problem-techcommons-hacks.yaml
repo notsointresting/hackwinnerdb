@@ -1,0 +1,14 @@
+id: the-media-problem-techcommons-hacks
+project_id: the-media-problem
+hackathon_id: techcommons-hacks
+submission_url: https://devpost.com/software/the-media-problem
+source:
+  platform: devpost
+  url: https://devpost.com/software/the-media-problem
+awards:
+  - type: category-winner
+    title: TechCommons Hacks V1 - Best Beginner Project
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

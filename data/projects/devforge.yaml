@@ -1,0 +1,32 @@
+id: devforge
+name: DevForge
+slug: devforge
+tagline: "DevForge: Turn ideas into working software with an AI engineering team."
+summary: DevForge received the 1st Place General award at United Hacks V7 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bhushananokar/Devforge-UH7
+demo_url: null
+video_url: https://www.youtube.com/embed/cVC4a35zUOc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/886/386/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - docker
+  - fastapi
+  - groq
+  - kubernetes
+  - mongodb
+  - openai
+  - python
+  - react
+  - redis
+  - tailwind-css
+  - typescript
+builders:
+  - name: Bhushan Anokar
+  - name: Ameya Dusane
+  - name: Srujan Wavhal
+  - name: Nishant Raj Tiwari

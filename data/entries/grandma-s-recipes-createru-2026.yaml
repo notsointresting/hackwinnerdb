@@ -1,0 +1,14 @@
+id: grandma-s-recipes-createru-2026
+project_id: grandma-s-recipes
+hackathon_id: createru-2026
+submission_url: https://devpost.com/software/grandma-s-recipes
+source:
+  platform: devpost
+  url: https://devpost.com/software/grandma-s-recipes
+awards:
+  - type: third-place
+    title: 3rd Place Prizes!
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

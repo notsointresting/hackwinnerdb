@@ -1,0 +1,14 @@
+id: sach-batao-ai-for-civic-innovation-hackathon
+project_id: sach-batao
+hackathon_id: ai-for-civic-innovation-hackathon
+submission_url: https://devpost.com/software/sach-batao
+source:
+  platform: devpost
+  url: https://devpost.com/software/sach-batao
+awards:
+  - type: first-place
+    title: First Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

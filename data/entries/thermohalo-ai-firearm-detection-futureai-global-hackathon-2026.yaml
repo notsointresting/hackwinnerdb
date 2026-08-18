@@ -1,0 +1,14 @@
+id: thermohalo-ai-firearm-detection-futureai-global-hackathon-2026
+project_id: thermohalo-ai-firearm-detection
+hackathon_id: futureai-global-hackathon-2026
+submission_url: https://devpost.com/software/thermohalo-ai-firearm-detection
+source:
+  platform: devpost
+  url: https://devpost.com/software/thermohalo-ai-firearm-detection
+awards:
+  - type: first-place
+    title: FutureAI Champion (1st Place) 1 Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

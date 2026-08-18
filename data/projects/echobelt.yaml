@@ -1,0 +1,23 @@
+id: echobelt
+name: echoBelt
+slug: echobelt
+tagline: Helping deaf people feel what others hear.Wearable spatial awareness for the deaf community.
+summary: echoBelt received the First Place award at Hackaburg 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/LaetusH/vibrationbelt
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/718/661/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - python
+builders:
+  - name: Nora Strasser
+  - name: gjeanjour
+  - name: Henri Fröhlich
+  - name: Joseph Schuler

@@ -1,0 +1,25 @@
+id: tutoriai
+name: TutoriAI
+slug: tutoriai
+tagline: Personalized AI tutoring — learn from tutors with live visuals or teach a curious kid and
+  get fact-checked feedback.
+summary: "TutoriAI received the Sponsor Challenge: Best ElevenLabs Hack award at Hack Brooklyn in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/bshiribaiev/tutori-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/lLwrABcPtUo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/583/475/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - elevenlabs
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Tamim Kabir
+  - name: Bekbol Shiribaiev
+  - name: Alikhan Samidinov

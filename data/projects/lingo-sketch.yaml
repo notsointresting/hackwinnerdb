@@ -1,0 +1,20 @@
+id: lingo-sketch
+name: Lingo Sketch
+slug: lingo-sketch
+tagline: "Learn English with a mobile app game: Draw & Guess"
+summary: "Lingo Sketch received the Swag from MLH's Partners award at HackCafe : May Edition in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/716/296/datas/gallery.jpg
+categories:
+  - social-impact
+  - gaming
+technologies:
+  - firebase
+  - postgresql
+  - react-native
+builders:
+  - name: Burak Yuksel

@@ -1,0 +1,20 @@
+id: readytogether
+name: ReadyTogether
+slug: readytogether
+tagline: A private emergency planner that turns your household's real needs into a clear action plan
+  in under a minute.
+summary: ReadyTogether received the Participation award at TechCommons Hacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ricky1800/readytogether
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - vercel
+builders:
+  - name: Ritvik US

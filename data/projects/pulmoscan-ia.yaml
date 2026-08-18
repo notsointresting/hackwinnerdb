@@ -1,0 +1,22 @@
+id: pulmoscan-ia
+name: Pulmoscan IA
+slug: pulmoscan-ia
+tagline: An AI-powered lung cancer detection system that leverages medical imaging and patient
+  medical history, with both online and offline functionality.
+summary: "Pulmoscan IA received the Best App Deployed on Google Cloud award at AI for Campus: Build
+  with MLH in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/yoQjCmU5R-Y
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/737/849/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - fastapi
+  - python
+builders:
+  - name: Michel Buroko Bahala

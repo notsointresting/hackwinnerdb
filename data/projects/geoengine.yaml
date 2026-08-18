@@ -1,0 +1,23 @@
+id: geoengine
+name: GeoEngine
+slug: geoengine
+tagline: "GeoEngine turns natural language and mathematical code into geometry diagrams, which
+  removes the need for hours of tedious Asymptote coding. Mathematicians can "
+summary: GeoEngine received the Participation award at TechCommons Hacks in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/testX4201/GeoEngine
+demo_url: null
+video_url: https://www.youtube.com/embed/Kl4mpGOwcs4
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - python
+  - react
+  - typescript
+builders:
+  - name: Anush Jain
+  - name: Yanqing Yang

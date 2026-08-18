@@ -1,0 +1,27 @@
+id: lit
+name: LIT
+slug: lit
+tagline: AI-powered wildfire spread prediction and visualization for faster emergency response and
+  disaster awareness.
+summary: LIT received the ACM-W Data Science Ethics award at AI For Good Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/futurepear/wildfire_spread_predictor/tree/main
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - flask
+  - python
+  - pytorch
+  - react
+  - typescript
+builders:
+  - name: Alan Wong
+  - name: Kingbob55235 Nguyen
+  - name: Adrian Alupoaei
+  - name: Panha Sen

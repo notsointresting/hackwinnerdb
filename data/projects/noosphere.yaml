@@ -1,0 +1,21 @@
+id: noosphere
+name: Noosphere
+slug: noosphere
+tagline: An AI-powered Chrome extension that maps your ideas into visual knowledge graphs using a
+  multi-agent swarm, and scans GitHub repos for architectural blindspots.
+summary: Noosphere received the Best Use of Gemini award at GDSC HackDay  - Build With AI Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dan0003umd/noosphere.git
+demo_url: null
+video_url: https://www.youtube.com/embed/3BjAyia40nA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/620/524/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - groq
+  - react
+  - typescript
+builders:
+  - name: Dhanraj Nandurkar

@@ -1,0 +1,22 @@
+id: green-groove
+name: Green Groove
+slug: green-groove
+tagline: The choices we make right now echo for a century. Left unchecked, bad habits lead to a
+  barren, broken world. But it doesn't have to be that way, use Green Groov
+summary: Green Groove received the Grand Prix award at Webster Hackfest 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/mirzab25/Hackfest26/blob/main/docs/Lean%20business%20plan%20for%20Green%20Groove.pdf
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/514/339/datas/gallery.jpg
+categories:
+  - sustainability
+technologies:
+  - claude
+  - javascript
+builders:
+  - name: Donald Cudahy
+  - name: Chevelle Ellis
+  - name: Ian MacKie
+  - name: Hunter Pilkinton

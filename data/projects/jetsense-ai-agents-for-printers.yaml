@@ -1,0 +1,24 @@
+id: jetsense-ai-agents-for-printers
+name: "JetSense: AI agents for printers."
+slug: jetsense-ai-agents-for-printers
+tagline: "Industrial 3D printers fail unpredictably. We built AI based on stochastically approaches
+  that models component health in real time and tells operators exactly "
+summary: "JetSense: AI agents for printers. received the [HP] 1st place award at HackUPC 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Litusiano/hackupc-2026/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/609/080/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - python
+  - pytorch
+  - react
+builders:
+  - name: Dan Vancea
+  - name: Carles Mele

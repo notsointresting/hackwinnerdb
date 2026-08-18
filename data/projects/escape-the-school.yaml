@@ -1,0 +1,18 @@
+id: escape-the-school
+name: escape the school
+slug: escape-the-school
+tagline: hi
+summary: escape the school received the 3rd Place Overall Project award at ACS Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/rufff617/es/tree/main
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: POUYAN Nazarzadeh

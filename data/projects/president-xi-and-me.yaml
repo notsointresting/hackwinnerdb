@@ -1,0 +1,19 @@
+id: president-xi-and-me
+name: President Xi and Me
+slug: president-xi-and-me
+tagline: Gamify the Communist Manifesto for the AI age. Crowdsource edicts for global crises and map
+  your path to President Xi. Analyze connections, climb the ranks, and
+summary: President Xi and Me received the Runner-Up award at Celebrity Hunt Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/yUrsFkcgwCw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/364/149/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - javascript
+  - supabase
+builders:
+  - name: Randy Fong

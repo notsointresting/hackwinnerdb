@@ -1,0 +1,21 @@
+id: krishi-ai
+name: KRISHI-AI
+slug: krishi-ai
+tagline: AI-powered agricultural platform with 5 Gemini-driven tools — Crop Doctor, Krishi Guru,
+  Market Intelligence, Soil Analyzer & Weather Advisory — empowering Tamil
+summary: KRISHI-AI received the Best Use of Google Gemini API award at Hack days in KGI in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shree-aru/KRISHI-AI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/823/443/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Shreearu Bisoi

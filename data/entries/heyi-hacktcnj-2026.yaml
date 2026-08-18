@@ -1,0 +1,14 @@
+id: heyi-hacktcnj-2026
+project_id: heyi
+hackathon_id: hacktcnj-2026
+submission_url: https://devpost.com/software/heyi
+source:
+  platform: devpost
+  url: https://devpost.com/software/heyi
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of Gemini API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

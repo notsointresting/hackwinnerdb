@@ -1,0 +1,21 @@
+id: unidad
+name: Unidad
+slug: unidad
+tagline: Don't make a language barrier stop you from achieving your dreams!
+summary: Unidad received the Beginner 2nd Place award at SolHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aatiwari15/SolHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/JSijrLJQuFc
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - gemini
+  - supabase
+builders:
+  - name: APKhanal Khanal
+  - name: Dipendra  Kandel
+  - name: Aarav Tiwari
+  - name: Utsav Kafle

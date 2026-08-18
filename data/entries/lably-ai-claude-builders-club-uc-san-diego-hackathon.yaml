@@ -1,0 +1,14 @@
+id: lably-ai-claude-builders-club-uc-san-diego-hackathon
+project_id: lably-ai
+hackathon_id: claude-builders-club-uc-san-diego-hackathon
+submission_url: https://devpost.com/software/lably-ai
+source:
+  platform: devpost
+  url: https://devpost.com/software/lably-ai
+awards:
+  - type: other
+    title: Top 2 Teams
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

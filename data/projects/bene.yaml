@@ -1,0 +1,26 @@
+id: bene
+name: benē
+slug: bene
+tagline: "Millions of people qualify for benefits they never claim. benē fixes that: answer 5
+  questions, get a full eligibility breakdown with estimated monthly value and"
+summary: benē received the Best of The Ignored Problems Track award at Hack to the Future -
+  Presented by AISC @ UW in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/p0linal1/aisc-hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/XGE11zFv9Z0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/394/897/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - python
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Polina Loukiantchikov
+  - name: Noah Zhao
+  - name: Abhay Raj

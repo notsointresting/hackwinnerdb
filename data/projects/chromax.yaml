@@ -1,0 +1,20 @@
+id: chromax
+name: ChromaX
+slug: chromax
+tagline: ChromaX automates the tedious part of clinical lab review so scientists can focus their
+  expertise on the cases that actually need it.
+summary: ChromaX received the Med Tech Track award at hack.msa in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/YDi08z3060Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/591/589/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: Shayaan Rahim
+  - name: Ryan Najah

@@ -1,0 +1,14 @@
+id: spotsight-robotic-hackathon
+project_id: spotsight
+hackathon_id: robotic-hackathon
+submission_url: https://devpost.com/software/spotsight
+source:
+  platform: devpost
+  url: https://devpost.com/software/spotsight
+awards:
+  - type: track-winner
+    title: "Best Locomotion Use Case: Cyberwave Track"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

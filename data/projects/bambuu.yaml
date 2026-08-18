@@ -1,0 +1,24 @@
+id: bambuu
+name: Bambuu
+slug: bambuu
+tagline: Adulting, but easier.
+summary: Bambuu received the 30-MINUTE MENTORSHIP SESSION WITH A JUDGE award at Product Management
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/Zineb2a/Bambuu
+demo_url: null
+video_url: https://www.youtube.com/embed/L2uYnrEEhKI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/445/988/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - postgresql
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Sara Shaikh
+  - name: Zineb Alaoui
+  - name: Vivek Motta
+  - name: Imane Rahali

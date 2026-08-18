@@ -1,0 +1,21 @@
+id: medicall
+name: MediCall
+slug: medicall
+tagline: Daily AI check-in calls for seniors on meds—if something’s wrong, family and the doctor
+  hear about it right away.
+summary: MediCall received the Most Innovative Use of Guild.ai Platform award at Ship to Prod -
+  Agentic Engineering Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/abdullahw1/MediCall
+demo_url: null
+video_url: https://www.youtube.com/embed/rzGN9MnGIyc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/602/144/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: Abdullah Waheed
+  - name: Kevin C

@@ -1,0 +1,14 @@
+id: ridetrack-build-with-ai-hack-days-uits
+project_id: ridetrack
+hackathon_id: build-with-ai-hack-days-uits
+submission_url: https://devpost.com/software/ridetrack
+source:
+  platform: devpost
+  url: https://devpost.com/software/ridetrack
+awards:
+  - type: other
+    title: Build with AI Swags
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

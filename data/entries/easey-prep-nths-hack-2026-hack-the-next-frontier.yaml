@@ -1,0 +1,14 @@
+id: easey-prep-nths-hack-2026-hack-the-next-frontier
+project_id: easey-prep
+hackathon_id: nths-hack-2026-hack-the-next-frontier
+submission_url: https://devpost.com/software/meal-planner-9ngvkh
+source:
+  platform: devpost
+  url: https://devpost.com/software/meal-planner-9ngvkh
+awards:
+  - type: second-place
+    title: General 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

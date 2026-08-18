@@ -1,0 +1,22 @@
+id: v-i-p-e-r
+name: V.I.P.E.R
+slug: v-i-p-e-r
+tagline: V.I.P.E.R detects AI-generated images using deep learning + forensic signals like frequency
+  and sensor noise, achieving 96%+ accuracy while explaining every dec
+summary: V.I.P.E.R received the Best Overall award at Data Heist 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/har-m33t/ARTHEIST
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/534/957/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - opencv
+  - python
+  - pytorch
+  - streamlit
+builders:
+  - name: Harmeet Singh

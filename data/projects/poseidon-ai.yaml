@@ -1,0 +1,20 @@
+id: poseidon-ai
+name: POSEIDON-AI
+slug: poseidon-ai
+tagline: An immersive 11,000m deep-sea oceanographic expedition powered by Google Gemini AI, Web
+  Audio hydrophones, and real-time species intel.
+summary: POSEIDON-AI received the Google AI Pro Postcard award at HackDays Delhi in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/samvit-srivastava/poseidon-ai
+demo_url: null
+video_url: https://www.youtube.com/embed/SXsLJkEnn50
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/023/378/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - react
+  - typescript
+builders:
+  - name: Samvit Srivastava
+  - name: Krishna Singh

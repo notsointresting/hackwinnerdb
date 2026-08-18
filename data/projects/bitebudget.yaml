@@ -1,0 +1,22 @@
+id: bitebudget
+name: BiteBudget
+slug: bitebudget
+tagline: BiteBudget — AI-powered meal planning for families on a budget. Set your location, family
+  size, and weekly spend. Get a personalized 7-day meal plan and real lo
+summary: BiteBudget received the Raspberri Pi Starter Kit award at HackMerced XI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/policharlagn-png/BIteBudget
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/406/873/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - google-maps
+  - groq
+builders:
+  - name: Guru Policharla
+  - name: Ryan Bayer
+  - name: easwaran kumaresan

@@ -1,0 +1,22 @@
+id: cognitive-lens
+name: Cognitive Lens
+slug: cognitive-lens
+tagline: '"Cognitive Lens is an AI assistant that senses overwhelm and adapts in real time — shorter
+  steps, focused tutoring, and a gap-finding teacher that meets you whe'
+summary: Cognitive Lens received the 2nd Place Overall award at Iris Hacks IV in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/dominionochai/Cognitive-Lens
+demo_url: null
+video_url: https://www.youtube.com/embed/-rWin9DSwiM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/073/265/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - groq
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: dominionochai Ochai

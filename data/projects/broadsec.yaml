@@ -1,0 +1,25 @@
+id: broadsec
+name: BroadSec
+slug: broadsec
+tagline: Bug bounty platform
+summary: BroadSec received the BEST USE OF GEMINI API award at Hack Days in Agadir in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/677/524/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: KHALID FAQIR
+  - name: Ismail Oubella
+  - name: Hamza Lahbal
+  - name: Abderrahmane CHAOUI

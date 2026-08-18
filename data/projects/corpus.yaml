@@ -1,0 +1,21 @@
+id: corpus
+name: Corpus
+slug: corpus
+tagline: Your codebase has an immune system! Corpus watches your AI-generated code, catches breakage
+  before it lands, and self-heals your project.
+summary: Corpus received the Best Use of Insforge (YC P26) award at JacHacks in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/FluentFlier/corpus
+demo_url: null
+video_url: https://www.youtube.com/embed/iwCxhwj_zYk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/533/924/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - nextjs
+  - typescript
+builders:
+  - name: Anirudh Manjesh

@@ -1,0 +1,25 @@
+id: stocker
+name: Stocker
+slug: stocker
+tagline: Real time stock sentiment analysis tool, by stalking web articles
+summary: Stocker received the UBC CS Project Hub award at cmd-f 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/havido/stocker
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/414/310/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - python
+  - react
+  - redis
+  - typescript
+builders:
+  - name: Vi Do
+  - name: talia feng
+  - name: Layla Zarins

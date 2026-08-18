@@ -1,0 +1,14 @@
+id: attack-the-world-pantherhacks-2026
+project_id: attack-the-world
+hackathon_id: pantherhacks-2026
+submission_url: https://devpost.com/software/attack-the-world
+source:
+  platform: devpost
+  url: https://devpost.com/software/attack-the-world
+awards:
+  - type: track-winner
+    title: Cybersecurity Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

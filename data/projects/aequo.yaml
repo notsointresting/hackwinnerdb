@@ -1,0 +1,24 @@
+id: aequo
+name: Aequo
+slug: aequo
+tagline: Aequo turns kindness into verified careers. We bridge gaps with a human touch, building a
+  professional future for all. By and for the overlooked.
+summary: Aequo received the [MLH] Best Use of Solana award at Hack Kosice 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/meulencv/hack-kosice-26/
+demo_url: null
+video_url: https://www.youtube.com/embed/pLYA95ssO6s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/596/681/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - dart
+  - elevenlabs
+  - flutter
+  - postgresql
+  - supabase
+builders:
+  - name: Jan Vilaregut Molist
+  - name: Meulén Cirillo Veltri
+  - name: Fabián Birch Torrejón

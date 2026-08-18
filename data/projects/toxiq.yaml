@@ -1,0 +1,24 @@
+id: toxiq
+name: ToxIQ
+slug: toxiq
+tagline: Billions lost. Animals harmed. ToxIQ uses ML and Gemini AI to predict drug toxicity and
+  simulate pharmacokinetics — before trials ever begin.
+summary: ToxIQ received the Medpace Sponsor Challenge award at RevolutionUC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/jjijon7000/revolutionuc
+demo_url: null
+video_url: https://www.youtube.com/embed/2qxOXfovfLw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/511/340/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: julio jijon
+  - name: Pivy Diatta
+  - name: Zak Shendera
+  - name: Mathewos Wondwosen

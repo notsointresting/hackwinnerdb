@@ -1,0 +1,14 @@
+id: bondtrakr-pantherhack-2026
+project_id: bondtrakr
+hackathon_id: pantherhack-2026
+submission_url: https://devpost.com/software/bondtrakr
+source:
+  platform: devpost
+  url: https://devpost.com/software/bondtrakr
+awards:
+  - type: second-place
+    title: Overall 2nd Place Hack(1 team)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

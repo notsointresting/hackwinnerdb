@@ -1,0 +1,19 @@
+id: sgm-stellar-guidance-map
+name: SGM (Stellar Guidance Map)
+slug: sgm-stellar-guidance-map
+tagline: Google maps but space
+summary: SGM (Stellar Guidance Map) received the Best First Years award at Codebrew 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/eyelens24/Universal
+demo_url: null
+video_url: https://www.youtube.com/embed/2xYfthbKb7g
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: joelpg Gunawan
+  - name: EyeLens
+  - name: Kathleen Simanjuntak

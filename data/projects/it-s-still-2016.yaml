@@ -1,0 +1,19 @@
+id: it-s-still-2016
+name: It's still 2016
+slug: it-s-still-2016
+tagline: lil time machine back ykyk
+summary: It's still 2016 received the 2016 is back award at Stupid Ideas Hackathon (Toronto W26) in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/notjackl3/stupid-hackathon
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/018/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+builders:
+  - name: Phineas Truong
+  - name: Jack Le
+  - name: Stanley Pang

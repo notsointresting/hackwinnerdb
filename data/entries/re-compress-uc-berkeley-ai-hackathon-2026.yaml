@@ -1,0 +1,14 @@
+id: re-compress-uc-berkeley-ai-hackathon-2026
+project_id: re-compress
+hackathon_id: uc-berkeley-ai-hackathon-2026
+submission_url: https://devpost.com/software/re-compress
+source:
+  platform: devpost
+  url: https://devpost.com/software/re-compress
+awards:
+  - type: category-winner
+    title: Best Compression Model for The Token Company
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

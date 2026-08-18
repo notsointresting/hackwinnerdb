@@ -1,0 +1,14 @@
+id: cogniview-multimodal-frontier-hackathon
+project_id: cogniview
+hackathon_id: multimodal-frontier-hackathon
+submission_url: https://devpost.com/software/cogniview
+source:
+  platform: devpost
+  url: https://devpost.com/software/cogniview
+awards:
+  - type: track-winner
+    title: Best Use of the Railtracks Agentic Framework
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

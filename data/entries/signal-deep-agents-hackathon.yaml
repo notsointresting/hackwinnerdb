@@ -1,0 +1,16 @@
+id: signal-deep-agents-hackathon
+project_id: signal
+hackathon_id: deep-agents-hackathon
+submission_url: https://devpost.com/software/signal-0gs579
+source:
+  platform: devpost
+  url: https://devpost.com/software/signal-0gs579
+awards:
+  - type: category-winner
+    title: Most Innovative Project Using Macroscope
+  - type: other
+    title: "Airbyte: Conquer with Context"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

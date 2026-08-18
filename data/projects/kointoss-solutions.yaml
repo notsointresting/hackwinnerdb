@@ -1,0 +1,18 @@
+id: kointoss-solutions
+name: Kointoss Solutions
+slug: kointoss-solutions
+tagline: "Pocket Profit: Our Solution to Challenge two, using a two tower neural network architecture."
+summary: Kointoss Solutions received the Best Pitch award at PharmaHacks 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ValerieLehar/Pharmahacks2026
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+builders:
+  - name: ValerieLehar Lehar

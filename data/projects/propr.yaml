@@ -1,0 +1,19 @@
+id: propr
+name: proPR
+slug: propr
+tagline: Automate property management with the pros.
+summary: proPR received the Most Innovative Use of Agents (Guild.ai) award at Harness Engineering
+  Hack in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+builders:
+  - name: SarahVSargent Sargent

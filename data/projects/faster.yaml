@@ -1,0 +1,26 @@
+id: faster
+name: FASTer
+slug: faster
+tagline: A Usable, Accessible and... FASTER UI Experience! And yes... it’s AI powered
+summary: FASTer received the Best Use of AI in Real Estate - 1st Place – First American award at
+  IrvineHacks 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/KanecOlivares/IrvineHacks2026-FASTER
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/394/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - accessibility
+technologies:
+  - claude
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: Ivan Gonzalez
+  - name: Mia Desiree Aburto
+  - name: Eric Estrada
+  - name: Kanec Olivares

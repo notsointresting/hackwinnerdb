@@ -1,0 +1,21 @@
+id: operation-exodus
+name: Operation Exodus
+slug: operation-exodus
+tagline: "Turning NASA data into a decision: where does humanity go next?"
+summary: Operation Exodus received the Space Data Visualization award at Build4Good 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pranavkalai/build4good-exodus
+demo_url: null
+video_url: https://www.youtube.com/embed/VnZh3B-k-_0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/860/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - react
+  - vercel
+builders:
+  - name: Pranav Kalaiselvan
+  - name: Anand Patil
+  - name: Vishjit Chandramohan
+  - name: Vitthal Singh

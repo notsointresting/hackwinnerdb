@@ -1,0 +1,29 @@
+id: nap
+name: $nap
+slug: nap
+tagline: $nap - making spending fun. When you pay, 5 minutes to snap a photo of what you bought.
+  Friends react, and guess what you spent. Claude summarizes week. Bunq po
+summary: $nap received the First Prize award at bunq Hackathon 7.0 - Multimodal AI in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lucas304dn/Snap
+demo_url: null
+video_url: https://www.youtube.com/embed/mHl1JsVZC2g
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/603/682/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - fastapi
+  - javascript
+  - postgresql
+  - python
+  - react
+  - supabase
+  - tailwind-css
+builders:
+  - name: Nicolas Rodriguez
+  - name: Travis Chauvin
+  - name: Jaime Rey Pardo del Olmo
+  - name: Lucas Danielian

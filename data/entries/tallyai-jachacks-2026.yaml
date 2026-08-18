@@ -1,0 +1,14 @@
+id: tallyai-jachacks-2026
+project_id: tallyai
+hackathon_id: jachacks-2026
+submission_url: https://devpost.com/software/tallyai
+source:
+  platform: devpost
+  url: https://devpost.com/software/tallyai
+awards:
+  - type: category-winner
+    title: Best Beginner Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

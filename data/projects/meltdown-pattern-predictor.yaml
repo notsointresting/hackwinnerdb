@@ -1,0 +1,23 @@
+id: meltdown-pattern-predictor
+name: Meltdown Pattern Predictor
+slug: meltdown-pattern-predictor
+tagline: AI tool that analyzes behavioral and environmental triggers to predict meltdowns in
+  children on the autism spectrum, helping caregivers intervene earlier and cr
+summary: "Meltdown Pattern Predictor received the General Stream: 2nd Place award at AdaHacks 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - climate
+  - creative-tools
+technologies:
+  - javascript
+  - python
+  - vercel
+builders:
+  - name: Rumaiza Norova
+  - name: Аружан Капсеметова

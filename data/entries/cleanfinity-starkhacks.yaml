@@ -1,0 +1,14 @@
+id: cleanfinity-starkhacks
+project_id: cleanfinity
+hackathon_id: starkhacks
+submission_url: https://devpost.com/software/drop-table-users
+source:
+  platform: devpost
+  url: https://devpost.com/software/drop-table-users
+awards:
+  - type: category-winner
+    title: Best Use of AMD Tech
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

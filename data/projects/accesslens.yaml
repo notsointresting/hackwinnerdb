@@ -1,0 +1,24 @@
+id: accesslens
+name: AccessLens
+slug: accesslens
+tagline: AccessLens AI helps educators uncover hidden barriers in assignments, trace cognitive
+  friction, and apply evidence-based repairs that improve student access whi
+summary: "AccessLens received the Global Impact Award (Grand Prize) award at Global Builders
+  Hackathon: Code for Impact in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/n4biha/accesslens
+demo_url: null
+video_url: https://www.youtube.com/embed/SNgsF-U1hW4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/077/647/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Nabiha S

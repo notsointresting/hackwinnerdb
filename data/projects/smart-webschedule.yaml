@@ -1,0 +1,22 @@
+id: smart-webschedule
+name: Smart WebSchedule
+slug: smart-webschedule
+tagline: Smart WebSchedule is a lightweight web app that lets SMCCCD students search, select, and
+  visualize course schedules, with an interactive calendar view and no ba
+summary: "Smart WebSchedule received the Improving SMCCD Track 4th place: Secret prize (per team
+  member) award at SMCCD 2026 Hackathon in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/luisjibaja/NewWebschedule.git
+demo_url: null
+video_url: https://www.youtube.com/embed/UDj0dBKM8hE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/601/450/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Luis Jibaja
+  - name: zhaoq0901

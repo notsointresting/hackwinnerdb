@@ -1,0 +1,22 @@
+id: skynet
+name: SkyNet
+slug: skynet
+tagline: AI that can see like a human.
+summary: SkyNet received the Best Creativity - Logitech MX MASTER 4 Mice award at Hacktech by
+  Caltech 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/Lasereyepop/hacktech26
+demo_url: null
+video_url: https://www.youtube.com/embed/CSuLP-matGA
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - python
+  - pytorch
+builders:
+  - name: Jonathan Ouyang
+  - name: Eric Zhou Ziyang

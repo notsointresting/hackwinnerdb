@@ -1,0 +1,14 @@
+id: pomme-hack-the-6ix-2026
+project_id: pomme
+hackathon_id: hack-the-6ix-2026
+submission_url: https://devpost.com/software/autoagrinator
+source:
+  platform: devpost
+  url: https://devpost.com/software/autoagrinator
+awards:
+  - type: other
+    title: "Qualcomm: Build at the Edge with Arduino UNO Q"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

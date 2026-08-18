@@ -1,0 +1,24 @@
+id: greghouse
+name: greghouse
+slug: greghouse
+tagline: A tamagotchi for your plants connected to a gamified virtual garden social experience
+summary: greghouse received the 3rd Overall Hack award at BloomKnights in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sebastian-noel/greghouse
+demo_url: null
+video_url: https://www.youtube.com/embed/eeHd84B9r5A
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/882/508/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - arduino
+  - c-plus-plus
+  - cloudflare
+  - esp32
+  - react
+builders:
+  - name: Sebastian Noel
+  - name: Alejandro Jaimes
+  - name: Stevin George
+  - name: Otavio Borrelly

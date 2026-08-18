@@ -1,0 +1,14 @@
+id: cortex-hack-ai-2026
+project_id: cortex
+hackathon_id: hack-ai-2026
+submission_url: https://devpost.com/software/pathfinder-mdnre9
+source:
+  platform: devpost
+  url: https://devpost.com/software/pathfinder-mdnre9
+awards:
+  - type: sponsor-prize
+    title: "[SPONSOR] Nebula Labs"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: caretracker
+name: CareTracker
+slug: caretracker
+tagline: "Have you ever wanted a wellness app that feels personal? Well with CareTrscker it can be.
+  You can track your medication, write about your day, submit photos of "
+summary: CareTracker received the Hackathon Grand Champion award at Compton Tech Week 2026 Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - healthcare
+  - education
+  - iot
+technologies: []
+builders:
+  - name: Ado Vela
+  - name: Asmodeus Valentine Cerritos

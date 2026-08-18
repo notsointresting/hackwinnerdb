@@ -1,0 +1,14 @@
+id: projet-equipe-01-starhack
+project_id: projet-equipe-01
+hackathon_id: starhack
+submission_url: https://devpost.com/software/projet-equipe-01
+source:
+  platform: devpost
+  url: https://devpost.com/software/projet-equipe-01
+awards:
+  - type: other
+    title: Prix Propolys
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

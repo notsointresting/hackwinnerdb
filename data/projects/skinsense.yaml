@@ -1,0 +1,20 @@
+id: skinsense
+name: SkinSense
+slug: skinsense
+tagline: Analyze skin profile, generate personalized routines, discover products, and export
+  skincare plans; powered by Gemini AI.
+summary: SkinSense received the Codex $100 Credit award at Hack Days CUET in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/bishakhabibha/SkinSense
+demo_url: null
+video_url: https://www.youtube.com/embed/Fj9dBNH_XIU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/838/770/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - java
+builders:
+  - name: Bishakha Bibha

@@ -1,0 +1,25 @@
+id: clashroom-crash-n-learn
+name: "ClashRoom : Crash'n'Learn !"
+slug: clashroom-crash-n-learn
+tagline: Gamify your study session! Upload your course notes and course documents, and play a
+  personalized and challenging quizz game to test your knowledge. Generated l
+summary: "ClashRoom : Crash'n'Learn ! received the [MLH] Best Use of MongoDB Atlas award at MPC
+  Hacks in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/jdjossou/mpchacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/LshsezDCzSQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/722/186/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - claude
+  - elevenlabs
+  - gemini
+  - mongodb
+builders:
+  - name: Renaud Roy
+  - name: Juniel Djossou
+  - name: Samuel Leuchtmann
+  - name: Charles-Alexandre Cassagnol Paquin

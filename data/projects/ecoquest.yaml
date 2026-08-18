@@ -1,0 +1,19 @@
+id: ecoquest
+name: EcoQuest
+slug: ecoquest
+tagline: Waste Segregation Game
+summary: EcoQuest received the Creativity award at Maki 2D Pixel RPG Game  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hahaanisha/ecoquest-maki-Game
+demo_url: null
+video_url: https://www.youtube.com/embed/SXHufMSVYLc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/643/626/datas/gallery.jpg
+categories:
+  - gaming
+  - creative-tools
+technologies:
+  - javascript
+builders:
+  - name: ANISHA SHANKAR
+  - name: TEJAS GADGE

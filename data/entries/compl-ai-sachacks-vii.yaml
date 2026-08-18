@@ -1,0 +1,14 @@
+id: compl-ai-sachacks-vii
+project_id: compl-ai
+hackathon_id: sachacks-vii
+submission_url: https://devpost.com/software/compl-ai-iwgcta
+source:
+  platform: devpost
+  url: https://devpost.com/software/compl-ai-iwgcta
+awards:
+  - type: category-winner
+    title: "- Best Data Science Hack"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

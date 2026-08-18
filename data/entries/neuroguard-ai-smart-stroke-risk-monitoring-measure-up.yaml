@@ -1,0 +1,18 @@
+id: neuroguard-ai-smart-stroke-risk-monitoring-measure-up
+project_id: neuroguard-ai-smart-stroke-risk-monitoring
+hackathon_id: measure-up
+submission_url: https://devpost.com/software/neuroguard-ai-smart-stroke-risk-monitoring
+source:
+  platform: devpost
+  url: https://devpost.com/software/neuroguard-ai-smart-stroke-risk-monitoring
+awards:
+  - type: other
+    title: All participant get 1 month of free snap2measure api
+  - type: other
+    title: Participation Certificate
+  - type: second-place
+    title: Second Runner up
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

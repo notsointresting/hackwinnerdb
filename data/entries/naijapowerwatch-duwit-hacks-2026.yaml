@@ -1,0 +1,16 @@
+id: naijapowerwatch-duwit-hacks-2026
+project_id: naijapowerwatch
+hackathon_id: duwit-hacks-2026
+submission_url: https://devpost.com/software/najiapowerwatch
+source:
+  platform: devpost
+  url: https://devpost.com/software/najiapowerwatch
+awards:
+  - type: first-place
+    title: "[Accenture] Develop an AI-Based solution to a real-world issue - 1st place"
+  - type: second-place
+    title: "[Neptune North] CHALLENGE 1: ‘TECH FOR CHANGE’ - Prize Second place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

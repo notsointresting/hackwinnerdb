@@ -1,0 +1,14 @@
+id: fpgaudio-uoft-asic-team-ic-hackathon
+project_id: fpgaudio
+hackathon_id: uoft-asic-team-ic-hackathon
+submission_url: https://devpost.com/software/fpgaudio
+source:
+  platform: devpost
+  url: https://devpost.com/software/fpgaudio
+awards:
+  - type: first-place
+    title: First Place - FPGA
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

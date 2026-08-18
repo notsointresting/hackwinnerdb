@@ -1,0 +1,14 @@
+id: chromax-hack-msa
+project_id: chromax
+hackathon_id: hack-msa
+submission_url: https://devpost.com/software/project-9oh3upy7w85n
+source:
+  platform: devpost
+  url: https://devpost.com/software/project-9oh3upy7w85n
+awards:
+  - type: track-winner
+    title: Med Tech Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

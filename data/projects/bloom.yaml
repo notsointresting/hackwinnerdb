@@ -1,0 +1,20 @@
+id: bloom
+name: Bloom
+slug: bloom
+tagline: From sketch or speech to 3D in seconds.
+summary: Bloom received the Best 3D/CGI Tool award at SJHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/BhargavJakkaraju/SJHacks2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/IcqvcoIjybA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/619/101/datas/gallery.jpg
+categories:
+  - media
+  - creative-tools
+technologies:
+  - fastapi
+builders:
+  - name: Wayne Ngo
+  - name: Darren Shen
+  - name: Bhargav Jakkaraju

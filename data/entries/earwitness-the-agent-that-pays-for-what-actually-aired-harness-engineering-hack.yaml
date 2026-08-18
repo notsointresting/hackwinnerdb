@@ -1,0 +1,14 @@
+id: earwitness-the-agent-that-pays-for-what-actually-aired-harness-engineering-hack
+project_id: earwitness-the-agent-that-pays-for-what-actually-aired
+hackathon_id: harness-engineering-hack
+submission_url: https://devpost.com/software/earwitness-the-agent-that-pays-for-what-actually-aired
+source:
+  platform: devpost
+  url: https://devpost.com/software/earwitness-the-agent-that-pays-for-what-actually-aired
+awards:
+  - type: category-winner
+    title: Best Use of ClickHouse
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

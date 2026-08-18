@@ -1,0 +1,20 @@
+id: upi-fraud-detection-dev-clash
+project_id: upi-fraud-detection
+hackathon_id: dev-clash
+submission_url: https://devpost.com/software/upi_fraud_detection
+source:
+  platform: devpost
+  url: https://devpost.com/software/upi_fraud_detection
+awards:
+  - type: other
+    title: Participation Prize
+  - type: other
+    title: Dev Clash Champion
+  - type: other
+    title: Participation
+  - type: other
+    title: All participant get 1 month of free snap2measure api
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

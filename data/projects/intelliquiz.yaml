@@ -1,0 +1,23 @@
+id: intelliquiz
+name: IntelliQuiz
+slug: intelliquiz
+tagline: An AI powered quiz generator with real time leaderboard for participants.
+summary: IntelliQuiz received the Participation Prize award at DSH Hacks V1 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Maddy2206/IntelliQuiz
+demo_url: null
+video_url: https://www.youtube.com/embed/euk0Xu9X05o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/775/628/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - groq
+  - javascript
+  - postgresql
+  - redis
+  - typescript
+builders:
+  - name: Medhansh Rawat

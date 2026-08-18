@@ -1,0 +1,21 @@
+id: axiom-drift
+name: Axiom Drift
+slug: axiom-drift
+tagline: A verification layer that catches the silent assumptions your code depends on — before they
+  break in production.
+summary: Axiom Drift received the Top 100 Finalist Award award at Moonshot Hackathon in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arghya29/Axiom-Drift
+demo_url: null
+video_url: https://www.youtube.com/embed/vcFZA5b8mgg
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - python
+builders:
+  - name: Arghyadeep Bag
+  - name: MEGHNA DUTTA

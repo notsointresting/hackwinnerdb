@@ -1,0 +1,20 @@
+id: space-health-tracker
+name: Space Health Tracker
+slug: space-health-tracker
+tagline: A commonly overlooked problem is how everyone onboard is different; thus, their medical
+  needs will also be. The lack of an effective tool means we created Space
+summary: Space Health Tracker received the Winner of "Life in the Stars" award at Liftoff in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sorac100/hackathon.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/654/822/datas/gallery.jpg
+categories:
+  - healthcare
+  - productivity
+technologies: []
+builders:
+  - name: Winnie Zhang
+  - name: Sora Chang
+  - name: Kexin Huang

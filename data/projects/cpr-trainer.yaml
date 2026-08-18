@@ -1,0 +1,29 @@
+id: cpr-trainer
+name: CPR Trainer
+slug: cpr-trainer
+tagline: Educate the public with an accessible CPR trainer that eliminates the need for expensive
+  facilities, using low-cost ESP32 hardware to provide real-time feedback
+summary: CPR Trainer received the 2nd Place Prize award at IDEA Hacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pravusXsatis/CPR-Trainer
+demo_url: null
+video_url: https://www.youtube.com/embed/nkp_Skk1ydY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/774/datas/gallery.jpg
+categories:
+  - education
+  - accessibility
+  - iot
+technologies:
+  - arduino
+  - c-plus-plus
+  - esp32
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: darren luu
+  - name: Matthan Lu
+  - name: Franklin Coats
+  - name: honwesley Hon

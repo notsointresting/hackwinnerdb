@@ -1,0 +1,14 @@
+id: analytics-team-uet-mardan-smognet-datathon
+project_id: analytics-team-uet-mardan
+hackathon_id: smognet-datathon
+submission_url: https://devpost.com/software/pakistan-air-quality-intelligence-dashboard
+source:
+  platform: devpost
+  url: https://devpost.com/software/pakistan-air-quality-intelligence-dashboard
+awards:
+  - type: third-place
+    title: 3rd Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

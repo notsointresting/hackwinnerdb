@@ -1,0 +1,26 @@
+id: depth
+name: Depth
+slug: depth
+tagline: AI-powered patient preparation assistant that converts symptom conversations into clinical
+  summaries and triage recommendations, grounded in FDA and NIH sources
+summary: Depth received the Best Health & Wellness award at FullyHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/JmjyPspzryY
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - docker
+  - fastapi
+  - javascript
+  - python
+  - react
+builders:
+  - name: Samuel Kim
+  - name: Jonathan Aslam
+  - name: Ashley Chan
+  - name: Rodolfo Ramirez

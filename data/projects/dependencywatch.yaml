@@ -1,0 +1,26 @@
+id: dependencywatch
+name: DependencyWatch
+slug: dependencywatch
+tagline: A real-time dependency health scanner that fuses security, maintenance, adoption, and live
+  web chatter into one clear repair signal for every package.
+summary: "DependencyWatch received the Tower Pipeline Challenge: Data-to-AI award at DeveloperWeek
+  New York 2026 Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/huzaifazahid1/DependencyWatch/
+demo_url: null
+video_url: https://www.youtube.com/embed/m5kGm7oq5zA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/751/194/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - groq
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Huzaifa .

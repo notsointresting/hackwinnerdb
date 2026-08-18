@@ -1,0 +1,20 @@
+id: segpilot
+name: Segpilot
+slug: segpilot
+tagline: A live, honest measurement of whether routing Paritok's compression per-segment actually
+  helps, plus nine reproducible findings about the hosted API.
+summary: "Segpilot received the Most Valuable Feedback Prize award at Build with Paritok: The
+  Token-Efficiency Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending."
+website_url: null
+github_url: https://github.com/Paritok-official/paritok-4b-v1
+demo_url: null
+video_url: https://www.youtube.com/embed/BRtvnqZjBcs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/034/264/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Viktor Nedev

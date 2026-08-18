@@ -1,0 +1,20 @@
+id: ward
+name: WARD
+slug: ward
+tagline: You are the only surgeon in an emergency hospital ward.
+summary: WARD received the Best Overall Game award at Hackiethon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Skreepus/Ward
+demo_url: null
+video_url: https://www.youtube.com/embed/Ij42ss911BQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/516/325/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - gaming
+technologies:
+  - python
+builders:
+  - name: sillygoosesausage Wu
+  - name: Srineer Esarapu

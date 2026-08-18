@@ -1,0 +1,24 @@
+id: glow
+name: glow
+slug: glow
+tagline: a facial skin analysis app that recommends skincare routines and helps users quantify the
+  long-term impact of skincare products and lifestyle habits on their sk
+summary: glow received the 2nd Place award at Hack Your Life in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/CCQx3JsX7-s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/724/158/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - fastapi
+  - opencv
+  - python
+  - react
+builders:
+  - name: Abigail Wang
+  - name: mountainquail c
+  - name: Thomas Li
+  - name: Muyi Tang

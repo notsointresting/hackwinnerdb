@@ -1,0 +1,14 @@
+id: consensus-ai-hackfest
+project_id: consensus
+hackathon_id: ai-hackfest
+submission_url: https://devpost.com/software/consensus-psj7lf
+source:
+  platform: devpost
+  url: https://devpost.com/software/consensus-psj7lf
+awards:
+  - type: category-winner
+    title: Best Beginner Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

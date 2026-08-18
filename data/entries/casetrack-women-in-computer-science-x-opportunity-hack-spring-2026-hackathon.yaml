@@ -1,0 +1,14 @@
+id: casetrack-women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+project_id: casetrack
+hackathon_id: women-in-computer-science-x-opportunity-hack-spring-2026-hackathon
+submission_url: https://devpost.com/software/casetrack
+source:
+  platform: devpost
+  url: https://devpost.com/software/casetrack
+awards:
+  - type: other
+    title: Founding Engineer, Client Case Management
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

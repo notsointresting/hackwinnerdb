@@ -1,0 +1,24 @@
+id: sonarpath
+name: SonarPath
+slug: sonarpath
+tagline: "SonarPath — Real-time maritime routing that avoids whale habitats and NOAA sanctuaries.
+  Drag your ship, watch the acoustic halo, and save fuel by slowing down. "
+summary: SonarPath received the Best Social Impact / Sustainability award at FullyHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/emilyytsai/SonarPath
+demo_url: null
+video_url: https://www.youtube.com/embed/w3rvABlXWoU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/594/533/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Emily Tsai
+  - name: Samson Du
+  - name: Nicholas Bueno

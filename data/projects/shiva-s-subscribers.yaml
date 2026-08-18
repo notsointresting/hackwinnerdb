@@ -1,0 +1,23 @@
+id: shiva-s-subscribers
+name: Shiva's Subscribers
+slug: shiva-s-subscribers
+tagline: SubSave uses AI to find your forgotten subscriptions, cut the waste, and put your money
+  back where it belongs.
+summary: Shiva's Subscribers received the Prizes award at LynxHack2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shivakrishna1872-lgtm/hackathon-project/tree/main
+demo_url: null
+video_url: https://www.youtube.com/embed/qSd6rwr4mkQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/523/343/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Hrithik Turaka
+  - name: Navin Roy
+  - name: Shiva Pallikonda
+  - name: Mohamed Taha

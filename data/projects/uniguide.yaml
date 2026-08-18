@@ -1,0 +1,18 @@
+id: uniguide
+name: UniGuide
+slug: uniguide
+tagline: Your campus companion
+summary: UniGuide received the People's Choice award at WayneHacks 4 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/hhabdul/UniGuide
+demo_url: null
+video_url: https://www.youtube.com/embed/avSQHOnSjp4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/565/756/datas/medium.png
+categories:
+  - other
+technologies:
+  - supabase
+  - typescript
+builders:
+  - name: hhabdul Abdullah

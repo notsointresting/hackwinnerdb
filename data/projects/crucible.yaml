@@ -1,0 +1,20 @@
+id: crucible
+name: Crucible
+slug: crucible
+tagline: Companies waste billions on AI. Let's fix that.
+summary: Crucible received the 2nd Overall award at SCU Hack-a-Stack - Endurance Track in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/josuediazflores/crucible
+demo_url: null
+video_url: https://www.youtube.com/embed/BqD2H90TKG0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/673/780/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Josue Diaz
+  - name: Ulises Diaz
+  - name: James Wilson

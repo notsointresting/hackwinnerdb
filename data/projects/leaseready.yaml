@@ -1,0 +1,21 @@
+id: leaseready
+name: LeaseReady
+slug: leaseready
+tagline: LeaseReady turns any home into a rental listing in minutes. It uses AI to enhance photos,
+  draft Airbnb-ready copy, and pre-fill legal rental agreements for imme
+summary: LeaseReady received the Best Use of AutoHDR award at CSBA x HBA Hack Day in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/aaronshuang/LeaseReady
+demo_url: null
+video_url: https://www.youtube.com/embed/jj3-DQVGO3w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/566/008/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - media
+technologies:
+  - gemini
+  - javascript
+  - python
+builders:
+  - name: Aaron Tsinatu  Shuang

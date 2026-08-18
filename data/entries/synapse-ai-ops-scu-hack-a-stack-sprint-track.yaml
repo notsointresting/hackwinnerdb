@@ -1,0 +1,14 @@
+id: synapse-ai-ops-scu-hack-a-stack-sprint-track
+project_id: synapse-ai-ops
+hackathon_id: scu-hack-a-stack-sprint-track
+submission_url: https://devpost.com/software/synapse-ai-ops-y41mdc
+source:
+  platform: devpost
+  url: https://devpost.com/software/synapse-ai-ops-y41mdc
+awards:
+  - type: track-winner
+    title: GetStream Track Winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,20 @@
+id: chaos-nexus
+name: Chaos Nexus
+slug: chaos-nexus
+tagline: Autonomous Multi-Agent Self-Healing System
+summary: "Chaos Nexus received the Hack Day I Demoed Stickers award at HackCafe : May Edition in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Farizakb/hackcafe_project
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - docker
+  - fastapi
+  - gemini
+  - python
+builders:
+  - name: Fariz Akbarzada

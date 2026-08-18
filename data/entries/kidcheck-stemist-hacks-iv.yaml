@@ -1,0 +1,14 @@
+id: kidcheck-stemist-hacks-iv
+project_id: kidcheck
+hackathon_id: stemist-hacks-iv
+submission_url: https://devpost.com/software/kidcheck
+source:
+  platform: devpost
+  url: https://devpost.com/software/kidcheck
+awards:
+  - type: second-place
+    title: Best use of Render 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,25 @@
+id: personal-practice-intelligence
+name: Personal Practice Intelligence
+slug: personal-practice-intelligence
+tagline: Practice memory for architects and designers. An agentic teammate for students at heart,
+  keeping the reasoning behind every reference, and recalling it when a s
+summary: "Personal Practice Intelligence received the 1st Prize award at TheFirst Spark 2026: Youth
+  Symposium in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/zyocGlAgT1U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/823/097/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - openai
+  - postgresql
+  - supabase
+  - vercel
+builders:
+  - name: Adib Zailan

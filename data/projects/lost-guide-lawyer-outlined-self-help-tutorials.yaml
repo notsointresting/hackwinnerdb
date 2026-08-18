@@ -1,0 +1,25 @@
+id: lost-guide-lawyer-outlined-self-help-tutorials
+name: LOST.Guide - Lawyer Outlined Self-help Tutorials
+slug: lost-guide-lawyer-outlined-self-help-tutorials
+tagline: LOST.guide checks a name against 6 live sources—USPTO, app stores, GitHub & the web—before
+  you pay a non-refundable trademark fee, then helps you file your EIN,
+summary: LOST.Guide - Lawyer Outlined Self-help Tutorials received the DeveloperWeek New York
+  Hackathon 2026 Overall Winner award at DeveloperWeek New York 2026 Hackathon in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/banksythequantLab/lostguide-knockout
+demo_url: null
+video_url: https://www.youtube.com/embed/I8wy_reozoE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/736/150/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - infrastructure
+technologies:
+  - claude
+  - cloudflare
+  - javascript
+  - python
+  - stripe
+builders:
+  - name: Derek Soltis

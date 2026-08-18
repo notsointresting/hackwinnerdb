@@ -1,0 +1,22 @@
+id: promptfootprint
+name: PromptFootprint
+slug: promptfootprint
+tagline: PromptFootprint reveals the energy, water, carbon, and token cost of every AI prompt,
+  helping users write smarter and reduce AI’s hidden environmental impact.
+summary: PromptFootprint received the Fourth & Fifth Place award at Hoobit Hacks 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sahilp15/prompt_footprint
+demo_url: null
+video_url: https://www.youtube.com/embed/1KPtvM6p0rM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/921/969/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - climate
+technologies:
+  - javascript
+  - react
+  - vercel
+builders:
+  - name: Sahil Parasharami

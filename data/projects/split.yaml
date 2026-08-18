@@ -1,0 +1,21 @@
+id: split
+name: split
+slug: split
+tagline: split turns one receipt photo into exact, private browser-based shares that assign items,
+  split tax and tip, and send rotating links with no downloads or spread
+summary: "split received the Chexy: Make Every Payment Count with Chexy award at Hack the 6ix 2026
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/jjohngrey/split
+demo_url: null
+video_url: https://www.youtube.com/embed/G0kMjcESkVc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/932/577/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - mongodb
+  - typescript
+builders:
+  - name: John Grey

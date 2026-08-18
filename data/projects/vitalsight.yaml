@@ -1,0 +1,24 @@
+id: vitalsight
+name: VitalSight
+slug: vitalsight
+tagline: AR-powered remote patient vitals monitor for clinical trials. Webcam-based contactless
+  vital sign detection with AI analysis, voice coaching, and blockchain aud
+summary: VitalSight received the [MLH] Best Use of Solana award at RevolutionUC 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/FIjlmiHmQwU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/509/100/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - ar-vr
+  - blockchain
+technologies:
+  - claude
+  - docker
+  - elevenlabs
+  - gemini
+  - solana
+builders:
+  - name: Jasmine Mogadam

@@ -1,0 +1,22 @@
+id: caminovivo
+name: CaminoVivo
+slug: caminovivo
+tagline: "CaminoVivo agrega datos meteorológicos, albergues, fuentes de agua, rutas GPS y eventos
+  culturales de fuentes públicas gallegas en una plataforma unificada con "
+summary: CaminoVivo received the GRAFANA award at HackUDC 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/eIfFVLgtsAA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/384/066/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - java
+  - python
+builders:
+  - name: Xabi Nóvoa
+  - name: Antonio Vilares Salgueiro
+  - name: Adrián Quiroga Linares
+  - name: Hugo Coto Flórez

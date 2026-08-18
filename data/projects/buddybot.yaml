@@ -1,0 +1,19 @@
+id: buddybot
+name: BuddyBot
+slug: buddybot
+tagline: Meet BuddyBot! An AI pet powered by Gemini, that develops its own personality, updates
+  memories, and evolves!
+summary: BuddyBot received the Certificate award at GABA Hackday in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/pusheen5000000/BuddyBot
+demo_url: null
+video_url: https://www.youtube.com/embed/DYdus5llZwQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/957/544/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+builders:
+  - name: Jenny Bian

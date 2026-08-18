@@ -1,0 +1,21 @@
+id: eduboost-ai
+name: EduBoost AI
+slug: eduboost-ai
+tagline: AI-powered collaborative learning platform that helps students understand notes, summarize
+  study materials, and learn together through personalized Gemini-based
+summary: EduBoost AI received the MLH + GEMINI SWAG award at PIXEL GEMINI 2.0 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ademolaadisa010/EduBoost-ai.git
+demo_url: null
+video_url: https://www.youtube.com/embed/JG5v2y_Il38
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/673/193/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - nextjs
+  - typescript
+builders:
+  - name: Abdulmalik Abdulrosheed

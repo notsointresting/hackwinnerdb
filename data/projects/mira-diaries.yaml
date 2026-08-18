@@ -1,0 +1,18 @@
+id: mira-diaries
+name: Mira Diaries
+slug: mira-diaries
+tagline: Where emotions grow into something you can see ; A journaling space designed for
+  expression, reflection, and growth.
+summary: Mira Diaries received the 1st Place (Both Tracks) award at Code as a Canvas in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/O5uy9bZRTvc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/470/743/datas/gallery.jpg
+categories:
+  - media
+  - creative-tools
+technologies: []
+builders:
+  - name: Drishti Singh

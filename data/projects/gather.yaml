@@ -1,0 +1,21 @@
+id: gather
+name: Gather
+slug: gather
+tagline: Gather is an event management tool, specifically catered for pop-up events, that help
+  create a sense of community for event organizers and attendees.
+summary: Gather received the People's Choice award at UCI Design-a-thon 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/9p0UFPNDo4s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/612/218/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Jyoti Maharjan
+  - name: Jacqueline Lara Hernandez
+  - name: Hannah Ohm
+  - name: Heather Nguyen Phuoc

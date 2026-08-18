@@ -1,0 +1,22 @@
+id: gitscope
+name: GitScope
+slug: gitscope
+tagline: GitScope gives you X-ray vision into any GitHub repo. Paste a link, get a full codebase
+  analysis with security scanning, architecture mapping, and an AI chat in
+summary: GitScope received the Google Swag award at hackUMBC Mini Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/star11293/GitScope
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/582/087/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - flask
+  - javascript
+  - python
+builders:
+  - name: Akene Crosse

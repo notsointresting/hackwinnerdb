@@ -1,0 +1,26 @@
+id: risk-radar
+name: Risk Radar
+slug: risk-radar
+tagline: Risk reimagined.
+summary: Risk Radar received the State Farm Challenge award at WEHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/TamannaK24/wehack26.git
+demo_url: null
+video_url: https://www.youtube.com/embed/OyQLwZaq0Jw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/982/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - flask
+  - google-maps
+  - javascript
+  - mongodb
+  - openai
+  - python
+  - react
+builders:
+  - name: Anvi Siddabhattuni
+  - name: Tramanh Trinh
+  - name: Tamanna Khurana
+  - name: Siri Kishore Dola

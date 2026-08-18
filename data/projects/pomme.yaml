@@ -1,0 +1,30 @@
+id: pomme
+name: Pomme
+slug: pomme
+tagline: Pomme is a low-cost autonomous fruit-picking rover with a robotic arm, camera, and LiDAR.
+  It maps changing orchards with SLAM, tracks fruit in 3D, avoids obstac
+summary: "Pomme received the Qualcomm: Build at the Edge with Arduino UNO Q award at Hack the 6ix
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/DanielWLiu07/hack-the-6ix
+demo_url: null
+video_url: https://www.youtube.com/embed/1vGxSPo5f9w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/935/214/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - javascript
+  - mongodb
+  - python
+  - react
+  - vercel
+builders:
+  - name: Daniel Liu
+  - name: Jad Menkara
+  - name: Kevin Jiang
+  - name: Vincent Loh

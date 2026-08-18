@@ -1,0 +1,20 @@
+id: alice-and-bob-yquantum-2026-submission-psiteratops
+name: Alice and Bob YQuantum 2026 Submission - Psiteratops
+slug: alice-and-bob-yquantum-2026-submission-psiteratops
+tagline: We built a benchmark framework for optimizing dissipative cat qubits under realistic
+  hardware drift. We benchmark CMA-ES against REINFORCE across three drift sc
+summary: Alice and Bob YQuantum 2026 Submission - Psiteratops received the Alice & Bob - 3rd Place
+  award at YQuantum 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/Valmohaugen/YQuantum-2026
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/535/160/datas/gallery.jpg
+categories:
+  - iot
+technologies:
+  - python
+builders:
+  - name: Vivek Krishnan
+  - name: Papp Marcell Imre

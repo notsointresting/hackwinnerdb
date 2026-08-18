@@ -1,0 +1,21 @@
+id: simplysave
+name: SimplySave
+slug: simplysave
+tagline: Non-custodial Bitcoin Financial Insurance. Manage easily the volatility of your savings or
+  company treasury with automated non-custodial portfolio rebalancing.
+summary: SimplySave received the Third place award at Blockstream Turin Simplicity Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/piergiorgies/simply-save
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/676/662/datas/gallery.jpg
+categories:
+  - fintech
+  - blockchain
+technologies:
+  - rust
+builders:
+  - name: John Galt
+  - name: Zio Cecio
+  - name: Gianluca Acerbis

@@ -1,0 +1,14 @@
+id: practitioner-signal-mlt20-ai-buildathon-powered-by-wncp-ai
+project_id: practitioner-signal
+hackathon_id: mlt20-ai-buildathon-powered-by-wncp-ai
+submission_url: https://devpost.com/software/practitioner-signal
+source:
+  platform: devpost
+  url: https://devpost.com/software/practitioner-signal
+awards:
+  - type: finalist
+    title: MLT20 AI Buildathon Viewers Choice Finalist
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

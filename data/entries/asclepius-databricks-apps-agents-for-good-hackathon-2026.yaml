@@ -1,0 +1,14 @@
+id: asclepius-databricks-apps-agents-for-good-hackathon-2026
+project_id: asclepius
+hackathon_id: databricks-apps-agents-for-good-hackathon-2026
+submission_url: https://devpost.com/software/asclepius-mdbkwl
+source:
+  platform: devpost
+  url: https://devpost.com/software/asclepius-mdbkwl
+awards:
+  - type: second-place
+    title: 2nd Place Gift Card
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

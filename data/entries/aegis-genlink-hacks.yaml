@@ -1,0 +1,16 @@
+id: aegis-genlink-hacks
+project_id: aegis
+hackathon_id: genlink-hacks
+submission_url: https://devpost.com/software/aegis-clk40a
+source:
+  platform: devpost
+  url: https://devpost.com/software/aegis-clk40a
+awards:
+  - type: second-place
+    title: 2nd Place
+  - type: second-place
+    title: 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

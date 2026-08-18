@@ -1,0 +1,23 @@
+id: bpdpop-profiles
+name: BPDpop Profiles
+slug: bpdpop-profiles
+tagline: Easy visualizations to locate hotspots of misconduct
+summary: BPDpop Profiles received the Best Police Accountability award at Civic Hacks 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/BUCbfqo-W9E
+image_url: null
+categories:
+  - social-impact
+technologies:
+  - python
+  - react
+  - sql
+  - supabase
+builders:
+  - name: Veronica Song
+  - name: Kloafe Chen
+  - name: Alina Gonzalez
+  - name: Sophia Yang

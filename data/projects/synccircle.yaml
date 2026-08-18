@@ -1,0 +1,23 @@
+id: synccircle
+name: SyncCircle
+slug: synccircle
+tagline: SyncCircle is a collaborative study hub that helps students sync timetables with friends,
+  plan smarter with AI, share notes, and stay organized together.
+summary: SyncCircle received the People's Choice award at Kiro Buildfest 2026 Singapore in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AlexanderLiew/SyncCircle.git
+demo_url: null
+video_url: https://www.youtube.com/embed/oENFysIq6Zw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/860/873/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - tailwind-css
+  - typescript
+builders:
+  - name: Itz Harry
+  - name: Alexander Liew
+  - name: Andre Rojas
+  - name: Aesterin Huang

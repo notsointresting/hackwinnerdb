@@ -1,0 +1,14 @@
+id: tide-and-till-sandcastle
+project_id: tide-and-till
+hackathon_id: sandcastle
+submission_url: https://devpost.com/software/tide-and-till
+source:
+  platform: devpost
+  url: https://devpost.com/software/tide-and-till
+awards:
+  - type: other
+    title: KNOWIDEA Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

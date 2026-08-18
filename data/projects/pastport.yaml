@@ -1,0 +1,20 @@
+id: pastport
+name: PastPort
+slug: pastport
+tagline: PastPort’s AR app experience brings together history, culture, and travel all in one package.
+summary: PastPort received the The Startup Through Time Track award at WEHack 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - ar-vr
+technologies:
+  - figma
+builders:
+  - name: Adeline N
+  - name: Anagha Petle
+  - name: Sahitha Sai
+  - name: Saavi Shinde

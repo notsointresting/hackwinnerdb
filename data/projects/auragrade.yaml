@@ -1,0 +1,20 @@
+id: auragrade
+name: AuraGrade
+slug: auragrade
+tagline: Real-time emotion based color grading
+summary: "AuraGrade received the RIT MAGIC Spell Studios: Traver Creative Technologist award at
+  WiCHacks '26 in 2026. This record was imported automatically; the summary and source check are
+  still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/roOS6aHW9gw
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/391/592/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Pankhuri S

@@ -1,0 +1,23 @@
+id: penetron
+name: Penetron
+slug: penetron
+tagline: "Penetron proves vulnerabilities instead of just flagging them: an AI agent exploits your
+  running app to confirm what's real, governed end-to-end by UiPath."
+summary: Penetron received the Honorable Mention of UiPath Test Cloud award at UiPath AgentHack in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kryo-o/penetron
+demo_url: null
+video_url: https://www.youtube.com/embed/OydkHF6yVag
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/837/698/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - robotics
+technologies:
+  - anthropic
+  - claude
+  - react
+  - typescript
+builders:
+  - name: Oleksandr Kryvchenko

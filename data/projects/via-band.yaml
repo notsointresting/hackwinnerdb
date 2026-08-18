@@ -1,0 +1,20 @@
+id: via-band
+name: VIA band
+slug: via-band
+tagline: The AI wristband that makes your phone feel slow. Speak once, get answers, control your
+  world, and stay hands-free, because convenience should live on your wris
+summary: "VIA band received the BEST BEGINNER PROJECT award at Girls in STEM: AI for Social Good
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/uVLI4NHizA0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/632/867/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies: []
+builders:
+  - name: Rafaella Maia

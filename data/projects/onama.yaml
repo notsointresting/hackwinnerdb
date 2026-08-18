@@ -1,0 +1,24 @@
+id: onama
+name: Onama
+slug: onama
+tagline: AI tool that adds sound to silent videos by analyzing the contents of the video. This tool
+  completes experiences by generating and syncing realistic audio, savi
+summary: Onama received the Best Use of Eleven Labs award at HACKMESA 2.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sanchitamodi/Onama
+demo_url: null
+video_url: https://www.youtube.com/embed/XsBkxFPETo4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/581/304/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - fintech
+  - media
+technologies:
+  - opencv
+  - python
+builders:
+  - name: Bryan Espinoza
+  - name: A-martian n/a
+  - name: Sanchita Modi
+  - name: Alanna Labian

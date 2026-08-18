@@ -1,0 +1,14 @@
+id: claude-builders-ai-hackathon
+name: Claude Builders AI Hackathon
+slug: claude-builders-ai-hackathon
+organizer: []
+year: 2026
+sources:
+  - https://cbc-mcgill.devpost.com/
+  - https://cbc-mcgill.devpost.com/project-gallery?filter=winner
+website_url: https://cbc-mcgill.devpost.com/
+platform: devpost
+participant_count: 125
+prize_pool: 2300
+currency: USD
+description: "Devpost hackathon: Claude Builders AI Hackathon. Imported automatically."

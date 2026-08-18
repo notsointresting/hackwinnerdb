@@ -1,0 +1,22 @@
+id: research-rag
+name: Research-RAG
+slug: research-rag
+tagline: If you've ever had a stack of research papers and no time to read them all, this is for
+  you. Upload your PDF, and it stores them into a vector database for you,
+summary: Research-RAG received the MLH - Best Use of MongoDB Atlas award at SproutGT in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Systemized/research-rag
+demo_url: null
+video_url: https://www.youtube.com/embed/DjGV-c1q8dE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/551/154/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - javascript
+  - mongodb
+  - react
+builders:
+  - name: Gerardo Rivera
+  - name: Asmat Ullah
+  - name: Vincent Nguyen

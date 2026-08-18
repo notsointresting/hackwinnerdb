@@ -1,0 +1,14 @@
+id: kickoff-google-cloud-rapid-agent-hackathon
+project_id: kickoff
+hackathon_id: google-cloud-rapid-agent-hackathon
+submission_url: https://devpost.com/software/trustos
+source:
+  platform: devpost
+  url: https://devpost.com/software/trustos
+awards:
+  - type: second-place
+    title: MongoDB - 2nd Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

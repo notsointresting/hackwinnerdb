@@ -1,0 +1,20 @@
+id: smiggles
+name: Smiggles
+slug: smiggles
+tagline: Smiggles is a 32bit x86 operating system that includes a command interpreter, a custom
+  filesystem, a text editor, a package installer, privilege support, proces
+summary: "Smiggles received the Runner-Up Certificates award at Rebuilding the OS: Core System
+  Utilities Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/TheExpert24/smiggles/
+demo_url: null
+video_url: https://www.youtube.com/embed/oAvqzA_Cw2o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/631/671/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Jules Miller
+  - name: Vajra Vanukuri

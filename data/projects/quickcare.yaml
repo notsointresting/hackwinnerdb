@@ -1,0 +1,21 @@
+id: quickcare
+name: QuickCare
+slug: quickcare
+tagline: "Audax Group presents QuickCare: AI-powered USSD triage for Ghana. No data needed. Dial a
+  code, get AI symptoms routing & a digital token. We’re cutting wait tim"
+summary: QuickCare received the Swag kit award at CIReN Mini Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/PJ-impact/QuickCare-AI-USSD
+demo_url: null
+video_url: https://www.youtube.com/embed/PlQSeWulBE4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/519/242/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+technologies:
+  - flask
+  - python
+  - sql
+builders:
+  - name: Princess Jessica

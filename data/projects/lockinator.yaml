@@ -1,0 +1,19 @@
+id: lockinator
+name: lockinator
+slug: lockinator
+tagline: Want to lock in? Use lockinator
+summary: lockinator received the [Main Track] 2nd Place award at KentHackIt in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/5amp12/lockinator
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - react
+builders:
+  - name: Sam P
+  - name: Lazar Vujovic

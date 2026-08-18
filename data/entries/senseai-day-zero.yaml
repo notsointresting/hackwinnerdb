@@ -1,0 +1,14 @@
+id: senseai-day-zero
+project_id: senseai
+hackathon_id: day-zero
+submission_url: https://devpost.com/software/senseai-mol05y
+source:
+  platform: devpost
+  url: https://devpost.com/software/senseai-mol05y
+awards:
+  - type: honorable-mention
+    title: The "Keep Shipping" Commitment (Honorable Mentions)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

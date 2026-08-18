@@ -1,0 +1,22 @@
+id: medconnect
+name: MedConnect
+slug: medconnect
+tagline: MedConnect — Triaje inteligente, geolocalización y chat médico en segundos. Conectamos
+  pacientes con el doctor correcto usando IA multi-agente y datos reales.
+summary: MedConnect received the Best Use of Gemini API award at Hackathon Troyano 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/DanielaMoran-Dev/TROYANO-Agente-Inteligente.git
+demo_url: null
+video_url: https://www.youtube.com/embed/Sbmnvhjsyso
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/580/561/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - vertex-ai
+builders:
+  - name: MORAN OCHOA DANIELA SARAY
+  - name: Noe de Luna
+  - name: Angel Ponce
+  - name: Romo Muñoz Diego

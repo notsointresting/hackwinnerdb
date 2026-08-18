@@ -1,0 +1,28 @@
+id: feetball
+name: feetball
+slug: feetball
+tagline: 22 AI agents play football, 1000+ agents betting on it.
+summary: "feetball received the ElevenLabs: Best Project Built with ElevenLabs award at Hack the 6ix
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/notjackl3/ht6
+demo_url: null
+video_url: https://www.youtube.com/embed/2Sj9VYZia_s
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/940/276/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - elevenlabs
+  - mapbox
+  - nextjs
+  - python
+  - react
+  - typescript
+builders:
+  - name: Steric Tsui
+  - name: Jack Le
+  - name: Timothy Khan
+  - name: Kenny Wu

@@ -1,0 +1,14 @@
+id: what-the-honk-hack-hack-goose
+project_id: what-the-honk
+hackathon_id: hack-hack-goose
+submission_url: https://devpost.com/software/what-the-honk
+source:
+  platform: devpost
+  url: https://devpost.com/software/what-the-honk
+awards:
+  - type: category-winner
+    title: Harnold's Finest Feathers - Best Design ($140 value)
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

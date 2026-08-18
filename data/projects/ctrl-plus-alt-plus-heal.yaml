@@ -1,0 +1,24 @@
+id: ctrl-plus-alt-plus-heal
+name: Ctrl+Alt+Heal
+slug: ctrl-plus-alt-plus-heal
+tagline: AI-powered clinical gap detection that finds the diagnoses hiding in your charts, so no
+  condition goes uncoded and no revenue goes uncaptured.
+summary: Ctrl+Alt+Heal received the 3rd Prize award at Agents Assemble - The Healthcare AI Endgame
+  in 2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kishanraj41/Medical-Gap-Detection
+demo_url: null
+video_url: https://www.youtube.com/embed/P-yNoX7cyFs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/661/746/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - docker
+  - fastapi
+  - google-cloud
+  - python
+builders:
+  - name: Kishan Raj Vandhavasi Goutham Kumar
+  - name: Jaswanth  Thundlam

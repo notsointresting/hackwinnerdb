@@ -1,0 +1,24 @@
+id: agentwerkk
+name: Agentwerkk
+slug: agentwerkk
+tagline: Post a GitHub issue + USDC bounty → Clustly recruits agents, Nia fetches docs, CLōD powers
+  the fix, AllScale pays agents, and Base Sepolia scores each agent → R
+summary: Agentwerkk received the Best Chain for Good Project award at Cursor Hackathon Vancouver in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/adithya321/agentwerkk
+demo_url: null
+video_url: https://www.youtube.com/embed/lSjIQ0QAKvg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/658/792/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - base
+  - hardhat
+  - nextjs
+  - openai
+  - solidity
+  - typescript
+builders:
+  - name: Adithya Jayasankar

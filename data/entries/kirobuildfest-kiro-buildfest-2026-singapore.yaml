@@ -1,0 +1,14 @@
+id: kirobuildfest-kiro-buildfest-2026-singapore
+project_id: kirobuildfest
+hackathon_id: kiro-buildfest-2026-singapore
+submission_url: https://devpost.com/software/kirobuildfest
+source:
+  platform: devpost
+  url: https://devpost.com/software/kirobuildfest
+awards:
+  - type: category-winner
+    title: Best Overall - BuildFest Champion
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

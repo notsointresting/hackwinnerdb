@@ -1,0 +1,22 @@
+id: the-whispering-orb
+name: The Whispering Orb
+slug: the-whispering-orb
+tagline: A voice-first AI experience where you solve cinematic mysteries and debate an intelligent
+  oracle that evaluates your reasoning.
+summary: The Whispering Orb received the Best With MeDo award at TechCommons Hacks in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/UnknownGod2011/WhoLetTheDogsOut
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/128/745/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - tailwind-css
+  - vercel
+builders:
+  - name: Tanush Shah
+  - name: Krishang Parmar

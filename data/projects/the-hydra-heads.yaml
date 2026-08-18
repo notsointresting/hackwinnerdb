@@ -1,0 +1,23 @@
+id: the-hydra-heads
+name: The Hydra Heads
+slug: the-hydra-heads
+tagline: From patient standing to personalized recovery session in 90 seconds no wearables, no
+  setup, no guesswork.
+summary: The Hydra Heads received the Tamagrow award at GlobeHack in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AaryaBhatt9/The-Hydra-Heads
+demo_url: null
+video_url: https://www.youtube.com/embed/utiUBV71CDA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/998/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - javascript
+builders:
+  - name: Dhruv Jayantilal Patel
+  - name: Brian Beers
+  - name: jackie ramirez
+  - name: Aarya Pradipkumar Bhatt

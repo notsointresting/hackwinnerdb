@@ -1,0 +1,26 @@
+id: doclab-v1
+name: DocLAB (v1)
+slug: doclab-v1
+tagline: DocLab gives every doctor access to AI prototyping, helping them instantiate clinical ideas
+  into trained models without needing to code or become machine learni
+summary: DocLAB (v1) received the Public Choice award at HackJPS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/WasimVorvoi/Doclab1
+demo_url: null
+video_url: https://www.youtube.com/embed/ONIs1-QWO8U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/725/021/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - python
+  - pytorch
+  - react
+  - rust
+  - sqlite
+  - typescript
+builders:
+  - name: Devi kanumilli
+  - name: Wasim Vorvoi
+  - name: Ishaan Arya

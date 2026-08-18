@@ -1,0 +1,14 @@
+id: intelliai-arena
+name: IntelliAI Arena
+slug: intelliai-arena
+organizer: []
+year: 2026
+sources:
+  - https://intelliai-arena.devpost.com/
+  - https://intelliai-arena.devpost.com/project-gallery?filter=winner
+website_url: https://intelliai-arena.devpost.com/
+platform: devpost
+participant_count: 113
+prize_pool: 2100
+currency: USD
+description: "Devpost hackathon: IntelliAI Arena. Imported automatically."

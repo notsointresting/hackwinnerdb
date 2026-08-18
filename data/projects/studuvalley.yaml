@@ -1,0 +1,23 @@
+id: studuvalley
+name: Studuvalley
+slug: studuvalley
+tagline: Break the cycle of infinite scrolling. Studuvalley replaces "brainrot' with meaningful
+  focus. Join your friends in a shared digital workspace where every minute
+summary: Studuvalley received the Best UI/UX Design award at HackIllinois 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/x_2q6yAw9RQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/386/170/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - nextjs
+  - supabase
+builders:
+  - name: Zi Jun
+  - name: BowenX307 xiao
+  - name: RuoweiS Shi

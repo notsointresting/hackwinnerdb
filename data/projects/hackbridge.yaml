@@ -1,0 +1,24 @@
+id: hackbridge
+name: HackBridge
+slug: hackbridge
+tagline: Agentic hackathon website builder and manager that maintains autonomous state consistency,
+  using Discord announcements as the database source of truth.
+summary: HackBridge received the Best Use of Vultr Cloud award at SotonHack in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Aleks-Tacconi/HackBridge
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/443/929/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - docker
+  - gemini
+  - mongodb
+  - python
+  - react
+  - typescript
+builders:
+  - name: Aleksander Tacconi
+  - name: Christopher White

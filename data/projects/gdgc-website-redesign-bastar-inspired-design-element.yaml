@@ -1,0 +1,26 @@
+id: gdgc-website-redesign-bastar-inspired-design-element
+name: GDGC Website Redesign(Bastar inspired design element)
+slug: gdgc-website-redesign-bastar-inspired-design-element
+tagline: A modern, responsive redesign of the GDGC GGV website focused on better community
+  engagement, seamless navigation, and culturally inspired UI/UX experiences.
+summary: GDGC Website Redesign(Bastar inspired design element) received the Winner award at The
+  Final of Chapter of GDG in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/ayur546411-design/Final-Project-GDGC-GGV
+demo_url: null
+video_url: https://www.youtube.com/embed/gq7BUFP3Z9U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/721/651/datas/gallery.jpg
+categories:
+  - education
+  - cybersecurity
+  - creative-tools
+technologies:
+  - figma
+  - firebase
+  - javascript
+builders:
+  - name: Ayush Kumar
+  - name: ABHISHEK JAISWAL
+  - name: Harsh Srivastava
+  - name: Mandakni Barman

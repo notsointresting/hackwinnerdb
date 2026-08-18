@@ -1,0 +1,21 @@
+id: localroots
+name: LocalRoots
+slug: localroots
+tagline: Empowering Black-owned businesses through community lending, MPT loyalty schemes, and
+  simple, XRPL-powered finance, yielding the benefits of public verifiable b
+summary: "LocalRoots received the BFN: Monitor award at NSBE HACKS 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/e-ndorfin/localroots
+demo_url: null
+video_url: https://www.youtube.com/embed/G4X1nOaiQec
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/363/361/datas/gallery.jpg
+categories:
+  - education
+  - fintech
+  - blockchain
+technologies:
+  - supabase
+builders:
+  - name: Zachary Tang
+  - name: dwaoi1 dwaoi1

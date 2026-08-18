@@ -1,0 +1,14 @@
+id: volana-wildhacks
+project_id: volana
+hackathon_id: wildhacks
+submission_url: https://devpost.com/software/volana
+source:
+  platform: devpost
+  url: https://devpost.com/software/volana
+awards:
+  - type: sponsor-prize
+    title: Claude AI Sponsor Prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

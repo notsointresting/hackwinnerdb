@@ -1,0 +1,24 @@
+id: phoneme
+name: Phoneme
+slug: phoneme
+tagline: Spell it. Say it. Write it. Phoneme makes phonics feel like play and gives teachers a
+  clearer view of who actually needs help, right now.
+summary: Phoneme received the 1st Place award at Build It Break It 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/seadeef/Phoneme
+demo_url: null
+video_url: https://www.youtube.com/embed/rv_yo673gP8
+image_url: null
+categories:
+  - cybersecurity
+technologies:
+  - anthropic
+  - cloudflare
+  - elevenlabs
+  - gemini
+  - python
+  - typescript
+builders:
+  - name: Camilla C
+  - name: Kevin Toren

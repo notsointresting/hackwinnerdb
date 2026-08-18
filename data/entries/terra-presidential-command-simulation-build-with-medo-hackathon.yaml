@@ -1,0 +1,16 @@
+id: terra-presidential-command-simulation-build-with-medo-hackathon
+project_id: terra-presidential-command-simulation
+hackathon_id: build-with-medo-hackathon
+submission_url: https://devpost.com/software/terra-presidential-command-simulation
+source:
+  platform: devpost
+  url: https://devpost.com/software/terra-presidential-command-simulation
+awards:
+  - type: second-place
+    title: 2nd Place
+  - type: community-choice
+    title: Community Choice Award
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

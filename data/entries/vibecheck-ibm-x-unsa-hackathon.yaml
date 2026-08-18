@@ -1,0 +1,14 @@
+id: vibecheck-ibm-x-unsa-hackathon
+project_id: vibecheck
+hackathon_id: ibm-x-unsa-hackathon
+submission_url: https://devpost.com/software/vibecheck-1c7365
+source:
+  platform: devpost
+  url: https://devpost.com/software/vibecheck-1c7365
+awards:
+  - type: category-winner
+    title: Best Cybersecurity & Trust
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

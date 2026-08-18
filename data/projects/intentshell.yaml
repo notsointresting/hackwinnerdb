@@ -1,0 +1,19 @@
+id: intentshell
+name: IntentShell
+slug: intentshell
+tagline: "IntentShell is pre-flight safety for dangerous file commands: it checks what will change
+  against what you meant, blocks mismatches, and suggests the safer comma"
+summary: "IntentShell received the Runner-Up Certificates award at Rebuilding the OS: Core System
+  Utilities Hackathon in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: https://github.com/Silveroboros-dev/IntentShell
+demo_url: null
+video_url: https://www.youtube.com/embed/ZNiR9UKaNJc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/624/031/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Ruslan Karmannyy

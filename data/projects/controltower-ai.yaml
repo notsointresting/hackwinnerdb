@@ -1,0 +1,19 @@
+id: controltower-ai
+name: ControlTower AI
+slug: controltower-ai
+tagline: The AI operating system for executives.
+summary: ControlTower AI received the Best Use of Google Gemini API award at Hack days in KGI in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nithyacoorg2005/ControlTowerAI
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/802/952/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - react
+builders:
+  - name: Nithyashree  CS

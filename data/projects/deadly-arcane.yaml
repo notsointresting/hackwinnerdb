@@ -1,0 +1,17 @@
+id: deadly-arcane
+name: Deadly Arcane
+slug: deadly-arcane
+tagline: Game of Throwing hands
+summary: Deadly Arcane received the Fotor 1st Place award at The London Rork Game Hackathon  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/h1QVNXEkFLM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/766/163/datas/gallery.jpg
+categories:
+  - iot
+  - gaming
+technologies: []
+builders:
+  - name: Myo Shwe Sin Ei

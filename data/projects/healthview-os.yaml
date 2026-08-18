@@ -1,0 +1,23 @@
+id: healthview-os
+name: HealthView OS
+slug: healthview-os
+tagline: Visual OS for Personal Healthcare.Be able to see inside your body, health insights, find
+  services, explore your records and manage your insurance bills with jus
+summary: HealthView OS received the Special prize (Best Use of Grok Voice) award at Autonomous
+  Healthcare Hackathon | Legion Health x Atlas in 2026. This record was imported automatically; the
+  summary and source check are still pending.
+website_url: null
+github_url: https://github.com/marioandf/healthviewos
+demo_url: null
+video_url: https://www.youtube.com/embed/q_-BqqQX8ks
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/767/892/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - react
+  - react-native
+  - typescript
+builders:
+  - name: Mario A Flores

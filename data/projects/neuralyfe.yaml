@@ -1,0 +1,22 @@
+id: neuralyfe
+name: NeuraLyfe
+slug: neuralyfe
+tagline: NeuraLyfe makes hidden brain damage visible, helping medical staff detect risk earlier and
+  protect players before symptoms appear.
+summary: NeuraLyfe received the First Place award at FigBuild 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/yO55s9Qtra8
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/416/244/datas/medium.png
+categories:
+  - healthcare
+  - creative-tools
+technologies:
+  - figma
+builders:
+  - name: Cindy Ly
+  - name: Malik Zhang
+  - name: Jimmy Huang
+  - name: Naomi Boruchowicz

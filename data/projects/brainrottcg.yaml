@@ -1,0 +1,21 @@
+id: brainrottcg
+name: BrainrotTCG
+slug: brainrottcg
+tagline: Trading cards for brainrot
+summary: BrainrotTCG received the Most Popular award at HackIllinois 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/ZhxHgCyE1VA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/387/022/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - react
+builders:
+  - name: Evan Lin
+  - name: Sohum Sharma
+  - name: Daniel Philipov

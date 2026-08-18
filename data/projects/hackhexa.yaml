@@ -1,0 +1,16 @@
+id: hackhexa
+name: HackHexa
+slug: hackhexa
+tagline: Resolucion de los diferentes retos vistos en el Hackaton de HackHexa
+summary: HackHexa received the Rompiendo Esquemas award at HackHexa in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/lunamarron-prog/hackhexa-team--fimaniacas-.git
+demo_url: null
+video_url: https://www.youtube.com/embed/HP1q04mGIK4
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: lunamarron-prog Gámez

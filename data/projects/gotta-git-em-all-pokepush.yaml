@@ -1,0 +1,22 @@
+id: gotta-git-em-all-pokepush
+name: Gotta Git'em All (poképush)
+slug: gotta-git-em-all-pokepush
+tagline: PokéPush is a git hook that won't let you push code until you beat an AI at Pokémon — using
+  questions generated from your actual diff.
+summary: Gotta Git'em All (poképush) received the [Mini Track] Best Solo Project award at Hack AI
+  2026 in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: https://github.com/whxue02/pokepush
+demo_url: null
+video_url: https://www.youtube.com/embed/gfyvUOJFMlA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/411/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - mongodb
+  - python
+builders:
+  - name: Cheryl Wang

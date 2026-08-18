@@ -1,0 +1,14 @@
+id: what-i-never-said-code-as-a-canvas
+project_id: what-i-never-said
+hackathon_id: code-as-a-canvas
+submission_url: https://devpost.com/software/what-i-never-said
+source:
+  platform: devpost
+  url: https://devpost.com/software/what-i-never-said
+awards:
+  - type: other
+    title: Participants
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

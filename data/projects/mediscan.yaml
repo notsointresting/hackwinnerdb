@@ -1,0 +1,21 @@
+id: mediscan
+name: MediScan
+slug: mediscan
+tagline: "Bridging the gap in health literacy: An AI assistant that translates complex medical
+  terminology into plain language for clear lab results"
+summary: "MediScan received the BEST AI PROJECT award at Girls in STEM: AI for Social Good Hackathon
+  in 2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/hgp859vhTjs
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - openai
+  - vercel
+builders:
+  - name: Şevval Yıldızoğlu

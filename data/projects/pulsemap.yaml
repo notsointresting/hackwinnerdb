@@ -1,0 +1,21 @@
+id: pulsemap
+name: PulseMap
+slug: pulsemap
+tagline: See environmental risk. Understand community vulnerability. Own your health.
+summary: PulseMap received the 3rd Place award at Esri's Weekend of Innovation 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/krishnapanjiyar/PulseMap
+demo_url: null
+video_url: https://www.youtube.com/embed/YU6E09w8bMM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/030/389/datas/gallery.jpg
+categories:
+  - healthcare
+  - climate
+  - social-impact
+technologies: []
+builders:
+  - name: Christina Lam
+  - name: Maria Lukz
+  - name: Clarke Baskerville
+  - name: Maddie Sells

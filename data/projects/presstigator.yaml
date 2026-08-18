@@ -1,0 +1,23 @@
+id: presstigator
+name: Presstigator
+slug: presstigator
+tagline: Presstigator is an AI-powered OSINT platform that automates the 'grubbing' work of
+  investigative journalism. It’s about turning months of manual research into m
+summary: Presstigator received the 1st Place - Best Use of Gemini award at Gemini Hack Night by CGI
+  Club at ENSA Marrakech in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/zineb0v0/Presstigator
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - nextjs
+  - python
+builders:
+  - name: zineb chaouch
+  - name: Noha Moussaddak

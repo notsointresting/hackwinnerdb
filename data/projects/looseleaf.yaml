@@ -1,0 +1,22 @@
+id: looseleaf
+name: Looseleaf
+slug: looseleaf
+tagline: "Looseleaf: a shared canvas where you sketch, write, and think beside AI in real time."
+summary: Looseleaf received the Best UI/UX Hack - 2nd Place – Opennote award at IrvineHacks 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Nekorra/Looseleaf
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/393/635/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - figma
+  - openai
+  - react
+  - supabase
+  - typescript
+builders:
+  - name: Abhinav Srinivas
+  - name: Kaushik Lankoji

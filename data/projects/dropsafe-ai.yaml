@@ -1,0 +1,26 @@
+id: dropsafe-ai
+name: DropSafe AI
+slug: dropsafe-ai
+tagline: "Problem: Vague delivery instructions in Bangladesh cause frequent parcel theft, especially
+  for high-value items in risky areas."
+summary: DropSafe AI received the 50$ Gift Card award at Build With AI Hack Days @ Southeast
+  University in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/065/615/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - gemini
+  - nextjs
+  - postgresql
+  - supabase
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: MD. ADNAN AREFIN RATUL

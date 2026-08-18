@@ -1,0 +1,14 @@
+id: smart-charger-hacked-2026
+project_id: smart-charger
+hackathon_id: hacked-2026
+submission_url: https://devpost.com/software/smart-charger-sf8wob
+source:
+  platform: devpost
+  url: https://devpost.com/software/smart-charger-sf8wob
+awards:
+  - type: second-place
+    title: Energy / Power Stream - 2nd
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

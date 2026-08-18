@@ -1,0 +1,22 @@
+id: personal-health-assistant
+name: Personal Health Assistant
+slug: personal-health-assistant
+tagline: AI-powered health companion.
+summary: Personal Health Assistant received the Backpack award at HackHounds 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/amarispalanga/persona-health-assistant-
+demo_url: null
+video_url: https://www.youtube.com/embed/lCeJpntbcZg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/560/779/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - flask
+  - groq
+  - java
+  - react
+builders:
+  - name: Amaris Palanga

@@ -1,0 +1,14 @@
+id: bioscribe-lab-companion-ai-hackfest
+project_id: bioscribe-lab-companion
+hackathon_id: ai-hackfest
+submission_url: https://devpost.com/software/bioscribe-lab-companion
+source:
+  platform: devpost
+  url: https://devpost.com/software/bioscribe-lab-companion
+awards:
+  - type: category-winner
+    title: "[MLH] Best Use of Snowflake API"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

@@ -1,0 +1,21 @@
+id: minemobs
+name: MineMobs
+slug: minemobs
+tagline: Build, customize, and deploy your own Minecraft agents
+summary: MineMobs received the 1st Place award at Reform Hacks in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/AhmadAl-Jabi/MineMobs
+demo_url: null
+video_url: https://www.youtube.com/embed/kCHgD00P1Kg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/555/786/datas/gallery.jpg
+categories:
+  - education
+  - creative-tools
+technologies:
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Ahmad Al-Jabi
+  - name: Rayyan Khan

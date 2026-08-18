@@ -1,0 +1,24 @@
+id: paper-trail
+name: Paper Trail
+slug: paper-trail
+tagline: The Paper Trail is a WebXR story experience where players embody a paper airplane through
+  an enchanted Ancient Egyptian household.
+summary: Paper Trail received the Best Storytelling & Entertainment Project 1st Place award at
+  Worlds in Action Hack [02-LA] in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/eop9AEEg3Uc
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/942/660/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - webrtc
+builders:
+  - name: yolanda xing
+  - name: Joy Guey
+  - name: Cici Andersen
+  - name: Daniel Rojas Roa

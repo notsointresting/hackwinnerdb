@@ -1,0 +1,20 @@
+id: slouchi
+name: slouchi
+slug: slouchi
+tagline: "Do you want to bet against your friends' bad posture? slouchi (slouch + fibonacci, like
+  your back) can keep you and your friends accountable by monitoring your "
+summary: slouchi received the Best Female Hack award at JAMHacks 10 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Jm0WlJboabc
+image_url: null
+categories:
+  - other
+technologies:
+  - figma
+builders:
+  - name: Lillian Tan
+  - name: Tae Eun Ha
+  - name: Kathleen Bao

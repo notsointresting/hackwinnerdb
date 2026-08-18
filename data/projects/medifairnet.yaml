@@ -1,0 +1,21 @@
+id: medifairnet
+name: MediFairNet
+slug: medifairnet
+tagline: "MediFairNet: Unbiased, trust-calibrated clinical AI built to erase demographic
+  shortcutting. Enforcing equity & patient safety on 112k chest X-rays via adversar"
+summary: MediFairNet received the Best Overall Project award at ML Empowerment Build Challenge in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Elgin-dev/MediFairNet.git
+demo_url: null
+video_url: https://www.youtube.com/embed/gHaYRxyGIp4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/777/478/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - fastapi
+  - python
+  - pytorch
+builders:
+  - name: ELGIN  EB

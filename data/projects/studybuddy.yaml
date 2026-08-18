@@ -1,0 +1,20 @@
+id: studybuddy
+name: StudyBuddy
+slug: studybuddy
+tagline: Student AI is a containerized study assistant application designed to streamline the
+  learning process through artificial intelligence. By leveraging cloud infra
+summary: StudyBuddy received the Most Innovative Idea award at cybersage in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/rhn2FCODRmQ
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+builders:
+  - name: Jonnakuti Lakshmanudu

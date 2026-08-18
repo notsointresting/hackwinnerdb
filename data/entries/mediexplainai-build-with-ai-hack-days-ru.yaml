@@ -1,0 +1,16 @@
+id: mediexplainai-build-with-ai-hack-days-ru
+project_id: mediexplainai
+hackathon_id: build-with-ai-hack-days-ru
+submission_url: https://devpost.com/software/mediexplainai
+source:
+  platform: devpost
+  url: https://devpost.com/software/mediexplainai
+awards:
+  - type: other
+    title: 50$ Visa Gift Card
+  - type: other
+    title: Inference Credits
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

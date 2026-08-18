@@ -1,0 +1,14 @@
+id: pearup-hackupc-2026
+project_id: pearup
+hackathon_id: hackupc-2026
+submission_url: https://devpost.com/software/pearup-fpg8sy
+source:
+  platform: devpost
+  url: https://devpost.com/software/pearup-fpg8sy
+awards:
+  - type: second-place
+    title: "[HackUPC] 2nd place"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

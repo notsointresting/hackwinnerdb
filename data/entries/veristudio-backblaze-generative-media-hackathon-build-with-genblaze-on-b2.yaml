@@ -1,0 +1,14 @@
+id: veristudio-backblaze-generative-media-hackathon-build-with-genblaze-on-b2
+project_id: veristudio
+hackathon_id: backblaze-generative-media-hackathon-build-with-genblaze-on-b2
+submission_url: https://devpost.com/software/veristudio
+source:
+  platform: devpost
+  url: https://devpost.com/software/veristudio
+awards:
+  - type: other
+    title: Feedback prize
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

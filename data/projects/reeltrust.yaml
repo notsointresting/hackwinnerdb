@@ -1,0 +1,23 @@
+id: reeltrust
+name: ReelTrust
+slug: reeltrust
+tagline: In 2036 AI generated content runs rampant. How do we tell if a video is real or fake?
+  ReelTrust uses Presage SDK to detect real life signs, Solana to authentica
+summary: ReelTrust received the [MLH] Best Use of Presage award at HackLondon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/sunain-s/ReelTrust
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - kotlin
+  - mongodb
+  - solana
+builders:
+  - name: Sunain Syed
+  - name: Yik Hui Ng

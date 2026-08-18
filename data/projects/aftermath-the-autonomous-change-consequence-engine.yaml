@@ -1,0 +1,24 @@
+id: aftermath-the-autonomous-change-consequence-engine
+name: Aftermath — The Autonomous Change-Consequence Engine
+slug: aftermath-the-autonomous-change-consequence-engine
+tagline: On every merge request, Aftermath maps the full blast radius through GitLab Orbit, reasons
+  about what a change actually means, and autonomously acts — before th
+summary: Aftermath — The Autonomous Change-Consequence Engine received the Best AI/ML Project award
+  at Build the Future with AI — From Code to No-Code in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/jFZTh2JW3JU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/851/567/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - anthropic
+  - claude
+  - python
+  - react
+  - vercel
+builders:
+  - name: Huzaifa .

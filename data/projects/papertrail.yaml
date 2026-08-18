@@ -1,0 +1,21 @@
+id: papertrail
+name: Papertrail
+slug: papertrail
+tagline: Turn any PDF into an explorable 3D world where every scene and object is grounded in the
+  original story.
+summary: Papertrail received the Mentor Choice award at HuskyHack 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/stanleypangg/HuskyHack
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/638/551/datas/gallery.jpg
+categories:
+  - social-impact
+  - media
+technologies:
+  - gemini
+builders:
+  - name: Stanley Pang
+  - name: Kenny Wu
+  - name: Steric Tsui

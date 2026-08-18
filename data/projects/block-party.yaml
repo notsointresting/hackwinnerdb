@@ -1,0 +1,20 @@
+id: block-party
+name: Block Party
+slug: block-party
+tagline: Block Party runs on XRPL to permanently end secondary ticket markets. Scalpers are blocked,
+  fans pay face value, and artists capture the true value of their wor
+summary: Block Party received the XRPL/Ripple award at HackKU26 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Ypout07/block-party
+demo_url: null
+video_url: https://www.youtube.com/embed/MH7lj1t4C9c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/014/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - typescript
+builders:
+  - name: Nathan McCormick
+  - name: Anderson Ibe
+  - name: Adam A

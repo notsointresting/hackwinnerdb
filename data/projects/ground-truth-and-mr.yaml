@@ -1,0 +1,20 @@
+id: ground-truth-and-mr
+name: Ground Truth and MR
+slug: ground-truth-and-mr
+tagline: Expose the gap between what a codebase looks like it is, and what it actually is, based on
+  real dependency and coupling data from the GitLab Orbit knowledge gra
+summary: "Ground Truth and MR received the Contribute Track: A qualified Merged Merge Request award
+  at GitLab Transcend Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies: []
+builders:
+  - name: Tejash M Kumar

@@ -1,0 +1,14 @@
+id: vachet-emotional-regulation-app-kenthackit
+project_id: vachet-emotional-regulation-app
+hackathon_id: kenthackit
+submission_url: https://devpost.com/software/vachet-emotional-regulation-app
+source:
+  platform: devpost
+  url: https://devpost.com/software/vachet-emotional-regulation-app
+awards:
+  - type: category-winner
+    title: "[Hackathons UK] Best Use of AI Agents on Arm"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

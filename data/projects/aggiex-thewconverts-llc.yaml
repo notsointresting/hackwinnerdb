@@ -1,0 +1,20 @@
+id: aggiex-thewconverts-llc
+name: AggieX Thewconverts LLC
+slug: aggiex-thewconverts-llc
+tagline: "The #1 Source For OEM Parts deserves a website fitting for the #1 source."
+summary: AggieX Thewconverts LLC received the AggieX Startup award at Build4Good 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/3oRmsek2M6Q
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/513/472/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - mongodb
+  - typescript
+builders:
+  - name: joshEng1 Eng
+  - name: ZaydJamadar Jamadar

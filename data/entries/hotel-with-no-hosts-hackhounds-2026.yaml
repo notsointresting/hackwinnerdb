@@ -1,0 +1,14 @@
+id: hotel-with-no-hosts-hackhounds-2026
+project_id: hotel-with-no-hosts
+hackathon_id: hackhounds-2026
+submission_url: https://devpost.com/software/hotel-with-no-hosts
+source:
+  platform: devpost
+  url: https://devpost.com/software/hotel-with-no-hosts
+awards:
+  - type: other
+    title: Owala Water Bottle
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

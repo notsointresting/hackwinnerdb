@@ -1,0 +1,23 @@
+id: wattnow
+name: WattNow
+slug: wattnow
+tagline: Know your watt, know what's next.
+summary: WattNow received the 3rd Place award at SISPIK HACKS 1.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/lLOPXRK9yiI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/074/568/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - claude
+  - figma
+  - gemini
+  - react
+  - typescript
+builders:
+  - name: Tamariska Ruth
+  - name: Jocelyne Rivera
+  - name: Kathie Victoria Tjia

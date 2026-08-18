@@ -1,0 +1,20 @@
+id: moonray
+name: Moonray
+slug: moonray
+tagline: A ZK arcade game on Midnight where everyone gets the same daily puzzle. Make up to 3 cuts
+  to free every moonlet. Cut patterns stay on-device, only a ZK proof of
+summary: Moonray received the Gaming Track award at Midnight Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/kaleababayneh/moonray
+demo_url: null
+video_url: https://www.youtube.com/embed/0Dujv0XKNAo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/933/076/datas/gallery.jpg
+categories:
+  - gaming
+  - blockchain
+technologies:
+  - nextjs
+  - typescript
+builders:
+  - name: Kaleab A. Gizaw

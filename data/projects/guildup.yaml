@@ -1,0 +1,22 @@
+id: guildup
+name: GuildUp!
+slug: guildup
+tagline: GuildUp is a gamified team task manager that uses AI to fairly distribute coordination work
+  across your team, so it never falls on just one person.
+summary: GuildUp! received the AIF Award award at strAIght up! Hackathon in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/chloelauu/hackathon
+demo_url: null
+video_url: https://www.youtube.com/embed/K_2X0R4sg7w
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/603/099/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - openai
+builders:
+  - name: chloe l
+  - name: Celeste Tong

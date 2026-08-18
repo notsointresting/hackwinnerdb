@@ -1,0 +1,25 @@
+id: dragstrip
+name: Dragstrip
+slug: dragstrip
+tagline: Race the same coding agent with and without Paritok compression on any GitHub repo — live
+  token meters, a savings receipt, and a blind judge scoring both answer
+summary: "Dragstrip received the 1st Place award at Build with Paritok: The Token-Efficiency
+  Hackathon in 2026. This record was imported automatically; the summary and source check are still
+  pending."
+website_url: null
+github_url: https://github.com/contactajayprakash-ops/dragstrip
+demo_url: null
+video_url: https://www.youtube.com/embed/9d4ic7YD8SA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/059/214/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - productivity
+technologies:
+  - fastapi
+  - gemini
+  - javascript
+  - python
+  - vercel
+builders:
+  - name: Ajay Prakash

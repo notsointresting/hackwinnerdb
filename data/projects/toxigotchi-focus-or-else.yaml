@@ -1,0 +1,19 @@
+id: toxigotchi-focus-or-else
+name: TOXIGOTCHI — Focus or Else
+slug: toxigotchi-focus-or-else
+tagline: A Pomodoro timer where your digital pet dies if you get distracted.
+summary: TOXIGOTCHI — Focus or Else received the 2nd award at Ship In a day in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Dhruvmalu/Toxigotch/invitations
+demo_url: null
+video_url: https://www.youtube.com/embed/8LZlgNlzUJs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/198/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - firebase
+  - javascript
+builders:
+  - name: CHAITANYA BHARGAV MALAKONDA
+  - name: Dhruv Malu

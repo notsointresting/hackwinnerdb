@@ -1,0 +1,14 @@
+id: mak-g-hacklondon-2026
+project_id: mak-g
+hackathon_id: hacklondon-2026
+submission_url: https://devpost.com/software/mak-g
+source:
+  platform: devpost
+  url: https://devpost.com/software/mak-g
+awards:
+  - type: category-winner
+    title: "[Hackathons UK] Best Use of AI Agents on Arm"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

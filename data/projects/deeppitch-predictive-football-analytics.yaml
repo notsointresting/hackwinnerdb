@@ -1,0 +1,20 @@
+id: deeppitch-predictive-football-analytics
+name: "DeepPitch : Predictive Football Analytics"
+slug: deeppitch-predictive-football-analytics
+tagline: A PyTorch-powered dashboard analyzing decades of football history to predict match outcomes
+  and evaluate player legacy for strategic decision-making.
+summary: "DeepPitch : Predictive Football Analytics received the Third Place Honors award at AQX
+  Sports Analytics Data Bowl 2.0 in 2026. This record was imported automatically; the summary and
+  source check are still pending."
+website_url: null
+github_url: https://github.com/AdamsKamate/AQX-Sports-Analytics-DatA-Bowl
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/874/549/datas/gallery.jpg
+categories:
+  - gaming
+technologies:
+  - python
+  - streamlit
+builders:
+  - name: Adams Kamate

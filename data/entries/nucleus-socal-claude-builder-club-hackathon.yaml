@@ -1,0 +1,14 @@
+id: nucleus-socal-claude-builder-club-hackathon
+project_id: nucleus
+hackathon_id: socal-claude-builder-club-hackathon
+submission_url: https://devpost.com/software/nucleus-3lgfki
+source:
+  platform: devpost
+  url: https://devpost.com/software/nucleus-3lgfki
+awards:
+  - type: first-place
+    title: 1st Overall
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

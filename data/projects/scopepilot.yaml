@@ -1,0 +1,27 @@
+id: scopepilot
+name: ScopePilot
+slug: scopepilot
+tagline: ScopePilot uses real-time AI to help detect and document polyps during colonoscopies, then
+  converts verified findings into image-supported reports for physician
+summary: ScopePilot received the Second Place award at Vitalitics 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/larptime-error/ScopePilot
+demo_url: null
+video_url: https://www.youtube.com/embed/nkznc4QNoZY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/043/458/datas/medium.png
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - fastapi
+  - opencv
+  - python
+  - pytorch
+  - react
+  - sqlite
+  - tailwind-css
+  - typescript
+builders:
+  - name: Kiran Patel

@@ -1,0 +1,14 @@
+id: curator-app-wehack-2026
+project_id: curator-app
+hackathon_id: wehack-2026
+submission_url: https://devpost.com/software/curator-tfanjo
+source:
+  platform: devpost
+  url: https://devpost.com/software/curator-tfanjo
+awards:
+  - type: track-winner
+    title: UX’s Midnight Experience Design Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

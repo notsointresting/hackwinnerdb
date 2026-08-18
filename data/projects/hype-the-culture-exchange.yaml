@@ -1,0 +1,23 @@
+id: hype-the-culture-exchange
+name: HYPE — The Culture Exchange
+slug: hype-the-culture-exchange
+tagline: HYPE is a culture exchange where users list, trade, sponsor, and analyze internet trends
+  with play money, powered by Vercel and Amazon Aurora DSQL with live pro
+summary: "HYPE — The Culture Exchange received the Best Technical Implementation award at H0: Hack
+  the Zero Stack with Vercel v0 and AWS Databases in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/jpablortiz96/HYPE
+demo_url: null
+video_url: https://www.youtube.com/embed/Y5BpgUWetLY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/822/356/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+  - vercel
+builders:
+  - name: Juan Pablo Enriquez Ortiz

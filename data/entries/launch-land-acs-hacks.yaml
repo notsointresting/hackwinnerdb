@@ -1,0 +1,16 @@
+id: launch-land-acs-hacks
+project_id: launch-land
+hackathon_id: acs-hacks
+submission_url: https://devpost.com/software/launch-land
+source:
+  platform: devpost
+  url: https://devpost.com/software/launch-land
+awards:
+  - type: second-place
+    title: 2nd Place Overall Project
+  - type: category-winner
+    title: Best Finance Hack
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

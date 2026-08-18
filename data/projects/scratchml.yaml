@@ -1,0 +1,23 @@
+id: scratchml
+name: ScratchML
+slug: scratchml
+tagline: "Scratch, but for AI: kids snap blocks, show examples by webcam or doodle, and watch a real
+  neural network learn to see — live in the browser. No code. No accoun"
+summary: "ScratchML received the Product Bundle by Mind the Product award at Mind the Product
+  presents World Product Day: Everyone Ships Now in 2026. This record was imported automatically;
+  the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/0xNoramiya/scratchml
+demo_url: null
+video_url: https://www.youtube.com/embed/mVU8Pq_G51U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/762/972/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - javascript
+  - nextjs
+  - react
+  - typescript
+builders:
+  - name: Rifqi Haikal

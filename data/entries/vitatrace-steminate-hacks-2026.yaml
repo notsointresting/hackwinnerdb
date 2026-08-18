@@ -1,0 +1,14 @@
+id: vitatrace-steminate-hacks-2026
+project_id: vitatrace
+hackathon_id: steminate-hacks-2026
+submission_url: https://devpost.com/software/vitatrace
+source:
+  platform: devpost
+  url: https://devpost.com/software/vitatrace
+awards:
+  - type: third-place
+    title: Third Place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

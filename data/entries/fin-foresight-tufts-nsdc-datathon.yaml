@@ -1,0 +1,14 @@
+id: fin-foresight-tufts-nsdc-datathon
+project_id: fin-foresight
+hackathon_id: tufts-nsdc-datathon
+submission_url: https://devpost.com/software/fin-foresight
+source:
+  platform: devpost
+  url: https://devpost.com/software/fin-foresight
+awards:
+  - type: track-winner
+    title: Best Project - Fintech Track
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

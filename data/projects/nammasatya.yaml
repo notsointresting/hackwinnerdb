@@ -1,0 +1,19 @@
+id: nammasatya
+name: NammaSatya
+slug: nammasatya
+tagline: Stop Forwarding, Start Checking
+summary: "NammaSatya received the Winner - Bengaluru Misinformation Layer (wildcard) award at
+  Hacknight Bengaluru: Build AI Agents in 2026. This record was imported automatically; the summary
+  and source check are still pending."
+website_url: null
+github_url: https://github.com/Aankirz/NammaSatya
+demo_url: null
+video_url: https://www.youtube.com/embed/bs4gGsvaTa0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/651/199/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - python
+builders:
+  - name: Aman  Negi
+  - name: Ankit Kiran

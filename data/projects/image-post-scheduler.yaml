@@ -1,0 +1,20 @@
+id: image-post-scheduler
+name: Image Post Scheduler
+slug: image-post-scheduler
+tagline: Schedule native image posts on Reddit with recurring custom intervals, date tokens,
+  calendar view, templates, and timezone support - something Reddit doesn't na
+summary: Image Post Scheduler received the Best New Mod Tool award at Reddit Mod Tools and Migrated
+  Apps Hackathon in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MqhA-K4I4v0
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/709/798/datas/gallery.jpg
+categories:
+  - social-impact
+technologies:
+  - javascript
+  - redis
+  - typescript
+builders: []

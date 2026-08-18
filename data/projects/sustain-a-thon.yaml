@@ -1,0 +1,22 @@
+id: sustain-a-thon
+name: Sustain-a-thon
+slug: sustain-a-thon
+tagline: Sustain-a-thon gamifies saving the planet. Track real-time impact, earn XP & badges, and
+  get AI coaching. It’s a movement to prove fixing the future is fun, soc
+summary: Sustain-a-thon received the Individual 3rd award at SUMMER HACKATHON 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/shubhamjh15/Sustainathon
+demo_url: null
+video_url: https://www.youtube.com/embed/jaxI-Z1ZCLI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/236/044/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Shubham Jha

@@ -1,0 +1,25 @@
+id: mro-pilot
+name: MRO Pilot
+slug: mro-pilot
+tagline: MroPilot is an AI procurement copilot for industrial SMEs that detects MRO replenishment
+  needs, selects suppliers, prepares orders, and complete the payment wor
+summary: MRO Pilot received the Station F Workspace award at Paris Fintech Hackathon 2026 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/EdouardAndre/Hackathon-HEC
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - education
+  - fintech
+technologies:
+  - google-cloud
+  - python
+  - react
+builders:
+  - name: Quentin Lauret
+  - name: Edouard Andre
+  - name: MQH-T
+  - name: Adrien Rouland

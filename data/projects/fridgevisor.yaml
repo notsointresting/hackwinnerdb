@@ -1,0 +1,24 @@
+id: fridgevisor
+name: FridgeVisor
+slug: fridgevisor
+tagline: Snap your meal, get gently roasted, then snap your fridge — FridgeVisor finds ingredients
+  you already have to make your plate even better. No guilt, just good v
+summary: FridgeVisor received the Claude Track Winners award at Claude AI Hackathon - Machines of
+  Loving Grace in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Qw7CATZ89_M
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/404/711/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - claude
+  - python
+  - react
+builders:
+  - name: Jan G
+  - name: Kalla M.
+  - name: Karol W.

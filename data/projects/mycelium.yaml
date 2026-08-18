@@ -1,0 +1,23 @@
+id: mycelium
+name: Mycelium
+slug: mycelium
+tagline: AI agents waste massive energy re-solving solved problems. Mycelium is a shared skill
+  network where every agent's solution becomes reusable knowledge, making AI
+summary: Mycelium received the Overall Second Place award at Milpitas Hacks 3 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arav-rithvik/mycelium
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - sustainability
+  - social-impact
+technologies:
+  - postgresql
+  - supabase
+  - typescript
+builders:
+  - name: Rithvik Burki
+  - name: Arav Dharnikota

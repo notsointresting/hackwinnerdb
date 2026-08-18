@@ -1,0 +1,26 @@
+id: eo
+name: EO
+slug: eo
+tagline: Traffic sucks. EO pits AI stakeholders against physics to balance safety, traffic,
+  emissions, and costs. Run 5-year future simulations to perfect street designs
+summary: EO received the Best Use of Gemini API award at MacHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/arjunalwe/EO
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/477/696/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - fastapi
+  - gemini
+  - langchain
+  - mapbox
+  - python
+  - typescript
+builders:
+  - name: Arjun Alwe
+  - name: Dayyan Karedia

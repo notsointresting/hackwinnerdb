@@ -1,0 +1,20 @@
+id: scholar-link-ai
+name: Scholar Link AI
+slug: scholar-link-ai
+tagline: Never Miss a Scholarship Again
+summary: Scholar Link AI received the Participation Prize award at DSH Hacks V1 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/parthyeram/Scholarlink-AI
+demo_url: null
+video_url: https://www.youtube.com/embed/-ecN1F2rOGM
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/774/851/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - javascript
+builders:
+  - name: SAIDEEP  MALI
+  - name: Parth Yeram

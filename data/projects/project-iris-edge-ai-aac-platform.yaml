@@ -1,0 +1,27 @@
+id: project-iris-edge-ai-aac-platform
+name: "Project Iris: Edge AI AAC Platform"
+slug: project-iris-edge-ai-aac-platform
+tagline: Project Iris is a zero-latency, eye-tracking AAC platform powered by local WebGPU AI,
+  featuring LiveKit telemedicine and conversational IoT hardware control for
+summary: "Project Iris: Edge AI AAC Platform received the 3rd Place award at NextGenHacks in 2026.
+  This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/shawnsony07/iris
+demo_url: null
+video_url: https://www.youtube.com/embed/DO7qULJCOVY
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/764/585/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - social-impact
+technologies:
+  - arduino
+  - c-plus-plus
+  - python
+  - react
+  - tailwind-css
+  - twilio
+  - typescript
+  - webrtc
+builders:
+  - name: Shawn Sony

@@ -1,0 +1,23 @@
+id: bro
+name: bro.
+slug: bro
+tagline: your personal ai that remembers everything so you don't have to.
+summary: bro. received the [MLH] Best Use of ElevenLabs award at DesignVerse 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MatthewKim323/bro
+demo_url: null
+video_url: https://www.youtube.com/embed/2fYq1MVpEPA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/675/340/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - creative-tools
+technologies:
+  - javascript
+  - mongodb
+  - react
+  - solana
+  - typescript
+builders:
+  - name: Silas Wu
+  - name: Matthew Kim

@@ -1,0 +1,14 @@
+id: cybertree-net-futurehacks
+project_id: cybertree-net
+hackathon_id: futurehacks
+submission_url: https://devpost.com/software/cybertree-net
+source:
+  platform: devpost
+  url: https://devpost.com/software/cybertree-net
+awards:
+  - type: first-place
+    title: 1st Place Beginner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

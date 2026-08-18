@@ -1,0 +1,14 @@
+id: omenai-genai-genesis-2026
+project_id: omenai
+hackathon_id: genai-genesis-2026
+submission_url: https://devpost.com/software/omenai
+source:
+  platform: devpost
+  url: https://devpost.com/software/omenai
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] TD Best AI Hack to Detect Financial Fraud (In-Person Only)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

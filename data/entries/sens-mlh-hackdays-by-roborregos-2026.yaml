@@ -1,0 +1,14 @@
+id: sens-mlh-hackdays-by-roborregos-2026
+project_id: sens
+hackathon_id: mlh-hackdays-by-roborregos-2026
+submission_url: https://devpost.com/software/sense-2uk3sf
+source:
+  platform: devpost
+  url: https://devpost.com/software/sense-2uk3sf
+awards:
+  - type: category-winner
+    title: Best Use of Gemini API
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

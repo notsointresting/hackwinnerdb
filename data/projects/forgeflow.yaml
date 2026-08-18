@@ -1,0 +1,17 @@
+id: forgeflow
+name: ForgeFlow
+slug: forgeflow
+tagline: A new innovative program that takes in a jira ticket and generates code for you
+summary: ForgeFlow received the Desk Wireless Charger award at hackTAMS 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Krshs90/ForgeFlow
+demo_url: null
+video_url: https://www.youtube.com/embed/jIPjnhuuuLA
+image_url: null
+categories:
+  - other
+technologies:
+  - python
+builders:
+  - name: Ganesh Kolukuluri

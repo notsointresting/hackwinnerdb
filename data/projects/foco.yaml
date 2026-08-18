@@ -1,0 +1,26 @@
+id: foco
+name: Foco
+slug: foco
+tagline: "Foco turns security cameras + floor plans into a live 3D map: see motion as heat, spot
+  busy rooms, and click a room for its footprint-spatial awareness for the "
+summary: Foco received the Second place winner award at JACHacks 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/faizm10/jachacks26
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/561/725/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - nextjs
+  - python
+  - react
+  - supabase
+  - yolo
+builders:
+  - name: Faiz M
+  - name: Keming Wang

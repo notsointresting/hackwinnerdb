@@ -1,0 +1,19 @@
+id: heirloom
+name: Heirloom
+slug: heirloom
+tagline: Institutional memory for student clubs, powered by Gemini.
+summary: Heirloom received the Best Use of Gemini API award at Code with Gemini API in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/gaurimenonnn/heirloom
+demo_url: null
+video_url: https://www.youtube.com/embed/yJzDElpWBbs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/894/828/datas/gallery.jpg
+categories:
+  - education
+technologies:
+  - gemini
+  - google-cloud
+  - javascript
+builders:
+  - name: Gauri Menon

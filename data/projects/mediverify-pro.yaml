@@ -1,0 +1,21 @@
+id: mediverify-pro
+name: MediVerify-Pro
+slug: mediverify-pro
+tagline: "MediVerify Pro: A secure platform to combat counterfeit medicine. Instant serial
+  verification for consumers and smart inventory management for admins. Safety in"
+summary: MediVerify-Pro received the Participant award at forinovation in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/MomenElsayedDev/MediVerify-Pro
+demo_url: null
+video_url: https://www.youtube.com/embed/mshfN_HZjuE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/747/194/datas/gallery.jpg
+categories:
+  - healthcare
+  - education
+  - consumer
+technologies:
+  - javascript
+  - mongodb
+builders:
+  - name: Moamen Abouhaty

@@ -1,0 +1,14 @@
+id: foco-jachacks-2026
+project_id: foco
+hackathon_id: jachacks-2026
+submission_url: https://devpost.com/software/foco
+source:
+  platform: devpost
+  url: https://devpost.com/software/foco
+awards:
+  - type: second-place
+    title: Second place winner
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

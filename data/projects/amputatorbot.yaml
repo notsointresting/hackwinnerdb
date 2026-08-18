@@ -1,0 +1,22 @@
+id: amputatorbot
+name: AmputatorBot
+slug: amputatorbot
+tagline: Since 2019, AmputatorBot has fought back against AMP's threat to the open web, replacing
+  privacy-invasive, publisher-harming links with the clean, canonical URL
+summary: AmputatorBot received the Best Ported Data API App Honorable Mentions award at Reddit Mod
+  Tools and Migrated Apps Hackathon in 2026. This record was imported automatically; the summary and
+  source check are still pending.
+website_url: null
+github_url: https://github.com/jvdburgh/AmputatorBot
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/744/933/datas/gallery.jpg
+categories:
+  - cybersecurity
+  - social-impact
+technologies:
+  - postgresql
+  - rust
+  - typescript
+builders:
+  - name: Joris van der Burgh

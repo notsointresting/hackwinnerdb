@@ -1,0 +1,24 @@
+id: fernwood
+name: Fernwood
+slug: fernwood
+tagline: "Fernwood turns Backblaze into a brand's memory: every rejected attempt teaches the
+  Campaign Brain, so each run scores higher and cuts a real multi-shot ad. It's"
+summary: "Fernwood received the Feedback prize award at Backblaze Generative Media Hackathon: Build
+  with Genblaze on B2 in 2026. This record was imported automatically; the summary and source check
+  are still pending."
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/Ucl7bmvDnxA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/055/207/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - media
+technologies:
+  - fastapi
+  - python
+  - react
+  - typescript
+builders:
+  - name: Sathvik Vempati

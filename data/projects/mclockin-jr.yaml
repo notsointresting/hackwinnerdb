@@ -1,0 +1,20 @@
+id: mclockin-jr
+name: Mclockin Jr.
+slug: mclockin-jr
+tagline: If you need to lock in, choose us as your companion.
+summary: Mclockin Jr. received the Healthcare award at MakeMIT x Harvard 2026 in 2026. This record
+  was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - creative-tools
+technologies:
+  - python
+builders:
+  - name: Yusef Primus
+  - name: Anfal Hosen
+  - name: Jenny Vo
+  - name: sofia ramos

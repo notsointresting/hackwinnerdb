@@ -1,0 +1,26 @@
+id: ecosense
+name: EcoSense
+slug: ecosense
+tagline: Track, understand, and shrink your carbon footprint—log emissions, see clear breakdowns,
+  get AI guidance, and export reports you can actually use.
+summary: EcoSense received the Best GreenTech Project + Featherless credits award at ClubHacks in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/KYSF2026/EcoSense
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/528/867/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - cybersecurity
+technologies:
+  - gemini
+  - postgresql
+  - react
+  - typescript
+builders:
+  - name: Sura Gaafar
+  - name: Yusriyah Rahman
+  - name: Karanveer Singh Sidhu Sidhu
+  - name: Ravinder Singh

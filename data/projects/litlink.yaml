@@ -1,0 +1,22 @@
+id: litlink
+name: LitLink
+slug: litlink
+tagline: LitLink turns screen time into a reward - kids earn access to games and apps by reading and
+  passing AI-generated quizzes about what they've read to push stronge
+summary: LitLink received the 2nd Place award at ProduHacks 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Tim7513/ProduHacks2026
+demo_url: null
+video_url: https://www.youtube.com/embed/oqpXRTF7TuI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/486/718/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - gaming
+technologies:
+  - supabase
+builders:
+  - name: Timothy Mai
+  - name: Markus Fong
+  - name: Caleb Zhang
+  - name: Eric Vu

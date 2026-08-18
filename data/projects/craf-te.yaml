@@ -1,0 +1,20 @@
+id: craf-te
+name: Craf-te
+slug: craf-te
+tagline: Design smarter, not harder . AI builds your canvas, you perfect every pixel.
+summary: Craf-te received the 1st Place award at Build with MeDo Hackathon  in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/fFCCZQvfByA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/687/499/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - creative-tools
+technologies:
+  - react
+  - supabase
+builders:
+  - name: Daniel Agbeleshe

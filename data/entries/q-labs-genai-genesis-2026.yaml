@@ -1,0 +1,14 @@
+id: q-labs-genai-genesis-2026
+project_id: q-labs
+hackathon_id: genai-genesis-2026
+submission_url: https://devpost.com/software/q-labs
+source:
+  platform: devpost
+  url: https://devpost.com/software/q-labs
+awards:
+  - type: sponsor-prize
+    title: "[Sponsored] Borderpass Best hack for Demos and QA (In-Person Only)"
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

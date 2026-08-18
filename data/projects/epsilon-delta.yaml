@@ -1,0 +1,26 @@
+id: epsilon-delta
+name: Epsilon Delta
+slug: epsilon-delta
+tagline: Mathematics for everyone.
+summary: Epsilon Delta received the (Knowunity Track) 4x Sponsored trip to Berlin award at
+  HackLondon 2026 in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: https://github.com/meaninglessC0de/Epsilon-Delta/
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/354/934/datas/gallery.jpg
+categories:
+  - education
+  - iot
+technologies:
+  - claude
+  - firebase
+  - python
+  - react-native
+  - typescript
+builders:
+  - name: Anish Vivek
+  - name: Aayush J
+  - name: Sameer Gupta
+  - name: tanvi

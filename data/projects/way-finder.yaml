@@ -1,0 +1,25 @@
+id: way-finder
+name: Way Finder
+slug: way-finder
+tagline: AI-guided immersive city journeys
+summary: Way Finder received the Best Use of DigitalOcean award at Multimodal Frontier Hackathon in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ElijahUmana/wayfinder
+demo_url: null
+video_url: https://www.youtube.com/embed/VPJL41GNIPA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/502/973/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - iot
+technologies:
+  - elevenlabs
+  - fastapi
+  - google-maps
+  - python
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Elijah Umana

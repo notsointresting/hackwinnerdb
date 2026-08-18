@@ -1,0 +1,24 @@
+id: swoin
+name: Swoin
+slug: swoin
+tagline: Swoin elevates cross-border transfers. Move funds in seconds for near-zero fees, not days
+  and high costs.
+summary: Swoin received the Brim Track 2 award at BagelHacks II in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/anis022/BagelHacks
+demo_url: null
+video_url: https://www.youtube.com/embed/YCyeAVj5wzg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/528/718/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+technologies:
+  - react
+  - typescript
+  - vercel
+builders:
+  - name: Adsayan Selvan
+  - name: Anis Benabdallah
+  - name: Valère Bardon
+  - name: alexis andrew

@@ -1,0 +1,16 @@
+id: halo-jechacks-2026
+project_id: halo
+hackathon_id: jechacks-2026
+submission_url: https://devpost.com/software/halo-6s3cdh
+source:
+  platform: devpost
+  url: https://devpost.com/software/halo-6s3cdh
+awards:
+  - type: second-place
+    title: Second Place
+  - type: category-winner
+    title: Most Impactful Projects
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

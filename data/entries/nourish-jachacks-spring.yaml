@@ -1,0 +1,14 @@
+id: nourish-jachacks-spring
+project_id: nourish
+hackathon_id: jachacks-spring
+submission_url: https://devpost.com/software/demo-wrtjkc
+source:
+  platform: devpost
+  url: https://devpost.com/software/demo-wrtjkc
+awards:
+  - type: first-place
+    title: Social Impact track - 1st place
+verification:
+  status: unverified
+  checked_at: 2026-08-18
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

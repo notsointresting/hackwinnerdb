@@ -1,0 +1,23 @@
+id: the-paradox
+name: The Paradox
+slug: the-paradox
+tagline: Explore a surreal dream city to uncover reality's fractures, opening a portal to an alien
+  observatory where you carry a gravity dampener to physically sync frac
+summary: The Paradox received the Best World award at BigThink x World Labs in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Gowthamtadikamalla/The_Paradox
+demo_url: null
+video_url: https://www.youtube.com/embed/Jhl75Hee8iA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/503/208/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - ar-vr
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Gowtham Krishna
+  - name: Dhanush Garikapati
+  - name: Pranay Bathini

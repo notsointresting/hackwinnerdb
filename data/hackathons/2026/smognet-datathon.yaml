@@ -1,0 +1,14 @@
+id: smognet-datathon
+name: SmogNet Datathon
+slug: smognet-datathon
+organizer: []
+year: 2026
+sources:
+  - https://smognet-datathon.devpost.com/
+  - https://smognet-datathon.devpost.com/project-gallery?filter=winner
+website_url: https://smognet-datathon.devpost.com/
+platform: devpost
+participant_count: 58
+prize_pool: 200
+currency: USD
+description: "Devpost hackathon: SmogNet Datathon. Imported automatically."

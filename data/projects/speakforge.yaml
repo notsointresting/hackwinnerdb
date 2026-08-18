@@ -1,0 +1,25 @@
+id: speakforge
+name: SpeakForge
+slug: speakforge
+tagline: SpeakForge is an AI speaking coach that analyzes your voice and body language while you
+  practice and gives you instant feedback on pace, energy, posture, and cl
+summary: "SpeakForge received the Best Jr Hack: Sony Wireless Headphones award at HackTCNJ 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/SpeakForge/speakforge-app.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/389/655/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - javascript
+  - mongodb
+  - react
+  - typescript
+builders:
+  - name: vyom singh
+  - name: Yogi Singh
+  - name: aditya-aswin Aswin
+  - name: Ansh Solanki

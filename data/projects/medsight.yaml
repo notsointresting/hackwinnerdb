@@ -1,0 +1,29 @@
+id: medsight
+name: MedSight
+slug: medsight
+tagline: MedSight turns passive wearable data into real-time clinical insight helping patients
+  communicate what matters and giving physicians a clearer picture between v
+summary: MedSight received the Best Use of ElevenLabs award at HackSMU VII in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/niseembha/hackSMU
+demo_url: null
+video_url: https://www.youtube.com/embed/tAltx6c5JPU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/872/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - firebase
+  - javascript
+  - python
+  - react
+  - react-native
+  - tailwind-css
+  - typescript
+builders:
+  - name: Vihaan Pande
+  - name: Niseem Bhattacharya
+  - name: Adheesh Ramanath

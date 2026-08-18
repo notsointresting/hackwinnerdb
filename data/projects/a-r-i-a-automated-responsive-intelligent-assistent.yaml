@@ -1,0 +1,21 @@
+id: a-r-i-a-automated-responsive-intelligent-assistent
+name: A.R.I.A Automated Responsive Intelligent Assistent
+slug: a-r-i-a-automated-responsive-intelligent-assistent
+tagline: Beyond chat. Into action.
+summary: A.R.I.A Automated Responsive Intelligent Assistent received the Winner – 1st Place award at
+  Predict4Good Hackathon in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/ks9128/aria.git
+demo_url: null
+video_url: https://www.youtube.com/embed/MAdcBGNmCTk
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/528/944/datas/medium.png
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - fastapi
+  - python
+  - react
+builders: []

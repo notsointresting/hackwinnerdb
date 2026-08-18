@@ -1,0 +1,26 @@
+id: ccad-ai
+name: CCAD AI
+slug: ccad-ai
+tagline: "CCAD AI turns every radio transmission into structured intelligence to live summaries,
+  conflict alerts, and tactical maps, automatically, so commanders see the "
+summary: CCAD AI received the [MLH] Best Use of ElevenLabs || Wireless Earbuds award at HackKU26 in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Yadhunath2003/FirstResponseAI
+demo_url: null
+video_url: https://www.youtube.com/embed/8Gpl65QxAqo
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/588/603/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+technologies:
+  - elevenlabs
+  - fastapi
+  - gemini
+  - javascript
+  - python
+  - sqlite
+builders:
+  - name: Yash Prajapati
+  - name: Jay Patel
+  - name: Yadhunath2003 Tharakeswaran
+  - name: Vamsi Doddapaneni

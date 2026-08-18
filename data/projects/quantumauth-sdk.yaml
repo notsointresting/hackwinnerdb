@@ -1,0 +1,22 @@
+id: quantumauth-sdk
+name: QuantumAuth SDK
+slug: quantumauth-sdk
+tagline: Passwordless authentication powered by AI risk scoring and future-ready cryptography.
+summary: QuantumAuth SDK received the Theme-Based Track Prizes award at Quantum Sprint in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Sanjana1-Shiva/quantum-auth-sdk
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - artificial-intelligence
+  - fintech
+  - blockchain
+technologies:
+  - fastapi
+  - python
+  - tailwind-css
+  - typescript
+builders:
+  - name: Sanjana N

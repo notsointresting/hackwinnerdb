@@ -1,0 +1,27 @@
+id: datacrawl
+name: DataCrawl
+slug: datacrawl
+tagline: DataCrawl turns plain-English data requests into fresh datasets. AI agents plan, scrape,
+  generate, normalize, and validate the data you need, then deliver clean
+summary: "DataCrawl received the [MLH] Best Use of Solana award at HackDuke: Code For Good 2026 in
+  2026. This record was imported automatically; the summary and source check are still pending."
+website_url: null
+github_url: https://github.com/Aarushvinod/DataCrawl
+demo_url: null
+video_url: https://www.youtube.com/watch?v=3mwebD-jOb4
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/482/921/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - social-impact
+technologies:
+  - fastapi
+  - firebase
+  - gemini
+  - python
+  - react
+  - solana
+  - stripe
+  - typescript
+builders:
+  - name: James Wright
+  - name: Aidan Lee

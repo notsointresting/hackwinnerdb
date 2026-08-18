@@ -1,0 +1,25 @@
+id: opioid-action-engine
+name: Opioid Action Engine
+slug: opioid-action-engine
+tagline: The opioid epidemic doesn't wait for funding to catch up.
+summary: Opioid Action Engine received the Graduate (Masters/Doctoral) Grand Prize award at USAII®
+  Global AI Hackathon 2026 in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/ted-cc6/SOURCE
+demo_url: null
+video_url: https://www.youtube.com/embed/bzX8izYXk6c
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/811/104/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - claude
+  - fastapi
+  - gemini
+  - python
+  - react
+builders:
+  - name: ted-cc6 Wang
+  - name: Morgan Klutzke
