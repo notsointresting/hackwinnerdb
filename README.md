@@ -1,47 +1,86 @@
 <h1 align="center">🏆 HackWinnerDB</h1>
 
-<p align="center">The open-source database of hackathon winners.</p>
+<p align="center"><strong>The open-source database of hackathon winners.</strong></p>
+<p align="center">Explore what wins hackathons — by technology, category, year, event, award, and source.</p>
 
 <p align="center">
-  <a href="https://hackwinnerdb.vercel.app">Website</a> ·
+  <a href="https://github.com/notsointresting/hackwinnerdb/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/notsointresting/hackwinnerdb/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="LICENSE"><img alt="Code license: MIT" src="https://img.shields.io/badge/code-MIT-blue.svg"></a>
+  <a href="DATA_LICENSE.md"><img alt="Data license: CC BY 4.0" src="https://img.shields.io/badge/data-CC%20BY%204.0-green.svg"></a>
+  <a href="../../issues/new?template=add-winner.yml"><img alt="Add a winner" src="https://img.shields.io/badge/contribute-add%20a%20winner-a86a00.svg"></a>
+</p>
+
+<p align="center">
+  <a href="#-add-a-winner-2-minutes">Add a winner</a> ·
   <a href="CONTRIBUTING.md">Contributing</a> ·
-  <a href="public/dataset">Dataset</a> ·
-  <a href="LICENSE">License</a>
+  <a href="DATA_GUIDELINES.md">Data schema</a> ·
+  <a href="#-dataset">Dataset</a> ·
+  <a href="#-local-development">Development</a>
 </p>
 
 ---
 
-## What is HackWinnerDB?
+## 🏁 Add a winner (2 minutes)
 
-HackWinnerDB is a community-maintained open database of projects that have **won** hackathons —
-searchable by technology, category, year, event, award, and source. Every published winner carries a
-public source that confirms the award.
+**You do not need to code, and you do not need an account anywhere except GitHub.**
+
+Know a project that won a hackathon? Add it:
+
+### → [Open the "Add a hackathon winner" form](../../issues/new?template=add-winner.yml)
+
+You need exactly four things:
+
+| Field | Example |
+| --- | --- |
+| Hackathon + year | Google AI Hackathon, 2024 |
+| Project name | Nested |
+| Award, as published | First Place Overall |
+| **A public source URL that proves it** | https://devpost.com/software/nested |
+
+A maintainer turns your issue into data, and the site updates on merge. That is the whole loop.
+
+Prefer a pull request? Run `npm run add:winner` — see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Found something wrong? → [Suggest a correction](../../issues/new?template=correct-data.yml)
+
+## 🤔 What is HackWinnerDB?
+
+A community-maintained open database of projects that have **won** hackathons — Devpost, DoraHacks,
+MLH, Unstop, HackerEarth, lablab.ai, university and company events, anywhere.
 
 The repository contains two products:
 
 1. **The dataset** — plain YAML in `data/`, usable without ever running the website.
 2. **The website** — a Next.js app that indexes, searches, and presents that data.
 
-## Why it exists
+**GitHub is the source of truth.** No CMS, no database, no login. A winner enters through a pull
+request, CI validates it, a maintainer checks the source, and merging to `main` deploys the site.
+
+## 🧭 Why it exists
 
 Hackathon winners are scattered across event sites that expire, Devpost galleries, blog posts,
-social threads, and README files. A year later the project is hard to find and the award is hard to
-confirm. HackWinnerDB preserves them in one open, searchable index.
+social threads, and README files. A year later the project is hard to find and the award is
+impossible to confirm.
 
-## Search the database
+**Every published winner carries a public source. No source, no entry.**
 
-<!-- Screenshots: to be added once the site is deployed. -->
+## 🔍 Search the database
 
-Visit the site to search projects, hackathons, technologies, and categories (⌘K anywhere), filter by
-year, award, category, technology, and source, and share any filtered view as a URL:
+- Full-text search across project names, taglines, summaries, hackathons, organizers, technologies,
+  categories, builders, and awards — with typo tolerance.
+- `⌘K` / `Ctrl K` command palette anywhere on the site.
+- Filters for year, award, category, technology, source, and has GitHub / demo / video / verified.
+- Every filter lives in the URL, so any view is shareable:
 
 ```
-/projects?year=2024&technology=gemini&category=healthcare
+/projects?year=2024&technology=gemini&category=accessibility
 ```
 
-## Dataset
+<!-- Screenshots go here once the site is deployed. -->
 
-Generated on every build into `public/dataset/`:
+## 📦 Dataset
+
+Regenerated from `data/` on every build, into `public/dataset/`:
 
 | File | Contents |
 | --- | --- |
@@ -50,33 +89,23 @@ Generated on every build into `public/dataset/`:
 | `projects.json` / `.csv` | projects |
 | `entries.json` / `.csv` | award records linking projects to hackathons |
 
-Dataset license: **CC BY 4.0** ([DATA_LICENSE.md](DATA_LICENSE.md)). Code license: **MIT**.
+Data license: **CC BY 4.0** ([DATA_LICENSE.md](DATA_LICENSE.md)) · Code license: **MIT**
+([LICENSE](LICENSE)). Never edit `public/dataset/` by hand — it is generated.
 
-## Add a winner
-
-Three ways, no account on the website required:
-
-1. **Issue form** — [Add a hackathon winner](../../issues/new?template=add-winner.yml).
-2. **CLI** — `npm run add:winner`, then open a pull request.
-3. **By hand** — write the YAML against [DATA_GUIDELINES.md](DATA_GUIDELINES.md).
-
-Every winner needs a public source that confirms the award.
-
-## Repository structure
+## 🗂 Repository structure
 
 ```
 data/
   hackathons/<year>/   event records
   projects/            project records
-  entries/             project + hackathon + awards + source
+  entries/             project + hackathon + awards + source evidence
   taxonomies/          categories, technologies, award types
   sources.yaml         accepted source platforms
 src/
   app/                 Next.js App Router routes
   components/          UI components
   lib/                 repository, search, queries, helpers
-  schemas/             Zod schemas (the contract for all data)
-  types/
+  schemas/             Zod schemas — the contract for all data
 scripts/
   add-winner.ts        interactive contribution CLI
   validate-data.ts     schema + cross-file validation
@@ -84,21 +113,20 @@ scripts/
   generate-dataset.ts  JSON/CSV dataset build
   data-summary.ts      PR summary for data changes
 public/dataset/        generated dataset artifacts
-tests/                 Vitest unit tests and Playwright smoke tests
+tests/                 Vitest unit tests + Playwright smoke tests
 ```
 
-## Local development
+## 💻 Local development
 
 ```bash
 npm install
 npm run dev          # http://localhost:3000
 ```
 
-Requires Node 20+ (CI uses Node 22).
+Node 20+ (CI runs Node 22). No environment variables required; set `NEXT_PUBLIC_SITE_URL` if you
+deploy your own copy.
 
-## Data schema
-
-See [DATA_GUIDELINES.md](DATA_GUIDELINES.md). The model is deliberately three-part:
+## 🧬 Data schema
 
 ```
 Project  ->  Entry  ->  Hackathon
@@ -106,57 +134,75 @@ Project  ->  Entry  ->  Hackathon
                   ->  Award(s)
 ```
 
-A project can enter many hackathons and win many awards; an entry ties one project to one hackathon
-with its awards and its source evidence.
+A project is **not** owned by one hackathon. It can enter many and win many awards; an **entry**
+links one project to one hackathon with its awards and its source evidence.
 
-## Validation
+Full field-by-field reference: [DATA_GUIDELINES.md](DATA_GUIDELINES.md).
+
+## ✅ Validation
 
 ```bash
-npm run validate:data     # Zod + referential integrity + uniqueness; exits non-zero on failure
+npm run validate:data     # Zod + referential integrity + uniqueness; non-zero exit on failure
 npm run check:duplicates  # fuzzy duplicate warnings, hard constraint failures
 npm run generate:data     # rebuild public/dataset
 npm run typecheck && npm run lint && npm test && npm run test:e2e
 ```
 
-## Contribution guidelines
+Invalid data cannot merge: CI runs typecheck → lint → validate → duplicate check → unit tests →
+build → Playwright smoke tests on every pull request.
 
-[CONTRIBUTING.md](CONTRIBUTING.md) · [DATA_GUIDELINES.md](DATA_GUIDELINES.md) ·
+## 🙌 Ways to contribute
+
+| I want to… | Do this |
+| --- | --- |
+| Add one winner I know about | [Add-winner issue form](../../issues/new?template=add-winner.yml) |
+| Add several winners from one event | `npm run add:winner`, then one PR per event |
+| Fix a wrong award, link, or spelling | [Correction form](../../issues/new?template=correct-data.yml) or edit the YAML |
+| Add a missing technology or category | PR against `data/taxonomies/` |
+| Write code | Pick a [good first issue](../../labels/good%20first%20issue) |
+| Report a bug or request a feature | [Issue templates](../../issues/new/choose) |
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first pull request ·
 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) · [SECURITY.md](SECURITY.md)
 
-## Architecture
+**House rules:** every winner needs a public source; write your own summaries (never paste from
+Devpost or blogs); use canonical slugs from `data/taxonomies/`.
+
+## 🏗 Architecture
 
 ```
-Contributor -> Pull request -> CI validation -> Review -> merge to main
-                                                            |
-                                             Vercel build (generate:data + next build)
-                                                            |
-                                                     Production website
+Contributor -> Pull request -> CI validation -> Maintainer review -> merge to main
+                                                                        |
+                                                  Vercel build (generate:data + next build)
+                                                                        |
+                                                                 Production website
 ```
 
 Git stays canonical. The UI talks to two seams — `DataRepository` (`src/lib/load-dataset.ts`) and
 `SearchProvider` (`src/lib/search.ts`) — so a Postgres or Meilisearch mirror can be added later
-without rewriting components.
+without rewriting a single component.
 
-### Vercel deployment
+### Deploying your own copy
 
-Import the repository in Vercel and accept the defaults (framework: Next.js, build command
-`npm run build`, which runs `generate:data` first). Vercel's Git integration then builds every pull
-request as a preview and deploys `main` to production automatically. No environment variables are
-required; set `NEXT_PUBLIC_SITE_URL` to your production URL so canonical links and the sitemap point
-at the right host.
+Import the repository in Vercel and accept the defaults (framework Next.js, build command
+`npm run build`, which runs `generate:data` first). Vercel builds every pull request as a preview and
+deploys `main` to production automatically.
 
-## Roadmap
+## 🗺 Roadmap
 
-- broaden coverage beyond the seed corpus (more platforms, more regions, more years)
-- richer hackathon metadata (tracks, sponsors, judges) where sources exist
-- optional Postgres/Meilisearch mirror behind the existing interfaces
-- assisted (never automatic) import tooling once the schema has proven itself
+- [ ] Broaden coverage beyond the seed corpus — more platforms, regions, and years
+- [ ] Richer hackathon metadata (tracks, sponsors, judges) where sources exist
+- [ ] Maintainer script that converts an add-winner issue into YAML
+- [ ] Optional Postgres/Meilisearch mirror behind the existing interfaces
+- [ ] Assisted (never fully automatic) import tooling once the schema has proven itself
 
-## License
+Scrapers are deliberately **not** in V1 — the schema gets proven against hand-curated records first.
+
+## 📄 License
 
 Code: [MIT](LICENSE). Data: [CC BY 4.0](DATA_LICENSE.md).
 
-## Contributors
+## 👥 Contributors
 
-Thanks to everyone who adds a winner — see the
+Every record in here was added by a person. Thank you →
 [contributors graph](../../graphs/contributors).

@@ -15,7 +15,7 @@ The **code** is licensed separately under the MIT License — see [LICENSE](LICE
 
 - give appropriate credit, for example:
 
-  > Data from HackWinnerDB (https://github.com/hackwinnerdb/hackwinnerdb), licensed CC BY 4.0.
+  > Data from HackWinnerDB (https://github.com/notsointresting/hackwinnerdb), licensed CC BY 4.0.
 
 - indicate if you made changes
 - not imply that HackWinnerDB endorses your use
