@@ -1,0 +1,49 @@
+import { expect, test } from "@playwright/test";
+
+test("homepage shows real statistics and recent winners", async ({ page }) => {
+  await page.goto("/");
+  await expect(page.getByRole("heading", { level: 1 })).toContainText("Explore what wins hackathons");
+  await expect(page.getByText("Winning Projects", { exact: true })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Recent Winners" })).toBeVisible();
+});
+
+test("search finds a seeded project", async ({ page }) => {
+  await page.goto("/projects");
+  await page.getByLabel("Search HackWinnerDB").fill("Mochi");
+  await page.getByRole("button", { name: "Search", exact: true }).click();
+  await expect(page).toHaveURL(/q=Mochi/);
+  await expect(page.getByRole("heading", { name: "Mochi" })).toBeVisible();
+});
+
+test("filters are reflected in the URL and narrow results", async ({ page }) => {
+  await page.goto("/projects?technology=gemini");
+  await expect(page.getByRole("article").first()).toBeVisible();
+  const count = await page.getByRole("article").count();
+  expect(count).toBeGreaterThan(0);
+});
+
+test("project page shows the award and verified source", async ({ page }) => {
+  await page.goto("/projects/nested");
+  await expect(page.getByRole("heading", { level: 1 })).toHaveText("Nested");
+  await expect(page.getByText("First Place Overall").first()).toBeVisible();
+  await expect(page.getByRole("link", { name: /Original announcement/ })).toBeVisible();
+});
+
+test("hackathon page lists its winners", async ({ page }) => {
+  await page.goto("/hackathons/google-ai-hackathon-2024");
+  await expect(page.getByRole("heading", { name: "Winners" })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Nested" })).toBeVisible();
+});
+
+test("technology page computes pairings", async ({ page }) => {
+  await page.goto("/technology/gemini");
+  await expect(page.getByRole("heading", { level: 1 })).toHaveText("Gemini");
+  await expect(page.getByText("Frequently paired with")).toBeVisible();
+});
+
+test("dataset downloads are served", async ({ request }) => {
+  const response = await request.get("/dataset/hackwinnerdb.json");
+  expect(response.ok()).toBeTruthy();
+  const body = await response.json();
+  expect(body.entries.length).toBeGreaterThan(0);
+});

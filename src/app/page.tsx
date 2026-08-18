@@ -158,6 +158,24 @@ export default function HomePage() {
         </div>
       </Container>
 
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Recent hackathon winners",
+            numberOfItems: recent.length,
+            itemListElement: recent.map((winner, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              name: winner.project.name,
+              url: `${SITE.url}/projects/${winner.project.slug}`,
+            })),
+          }),
+        }}
+      />
+
       <Container className="pb-20">
         <div className="rounded-lg border border-line bg-bg-subtle p-8">
           <h2 className="text-xl font-semibold tracking-tight">
