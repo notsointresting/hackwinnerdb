@@ -1,0 +1,78 @@
+name: Add a hackathon winner
+description: Suggest a winning project to add to the database. No coding required.
+title: "Add winner: <project> — <hackathon>"
+labels: ["data", "add-winner"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Every published winner needs a public source that
+        confirms the award. Facts and links only — please do not paste full
+        descriptions from Devpost or blogs.
+  - type: input
+    id: hackathon
+    attributes:
+      label: Hackathon name
+      placeholder: Google AI Hackathon
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Hackathon year
+      placeholder: "2026"
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: input
+    id: award
+    attributes:
+      label: Award
+      description: The award exactly as published (e.g. "Grand Prize", "Best Use of AI").
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original source URL
+      description: A public page that confirms this project won this award.
+    validations:
+      required: true
+  - type: input
+    id: project_url
+    attributes:
+      label: Project URL
+  - type: input
+    id: github
+    attributes:
+      label: GitHub URL
+  - type: input
+    id: technologies
+    attributes:
+      label: Technologies
+      placeholder: python, gemini, react
+  - type: input
+    id: categories
+    attributes:
+      label: Categories
+      placeholder: healthcare, artificial-intelligence
+  - type: input
+    id: builders
+    attributes:
+      label: Team / builders
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: The source URL is public and confirms this exact award.
+          required: true

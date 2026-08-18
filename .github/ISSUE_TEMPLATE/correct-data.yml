@@ -1,0 +1,24 @@
+name: Suggest a correction
+description: Report an incorrect or outdated record.
+title: "Correction: <record>"
+labels: ["data", "correction"]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Which record is wrong?
+      description: Paste the HackWinnerDB URL or the data file path.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is incorrect?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source supporting the correction
+    validations:
+      required: true

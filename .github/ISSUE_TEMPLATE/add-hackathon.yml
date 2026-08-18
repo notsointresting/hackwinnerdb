@@ -1,0 +1,47 @@
+name: Add a hackathon
+description: Suggest a hackathon (event metadata only, winners can follow later).
+title: "Add hackathon: <name> <year>"
+labels: ["data", "add-hackathon"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Hackathon name
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year
+    validations:
+      required: true
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+  - type: input
+    id: source
+    attributes:
+      label: Source URL confirming the event and its winners
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - devpost
+        - dorahacks
+        - mlh
+        - unstop
+        - hackerearth
+        - lablab
+        - hackquest
+        - ethglobal
+        - organizer
+        - github
+        - other
