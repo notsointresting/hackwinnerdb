@@ -55,6 +55,7 @@ website_url: null
 github_url: null
 demo_url: null
 video_url: null
+image_url: null   # optional direct link to a screenshot/thumbnail hosted at the source
 categories:          # required, canonical slugs from data/taxonomies/categories.yaml
   - healthcare
 technologies:        # canonical slugs from data/taxonomies/technologies.yaml

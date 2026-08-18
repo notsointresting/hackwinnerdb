@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AwardBadge, Chip, Container, VerifiedBadge } from "@/components/ui";
 import { Breadcrumbs } from "@/components/breadcrumbs";
+import { ProjectImage } from "@/components/project-image";
 import { getDataset } from "@/lib/repository";
 import { labelMaps } from "@/lib/labels";
 import { winnersForProject } from "@/lib/queries";
@@ -74,9 +75,10 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
         ]}
       />
 
-      <header className="border-b border-line pb-8">
-        <h1 className="text-3xl font-semibold tracking-tight">{project.name}</h1>
-        <p className="mt-2 max-w-2xl text-fg-muted">{project.tagline}</p>
+      <header className="grid gap-8 border-b border-line pb-8 lg:grid-cols-[minmax(0,1fr)_380px] lg:items-center">
+        <div className="hw-rise">
+          <h1 className="text-3xl font-semibold tracking-[-0.02em] sm:text-4xl">{project.name}</h1>
+          <p className="mt-3 max-w-2xl text-pretty text-lg text-fg-muted">{project.tagline}</p>
         {top ? (
           <div className="mt-4 flex flex-wrap items-center gap-3">
             <AwardBadge label={`🏆 ${top.primaryAward.title}`} />
@@ -89,6 +91,15 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
             {top.entry.verification.status === "verified" ? <VerifiedBadge /> : null}
           </div>
         ) : null}
+        </div>
+        <div className="hw-pop group">
+          <ProjectImage
+            src={project.image_url}
+            name={project.name}
+            priority
+            sizes="(max-width: 1024px) 100vw, 380px"
+          />
+        </div>
       </header>
 
       <div className="grid gap-10 py-8 lg:grid-cols-[minmax(0,1fr)_280px]">

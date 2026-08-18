@@ -37,23 +37,25 @@ export default function HomePage() {
     <>
       <section className="border-b border-line">
         <Container className="flex flex-col items-start py-16 sm:py-24">
-          <p className="font-mono text-xs uppercase tracking-widest text-fg-muted">{SITE.name}</p>
-          <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-tight sm:text-5xl">
+          <p className="hw-fade font-mono text-xs uppercase tracking-widest text-fg-muted">
+            {SITE.name}
+          </p>
+          <h1 className="hw-rise mt-4 max-w-4xl text-balance text-4xl font-semibold leading-[1.05] tracking-[-0.03em] sm:text-6xl lg:text-7xl">
             {SITE.headline}
           </h1>
-          <p className="mt-4 max-w-2xl text-base text-fg-muted sm:text-lg">
+          <p className="hw-rise mt-5 max-w-2xl text-pretty text-base text-fg-muted sm:text-lg">
             The open-source database of hackathon-winning projects — searchable by technology,
             category, year, event, award, and source.
           </p>
           <HeroSearch />
-          <div className="mt-4 flex flex-wrap gap-2">
+          <div className="hw-stagger mt-5 flex flex-wrap gap-2">
             {QUICK_CATEGORIES.filter((slug) => labels.categories.has(slug)).map((slug) => (
               <Chip key={slug} href={`/category/${slug}`}>
                 {labels.categories.get(slug)}
               </Chip>
             ))}
           </div>
-          <div className="mt-8 flex flex-wrap gap-3">
+          <div className="hw-rise mt-8 flex flex-wrap gap-3">
             <Link
               href="/projects"
               className="rounded-md bg-fg px-4 py-2 text-sm font-medium text-bg hover:opacity-90"
@@ -73,7 +75,7 @@ export default function HomePage() {
       </section>
 
       <section className="border-b border-line bg-bg-subtle">
-        <Container className="grid grid-cols-2 gap-6 py-8 sm:grid-cols-4">
+        <Container className="hw-stagger grid grid-cols-2 gap-6 py-10 sm:grid-cols-4">
           <Stat value={formatNumber(stats.projects)} label="Winning Projects" />
           <Stat value={formatNumber(stats.hackathons)} label="Hackathons" />
           <Stat value={formatNumber(stats.technologies)} label="Technologies" />
@@ -87,8 +89,8 @@ export default function HomePage() {
         </SectionHeading>
         {recent.length ? (
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {recent.map((winner) => (
-              <WinnerCard key={winner.entry.id} winner={winner} labels={labels} />
+            {recent.map((winner, i) => (
+              <WinnerCard key={winner.entry.id} winner={winner} labels={labels} priority={i < 3} />
             ))}
           </div>
         ) : (
@@ -101,16 +103,24 @@ export default function HomePage() {
 
       <Container className="py-12">
         <SectionHeading title="Explore by Category" href="/categories" />
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="hw-stagger grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {topEntries(catCounts, 8).map(([slug, count]) => (
             <Link
               key={slug}
               href={`/category/${slug}`}
-              className="rounded-lg border border-line p-4 hover:border-line-strong"
+              className="hw-reveal group flex items-center justify-between gap-3 rounded-xl border border-line p-4 transition-[border-color,transform] duration-300 ease-out hover:border-line-strong motion-safe:hover:-translate-y-0.5"
             >
-              <span className="block font-medium">{labels.categories.get(slug) ?? slug}</span>
-              <span className="mt-1 block text-sm text-fg-muted">
-                {formatNumber(count)} project{count === 1 ? "" : "s"}
+              <span>
+                <span className="block font-medium">{labels.categories.get(slug) ?? slug}</span>
+                <span className="mt-1 block text-sm text-fg-muted">
+                  {formatNumber(count)} project{count === 1 ? "" : "s"}
+                </span>
+              </span>
+              <span
+                aria-hidden="true"
+                className="text-fg-muted transition-transform duration-300 motion-safe:group-hover:translate-x-1"
+              >
+                →
               </span>
             </Link>
           ))}
@@ -119,7 +129,7 @@ export default function HomePage() {
 
       <Container className="py-12">
         <SectionHeading title="Popular Technologies" href="/technologies" />
-        <div className="flex flex-wrap gap-2">
+        <div className="hw-stagger flex flex-wrap gap-2">
           {topEntries(techCounts, 16).map(([slug, count]) => (
             <Chip key={slug} href={`/technology/${slug}`} className="font-mono">
               {labels.technologies.get(slug) ?? slug}
@@ -131,12 +141,12 @@ export default function HomePage() {
 
       <Container className="py-12">
         <SectionHeading title="Browse Hackathons" href="/hackathons" />
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="hw-stagger grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {dataset.hackathons.slice(0, 6).map((hackathon) => (
             <Link
               key={hackathon.id}
               href={`/hackathons/${hackathon.slug}`}
-              className="rounded-lg border border-line p-4 hover:border-line-strong"
+              className="hw-reveal rounded-xl border border-line p-4 transition-[border-color,transform] duration-300 ease-out hover:border-line-strong motion-safe:hover:-translate-y-0.5"
             >
               <span className="block font-medium">{hackathon.name}</span>
               <span className="mt-1 block text-sm text-fg-muted">
@@ -177,7 +187,7 @@ export default function HomePage() {
       />
 
       <Container className="pb-20">
-        <div className="rounded-lg border border-line bg-bg-subtle p-8">
+        <div className="hw-reveal rounded-xl border border-line bg-[radial-gradient(120%_120%_at_0%_0%,var(--accent-bg),var(--bg-subtle))] p-8 sm:p-10">
           <h2 className="text-xl font-semibold tracking-tight">
             HackWinnerDB belongs to the community.
           </h2>

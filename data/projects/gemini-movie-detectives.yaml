@@ -1,14 +1,15 @@
 id: gemini-movie-detectives
 name: Gemini Movie Detectives
 tagline: AI movie quiz game built on Gemini and retrieval-augmented generation
-summary: A quiz game that generates movie trivia on the fly by combining Gemini with retrieval over
-  a movie database, aimed at classroom and university use.
+summary: A quiz game that generates movie trivia on the fly by combining Gemini with retrieval over a movie database,
+  aimed at classroom and university use.
 problem: Educational quiz content is slow to author and goes stale quickly.
 solution: Questions are generated per session from live movie data, so the content never repeats.
 website_url: https://movie-detectives.com/
 github_url: https://github.com/vojay-dev/gemini-movie-detectives-api
 demo_url: https://movie-detectives.com/
 video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/834/621/datas/medium.png
 categories:
   - education
   - artificial-intelligence

@@ -139,6 +139,8 @@ export const projectSchema = z.object({
   github_url: NullableUrl,
   demo_url: NullableUrl,
   video_url: NullableUrl,
+  /** Screenshot or thumbnail of the project, hosted at its source. */
+  image_url: NullableUrl,
   categories: z.array(Slug).min(1),
   technologies: z.array(Slug).default([]),
   builders: z.array(builderSchema).default([]),

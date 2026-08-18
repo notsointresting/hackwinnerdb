@@ -105,9 +105,14 @@ export function WinnerBrowser({
           <ResultsToolbar total={result.total} />
         </Suspense>
         {result.items.length ? (
-          <div className="mt-6 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-            {result.items.map((winner) => (
-              <WinnerCard key={winner.entry.id} winner={winner} labels={labels} />
+          <div className="hw-stagger mt-6 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+            {result.items.map((winner, i) => (
+              <WinnerCard
+                key={winner.entry.id}
+                winner={winner}
+                labels={labels}
+                priority={i < 3}
+              />
             ))}
           </div>
         ) : (

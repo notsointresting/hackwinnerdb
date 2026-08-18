@@ -174,6 +174,7 @@ async function main() {
       github_url: (await ask("GitHub URL")) || null,
       demo_url: (await ask("Demo URL")) || null,
       video_url: (await ask("Video URL")) || null,
+      image_url: (await ask("Project image URL (screenshot/thumbnail)")) || null,
       categories: projectCategories,
       technologies: projectTechnologies,
       builders: (await askList("Builder names")).map((name) => ({ name })),

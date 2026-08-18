@@ -1,15 +1,16 @@
 id: nested
 name: Nested
 tagline: Relocation assistant that turns Maps history into neighborhood recommendations
-summary: Nested analyzes a user's Google Maps history to learn the places they rely on, then
-  recommends comparable amenities and services near a city they are moving to.
+summary: Nested analyzes a user's Google Maps history to learn the places they rely on, then recommends comparable
+  amenities and services near a city they are moving to.
 problem: Moving to a new city means rebuilding an entire set of everyday places from scratch.
-solution: The app reads existing location history with the user's consent and matches habitual place
-  types against candidate neighborhoods.
+solution: The app reads existing location history with the user's consent and matches habitual place types against
+  candidate neighborhoods.
 website_url: null
 github_url: https://github.com/eeshamoona/Nest-Builder
 demo_url: null
 video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/877/553/datas/medium.png
 categories:
   - consumer
   - artificial-intelligence

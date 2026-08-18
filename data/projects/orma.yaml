@@ -1,13 +1,14 @@
 id: orma
 name: Orma
 tagline: A memory layer over your browsing history you can chat with
-summary: Orma captures pages as they are browsed and builds a searchable memory that can be queried
-  conversationally, mixing on-device and cloud models.
+summary: Orma captures pages as they are browsed and builds a searchable memory that can be queried conversationally,
+  mixing on-device and cloud models.
 problem: Browser history records URLs but not what was actually learned.
 website_url: null
 github_url: null
 demo_url: null
 video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/003/171/531/datas/medium.png
 categories:
   - productivity
   - artificial-intelligence

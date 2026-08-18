@@ -59,6 +59,13 @@ body {
   color: var(--fg);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
 }
 
 :focus-visible {
@@ -75,5 +82,80 @@ body {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+}
+
+/* ---------- motion ---------- */
+
+@keyframes hw-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes hw-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes hw-scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.98) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hw-rise {
+    animation: hw-rise 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  .hw-fade {
+    animation: hw-fade 0.6s ease-out both;
+  }
+
+  .hw-pop {
+    animation: hw-scale-in 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  /* Cards reveal as they scroll into view; no JS, no layout shift. */
+  .hw-reveal {
+    animation: hw-rise 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+    animation-timeline: view();
+    animation-range: entry 0% cover 22%;
+  }
+}
+
+/* Staggered entrance for grids and chip rows. */
+.hw-stagger > * {
+  --hw-delay: 0ms;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hw-stagger > *:nth-child(1) { animation-delay: 40ms; }
+  .hw-stagger > *:nth-child(2) { animation-delay: 80ms; }
+  .hw-stagger > *:nth-child(3) { animation-delay: 120ms; }
+  .hw-stagger > *:nth-child(4) { animation-delay: 160ms; }
+  .hw-stagger > *:nth-child(5) { animation-delay: 200ms; }
+  .hw-stagger > *:nth-child(6) { animation-delay: 240ms; }
+  .hw-stagger > *:nth-child(n + 7) { animation-delay: 280ms; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  ::view-transition-group(root) {
+    animation-duration: 0.28s;
   }
 }

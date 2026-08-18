@@ -52,6 +52,15 @@ body:
     attributes:
       label: GitHub URL
   - type: input
+    id: image
+    attributes:
+      label: Project image URL
+      description: >
+        Direct link to a screenshot or thumbnail of the project — right-click the image on the
+        Devpost/submission page and copy the image address. Must end in .png/.jpg/.webp and be
+        publicly reachable. Leave blank if there is no image; a placeholder is shown instead.
+      placeholder: https://.../screenshot.png
+  - type: input
     id: technologies
     attributes:
       label: Technologies
