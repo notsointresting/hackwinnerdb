@@ -11,8 +11,13 @@ import { formatDate, formatMoney } from "@/lib/utils";
 import { GITHUB_EDIT_BASE, GITHUB_NEW_ISSUE } from "@/lib/paths";
 import { SITE } from "@/lib/site";
 
+export const dynamicParams = true;
+export const revalidate = 3600;
+
 export function generateStaticParams() {
-  return getDataset().projects.map((project) => ({ slug: project.slug }));
+  return getDataset()
+    .projects.slice(0, 200)
+    .map((project) => ({ slug: project.slug }));
 }
 
 export async function generateMetadata({
@@ -63,6 +68,21 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
     url: project.website_url ?? `${SITE.url}/projects/${project.slug}`,
     author: project.builders.map((b) => ({ "@type": "Person", name: b.name })),
     award: wins.flatMap((w) => w.entry.awards.map((a) => `${a.title} — ${w.hackathon.name}`)),
+  };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE.url },
+      { "@type": "ListItem", position: 2, name: "Projects", item: `${SITE.url}/projects` },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: project.name,
+        item: `${SITE.url}/projects/${project.slug}`,
+      },
+    ],
   };
 
   return (
@@ -279,6 +299,10 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
     </Container>
   );

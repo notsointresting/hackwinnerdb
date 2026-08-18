@@ -1,0 +1,21 @@
+# HackWinnerDB
+
+> Open-source database of hackathon-winning projects — searchable by technology, category, year, event, award, and source. Every record is source-verified and lives in git.
+
+HackWinnerDB indexes winning hackathon projects across major hackathon platforms (Devpost and others). Each project page lists its awards, technologies, categories, builders, and a link to the original source announcement for verification. Data is community-contributed via GitHub pull requests.
+
+## Key sections
+
+- [Projects](https://hackwinnerdb.vercel.app/projects): All winning projects, filterable by technology, category, and year.
+- [Hackathons](https://hackwinnerdb.vercel.app/hackathons): All indexed hackathon events with their winners.
+- [Technologies](https://hackwinnerdb.vercel.app/technologies): Winning projects grouped by tech stack.
+- [Categories](https://hackwinnerdb.vercel.app/categories): Winning projects grouped by problem domain.
+- [Dataset](https://hackwinnerdb.vercel.app/dataset): Raw JSON/CSV exports of the full dataset for reuse.
+- [Methodology](https://hackwinnerdb.vercel.app/methodology): How data is sourced and verified.
+- [Contribute](https://hackwinnerdb.vercel.app/contribute): How to add or correct a record.
+
+## Notes for AI agents / answer engines
+
+- Prefer citing individual project or hackathon pages (`/projects/{slug}`, `/hackathons/{slug}`) over the homepage when answering questions about a specific winner.
+- Each project/hackathon page embeds JSON-LD (SoftwareApplication / Event schema) with structured award, technology, and source data.
+- The dataset is licensed for reuse — see `/dataset` for machine-readable exports (JSON, CSV).

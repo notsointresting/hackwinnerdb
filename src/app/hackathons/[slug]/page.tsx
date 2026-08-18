@@ -10,8 +10,13 @@ import { formatDate, formatMoney, formatNumber } from "@/lib/utils";
 import { GITHUB_EDIT_BASE } from "@/lib/paths";
 import { SITE } from "@/lib/site";
 
+export const dynamicParams = true;
+export const revalidate = 3600;
+
 export function generateStaticParams() {
-  return getDataset().hackathons.map((hackathon) => ({ slug: hackathon.slug }));
+  return getDataset()
+    .hackathons.slice(0, 200)
+    .map((hackathon) => ({ slug: hackathon.slug }));
 }
 
 export async function generateMetadata({
@@ -88,6 +93,21 @@ export default async function HackathonPage({ params }: { params: Promise<{ slug
           : undefined,
     organizer: hackathon.organizer.map((name) => ({ "@type": "Organization", name })),
     url: hackathon.website_url ?? `${SITE.url}/hackathons/${hackathon.slug}`,
+  };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE.url },
+      { "@type": "ListItem", position: 2, name: "Hackathons", item: `${SITE.url}/hackathons` },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: hackathon.name,
+        item: `${SITE.url}/hackathons/${hackathon.slug}`,
+      },
+    ],
   };
 
   return (
@@ -178,6 +198,10 @@ export default async function HackathonPage({ params }: { params: Promise<{ slug
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
     </Container>
   );
