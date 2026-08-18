@@ -65,7 +65,7 @@ const SECTIONS = [
 export default function MethodologyPage() {
   return (
     <Container className="py-12">
-      <h1 className="text-3xl font-semibold tracking-tight">Methodology</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Methodology</h1>
       <p className="mt-3 max-w-2xl text-fg-muted">
         Trust is the product. This page describes exactly how records get in, how they are checked,
         and where the data falls short.

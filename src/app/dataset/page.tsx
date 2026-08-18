@@ -25,7 +25,7 @@ export default function DatasetPage() {
   const stats = computeStats(getDataset());
   return (
     <Container className="py-12">
-      <h1 className="text-3xl font-semibold tracking-tight">Download dataset</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Download dataset</h1>
       <p className="mt-3 max-w-2xl text-fg-muted">
         The dataset is generated from the YAML records in the repository on every build. It contains{" "}
         {formatNumber(stats.hackathons)} hackathons, {formatNumber(stats.projects)} projects, and{" "}

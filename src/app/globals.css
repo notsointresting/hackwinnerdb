@@ -1,44 +1,39 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial,
-    sans-serif;
-  --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+  --font-sans: var(--font-sans-ui), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: var(--font-display), "Archivo", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-mono-ui), ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 }
 
+/*
+ * Dark-only editorial palette: deep violet ground, electric accents.
+ * Single committed look — there is no light variant.
+ */
 :root {
-  --bg: #ffffff;
-  --bg-subtle: #fafafa;
-  --fg: #0b0b0c;
-  --fg-muted: #5c5f66;
-  --border: #e5e5e7;
-  --border-strong: #d0d0d4;
-  --accent: #a86a00;
-  --accent-bg: #fdf6e7;
-  --accent-border: #ecd9ae;
-  --verified: #14663f;
-  --verified-bg: #eff6f1;
-}
+  color-scheme: dark;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #08090a;
-    --bg-subtle: #0e1011;
-    --fg: #f2f3f4;
-    --fg-muted: #9ba1a8;
-    --border: #1e2124;
-    --border-strong: #2c3033;
-    --accent: #e8b45c;
-    --accent-bg: #221a08;
-    --accent-border: #46340f;
-    --verified: #6fd39d;
-    --verified-bg: #0e1f17;
-  }
+  --bg: #0a0416;
+  --bg-subtle: #130a24;
+  --bg-raised: #1a0f2e;
+  --fg: #f6f2ff;
+  --fg-muted: #a99cc4;
+  --border: #2a1a45;
+  --border-strong: #402a63;
+  --accent: #b98bff;
+  --accent-bg: #1e1036;
+  --accent-border: #4a2c7d;
+  --glow-a: #7b3ff2;
+  --glow-b: #2f7bff;
+  --glow-c: #d946ef;
+  --verified: #5ee9b5;
+  --verified-bg: #0d2b22;
 }
 
 @theme inline {
   --color-bg: var(--bg);
   --color-bg-subtle: var(--bg-subtle);
+  --color-bg-raised: var(--bg-raised);
   --color-fg: var(--fg);
   --color-fg-muted: var(--fg-muted);
   --color-line: var(--border);
@@ -66,6 +61,115 @@ h1,
 h2,
 h3 {
   text-wrap: balance;
+}
+
+/* ---------- display typography ---------- */
+
+/* Heavy condensed display face, the signature of the layout. */
+.hw-display {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 78;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 0.92;
+}
+
+/* Oversized word used as a graphic element. */
+.hw-wordmark {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 70;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  line-height: 0.82;
+  background: linear-gradient(180deg, var(--fg) 30%, color-mix(in oklab, var(--accent) 70%, var(--fg)));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hw-eyebrow {
+  font-family: var(--font-display);
+  font-variation-settings: "wdth" 85;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+}
+
+/* ---------- glow surfaces ---------- */
+
+.hw-glow-frame {
+  position: relative;
+  border-radius: 1rem;
+}
+
+.hw-glow-frame::before {
+  content: "";
+  position: absolute;
+  inset: -1.5px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, var(--glow-a), var(--glow-b) 45%, var(--glow-c));
+  opacity: 0.55;
+  z-index: -1;
+  filter: blur(0.5px);
+}
+
+.hw-glow-frame::after {
+  content: "";
+  position: absolute;
+  inset: -28px;
+  border-radius: inherit;
+  background: radial-gradient(60% 60% at 50% 50%, var(--glow-a), transparent 70%);
+  opacity: 0.28;
+  z-index: -2;
+  filter: blur(36px);
+  pointer-events: none;
+}
+
+/* Ambient wash behind the hero. */
+.hw-aurora {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.hw-aurora::before,
+.hw-aurora::after {
+  content: "";
+  position: absolute;
+  width: 46rem;
+  height: 46rem;
+  border-radius: 9999px;
+  filter: blur(120px);
+  opacity: 0.22;
+}
+
+.hw-aurora::before {
+  background: var(--glow-a);
+  top: -22rem;
+  left: -12rem;
+}
+
+.hw-aurora::after {
+  background: var(--glow-b);
+  top: -16rem;
+  right: -14rem;
+}
+
+.hw-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border-radius: 9999px;
+  border: 1px solid var(--accent-border);
+  background: color-mix(in oklab, var(--accent-bg) 80%, transparent);
+  padding: 0.3rem 0.75rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
 }
 
 :focus-visible {

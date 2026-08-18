@@ -18,7 +18,7 @@ export default function TechnologiesPage() {
 
   return (
     <Container className="py-10">
-      <h1 className="text-2xl font-semibold tracking-tight">Technologies</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Technologies</h1>
       <p className="mt-2 max-w-2xl text-sm text-fg-muted">
         {ranked.length} technolog{ranked.length === 1 ? "y" : "ies"} appear in winning projects.
         Counts are computed from the dataset.

@@ -14,7 +14,7 @@ export function SiteNav() {
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-bg/85 backdrop-blur">
       <Container className="flex h-14 items-center gap-4">
-        <Link href="/" className="font-semibold tracking-tight">
+        <Link href="/" className="hw-display text-xl">
           Hack<span className="text-accent">Winner</span>DB
         </Link>
         <nav aria-label="Main" className="hidden md:block">

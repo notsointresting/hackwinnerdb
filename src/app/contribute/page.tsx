@@ -31,7 +31,7 @@ const LEVELS = [
 export default function ContributePage() {
   return (
     <Container className="py-12">
-      <h1 className="text-3xl font-semibold tracking-tight">Contribute</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Contribute</h1>
       <p className="mt-3 max-w-2xl text-fg-muted">
         HackWinnerDB is a community-maintained open dataset. GitHub is the source of truth: every
         record lives in a YAML file, every change goes through a pull request, and every merge to{" "}

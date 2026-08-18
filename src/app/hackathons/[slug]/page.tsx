@@ -100,7 +100,7 @@ export default async function HackathonPage({ params }: { params: Promise<{ slug
         ]}
       />
       <header className="border-b border-line pb-8">
-        <h1 className="text-3xl font-semibold tracking-tight">{hackathon.name}</h1>
+        <h1 className="hw-display text-4xl sm:text-5xl">{hackathon.name}</h1>
         {hackathon.description ? (
           <p className="mt-3 max-w-2xl text-fg-muted">{hackathon.description}</p>
         ) : null}

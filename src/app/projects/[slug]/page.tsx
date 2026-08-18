@@ -77,7 +77,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
 
       <header className="grid gap-8 border-b border-line pb-8 lg:grid-cols-[minmax(0,1fr)_380px] lg:items-center">
         <div className="hw-rise">
-          <h1 className="text-3xl font-semibold tracking-[-0.02em] sm:text-4xl">{project.name}</h1>
+          <h1 className="hw-display text-4xl sm:text-5xl">{project.name}</h1>
           <p className="mt-3 max-w-2xl text-pretty text-lg text-fg-muted">{project.tagline}</p>
         {top ? (
           <div className="mt-4 flex flex-wrap items-center gap-3">
@@ -105,14 +105,14 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
       <div className="grid gap-10 py-8 lg:grid-cols-[minmax(0,1fr)_280px]">
         <div className="space-y-8">
           <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
               What it does
             </h2>
             <p className="mt-3 leading-relaxed">{project.summary}</p>
           </section>
           {project.problem ? (
             <section>
-              <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
                 Problem
               </h2>
               <p className="mt-3 leading-relaxed">{project.problem}</p>
@@ -120,7 +120,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           ) : null}
           {project.solution ? (
             <section>
-              <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
                 Solution
               </h2>
               <p className="mt-3 leading-relaxed">{project.solution}</p>
@@ -128,7 +128,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           ) : null}
 
           <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">Awards</h2>
+            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">Awards</h2>
             <ul className="mt-3 divide-y divide-line border-y border-line">
               {wins.map((win) => (
                 <li key={win.entry.id} className="flex flex-wrap items-center gap-3 py-3">
@@ -155,7 +155,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           </section>
 
           <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
               Source &amp; verification
             </h2>
             <ul className="mt-3 space-y-3">
@@ -185,7 +185,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
 
         <aside className="space-y-8">
           <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
               Built with
             </h2>
             <div className="mt-3 flex flex-wrap gap-1.5">
@@ -197,7 +197,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
             </div>
           </section>
           <section>
-            <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
               Categories
             </h2>
             <div className="mt-3 flex flex-wrap gap-1.5">
@@ -210,7 +210,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           </section>
           {project.builders.length ? (
             <section>
-              <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
                 Builders
               </h2>
               <ul className="mt-3 space-y-1.5 text-sm">
@@ -235,7 +235,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           ) : null}
           {links.length ? (
             <section>
-              <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">Links</h2>
+              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">Links</h2>
               <ul className="mt-3 space-y-1.5 text-sm">
                 {links.map((link) => (
                   <li key={link.label}>

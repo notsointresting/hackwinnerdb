@@ -21,7 +21,7 @@ export default function HackathonsPage() {
 
   return (
     <Container className="py-10">
-      <h1 className="text-2xl font-semibold tracking-tight">Hackathons</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Hackathons</h1>
       <p className="mt-2 max-w-2xl text-sm text-fg-muted">
         {dataset.hackathons.length} event{dataset.hackathons.length === 1 ? "" : "s"} with
         source-verified winners.

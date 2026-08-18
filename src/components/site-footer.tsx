@@ -28,7 +28,7 @@ export function SiteFooter() {
     <footer className="mt-20 border-t border-line bg-bg-subtle">
       <Container className="grid gap-8 py-10 sm:grid-cols-2 md:grid-cols-4">
         <div className="sm:col-span-2 md:col-span-2">
-          <p className="font-semibold tracking-tight">
+          <p className="hw-display text-2xl">
             Hack<span className="text-accent">Winner</span>DB
           </p>
           <p className="mt-2 max-w-sm text-sm text-fg-muted">{SITE.tagline}</p>
@@ -38,7 +38,7 @@ export function SiteFooter() {
         </div>
         {GROUPS.map((group) => (
           <div key={group.title}>
-            <h2 className="text-sm font-medium">{group.title}</h2>
+            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">{group.title}</h2>
             <ul className="mt-3 space-y-2">
               {group.links.map((link) => (
                 <li key={link.href}>

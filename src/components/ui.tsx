@@ -13,8 +13,8 @@ export function Chip({
   ...rest
 }: { href?: string; children: ReactNode; className?: string } & Partial<ComponentProps<"span">>) {
   const classes = cn(
-    "inline-flex items-center gap-1 rounded-md border border-line bg-bg-subtle px-2 py-0.5 text-xs text-fg-muted",
-    href && "hover:border-line-strong hover:text-fg transition-colors",
+    "inline-flex items-center gap-1 rounded-full border border-line bg-bg-subtle px-2.5 py-1 text-xs text-fg-muted",
+    href && "transition-colors hover:border-accent hover:text-accent",
     className,
   );
   if (href) {
@@ -35,7 +35,7 @@ export function AwardBadge({ label, className }: { label: string; className?: st
   return (
     <span
       className={cn(
-        "inline-flex items-center gap-1.5 rounded-md border border-accent-line bg-accent-bg px-2 py-0.5 text-[11px] font-medium uppercase tracking-wide text-accent",
+        "hw-eyebrow inline-flex items-center gap-1.5 rounded-full border border-accent-line bg-accent-bg px-2.5 py-1 text-[0.62rem] text-accent",
         className,
       )}
     >
@@ -74,7 +74,7 @@ export function SectionHeading({
   return (
     <div className="mb-4 flex items-baseline justify-between gap-4 border-b border-line pb-3">
       <div>
-        <h2 className="text-lg font-semibold tracking-tight">{title}</h2>
+        <h2 className="hw-display text-2xl sm:text-3xl">{title}</h2>
         {children ? <p className="mt-1 text-sm text-fg-muted">{children}</p> : null}
       </div>
       {href ? (
@@ -98,8 +98,8 @@ export function EmptyState({ title, hint }: { title: string; hint?: ReactNode })
 export function Stat({ value, label }: { value: string; label: string }) {
   return (
     <div>
-      <div className="font-mono text-2xl font-semibold tracking-tight sm:text-3xl">{value}</div>
-      <div className="mt-1 text-sm text-fg-muted">{label}</div>
+      <div className="hw-display text-4xl text-accent sm:text-5xl">{value}</div>
+      <div className="hw-eyebrow mt-2 text-[0.65rem] text-fg-muted">{label}</div>
     </div>
   );
 }

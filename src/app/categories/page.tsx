@@ -16,7 +16,7 @@ export default function CategoriesPage() {
 
   return (
     <Container className="py-10">
-      <h1 className="text-2xl font-semibold tracking-tight">Categories</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Categories</h1>
       <p className="mt-2 max-w-2xl text-sm text-fg-muted">
         A controlled taxonomy — categories are curated in{" "}
         <code className="font-mono text-xs">data/taxonomies/categories.yaml</code>, never free text.

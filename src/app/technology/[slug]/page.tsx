@@ -59,7 +59,7 @@ export default async function TechnologyPage({
           { href: `/technology/${tech.slug}`, label: tech.name },
         ]}
       />
-      <h1 className="text-3xl font-semibold tracking-tight">{tech.name}</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">{tech.name}</h1>
       <p className="mt-2 font-mono text-sm text-fg-muted">
         {formatNumber(new Set(winners.map((w) => w.project.id)).size)} winning projects ·{" "}
         {formatNumber(hackathons.size)} hackathons ·{" "}
@@ -68,7 +68,7 @@ export default async function TechnologyPage({
 
       {paired.length ? (
         <section className="mt-6">
-          <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+          <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
             Frequently paired with
           </h2>
           <div className="mt-3 flex flex-wrap gap-1.5">

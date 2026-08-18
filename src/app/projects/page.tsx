@@ -20,7 +20,7 @@ export default async function ProjectsPage({
   const dataset = getDataset();
   return (
     <Container className="py-10">
-      <h1 className="text-2xl font-semibold tracking-tight">Winning projects</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">Winning projects</h1>
       <p className="mt-2 max-w-2xl text-sm text-fg-muted">
         Every award in the database, with the source that confirms it. Filters are reflected in the
         URL, so any view can be shared.

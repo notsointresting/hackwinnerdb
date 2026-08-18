@@ -52,7 +52,7 @@ export default async function CategoryPage({
           { href: `/category/${category.slug}`, label: category.name },
         ]}
       />
-      <h1 className="text-3xl font-semibold tracking-tight">
+      <h1 className="hw-display text-4xl sm:text-5xl">
         {category.name} Hackathon Winners
       </h1>
       <p className="mt-2 font-mono text-sm text-fg-muted">

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <Container className="py-12">
-      <h1 className="text-3xl font-semibold tracking-tight">About</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">About</h1>
       <div className="mt-6 max-w-2xl space-y-5 leading-relaxed text-fg-muted">
         <p>
           Hackathon winners are scattered. They live on event sites that expire, Devpost galleries,

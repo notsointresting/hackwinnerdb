@@ -21,7 +21,7 @@ export function WinnerCard({
   const extra = project.technologies.length - tech.length;
 
   return (
-    <article className="hw-reveal group relative flex flex-col overflow-hidden rounded-xl border border-line bg-bg transition-[border-color,box-shadow,transform] duration-300 ease-out hover:border-line-strong hover:shadow-[0_1px_2px_rgba(0,0,0,0.04),0_8px_24px_-12px_rgba(0,0,0,0.18)] motion-safe:hover:-translate-y-0.5">
+    <article className="hw-reveal group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-bg-subtle transition-[border-color,box-shadow,transform] duration-300 ease-out hover:border-accent-line hover:shadow-[0_0_0_1px_var(--accent-border),0_18px_40px_-24px_var(--glow-a)] motion-safe:hover:-translate-y-1">
       <div className="relative p-2 pb-0">
         <ProjectImage src={project.image_url} name={project.name} priority={priority} />
         <AwardBadge
@@ -32,7 +32,7 @@ export function WinnerCard({
 
       <div className="flex flex-1 flex-col gap-3 p-4">
         <div>
-          <h3 className="text-base font-semibold tracking-tight">
+          <h3 className="hw-display text-xl">
             <Link href={`/projects/${project.slug}`} className="after:absolute after:inset-0">
               {project.name}
             </Link>

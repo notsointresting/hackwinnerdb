@@ -1,9 +1,22 @@
 import type { Metadata } from "next";
+import { Archivo, Inter, JetBrains_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { SiteNav } from "@/components/site-nav";
 import { SiteFooter } from "@/components/site-footer";
 import { SITE } from "@/lib/site";
+
+/** Display face: variable width axis lets headlines run heavy and condensed. */
+const display = Archivo({
+  subsets: ["latin"],
+  axes: ["wdth"],
+  variable: "--font-display",
+  display: "swap",
+});
+
+const sans = Inter({ subsets: ["latin"], variable: "--font-sans-ui", display: "swap" });
+
+const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono-ui", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
@@ -31,7 +44,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en" className={`${display.variable} ${sans.variable} ${mono.variable}`}>
       <body className="flex min-h-screen flex-col">
         <a
           href="#main"

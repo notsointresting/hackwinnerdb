@@ -56,7 +56,7 @@ export default async function YearPage({
           { href: `/year/${year}`, label: year },
         ]}
       />
-      <h1 className="text-3xl font-semibold tracking-tight">{year} Hackathon Winners</h1>
+      <h1 className="hw-display text-4xl sm:text-5xl">{year} Hackathon Winners</h1>
       <p className="mt-2 font-mono text-sm text-fg-muted">
         {formatNumber(hackathons.length)} hackathons ·{" "}
         {formatNumber(new Set(projects.map((p) => p.id)).size)} winning projects
@@ -64,7 +64,7 @@ export default async function YearPage({
 
       <div className="mt-6 grid gap-6 sm:grid-cols-2">
         <section>
-          <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+          <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
             Leading categories
           </h2>
           <div className="mt-3 flex flex-wrap gap-1.5">
@@ -77,7 +77,7 @@ export default async function YearPage({
           </div>
         </section>
         <section>
-          <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">
+          <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
             Most used technologies
           </h2>
           <div className="mt-3 flex flex-wrap gap-1.5">
@@ -92,7 +92,7 @@ export default async function YearPage({
       </div>
 
       <section className="mt-6">
-        <h2 className="text-sm font-semibold uppercase tracking-widest text-fg-muted">Hackathons</h2>
+        <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">Hackathons</h2>
         <div className="mt-3 flex flex-wrap gap-1.5">
           {hackathons.map((id) => {
             const hackathon = dataset.hackathons.find((h) => h.id === id)!;
