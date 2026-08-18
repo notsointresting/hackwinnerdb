@@ -45,6 +45,23 @@ near-duplicate project names, and never overwrites an existing file.
 Read [DATA_GUIDELINES.md](DATA_GUIDELINES.md) for the full schema of every record type and the rules
 the validator enforces. The schemas themselves live in `src/schemas/index.ts` and are the final word.
 
+## Importing an event (maintainers and experienced contributors)
+
+```bash
+npm run import:devpost -- "https://<event>.devpost.com/project-gallery?filter=winner"
+```
+
+This reads a single event's **winner-filtered** gallery and writes drafts to `data/_staging/`.
+It throttles to one request per second, identifies itself, caches responses, and copies only
+facts and links — never the source's prose.
+
+Drafts are **not data**. Every imported entry is `unverified` and every summary is a `TODO`.
+Promote one by hand: confirm the source, write an original summary, set the award type,
+categories and year, then move the file into `data/`. See
+[data/_staging/README.md](data/_staging/README.md).
+
+Do not import the global `devpost.com/software` gallery — it lists every submission, not winners.
+
 ## Ground rules
 
 - **Every winner needs a source.** No source, no entry.

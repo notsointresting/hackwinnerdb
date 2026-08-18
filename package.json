@@ -14,7 +14,8 @@
     "validate:data": "tsx scripts/validate-data.ts",
     "check:duplicates": "tsx scripts/check-duplicates.ts",
     "generate:data": "tsx scripts/generate-dataset.ts",
-    "add:winner": "tsx scripts/add-winner.ts"
+    "add:winner": "tsx scripts/add-winner.ts",
+    "import:devpost": "tsx scripts/import/devpost.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
