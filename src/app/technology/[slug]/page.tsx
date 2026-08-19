@@ -59,30 +59,46 @@ export default async function TechnologyPage({
           { href: `/technology/${tech.slug}`, label: tech.name },
         ]}
       />
-      <h1 className="hw-display text-4xl sm:text-5xl">{tech.name}</h1>
-      <p className="mt-2 font-mono text-sm text-fg-muted">
-        {formatNumber(new Set(winners.map((w) => w.project.id)).size)} winning projects ·{" "}
-        {formatNumber(hackathons.size)} hackathons ·{" "}
-        {Math.min(...years)}–{Math.max(...years)} · {tech.type}
-      </p>
+      <div className="border-b border-line/60 pb-8 pt-2">
+        <div className="flex items-center gap-2">
+          <span className="hw-eyebrow text-xs font-bold text-accent">Tech Stack Index</span>
+          {tech.type ? (
+            <span className="rounded-full border border-line bg-bg-subtle px-2 py-0.5 font-mono text-[10px] text-accent">
+              {tech.type}
+            </span>
+          ) : null}
+        </div>
+        <h1 className="hw-display mt-2 text-4xl sm:text-5xl">{tech.name}</h1>
+        <div className="mt-4 flex flex-wrap items-center gap-3 font-mono text-xs text-fg-muted">
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{formatNumber(new Set(winners.map((w) => w.project.id)).size)}</span> winning projects
+          </span>
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{formatNumber(hackathons.size)}</span> hackathons
+          </span>
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{Math.min(...years)}–{Math.max(...years)}</span>
+          </span>
+        </div>
 
-      {paired.length ? (
-        <section className="mt-6">
-          <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
-            Frequently paired with
-          </h2>
-          <div className="mt-3 flex flex-wrap gap-1.5">
-            {paired.map(([pairedSlug, count]) => (
-              <Chip key={pairedSlug} href={`/technology/${pairedSlug}`} className="font-mono">
-                {labels.technologies.get(pairedSlug) ?? pairedSlug}
-                <span className="text-fg-muted">·{count}</span>
-              </Chip>
-            ))}
+        {paired.length ? (
+          <div className="mt-6">
+            <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">
+              Frequently Paired With
+            </h2>
+            <div className="hw-stagger mt-2.5 flex flex-wrap gap-1.5">
+              {paired.map(([pairedSlug, count]) => (
+                <Chip key={pairedSlug} href={`/technology/${pairedSlug}`} className="font-mono">
+                  {labels.technologies.get(pairedSlug) ?? pairedSlug}
+                  <span className="text-accent">·{count}</span>
+                </Chip>
+              ))}
+            </div>
           </div>
-        </section>
-      ) : null}
+        ) : null}
+      </div>
 
-      <div className="mt-10">
+      <div className="mt-8">
         <WinnerBrowser
           dataset={dataset}
           candidates={winners}

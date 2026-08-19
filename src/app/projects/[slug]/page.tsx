@@ -95,67 +95,76 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
         ]}
       />
 
-      <header className="grid gap-8 border-b border-line pb-8 lg:grid-cols-[minmax(0,1fr)_380px] lg:items-center">
+      <header className="grid gap-8 border-b border-line/60 pb-10 pt-4 lg:grid-cols-[minmax(0,1fr)_400px] lg:items-center">
         <div className="hw-rise">
           <h1 className="hw-display text-4xl sm:text-5xl">{project.name}</h1>
           <p className="mt-3 max-w-2xl text-pretty text-lg text-fg-muted">{project.tagline}</p>
-        {top ? (
-          <div className="mt-4 flex flex-wrap items-center gap-3">
-            <AwardBadge label={`🏆 ${top.primaryAward.title}`} />
-            <Link href={`/hackathons/${top.hackathon.slug}`} className="text-sm hover:underline">
-              {top.hackathon.name}
-            </Link>
-            <Link href={`/year/${top.hackathon.year}`} className="text-sm text-fg-muted hover:text-fg">
-              {top.hackathon.year}
-            </Link>
-            {top.entry.verification.status === "verified" ? <VerifiedBadge /> : null}
-          </div>
-        ) : null}
+          {top ? (
+            <div className="mt-5 flex flex-wrap items-center gap-3">
+              <AwardBadge label={top.primaryAward.title} />
+              <Link
+                href={`/hackathons/${top.hackathon.slug}`}
+                className="text-sm font-medium text-fg hover:text-accent hover:underline"
+              >
+                {top.hackathon.name}
+              </Link>
+              <Link
+                href={`/year/${top.hackathon.year}`}
+                className="font-mono text-sm text-accent/80 hover:text-accent"
+              >
+                {top.hackathon.year}
+              </Link>
+              {top.entry.verification.status === "verified" ? <VerifiedBadge /> : null}
+            </div>
+          ) : null}
         </div>
-        <div className="hw-pop group">
+        <div className="hw-pop hw-glow-frame group overflow-hidden rounded-2xl border border-line/80 bg-bg-raised/70 p-2 shadow-xl backdrop-blur-xl">
           <ProjectImage
             src={project.image_url}
             name={project.name}
             priority
-            sizes="(max-width: 1024px) 100vw, 380px"
+            className="rounded-xl border-0"
+            sizes="(max-width: 1024px) 100vw, 400px"
           />
         </div>
       </header>
 
-      <div className="grid gap-10 py-8 lg:grid-cols-[minmax(0,1fr)_280px]">
+      <div className="grid gap-10 py-10 lg:grid-cols-[minmax(0,1fr)_300px]">
         <div className="space-y-8">
-          <section>
-            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-6 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-xs font-bold text-accent">
               What it does
             </h2>
-            <p className="mt-3 leading-relaxed">{project.summary}</p>
+            <p className="mt-3 leading-relaxed text-fg">{project.summary}</p>
           </section>
+
           {project.problem ? (
-            <section>
-              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
+            <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-6 backdrop-blur-sm">
+              <h2 className="hw-eyebrow text-xs font-bold text-accent">
                 Problem
               </h2>
-              <p className="mt-3 leading-relaxed">{project.problem}</p>
-            </section>
-          ) : null}
-          {project.solution ? (
-            <section>
-              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
-                Solution
-              </h2>
-              <p className="mt-3 leading-relaxed">{project.solution}</p>
+              <p className="mt-3 leading-relaxed text-fg-muted">{project.problem}</p>
             </section>
           ) : null}
 
-          <section>
-            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">Awards</h2>
-            <ul className="mt-3 divide-y divide-line border-y border-line">
+          {project.solution ? (
+            <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-6 backdrop-blur-sm">
+              <h2 className="hw-eyebrow text-xs font-bold text-accent">
+                Solution
+              </h2>
+              <p className="mt-3 leading-relaxed text-fg-muted">{project.solution}</p>
+            </section>
+          ) : null}
+
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-6 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-xs font-bold text-accent">Awards</h2>
+            <ul className="mt-4 divide-y divide-line/60">
               {wins.map((win) => (
-                <li key={win.entry.id} className="flex flex-wrap items-center gap-3 py-3">
-                  <span className="font-mono text-sm text-fg-muted">{win.hackathon.year}</span>
+                <li key={win.entry.id} className="flex flex-wrap items-center gap-3 py-3 first:pt-0 last:pb-0">
+                  <span className="font-mono text-sm text-accent">{win.hackathon.year}</span>
                   <Link
                     href={`/hackathons/${win.hackathon.slug}`}
-                    className="font-medium hover:underline"
+                    className="font-semibold text-fg hover:text-accent hover:underline"
                   >
                     {win.hackathon.name}
                   </Link>
@@ -165,7 +174,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
                     ))}
                   </span>
                   {win.entry.awards[0]?.prize_amount && win.entry.awards[0]?.currency ? (
-                    <span className="font-mono text-sm text-fg-muted">
+                    <span className="font-mono text-sm font-medium text-emerald-400">
                       {formatMoney(win.entry.awards[0].prize_amount, win.entry.awards[0].currency)}
                     </span>
                   ) : null}
@@ -174,28 +183,33 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
             </ul>
           </section>
 
-          <section>
-            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-6 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-xs font-bold text-accent">
               Source &amp; verification
             </h2>
-            <ul className="mt-3 space-y-3">
+            <ul className="mt-4 space-y-3">
               {wins.map((win) => (
-                <li key={win.entry.id} className="rounded-lg border border-line p-4 text-sm">
+                <li key={win.entry.id} className="rounded-xl border border-line/60 bg-bg-raised/50 p-4 text-sm">
                   <p>
                     <span className="text-fg-muted">Source:</span>{" "}
-                    {labels.sources.get(win.entry.source.platform) ?? win.entry.source.platform}
+                    <span className="font-medium text-fg">
+                      {labels.sources.get(win.entry.source.platform) ?? win.entry.source.platform}
+                    </span>
                   </p>
                   <p className="mt-1">
                     <span className="text-fg-muted">Verified:</span>{" "}
-                    {formatDate(win.entry.verification.checked_at)}
+                    <span className="font-mono text-fg-muted">
+                      {formatDate(win.entry.verification.checked_at)}
+                    </span>
                   </p>
                   <a
                     href={win.entry.source.url}
                     target="_blank"
                     rel="noreferrer"
-                    className="mt-2 inline-block underline hover:no-underline"
+                    className="mt-3 inline-flex items-center gap-1 text-sm font-medium text-accent hover:underline"
                   >
-                    Original announcement ↗
+                    <span>Original announcement</span>
+                    <span aria-hidden="true">↗</span>
                   </a>
                 </li>
               ))}
@@ -203,24 +217,25 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           </section>
         </div>
 
-        <aside className="space-y-8">
-          <section>
-            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
+        <aside className="space-y-6">
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-5 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">
               Built with
             </h2>
-            <div className="mt-3 flex flex-wrap gap-1.5">
+            <div className="mt-3.5 flex flex-wrap gap-2">
               {project.technologies.map((tech) => (
-                <Chip key={tech} href={`/technology/${tech}`} className="font-mono">
+                <Chip key={tech} href={`/technology/${tech}`} className="font-mono text-xs">
                   {labels.technologies.get(tech) ?? tech}
                 </Chip>
               ))}
             </div>
           </section>
-          <section>
-            <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
+
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-5 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">
               Categories
             </h2>
-            <div className="mt-3 flex flex-wrap gap-1.5">
+            <div className="mt-3.5 flex flex-wrap gap-2">
               {project.categories.map((category) => (
                 <Chip key={category} href={`/category/${category}`}>
                   {labels.categories.get(category) ?? category}
@@ -228,12 +243,13 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
               ))}
             </div>
           </section>
+
           {project.builders.length ? (
-            <section>
-              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
+            <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-5 backdrop-blur-sm">
+              <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">
                 Builders
               </h2>
-              <ul className="mt-3 space-y-1.5 text-sm">
+              <ul className="mt-3.5 space-y-2 text-sm">
                 {project.builders.map((builder) => (
                   <li key={builder.name}>
                     {builder.github ? (
@@ -241,45 +257,49 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
                         href={`https://github.com/${builder.github}`}
                         target="_blank"
                         rel="noreferrer"
-                        className="hover:underline"
+                        className="inline-flex items-center gap-1 text-fg hover:text-accent hover:underline"
                       >
-                        {builder.name} <span className="text-fg-muted">@{builder.github}</span>
+                        <span className="font-medium">{builder.name}</span>
+                        <span className="text-xs text-fg-muted">@{builder.github}</span>
                       </a>
                     ) : (
-                      builder.name
+                      <span className="font-medium text-fg">{builder.name}</span>
                     )}
                   </li>
                 ))}
               </ul>
             </section>
           ) : null}
+
           {links.length ? (
-            <section>
-              <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">Links</h2>
-              <ul className="mt-3 space-y-1.5 text-sm">
+            <section className="rounded-2xl border border-line/60 bg-bg-subtle/50 p-5 backdrop-blur-sm">
+              <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">Links</h2>
+              <ul className="mt-3.5 space-y-2 text-sm">
                 {links.map((link) => (
                   <li key={link.label}>
                     <a
                       href={link.href}
                       target="_blank"
                       rel="noreferrer"
-                      className="underline hover:no-underline"
+                      className="inline-flex items-center gap-1 font-medium text-accent hover:underline"
                     >
-                      {link.label} ↗
+                      <span>{link.label}</span>
+                      <span aria-hidden="true">↗</span>
                     </a>
                   </li>
                 ))}
               </ul>
             </section>
           ) : null}
-          <section className="rounded-lg border border-line bg-bg-subtle p-4">
-            <h2 className="text-sm font-medium">Improve this record</h2>
+
+          <section className="rounded-2xl border border-accent-line/60 bg-accent-bg/40 p-5 backdrop-blur-sm">
+            <h2 className="text-sm font-semibold text-fg">Improve this record</h2>
             <div className="mt-3 flex flex-col gap-2 text-sm">
               <a
                 href={`${GITHUB_EDIT_BASE}/data/projects/${project.id}.yaml`}
                 target="_blank"
                 rel="noreferrer"
-                className="underline hover:no-underline"
+                className="text-xs text-fg-muted hover:text-accent hover:underline"
               >
                 Edit on GitHub ↗
               </a>
@@ -287,7 +307,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
                 href={`${GITHUB_NEW_ISSUE}?template=correct-data.yml`}
                 target="_blank"
                 rel="noreferrer"
-                className="underline hover:no-underline"
+                className="text-xs text-fg-muted hover:text-accent hover:underline"
               >
                 Report incorrect information ↗
               </a>

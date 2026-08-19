@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Container } from "@/components/ui";
 import { SITE } from "@/lib/site";
+import { CheckCircle2, ShieldCheck } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "Methodology",
@@ -12,53 +13,36 @@ export const metadata: Metadata = {
 
 const SECTIONS = [
   {
-    title: "What qualifies as a hackathon winner",
+    title: "1. Qualification Standards",
     body: [
-      "A project qualifies when it received a named award at a hackathon — a grand prize, a placement, a track or category win, a sponsor prize, an audience or community choice award, an honorable mention, or a finalist placement.",
-      "Participation alone does not qualify. Neither does a project that was merely featured, shortlisted informally, or promoted by its own team.",
+      "A project qualifies when it received a named award at an official hackathon — a grand prize, category/track win, sponsor bounty, community choice, or finalist placement.",
+      "Participation alone does not qualify. Self-promoted claims or informal shortlists without official event recognition are excluded.",
     ],
   },
   {
-    title: "Accepted sources",
+    title: "2. Verifiable Public Sources",
     body: [
-      "Every published entry carries at least one publicly accessible source that confirms the award: an official winners page, a platform winner gallery, an organizer announcement or blog post, an official social announcement, or a project page that clearly shows the award.",
-      "Self-published claims with no corroborating organizer source are recorded as unverified or rejected.",
+      "Every entry requires at least one public source confirming the win: official winner galleries (Devpost, DoraHacks), organizer blog posts, or verified press releases.",
+      "Claims lacking public corroboration are rejected or flagged as unverified pending human review.",
     ],
   },
   {
-    title: "Verification",
+    title: "3. Human Verification Pipeline",
     body: [
-      "Records enter the database either through community pull requests or automated discovery of public hackathon galleries. Auto-imported records land with an unverified status (displayed on the site as 'Source pending review') until a maintainer opens the source and verifies that it corroborates both the project and the award.",
-      "Once human-checked, the date of that review is recorded on the entry as checked_at and shown on the project page.",
-      "Sources rot. If a link dies, the entry keeps its record and the status can be moved to disputed until a replacement source is found.",
+      "Submissions are checked by maintainers who verify the project name, builder list, hackathon edition, and specific prize won.",
+      "The exact review date is stamped on the record as checked_at. If a source link decays, the record is flagged for replacement rather than silently discarded.",
     ],
   },
   {
-    title: "Categories and technologies",
+    title: "4. Controlled Taxonomies",
     body: [
-      "Categories and technologies are controlled vocabularies, not free-text tags. Adding a new one is a deliberate change to a taxonomy file, reviewed like any other change.",
-      "This keeps filters meaningful: a single technology cannot silently split into five spellings.",
+      "Technologies and categories use strictly curated taxonomies in YAML to prevent tag fragmentation (e.g. preventing 'React.js', 'react-js', and 'React' from splitting).",
     ],
   },
   {
-    title: "Duplicates",
+    title: "5. Deduplication & Integrity",
     body: [
-      "One project can enter many hackathons, so projects and awards are stored separately and linked by an entry. Only one entry may exist per project and hackathon pair.",
-      "A duplicate checker compares normalized names, repository URLs, website domains, and submission URLs on every pull request.",
-    ],
-  },
-  {
-    title: "Corrections",
-    body: [
-      "Anyone can open a correction issue or a pull request against the offending YAML file. Corrections that come with a source are merged quickly.",
-    ],
-  },
-  {
-    title: "Limitations",
-    body: [
-      "Coverage is uneven by design: the database grows where contributors are. Early data skews toward large online hackathons with public winner galleries.",
-      "Prize amounts, participant counts, and submission counts are only recorded when the organizer published them.",
-      "Summaries are written by contributors, so tone varies. They are deliberately short and original rather than copied from the source.",
+      "When a project enters multiple hackathons, each entry links back to the central project ID. Automated CI checks detect duplicate URLs and repository collisions on every PR.",
     ],
   },
 ];
@@ -66,33 +50,59 @@ const SECTIONS = [
 export default function MethodologyPage() {
   return (
     <Container className="py-12">
-      <h1 className="hw-display text-4xl sm:text-5xl">Methodology</h1>
-      <p className="mt-3 max-w-2xl text-fg-muted">
-        Trust is the product. This page describes exactly how records get in, how they are checked,
-        and where the data falls short.
-      </p>
-      <div className="mt-10 max-w-3xl space-y-10">
+      <div className="border-b border-line/60 pb-8">
+        <div className="flex items-center gap-2 text-accent">
+          <ShieldCheck className="h-5 w-5" />
+          <span className="hw-eyebrow text-xs font-bold">Integrity &amp; Standards</span>
+        </div>
+        <h1 className="hw-display mt-2 text-4xl sm:text-5xl">Methodology</h1>
+        <p className="mt-3 max-w-2xl text-sm leading-relaxed text-fg-muted">
+          Trust is our core standard. This document outlines how records are discovered, verified by humans, and curated for accuracy.
+        </p>
+      </div>
+
+      <div className="hw-stagger mt-10 space-y-6 max-w-3xl">
         {SECTIONS.map((section) => (
-          <section key={section.title}>
-            <h2 className="text-lg font-semibold tracking-tight">{section.title}</h2>
-            {section.body.map((paragraph) => (
-              <p key={paragraph} className="mt-3 leading-relaxed text-fg-muted">
-                {paragraph}
-              </p>
-            ))}
+          <section
+            key={section.title}
+            className="hw-reveal rounded-2xl border border-line/70 bg-bg-subtle/60 p-6 backdrop-blur-sm transition-all duration-300 hover:border-accent-line hover:bg-bg-subtle"
+          >
+            <div className="flex items-center gap-2.5">
+              <CheckCircle2 className="h-5 w-5 text-accent" />
+              <h2 className="text-lg font-semibold tracking-tight text-fg">{section.title}</h2>
+            </div>
+            <div className="mt-3.5 space-y-2.5 pl-7.5">
+              {section.body.map((paragraph) => (
+                <p key={paragraph} className="text-sm leading-relaxed text-fg-muted">
+                  {paragraph}
+                </p>
+              ))}
+            </div>
           </section>
         ))}
-        <section>
-          <h2 className="text-lg font-semibold tracking-tight">Community contributions</h2>
-          <p className="mt-3 leading-relaxed text-fg-muted">
-            Everything above is enforced in the open: schemas, validation rules, and review happen in
-            the repository. See <Link href="/contribute" className="underline">Contribute</Link> or the{" "}
-            <a href={SITE.repo} target="_blank" rel="noreferrer" className="underline">
-              GitHub repository
-            </a>
-            .
+
+        <div className="hw-reveal rounded-2xl border border-accent-line/70 bg-accent-bg/40 p-6 backdrop-blur-sm sm:p-8">
+          <h2 className="text-lg font-bold text-fg">Transparent &amp; Open Source</h2>
+          <p className="mt-2.5 text-sm leading-relaxed text-fg-muted">
+            All verification rules, duplicate scripts, and schemas are publicly viewable in our repository. Anyone can audit or propose corrections to any record.
           </p>
-        </section>
+          <div className="mt-6 flex flex-wrap gap-3">
+            <Link
+              href="/contribute"
+              className="rounded-xl bg-fg px-4 py-2 text-xs font-semibold text-bg transition-all hover:bg-fg/90"
+            >
+              Learn How to Contribute
+            </Link>
+            <a
+              href={SITE.repo}
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-xl border border-line/80 bg-bg-subtle/80 px-4 py-2 text-xs font-semibold text-fg transition-all hover:border-accent hover:text-accent"
+            >
+              Inspect Source on GitHub ↗
+            </a>
+          </div>
+        </div>
       </div>
     </Container>
   );

@@ -56,60 +56,67 @@ export default async function YearPage({
           { href: `/year/${year}`, label: year },
         ]}
       />
-      <h1 className="hw-display text-4xl sm:text-5xl">{year} Hackathon Winners</h1>
-      <p className="mt-2 font-mono text-sm text-fg-muted">
-        {formatNumber(hackathons.length)} hackathons ·{" "}
-        {formatNumber(new Set(projects.map((p) => p.id)).size)} winning projects
-      </p>
+      <div className="border-b border-line/60 pb-8 pt-2">
+        <span className="hw-eyebrow text-xs font-bold text-accent">Yearly Archive</span>
+        <h1 className="hw-display mt-2 text-4xl sm:text-5xl">{year} Hackathon Winners</h1>
+        <div className="mt-4 flex flex-wrap items-center gap-3 font-mono text-xs text-fg-muted">
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{formatNumber(new Set(projects.map((p) => p.id)).size)}</span> winning projects
+          </span>
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{formatNumber(hackathons.length)}</span> hackathons
+          </span>
+        </div>
 
-      <div className="mt-6 grid gap-6 sm:grid-cols-2">
-        <section>
-          <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
-            Leading categories
-          </h2>
-          <div className="mt-3 flex flex-wrap gap-1.5">
-            {topCategories.map(([slug, count]) => (
-              <Chip key={slug} href={`/category/${slug}`}>
-                {labels.categories.get(slug) ?? slug}
-                <span className="text-fg-muted">·{count}</span>
-              </Chip>
-            ))}
-          </div>
-        </section>
-        <section>
-          <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">
-            Most used technologies
-          </h2>
-          <div className="mt-3 flex flex-wrap gap-1.5">
-            {topTech.map(([slug, count]) => (
-              <Chip key={slug} href={`/technology/${slug}`} className="font-mono">
-                {labels.technologies.get(slug) ?? slug}
-                <span className="text-fg-muted">·{count}</span>
-              </Chip>
-            ))}
+        <div className="mt-8 grid gap-6 sm:grid-cols-2">
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/40 p-5 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">
+              Leading Categories
+            </h2>
+            <div className="hw-stagger mt-3 flex flex-wrap gap-1.5">
+              {topCategories.map(([slug, count]) => (
+                <Chip key={slug} href={`/category/${slug}`}>
+                  {labels.categories.get(slug) ?? slug}
+                  <span className="text-accent">·{count}</span>
+                </Chip>
+              ))}
+            </div>
+          </section>
+          <section className="rounded-2xl border border-line/60 bg-bg-subtle/40 p-5 backdrop-blur-sm">
+            <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">
+              Most Used Technologies
+            </h2>
+            <div className="hw-stagger mt-3 flex flex-wrap gap-1.5">
+              {topTech.map(([slug, count]) => (
+                <Chip key={slug} href={`/technology/${slug}`} className="font-mono">
+                  {labels.technologies.get(slug) ?? slug}
+                  <span className="text-accent">·{count}</span>
+                </Chip>
+              ))}
+            </div>
+          </section>
+        </div>
+
+        <section className="mt-6 rounded-2xl border border-line/60 bg-bg-subtle/40 p-5 backdrop-blur-sm">
+          <h2 className="hw-eyebrow text-[0.65rem] font-bold text-fg-muted">Hackathons in {year}</h2>
+          <div className="hw-stagger mt-3 flex flex-wrap gap-2">
+            {hackathons.map((id) => {
+              const hackathon = dataset.hackathons.find((h) => h.id === id)!;
+              return (
+                <Link
+                  key={id}
+                  href={`/hackathons/${hackathon.slug}`}
+                  className="rounded-xl border border-line/70 bg-bg-raised/60 px-3 py-1.5 text-xs font-semibold text-fg backdrop-blur-sm transition-all duration-200 hover:border-accent hover:text-accent motion-safe:hover:-translate-y-0.5"
+                >
+                  {hackathon.name}
+                </Link>
+              );
+            })}
           </div>
         </section>
       </div>
 
-      <section className="mt-6">
-        <h2 className="hw-eyebrow text-[0.65rem] text-fg-muted">Hackathons</h2>
-        <div className="mt-3 flex flex-wrap gap-1.5">
-          {hackathons.map((id) => {
-            const hackathon = dataset.hackathons.find((h) => h.id === id)!;
-            return (
-              <Link
-                key={id}
-                href={`/hackathons/${hackathon.slug}`}
-                className="rounded-md border border-line px-2.5 py-1 text-sm hover:border-line-strong"
-              >
-                {hackathon.name}
-              </Link>
-            );
-          })}
-        </div>
-      </section>
-
-      <div className="mt-10">
+      <div className="mt-8">
         <WinnerBrowser
           dataset={dataset}
           candidates={winners}

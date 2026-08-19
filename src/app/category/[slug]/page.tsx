@@ -52,14 +52,21 @@ export default async function CategoryPage({
           { href: `/category/${category.slug}`, label: category.name },
         ]}
       />
-      <h1 className="hw-display text-4xl sm:text-5xl">
-        {category.name} Hackathon Winners
-      </h1>
-      <p className="mt-2 font-mono text-sm text-fg-muted">
-        {formatNumber(new Set(winners.map((w) => w.project.id)).size)} winning projects ·{" "}
-        {formatNumber(hackathons.size)} hackathons
-      </p>
-      <div className="mt-10">
+      <div className="border-b border-line/60 pb-8 pt-2">
+        <span className="hw-eyebrow text-xs font-bold text-accent">Category Collection</span>
+        <h1 className="hw-display mt-2 text-4xl sm:text-5xl">
+          {category.name} Hackathon Winners
+        </h1>
+        <div className="mt-4 flex flex-wrap items-center gap-3 font-mono text-xs text-fg-muted">
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{formatNumber(new Set(winners.map((w) => w.project.id)).size)}</span> winning projects
+          </span>
+          <span className="rounded-full border border-line bg-bg-subtle/80 px-3 py-1 text-fg">
+            <span className="font-bold text-accent">{formatNumber(hackathons.size)}</span> hackathons
+          </span>
+        </div>
+      </div>
+      <div className="mt-8">
         <WinnerBrowser
           dataset={dataset}
           candidates={winners}

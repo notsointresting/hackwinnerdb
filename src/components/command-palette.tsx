@@ -68,56 +68,70 @@ export function CommandPalette({ items }: { items: CommandItem[] }) {
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="inline-flex items-center gap-2 rounded-md border border-line bg-bg-subtle px-2.5 py-1.5 text-sm text-fg-muted hover:border-line-strong hover:text-fg"
+        className="group inline-flex items-center gap-2 rounded-xl border border-line/80 bg-bg-subtle/70 px-3 py-1.5 text-sm text-fg-muted backdrop-blur-sm transition-all duration-200 hover:border-accent-line hover:bg-bg-subtle hover:text-fg motion-safe:hover:-translate-y-0.5"
         aria-label="Open search (Command or Control + K)"
       >
-        <svg aria-hidden="true" viewBox="0 0 16 16" className="size-4 fill-current">
+        <svg
+          aria-hidden="true"
+          viewBox="0 0 16 16"
+          className="size-4 fill-current text-fg-muted transition-colors group-hover:text-accent"
+        >
           <path d="M7 2a5 5 0 1 0 3.1 8.9l3 3 1.1-1.1-3-3A5 5 0 0 0 7 2m0 1.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7" />
         </svg>
-        <span className="hidden sm:inline">Search</span>
-        <kbd className="hidden rounded border border-line px-1 font-mono text-[10px] sm:inline">
+        <span className="hidden sm:inline">Search database</span>
+        <kbd className="hidden rounded-md border border-line/80 bg-bg-raised/80 px-1.5 py-0.5 font-mono text-[10px] font-medium text-fg-muted sm:inline">
           ⌘K
         </kbd>
       </button>
 
       {open ? (
         <div
-          className="fixed inset-0 z-50 flex items-start justify-center bg-black/40 p-4 pt-[12vh]"
+          className="fixed inset-0 z-50 flex items-start justify-center bg-black/60 p-4 pt-[10vh] backdrop-blur-md animate-in fade-in duration-200"
           onClick={() => setOpen(false)}
         >
           <div
             role="dialog"
             aria-modal="true"
             aria-label="Search HackWinnerDB"
-            className="w-full max-w-xl overflow-hidden rounded-lg border border-line-strong bg-bg shadow-lg"
+            className="hw-pop w-full max-w-xl overflow-hidden rounded-2xl border border-accent-line/70 bg-bg-raised/95 shadow-[0_25px_60px_-15px_rgba(0,0,0,0.9),0_0_30px_rgba(123,63,242,0.25)] backdrop-blur-2xl"
             onClick={(event) => event.stopPropagation()}
           >
-            <input
-              ref={inputRef}
-              value={query}
-              onChange={(event) => {
-                setQuery(event.target.value);
-                setActive(0);
-              }}
-              onKeyDown={(event) => {
-                if (event.key === "ArrowDown") {
-                  event.preventDefault();
-                  setActive((a) => Math.min(a + 1, results.length - 1));
-                } else if (event.key === "ArrowUp") {
-                  event.preventDefault();
-                  setActive((a) => Math.max(a - 1, 0));
-                } else if (event.key === "Enter") {
-                  event.preventDefault();
-                  go(results[active]);
-                }
-              }}
-              placeholder="Search projects, hackathons, technologies…"
-              aria-label="Search query"
-              className="w-full border-b border-line bg-transparent px-4 py-3 text-sm outline-none"
-            />
-            <ul className="max-h-80 overflow-y-auto py-1" role="listbox">
+            <div className="relative flex items-center border-b border-line px-4">
+              <svg aria-hidden="true" viewBox="0 0 16 16" className="size-4 shrink-0 fill-current text-accent">
+                <path d="M7 2a5 5 0 1 0 3.1 8.9l3 3 1.1-1.1-3-3A5 5 0 0 0 7 2m0 1.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7" />
+              </svg>
+              <input
+                ref={inputRef}
+                value={query}
+                onChange={(event) => {
+                  setQuery(event.target.value);
+                  setActive(0);
+                }}
+                onKeyDown={(event) => {
+                  if (event.key === "ArrowDown") {
+                    event.preventDefault();
+                    setActive((a) => Math.min(a + 1, results.length - 1));
+                  } else if (event.key === "ArrowUp") {
+                    event.preventDefault();
+                    setActive((a) => Math.max(a - 1, 0));
+                  } else if (event.key === "Enter") {
+                    event.preventDefault();
+                    go(results[active]);
+                  }
+                }}
+                placeholder="Search projects, hackathons, technologies…"
+                aria-label="Search query"
+                className="w-full bg-transparent px-3 py-3.5 text-sm text-fg outline-none placeholder:text-fg-muted/60"
+              />
+              <kbd className="rounded border border-line bg-bg px-1.5 py-0.5 font-mono text-[10px] text-fg-muted">
+                ESC
+              </kbd>
+            </div>
+            <ul className="max-h-84 overflow-y-auto p-2" role="listbox">
               {results.length === 0 ? (
-                <li className="px-4 py-6 text-center text-sm text-fg-muted">No matches.</li>
+                <li className="px-4 py-8 text-center text-sm text-fg-muted">
+                  No matching projects or hackathons found.
+                </li>
               ) : (
                 results.map((item, i) => (
                   <li key={item.id} role="option" aria-selected={i === active}>
@@ -125,15 +139,17 @@ export function CommandPalette({ items }: { items: CommandItem[] }) {
                       type="button"
                       onMouseEnter={() => setActive(i)}
                       onClick={() => go(item)}
-                      className={`flex w-full items-center justify-between gap-3 px-4 py-2 text-left text-sm ${
-                        i === active ? "bg-bg-subtle" : ""
+                      className={`flex w-full items-center justify-between gap-3 rounded-xl px-3.5 py-2.5 text-left text-sm transition-colors duration-150 ${
+                        i === active
+                          ? "bg-accent-bg text-fg ring-1 ring-accent-line/60"
+                          : "text-fg-muted hover:bg-bg-subtle hover:text-fg"
                       }`}
                     >
                       <span className="min-w-0">
-                        <span className="block truncate font-medium">{item.title}</span>
+                        <span className="block truncate font-medium text-fg">{item.title}</span>
                         <span className="block truncate text-xs text-fg-muted">{item.subtitle}</span>
                       </span>
-                      <span className="shrink-0 text-[11px] uppercase tracking-wide text-fg-muted">
+                      <span className="shrink-0 rounded-full border border-line bg-bg px-2 py-0.5 font-mono text-[10px] font-medium text-accent">
                         {item.kind}
                       </span>
                     </button>

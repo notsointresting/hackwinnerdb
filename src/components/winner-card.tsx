@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { WinnerRecord } from "@/types";
 import { AwardBadge, Chip, VerifiedBadge } from "./ui";
 import { ProjectImage } from "./project-image";
+import { InteractiveSpotlight } from "./interactive-spotlight";
 
 const MAX_TECH = 4;
 
@@ -21,27 +22,28 @@ export function WinnerCard({
   const extra = project.technologies.length - tech.length;
 
   return (
-    <article className="hw-reveal group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-bg-subtle transition-[border-color,box-shadow,transform] duration-300 ease-out hover:border-accent-line hover:shadow-[0_0_0_1px_var(--accent-border),0_18px_40px_-24px_var(--glow-a)] motion-safe:hover:-translate-y-1">
-      <div className="relative p-2 pb-0">
-        <ProjectImage src={project.image_url} name={project.name} priority={priority} />
-        <AwardBadge
-          label={primaryAward.title}
-          className="absolute left-4 top-4 max-w-[calc(100%-2rem)] truncate bg-bg/90 backdrop-blur"
-        />
-      </div>
+    <InteractiveSpotlight className="hw-reveal group rounded-2xl border border-line/70 bg-bg-subtle/70 backdrop-blur-md transition-all duration-300 ease-out hover:border-accent-line hover:bg-bg-subtle hover:shadow-[0_0_0_1px_rgba(185,139,255,0.25),0_20px_40px_-20px_rgba(123,63,242,0.35)] motion-safe:hover:-translate-y-1.5">
+      <article className="relative flex h-full flex-col overflow-hidden">
+        <div className="relative p-2 pb-0">
+          <ProjectImage src={project.image_url} name={project.name} priority={priority} />
+          <AwardBadge
+            label={primaryAward.title}
+            className="absolute left-4 top-4 max-w-[calc(100%-2rem)] truncate bg-bg/90 backdrop-blur-md"
+          />
+        </div>
 
-      <div className="flex flex-1 flex-col gap-3 p-4">
+      <div className="flex flex-1 flex-col gap-3 p-5">
         <div>
-          <h3 className="hw-display text-xl">
+          <h3 className="hw-display text-xl font-bold tracking-tight text-fg transition-colors duration-200 group-hover:text-accent">
             <Link href={`/projects/${project.slug}`} className="after:absolute after:inset-0">
               {project.name}
             </Link>
           </h3>
-          <p className="mt-1 line-clamp-2 text-sm text-fg-muted">{project.tagline}</p>
+          <p className="mt-1.5 line-clamp-2 text-sm leading-relaxed text-fg-muted">{project.tagline}</p>
         </div>
 
-        <p className="text-sm text-fg-muted">
-          {hackathon.name} · <span className="font-mono">{hackathon.year}</span>
+        <p className="text-xs font-medium text-fg-muted/90">
+          {hackathon.name} · <span className="font-mono text-accent/90">{hackathon.year}</span>
         </p>
 
         <div className="flex flex-wrap gap-1.5">
@@ -59,7 +61,7 @@ export function WinnerCard({
           {extra > 0 ? <Chip className="font-mono">+{extra}</Chip> : null}
         </div>
 
-        <div className="mt-auto flex items-center justify-between border-t border-line pt-3">
+        <div className="mt-auto flex items-center justify-between border-t border-line/60 pt-3.5">
           {entry.verification.status === "verified" ? (
             <VerifiedBadge />
           ) : (
@@ -67,26 +69,27 @@ export function WinnerCard({
           )}
           <span
             aria-hidden="true"
-            className="text-fg-muted transition-transform duration-300 ease-out motion-safe:group-hover:translate-x-1"
+            className="text-fg-muted transition-transform duration-300 ease-out motion-safe:group-hover:translate-x-1.5 motion-safe:group-hover:text-accent"
           >
             →
           </span>
         </div>
       </div>
-    </article>
+      </article>
+    </InteractiveSpotlight>
   );
 }
 
 export function WinnerRow({ winner, labels }: { winner: WinnerRecord; labels: Labels }) {
   const { project, hackathon, entry, primaryAward } = winner;
   return (
-    <article className="group relative flex items-center gap-4 border-b border-line px-1 py-3 transition-colors hover:bg-bg-subtle">
+    <article className="group relative flex items-center gap-4 border-b border-line/60 px-2 py-3.5 transition-all duration-200 hover:bg-bg-subtle/80">
       <div className="hidden w-28 shrink-0 sm:block">
         <ProjectImage src={project.image_url} name={project.name} sizes="112px" />
       </div>
       <div className="min-w-0 flex-1">
         <div className="flex flex-wrap items-center gap-2">
-          <h3 className="truncate font-medium">
+          <h3 className="truncate font-semibold text-fg transition-colors group-hover:text-accent">
             <Link href={`/projects/${project.slug}`} className="after:absolute after:inset-0">
               {project.name}
             </Link>
@@ -95,7 +98,7 @@ export function WinnerRow({ winner, labels }: { winner: WinnerRecord; labels: La
           {entry.verification.status === "verified" ? <VerifiedBadge /> : null}
         </div>
         <p className="mt-1 truncate text-sm text-fg-muted">{project.tagline}</p>
-        <p className="mt-1 truncate text-xs text-fg-muted">
+        <p className="mt-1 truncate text-xs text-fg-muted/80">
           {hackathon.name} · {hackathon.year} ·{" "}
           {project.technologies
             .slice(0, 4)
@@ -105,7 +108,7 @@ export function WinnerRow({ winner, labels }: { winner: WinnerRecord; labels: La
       </div>
       <span
         aria-hidden="true"
-        className="hidden shrink-0 text-fg-muted transition-transform duration-300 motion-safe:group-hover:translate-x-1 sm:block"
+        className="hidden shrink-0 text-fg-muted transition-transform duration-300 ease-out motion-safe:group-hover:translate-x-1.5 motion-safe:group-hover:text-accent sm:block"
       >
         →
       </span>

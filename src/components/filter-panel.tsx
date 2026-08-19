@@ -21,15 +21,17 @@ export function FilterPanel({ groups }: { groups: FacetGroup[] }) {
   return (
     <>
       <div className="lg:hidden">
-        <details className="rounded-lg border border-line">
-          <summary className="cursor-pointer px-4 py-3 text-sm font-medium">Filters</summary>
-          <div className="border-t border-line p-4">
+        <details className="rounded-2xl border border-line/70 bg-bg-subtle/60 p-2 backdrop-blur-md">
+          <summary className="cursor-pointer px-4 py-3 text-sm font-semibold text-fg">Filters</summary>
+          <div className="border-t border-line/60 p-4">
             <FilterControls groups={groups} />
           </div>
         </details>
       </div>
       <div className="hidden lg:sticky lg:top-20 lg:block lg:self-start">
-        <FilterControls groups={groups} />
+        <div className="rounded-2xl border border-line/70 bg-bg-subtle/50 p-5 backdrop-blur-md">
+          <FilterControls groups={groups} />
+        </div>
       </div>
     </>
   );
@@ -72,13 +74,13 @@ function FilterControls({ groups }: { groups: FacetGroup[] }) {
 
   return (
     <div className="space-y-6">
-      <div className="flex items-center justify-between">
-        <h2 className="text-xs font-semibold uppercase tracking-widest text-fg-muted">Filters</h2>
+      <div className="flex items-center justify-between border-b border-line/60 pb-3">
+        <h2 className="text-xs font-bold uppercase tracking-widest text-fg-muted">Filters</h2>
         {active ? (
           <button
             type="button"
             onClick={() => router.push(pathname, { scroll: false })}
-            className="text-xs text-fg-muted underline hover:text-fg"
+            className="text-xs font-medium text-accent hover:underline"
           >
             Clear all
           </button>
@@ -94,16 +96,19 @@ function FilterControls({ groups }: { groups: FacetGroup[] }) {
         />
       ))}
 
-      <fieldset>
-        <legend className="mb-2 text-sm font-medium">Additional</legend>
-        <div className="space-y-1.5">
+      <fieldset className="border-t border-line/60 pt-4">
+        <legend className="mb-2.5 text-xs font-bold uppercase tracking-wider text-fg-muted">Additional</legend>
+        <div className="space-y-2">
           {FLAGS.map((flag) => (
-            <label key={flag.param} className="flex items-center gap-2 text-sm">
+            <label
+              key={flag.param}
+              className="flex cursor-pointer items-center gap-2.5 text-xs font-medium text-fg-muted transition-colors hover:text-fg"
+            >
               <input
                 type="checkbox"
                 checked={params.get(flag.param) === "1"}
                 onChange={() => toggleFlag(flag.param)}
-                className="size-4 accent-current"
+                className="size-3.5 rounded border-line-strong bg-bg accent-accent"
               />
               {flag.label}
             </label>
@@ -131,8 +136,8 @@ function FacetSection({
   if (!group.options.length) return null;
 
   return (
-    <fieldset>
-      <legend className="mb-2 text-sm font-medium">{group.title}</legend>
+    <fieldset className="space-y-2">
+      <legend className="text-xs font-bold uppercase tracking-wider text-fg-muted">{group.title}</legend>
       {group.searchable ? (
         <>
           <label className="sr-only" htmlFor={`filter-${group.param}`}>
@@ -142,22 +147,29 @@ function FacetSection({
             id={`filter-${group.param}`}
             value={filter}
             onChange={(event) => setFilter(event.target.value)}
-            placeholder={`Search ${group.title.toLowerCase()}`}
-            className="mb-2 w-full rounded-md border border-line bg-bg px-2 py-1 text-sm outline-none focus:border-line-strong"
+            placeholder={`Search ${group.title.toLowerCase()}…`}
+            className="w-full rounded-xl border border-line/80 bg-bg/80 px-2.5 py-1 text-xs text-fg outline-none transition-colors focus:border-accent focus:ring-1 focus:ring-accent/30"
           />
         </>
       ) : null}
-      <div className="max-h-56 space-y-1.5 overflow-y-auto pr-1">
+      <div className="max-h-48 space-y-1.5 overflow-y-auto pr-1">
         {options.slice(0, 60).map((option) => (
-          <label key={option.value} className="flex items-center gap-2 text-sm">
+          <label
+            key={option.value}
+            className={`flex cursor-pointer items-center gap-2.5 rounded-lg px-2 py-1 text-xs transition-colors ${
+              selected.has(option.value)
+                ? "bg-accent-bg text-accent font-semibold"
+                : "text-fg-muted hover:bg-bg-raised hover:text-fg"
+            }`}
+          >
             <input
               type="checkbox"
               checked={selected.has(option.value)}
               onChange={() => onToggle(option.value)}
-              className="size-4 shrink-0 accent-current"
+              className="size-3.5 shrink-0 rounded border-line bg-bg accent-accent"
             />
             <span className="min-w-0 flex-1 truncate">{option.label}</span>
-            <span className="shrink-0 font-mono text-xs text-fg-muted">{option.count}</span>
+            <span className="shrink-0 font-mono text-[10px] opacity-70">{option.count}</span>
           </label>
         ))}
       </div>

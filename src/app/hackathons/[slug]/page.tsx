@@ -165,35 +165,43 @@ export default async function HackathonPage({ params }: { params: Promise<{ slug
         </div>
       </header>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight">Winners</h2>
-      {groupOrder.map((type) => (
-        <section key={type.slug} className="mt-8">
-          <h3 className="border-b border-line pb-2 text-sm font-semibold uppercase tracking-widest text-fg-muted">
-            {type.name}
-          </h3>
-          <ul className="divide-y divide-line">
-            {grouped.get(type.slug)!.map((win) => (
-              <li key={win.entry.id} className="flex flex-wrap items-center gap-3 py-3">
-                <Link href={`/projects/${win.project.slug}`} className="font-medium hover:underline">
-                  {win.project.name}
-                </Link>
-                <AwardBadge label={win.primaryAward.title} />
-                {win.entry.verification.status === "verified" ? <VerifiedBadge /> : null}
-                <span className="w-full text-sm text-fg-muted sm:w-auto sm:flex-1">
-                  {win.project.tagline}
-                </span>
-                <span className="flex flex-wrap gap-1.5">
-                  {win.project.technologies.slice(0, 3).map((tech) => (
-                    <Chip key={tech} className="font-mono">
-                      {labels.technologies.get(tech) ?? tech}
-                    </Chip>
-                  ))}
-                </span>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
+      <div className="mt-12">
+        <h2 className="hw-display text-2xl font-bold text-fg">Winners</h2>
+        {groupOrder.map((type) => (
+          <section key={type.slug} className="mt-8">
+            <h3 className="border-b border-line/60 pb-2 text-xs font-bold uppercase tracking-widest text-accent">
+              {type.name}
+            </h3>
+            <ul className="hw-stagger mt-3 space-y-2.5">
+              {grouped.get(type.slug)!.map((win) => (
+                <li
+                  key={win.entry.id}
+                  className="hw-reveal group flex flex-wrap items-center gap-3.5 rounded-2xl border border-line/60 bg-bg-subtle/50 p-4 backdrop-blur-sm transition-all duration-300 hover:border-accent-line hover:bg-bg-subtle hover:shadow-[0_0_20px_rgba(123,63,242,0.15)] motion-safe:hover:-translate-y-0.5"
+                >
+                  <Link
+                    href={`/projects/${win.project.slug}`}
+                    className="font-bold text-fg transition-colors group-hover:text-accent"
+                  >
+                    {win.project.name}
+                  </Link>
+                  <AwardBadge label={win.primaryAward.title} />
+                  {win.entry.verification.status === "verified" ? <VerifiedBadge /> : null}
+                  <span className="w-full text-sm text-fg-muted sm:w-auto sm:flex-1">
+                    {win.project.tagline}
+                  </span>
+                  <span className="flex flex-wrap gap-1.5">
+                    {win.project.technologies.slice(0, 3).map((tech) => (
+                      <Chip key={tech} href={`/technology/${tech}`} className="font-mono text-xs">
+                        {labels.technologies.get(tech) ?? tech}
+                      </Chip>
+                    ))}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </div>
 
       <script
         type="application/ld+json"
