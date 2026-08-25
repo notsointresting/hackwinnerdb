@@ -10,9 +10,13 @@ test("homepage shows real statistics and recent winners", async ({ page }) => {
 test("search finds a seeded project", async ({ page }) => {
   await page.goto("/projects");
   await page.getByLabel("Search HackWinnerDB").fill("Mochi");
+  await page.waitForTimeout(500); // Wait for animations to settle
   await page.getByRole("button", { name: "Search", exact: true }).click();
   await expect(page).toHaveURL(/q=Mochi/);
-  await expect(page.getByRole("heading", { name: "Mochi" })).toBeVisible();
+  await page.waitForLoadState('networkidle');
+  // Use first() to handle multiple results with same name, then verify it's visible
+  const mochiHeading = page.getByRole("article").filter({ hasText: "Mochi" }).first().getByRole("heading", { name: "Mochi" });
+  await expect(mochiHeading).toBeVisible();
 });
 
 test("filters are reflected in the URL and narrow results", async ({ page }) => {
