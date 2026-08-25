@@ -10,7 +10,10 @@ test("homepage shows real statistics and recent winners", async ({ page }) => {
 test("search finds a seeded project", async ({ page }) => {
   await page.goto("/projects");
   await page.getByLabel("Search HackWinnerDB").fill("Mochi");
-  await page.waitForTimeout(500); // Wait for animations to settle
+  await page.waitForLoadState('networkidle');
+  // For mobile, ensure header is not blocking by scrolling into view
+  await page.getByRole("button", { name: "Search", exact: true }).scrollIntoViewIfNeeded();
+  await page.waitForTimeout(300);
   await page.getByRole("button", { name: "Search", exact: true }).click();
   await expect(page).toHaveURL(/q=Mochi/);
   await page.waitForLoadState('networkidle');
