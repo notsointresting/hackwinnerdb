@@ -247,7 +247,7 @@ deploys `main` to production automatically.
 - [ ] Richer hackathon metadata (tracks, sponsors, judges) where sources exist
 - [ ] Maintainer script that converts an add-winner issue into YAML
 - [x] MCP endpoint so AI coding tools can query the database directly
-- [ ] Serve the MCP endpoint from the prebuilt dataset JSON to cut its cold start
+- [x] Serve the MCP endpoint from the prebuilt dataset JSON to cut its cold start
 - [ ] Optional Postgres/Meilisearch mirror behind the existing interfaces
 - [ ] Assisted (never fully automatic) import tooling once the schema has proven itself
 
