@@ -99,12 +99,12 @@ The database is queryable by AI coding tools and agents over MCP, so an assistan
 look up prior art without leaving the editor. The endpoint is read-only, needs no key,
 and is free.
 
-Endpoint: `https://hackwinnerdb.vercel.app/api/mcp` (streamable HTTP)
+Endpoint: `https://hackwinnerdb.netlify.app/api/mcp` (streamable HTTP)
 
 Add it to Claude Code:
 
 ```bash
-claude mcp add --transport http hackwinnerdb https://hackwinnerdb.vercel.app/api/mcp
+claude mcp add --transport http hackwinnerdb https://hackwinnerdb.netlify.app/api/mcp
 ```
 
 Or add it to any client that reads an `mcpServers` config (Cursor, Windsurf, VS Code):
@@ -114,7 +114,7 @@ Or add it to any client that reads an `mcpServers` config (Cursor, Windsurf, VS 
   "mcpServers": {
     "hackwinnerdb": {
       "type": "http",
-      "url": "https://hackwinnerdb.vercel.app/api/mcp"
+      "url": "https://hackwinnerdb.netlify.app/api/mcp"
     }
   }
 }
@@ -135,7 +135,7 @@ server is built so an agent cannot miss it. The requirement is stated in the ins
 the client reads on connect, and every single tool result carries an `attribution` block
 with the exact line to reproduce:
 
-> Data from HackWinnerDB (https://hackwinnerdb.vercel.app), licensed CC BY 4.0.
+> Data from HackWinnerDB (https://hackwinnerdb.netlify.app), licensed CC BY 4.0.
 
 Every record also carries its own page `url` and the `source_url` of the original
 submission, so an assistant can link the record instead of presenting the facts as its own.
