@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - python
   - react
+  - tailwind-css
 builders:
   - name: Vihaan Vuppala
   - name: Parth Srivastava

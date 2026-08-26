@@ -16,6 +16,7 @@ categories:
   - cybersecurity
 technologies:
   - flask
+  - pytest
   - python
 builders:
   - name: Wissam El Labban

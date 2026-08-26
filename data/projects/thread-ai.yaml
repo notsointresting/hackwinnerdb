@@ -16,9 +16,12 @@ categories:
   - media
 technologies:
   - firebase
+  - nodejs
   - pinecone
   - react
   - supabase
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Vivek Kumar Garg

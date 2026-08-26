@@ -14,9 +14,11 @@ categories:
   - media
 technologies:
   - go
+  - mcp
   - react
   - sqlite
   - typescript
+  - vite
 builders:
   - name: Vladislav K
   - name: Monika Jaqeli

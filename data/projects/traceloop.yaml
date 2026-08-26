@@ -14,9 +14,11 @@ categories:
   - education
   - social-impact
 technologies:
+  - c
   - react
   - supabase
   - typescript
   - vercel
+  - vite
 builders:
   - name: Trinab Goswamy

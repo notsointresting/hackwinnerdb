@@ -17,6 +17,7 @@ categories:
 technologies:
   - claude
   - mongodb
+  - nextjs
   - openai
   - typescript
 builders:

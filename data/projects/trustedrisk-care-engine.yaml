@@ -19,8 +19,13 @@ technologies:
   - anthropic
   - docker
   - fastapi
+  - github-actions
+  - mcp
+  - pydantic
+  - pytest
   - python
   - sqlite
+  - uvicorn
 builders:
   - name: Alessandro Flati
   - name: Roberto Mastropietro

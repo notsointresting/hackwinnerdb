@@ -15,7 +15,9 @@ categories:
   - social-impact
   - iot
 technologies:
+  - chatgpt
   - gemini
   - react
+  - vite
 builders:
   - name: Ronith Roy

@@ -17,8 +17,11 @@ technologies:
   - gemini
   - groq
   - mongodb
+  - nodejs
   - opencv
   - react
+  - tailwind-css
+  - three-js
 builders:
   - name: Philip Yu
   - name: Ari Khan

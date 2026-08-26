@@ -13,7 +13,9 @@ categories:
   - social-impact
 technologies:
   - react
+  - three-js
   - vercel
+  - zustand
 builders:
   - name: Pranav Kalaiselvan
   - name: Anand Patil

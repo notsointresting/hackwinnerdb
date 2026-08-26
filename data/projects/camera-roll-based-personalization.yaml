@@ -14,6 +14,7 @@ categories:
   - education
   - e-commerce
 technologies:
+  - nextjs
   - react
   - react-native
   - replicate

@@ -15,6 +15,7 @@ categories:
   - creative-tools
 technologies:
   - arduino
+  - c
   - claude
   - python
 builders:

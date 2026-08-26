@@ -16,12 +16,16 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - nextjs
+  - nodejs
+  - playwright
   - postgresql
   - react
   - supabase
   - tailwind-css
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Sai Aathish Karthik
   - name: Sowmyan Sridhar

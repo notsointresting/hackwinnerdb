@@ -17,8 +17,10 @@ categories:
 technologies:
   - fastapi
   - langchain
+  - playwright
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Huy B. Huynh

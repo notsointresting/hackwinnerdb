@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - llama
+  - nextjs
   - sqlite
 builders:
   - name: Mihir Steingard

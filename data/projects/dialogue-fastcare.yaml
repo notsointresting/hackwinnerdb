@@ -15,6 +15,7 @@ categories:
   - healthcare
 technologies:
   - mongodb
+  - nodejs
 builders:
   - name: Olivier Dussault
   - name: Antoine Boudreau

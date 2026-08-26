@@ -15,6 +15,7 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - c
   - c-plus-plus
   - python
 builders:

@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - gemini
+  - nextjs
   - python
   - react
   - supabase

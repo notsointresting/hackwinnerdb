@@ -13,10 +13,11 @@ categories:
   - developer-tools
   - artificial-intelligence
 technologies:
-  - javascript
-  - gemini
+  - chrome
   - chrome-built-in-ai
   - chrome-extension
+  - gemini
+  - javascript
 builders:
   - name: Yafa Yafa
     github: Hodisy

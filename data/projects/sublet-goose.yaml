@@ -17,6 +17,7 @@ categories:
 technologies:
   - claude
   - fastapi
+  - nextjs
   - python
 builders:
   - name: Shan Diamond Louis

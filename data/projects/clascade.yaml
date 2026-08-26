@@ -16,8 +16,11 @@ technologies:
   - gemini
   - nextjs
   - react
+  - tailwind-css
+  - three-js
   - typescript
   - vertex-ai
+  - webgl
 builders:
   - name: Larry Wang
   - name: Omar Ibrahim

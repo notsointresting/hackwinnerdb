@@ -16,6 +16,7 @@ categories:
   - education
   - media
 technologies:
+  - nextjs
   - python
 builders:
   - name: Abel1011 Mendez

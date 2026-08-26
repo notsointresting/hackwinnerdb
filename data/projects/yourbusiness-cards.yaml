@@ -19,5 +19,6 @@ technologies:
   - gemini
   - nextjs
   - replicate
+  - stable-diffusion
 builders:
   - name: Ishani Kathuria

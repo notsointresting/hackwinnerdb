@@ -16,6 +16,7 @@ technologies:
   - elevenlabs
   - fastapi
   - javascript
+  - nextjs
   - python
   - typescript
 builders:

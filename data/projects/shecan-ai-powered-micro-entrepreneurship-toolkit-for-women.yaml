@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
   - react
   - typescript
 builders:

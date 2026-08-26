@@ -17,10 +17,14 @@ categories:
 technologies:
   - anthropic
   - claude
+  - nextjs
+  - nodejs
   - postgresql
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - zustand
 builders:
   - name: Atharva Singh
   - name: David Benjamin Kanakapudi

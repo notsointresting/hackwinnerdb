@@ -15,6 +15,7 @@ categories:
   - infrastructure
   - creative-tools
 technologies:
+  - c
   - opencv
   - python
 builders:

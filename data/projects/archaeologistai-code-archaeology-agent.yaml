@@ -16,6 +16,7 @@ categories:
   - education
   - productivity
 technologies:
+  - nodejs
   - typescript
 builders:
   - name: Vinay Reddy

@@ -13,6 +13,7 @@ image_url: null
 categories:
   - other
 technologies:
+  - c
   - unity
 builders:
   - name: youk25 Khettal

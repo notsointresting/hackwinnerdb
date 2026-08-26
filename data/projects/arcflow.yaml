@@ -16,6 +16,7 @@ categories:
   - productivity
 technologies:
   - fastapi
+  - nextjs
   - python
   - tailwind-css
   - typescript

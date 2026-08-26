@@ -15,6 +15,7 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - codex
   - elevenlabs
   - fastapi
   - python

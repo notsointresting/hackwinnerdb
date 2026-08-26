@@ -18,7 +18,10 @@ technologies:
   - docker
   - fastapi
   - opencv
+  - pydantic
+  - pytest
   - python
   - pytorch
+  - uvicorn
 builders:
   - name: Ayush Saini

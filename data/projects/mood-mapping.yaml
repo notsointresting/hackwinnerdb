@@ -17,6 +17,7 @@ technologies:
   - claude
   - figma
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Anush Harish

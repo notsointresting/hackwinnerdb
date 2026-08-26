@@ -1,0 +1,13 @@
+# Netlify needs to be told this is a Next.js server app. Without the runtime
+# plugin it publishes a directory with no index.html and every path 404s.
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # Match the Node version CI uses; Netlify's default can lag behind what
+  # Next 16 requires.
+  NODE_VERSION = "22"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

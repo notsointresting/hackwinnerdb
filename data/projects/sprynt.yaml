@@ -19,9 +19,11 @@ technologies:
   - docker
   - elevenlabs
   - fastapi
+  - nextjs
   - python
   - supabase
   - typescript
+  - zustand
 builders:
   - name: Anurag Perakalapudi
   - name: Chetan Maviti

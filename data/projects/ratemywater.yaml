@@ -13,6 +13,7 @@ categories:
   - other
 technologies:
   - mongodb
+  - nextjs
   - react
   - tailwind-css
   - typescript

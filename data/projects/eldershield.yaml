@@ -17,10 +17,12 @@ categories:
   - iot
 technologies:
   - docker
+  - nodejs
   - postgresql
   - react
   - redis
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: lopkiloinm Liu

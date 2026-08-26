@@ -18,6 +18,7 @@ technologies:
   - gemini
   - google-maps
   - kotlin
+  - playwright
   - postgresql
   - python
 builders:

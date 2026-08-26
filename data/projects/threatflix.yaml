@@ -16,6 +16,7 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - nodejs
   - python
   - react
   - sqlite

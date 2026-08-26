@@ -15,8 +15,10 @@ categories:
   - education
   - iot
 technologies:
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Shubham Jha

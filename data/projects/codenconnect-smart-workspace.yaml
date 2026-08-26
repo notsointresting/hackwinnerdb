@@ -17,6 +17,8 @@ technologies:
   - fastapi
   - gemini
   - javascript
+  - pydantic
   - python
+  - uvicorn
 builders:
   - name: Anu Vidhya

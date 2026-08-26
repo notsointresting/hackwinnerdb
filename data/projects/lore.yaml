@@ -17,5 +17,6 @@ technologies:
   - claude
   - elevenlabs
   - javascript
+  - vite
 builders:
   - name: Aima Mohammad

@@ -17,6 +17,7 @@ categories:
 technologies:
   - claude
   - cloudflare
+  - openai-api
   - supabase
   - typescript
 builders:

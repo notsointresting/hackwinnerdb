@@ -16,6 +16,7 @@ categories:
   - govtech
 technologies:
   - fastapi
+  - pytest
   - python
 builders:
   - name: Sayem Rahman

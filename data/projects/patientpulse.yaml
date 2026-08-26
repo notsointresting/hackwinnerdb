@@ -26,6 +26,8 @@ technologies:
   - react
   - redis
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Prasanna Pravin Renapurkar
   - name: Rahul Sanjay Mandviya

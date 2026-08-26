@@ -15,7 +15,9 @@ categories:
   - artificial-intelligence
 technologies:
   - fastapi
+  - nextjs
   - python
+  - raspberry-pi
   - react
   - supabase
   - yolo

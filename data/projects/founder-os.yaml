@@ -17,6 +17,7 @@ categories:
 technologies:
   - anthropic
   - javascript
+  - nodejs
   - react
 builders:
   - name: Adam Tan

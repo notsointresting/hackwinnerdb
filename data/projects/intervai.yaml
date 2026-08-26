@@ -18,8 +18,12 @@ technologies:
   - fastapi
   - groq
   - mongodb
+  - nextjs
+  - nodejs
+  - pydantic
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Yash Bharvada

@@ -15,6 +15,7 @@ categories:
   - healthcare
   - education
 technologies:
+  - nextjs
   - react
   - typescript
 builders:

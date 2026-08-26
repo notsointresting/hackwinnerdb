@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - mongodb
+  - nodejs
   - react
   - typescript
 builders:

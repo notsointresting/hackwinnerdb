@@ -15,13 +15,18 @@ categories:
   - artificial-intelligence
   - gaming
 technologies:
-  - python
-  - fastapi
-  - vue
-  - tailwind-css
   - docker
+  - fastapi
   - gemini
+  - google-cloud
+  - javascript
+  - pydantic
+  - python
+  - ruff
+  - tailwind-css
   - vertex-ai
+  - vite
+  - vue
 builders:
   - name: Volker Janz
     github: vojay-dev

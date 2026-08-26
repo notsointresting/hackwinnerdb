@@ -14,7 +14,9 @@ categories:
   - other
 technologies:
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: CJ Rasos
   - name: Sukhman Virk

@@ -16,8 +16,12 @@ technologies:
   - google-maps
   - javascript
   - mongodb
+  - nextjs
   - react
+  - three-js
   - vercel
+  - web-audio-api
+  - webgl
 builders:
   - name: Shyam Prasath S
   - name: Haresh Sai_06

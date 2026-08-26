@@ -17,9 +17,12 @@ categories:
   - cybersecurity
 technologies:
   - claude
+  - nodejs
   - react
+  - three-js
   - typescript
   - vercel
+  - vite
 builders:
   - name: Saksham Raheja
   - name: sparsh garg

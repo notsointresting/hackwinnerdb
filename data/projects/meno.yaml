@@ -13,10 +13,15 @@ categories:
   - education
   - accessibility
 technologies:
+  - nodejs
   - python
   - react
+  - react-three-fiber
+  - three-js
   - typescript
+  - uv
   - vercel
+  - vitest
 builders:
   - name: Armaan Priyadarshan
   - name: Samarjit Deshmukh

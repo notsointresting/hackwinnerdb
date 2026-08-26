@@ -18,6 +18,7 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nextjs
   - python
   - typescript
 builders:

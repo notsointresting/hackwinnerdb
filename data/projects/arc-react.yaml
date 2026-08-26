@@ -19,6 +19,7 @@ technologies:
   - fastapi
   - kotlin
   - mongodb
+  - openai-api
   - python
   - swift
 builders:

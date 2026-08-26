@@ -14,6 +14,7 @@ categories:
   - cybersecurity
   - social-impact
 technologies:
+  - nodejs
   - python
 builders:
   - name: Dyllon Reyes

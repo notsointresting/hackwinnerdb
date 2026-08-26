@@ -17,6 +17,7 @@ categories:
   - social-impact
 technologies:
   - docker
+  - nextjs
   - tailwind-css
   - typescript
 builders:

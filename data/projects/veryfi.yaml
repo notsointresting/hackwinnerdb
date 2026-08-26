@@ -20,6 +20,7 @@ technologies:
   - mongodb
   - python
   - react
+  - vite
 builders:
   - name: Leena Abigail Dany
   - name: Ayomide Ojediran

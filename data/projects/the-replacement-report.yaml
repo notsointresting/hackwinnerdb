@@ -15,5 +15,6 @@ categories:
 technologies:
   - python
   - typescript
+  - vite
 builders:
   - name: hungr1yuri Kirm

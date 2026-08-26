@@ -14,7 +14,9 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - react-three-fiber
   - typescript
+  - zustand
 builders:
   - name: Amr Alomari
   - name: Aous Alomari

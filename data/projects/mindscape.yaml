@@ -14,8 +14,11 @@ categories:
   - productivity
 technologies:
   - gemini
+  - nodejs
   - react
   - typescript
   - vercel
+  - vite
+  - zustand
 builders:
   - name: Parsunic Dane

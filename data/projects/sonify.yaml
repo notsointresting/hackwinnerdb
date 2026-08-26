@@ -15,6 +15,7 @@ categories:
   - education
   - media
 technologies:
+  - nextjs
   - react
 builders:
   - name: Tom Wang

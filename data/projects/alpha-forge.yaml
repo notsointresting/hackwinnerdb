@@ -22,5 +22,6 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Saumya Singh

@@ -17,10 +17,13 @@ categories:
 technologies:
   - fastapi
   - groq
+  - nextjs
   - python
   - react
   - sqlite
+  - tailwind-css
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: SAIKRISHIVGAR S

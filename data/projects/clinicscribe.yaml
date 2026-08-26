@@ -23,6 +23,7 @@ technologies:
   - redis
   - supabase
   - typescript
+  - vite
 builders:
   - name: Ngọc Thiên Bảo Đỗ
   - name: Khang Phạm Hoàng

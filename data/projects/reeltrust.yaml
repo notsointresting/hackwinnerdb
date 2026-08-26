@@ -17,6 +17,7 @@ categories:
 technologies:
   - kotlin
   - mongodb
+  - nodejs
   - solana
 builders:
   - name: Sunain Syed

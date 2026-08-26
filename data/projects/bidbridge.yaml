@@ -15,6 +15,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nextjs
   - typescript
 builders:
   - name: Anurag Perakalapudi

@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - react
 builders:
   - name: Sai Nellutla

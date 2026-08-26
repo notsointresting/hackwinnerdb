@@ -16,8 +16,10 @@ categories:
   - education
 technologies:
   - claude
+  - nextjs
   - python
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

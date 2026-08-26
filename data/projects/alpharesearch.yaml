@@ -17,11 +17,15 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - hugging-face
+  - mcp
   - openai
   - pinecone
   - postgresql
+  - pydantic
   - python
   - react
+  - uvicorn
 builders:
   - name: Annu Sharma
   - name: Gregory Seleznev

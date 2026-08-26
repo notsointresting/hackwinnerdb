@@ -15,6 +15,9 @@ categories:
   - artificial-intelligence
   - social-impact
 technologies:
+  - nextjs
+  - nodejs
+  - openai-api
   - react
   - typescript
 builders:

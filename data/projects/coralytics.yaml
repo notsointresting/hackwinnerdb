@@ -17,9 +17,14 @@ technologies:
   - fastapi
   - firebase
   - javascript
+  - pydantic
+  - pytest
   - python
   - react
+  - three-js
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: SO HONG YAO _
   - name: YEO YU SONG SEAN _

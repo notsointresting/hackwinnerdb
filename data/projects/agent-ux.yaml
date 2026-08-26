@@ -16,7 +16,10 @@ technologies:
   - fastapi
   - figma
   - gemini
+  - playwright
+  - pydantic
   - python
+  - uvicorn
 builders:
   - name: Manjusri Gobiraj
   - name: Alice Lan

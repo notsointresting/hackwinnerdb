@@ -16,6 +16,7 @@ technologies:
   - fastapi
   - python
   - react
+  - vite
 builders:
   - name: Danial Hasani
   - name: Ethan Isaac Silfanus

@@ -14,12 +14,15 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - hugging-face
   - python
   - pytorch
   - react
   - rust
   - sqlite
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Devi kanumilli
   - name: Wasim Vorvoi

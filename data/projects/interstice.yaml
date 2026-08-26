@@ -17,6 +17,8 @@ categories:
   - media
 technologies:
   - elevenlabs
+  - nextjs
+  - nodejs
   - react
   - twilio
   - typescript

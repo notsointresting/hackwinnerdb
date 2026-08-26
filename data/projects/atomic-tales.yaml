@@ -15,6 +15,7 @@ categories:
   - ar-vr
 technologies:
   - gemini
+  - google-ai-studio
   - openai
   - typescript
 builders:

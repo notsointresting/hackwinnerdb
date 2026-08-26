@@ -18,6 +18,7 @@ technologies:
   - fastapi
   - javascript
   - sqlite
+  - uvicorn
 builders:
   - name: Sebastian Dominguez Calva
   - name: Martin Quinones

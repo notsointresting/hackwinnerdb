@@ -17,7 +17,9 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
   - typescript
   - vercel
+  - vite
 builders:
   - name: Jay Bisen

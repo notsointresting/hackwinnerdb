@@ -15,6 +15,7 @@ categories:
   - education
   - productivity
 technologies:
+  - github-actions
   - groq
   - openai
   - python

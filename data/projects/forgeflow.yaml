@@ -12,6 +12,7 @@ image_url: null
 categories:
   - other
 technologies:
+  - chatgpt
   - python
 builders:
   - name: Ganesh Kolukuluri

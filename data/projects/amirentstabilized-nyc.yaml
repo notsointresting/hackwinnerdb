@@ -12,7 +12,8 @@ video_url: null
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/617/483/datas/medium.png
 categories:
   - social-impact
-technologies: []
+technologies:
+  - nextjs
 builders:
   - name: Nakib Abedin
   - name: Ashraful Mahin

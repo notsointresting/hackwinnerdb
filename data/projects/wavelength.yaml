@@ -16,9 +16,11 @@ categories:
   - education
   - social-impact
 technologies:
+  - nodejs
   - postgresql
   - react
   - typescript
+  - vite
 builders:
   - name: Connor Deng
   - name: Dnnb

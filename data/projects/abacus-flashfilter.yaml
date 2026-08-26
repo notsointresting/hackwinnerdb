@@ -12,7 +12,9 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - productivity
   - social-impact
-technologies: []
+technologies:
+  - nodejs
+  - webgl
 builders:
   - name: Christopher Lamers
   - name: Anraj Singh

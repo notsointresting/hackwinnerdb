@@ -19,6 +19,9 @@ technologies:
   - claude
   - elevenlabs
   - gemini
+  - mcp
+  - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Kenny Wu

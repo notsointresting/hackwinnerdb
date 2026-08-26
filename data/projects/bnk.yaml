@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - ethereum
+  - nodejs
   - react
   - solidity
 builders:

@@ -13,8 +13,11 @@ categories:
   - education
   - social-impact
 technologies:
+  - nextjs
+  - nodejs
   - react
   - typescript
+  - web-audio-api
 builders:
   - name: Arav Bhandari
   - name: Chase Chang

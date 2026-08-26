@@ -13,7 +13,8 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - social-impact
   - media
-technologies: []
+technologies:
+  - openai-api
 builders:
   - name: Angela Shen
   - name: Inayat Kang

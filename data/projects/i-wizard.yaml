@@ -15,6 +15,7 @@ categories:
   - gaming
 technologies:
   - elevenlabs
+  - three-js
 builders:
   - name: Kevin Doshi
   - name: Kunj Pandya

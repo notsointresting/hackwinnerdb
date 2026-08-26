@@ -15,8 +15,24 @@ categories:
   - education
   - social-impact
 technologies:
+  - codex
+  - docker
+  - fastapi
+  - groq
   - javascript
+  - langchain
+  - nextjs
+  - openai
+  - playwright
+  - pydantic
+  - pytest
+  - python
   - react
+  - tailwind-css
+  - typescript
+  - uv
+  - uvicorn
+  - whisper
 builders:
   - name: Ishan Malik
   - name: Pratyush Singhal

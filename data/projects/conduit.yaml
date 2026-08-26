@@ -16,11 +16,13 @@ categories:
   - climate
 technologies:
   - fastapi
+  - nextjs
   - python
   - pytorch
   - react
   - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Raunav Mendiratta
   - name: Mihir Konkapaka

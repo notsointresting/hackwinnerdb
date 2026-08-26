@@ -20,6 +20,7 @@ technologies:
   - groq
   - javascript
   - llama
+  - nodejs
   - opencv
   - react
   - supabase

@@ -16,6 +16,7 @@ categories:
   - ar-vr
 technologies:
   - c-plus-plus
+  - nextjs
   - python
   - react
   - rust

@@ -18,10 +18,14 @@ technologies:
   - firebase
   - groq
   - llama
+  - nextjs
+  - playwright
   - react
   - sqlite
+  - tailwind-css
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Tanush Shah
   - name: Khushi Verma

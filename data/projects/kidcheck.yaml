@@ -13,9 +13,13 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - education
 technologies:
+  - nextjs
+  - nodejs
+  - playwright
   - postgresql
   - react
   - tailwind-css
   - typescript
+  - vitest
 builders:
   - name: Chisom Mmadubuike

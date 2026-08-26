@@ -15,5 +15,6 @@ categories:
 technologies:
   - redis
   - typescript
+  - vite
 builders:
   - name: Romario Kavin.J.R

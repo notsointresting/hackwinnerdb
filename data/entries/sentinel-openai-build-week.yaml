@@ -1,0 +1,16 @@
+id: sentinel-openai-build-week
+project_id: sentinel
+hackathon_id: openai-build-week
+submission_url: https://devpost.com/software/sentinel-way5bd
+source:
+  platform: devpost
+  url: https://devpost.com/software/sentinel-way5bd
+awards:
+  - type: second-place
+    title: 2nd Place | Developer Tools
+    track: Developer Tools
+verification:
+  status: unverified
+  checked_at: 2026-08-26
+  notes: Imported from the Devpost winner gallery. A maintainer must confirm the source before this is
+    marked verified.

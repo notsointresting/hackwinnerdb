@@ -15,6 +15,7 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - nodejs
   - typescript
 builders:
   - name: SchoolRonald Chu

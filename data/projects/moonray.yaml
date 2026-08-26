@@ -16,5 +16,6 @@ categories:
 technologies:
   - nextjs
   - typescript
+  - vite
 builders:
   - name: Kaleab A. Gizaw

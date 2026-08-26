@@ -15,6 +15,7 @@ categories:
   - creative-tools
 technologies:
   - claude
+  - nextjs
   - postgresql
   - python
   - supabase

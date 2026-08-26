@@ -15,9 +15,12 @@ categories:
   - social-impact
 technologies:
   - kotlin
+  - nodejs
   - react
   - react-native
+  - tailwind-css
   - typescript
+  - zustand
 builders:
   - name: Anggara Roshandi
   - name: Arka Hafidz

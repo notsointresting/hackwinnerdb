@@ -13,6 +13,7 @@ categories:
   - gaming
   - media
 technologies:
+  - c
   - unity
 builders:
   - name: Yatharth Pandey

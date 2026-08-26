@@ -20,7 +20,9 @@ technologies:
   - nextjs
   - python
   - react
+  - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Daniel Lin
   - name: Alex Braverman

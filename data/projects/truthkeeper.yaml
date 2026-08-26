@@ -19,6 +19,7 @@ technologies:
   - postgresql
   - python
   - stripe
+  - tailwind-css
   - typescript
   - vercel
   - vertex-ai

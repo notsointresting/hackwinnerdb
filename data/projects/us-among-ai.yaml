@@ -13,9 +13,13 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - web-audio-api
+  - zustand
 builders:
   - name: Kashfi Pranta
   - name: Brett Rodrigues

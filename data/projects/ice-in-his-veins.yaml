@@ -16,8 +16,10 @@ categories:
   - media
 technologies:
   - javascript
+  - nodejs
   - python
   - react
   - vercel
+  - vite
 builders:
   - name: Sithranjan Suresh

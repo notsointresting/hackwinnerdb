@@ -16,10 +16,12 @@ categories:
   - fintech
 technologies:
   - javascript
+  - nodejs
   - python
   - tailwind-css
   - typescript
   - vercel
+  - webgl
   - webrtc
 builders:
   - name: Reshma Panibhate

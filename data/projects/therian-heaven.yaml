@@ -14,7 +14,9 @@ categories:
   - productivity
 technologies:
   - mongodb
+  - nodejs
   - vercel
+  - vite
 builders:
   - name: Gisela Elia
   - name: Mayza Ynara

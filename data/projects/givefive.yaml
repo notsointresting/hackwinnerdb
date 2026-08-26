@@ -13,7 +13,9 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - react
+  - vite
 builders:
   - name: Akshara Mishra
   - name: akanksha negi

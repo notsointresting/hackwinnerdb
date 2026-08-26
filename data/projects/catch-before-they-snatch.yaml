@@ -15,7 +15,9 @@ categories:
   - iot
   - gaming
 technologies:
+  - nodejs
   - react
+  - three-js
 builders:
   - name: Dheer Maheshwari
   - name: Reece Rodrigues

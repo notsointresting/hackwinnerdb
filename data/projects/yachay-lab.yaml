@@ -21,5 +21,6 @@ technologies:
   - react
   - supabase
   - vercel
+  - vite
 builders:
   - name: Arnold Giovanny

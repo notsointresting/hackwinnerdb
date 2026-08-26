@@ -17,9 +17,11 @@ categories:
 technologies:
   - anthropic
   - fastapi
+  - pydantic
   - python
   - pytorch
   - redis
+  - typer
 builders:
   - name: Jerry Wang
   - name: Patrick Feng

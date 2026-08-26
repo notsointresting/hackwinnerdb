@@ -17,7 +17,9 @@ categories:
 technologies:
   - elevenlabs
   - gemini
+  - nextjs
   - python
+  - tailwind-css
   - typescript
 builders:
   - name: Ayman Mohammed

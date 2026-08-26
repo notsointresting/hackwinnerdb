@@ -18,6 +18,7 @@ categories:
 technologies:
   - fastapi
   - react
+  - vite
 builders:
   - name: Harish A
   - name: Aryan Acharya

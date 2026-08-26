@@ -13,8 +13,11 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - artificial-intelligence
 technologies:
+  - nextjs
   - react
+  - tailwind-css
   - typescript
+  - web-audio-api
 builders:
   - name: Samvit Srivastava
   - name: Krishna Singh

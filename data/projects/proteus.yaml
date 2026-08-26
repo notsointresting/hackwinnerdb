@@ -19,10 +19,13 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nextjs
   - python
   - react
   - tailwind-css
+  - three-js
   - typescript
+  - zustand
 builders:
   - name: Vishnu Sai
   - name: Mohammed Asrar Ali

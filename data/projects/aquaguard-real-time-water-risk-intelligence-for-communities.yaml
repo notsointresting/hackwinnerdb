@@ -17,8 +17,10 @@ categories:
   - climate
 technologies:
   - javascript
+  - nodejs
   - react
   - tailwind-css
+  - vite
 builders:
   - name: Faria Islam
   - name: Hadiyah Arif

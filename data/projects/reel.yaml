@@ -20,5 +20,6 @@ technologies:
   - llama
   - python
   - replicate
+  - uvicorn
 builders:
   - name: Jason Wold

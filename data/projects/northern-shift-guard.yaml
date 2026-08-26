@@ -17,10 +17,14 @@ categories:
 technologies:
   - claude
   - fastapi
+  - openai-api
+  - pydantic
   - python
   - react
   - tailwind-css
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Kaysarul Anas
   - name: Kazeem Oguntade

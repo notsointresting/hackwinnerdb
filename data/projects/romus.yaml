@@ -16,6 +16,7 @@ technologies:
   - anthropic
   - claude
   - fastapi
+  - nextjs
   - python
   - react
   - sqlite

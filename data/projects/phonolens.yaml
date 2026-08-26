@@ -17,5 +17,7 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - vite
+  - web-audio-api
 builders:
   - name: Ethan Li

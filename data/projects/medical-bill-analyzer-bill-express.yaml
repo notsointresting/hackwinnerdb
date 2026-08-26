@@ -17,9 +17,11 @@ categories:
 technologies:
   - elevenlabs
   - flask
+  - hugging-face
   - langchain
   - python
   - react
+  - vite
 builders:
   - name: Michelle Fronda
   - name: Nathan Chin

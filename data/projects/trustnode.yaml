@@ -18,7 +18,9 @@ technologies:
   - fastapi
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Paul Sarmiento
   - name: Diego_Najera Dominguez Najera

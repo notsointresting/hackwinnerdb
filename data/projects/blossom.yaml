@@ -15,6 +15,8 @@ categories:
 technologies:
   - elevenlabs
   - figma
+  - javascript
+  - nodejs
 builders:
   - name: Alankrita Ghosh
   - name: Stacey Uhm

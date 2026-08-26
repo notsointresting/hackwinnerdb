@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Matthew Long Yang
   - name: RyanY158

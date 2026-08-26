@@ -14,6 +14,7 @@ categories:
   - other
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Kok Peng Lego Lee
   - name: Marcus Yeong

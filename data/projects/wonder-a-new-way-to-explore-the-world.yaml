@@ -17,12 +17,14 @@ categories:
   - social-impact
 technologies:
   - claude
+  - codex
   - elevenlabs
   - gemini
   - javascript
   - python
   - react
   - vercel
+  - vite
 builders:
   - name: Ashlee Chae
   - name: Jessie Li

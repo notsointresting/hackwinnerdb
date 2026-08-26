@@ -16,6 +16,8 @@ technologies:
   - google-maps
   - react
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Ian Kruger
   - name: Luke Fu

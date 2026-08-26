@@ -17,6 +17,8 @@ technologies:
   - docker
   - fastapi
   - javascript
+  - pydantic
   - python
+  - uvicorn
 builders:
   - name: Nitin Patidar

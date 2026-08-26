@@ -15,7 +15,10 @@ categories:
   - healthcare
   - social-impact
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Haipeng Wu

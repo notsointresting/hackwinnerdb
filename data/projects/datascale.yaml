@@ -14,8 +14,11 @@ categories:
   - artificial-intelligence
 technologies:
   - fastapi
+  - nodejs
   - react
   - sqlite
+  - vite
+  - zustand
 builders:
   - name: t9nzin :D
   - name: fr4nsyz :)

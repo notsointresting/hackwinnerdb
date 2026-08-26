@@ -17,6 +17,7 @@ technologies:
   - javascript
   - tailwind-css
   - typescript
+  - vite
   - webrtc
 builders:
   - name: Pulkit Kulshreshtha

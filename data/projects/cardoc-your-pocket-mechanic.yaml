@@ -15,7 +15,9 @@ categories:
 technologies:
   - firebase
   - gemini
+  - nodejs
   - typescript
+  - vite
 builders:
   - name: Andrea Manzanares Claros
   - name: Kevin Andrade

@@ -19,6 +19,8 @@ technologies:
   - javascript
   - react
   - supabase
+  - tailwind-css
+  - vite
 builders:
   - name: Sydney Nguyen
   - name: Michelle Bui

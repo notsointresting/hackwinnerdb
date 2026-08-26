@@ -16,6 +16,7 @@ categories:
   - education
   - creative-tools
 technologies:
+  - nextjs
   - typescript
   - vercel
 builders:

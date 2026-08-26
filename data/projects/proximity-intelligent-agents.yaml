@@ -17,5 +17,6 @@ categories:
   - gaming
 technologies:
   - fastapi
+  - nextjs
 builders:
   - name: Piyush Bilthariya

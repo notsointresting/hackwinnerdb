@@ -20,9 +20,11 @@ technologies:
   - fastapi
   - javascript
   - postgresql
+  - pydantic
   - python
   - react
   - supabase
   - vercel
+  - vite
 builders:
   - name: Omkar Patil

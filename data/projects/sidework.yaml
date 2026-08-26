@@ -15,5 +15,6 @@ categories:
   - cybersecurity
 technologies:
   - javascript
+  - tailwind-css
 builders:
   - name: jimmy XD

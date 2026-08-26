@@ -18,7 +18,9 @@ technologies:
   - gemini
   - python
   - pytorch
+  - three-js
   - typescript
+  - vite
 builders:
   - name: Jalen Lu
   - name: David Zhang

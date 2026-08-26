@@ -18,5 +18,6 @@ categories:
 technologies:
   - anthropic
   - javascript
+  - vite
 builders:
   - name: Haris Khan

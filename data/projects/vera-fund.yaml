@@ -19,6 +19,7 @@ technologies:
   - elevenlabs
   - fastapi
   - mongodb
+  - nextjs
   - python
   - solana
   - stripe

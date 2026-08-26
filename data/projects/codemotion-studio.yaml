@@ -16,6 +16,7 @@ categories:
 technologies:
   - gemini
   - groq
+  - nextjs
   - openai
   - react
   - typescript

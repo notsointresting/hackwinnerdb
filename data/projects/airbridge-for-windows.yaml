@@ -1,0 +1,31 @@
+id: airbridge-for-windows
+name: AirBridge for Windows
+slug: airbridge-for-windows
+tagline: AirBridge turns an AirPlay-compatible speaker into a practical wireless audio output for a
+  Windows PC and puts a GPT-5.6 agent in the control loop.
+summary: AirBridge lets a Windows PC stream audio to AirPlay speakers and HomePods, a pairing
+  Windows does not support on its own. A language-model agent sits in the control loop and handles
+  device discovery and stream setup instead of leaving the user to configure it by hand.
+website_url: null
+github_url: https://github.com/atarantino/AirBridge
+demo_url: null
+video_url: https://www.youtube.com/embed/s4NXdXsU520
+image_url: null
+categories:
+  - developer-tools
+  - consumer
+  - artificial-intelligence
+technologies:
+  - apple-tv
+  - c
+  - chrome
+  - codex
+  - javascript
+  - nodejs
+  - openai
+  - powershell
+  - python
+  - responses-api
+  - windows
+builders:
+  - name: Adam Tarantino

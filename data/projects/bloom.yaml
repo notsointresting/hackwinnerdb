@@ -14,6 +14,7 @@ categories:
   - creative-tools
 technologies:
   - fastapi
+  - figma
 builders:
   - name: Wayne Ngo
   - name: Darren Shen

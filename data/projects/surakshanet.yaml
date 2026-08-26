@@ -18,8 +18,11 @@ technologies:
   - javascript
   - langchain
   - nextjs
+  - nodejs
   - pinecone
   - python
   - pytorch
+  - react-native
+  - tailwind-css
 builders:
   - name: Sahid Ahmed

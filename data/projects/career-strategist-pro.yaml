@@ -14,7 +14,8 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thum
 categories:
   - artificial-intelligence
   - education
-technologies: []
+technologies:
+  - chatgpt
 builders:
   - name: Jeannine Bennett
   - name: Linda Santiago-King

@@ -17,6 +17,8 @@ categories:
   - social-impact
 technologies:
   - mongodb
+  - netlify
+  - nodejs
   - python
   - react
   - tailwind-css

@@ -17,6 +17,7 @@ categories:
   - social-impact
 technologies:
   - django
+  - nextjs
   - postgresql
   - python
   - react

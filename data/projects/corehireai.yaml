@@ -20,5 +20,7 @@ technologies:
   - python
   - react
   - sqlite
+  - tailwind-css
+  - vite
 builders:
   - name: Arbab Ali

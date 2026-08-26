@@ -20,6 +20,7 @@ technologies:
   - claude
   - docker
   - google-cloud
+  - nodejs
   - python
   - sqlite
 builders:

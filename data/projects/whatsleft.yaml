@@ -16,10 +16,14 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - postgresql
   - react
   - supabase
+  - tailwind-css
   - typescript
+  - web-audio-api
 builders:
   - name: Yuna Kim
   - name: YG H

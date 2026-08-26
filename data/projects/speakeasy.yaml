@@ -15,11 +15,13 @@ categories:
 technologies:
   - docker
   - fastapi
+  - pydantic
   - python
   - react
   - react-native
   - sql
   - typescript
+  - uvicorn
 builders:
   - name: Nathan Dela Paz
   - name: Rishi Kandimalla

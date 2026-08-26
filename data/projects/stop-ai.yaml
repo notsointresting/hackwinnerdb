@@ -15,11 +15,13 @@ categories:
   - artificial-intelligence
   - social-impact
 technologies:
+  - nodejs
   - postgresql
   - react
   - redis
   - supabase
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: flattened bricks

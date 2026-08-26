@@ -15,9 +15,11 @@ categories:
 technologies:
   - cloudflare
   - langchain
+  - nextjs
   - supabase
   - typescript
   - vercel
+  - vite
 builders:
   - name: Manil Shangle
   - name: Keerti Koya

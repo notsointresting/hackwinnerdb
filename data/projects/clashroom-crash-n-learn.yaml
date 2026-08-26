@@ -15,9 +15,11 @@ categories:
   - gaming
 technologies:
   - claude
+  - codex
   - elevenlabs
   - gemini
   - mongodb
+  - nextjs
 builders:
   - name: Renaud Roy
   - name: Juniel Djossou

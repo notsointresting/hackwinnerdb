@@ -17,6 +17,7 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nextjs
   - python
   - pytorch
 builders:

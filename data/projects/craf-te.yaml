@@ -16,5 +16,6 @@ categories:
 technologies:
   - react
   - supabase
+  - vite
 builders:
   - name: Daniel Agbeleshe

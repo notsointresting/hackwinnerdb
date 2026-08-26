@@ -18,9 +18,11 @@ categories:
 technologies:
   - fastapi
   - openai
+  - pydantic
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Pranathi Kandlakunta
   - name: Logan Bradley

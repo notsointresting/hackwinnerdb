@@ -19,6 +19,7 @@ technologies:
   - google-cloud
   - nextjs
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

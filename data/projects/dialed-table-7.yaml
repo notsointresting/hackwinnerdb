@@ -15,10 +15,12 @@ technologies:
   - elevenlabs
   - fastapi
   - javascript
+  - pydantic
   - python
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Matthew Kim
   - name: Nathan Kim

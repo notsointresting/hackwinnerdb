@@ -17,6 +17,8 @@ technologies:
   - claude
   - fastapi
   - gemini
+  - mcp
+  - nextjs
   - python
   - solana
 builders:

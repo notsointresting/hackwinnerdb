@@ -17,6 +17,7 @@ technologies:
   - firebase
   - gemini
   - google-maps
+  - nodejs
   - react
   - typescript
 builders:

@@ -15,6 +15,7 @@ technologies:
   - docker
   - react
   - typescript
+  - vite
 builders:
   - name: Walter Briones
   - name: Justin Silva

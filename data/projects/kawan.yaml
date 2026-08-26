@@ -23,6 +23,7 @@ technologies:
   - supabase
   - typescript
   - vercel
+  - vite
 builders:
   - name: Hee Zi Jie
   - name: 咕噜 咕噜··

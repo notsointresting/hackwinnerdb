@@ -19,6 +19,8 @@ technologies:
   - fastapi
   - gemini
   - hugging-face
+  - mcp
+  - nextjs
   - python
   - sqlite
   - typescript

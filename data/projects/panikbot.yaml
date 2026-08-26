@@ -13,7 +13,8 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - education
   - iot
-technologies: []
+technologies:
+  - pydantic
 builders:
   - name: Krishiv Agrawal
   - name: M. Amen Ehsan

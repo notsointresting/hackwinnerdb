@@ -17,6 +17,7 @@ technologies:
   - claude
   - nextjs
   - supabase
+  - three-js
 builders:
   - name: Clarissa Saputra
   - name: Alex Bonev

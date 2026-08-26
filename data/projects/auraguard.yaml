@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
 technologies:
   - fastapi
+  - nextjs
   - postgresql
   - python
   - react

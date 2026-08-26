@@ -21,6 +21,7 @@ technologies:
   - sqlite
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Emanuel Gonzalez
   - name: Kevin C

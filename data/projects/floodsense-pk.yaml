@@ -25,7 +25,9 @@ technologies:
   - pytorch
   - react
   - streamlit
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Hamza Sajid
   - name: Ahmed Yar

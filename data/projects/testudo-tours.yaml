@@ -15,6 +15,7 @@ categories:
   - education
   - ar-vr
 technologies:
+  - chrome
   - flask
   - javascript
   - python

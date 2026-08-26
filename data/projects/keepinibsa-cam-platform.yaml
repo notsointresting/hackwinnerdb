@@ -23,6 +23,7 @@ technologies:
   - react
   - sqlite
   - typescript
+  - vite
 builders:
   - name: Erik Batiste
   - name: Ernest Rull Turigas

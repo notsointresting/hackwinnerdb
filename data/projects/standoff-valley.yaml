@@ -16,7 +16,9 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - nodejs
   - python
+  - uvicorn
 builders:
   - name: Aiden Ruiz
   - name: Jonathan Ameh

@@ -14,7 +14,8 @@ categories:
   - artificial-intelligence
   - healthcare
   - education
-technologies: []
+technologies:
+  - nextjs
 builders:
   - name: Sahasra Bobbala
   - name: Sanjana Gorantala

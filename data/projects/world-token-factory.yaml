@@ -16,6 +16,7 @@ categories:
   - iot
 technologies:
   - javascript
+  - pnpm
   - python
 builders:
   - name: Clovis Vinant-Tang

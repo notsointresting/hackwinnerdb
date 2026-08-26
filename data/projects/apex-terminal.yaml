@@ -15,9 +15,13 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - playwright
+  - pytest
   - python
   - react
   - sqlite
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Aarav Jain

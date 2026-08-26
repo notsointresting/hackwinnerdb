@@ -16,6 +16,7 @@ categories:
   - infrastructure
 technologies:
   - docker
+  - hugging-face
   - postgresql
   - typescript
 builders:

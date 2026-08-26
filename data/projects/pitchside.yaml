@@ -13,8 +13,11 @@ categories:
   - education
   - creative-tools
 technologies:
+  - c
+  - nextjs
   - python
   - react
+  - three-js
   - typescript
 builders:
   - name: Aman Shah

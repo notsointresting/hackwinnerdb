@@ -17,6 +17,7 @@ categories:
   - blockchain
 technologies:
   - javascript
+  - nextjs
   - typescript
 builders:
   - name: Vishal Kumar

@@ -17,6 +17,7 @@ categories:
 technologies:
   - react
   - supabase
+  - vite
 builders:
   - name: Stanislaus Alva Jufinto
   - name: Darrell Richie

@@ -14,10 +14,13 @@ categories:
   - social-impact
 technologies:
   - gemini
+  - nextjs
   - postgresql
   - react
   - supabase
+  - three-js
   - typescript
+  - zustand
 builders:
   - name: Rishi  Vinodkumar
   - name: Joshua Wu

@@ -19,6 +19,7 @@ technologies:
   - react
   - sqlite
   - typescript
+  - vitest
 builders:
   - name: xin he
   - name: Bob Lee

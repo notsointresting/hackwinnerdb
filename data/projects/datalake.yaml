@@ -15,13 +15,19 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - pydantic
+  - pytest
   - python
   - react
+  - ruff
   - sql
   - sqlite
   - streamlit
   - tailwind-css
+  - tiktoken
+  - typer
   - typescript
+  - vite
 builders:
   - name: Nam Nguyen
   - name: eli Saliman

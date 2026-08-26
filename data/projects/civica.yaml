@@ -18,6 +18,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Shlok-Ippala Ippala
   - name: Aadi Chauhan

@@ -17,9 +17,12 @@ technologies:
   - anthropic
   - claude
   - javascript
+  - nextjs
+  - nodejs
   - postgresql
   - react
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Roger Bavibidila

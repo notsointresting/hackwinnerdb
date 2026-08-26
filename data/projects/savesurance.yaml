@@ -23,6 +23,7 @@ technologies:
   - redis
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Praniil Nagaraj
   - name: Ayush Madhav Kumar

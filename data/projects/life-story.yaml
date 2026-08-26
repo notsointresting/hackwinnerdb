@@ -17,9 +17,11 @@ categories:
 technologies:
   - elevenlabs
   - figma
+  - mcp
   - nextjs
   - react
   - supabase
+  - tailwind-css
 builders:
   - name: Junheng Zheng
   - name: Justin Zhao

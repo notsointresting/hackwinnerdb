@@ -15,8 +15,10 @@ categories:
   - creative-tools
 technologies:
   - gemini
+  - nextjs
   - sqlite
   - typescript
+  - zustand
 builders:
   - name: Gael de Jesús Posada Hernández
   - name: Gael Vivas

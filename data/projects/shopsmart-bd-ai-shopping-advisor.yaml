@@ -18,7 +18,9 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: sifat e rabbi

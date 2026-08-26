@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
   - python
 builders:
   - name: Eric Li

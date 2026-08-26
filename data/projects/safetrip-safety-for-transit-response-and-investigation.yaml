@@ -17,8 +17,10 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - opencv
   - postgresql
+  - pydantic
   - python
   - typescript
   - vercel

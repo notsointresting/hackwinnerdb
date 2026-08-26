@@ -14,8 +14,11 @@ categories:
   - education
   - social-impact
 technologies:
+  - c
   - c-plus-plus
   - javascript
+  - nextjs
+  - nodejs
   - python
   - typescript
 builders:

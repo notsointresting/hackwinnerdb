@@ -15,6 +15,7 @@ categories:
   - education
   - productivity
 technologies:
+  - fastapi
   - javascript
   - python
   - sqlite

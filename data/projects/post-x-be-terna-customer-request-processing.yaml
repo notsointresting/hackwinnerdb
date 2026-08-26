@@ -16,6 +16,7 @@ categories:
   - education
   - robotics
 technologies:
+  - codex
   - javascript
 builders:
   - name: Patrick Wirth

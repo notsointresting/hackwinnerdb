@@ -15,5 +15,6 @@ categories:
 technologies:
   - firebase
   - javascript
+  - nodejs
   - react
 builders: []

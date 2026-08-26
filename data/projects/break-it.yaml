@@ -19,6 +19,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Ojasvi Tewari
   - name: Brian Ngan

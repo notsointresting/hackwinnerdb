@@ -1,0 +1,16 @@
+id: mechanica-a-digital-museum-of-ancient-chinese-machines-openai-build-week
+project_id: mechanica-a-digital-museum-of-ancient-chinese-machines
+hackathon_id: openai-build-week
+submission_url: https://devpost.com/software/xiaoqiang
+source:
+  platform: devpost
+  url: https://devpost.com/software/xiaoqiang
+awards:
+  - type: first-place
+    title: 1st Place | Education
+    track: Education
+verification:
+  status: unverified
+  checked_at: 2026-08-26
+  notes: Imported from the Devpost winner gallery. A maintainer must confirm the source before this is
+    marked verified.

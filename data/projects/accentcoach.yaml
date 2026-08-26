@@ -16,5 +16,7 @@ categories:
 technologies:
   - javascript
   - nextjs
+  - nodejs
+  - vite
 builders:
   - name: Jon Peciña

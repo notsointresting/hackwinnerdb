@@ -253,3 +253,108 @@
 - slug: chrome-extension
   name: "Chrome Extension"
   type: platform
+- slug: c
+  name: "C"
+  type: language
+- slug: powershell
+  name: "PowerShell"
+  type: language
+- slug: codex
+  name: "OpenAI Codex"
+  type: ai-platform
+- slug: chatgpt
+  name: "ChatGPT"
+  type: ai-platform
+- slug: gpt-5
+  name: "GPT-5"
+  type: ai-model
+- slug: gpt-image
+  name: "GPT Image"
+  type: ai-model
+- slug: mcp
+  name: "Model Context Protocol"
+  type: tool
+- slug: openai-api
+  name: "OpenAI API"
+  type: api
+- slug: responses-api
+  name: "OpenAI Responses API"
+  type: api
+- slug: tiktoken
+  name: "tiktoken"
+  type: tool
+- slug: playwright
+  name: "Playwright"
+  type: tool
+- slug: vitest
+  name: "Vitest"
+  type: tool
+- slug: pytest
+  name: "pytest"
+  type: tool
+- slug: mypy
+  name: "mypy"
+  type: tool
+- slug: ruff
+  name: "Ruff"
+  type: tool
+- slug: semgrep
+  name: "Semgrep"
+  type: tool
+- slug: uv
+  name: "uv"
+  type: tool
+- slug: uvicorn
+  name: "Uvicorn"
+  type: tool
+- slug: vite
+  name: "Vite"
+  type: tool
+- slug: pnpm
+  name: "pnpm"
+  type: tool
+- slug: github-actions
+  name: "GitHub Actions"
+  type: tool
+- slug: pydantic
+  name: "Pydantic"
+  type: framework
+- slug: typer
+  name: "Typer"
+  type: framework
+- slug: zustand
+  name: "Zustand"
+  type: framework
+- slug: i18next
+  name: "i18next"
+  type: framework
+- slug: three-js
+  name: "Three.js"
+  type: framework
+- slug: react-three-fiber
+  name: "React Three Fiber"
+  type: framework
+- slug: webgl
+  name: "WebGL"
+  type: framework
+- slug: web-audio-api
+  name: "Web Audio API"
+  type: api
+- slug: web-workers
+  name: "Web Workers"
+  type: api
+- slug: progressive-web-app
+  name: "Progressive Web App"
+  type: platform
+- slug: windows
+  name: "Windows"
+  type: platform
+- slug: chrome
+  name: "Google Chrome"
+  type: platform
+- slug: apple-tv
+  name: "Apple TV"
+  type: hardware
+- slug: netlify
+  name: "Netlify"
+  type: cloud

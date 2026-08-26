@@ -15,6 +15,7 @@ technologies:
   - gemini
   - javascript
   - react
+  - zustand
 builders:
   - name: Ananya Sharma
   - name: JAYSHREE CHOUHAN

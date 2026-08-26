@@ -17,6 +17,9 @@ categories:
 technologies:
   - javascript
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
+  - vite
 builders:
   - name: Mohd Altamish

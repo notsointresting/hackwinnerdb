@@ -15,8 +15,10 @@ categories:
   - creative-tools
 technologies:
   - c-plus-plus
+  - fastapi
   - python
   - react
+  - uvicorn
 builders:
   - name: Chayan Manchanda
   - name: Gauri Nair

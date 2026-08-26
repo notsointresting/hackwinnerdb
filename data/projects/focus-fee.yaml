@@ -14,8 +14,10 @@ categories:
   - productivity
   - blockchain
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: George Friedl
   - name: Tyson Small

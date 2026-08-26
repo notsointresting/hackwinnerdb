@@ -16,8 +16,10 @@ categories:
 technologies:
   - docker
   - fastapi
+  - hugging-face
   - javascript
   - opencv
+  - pydantic
   - python
   - vercel
 builders:

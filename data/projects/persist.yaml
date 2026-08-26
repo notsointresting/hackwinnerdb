@@ -18,5 +18,6 @@ technologies:
   - sqlite
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Patrick Wang

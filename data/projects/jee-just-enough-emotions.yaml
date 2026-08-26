@@ -17,6 +17,7 @@ technologies:
   - javascript
   - react
   - typescript
+  - vite
 builders:
   - name: Asma Ahmed
   - name: Joseph Jatou

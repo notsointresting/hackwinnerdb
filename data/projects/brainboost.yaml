@@ -16,6 +16,7 @@ technologies:
   - postgresql
   - react
   - supabase
+  - web-audio-api
 builders:
   - name: Himnish Chhabra
   - name: Shilin Chhabra

@@ -18,6 +18,14 @@ technologies:
   - claude
   - figma
   - gemini
+  - javascript
+  - nodejs
+  - openai
+  - postgresql
+  - react
+  - supabase
+  - typescript
+  - vercel
 builders:
   - name: Jonah Matthew Santoso
   - name: Muhammad Fadhil Adheesha Zharif

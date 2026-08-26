@@ -15,6 +15,7 @@ categories:
   - education
   - iot
 technologies:
+  - pytest
   - python
 builders:
   - name: brandontautuan Tautaun

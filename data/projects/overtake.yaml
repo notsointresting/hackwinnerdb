@@ -19,7 +19,9 @@ technologies:
   - anthropic
   - firebase
   - javascript
+  - nodejs
   - react
+  - vite
 builders:
   - name: amayum Khalid
   - name: Boshra c

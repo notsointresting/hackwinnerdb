@@ -18,8 +18,10 @@ technologies:
   - fastapi
   - javascript
   - opencv
+  - pydantic
   - python
   - react
+  - vite
 builders:
   - name: Aditya Singh
   - name: Sumedh Aerram

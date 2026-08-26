@@ -15,6 +15,7 @@ categories:
   - healthcare
   - social-impact
 technologies:
+  - nextjs
   - react
   - supabase
   - typescript

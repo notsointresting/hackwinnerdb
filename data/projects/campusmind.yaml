@@ -17,7 +17,9 @@ technologies:
   - firebase
   - gemini
   - google-cloud
+  - nextjs
   - react
+  - tailwind-css
 builders:
   - name: fearlessalan Alain
   - name: trela Sbbt

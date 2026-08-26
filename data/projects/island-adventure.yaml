@@ -16,7 +16,10 @@ technologies:
   - nextjs
   - react
   - solana
+  - three-js
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Nischay Rawal
   - name: Emma Roy

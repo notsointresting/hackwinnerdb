@@ -20,9 +20,14 @@ technologies:
   - claude
   - cloudflare
   - fastapi
+  - pytest
   - python
   - react
   - redis
+  - ruff
+  - tailwind-css
+  - uvicorn
+  - vite
 builders:
   - name: Yun Ting Su
   - name: Boru Chen, MS in CS, Northeastern University

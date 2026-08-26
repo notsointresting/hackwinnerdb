@@ -19,10 +19,12 @@ technologies:
   - elevenlabs
   - mongodb
   - nextjs
+  - nodejs
   - opencv
   - python
   - raspberry-pi
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Luis Lazo

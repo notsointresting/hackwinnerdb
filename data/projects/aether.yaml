@@ -16,8 +16,15 @@ categories:
 technologies:
   - esp32
   - fastapi
+  - playwright
   - python
+  - react
   - sqlite
+  - tailwind-css
+  - three-js
+  - typescript
+  - vite
+  - zustand
 builders:
   - name: Gali Polyak
   - name: Yair Korok

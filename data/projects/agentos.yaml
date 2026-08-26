@@ -21,6 +21,7 @@ technologies:
   - python
   - react
   - supabase
+  - vite
 builders:
   - name: Kevin Dong
   - name: Michael Wang

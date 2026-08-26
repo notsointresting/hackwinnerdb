@@ -105,13 +105,72 @@ export function parseProject(html: string): ProjectDetail {
 }
 
 /** Maps a Devpost "built with" tag onto a canonical slug, or reports it as unknown. */
+/**
+ * Hyphenation is the only difference in a lot of Devpost tags, so "node-js" and
+ * "next-js" were being reported as unknown while `nodejs` and `nextjs` sat in
+ * the taxonomy. Compare with the separators removed before giving up on a tag.
+ */
+function resolveSlug(slug: string, known: Set<string>, collapsed: Map<string, string>) {
+  if (known.has(slug)) return slug;
+  return collapsed.get(slug.replace(/-/g, "")) ?? null;
+}
+
 export function mapTechnologies(tags: string[], known: Set<string>) {
+  const collapsed = new Map([...known].map((slug) => [slug.replace(/-/g, ""), slug]));
   const mapped: string[] = [];
   const unknown: string[] = [];
   for (const tag of tags) {
     const slug = slugify(tag);
-    if (known.has(slug)) mapped.push(slug);
+    const resolved = resolveSlug(slug, known, collapsed);
+    if (resolved) mapped.push(resolved);
     else unknown.push(slug);
   }
   return { mapped: [...new Set(mapped)], unknown: [...new Set(unknown)] };
+}
+
+export interface HackathonDetail {
+  startDate: string | null;
+  endDate: string | null;
+  year: number | null;
+  mode: "online" | "in-person" | "hybrid" | null;
+  participantCount: number | null;
+  prizePool: number | null;
+  currency: string | null;
+}
+
+/**
+ * Parses a Devpost event homepage for the facts the gallery does not carry.
+ *
+ * Dates are the reason this exists: without them every imported hackathon fell
+ * back to a placeholder year, so nothing could be sorted or filtered by date.
+ */
+export function parseHackathon(html: string): HackathonDetail {
+  const iso = (raw: string | undefined) =>
+    raw && /^\d{4}-\d{2}-\d{2}/.test(raw) ? raw.slice(0, 10) : null;
+
+  const startDate = iso(html.match(/"startDate"\s*:\s*"([^"]+)"/)?.[1]);
+  const endDate = iso(html.match(/"endDate"\s*:\s*"([^"]+)"/)?.[1]);
+
+  const participantsRaw = html.match(/Participants\s*\((\d[\d,]*)\)/i)?.[1];
+  const prizeRaw = html.match(/\$([\d,]+)\s*in prizes/i)?.[1];
+
+  const modeRaw = html.match(/\b(online|in[- ]person|hybrid)\b/i)?.[1]?.toLowerCase();
+  const mode =
+    modeRaw === "online"
+      ? "online"
+      : modeRaw === "hybrid"
+        ? "hybrid"
+        : modeRaw
+          ? "in-person"
+          : null;
+
+  return {
+    startDate,
+    endDate,
+    year: startDate ? Number(startDate.slice(0, 4)) : null,
+    mode,
+    participantCount: participantsRaw ? Number(participantsRaw.replace(/,/g, "")) : null,
+    prizePool: prizeRaw ? Number(prizeRaw.replace(/,/g, "")) : null,
+    currency: prizeRaw ? "USD" : null,
+  };
 }

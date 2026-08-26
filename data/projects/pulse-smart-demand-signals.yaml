@@ -18,8 +18,11 @@ technologies:
   - docker
   - elevenlabs
   - fastapi
+  - github-actions
+  - nextjs
   - postgresql
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

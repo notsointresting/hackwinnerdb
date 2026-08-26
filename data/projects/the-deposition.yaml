@@ -17,8 +17,12 @@ technologies:
   - gemini
   - google-ai-studio
   - javascript
+  - nextjs
+  - nodejs
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - webgl
 builders:
   - name: Md. Abidur Rahman Asif

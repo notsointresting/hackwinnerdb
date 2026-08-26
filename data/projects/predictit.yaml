@@ -15,6 +15,7 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
   - swift
   - webrtc
 builders:

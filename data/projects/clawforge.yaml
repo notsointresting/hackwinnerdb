@@ -16,9 +16,11 @@ categories:
   - robotics
 technologies:
   - cloudflare
+  - nodejs
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Paras Gandhi
   - name: animesh Alang

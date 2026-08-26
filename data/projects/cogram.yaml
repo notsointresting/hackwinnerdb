@@ -17,5 +17,6 @@ categories:
   - social-impact
 technologies:
   - python
+  - tiktoken
 builders:
   - name: cora zeng

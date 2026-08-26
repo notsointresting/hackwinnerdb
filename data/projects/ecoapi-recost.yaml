@@ -16,6 +16,7 @@ categories:
   - sustainability
 technologies:
   - cloudflare
+  - openai-api
   - react
   - sqlite
   - tailwind-css

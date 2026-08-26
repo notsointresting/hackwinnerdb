@@ -24,5 +24,7 @@ technologies:
   - postgresql
   - react
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Fardin Jahangir

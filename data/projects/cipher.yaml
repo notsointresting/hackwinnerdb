@@ -13,6 +13,7 @@ categories:
   - other
 technologies:
   - gemini
+  - nextjs
 builders:
   - name: Samanyu Mahadevan
   - name: Aadi Shukla

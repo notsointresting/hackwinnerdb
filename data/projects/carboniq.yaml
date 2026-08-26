@@ -14,6 +14,8 @@ categories:
   - healthcare
   - education
 technologies:
+  - groq
+  - javascript
   - mongodb
   - openai
   - python

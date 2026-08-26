@@ -16,5 +16,6 @@ technologies:
   - fastapi
   - python
   - supabase
+  - vite
 builders:
   - name: Muhammad Hamza

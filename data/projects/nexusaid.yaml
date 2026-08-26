@@ -17,6 +17,7 @@ categories:
 technologies:
   - javascript
   - nextjs
+  - nodejs
 builders:
   - name: Bhumika Gupta
   - name: Tej Gumaste

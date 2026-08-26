@@ -15,7 +15,10 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nextjs
   - react
+  - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Akshat Bijalwan

@@ -15,6 +15,7 @@
   <a href="CONTRIBUTING.md">Contributing</a> ·
   <a href="DATA_GUIDELINES.md">Data schema</a> ·
   <a href="#-dataset">Dataset</a> ·
+  <a href="#-model-context-protocol-mcp">MCP</a> ·
   <a href="#-local-development">Development</a>
 </p>
 
@@ -92,6 +93,53 @@ Regenerated from `data/` on every build, into `public/dataset/`:
 Data license: **CC BY 4.0** ([DATA_LICENSE.md](DATA_LICENSE.md)) · Code license: **MIT**
 ([LICENSE](LICENSE)). Never edit `public/dataset/` by hand — it is generated.
 
+## 🔌 Model Context Protocol (MCP)
+
+The database is queryable by AI coding tools and agents over MCP, so an assistant can
+look up prior art without leaving the editor. The endpoint is read-only, needs no key,
+and is free.
+
+Endpoint: `https://hackwinnerdb.netlify.app/api/mcp` (streamable HTTP)
+
+Add it to Claude Code:
+
+```bash
+claude mcp add --transport http hackwinnerdb https://hackwinnerdb.netlify.app/api/mcp
+```
+
+Or add it to any client that reads an `mcpServers` config (Cursor, Windsurf, VS Code):
+
+```json
+{
+  "mcpServers": {
+    "hackwinnerdb": {
+      "type": "http",
+      "url": "https://hackwinnerdb.netlify.app/api/mcp"
+    }
+  }
+}
+```
+
+| Tool | What it does |
+| --- | --- |
+| `search_winners` | search winners by text, category, technology, year, or award |
+| `get_project` | one project, its full summary, and every award it has won |
+| `get_hackathon` | one event, its dates and scale, and its full winner list |
+| `list_facets` | the valid filter slugs, plus dataset totals |
+| `how_to_cite` | the required credit line in plain text, Markdown, HTML, and BibTeX |
+
+### Attribution
+
+The dataset is **CC BY 4.0**, so credit is a licence term rather than a courtesy, and the
+server is built so an agent cannot miss it. The requirement is stated in the instructions
+the client reads on connect, and every single tool result carries an `attribution` block
+with the exact line to reproduce:
+
+> Data from HackWinnerDB (https://hackwinnerdb.netlify.app), licensed CC BY 4.0.
+
+Every record also carries its own page `url` and the `source_url` of the original
+submission, so an assistant can link the record instead of presenting the facts as its own.
+
 ## 🗂 Repository structure
 
 ```
@@ -103,8 +151,10 @@ data/
   sources.yaml         accepted source platforms
 src/
   app/                 Next.js App Router routes
+  app/api/mcp/         Model Context Protocol endpoint (JSON-RPC over HTTP)
   components/          UI components
   lib/                 repository, search, queries, helpers
+  lib/mcp/             MCP tool definitions and the CC BY attribution they carry
   schemas/             Zod schemas — the contract for all data
 scripts/
   add-winner.ts        interactive contribution CLI
@@ -178,6 +228,9 @@ Contributor -> Pull request -> CI validation -> Maintainer review -> merge to ma
                                                                  Production website
 ```
 
+The MCP endpoint (`src/app/api/mcp/route.ts`) is a third consumer of the same seams, so agents and
+the website read identical data with no separate pipeline.
+
 Git stays canonical. The UI talks to two seams — `DataRepository` (`src/lib/load-dataset.ts`) and
 `SearchProvider` (`src/lib/search.ts`) — so a Postgres or Meilisearch mirror can be added later
 without rewriting a single component.
@@ -193,6 +246,8 @@ deploys `main` to production automatically.
 - [ ] Broaden coverage beyond the seed corpus — more platforms, regions, and years
 - [ ] Richer hackathon metadata (tracks, sponsors, judges) where sources exist
 - [ ] Maintainer script that converts an add-winner issue into YAML
+- [x] MCP endpoint so AI coding tools can query the database directly
+- [x] Serve the MCP endpoint from the prebuilt dataset JSON to cut its cold start
 - [ ] Optional Postgres/Meilisearch mirror behind the existing interfaces
 - [ ] Assisted (never fully automatic) import tooling once the schema has proven itself
 

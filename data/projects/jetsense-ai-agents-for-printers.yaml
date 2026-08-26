@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - flask
+  - nextjs
   - python
   - pytorch
   - react

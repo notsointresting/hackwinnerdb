@@ -16,6 +16,7 @@ categories:
   - iot
 technologies:
   - fastapi
+  - nextjs
   - python
 builders:
   - name: Charlie Gillet

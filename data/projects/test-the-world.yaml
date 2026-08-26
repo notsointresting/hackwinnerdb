@@ -16,6 +16,10 @@ categories:
   - productivity
 technologies:
   - javascript
+  - nodejs
   - react
+  - tailwind-css
+  - three-js
+  - vite
 builders:
   - name: Priyanka Gogoi

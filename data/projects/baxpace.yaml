@@ -12,9 +12,12 @@ image_url: null
 categories:
   - other
 technologies:
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vitest
+  - zustand
 builders:
   - name: Lasmar Khalifa
   - name: Richard Gajda

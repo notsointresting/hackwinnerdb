@@ -16,7 +16,10 @@ categories:
   - media
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
+  - vite
 builders:
   - name: Nicholas Tchakov
   - name: Victor Asensio Bermudez

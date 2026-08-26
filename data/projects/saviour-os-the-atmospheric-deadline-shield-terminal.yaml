@@ -18,8 +18,10 @@ categories:
 technologies:
   - firebase
   - google-ai-studio
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Manish Kumar

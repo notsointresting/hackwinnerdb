@@ -16,7 +16,9 @@ categories:
   - education
 technologies:
   - claude
+  - netlify
   - react
   - supabase
+  - vite
 builders:
   - name: Julianne Baker

@@ -16,6 +16,7 @@ technologies:
   - gemini
   - react
   - typescript
+  - vite
 builders:
   - name: Ryan Xie
   - name: Mike Bui

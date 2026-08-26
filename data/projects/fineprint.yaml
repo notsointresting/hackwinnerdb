@@ -16,6 +16,7 @@ categories:
   - cybersecurity
 technologies:
   - gemini
+  - nextjs
   - react
   - vercel
 builders:

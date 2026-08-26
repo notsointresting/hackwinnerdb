@@ -15,6 +15,7 @@ categories:
   - enterprise
 technologies:
   - fastapi
+  - nextjs
   - react
   - rust
 builders:

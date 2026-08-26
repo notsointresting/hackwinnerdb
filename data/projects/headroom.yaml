@@ -17,7 +17,9 @@ categories:
   - productivity
 technologies:
   - fastapi
+  - pytest
   - python
   - sqlite
+  - uvicorn
 builders:
   - name: shivang shirodkar

@@ -18,6 +18,7 @@ technologies:
   - firebase
   - gemini
   - javascript
+  - three-js
 builders:
   - name: May Aung
   - name: KB Sedghinasab

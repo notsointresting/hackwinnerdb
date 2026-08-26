@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
 technologies:
   - gemini
+  - nextjs
   - supabase
   - typescript
   - vercel

@@ -17,6 +17,7 @@ technologies:
   - javascript
   - nextjs
   - supabase
+  - tailwind-css
 builders:
   - name: Zi Jun
   - name: BowenX307 xiao

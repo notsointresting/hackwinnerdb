@@ -16,10 +16,16 @@ categories:
 technologies:
   - fastapi
   - mongodb
+  - nextjs
+  - playwright
+  - pydantic
+  - pytest
   - python
   - react
   - tailwind-css
   - typescript
+  - vitest
+  - zustand
 builders:
   - name: Rohan Gottipati
   - name: Krish Bhoopati

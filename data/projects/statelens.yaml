@@ -16,6 +16,8 @@ categories:
   - cybersecurity
 technologies:
   - claude
+  - nodejs
+  - playwright
   - typescript
 builders:
   - name: Ruotian Wang

@@ -15,7 +15,9 @@ categories:
   - education
 technologies:
   - gemini
+  - nodejs
   - typescript
+  - vite
 builders:
   - name: Aaron T06
   - name: Jacky Yu

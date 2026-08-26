@@ -17,8 +17,10 @@ technologies:
   - fastapi
   - gemini
   - openai
+  - pydantic
   - python
   - react
+  - vite
 builders:
   - name: KrishPatelShah Patel-Shah
   - name: Mohammad Al Masalmeh

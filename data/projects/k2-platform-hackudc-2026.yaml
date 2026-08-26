@@ -14,6 +14,7 @@ categories:
 technologies:
   - docker
   - javascript
+  - nodejs
   - sqlite
   - tailwind-css
 builders:

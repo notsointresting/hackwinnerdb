@@ -19,6 +19,7 @@ technologies:
   - gemini
   - groq
   - llama
+  - nextjs
   - postgresql
   - python
   - typescript

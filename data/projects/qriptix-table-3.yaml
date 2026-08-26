@@ -15,6 +15,7 @@ categories:
   - accessibility
 technologies:
   - javascript
+  - nodejs
   - postgresql
 builders:
   - name: Aarush Sharma

@@ -19,8 +19,12 @@ technologies:
   - docker
   - groq
   - mongodb
+  - nextjs
+  - nodejs
   - python
   - react
+  - tailwind-css
   - typescript
+  - vitest
 builders:
   - name: Huzaifa .

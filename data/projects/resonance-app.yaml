@@ -17,6 +17,7 @@ technologies:
   - python
   - react
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Hayden Rivas

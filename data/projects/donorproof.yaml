@@ -16,5 +16,6 @@ categories:
 technologies:
   - react
   - typescript
+  - vite
 builders:
   - name: udaymanhas9 Singh

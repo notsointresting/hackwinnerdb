@@ -22,6 +22,7 @@ technologies:
   - react
   - sql
   - supabase
+  - vite
 builders:
   - name: Suhas Puttoju
   - name: Rishabh Bedidha

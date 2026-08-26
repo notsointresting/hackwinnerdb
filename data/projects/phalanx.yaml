@@ -16,6 +16,7 @@ categories:
   - education
   - iot
 technologies:
+  - nextjs
   - postgresql
   - redis
   - tailwind-css

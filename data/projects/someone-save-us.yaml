@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - python
+  - three-js
   - typescript
 builders:
   - name: Aman Anwar

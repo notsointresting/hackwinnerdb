@@ -19,6 +19,7 @@ technologies:
   - gemini
   - nextjs
   - openai
+  - tailwind-css
   - typescript
 builders:
   - name: Abdulmalik Abdulrosheed

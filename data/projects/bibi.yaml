@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
   - cybersecurity
 technologies:
+  - nextjs
   - supabase
   - twilio
   - vercel

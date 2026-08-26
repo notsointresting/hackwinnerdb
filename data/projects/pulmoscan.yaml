@@ -16,6 +16,7 @@ technologies:
   - python
   - pytorch
   - react
+  - three-js
   - typescript
 builders:
   - name: Daksh Agrawal

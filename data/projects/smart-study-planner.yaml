@@ -15,7 +15,8 @@ categories:
   - artificial-intelligence
   - education
   - productivity
-technologies: []
+technologies:
+  - chatgpt
 builders:
   - name: Will Elveus
   - name: Mohamed Amine

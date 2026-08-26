@@ -17,5 +17,6 @@ technologies:
   - gemini
   - react
   - tailwind-css
+  - vite
 builders:
   - name: Deepanshu .

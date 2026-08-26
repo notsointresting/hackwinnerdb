@@ -16,8 +16,10 @@ categories:
 technologies:
   - gemini
   - mongodb
+  - nodejs
   - python
   - react
+  - vite
 builders:
   - name: Belal Ezat
   - name: Yassin Abdalla

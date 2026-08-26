@@ -12,6 +12,7 @@ video_url: https://www.youtube.com/embed/8UUedzPGFIU
 image_url: null
 categories:
   - gaming
-technologies: []
+technologies:
+  - webgl
 builders:
   - name: Long Do

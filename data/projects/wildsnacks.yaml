@@ -17,7 +17,9 @@ technologies:
   - python
   - react
   - supabase
+  - three-js
   - vercel
+  - vite
 builders:
   - name: Jasmine Meyer
   - name: Gustavo Mercier

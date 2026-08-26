@@ -14,6 +14,8 @@ categories:
   - education
   - ar-vr
 technologies:
+  - c
+  - meta-quest
   - unity
 builders:
   - name: Nathanael Martin

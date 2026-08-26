@@ -14,10 +14,14 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
   - typescript
   - vercel
+  - vite
 builders:
   - name: Srijayan Pallerla
   - name: Svarna Shukla

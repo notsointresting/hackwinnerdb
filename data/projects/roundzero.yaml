@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - github-actions
   - python
   - react
   - typescript

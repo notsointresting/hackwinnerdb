@@ -17,6 +17,7 @@ technologies:
   - javascript
   - mongodb
   - react
+  - vite
 builders:
   - name: Soichiro Oyama-Bacon
   - name: Katie Holroyd

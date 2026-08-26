@@ -17,6 +17,9 @@ categories:
 technologies:
   - anthropic
   - claude
+  - github-actions
+  - nodejs
+  - playwright
   - react
   - typescript
 builders:

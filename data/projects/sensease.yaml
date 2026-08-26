@@ -15,8 +15,10 @@ categories:
   - climate
 technologies:
   - javascript
+  - nodejs
   - postgresql
   - react
   - supabase
+  - vite
 builders:
   - name: Sarthak Khare

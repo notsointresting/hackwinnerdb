@@ -16,11 +16,13 @@ categories:
 technologies:
   - azure
   - javascript
+  - nodejs
   - postgresql
   - react
   - redis
   - sql
   - typescript
   - vercel
+  - vite
 builders:
   - name: Joydip Datta

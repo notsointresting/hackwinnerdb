@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - c
   - python
 builders:
   - name: "[Insert name here]"

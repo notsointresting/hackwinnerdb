@@ -15,8 +15,10 @@ categories:
   - healthcare
   - education
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Pablo Avila
   - name: Sophia Valdezco

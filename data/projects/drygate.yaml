@@ -17,6 +17,8 @@ categories:
 technologies:
   - docker
   - groq
+  - nextjs
+  - nodejs
   - postgresql
   - supabase
   - typescript

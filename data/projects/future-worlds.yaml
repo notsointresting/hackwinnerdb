@@ -17,6 +17,7 @@ categories:
 technologies:
   - javascript
   - react
+  - vite
 builders:
   - name: Sheel Shah
   - name: Xinnan Huang

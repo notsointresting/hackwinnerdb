@@ -13,6 +13,8 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nextjs
+  - pydantic
   - python
   - react
   - tailwind-css

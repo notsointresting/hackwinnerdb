@@ -20,5 +20,6 @@ technologies:
   - fastapi
   - javascript
   - pytorch
+  - uvicorn
 builders:
   - name: Diệp Thái Ngọc

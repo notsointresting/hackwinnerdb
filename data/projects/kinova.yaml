@@ -16,6 +16,7 @@ categories:
   - cybersecurity
 technologies:
   - javascript
+  - nextjs
   - typescript
 builders:
   - name: Ava Cheng

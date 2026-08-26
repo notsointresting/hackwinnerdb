@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - c-plus-plus
+  - nodejs
   - react
   - typescript
 builders:

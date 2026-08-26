@@ -13,7 +13,9 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - nodejs
   - vercel
+  - vite
 builders:
   - name: vshank-pedd Peddireddi
   - name: Aryav Tyagi

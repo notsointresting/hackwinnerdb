@@ -15,9 +15,15 @@ categories:
   - media
 technologies:
   - fastapi
+  - pydantic
+  - pytest
   - python
+  - react-three-fiber
   - sqlite
   - tailwind-css
+  - three-js
   - typescript
+  - vitest
+  - zustand
 builders:
   - name: Yash Bharvada

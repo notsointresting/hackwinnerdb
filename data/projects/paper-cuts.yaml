@@ -15,12 +15,14 @@ categories:
   - education
 technologies:
   - fastapi
+  - nodejs
   - openai
   - python
   - pytorch
   - react
   - redis
   - stable-diffusion
+  - vite
 builders:
   - name: Jeremy Liu
   - name: Caellum Yip Hoi - Lee

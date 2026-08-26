@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Aran Oliveras Sanchez
   - name: Mateo Jure

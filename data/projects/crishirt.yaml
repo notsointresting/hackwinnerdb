@@ -15,10 +15,12 @@ categories:
   - iot
 technologies:
   - javascript
+  - nodejs
   - react
   - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Tanush Shah
   - name: Bhargav Malluvajhula

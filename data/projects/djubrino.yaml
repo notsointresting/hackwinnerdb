@@ -15,8 +15,10 @@ categories:
   - education
 technologies:
   - arduino
+  - c
   - fastapi
   - mongodb
+  - nextjs
   - python
 builders:
   - name: Mihajlo Krunic

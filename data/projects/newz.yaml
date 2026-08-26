@@ -22,6 +22,7 @@ technologies:
   - python
   - typescript
   - vercel
+  - vite
 builders:
   - name: Liam Shalom
   - name: Roan Abraham Howard

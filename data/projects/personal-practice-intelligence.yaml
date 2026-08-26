@@ -16,10 +16,12 @@ categories:
   - education
   - social-impact
 technologies:
+  - c
   - javascript
   - openai
   - postgresql
   - supabase
+  - three-js
   - vercel
 builders:
   - name: Adib Zailan

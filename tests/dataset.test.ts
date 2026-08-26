@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { yamlRepository, computeStats } from "@/lib/load-dataset";
+import { yamlRepository, generatedRepository, computeStats } from "@/lib/load-dataset";
 import { filterWinners, paginate, sortWinners } from "@/lib/queries";
 import { searchWinners } from "@/lib/search";
 import { normalizeUrl, similarity, slugify } from "@/lib/utils";
@@ -93,5 +93,33 @@ describe("utils", () => {
 
   it("scores similar names highly", () => {
     expect(similarity("medsafe", "med-safe")).toBeGreaterThan(0.8);
+  });
+});
+
+describe("generatedRepository", () => {
+  // Falls back to YAML when the build artifact is absent, so this is a real
+  // comparison after `generate:data` and a trivially true one before it.
+  const generated = generatedRepository.getDataset();
+
+  it("produces the same collections as the YAML loader", () => {
+    expect(generated.hackathons.length).toBe(dataset.hackathons.length);
+    expect(generated.projects.length).toBe(dataset.projects.length);
+    expect(generated.entries.length).toBe(dataset.entries.length);
+    expect(generated.awardTypes.length).toBe(dataset.awardTypes.length);
+  });
+
+  it("joins and ranks winners identically", () => {
+    expect(generated.winners.length).toBe(dataset.winners.length);
+    expect(generated.winners.map((w) => w.entry.id)).toEqual(
+      dataset.winners.map((w) => w.entry.id),
+    );
+  });
+
+  it("resolves each winner to a real project and hackathon", () => {
+    for (const winner of generated.winners.slice(0, 50)) {
+      expect(winner.project.id).toBe(winner.entry.project_id);
+      expect(winner.hackathon.id).toBe(winner.entry.hackathon_id);
+      expect(winner.primaryAward).toBeDefined();
+    }
   });
 });

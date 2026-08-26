@@ -14,9 +14,12 @@ categories:
   - creative-tools
 technologies:
   - gemini
+  - nodejs
   - react
+  - three-js
   - typescript
   - vercel
+  - vite
 builders:
   - name: Sobhan Ranjbar
   - name: Abtin Zandi

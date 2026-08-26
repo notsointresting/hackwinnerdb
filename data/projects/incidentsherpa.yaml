@@ -15,6 +15,8 @@ categories:
   - education
 technologies:
   - fastapi
+  - nextjs
+  - nodejs
   - python
   - react
   - sql

@@ -16,6 +16,9 @@ technologies:
   - anthropic
   - claude
   - figma
+  - mcp
+  - nextjs
+  - nodejs
   - openai
   - postgresql
   - react

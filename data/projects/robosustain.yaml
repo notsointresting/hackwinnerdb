@@ -17,6 +17,7 @@ categories:
 technologies:
   - esp32
   - javascript
+  - progressive-web-app
   - vercel
 builders:
   - name: Rokia Saeed Elkalashy

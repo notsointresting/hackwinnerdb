@@ -17,6 +17,7 @@ technologies:
   - cloudflare
   - figma
   - flutter
+  - tailwind-css
 builders:
   - name: Evan Barreau
   - name: Anjelo Go

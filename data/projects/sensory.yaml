@@ -18,10 +18,12 @@ technologies:
   - elevenlabs
   - gemini
   - google-maps
+  - nextjs
   - react
   - tailwind-css
   - typescript
   - vercel
+  - web-audio-api
 builders:
   - name: Harshith Gujjeti
   - name: Hansika S

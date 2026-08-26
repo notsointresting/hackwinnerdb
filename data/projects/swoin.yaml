@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

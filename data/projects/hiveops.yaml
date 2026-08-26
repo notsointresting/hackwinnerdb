@@ -18,12 +18,17 @@ technologies:
   - anthropic
   - fastapi
   - gemini
+  - nodejs
+  - pydantic
   - python
   - react
   - sql
   - supabase
+  - tailwind-css
   - typescript
+  - uvicorn
   - vercel
+  - vite
 builders:
   - name: Sanjiv Sridhar
   - name: Aum Ghelani

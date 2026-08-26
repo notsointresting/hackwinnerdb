@@ -16,5 +16,6 @@ categories:
 technologies:
   - claude
   - python
+  - tailwind-css
 builders:
   - name: Arya RH

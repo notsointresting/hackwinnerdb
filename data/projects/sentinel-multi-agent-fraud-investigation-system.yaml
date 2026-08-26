@@ -16,6 +16,7 @@ categories:
   - healthcare
   - fintech
 technologies:
+  - nodejs
   - python
   - react
 builders:

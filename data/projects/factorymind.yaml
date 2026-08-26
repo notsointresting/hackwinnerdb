@@ -17,6 +17,7 @@ categories:
 technologies:
   - javascript
   - python
+  - three-js
 builders:
   - name: Dan Pham
   - name: Donovan Thomas

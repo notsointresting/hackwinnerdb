@@ -17,7 +17,9 @@ categories:
 technologies:
   - google-cloud
   - javascript
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Ishaan Singh

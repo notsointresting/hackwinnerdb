@@ -15,7 +15,8 @@ categories:
   - artificial-intelligence
   - healthcare
   - education
-technologies: []
+technologies:
+  - chrome-extension
 builders:
   - name: Yashvi Shah
   - name: Harshpreet Singh

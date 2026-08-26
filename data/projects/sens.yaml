@@ -16,9 +16,12 @@ categories:
   - robotics
 technologies:
   - javascript
+  - nextjs
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - web-audio-api
 builders:
   - name: Ahmed Jhulyam Corpus Venegas
   - name: santiago leyton

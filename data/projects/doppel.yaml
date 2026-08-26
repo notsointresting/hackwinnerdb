@@ -14,9 +14,14 @@ categories:
   - artificial-intelligence
 technologies:
   - hugging-face
+  - nextjs
+  - nodejs
+  - pnpm
   - python
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Seongbeen Park

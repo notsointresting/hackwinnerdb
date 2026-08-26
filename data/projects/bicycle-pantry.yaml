@@ -16,6 +16,7 @@ technologies:
   - react-native
   - supabase
   - typescript
+  - zustand
 builders:
   - name: gokul nambiar
   - name: Nancy Her

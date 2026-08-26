@@ -19,5 +19,6 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Tim Dries

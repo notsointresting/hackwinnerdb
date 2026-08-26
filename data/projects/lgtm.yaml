@@ -15,6 +15,7 @@ technologies:
   - gemini
   - google-cloud
   - mongodb
+  - nodejs
   - openai
   - react
 builders:

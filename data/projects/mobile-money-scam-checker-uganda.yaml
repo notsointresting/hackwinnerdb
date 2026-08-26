@@ -17,7 +17,9 @@ categories:
 technologies:
   - google-ai-studio
   - javascript
+  - nodejs
   - react
+  - vite
 builders:
   - name: Awany Jey Daniel
   - name: Joy Wabule

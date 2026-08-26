@@ -15,9 +15,11 @@ categories:
   - social-impact
 technologies:
   - arduino
+  - c
   - elevenlabs
   - python
   - react
+  - tailwind-css
 builders:
   - name: Carlos Catala
   - name: Michael Rusu

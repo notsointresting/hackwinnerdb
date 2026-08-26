@@ -18,6 +18,8 @@ technologies:
   - claude
   - fastapi
   - google-cloud
+  - mcp
+  - nextjs
   - python
   - redis
   - typescript

@@ -21,8 +21,10 @@ technologies:
   - hugging-face
   - python
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Andrew Boima
   - name: Dieudonne Ngum

@@ -15,8 +15,11 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
+  - openai-api
   - react
   - sqlite
   - tailwind-css
+  - vite
 builders:
   - name: Rumman Karim

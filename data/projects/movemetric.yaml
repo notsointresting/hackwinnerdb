@@ -17,6 +17,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Akhil Saokar
   - name: Yash Bhomkar

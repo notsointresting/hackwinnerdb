@@ -22,6 +22,7 @@ technologies:
   - sqlite
   - supabase
   - tailwind-css
+  - vite
 builders:
   - name: Sheikh Mazin
   - name: Awais Saeed

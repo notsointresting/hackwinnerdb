@@ -16,6 +16,8 @@ categories:
   - developer-tools
 technologies:
   - elevenlabs
+  - nextjs
+  - tailwind-css
   - vercel
 builders:
   - name: Lui Franz A. Lomugdang

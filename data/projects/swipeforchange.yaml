@@ -16,6 +16,8 @@ categories:
   - social-impact
 technologies:
   - mongodb
+  - nextjs
+  - nodejs
   - react
   - tailwind-css
   - typescript

@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - flask
   - gemini
+  - nodejs
   - python
   - yolo
 builders:

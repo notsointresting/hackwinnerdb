@@ -15,7 +15,9 @@ categories:
   - fintech
   - productivity
 technologies:
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Saksham Arora
   - name: Daksh Rustagi

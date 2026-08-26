@@ -15,6 +15,7 @@ categories:
   - education
   - iot
 technologies:
+  - nextjs
   - tailwind-css
   - typescript
 builders:

@@ -15,8 +15,10 @@ categories:
   - artificial-intelligence
   - cybersecurity
 technologies:
+  - openai-api
   - react
   - streamlit
+  - tailwind-css
   - typescript
 builders:
   - name: Senadi Hirupama  Wickramasingha Gunasekara

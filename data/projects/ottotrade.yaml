@@ -16,6 +16,7 @@ technologies:
   - javascript
   - react
   - supabase
+  - vite
 builders:
   - name: codingcassandra Morales
   - name: Gavin Blanchard

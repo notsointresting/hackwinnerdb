@@ -21,5 +21,6 @@ technologies:
   - gemini
   - python
   - typescript
+  - vite
 builders:
   - name: G. Thamarai Selvan

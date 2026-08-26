@@ -15,6 +15,7 @@ categories:
   - artificial-intelligence
   - education
   - social-impact
-technologies: []
+technologies:
+  - c
 builders:
   - name: Shreyash Wanjari

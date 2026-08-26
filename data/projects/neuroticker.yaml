@@ -17,6 +17,7 @@ technologies:
   - mapbox
   - supabase
   - typescript
+  - vite
 builders:
   - name: Yash Jadhav
   - name: Manas Shinde

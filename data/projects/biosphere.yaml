@@ -21,7 +21,9 @@ technologies:
   - opencv
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Aryav Tyagi
   - name: Laksh Jain

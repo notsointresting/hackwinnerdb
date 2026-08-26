@@ -14,5 +14,9 @@ categories:
 technologies:
   - react
   - supabase
+  - tailwind-css
+  - three-js
   - typescript
+  - vite
+  - zustand
 builders: []

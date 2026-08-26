@@ -15,9 +15,11 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nodejs
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: qihongw08 Wu
   - name: Harris Chen

@@ -19,6 +19,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
   - whisper
 builders:
   - name: Ka-ya-with-a-v Kavya

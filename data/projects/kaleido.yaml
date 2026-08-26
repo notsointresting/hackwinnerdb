@@ -14,5 +14,6 @@ categories:
   - education
   - social-impact
 technologies:
+  - chrome
   - javascript
 builders: []

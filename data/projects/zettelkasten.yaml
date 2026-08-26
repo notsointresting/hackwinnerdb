@@ -19,6 +19,8 @@ technologies:
   - openai
   - postgresql
   - react
+  - three-js
+  - webgl
 builders:
   - name: Vedant Bhatt
   - name: yashmshelar Shelar

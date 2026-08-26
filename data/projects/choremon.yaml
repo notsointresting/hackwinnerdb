@@ -16,9 +16,12 @@ categories:
   - education
   - fintech
 technologies:
+  - c
   - elevenlabs
+  - nextjs
   - react
   - tensorflow
+  - three-js
   - unity
   - vercel
 builders:

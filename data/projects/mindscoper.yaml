@@ -17,6 +17,7 @@ categories:
   - education
 technologies:
   - gemini
+  - nextjs
   - react
   - typescript
 builders:

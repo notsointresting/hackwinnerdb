@@ -16,5 +16,6 @@ technologies:
   - nextjs
   - react
   - typescript
+  - zustand
 builders:
   - name: Kachan Artem

@@ -16,6 +16,7 @@ categories:
   - creative-tools
 technologies:
   - fastapi
+  - pydantic
   - python
   - sqlite
   - streamlit

@@ -15,10 +15,15 @@ categories:
   - education
 technologies:
   - fastapi
+  - nodejs
   - opencv
+  - pydantic
   - python
   - react
   - typescript
+  - uvicorn
+  - vite
+  - zustand
 builders:
   - name: Samik Wangneo
   - name: Purab Shah

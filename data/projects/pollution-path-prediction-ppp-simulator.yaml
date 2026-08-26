@@ -16,6 +16,8 @@ categories:
   - education
 technologies:
   - figma
+  - nextjs
+  - nodejs
   - typescript
 builders:
   - name: Ryan Wagner

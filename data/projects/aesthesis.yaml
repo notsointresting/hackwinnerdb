@@ -16,12 +16,15 @@ categories:
   - cybersecurity
 technologies:
   - fastapi
+  - nextjs
   - postgresql
   - python
   - pytorch
   - react
+  - react-three-fiber
   - redis
   - tailwind-css
+  - three-js
   - typescript
   - vercel
 builders:

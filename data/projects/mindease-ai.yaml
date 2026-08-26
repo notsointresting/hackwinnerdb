@@ -15,5 +15,6 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Mohammad Shadab

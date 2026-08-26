@@ -17,6 +17,7 @@ categories:
 technologies:
   - anthropic
   - groq
+  - nextjs
   - react
   - typescript
   - vercel

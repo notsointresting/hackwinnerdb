@@ -14,7 +14,9 @@ categories:
   - gaming
 technologies:
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Amy Peace
   - name: Nathan Wong

@@ -17,6 +17,8 @@ categories:
   - media
 technologies:
   - elevenlabs
+  - hugging-face
+  - nodejs
   - openai
   - opencv
   - python

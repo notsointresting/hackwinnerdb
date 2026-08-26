@@ -19,12 +19,17 @@ technologies:
   - elevenlabs
   - fastapi
   - firebase
+  - github-actions
   - mongodb
+  - nextjs
+  - pydantic
+  - pytest
   - python
   - react
   - swift
   - tailwind-css
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: Jazlynn Kurniandra

@@ -20,10 +20,13 @@ technologies:
   - fastapi
   - google-maps
   - langchain
+  - mcp
+  - nextjs
   - python
   - react
   - typescript
   - vercel
+  - zustand
 builders:
   - name: Amit Raj Reddy Dharam
   - name: Venkata Shreesh Poojari

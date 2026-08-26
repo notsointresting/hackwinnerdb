@@ -18,5 +18,6 @@ technologies:
   - google-maps
   - react
   - sql
+  - vite
 builders:
   - name: Nisema Dikeni

@@ -15,7 +15,9 @@ categories:
 technologies:
   - groq
   - mongodb
+  - nextjs
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

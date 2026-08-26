@@ -18,5 +18,6 @@ technologies:
   - firebase
   - react
   - typescript
+  - vite
 builders:
   - name: Sheikh Mohammad Rakib

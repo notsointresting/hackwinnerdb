@@ -18,6 +18,7 @@ technologies:
   - fastapi
   - react
   - tensorflow
+  - uvicorn
 builders:
   - name: Abhay Bhat
   - name: Yousef Qudah

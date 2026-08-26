@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - openai
 builders:
   - name: chloe l

@@ -16,6 +16,8 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - pydantic
   - python
+  - uvicorn
 builders:
   - name: Vaibhav Vaibhav

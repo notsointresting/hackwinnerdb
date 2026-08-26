@@ -15,6 +15,7 @@ technologies:
   - claude
   - elevenlabs
   - gemini
+  - nextjs
   - react
   - supabase
   - tailwind-css

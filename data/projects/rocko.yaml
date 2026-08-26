@@ -15,6 +15,7 @@ categories:
   - education
   - infrastructure
 technologies:
+  - c
   - python
   - pytorch
   - raspberry-pi

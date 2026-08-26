@@ -17,9 +17,11 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
   - react
   - stripe
   - tailwind-css
+  - vite
 builders:
   - name: Sai Abhinav Kolli
   - name: Satya Mani Srujan Dommeti

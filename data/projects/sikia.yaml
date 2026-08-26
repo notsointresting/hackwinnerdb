@@ -11,7 +11,8 @@ video_url: null
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/675/050/datas/medium.png
 categories:
   - other
-technologies: []
+technologies:
+  - nextjs
 builders:
   - name: Roshan Johnson
   - name: Abdulsemed J Aabdul3@UW.Edu

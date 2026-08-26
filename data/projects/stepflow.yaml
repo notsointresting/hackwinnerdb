@@ -17,10 +17,13 @@ technologies:
   - firebase
   - javascript
   - langchain
+  - pydantic
   - python
   - react
   - sqlite
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Nulara Kannangara
   - name: Nay Chi

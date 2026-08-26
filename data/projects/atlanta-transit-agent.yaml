@@ -21,5 +21,6 @@ technologies:
   - nextjs
   - python
   - typescript
+  - uv
 builders:
   - name: Felix Patawah

@@ -22,6 +22,8 @@ technologies:
   - opencv
   - pytorch
   - react
+  - three-js
+  - zustand
 builders:
   - name: Ronald Li
   - name: Kenny Nguyen

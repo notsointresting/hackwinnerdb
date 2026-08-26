@@ -15,7 +15,10 @@ categories:
   - education
   - blockchain
 technologies:
+  - nextjs
+  - playwright
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Ahmed Ashraf

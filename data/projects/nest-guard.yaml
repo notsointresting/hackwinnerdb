@@ -17,6 +17,7 @@ technologies:
   - python
   - react
   - vercel
+  - vite
 builders:
   - name: Trinh Tran
   - name: Linh Tran

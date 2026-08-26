@@ -12,7 +12,9 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - social-impact
 technologies:
+  - nextjs
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Emily Lou

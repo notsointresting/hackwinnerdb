@@ -1,7 +1,8 @@
 import { describe, expect, it } from "vitest";
 import { awardTypeFor, categoriesFor, generatedSummary } from "../scripts/import/classify";
 import { extractImage, mapTechnologies, parseGallery, parseProject } from "../scripts/import/devpost-parse";
-import { yearFromDates } from "../scripts/import/discover";
+import { parseSubmissionDates, yearFromDates } from "../scripts/import/discover";
+import { parseHackathon } from "../scripts/import/devpost-parse";
 
 describe("import classify helpers", () => {
   it("classifies awards accurately", () => {
@@ -129,5 +130,97 @@ describe("import devpost-parse helpers", () => {
 
     const htmlWithSocialIcon = `<meta property="og:image" content="https://d2dmyh35ffsxbl.cloudfront.net/assets/shared/devpost_social_icon_200_200.jpg" />`;
     expect(extractImage(htmlWithSocialIcon)).toBeNull();
+  });
+});
+
+describe("parseSubmissionDates", () => {
+  it("reads a cross-month window", () => {
+    expect(parseSubmissionDates("Jun 16 - Jul 16, 2026")).toEqual({
+      startDate: "2026-06-16",
+      endDate: "2026-07-16",
+    });
+  });
+
+  it("inherits the month when the end date omits it", () => {
+    expect(parseSubmissionDates("Apr 05 - 06, 2024")).toEqual({
+      startDate: "2024-04-05",
+      endDate: "2024-04-06",
+    });
+  });
+
+  it("handles a single-day event", () => {
+    expect(parseSubmissionDates("Aug 17, 2026")).toEqual({
+      startDate: "2026-08-17",
+      endDate: "2026-08-17",
+    });
+  });
+
+  it("rolls the start back a year when the window crosses new year", () => {
+    expect(parseSubmissionDates("Dec 28 - Jan 05, 2026")).toEqual({
+      startDate: "2025-12-28",
+      endDate: "2026-01-05",
+    });
+  });
+
+  it("returns nulls rather than guessing when the string is unusable", () => {
+    expect(parseSubmissionDates(null)).toEqual({ startDate: null, endDate: null });
+    expect(parseSubmissionDates("coming soon")).toEqual({ startDate: null, endDate: null });
+    expect(parseSubmissionDates("Smarch 40, 2026")).toEqual({ startDate: null, endDate: null });
+  });
+});
+
+describe("parseHackathon", () => {
+  const html = [
+    '<div>"startDate": "2026-07-13T12:00:00.000-04:00"</div>',
+    '<div>"endDate": "2026-07-21T21:00:00.000-04:00"</div>',
+    '<a href="/participants">Participants (46,725)</a>',
+    "<p>Online</p><p>$25,000 in prizes</p>",
+  ].join("");
+
+  it("extracts the dates the gallery does not carry", () => {
+    const detail = parseHackathon(html);
+    expect(detail.startDate).toBe("2026-07-13");
+    expect(detail.endDate).toBe("2026-07-21");
+    expect(detail.year).toBe(2026);
+  });
+
+  it("extracts participants, prize pool, and mode", () => {
+    const detail = parseHackathon(html);
+    expect(detail.participantCount).toBe(46725);
+    expect(detail.prizePool).toBe(25000);
+    expect(detail.currency).toBe("USD");
+    expect(detail.mode).toBe("online");
+  });
+
+  it("returns nulls for a page with none of those facts", () => {
+    const detail = parseHackathon("<html><body>nothing useful</body></html>");
+    expect(detail.startDate).toBeNull();
+    expect(detail.year).toBeNull();
+    expect(detail.participantCount).toBeNull();
+    expect(detail.prizePool).toBeNull();
+  });
+});
+
+describe("mapTechnologies slug resolution", () => {
+  const known = new Set(["nodejs", "nextjs", "tailwind-css", "python"]);
+
+  it("maps a tag that already matches a known slug", () => {
+    expect(mapTechnologies(["Python"], known).mapped).toEqual(["python"]);
+  });
+
+  it("resolves hyphenation differences instead of reporting them unknown", () => {
+    const result = mapTechnologies(["Node.js", "Next.js", "Tailwind CSS"], known);
+    expect(result.mapped.sort()).toEqual(["nextjs", "nodejs", "tailwind-css"]);
+    expect(result.unknown).toEqual([]);
+  });
+
+  it("still reports a genuinely unknown tag", () => {
+    const result = mapTechnologies(["Some Vendor SDK"], known);
+    expect(result.mapped).toEqual([]);
+    expect(result.unknown).toEqual(["some-vendor-sdk"]);
+  });
+
+  it("does not emit the same slug twice", () => {
+    expect(mapTechnologies(["Node.js", "nodejs"], known).mapped).toEqual(["nodejs"]);
   });
 });

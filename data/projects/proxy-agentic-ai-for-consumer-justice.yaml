@@ -18,9 +18,15 @@ technologies:
   - fastapi
   - langchain
   - nextjs
+  - pydantic
   - python
   - react
+  - react-three-fiber
   - redis
+  - tailwind-css
+  - three-js
   - typescript
+  - uvicorn
+  - zustand
 builders:
   - name: Rakesh S

@@ -16,6 +16,8 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
+  - vite
 builders:
   - name: Dany Postovyk
   - name: Max Poll

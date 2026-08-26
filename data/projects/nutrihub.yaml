@@ -14,6 +14,7 @@ categories:
   - cloud
 technologies:
   - postgresql
+  - react-native
   - supabase
   - typescript
 builders:

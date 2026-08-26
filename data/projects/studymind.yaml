@@ -16,5 +16,6 @@ technologies:
   - fastapi
   - firebase
   - mongodb
+  - nextjs
 builders:
   - name: Umme Munia

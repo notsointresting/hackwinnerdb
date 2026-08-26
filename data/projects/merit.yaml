@@ -14,10 +14,13 @@ categories:
   - education
   - social-impact
 technologies:
+  - nextjs
+  - nodejs
   - openai
   - react
   - supabase
   - typescript
+  - vitest
 builders:
   - name: Turtlesrqul Fahrein
   - name: Harish_Kumar20 HK20

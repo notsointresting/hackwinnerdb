@@ -18,6 +18,8 @@ technologies:
   - openai
   - pinecone
   - postgresql
+  - react
+  - rust
   - supabase
   - typescript
   - vercel

@@ -16,6 +16,7 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - vite
 builders:
   - name: Edna Lange
   - name: Renn Gilbert

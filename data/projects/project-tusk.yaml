@@ -20,6 +20,7 @@ technologies:
   - react
   - sqlite
   - typescript
+  - webgl
 builders:
   - name: Vladislav K
   - name: Arnav Kumar

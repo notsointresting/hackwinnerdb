@@ -20,7 +20,9 @@ technologies:
   - python
   - react
   - supabase
+  - tailwind-css
   - vercel
+  - vite
 builders:
   - name: Ifeoluwa Adeniyi
   - name: Saf Riasat

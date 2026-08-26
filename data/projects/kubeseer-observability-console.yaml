@@ -17,5 +17,6 @@ technologies:
   - react
   - rust
   - typescript
+  - vite
 builders:
   - name: Jethro Tan

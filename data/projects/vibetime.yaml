@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - gemini
+  - nextjs
   - supabase
 builders:
   - name: Sajid Ali

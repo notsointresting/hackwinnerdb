@@ -18,9 +18,11 @@ technologies:
   - elevenlabs
   - firebase
   - gemini
+  - nodejs
   - react
   - solana
   - typescript
+  - vite
 builders:
   - name: Mohammad Agha Mohammadi
   - name: Kunal Krishna

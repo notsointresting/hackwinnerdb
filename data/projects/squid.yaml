@@ -17,6 +17,8 @@ categories:
 technologies:
   - flask
   - gemini
+  - nextjs
+  - nodejs
   - python
   - react
   - solana

@@ -18,5 +18,6 @@ technologies:
   - gemini
   - react
   - typescript
+  - vite
 builders:
   - name: Brian Miller

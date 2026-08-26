@@ -15,10 +15,13 @@ technologies:
   - docker
   - fastapi
   - gemini
+  - hugging-face
   - python
   - react
   - redis
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Vi Do
   - name: talia feng

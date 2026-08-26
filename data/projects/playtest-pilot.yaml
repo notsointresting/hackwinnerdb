@@ -15,11 +15,14 @@ categories:
   - media
   - creative-tools
 technologies:
+  - c
   - docker
   - fastapi
   - javascript
   - react
+  - tailwind-css
   - unity
+  - vite
 builders:
   - name: Quoc Anh Khoa Nguyen
   - name: Eashan Patel

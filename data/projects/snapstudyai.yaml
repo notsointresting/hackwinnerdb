@@ -19,5 +19,6 @@ technologies:
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Ram Here

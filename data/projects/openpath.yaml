@@ -15,7 +15,10 @@ categories:
   - artificial-intelligence
   - social-impact
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Deepika Sidda

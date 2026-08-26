@@ -19,6 +19,7 @@ technologies:
   - cloudflare
   - fastapi
   - gemini
+  - nextjs
   - openai
   - python
   - replicate

@@ -15,6 +15,7 @@ categories:
   - social-impact
   - creative-tools
 technologies:
+  - c
   - c-plus-plus
   - esp32
   - react-native

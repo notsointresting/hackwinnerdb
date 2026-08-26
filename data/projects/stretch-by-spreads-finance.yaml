@@ -20,6 +20,7 @@ technologies:
   - react
   - solidity
   - supabase
+  - tailwind-css
   - typescript
   - vercel
 builders:

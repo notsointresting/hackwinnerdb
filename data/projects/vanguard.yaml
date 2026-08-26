@@ -24,6 +24,7 @@ technologies:
   - react
   - tensorflow
   - twilio
+  - vite
   - webrtc
 builders:
   - name: Sreejeeta Roy

@@ -14,9 +14,12 @@ categories:
   - blockchain
 technologies:
   - docker
+  - nodejs
   - react
   - typescript
   - vercel
+  - vite
+  - vitest
 builders:
   - name: Karan Bisht
   - name: Vedant Dorlikar

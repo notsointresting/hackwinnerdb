@@ -17,6 +17,7 @@ categories:
   - cybersecurity
 technologies:
   - javascript
+  - nextjs
   - react
   - typescript
   - vercel

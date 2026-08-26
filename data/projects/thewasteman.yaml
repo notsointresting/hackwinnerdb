@@ -21,6 +21,7 @@ technologies:
   - raspberry-pi
   - react
   - sqlite
+  - vite
 builders:
   - name: Harsh Dhabalia
   - name: Riaa Sehgal

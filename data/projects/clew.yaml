@@ -13,8 +13,15 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thum
 categories:
   - enterprise
 technologies:
+  - chatgpt
+  - gemini
   - nextjs
+  - pydantic
+  - python
+  - sql
+  - typescript
   - vercel
+  - vite
 builders:
   - name: Ian Wang
   - name: Jay D

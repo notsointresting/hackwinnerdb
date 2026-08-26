@@ -13,7 +13,13 @@ categories:
   - artificial-intelligence
   - social-impact
 technologies:
+  - elevenlabs
+  - google-cloud
+  - nodejs
+  - postgresql
   - react
+  - tailwind-css
+  - typescript
 builders:
   - name: Govind Nair
   - name: Koushik Karthik

@@ -13,6 +13,7 @@ categories:
   - creative-tools
 technologies:
   - arduino
+  - c
   - python
 builders:
   - name: Matthew De Jesus

@@ -1,0 +1,16 @@
+id: vetriage-safety-first-vet-phone-triage-pwa-built-in-a-week-openai-build-week
+project_id: vetriage-safety-first-vet-phone-triage-pwa-built-in-a-week
+hackathon_id: openai-build-week
+submission_url: https://devpost.com/software/veterinary-four-color-triage-app
+source:
+  platform: devpost
+  url: https://devpost.com/software/veterinary-four-color-triage-app
+awards:
+  - type: first-place
+    title: 1st Place | Work & Productivity
+    track: Work & Productivity
+verification:
+  status: unverified
+  checked_at: 2026-08-26
+  notes: Imported from the Devpost winner gallery. A maintainer must confirm the source before this is
+    marked verified.

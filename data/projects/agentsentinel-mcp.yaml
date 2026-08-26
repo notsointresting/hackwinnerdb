@@ -16,7 +16,10 @@ categories:
 technologies:
   - docker
   - fastapi
+  - github-actions
+  - nextjs
   - postgresql
+  - pydantic
   - python
   - tailwind-css
   - typescript

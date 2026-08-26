@@ -17,6 +17,7 @@ categories:
   - education
   - social-impact
 technologies:
+  - hugging-face
   - python
   - pytorch
 builders:

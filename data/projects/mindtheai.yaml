@@ -16,6 +16,8 @@ categories:
 technologies:
   - figma
   - javascript
+  - nextjs
+  - tailwind-css
   - vercel
 builders:
   - name: Heidi Lantz

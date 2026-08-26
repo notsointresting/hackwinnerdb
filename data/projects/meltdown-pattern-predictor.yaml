@@ -16,6 +16,7 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - openai-api
   - python
   - vercel
 builders:

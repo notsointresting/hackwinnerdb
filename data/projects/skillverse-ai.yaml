@@ -19,10 +19,12 @@ technologies:
   - firebase
   - langchain
   - nextjs
+  - nodejs
   - openai
   - pinecone
   - postgresql
   - python
+  - tailwind-css
   - typescript
   - whisper
 builders:

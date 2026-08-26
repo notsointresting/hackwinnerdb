@@ -19,7 +19,10 @@ technologies:
   - gemini
   - mongodb
   - react
+  - tailwind-css
+  - three-js
   - typescript
+  - vite
 builders:
   - name: J T
   - name: A Br

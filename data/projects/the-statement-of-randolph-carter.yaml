@@ -15,5 +15,6 @@ categories:
 technologies:
   - javascript
   - react
+  - vite
 builders:
   - name: William Ramsay

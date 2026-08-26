@@ -20,8 +20,11 @@ technologies:
   - elevenlabs
   - gemini
   - mongodb
+  - nextjs
+  - nodejs
   - react
   - solana
+  - tailwind-css
   - typescript
   - vercel
 builders:

@@ -21,8 +21,10 @@ technologies:
   - firebase
   - gemini
   - google-cloud
+  - mcp
   - python
   - react
+  - vite
 builders:
   - name: Anhiti Vooturi
   - name: Rihaan Natani

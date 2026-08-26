@@ -15,5 +15,6 @@ technologies:
   - gemini
   - google-cloud
   - javascript
+  - nodejs
 builders:
   - name: Gauri Menon

@@ -18,7 +18,10 @@ categories:
 technologies:
   - firebase
   - javascript
+  - nextjs
+  - nodejs
   - react
+  - tailwind-css
 builders:
   - name: Gajanan  Patange
   - name: Kaneki Chavan

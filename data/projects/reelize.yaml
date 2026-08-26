@@ -19,13 +19,16 @@ technologies:
   - elevenlabs
   - fastapi
   - javascript
+  - nodejs
   - opencv
   - postgresql
+  - pydantic
   - python
   - react
   - react-native
   - supabase
   - typescript
+  - uvicorn
 builders:
   - name: Eliyahu Mizrahi
   - name: Isaac Sasson

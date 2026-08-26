@@ -20,6 +20,9 @@ technologies:
   - opencv
   - python
   - react
+  - three-js
+  - uvicorn
+  - vite
 builders:
   - name: Mher Sahakyan
   - name: Eli Becker

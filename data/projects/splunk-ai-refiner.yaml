@@ -17,6 +17,7 @@ categories:
   - cybersecurity
 technologies:
   - claude
+  - mcp
   - python
 builders:
   - name: Gaétan VERDIN-POL

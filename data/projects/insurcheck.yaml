@@ -17,6 +17,8 @@ categories:
 technologies:
   - javascript
   - react
+  - react-three-fiber
+  - vite
 builders:
   - name: Sidharth Nair
   - name: Basudev Biju

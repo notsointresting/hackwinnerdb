@@ -19,6 +19,7 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nodejs
   - react
 builders:
   - name: Allyson T Le

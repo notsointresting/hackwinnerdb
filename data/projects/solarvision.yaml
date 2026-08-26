@@ -15,6 +15,8 @@ categories:
   - climate
   - social-impact
 technologies:
+  - nextjs
+  - nodejs
   - typescript
 builders:
   - name: Hamdan Puthiya Purayil

@@ -20,6 +20,8 @@ technologies:
   - langchain
   - python
   - react
+  - tailwind-css
   - vercel
+  - vite
 builders:
   - name: Amit Kumar

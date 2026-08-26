@@ -16,5 +16,7 @@ categories:
   - social-impact
 technologies:
   - react
+  - three-js
+  - vite
 builders:
   - name: Simon Green Thompson

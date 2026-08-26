@@ -19,5 +19,7 @@ technologies:
   - react
   - redis
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Md Ahbab Hamid Khan

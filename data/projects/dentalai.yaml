@@ -18,7 +18,10 @@ technologies:
   - javascript
   - python
   - react
+  - three-js
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Hishaan Rajwani
   - name: Ananth Ramkumar

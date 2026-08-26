@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - azure
+  - nextjs
   - openai
   - react
   - sql

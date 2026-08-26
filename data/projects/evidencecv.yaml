@@ -13,10 +13,12 @@ categories:
   - other
 technologies:
   - fastapi
+  - hugging-face
   - mongodb
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Prashanna Raj Pandit
   - name: Asha Shah

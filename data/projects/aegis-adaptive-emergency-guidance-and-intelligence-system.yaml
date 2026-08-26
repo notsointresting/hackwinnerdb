@@ -16,9 +16,11 @@ categories:
   - education
 technologies:
   - mongodb
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Nivas Palaniappan
   - name: Advaith Banigandlapati

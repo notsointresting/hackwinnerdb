@@ -15,8 +15,10 @@ categories:
   - enterprise
 technologies:
   - javascript
+  - nodejs
   - react
   - tailwind-css
+  - vite
 builders:
   - name: Steph Olaluwoye
   - name: Emma White

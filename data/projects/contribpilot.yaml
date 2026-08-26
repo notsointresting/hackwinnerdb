@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - gemini
   - google-cloud
+  - mcp
   - python
   - react
 builders:

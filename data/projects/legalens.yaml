@@ -20,6 +20,7 @@ technologies:
   - langchain
   - python
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

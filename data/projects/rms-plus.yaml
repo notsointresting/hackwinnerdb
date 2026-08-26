@@ -14,6 +14,7 @@ categories:
 technologies:
   - elevenlabs
   - gemini
+  - nodejs
   - react
 builders:
   - name: Lateef J

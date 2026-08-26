@@ -17,6 +17,7 @@ technologies:
   - claude
   - figma
   - mongodb
+  - nodejs
   - vercel
 builders:
   - name: Sophie Nguyen

@@ -15,6 +15,7 @@ categories:
   - climate
   - sustainability
 technologies:
+  - nodejs
   - react
 builders:
   - name: Santiago Gutierrez

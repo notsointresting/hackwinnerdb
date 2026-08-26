@@ -13,9 +13,28 @@ categories:
   - education
   - productivity
 technologies:
+  - codex
+  - docker
   - fastapi
   - gemini
+  - github-actions
+  - javascript
+  - mapbox
+  - mcp
+  - mypy
+  - openai
+  - postgresql
+  - pydantic
+  - pytest
+  - python
   - react
+  - ruff
+  - semgrep
+  - supabase
+  - tiktoken
+  - typer
+  - uv
+  - vite
 builders:
   - name: Agastya Mittal
   - name: Kedar Kalluri

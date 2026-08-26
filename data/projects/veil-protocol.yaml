@@ -15,9 +15,11 @@ categories:
 technologies:
   - ipfs
   - javascript
+  - nodejs
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Ashiha Mahesh Kumar
   - name: Michael Paonam

@@ -15,6 +15,7 @@ categories:
   - healthcare
   - education
 technologies:
+  - chatgpt
   - elevenlabs
   - python
 builders:

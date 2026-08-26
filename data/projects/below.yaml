@@ -15,6 +15,7 @@ technologies:
   - javascript
   - nextjs
   - react
+  - tailwind-css
 builders:
   - name: Prajjawal Kumar
   - name: ViShzzz Vishal Vishwakarma

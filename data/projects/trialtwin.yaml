@@ -15,9 +15,14 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nextjs
+  - nodejs
+  - pydantic
   - python
   - react
   - sqlite
   - typescript
+  - uvicorn
+  - zustand
 builders:
   - name: Smyan Reddy

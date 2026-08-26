@@ -19,8 +19,11 @@ technologies:
   - fastapi
   - gemini
   - postgresql
+  - pydantic
+  - pytest
   - python
   - typescript
+  - zustand
 builders:
   - name: Tony Yu
   - name: Andrew Hwang

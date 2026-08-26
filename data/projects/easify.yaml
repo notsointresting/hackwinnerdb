@@ -16,9 +16,11 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
   - openai
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Towhidul Islam Rizvi

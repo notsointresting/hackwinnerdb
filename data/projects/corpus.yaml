@@ -15,6 +15,7 @@ categories:
   - education
   - fintech
 technologies:
+  - mcp
   - nextjs
   - typescript
 builders:

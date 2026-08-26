@@ -17,6 +17,7 @@ technologies:
   - elevenlabs
   - fastapi
   - google-maps
+  - nextjs
   - python
   - react
   - tailwind-css

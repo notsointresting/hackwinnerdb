@@ -17,6 +17,8 @@ technologies:
   - elevenlabs
   - javascript
   - mongodb
+  - nextjs
+  - nodejs
   - react
 builders:
   - name: Ray Khan

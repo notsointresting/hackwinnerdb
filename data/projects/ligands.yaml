@@ -20,8 +20,15 @@ technologies:
   - javascript
   - openai
   - postgresql
+  - pydantic
+  - pytest
   - python
   - react
+  - ruff
+  - three-js
+  - typer
+  - vite
+  - zustand
 builders:
   - name: Ben Wu
   - name: Scott Oftedahl

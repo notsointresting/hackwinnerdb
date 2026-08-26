@@ -15,8 +15,10 @@ categories:
 technologies:
   - groq
   - javascript
+  - nodejs
   - react-native
   - typescript
+  - zustand
 builders:
   - name: Anish Balakrishnan
   - name: Brandon Dean Tautuan

@@ -14,7 +14,8 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - artificial-intelligence
   - social-impact
-technologies: []
+technologies:
+  - nodejs
 builders:
   - name: Shyam Pandey
   - name: Utkarsh Mishra

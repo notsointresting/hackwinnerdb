@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - fastapi
+  - nextjs
   - python
   - react
   - tailwind-css

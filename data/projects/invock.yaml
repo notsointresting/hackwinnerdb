@@ -16,8 +16,13 @@ categories:
   - cybersecurity
 technologies:
   - claude
+  - codex
   - docker
+  - mcp
+  - nodejs
+  - pnpm
   - sqlite
   - typescript
+  - vitest
 builders:
   - name: Sai Aathish Karthik

@@ -17,9 +17,13 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - nextjs
+  - pydantic
   - react
   - sqlite
+  - three-js
   - typescript
+  - uvicorn
 builders:
   - name: Alan Tai
   - name: Nikhil Ramlukan

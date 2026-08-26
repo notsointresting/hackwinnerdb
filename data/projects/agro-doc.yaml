@@ -15,9 +15,12 @@ categories:
   - education
 technologies:
   - fastapi
+  - hugging-face
   - python
   - pytorch
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Yaswanth K B
   - name: Sheshakanth Ra

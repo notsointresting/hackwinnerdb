@@ -15,5 +15,6 @@ categories:
   - other
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: jana eva

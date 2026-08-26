@@ -19,5 +19,7 @@ technologies:
   - elevenlabs
   - javascript
   - react
+  - three-js
+  - vite
 builders:
   - name: Sam M Duong

@@ -17,6 +17,7 @@ technologies:
   - sql
   - supabase
   - vercel
+  - vite
 builders:
   - name: Angel Gomez
   - name: Kayla Sarkissian

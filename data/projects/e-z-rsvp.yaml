@@ -16,8 +16,10 @@ categories:
   - education
   - infrastructure
 technologies:
+  - chatgpt
   - claude
   - google-cloud
+  - nextjs
   - react
   - stripe
   - supabase

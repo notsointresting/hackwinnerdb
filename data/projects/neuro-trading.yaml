@@ -20,6 +20,7 @@ technologies:
   - python
   - pytorch
   - sqlite
+  - vite
 builders:
   - name: Alexandru Jerpelea
   - name: Petra Hedesiu

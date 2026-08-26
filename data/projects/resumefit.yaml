@@ -16,6 +16,8 @@ categories:
   - healthcare
   - education
 technologies:
+  - nextjs
+  - nodejs
   - react
   - supabase
   - typescript

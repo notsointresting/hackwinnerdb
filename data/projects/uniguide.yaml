@@ -12,6 +12,7 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thum
 categories:
   - other
 technologies:
+  - nextjs
   - supabase
   - typescript
 builders:

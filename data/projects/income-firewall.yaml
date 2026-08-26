@@ -13,6 +13,8 @@ categories:
   - education
   - social-impact
 technologies:
+  - nextjs
+  - tailwind-css
   - typescript
 builders:
   - name: Vaishnavi Kadam

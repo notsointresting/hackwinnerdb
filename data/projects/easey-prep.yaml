@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - supabase
+  - tailwind-css
   - typescript
   - vue
 builders:

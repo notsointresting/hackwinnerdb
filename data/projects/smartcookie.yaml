@@ -16,7 +16,9 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - pydantic
   - python
+  - uvicorn
 builders:
   - name: Lindsay Gullon
   - name: addy abrar

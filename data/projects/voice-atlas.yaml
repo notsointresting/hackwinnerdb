@@ -15,6 +15,7 @@ categories:
   - ar-vr
 technologies:
   - javascript
+  - nodejs
   - typescript
 builders:
   - name: Aditya Jha

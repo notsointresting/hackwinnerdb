@@ -16,6 +16,7 @@ technologies:
   - javascript
   - mongodb
   - react
+  - vite
 builders:
   - name: Gerardo Rivera
   - name: Asmat Ullah

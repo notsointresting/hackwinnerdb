@@ -13,6 +13,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nextjs
   - react
   - vercel
 builders:

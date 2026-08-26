@@ -17,6 +17,7 @@ technologies:
   - gemini
   - react
   - supabase
+  - vite
 builders:
   - name: YAJJU DANGOL
   - name: Abastha Basukala

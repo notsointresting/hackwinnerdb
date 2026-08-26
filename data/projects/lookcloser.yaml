@@ -15,6 +15,9 @@ categories:
   - healthcare
   - education
 technologies:
+  - mcp
+  - pydantic
+  - pytest
   - python
 builders:
   - name: Rifqi Haikal

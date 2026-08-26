@@ -17,5 +17,6 @@ categories:
 technologies:
   - javascript
   - mongodb
+  - nodejs
 builders:
   - name: Moamen Abouhaty

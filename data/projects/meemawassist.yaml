@@ -14,6 +14,9 @@ categories:
 technologies:
   - elevenlabs
   - kotlin
+  - nodejs
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Andrii Fedorov

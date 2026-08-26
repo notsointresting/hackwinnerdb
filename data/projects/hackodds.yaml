@@ -21,6 +21,7 @@ technologies:
   - solana
   - sql
   - supabase
+  - tailwind-css
   - twilio
   - typescript
 builders:

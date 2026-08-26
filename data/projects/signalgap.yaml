@@ -16,8 +16,13 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nextjs
+  - playwright
+  - pydantic
+  - pytest
   - python
   - react
+  - ruff
   - sqlite
   - typescript
 builders:

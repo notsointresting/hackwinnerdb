@@ -17,6 +17,7 @@ categories:
 technologies:
   - fastapi
   - mongodb
+  - openai-api
   - python
   - tailwind-css
 builders:

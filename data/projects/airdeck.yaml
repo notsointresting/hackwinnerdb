@@ -15,8 +15,11 @@ categories:
   - education
   - productivity
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Sam Moen
   - name: bournechoi4353 Choi

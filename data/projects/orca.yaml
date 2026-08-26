@@ -16,8 +16,11 @@ technologies:
   - docker
   - fastapi
   - mapbox
+  - nextjs
+  - openai-api
   - postgresql
   - python
+  - react-three-fiber
   - redis
   - solana
   - tailwind-css

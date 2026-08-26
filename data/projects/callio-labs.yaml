@@ -16,10 +16,12 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nextjs
   - openai
   - python
   - react
   - supabase
+  - three-js
   - typescript
 builders:
   - name: Marc Da Silva

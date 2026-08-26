@@ -14,7 +14,13 @@ categories:
   - artificial-intelligence
   - education
   - ar-vr
-technologies: []
+technologies:
+  - nextjs
+  - nodejs
+  - react
+  - tailwind-css
+  - three-js
+  - typescript
 builders:
   - name: Neha Srinivasula
   - name: Swapnesh Baguli

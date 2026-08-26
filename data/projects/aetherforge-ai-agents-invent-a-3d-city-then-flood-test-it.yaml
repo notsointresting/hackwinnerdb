@@ -17,8 +17,14 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
   - typescript
+  - webgl
+  - zustand
 builders:
   - name: Prakhar Srivastava

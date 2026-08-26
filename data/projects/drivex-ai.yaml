@@ -17,6 +17,7 @@ categories:
   - infrastructure
 technologies:
   - google-maps
+  - nodejs
   - opencv
   - react
   - twilio

@@ -17,10 +17,15 @@ categories:
 technologies:
   - fastapi
   - langchain
+  - nextjs
+  - nodejs
   - openai
+  - pnpm
+  - pydantic
   - python
   - react
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: codeviAditya Aditya kumar jha

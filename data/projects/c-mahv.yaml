@@ -13,6 +13,7 @@ categories:
   - productivity
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Vish Epa
   - name: cadu Fonseca

@@ -17,6 +17,7 @@ categories:
 technologies:
   - flask
   - mongodb
+  - nodejs
   - python
   - react
 builders:

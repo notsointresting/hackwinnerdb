@@ -17,11 +17,14 @@ categories:
 technologies:
   - anthropic
   - javascript
+  - mcp
+  - pytest
   - python
   - react
   - stripe
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Cecilia Yang
   - name: Zhixiao Wang

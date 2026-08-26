@@ -15,7 +15,9 @@ categories:
   - education
 technologies:
   - gemini
+  - nodejs
   - react
   - rust
+  - tailwind-css
   - typescript
 builders: []

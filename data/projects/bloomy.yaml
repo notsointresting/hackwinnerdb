@@ -16,10 +16,12 @@ categories:
   - education
 technologies:
   - mapbox
+  - nodejs
   - react
   - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Santiago Vargas Roldan
   - name: Elbaraa Abdalla

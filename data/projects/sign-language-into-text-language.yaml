@@ -17,5 +17,6 @@ technologies:
   - figma
   - gemini
   - javascript
+  - nodejs
 builders:
   - name: Mahesh Mahesh

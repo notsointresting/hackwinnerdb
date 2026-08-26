@@ -14,9 +14,12 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - fastapi
+  - postgresql
   - python
   - react
   - supabase
+  - tailwind-css
   - typescript
 builders:
   - name: Andrea Li

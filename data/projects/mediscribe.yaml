@@ -20,6 +20,8 @@ technologies:
   - javascript
   - python
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Sabal Poudel
   - name: Enzo Nunez

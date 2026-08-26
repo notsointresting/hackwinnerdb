@@ -16,6 +16,7 @@ categories:
 technologies:
   - docker
   - fastapi
+  - hugging-face
   - javascript
   - mongodb
   - openai
@@ -23,6 +24,7 @@ technologies:
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Boris Chu
   - name: Verna Lin

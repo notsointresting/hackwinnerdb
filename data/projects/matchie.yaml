@@ -16,6 +16,7 @@ technologies:
   - elevenlabs
   - groq
   - mongodb
+  - nodejs
   - react
   - typescript
   - vercel

@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - fastapi
+  - mcp
   - python
   - react
 builders:

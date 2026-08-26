@@ -13,6 +13,9 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - social-impact
 technologies:
+  - nextjs
+  - nodejs
+  - playwright
   - supabase
 builders:
   - name: arun-kumar-24 M

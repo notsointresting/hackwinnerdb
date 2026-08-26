@@ -18,6 +18,7 @@ technologies:
   - javascript
   - postgresql
   - react
+  - vite
 builders:
   - name: Yaroslav Klymiuk
   - name: Yoonchan Rhie

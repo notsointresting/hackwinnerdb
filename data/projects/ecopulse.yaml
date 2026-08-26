@@ -17,6 +17,7 @@ categories:
 technologies:
   - javascript
   - mongodb
+  - nodejs
   - react
 builders:
   - name: Sameeksha Sharma

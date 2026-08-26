@@ -17,8 +17,10 @@ categories:
   - education
 technologies:
   - fastapi
+  - playwright
   - sqlite
   - tailwind-css
+  - vite
 builders:
   - name: Navneetha Rajan
   - name: Prarthana Thathpurusha

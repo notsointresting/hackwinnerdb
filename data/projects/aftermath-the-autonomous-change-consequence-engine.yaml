@@ -17,8 +17,11 @@ categories:
 technologies:
   - anthropic
   - claude
+  - pytest
   - python
   - react
+  - typer
   - vercel
+  - vite
 builders:
   - name: Huzaifa .

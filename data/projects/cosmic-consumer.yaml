@@ -13,6 +13,7 @@ categories:
   - productivity
   - consumer
 technologies:
+  - codex
   - vercel
 builders:
   - name: Mangesh Jha

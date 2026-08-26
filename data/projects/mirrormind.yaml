@@ -13,5 +13,6 @@ categories:
   - healthcare
 technologies:
   - gemini
+  - nextjs
 builders:
   - name: Samyak Jain

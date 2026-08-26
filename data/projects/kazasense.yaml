@@ -15,6 +15,7 @@ categories:
   - education
   - social-impact
 technologies:
+  - nodejs
   - react
 builders:
   - name: Joseph Dania

@@ -17,6 +17,8 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nextjs
+  - pytest
   - python
   - streamlit
 builders:

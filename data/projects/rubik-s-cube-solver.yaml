@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - fastapi
   - react-native
 builders:
   - name: Sean Gutmann

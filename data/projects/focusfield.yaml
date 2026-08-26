@@ -17,6 +17,7 @@ categories:
 technologies:
   - anthropic
   - arduino
+  - c
   - claude
   - kotlin
   - python

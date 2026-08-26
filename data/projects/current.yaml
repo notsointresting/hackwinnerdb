@@ -13,7 +13,11 @@ categories:
   - other
 technologies:
   - react
+  - three-js
   - typescript
+  - vite
+  - webgl
+  - zustand
 builders:
   - name: Aabid!!! Hasan
   - name: Ayush Kumar

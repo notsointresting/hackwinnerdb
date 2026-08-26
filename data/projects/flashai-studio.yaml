@@ -16,7 +16,9 @@ categories:
 technologies:
   - gemini
   - javascript
+  - netlify
   - react
   - typescript
+  - vite
 builders:
   - name: Muhammad Hussai

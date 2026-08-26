@@ -16,12 +16,18 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
+  - nodejs
   - opencv
+  - pydantic
+  - pytest
   - python
   - pytorch
   - react
   - sqlite
   - tailwind-css
   - typescript
+  - uvicorn
+  - vitest
 builders:
   - name: Kiran Patel

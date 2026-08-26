@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
 technologies:
   - fastapi
+  - nextjs
   - python
   - swift
   - typescript

@@ -18,5 +18,6 @@ categories:
 technologies:
   - gemini
   - google-cloud
+  - nodejs
 builders:
   - name: Minh Truong

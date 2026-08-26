@@ -18,6 +18,7 @@ technologies:
   - firebase
   - gemini
   - javascript
+  - nodejs
   - vercel
 builders:
   - name: Suchi Jain

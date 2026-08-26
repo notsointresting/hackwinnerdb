@@ -15,6 +15,7 @@ image_url: null
 categories:
   - creative-tools
 technologies:
+  - nextjs
   - postgresql
   - react
   - supabase

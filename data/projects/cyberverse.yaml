@@ -18,7 +18,9 @@ technologies:
   - react
   - supabase
   - tailwind-css
+  - three-js
   - typescript
   - vercel
+  - vite
 builders:
   - name: Nadjitiessm Victoire

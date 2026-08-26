@@ -13,9 +13,13 @@ categories:
   - education
   - social-impact
 technologies:
+  - nextjs
+  - openai-api
+  - playwright
   - react
   - tailwind-css
   - typescript
+  - vitest
 builders:
   - name: Abhinav Maddi
   - name: Sai Vinjamuri

@@ -20,7 +20,9 @@ technologies:
   - python
   - react
   - supabase
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Zahadad Jarif
   - name: Bryan Maristanez

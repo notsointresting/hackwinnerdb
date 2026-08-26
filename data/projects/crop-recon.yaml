@@ -16,6 +16,7 @@ technologies:
   - esp32
   - javascript
   - mongodb
+  - nextjs
   - react
 builders:
   - name: Joshua Estrada

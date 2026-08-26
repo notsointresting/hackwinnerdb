@@ -15,8 +15,10 @@ categories:
   - media
 technologies:
   - javascript
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Shiv258 Arora

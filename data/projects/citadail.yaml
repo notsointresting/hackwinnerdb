@@ -17,7 +17,9 @@ categories:
   - social-impact
 technologies:
   - gemini
+  - nextjs
   - react
   - typescript
+  - vitest
 builders:
   - name: Tazeem Mahashin

@@ -18,9 +18,11 @@ technologies:
   - docker
   - fastapi
   - groq
+  - nodejs
   - python
   - react
   - sqlite
+  - vite
 builders:
   - name: Divyansh Gupta
   - name: Tejshvini Yerpurwad

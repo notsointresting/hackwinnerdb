@@ -13,6 +13,7 @@ image_url: null
 categories:
   - artificial-intelligence
   - education
-technologies: []
+technologies:
+  - nodejs
 builders:
   - name: Welddevelopment Jeon

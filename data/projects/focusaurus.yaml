@@ -18,8 +18,11 @@ technologies:
   - figma
   - flask
   - gemini
+  - nodejs
+  - pytest
   - python
   - react
+  - vite
 builders:
   - name: Mia Huang
   - name: June Wang

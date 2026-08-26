@@ -14,10 +14,12 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - postgresql
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Xiyun Hu
   - name: Xinyue Yang

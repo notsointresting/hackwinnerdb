@@ -15,6 +15,11 @@ categories:
   - artificial-intelligence
   - education
   - ar-vr
-technologies: []
+technologies:
+  - mapbox
+  - postgresql
+  - react-native
+  - typescript
+  - zustand
 builders:
   - name: Parin Gouraram

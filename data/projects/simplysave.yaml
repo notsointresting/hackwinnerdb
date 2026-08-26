@@ -14,6 +14,7 @@ categories:
   - fintech
   - blockchain
 technologies:
+  - nextjs
   - rust
 builders:
   - name: John Galt

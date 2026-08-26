@@ -19,10 +19,14 @@ technologies:
   - docker
   - elevenlabs
   - fastapi
+  - nextjs
   - postgresql
+  - pydantic
+  - pytest
   - python
   - react
   - redis
+  - tailwind-css
   - typescript
 builders:
   - name: Enoch208 Enoch

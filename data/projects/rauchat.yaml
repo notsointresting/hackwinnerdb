@@ -13,6 +13,7 @@ image_url: null
 categories:
   - education
 technologies:
+  - nextjs
   - python
   - pytorch
   - typescript

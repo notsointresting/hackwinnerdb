@@ -17,11 +17,15 @@ categories:
 technologies:
   - javascript
   - mapbox
+  - nextjs
+  - nodejs
   - python
   - pytorch
   - tailwind-css
   - tensorflow
+  - three-js
   - typescript
   - vercel
+  - webgl
 builders:
   - name: Agrim Garg

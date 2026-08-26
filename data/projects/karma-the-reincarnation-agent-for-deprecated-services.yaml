@@ -17,9 +17,12 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - github-actions
+  - nextjs
   - python
   - react
   - redis
+  - tailwind-css
   - typescript
   - vertex-ai
 builders:

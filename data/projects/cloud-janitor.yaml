@@ -12,8 +12,10 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - cloud
 technologies:
+  - mcp
   - python
   - streamlit
+  - uv
 builders:
   - name: Samarth Bhatia
   - name: Digant Dash

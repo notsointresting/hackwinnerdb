@@ -17,11 +17,17 @@ categories:
   - cloud
 technologies:
   - fastapi
+  - nextjs
   - opencv
+  - pytest
   - python
   - react
+  - react-three-fiber
   - swift
+  - tailwind-css
+  - three-js
   - typescript
+  - vitest
   - yolo
 builders:
   - name: Nicolas Dos Santos

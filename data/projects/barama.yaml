@@ -13,6 +13,8 @@ image_url: null
 categories:
   - social-impact
   - gaming
-technologies: []
+technologies:
+  - chatgpt
+  - google-ai-studio
 builders:
   - name: Teyran Nağıyeva

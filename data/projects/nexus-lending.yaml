@@ -20,6 +20,8 @@ technologies:
   - python
   - react
   - supabase
+  - tailwind-css
+  - vite
 builders:
   - name: Tejas Ved
   - name: Riya Ajay Singh

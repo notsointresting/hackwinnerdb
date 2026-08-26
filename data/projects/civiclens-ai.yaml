@@ -17,6 +17,7 @@ categories:
 technologies:
   - firebase
   - gemini
+  - nodejs
   - typescript
 builders:
   - name: Shivam Kumar

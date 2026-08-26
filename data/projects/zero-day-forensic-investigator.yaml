@@ -18,6 +18,7 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nodejs
   - typescript
 builders:
   - name: Dipanshu Rawat

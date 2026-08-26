@@ -13,7 +13,8 @@ categories:
   - climate
   - gaming
   - creative-tools
-technologies: []
+technologies:
+  - c
 builders:
   - name: Mkadan315 Kadanthod
   - name: Kevin Thomas

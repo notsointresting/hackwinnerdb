@@ -21,5 +21,6 @@ technologies:
   - opencv
   - python
   - react
+  - vite
 builders:
   - name: Triet Ly

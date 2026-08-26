@@ -16,7 +16,9 @@ categories:
   - enterprise
 technologies:
   - langchain
+  - mcp
   - python
+  - uvicorn
 builders:
   - name: Akshar Sameer Mehta
   - name: Richa Sapre

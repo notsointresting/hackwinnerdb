@@ -16,6 +16,7 @@ technologies:
   - postgresql
   - python
   - redis
+  - uvicorn
 builders:
   - name: David Oleksy
   - name: Jishnuu Senthil Kumar

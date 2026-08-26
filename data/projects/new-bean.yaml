@@ -15,6 +15,7 @@ technologies:
   - elevenlabs
   - gemini
   - javascript
+  - nodejs
 builders:
   - name: NEELESH ROY
   - name: Quyen La

@@ -19,5 +19,7 @@ technologies:
   - react
   - tailwind-css
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Naresh S

@@ -17,7 +17,9 @@ categories:
 technologies:
   - docker
   - langchain
+  - pydantic
   - python
+  - tailwind-css
   - typescript
 builders:
   - name: DYDAMIAN LENG

@@ -13,10 +13,12 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - social-impact
 technologies:
+  - chatgpt
   - claude
   - gemini
   - javascript
   - mongodb
+  - nextjs
   - python
   - react
   - typescript

@@ -14,9 +14,11 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - hugging-face
   - python
   - react
   - sqlite
+  - vite
 builders:
   - name: Antara Vadhera
   - name: Kanushi Dua

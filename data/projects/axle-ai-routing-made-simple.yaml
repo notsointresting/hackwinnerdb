@@ -15,9 +15,12 @@ categories:
   - education
   - fintech
 technologies:
+  - nextjs
+  - playwright
   - react
   - tailwind-css
   - typescript
+  - vitest
 builders:
   - name: Abhinav Ranish
   - name: Siddharth Sanjay

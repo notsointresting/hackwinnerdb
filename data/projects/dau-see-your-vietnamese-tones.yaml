@@ -1,0 +1,22 @@
+id: dau-see-your-vietnamese-tones
+name: Dấu - See your Vietnamese tones
+slug: dau-see-your-vietnamese-tones
+tagline: Dấu makes Vietnamese tones visible. Record a word, compare your pitch with validated
+  contours, see the meaning your tone created, and get the exact physical fix
+summary: Dấu turns Vietnamese tone practice into a visual exercise, charting a learner's recorded
+  pitch against validated reference contours. It names the meaning the produced tone actually
+  carries and describes the physical adjustment needed to correct it.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/MvwkqRmEpBg
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/991/567/datas/medium.png
+categories:
+  - education
+  - accessibility
+  - artificial-intelligence
+technologies:
+  - chatgpt
+  - codex
+builders:
+  - name: Robert Huynh

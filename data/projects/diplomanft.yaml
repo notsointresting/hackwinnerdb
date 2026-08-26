@@ -18,6 +18,7 @@ technologies:
   - claude
   - elevenlabs
   - gemini
+  - nextjs
   - openai
   - python
   - solana

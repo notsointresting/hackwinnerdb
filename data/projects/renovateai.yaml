@@ -14,10 +14,12 @@ categories:
   - other
 technologies:
   - claude
+  - codex
   - docker
   - gemini
   - postgresql
   - react
+  - vite
 builders:
   - name: Logan Quadros
   - name: Tej Prattipati

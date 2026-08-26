@@ -19,6 +19,7 @@ technologies:
   - flutter
   - javascript
   - mongodb
+  - nodejs
 builders:
   - name: Ashwin Annamalai Lena
   - name: Abul Hussain

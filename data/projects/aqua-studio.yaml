@@ -15,6 +15,7 @@ categories:
   - education
   - media
 technologies:
+  - nodejs
   - typescript
   - vercel
 builders:

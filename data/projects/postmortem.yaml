@@ -15,6 +15,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nextjs
   - supabase
   - tailwind-css
   - typescript

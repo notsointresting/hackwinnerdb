@@ -14,9 +14,12 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
   - react-native
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Oleks G

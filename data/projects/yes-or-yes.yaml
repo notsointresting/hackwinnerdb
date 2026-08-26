@@ -13,6 +13,7 @@ categories:
   - social-impact
 technologies:
   - nextjs
+  - playwright
   - redis
 builders:
   - name: lucas t

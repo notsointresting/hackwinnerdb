@@ -21,6 +21,8 @@ technologies:
   - python
   - react
   - supabase
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Kratagya Singh

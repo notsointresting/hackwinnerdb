@@ -15,9 +15,11 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - netlify
   - sql
   - supabase
   - vercel
+  - vite
 builders:
   - name: Matilda Verdejo Aitken
   - name: Maria Palacios

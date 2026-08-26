@@ -16,6 +16,7 @@ technologies:
   - figma
   - gemini
   - mongodb
+  - nodejs
   - react
 builders:
   - name: Julia Chaidez

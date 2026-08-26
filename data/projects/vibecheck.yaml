@@ -16,7 +16,10 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nodejs
   - react
+  - react-three-fiber
   - solana
+  - three-js
 builders:
   - name: Aaron Yew Sing Wong

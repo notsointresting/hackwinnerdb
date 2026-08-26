@@ -16,6 +16,7 @@ technologies:
   - arduino
   - c-plus-plus
   - javascript
+  - nodejs
 builders:
   - name: McKenzie Lam
   - name: Ariel Cthwe

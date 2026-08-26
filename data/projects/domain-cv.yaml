@@ -18,6 +18,8 @@ technologies:
   - javascript
   - opencv
   - python
+  - three-js
+  - uvicorn
 builders:
   - name: darren luu
   - name: Matthan Lu

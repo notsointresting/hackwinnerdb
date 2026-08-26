@@ -15,6 +15,7 @@ categories:
   - robotics
 technologies:
   - langchain
+  - pydantic
   - python
 builders:
   - name: Srajan Gupta

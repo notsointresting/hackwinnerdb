@@ -16,7 +16,10 @@ technologies:
   - claude
   - elevenlabs
   - gemini
+  - nodejs
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Krhystopher Killingsworth

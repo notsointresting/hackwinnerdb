@@ -18,6 +18,7 @@ technologies:
   - anthropic
   - claude
   - groq
+  - nodejs
 builders:
   - name: D DIVYASHREE
   - name: PEDDA NAGABHAVYA

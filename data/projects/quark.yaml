@@ -14,6 +14,7 @@ categories:
   - education
   - infrastructure
 technologies:
+  - codex
   - raspberry-pi
   - tensorflow
 builders:

@@ -17,6 +17,7 @@ technologies:
   - firebase
   - google-maps
   - mongodb
+  - nodejs
   - python
 builders:
   - name: Tanush Shah

@@ -13,7 +13,9 @@ categories:
   - gaming
   - creative-tools
 technologies:
+  - firebase
   - javascript
+  - vercel
 builders:
   - name: ANISHA SHANKAR
   - name: TEJAS GADGE

@@ -19,6 +19,7 @@ technologies:
   - javascript
   - python
   - typescript
+  - uvicorn
 builders:
   - name: Pranshu Jahagirdar
   - name: Advaith Neithalath

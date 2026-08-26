@@ -16,6 +16,7 @@ categories:
   - iot
 technologies:
   - gemini
+  - nextjs
   - tailwind-css
   - typescript
 builders:

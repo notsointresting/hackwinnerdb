@@ -16,7 +16,11 @@ categories:
   - social-impact
 technologies:
   - mongodb
+  - nodejs
+  - three-js
   - typescript
+  - vite
+  - webgl
 builders:
   - name: Akhil  Mattaparthi
   - name: Mark Hrytchak

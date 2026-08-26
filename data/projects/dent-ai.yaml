@@ -20,9 +20,11 @@ technologies:
   - figma
   - groq
   - opencv
+  - pydantic
   - python
   - pytorch
   - react
+  - uvicorn
 builders:
   - name: Sudarsan Srivathsun
   - name: Hitesh Kumar

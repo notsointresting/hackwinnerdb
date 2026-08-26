@@ -18,6 +18,7 @@ technologies:
   - claude
   - react
   - vercel
+  - vite
 builders:
   - name: Georgii Korotkov
   - name: Lera K

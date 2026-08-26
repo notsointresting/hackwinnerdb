@@ -18,5 +18,6 @@ technologies:
   - javascript
   - react
   - supabase
+  - vite
 builders:
   - name: Kaelah Emmanuel

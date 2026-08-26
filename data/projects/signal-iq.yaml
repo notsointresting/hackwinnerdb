@@ -19,6 +19,7 @@ technologies:
   - claude
   - docker
   - fastapi
+  - nextjs
   - postgresql
   - python
   - redis

@@ -16,7 +16,9 @@ categories:
   - ar-vr
 technologies:
   - javascript
+  - nodejs
   - typescript
+  - vite
 builders:
   - name: Gowtham Krishna
   - name: Dhanush Garikapati

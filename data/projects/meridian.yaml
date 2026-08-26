@@ -17,11 +17,15 @@ categories:
 technologies:
   - elevenlabs
   - fastapi
+  - nextjs
   - openai
+  - pydantic
   - python
   - react
   - sqlite
+  - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Nityanth  Maramreddy
   - name: AyaanFaisal F

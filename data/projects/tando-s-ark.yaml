@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - flutter
+  - nodejs
   - typescript
 builders:
   - name: Shamsudeen Adedokun

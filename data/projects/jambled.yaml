@@ -15,5 +15,6 @@ categories:
 technologies:
   - svelte
   - typescript
+  - vite
 builders:
   - name: 0BBLER H

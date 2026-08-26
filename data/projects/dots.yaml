@@ -20,6 +20,7 @@ technologies:
   - python
   - sqlite
   - swift
+  - uvicorn
 builders:
   - name: Manav Sharma
   - name: Ayush Srivastava

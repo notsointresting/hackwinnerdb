@@ -11,7 +11,8 @@ video_url: null
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/702/942/datas/gallery.jpg
 categories:
   - other
-technologies: []
+technologies:
+  - nextjs
 builders:
   - name: Tony Cheng
   - name: Mohammad Mashrur Mahtab Mahi

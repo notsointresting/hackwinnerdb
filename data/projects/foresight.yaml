@@ -17,8 +17,11 @@ categories:
   - climate
 technologies:
   - flask
+  - nodejs
+  - playwright
   - python
   - react
+  - vite
 builders:
   - name: Ian Sun
   - name: Matthew Han

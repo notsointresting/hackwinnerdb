@@ -16,6 +16,7 @@ categories:
   - fintech
 technologies:
   - javascript
+  - vite
 builders:
   - name: Dhruv Jayantilal Patel
   - name: Brian Beers

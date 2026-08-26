@@ -17,10 +17,14 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - python
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: Christian Lee

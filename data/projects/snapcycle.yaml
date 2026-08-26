@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - python
 builders:
   - name: Donggyu Yoon

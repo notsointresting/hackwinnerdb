@@ -21,6 +21,7 @@ technologies:
   - gemini
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Sourov Chowdhury

@@ -12,5 +12,9 @@ video_url: https://www.youtube.com/embed/f5j-jVM1FUg
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/024/511/datas/gallery.jpg
 categories:
   - iot
-technologies: []
+technologies:
+  - sqlite
+  - typescript
+  - vite
+  - zustand
 builders: []

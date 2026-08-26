@@ -1,0 +1,39 @@
+id: mechanica-a-digital-museum-of-ancient-chinese-machines
+name: Mechanica — A Digital Museum of Ancient Chinese Machines
+slug: mechanica-a-digital-museum-of-ancient-chinese-machines
+tagline: Four lost ancient Chinese machines reborn as physically-simulated, source-cited interactive
+  exhibits — with a GPT-5.6 docent that refuses to hallucinate.
+summary: Mechanica reconstructs four machines from ancient China as physically simulated,
+  interactive museum exhibits. Every exhibit is backed by cited sources, and its language-model
+  docent is constrained to answer only from them rather than improvising.
+website_url: null
+github_url: https://github.com/Caleb0796/mechanica
+demo_url: null
+video_url: https://www.youtube.com/embed/5yighBh6uZs
+image_url: null
+categories:
+  - education
+  - creative-tools
+  - artificial-intelligence
+technologies:
+  - codex
+  - github-actions
+  - i18next
+  - nodejs
+  - openai
+  - playwright
+  - pnpm
+  - react
+  - react-three-fiber
+  - responses-api
+  - three-js
+  - typescript
+  - vercel
+  - vite
+  - vitest
+  - webgl
+  - zustand
+builders:
+  - name: Caleb0796 wei
+  - name: yukunl Li
+  - name: O Z

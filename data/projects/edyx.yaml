@@ -13,12 +13,16 @@ categories:
   - artificial-intelligence
   - social-impact
 technologies:
+  - hugging-face
   - javascript
+  - nodejs
   - postgresql
   - react
   - supabase
+  - three-js
   - typescript
   - vercel
+  - vite
 builders:
   - name: Aditya Verma
   - name: Manika Kutiyal

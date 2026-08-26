@@ -16,11 +16,14 @@ categories:
   - blockchain
 technologies:
   - javascript
+  - nodejs
   - python
   - react
   - rust
   - solana
+  - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Shyam Sharma

@@ -21,6 +21,7 @@ technologies:
   - python
   - react
   - supabase
+  - vite
 builders:
   - name: JoshJuarez Juarez
   - name: Kwasi Gyimah-Asante

@@ -16,6 +16,8 @@ technologies:
   - gemini
   - google-cloud
   - javascript
+  - nextjs
+  - nodejs
   - postgresql
   - react
   - supabase

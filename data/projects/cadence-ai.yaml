@@ -15,8 +15,10 @@ categories:
   - healthcare
   - education
 technologies:
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: jagruth sai Bandla

@@ -17,9 +17,11 @@ categories:
   - education
 technologies:
   - groq
+  - nextjs
   - postgresql
   - react
   - supabase
+  - tailwind-css
   - typescript
   - vercel
 builders:

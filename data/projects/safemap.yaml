@@ -18,6 +18,7 @@ technologies:
   - python
   - typescript
   - vercel
+  - vite
 builders:
   - name: Ayush Sarkar
   - name: Shaiza Iqubal

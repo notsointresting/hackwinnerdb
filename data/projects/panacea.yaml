@@ -19,6 +19,7 @@ technologies:
   - python
   - pytorch
   - react
+  - vite
 builders:
   - name: Raksshana Harish Babu
   - name: Varun Nair

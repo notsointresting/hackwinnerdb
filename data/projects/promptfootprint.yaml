@@ -15,7 +15,9 @@ categories:
   - education
   - climate
 technologies:
+  - chrome
   - javascript
+  - nextjs
   - react
   - vercel
 builders:

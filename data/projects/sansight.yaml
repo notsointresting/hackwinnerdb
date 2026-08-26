@@ -16,6 +16,7 @@ categories:
   - accessibility
 technologies:
   - groq
+  - nextjs
   - python
   - react
   - typescript

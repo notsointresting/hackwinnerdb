@@ -14,6 +14,7 @@ categories:
 technologies:
   - gemini
   - mapbox
+  - nextjs
 builders:
   - name: Patrick Liu
   - name: Bardia Anvari

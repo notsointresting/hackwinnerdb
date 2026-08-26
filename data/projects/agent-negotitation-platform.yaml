@@ -20,6 +20,8 @@ technologies:
   - python
   - react
   - stripe
+  - uvicorn
+  - vite
 builders:
   - name: Aditya Dawadikar
   - name: Manjunatha Inti

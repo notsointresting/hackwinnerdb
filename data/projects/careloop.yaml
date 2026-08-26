@@ -18,9 +18,11 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - pydantic
   - python
   - redis
   - stripe
+  - uvicorn
 builders:
   - name: Paria First Star
   - name: Vishal Jaiminbhai Dani

@@ -15,10 +15,13 @@ categories:
   - media
 technologies:
   - docker
+  - javascript
+  - nextjs
   - opencv
   - python
   - pytorch
   - react
+  - supabase
   - tailwind-css
   - typescript
 builders:

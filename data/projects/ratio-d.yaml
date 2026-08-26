@@ -18,6 +18,7 @@ technologies:
   - claude
   - fastapi
   - openai
+  - pydantic
   - python
   - react
   - whisper

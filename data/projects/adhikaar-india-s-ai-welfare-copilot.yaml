@@ -17,6 +17,7 @@ categories:
   - govtech
 technologies:
   - docker
+  - nodejs
   - python
   - tailwind-css
   - typescript

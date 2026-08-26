@@ -20,6 +20,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Skye Whistler
   - name: Meda Juodzeviciute

@@ -1,5 +1,5 @@
 import "server-only";
-import { yamlRepository } from "./load-dataset";
+import { generatedRepository, yamlRepository } from "./load-dataset";
 import type { Dataset } from "@/types";
 
 export { computeStats, type DataRepository } from "./load-dataset";
@@ -13,4 +13,13 @@ let dataset: Dataset | undefined;
 export function getDataset(): Dataset {
   if (!dataset) dataset = yamlRepository.getDataset();
   return dataset;
+}
+
+// Separate singleton: the MCP route reads the build artifact so a request is not
+// paying for a full YAML parse, while page rendering keeps reading YAML.
+let generated: Dataset | undefined;
+
+export function getGeneratedDataset(): Dataset {
+  if (!generated) generated = generatedRepository.getDataset();
+  return generated;
 }

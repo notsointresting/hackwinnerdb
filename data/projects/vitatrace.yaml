@@ -19,5 +19,6 @@ technologies:
   - javascript
   - postgresql
   - python
+  - vite
 builders:
   - name: Reenu  Supreeta

@@ -15,5 +15,6 @@ categories:
   - education
 technologies:
   - gemini
+  - nodejs
 builders:
   - name: Sonic Shrestha

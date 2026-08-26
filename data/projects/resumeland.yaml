@@ -15,8 +15,10 @@ categories:
 technologies:
   - gemini
   - mongodb
+  - nextjs
   - solana
   - typescript
+  - webgl
 builders:
   - name: Cheerful Chipmunk
   - name: Sai Gayathri Prakash

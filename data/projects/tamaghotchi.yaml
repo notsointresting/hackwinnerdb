@@ -18,6 +18,7 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - web-audio-api
 builders:
   - name: rushi singaram
   - name: Weiqi Xu

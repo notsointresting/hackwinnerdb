@@ -13,5 +13,6 @@ categories:
   - gaming
 technologies:
   - unity
+  - webgl
 builders:
   - name: Dharanidhar Venugopal

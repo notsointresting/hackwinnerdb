@@ -16,10 +16,13 @@ categories:
   - education
   - social-impact
 technologies:
+  - codex
   - fastapi
+  - pydantic
   - python
   - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Aditya Potharlanka
   - name: Coder-Vishnu

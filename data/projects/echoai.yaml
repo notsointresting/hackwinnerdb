@@ -17,6 +17,8 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nodejs
   - react
+  - vite
 builders:
   - name: Rajanya Saha

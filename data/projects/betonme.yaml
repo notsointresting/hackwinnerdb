@@ -15,9 +15,11 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nodejs
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Alex Lanter
   - name: Shaan Bawa

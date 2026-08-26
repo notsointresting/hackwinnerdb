@@ -19,9 +19,11 @@ technologies:
   - gemini
   - groq
   - javascript
+  - nodejs
   - postgresql
   - react
   - supabase
   - vercel
+  - vite
 builders:
   - name: Maximilian Chapman Sadarnac

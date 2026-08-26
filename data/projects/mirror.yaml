@@ -20,5 +20,6 @@ technologies:
   - fastapi
   - python
   - react
+  - vite
 builders:
   - name: Ramani Satishkumar

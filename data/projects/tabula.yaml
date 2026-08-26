@@ -17,10 +17,15 @@ technologies:
   - anthropic
   - fastapi
   - mongodb
+  - playwright
+  - pydantic
   - python
   - react
   - sqlite
+  - tailwind-css
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Ponita Ty
   - name: Victor Park

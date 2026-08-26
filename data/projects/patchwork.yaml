@@ -14,6 +14,7 @@ categories:
   - education
   - robotics
 technologies:
+  - figma
   - opencv
   - python
   - pytorch

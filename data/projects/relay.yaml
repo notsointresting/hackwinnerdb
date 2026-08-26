@@ -16,8 +16,12 @@ technologies:
   - claude
   - docker
   - fastapi
+  - javascript
   - postgresql
   - python
+  - react
   - redis
+  - sql
+  - supabase
 builders:
   - name: slindelow Lindelow

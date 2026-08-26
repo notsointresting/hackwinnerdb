@@ -17,5 +17,7 @@ technologies:
   - groq
   - react
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Dhanraj Nandurkar

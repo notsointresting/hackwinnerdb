@@ -16,4 +16,5 @@ categories:
   - cybersecurity
 technologies:
   - rust
+  - vite
 builders: []

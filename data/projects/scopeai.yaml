@@ -14,7 +14,9 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - react
   - supabase
+  - vite
 builders:
   - name: Mojeeb Titilayo

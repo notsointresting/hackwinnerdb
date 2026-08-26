@@ -17,6 +17,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Eva Jiang
   - name: Jenny Sun

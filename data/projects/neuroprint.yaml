@@ -18,6 +18,7 @@ technologies:
   - python
   - react
   - sqlite
+  - vite
 builders:
   - name: Sharon Lee
   - name: davidchong1224 Chong

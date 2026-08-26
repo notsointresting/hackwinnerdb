@@ -14,6 +14,8 @@ categories:
   - gaming
 technologies:
   - javascript
+  - nodejs
+  - three-js
 builders:
   - name: Mandon K
   - name: Lucas Vo-Dignard

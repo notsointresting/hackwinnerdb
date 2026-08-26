@@ -15,6 +15,7 @@ categories:
   - infrastructure
 technologies:
   - go
+  - nextjs
 builders:
   - name: Sadi Rahman
   - name: Ankit Bhandiwad

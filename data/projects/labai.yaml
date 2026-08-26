@@ -19,5 +19,6 @@ technologies:
   - javascript
   - supabase
   - typescript
+  - vite
 builders:
   - name: Fawad Nadeem

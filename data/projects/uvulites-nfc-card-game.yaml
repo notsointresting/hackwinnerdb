@@ -15,6 +15,7 @@ categories:
   - gaming
 technologies:
   - arduino
+  - c
   - sqlite
 builders:
   - name: Nathan Davis

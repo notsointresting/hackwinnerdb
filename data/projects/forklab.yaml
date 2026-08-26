@@ -15,8 +15,11 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - github-actions
+  - nextjs
   - python
   - react
   - typescript
+  - vitest
 builders:
   - name: Kabir Koratkar

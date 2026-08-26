@@ -16,6 +16,7 @@ categories:
 technologies:
   - docker
   - javascript
+  - nodejs
   - typescript
 builders:
   - name: Owen Cunnie

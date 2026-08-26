@@ -14,7 +14,9 @@ categories:
 technologies:
   - fastapi
   - groq
+  - pydantic
   - python
   - react
+  - uvicorn
 builders:
   - name: Anjini Banerjee

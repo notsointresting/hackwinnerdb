@@ -18,6 +18,7 @@ technologies:
   - fastapi
   - groq
   - typescript
+  - vite
 builders:
   - name: Akhil Sachar
   - name: Pranav Kocharlakota

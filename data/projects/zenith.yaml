@@ -16,8 +16,10 @@ technologies:
   - fastapi
   - javascript
   - postgresql
+  - pytest
   - python
   - react
+  - vite
 builders:
   - name: Alberto Paz
   - name: alex-mosquera-gundin

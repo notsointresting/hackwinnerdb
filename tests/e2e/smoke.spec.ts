@@ -9,12 +9,16 @@ test("homepage shows real statistics and recent winners", async ({ page }) => {
 
 test("search finds a seeded project", async ({ page }) => {
   await page.goto("/projects");
-  await page.getByLabel("Search HackWinnerDB").fill("Mochi");
-  await page.waitForLoadState('networkidle');
-  // For mobile, ensure header is not blocking by scrolling into view
-  await page.getByRole("button", { name: "Search", exact: true }).scrollIntoViewIfNeeded();
-  await page.waitForTimeout(300);
-  await page.getByRole("button", { name: "Search", exact: true }).click();
+  // Target the toolbar input by id: "Search HackWinnerDB" also labels the command
+  // palette, so the accessible name alone is ambiguous.
+  const search = page.locator("#results-search");
+  await search.fill("Mochi");
+  await page.waitForLoadState("networkidle");
+  // Submit with the keyboard rather than clicking the button. On a narrow
+  // viewport the toolbar wraps and the sticky header covers the submit button,
+  // so a click gets intercepted no matter how far we scroll - and pressing
+  // Enter is what a phone keyboard actually does.
+  await search.press("Enter");
   await expect(page).toHaveURL(/q=Mochi/);
   await page.waitForLoadState('networkidle');
   // Use first() to handle multiple results with same name, then verify it's visible

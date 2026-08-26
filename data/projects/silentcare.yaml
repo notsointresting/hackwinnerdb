@@ -14,8 +14,10 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Armita T.
   - name: aizah sadiq

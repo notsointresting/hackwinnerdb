@@ -16,9 +16,11 @@ categories:
   - fintech
 technologies:
   - groq
+  - nodejs
   - tailwind-css
   - twilio
   - vercel
+  - vite
 builders:
   - name: Omkar Patil
   - name: Rahul Kewat

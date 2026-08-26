@@ -14,11 +14,17 @@ categories:
   - education
 technologies:
   - claude
+  - nextjs
+  - nodejs
+  - playwright
   - postgresql
   - react
   - supabase
   - tailwind-css
   - typescript
+  - vite
+  - vitest
+  - zustand
 builders:
   - name: Matthew Kim
   - name: Leo Wu-Hacohen

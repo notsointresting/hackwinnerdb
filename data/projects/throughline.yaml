@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - github-actions
   - llama
   - python
   - react

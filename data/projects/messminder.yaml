@@ -16,7 +16,10 @@ technologies:
   - gemini
   - google-ai-studio
   - javascript
+  - nodejs
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Simanta Bawali

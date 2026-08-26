@@ -17,6 +17,7 @@ categories:
   - education
 technologies:
   - docker
+  - mcp
   - python
 builders:
   - name: Bhavna Gupta

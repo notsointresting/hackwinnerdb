@@ -17,6 +17,7 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nextjs
   - postgresql
   - python
   - react

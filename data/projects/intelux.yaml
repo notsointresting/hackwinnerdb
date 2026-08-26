@@ -17,6 +17,7 @@ technologies:
   - elevenlabs
   - opencv
   - python
+  - raspberry-pi
   - yolo
 builders:
   - name: Aayush Acharya

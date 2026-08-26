@@ -21,6 +21,7 @@ technologies:
   - react
   - sql
   - typescript
+  - vite
 builders:
   - name: Joel Sanfeliu
   - name: Miquel Àngel Llauger Suau

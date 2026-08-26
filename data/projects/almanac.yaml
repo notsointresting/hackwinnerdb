@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - typescript
 builders:
   - name: Christopher Powroznik

@@ -14,6 +14,7 @@ categories:
 technologies:
   - claude
   - figma
+  - hugging-face
   - llama
   - python
 builders:

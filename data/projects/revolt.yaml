@@ -17,9 +17,12 @@ technologies:
   - elevenlabs
   - fastapi
   - gemini
+  - nextjs
   - python
   - react
+  - react-three-fiber
   - sqlite
+  - three-js
   - typescript
 builders:
   - name: bat man

@@ -15,5 +15,6 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - codex
   - tensorflow
 builders: []

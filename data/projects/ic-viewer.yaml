@@ -16,8 +16,10 @@ technologies:
   - cloudflare
   - fastapi
   - openai
+  - playwright
   - python
   - react
+  - three-js
   - typescript
 builders:
   - name: AIALRA Lucas Ding

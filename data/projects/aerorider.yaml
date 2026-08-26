@@ -18,5 +18,6 @@ technologies:
   - google-maps
   - javascript
   - python
+  - three-js
 builders:
   - name: Mukunth Vaibhav Ganesh Kumar

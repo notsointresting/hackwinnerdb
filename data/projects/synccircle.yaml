@@ -14,8 +14,10 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Itz Harry
   - name: Alexander Liew

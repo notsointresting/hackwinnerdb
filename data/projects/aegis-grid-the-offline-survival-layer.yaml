@@ -17,7 +17,9 @@ categories:
 technologies:
   - nextjs
   - react
+  - three-js
   - typescript
+  - web-audio-api
   - webrtc
 builders:
   - name: Priyansh Narang

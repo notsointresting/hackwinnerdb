@@ -15,11 +15,14 @@ categories:
 technologies:
   - elevenlabs
   - fastapi
+  - nodejs
   - postgresql
+  - pydantic
   - python
   - react
   - solana
   - twilio
   - typescript
+  - vite
 builders:
   - name: Ray Flanagan

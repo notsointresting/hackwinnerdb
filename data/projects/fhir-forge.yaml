@@ -16,6 +16,9 @@ categories:
   - healthcare
   - education
 technologies:
+  - mcp
+  - nodejs
   - typescript
+  - vite
 builders:
   - name: Chirag H

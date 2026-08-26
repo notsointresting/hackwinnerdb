@@ -18,8 +18,11 @@ technologies:
   - docker
   - fastapi
   - gemini
+  - pydantic
   - python
   - react
+  - three-js
   - typescript
+  - vite
 builders:
   - name: N DIVIJ .

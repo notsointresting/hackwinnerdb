@@ -16,6 +16,7 @@ categories:
   - fintech
 technologies:
   - tailwind-css
+  - vite
 builders:
   - name: Maxwell Moore
   - name: Rohit Ravi

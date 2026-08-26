@@ -17,6 +17,7 @@ technologies:
   - c-plus-plus
   - figma
   - mongodb
+  - nodejs
   - react
 builders:
   - name: Linh Tran

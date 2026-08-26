@@ -16,6 +16,7 @@ categories:
   - healthcare
   - cybersecurity
 technologies:
+  - nextjs
   - postgresql
   - react
   - supabase

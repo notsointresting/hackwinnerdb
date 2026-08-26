@@ -15,9 +15,11 @@ categories:
   - education
 technologies:
   - fastapi
+  - nodejs
   - opencv
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Isak Pederson

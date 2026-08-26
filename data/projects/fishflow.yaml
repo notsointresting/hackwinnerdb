@@ -16,7 +16,11 @@ technologies:
   - anthropic
   - claude
   - docker
+  - pytest
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
+  - vitest
 builders: []

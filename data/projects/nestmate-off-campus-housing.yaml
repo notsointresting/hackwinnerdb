@@ -16,9 +16,12 @@ categories:
   - creative-tools
 technologies:
   - fastapi
+  - nextjs
+  - pydantic
   - react
   - supabase
   - typescript
+  - uvicorn
 builders:
   - name: Tanay Panja
   - name: Matthew Zhang
