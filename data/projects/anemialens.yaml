@@ -17,6 +17,7 @@ technologies:
   - docker
   - fastapi
   - opencv
+  - playwright
   - postgresql
   - python
   - pytorch
@@ -25,5 +26,6 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Asnan P

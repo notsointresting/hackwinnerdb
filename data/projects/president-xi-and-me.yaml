@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - mcp
   - supabase
 builders:
   - name: Randy Fong

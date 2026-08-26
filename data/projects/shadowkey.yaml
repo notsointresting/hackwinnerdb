@@ -17,5 +17,6 @@ technologies:
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Atharv Mantri

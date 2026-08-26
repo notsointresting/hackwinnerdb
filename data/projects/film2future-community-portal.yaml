@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - mongodb
+  - nodejs
   - react
 builders:
   - name: Xinyuan Li

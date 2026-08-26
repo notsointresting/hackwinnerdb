@@ -15,7 +15,9 @@ categories:
   - education
 technologies:
   - gemini
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Rameeza tech

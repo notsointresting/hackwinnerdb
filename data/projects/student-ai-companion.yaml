@@ -15,6 +15,7 @@ categories:
 technologies:
   - javascript
   - tailwind-css
+  - vite
 builders:
   - name: Diya Patel
   - name: Yesha Amin

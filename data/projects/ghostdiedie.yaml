@@ -18,11 +18,15 @@ technologies:
   - fastapi
   - javascript
   - opencv
+  - pydantic
   - python
   - react
+  - react-three-fiber
   - supabase
   - tailwind-css
+  - three-js
   - vercel
+  - vite
   - webrtc
 builders:
   - name: Wonjae Kim

@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - elevenlabs
+  - nodejs
   - react
 builders:
   - name: Jay Rao

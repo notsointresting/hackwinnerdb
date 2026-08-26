@@ -15,7 +15,10 @@ categories:
   - education
 technologies:
   - firebase
+  - nodejs
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Alishba Jafri
   - name: Ruba Osman

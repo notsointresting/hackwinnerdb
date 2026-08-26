@@ -16,9 +16,12 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Rafael Lopez
   - name: Jordan Valerio

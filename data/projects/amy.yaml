@@ -20,7 +20,9 @@ technologies:
   - javascript
   - opencv
   - python
+  - three-js
   - typescript
+  - vite
   - vue
 builders:
   - name: Jacob Cho

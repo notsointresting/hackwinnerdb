@@ -17,8 +17,10 @@ technologies:
   - claude
   - fastapi
   - javascript
+  - nextjs
   - opencv
   - python
+  - uvicorn
 builders:
   - name: Samuel Araya
   - name: Daniel Caceres

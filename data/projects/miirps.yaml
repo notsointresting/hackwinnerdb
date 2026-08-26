@@ -16,6 +16,7 @@ technologies:
   - react
   - redis
   - typescript
+  - vite
 builders:
   - name: Herman Ptacnik
   - name: ScoreSpace .

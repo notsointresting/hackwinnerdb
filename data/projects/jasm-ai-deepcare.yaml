@@ -16,6 +16,7 @@ categories:
   - iot
 technologies:
   - javascript
+  - nodejs
   - postgresql
 builders:
   - name: Smital Lunawat

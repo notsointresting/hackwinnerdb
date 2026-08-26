@@ -17,6 +17,8 @@ categories:
   - fintech
 technologies:
   - elevenlabs
+  - nextjs
+  - nodejs
   - react
   - solana
   - tailwind-css

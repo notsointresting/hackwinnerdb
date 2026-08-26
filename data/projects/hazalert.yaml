@@ -19,8 +19,11 @@ technologies:
   - google-ai-studio
   - google-maps
   - javascript
+  - nodejs
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Mukund Ummadisetti
   - name: Dhruv Kothari

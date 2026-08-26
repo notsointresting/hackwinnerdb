@@ -15,6 +15,7 @@ categories:
   - healthcare
   - cybersecurity
 technologies:
+  - nextjs
   - opencv
   - react
   - typescript

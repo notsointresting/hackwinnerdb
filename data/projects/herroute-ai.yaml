@@ -19,6 +19,7 @@ technologies:
   - groq
   - javascript
   - postgresql
+  - pytest
   - python
   - redis
 builders:

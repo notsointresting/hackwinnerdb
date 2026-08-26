@@ -13,6 +13,7 @@ categories:
   - other
 technologies:
   - docker
+  - nodejs
   - react
 builders:
   - name: Merrick Marshall

@@ -18,6 +18,8 @@ technologies:
   - fastapi
   - firebase
   - javascript
+  - nextjs
+  - openai-api
   - python
   - react
   - react-native

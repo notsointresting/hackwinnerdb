@@ -15,6 +15,7 @@ technologies:
   - figma
   - react
   - tailwind-css
+  - vite
 builders:
   - name: Evelyn Hur
   - name: Aayush Jain

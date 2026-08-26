@@ -16,6 +16,7 @@ categories:
   - climate
 technologies:
   - mongodb
+  - nodejs
   - react
   - typescript
 builders:

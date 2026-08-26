@@ -15,5 +15,7 @@ categories:
   - fintech
 technologies:
   - javascript
+  - nodejs
+  - vite
 builders:
   - name: AHJL Lee

@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - docker
+  - nodejs
   - python
   - typescript
 builders:

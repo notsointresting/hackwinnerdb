@@ -14,5 +14,7 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - three-js
+  - webgl
 builders:
   - name: Aditya Anand

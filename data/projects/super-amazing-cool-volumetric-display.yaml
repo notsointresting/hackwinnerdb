@@ -13,6 +13,7 @@ image_url: null
 categories:
   - creative-tools
 technologies:
+  - c
   - python
   - raspberry-pi
 builders:

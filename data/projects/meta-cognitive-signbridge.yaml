@@ -16,6 +16,8 @@ categories:
   - accessibility
 technologies:
   - gemini
+  - nodejs
   - react
   - typescript
+  - webgl
 builders: []

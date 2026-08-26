@@ -14,6 +14,9 @@ categories:
   - education
 technologies:
   - c-plus-plus
+  - netlify
+  - nextjs
+  - nodejs
   - python
   - react
   - typescript

@@ -17,5 +17,6 @@ categories:
 technologies:
   - gemini
   - react
+  - vite
 builders:
   - name: Shakira Santos

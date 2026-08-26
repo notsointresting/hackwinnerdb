@@ -17,6 +17,7 @@ technologies:
   - elevenlabs
   - fastapi
   - javascript
+  - powershell
   - python
   - react
 builders:

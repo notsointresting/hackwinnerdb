@@ -14,10 +14,12 @@ categories:
   - social-impact
 technologies:
   - google-maps
+  - nodejs
   - openai
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Yuvan Pradeep
   - name: Satvik Sharma

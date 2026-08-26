@@ -18,6 +18,7 @@ technologies:
   - claude
   - gemini
   - javascript
+  - nextjs
   - supabase
   - typescript
   - vercel

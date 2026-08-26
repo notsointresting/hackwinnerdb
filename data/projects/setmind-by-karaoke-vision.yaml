@@ -16,7 +16,10 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - react
+  - vite
+  - web-audio-api
 builders:
   - name: Bhargav Malluvajhula
   - name: Tanush Shah

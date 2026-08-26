@@ -16,6 +16,12 @@ categories:
   - cybersecurity
 technologies:
   - javascript
+  - nextjs
+  - nodejs
+  - playwright
+  - react
+  - tailwind-css
+  - typescript
   - vercel
 builders:
   - name: Bobs theBuilder

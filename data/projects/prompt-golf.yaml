@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
 technologies:
   - elevenlabs
+  - nextjs
   - redis
   - typescript
   - vercel

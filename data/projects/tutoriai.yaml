@@ -19,6 +19,7 @@ technologies:
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Tamim Kabir
   - name: Bekbol Shiribaiev

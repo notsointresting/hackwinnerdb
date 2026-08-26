@@ -16,7 +16,9 @@ categories:
   - creative-tools
 technologies:
   - docker
+  - nodejs
   - postgresql
   - react
   - sqlite
+  - vite
 builders: []

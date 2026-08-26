@@ -15,8 +15,11 @@ categories:
 technologies:
   - gemini
   - javascript
+  - playwright
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Aishwanth Aishwanth M S
   - name: Vishwajeeth96 Rao

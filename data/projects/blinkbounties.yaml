@@ -13,6 +13,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nextjs
   - react
   - rust
   - solana

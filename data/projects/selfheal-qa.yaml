@@ -15,6 +15,7 @@ categories:
   - education
   - robotics
 technologies:
+  - playwright
   - python
   - typescript
 builders:

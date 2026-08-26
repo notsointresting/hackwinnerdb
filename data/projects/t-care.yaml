@@ -17,8 +17,10 @@ categories:
   - creative-tools
 technologies:
   - google-maps
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Derek Sun
   - name: ryantrain Tran

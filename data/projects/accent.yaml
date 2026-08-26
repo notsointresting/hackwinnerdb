@@ -14,11 +14,14 @@ categories:
   - accessibility
   - social-impact
 technologies:
+  - codex
   - elevenlabs
   - gemini
   - google-cloud
+  - hugging-face
   - langchain
   - opencv
+  - pydantic
   - python
   - pytorch
   - swift

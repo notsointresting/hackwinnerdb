@@ -14,8 +14,10 @@ categories:
   - education
   - social-impact
 technologies:
+  - fastapi
   - figma
   - mongodb
+  - nodejs
   - python
   - react-native
 builders:

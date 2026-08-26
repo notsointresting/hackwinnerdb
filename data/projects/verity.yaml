@@ -16,6 +16,7 @@ categories:
   - iot
 technologies:
   - postgresql
+  - python
   - react
   - redis
   - tailwind-css

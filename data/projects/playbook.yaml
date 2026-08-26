@@ -15,6 +15,7 @@ categories:
   - productivity
 technologies:
   - elevenlabs
+  - nextjs
   - supabase
 builders:
   - name: Akshith Ambekar

@@ -17,10 +17,12 @@ technologies:
   - fastapi
   - gemini
   - mapbox
+  - nextjs
   - postgresql
   - python
   - react
   - supabase
+  - three-js
 builders:
   - name: Sara Khan
   - name: Inika Goyal

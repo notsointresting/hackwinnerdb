@@ -16,6 +16,7 @@ technologies:
   - javascript
   - python
   - react
+  - vite
 builders:
   - name: Megan Ou
   - name: Anna Tymoshenko

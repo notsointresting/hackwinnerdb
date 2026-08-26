@@ -17,6 +17,7 @@ technologies:
   - elevenlabs
   - kotlin
   - mongodb
+  - nodejs
   - react
   - typescript
 builders:

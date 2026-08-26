@@ -14,6 +14,7 @@ categories:
   - web3
 technologies:
   - gemini
+  - nodejs
   - react
   - solana
   - typescript

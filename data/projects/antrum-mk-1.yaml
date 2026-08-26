@@ -14,7 +14,9 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - infrastructure
 technologies:
+  - c
   - c-plus-plus
+  - codex
   - esp32
   - mongodb
   - typescript

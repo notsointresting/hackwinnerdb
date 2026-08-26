@@ -19,6 +19,7 @@ technologies:
   - mongodb
   - nextjs
   - react
+  - vite
 builders:
   - name: Eojin Lee
   - name: Linda L

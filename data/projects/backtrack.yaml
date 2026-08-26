@@ -11,7 +11,11 @@ video_url: https://www.youtube.com/embed/OVjSLQr682c
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/562/730/datas/gallery.jpg
 categories:
   - other
-technologies: []
+technologies:
+  - fastapi
+  - nextjs
+  - python
+  - typescript
 builders:
   - name: Manu Hari
   - name: Romita Veeramallu

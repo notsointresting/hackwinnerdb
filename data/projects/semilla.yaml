@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - azure
+  - nextjs
   - openai
   - react
   - sql

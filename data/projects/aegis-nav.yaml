@@ -14,8 +14,13 @@ categories:
   - other
 technologies:
   - fastapi
+  - pydantic
   - python
+  - react-three-fiber
+  - three-js
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Sanjay Vellore
   - name: Karthik Tummala

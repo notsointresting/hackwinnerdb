@@ -19,9 +19,12 @@ technologies:
   - docker
   - fastapi
   - postgresql
+  - pydantic
+  - pytest
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: mohamed hamdy
   - name: Ibrahim Saied

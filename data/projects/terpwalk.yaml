@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Somya Kochar
   - name: Disha Tulsyan

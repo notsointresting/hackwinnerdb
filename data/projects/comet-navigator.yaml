@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - gemini
   - mongodb
+  - pydantic
   - python
   - typescript
 builders:

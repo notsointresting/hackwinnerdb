@@ -17,6 +17,8 @@ categories:
 technologies:
   - azure
   - elevenlabs
+  - nextjs
+  - nodejs
   - solana
   - typescript
 builders:

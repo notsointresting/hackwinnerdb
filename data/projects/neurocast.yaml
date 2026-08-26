@@ -17,5 +17,6 @@ categories:
   - education
 technologies:
   - elevenlabs
+  - nodejs
 builders:
   - name: Ethan Nguyen

@@ -19,9 +19,11 @@ technologies:
   - elevenlabs
   - flask
   - javascript
+  - nodejs
   - opencv
   - python
   - react
+  - vite
 builders:
   - name: Antara Chhabra
   - name: authentic-arc

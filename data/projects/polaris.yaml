@@ -15,6 +15,8 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - chatgpt
   - claude
+  - codex
 builders:
   - name: Alexander Nichols

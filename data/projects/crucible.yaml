@@ -13,7 +13,11 @@ categories:
   - artificial-intelligence
   - education
   - productivity
-technologies: []
+technologies:
+  - nodejs
+  - react
+  - vite
+  - zustand
 builders:
   - name: Josue Diaz
   - name: Ulises Diaz

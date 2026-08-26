@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - chainlink
+  - nextjs
   - python
   - typescript
 builders:

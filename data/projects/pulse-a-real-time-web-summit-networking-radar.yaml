@@ -22,6 +22,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Aditya Padmarajan
   - name: Lucas Wang

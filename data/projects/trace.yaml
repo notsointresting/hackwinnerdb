@@ -18,6 +18,7 @@ technologies:
   - python
   - react
   - vercel
+  - vite
 builders:
   - name: Joshua France
   - name: Shiyi Zhang

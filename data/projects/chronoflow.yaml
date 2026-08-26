@@ -16,5 +16,6 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Nasrallah Dammaj

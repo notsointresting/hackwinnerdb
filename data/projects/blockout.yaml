@@ -15,6 +15,7 @@ technologies:
   - arduino
   - esp32
   - gemini
+  - nodejs
   - swift
 builders:
   - name: Sami Maghnaoui

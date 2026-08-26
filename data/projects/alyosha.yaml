@@ -15,6 +15,7 @@ categories:
   - education
   - social-impact
 technologies:
+  - chatgpt
   - claude
   - supabase
 builders:

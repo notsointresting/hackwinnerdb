@@ -15,5 +15,6 @@ categories:
   - cybersecurity
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Numan Malik

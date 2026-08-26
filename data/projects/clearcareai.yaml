@@ -16,7 +16,9 @@ categories:
   - creative-tools
 technologies:
   - fastapi
+  - netlify
   - python
   - react
   - supabase
+  - vite
 builders: []

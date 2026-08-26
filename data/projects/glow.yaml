@@ -17,6 +17,7 @@ technologies:
   - opencv
   - python
   - react
+  - vite
 builders:
   - name: Abigail Wang
   - name: mountainquail c

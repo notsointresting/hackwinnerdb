@@ -13,6 +13,8 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nextjs
+  - nodejs
   - openai
   - react
   - supabase

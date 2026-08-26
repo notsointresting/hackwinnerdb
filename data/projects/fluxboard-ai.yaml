@@ -14,8 +14,13 @@ categories:
   - education
 technologies:
   - gemini
+  - nextjs
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
+  - vite
+  - zustand
 builders:
   - name: Irshad  Ahamed
   - name: Hariharasudan A

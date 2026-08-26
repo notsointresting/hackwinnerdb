@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - esp32
+  - nextjs
   - openai
   - supabase
   - typescript

@@ -15,7 +15,11 @@ categories:
   - cybersecurity
   - blockchain
 technologies:
+  - nodejs
   - react
+  - tailwind-css
+  - vite
+  - zustand
 builders:
   - name: Pranilash Reddy
   - name: Unknownme None

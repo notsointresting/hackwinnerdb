@@ -16,8 +16,10 @@ categories:
   - fintech
 technologies:
   - django
+  - pydantic
   - react
   - typescript
+  - vite
 builders:
   - name: Ishan Singla
   - name: Andi Mawladri

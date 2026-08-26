@@ -17,12 +17,15 @@ categories:
 technologies:
   - elevenlabs
   - fastapi
+  - nextjs
   - openai
+  - playwright
   - python
   - react
   - supabase
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Hari Viswanathan
   - name: Adithya Narayanan

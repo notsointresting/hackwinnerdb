@@ -18,6 +18,7 @@ technologies:
   - arduino
   - fastapi
   - react
+  - three-js
 builders:
   - name: Alexander Hamilton
   - name: Lucas Peterson

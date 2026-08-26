@@ -14,9 +14,13 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nodejs
+  - pytest
   - python
   - pytorch
   - react
   - typescript
+  - uv
+  - vite
 builders:
   - name: Henry Zhao

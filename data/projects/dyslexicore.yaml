@@ -16,8 +16,10 @@ categories:
   - enterprise
 technologies:
   - fastapi
+  - nextjs
   - python
   - react
   - sqlite
   - typescript
+  - uvicorn
 builders: []

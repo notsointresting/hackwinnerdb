@@ -16,7 +16,9 @@ categories:
   - cloud
   - media
 technologies:
+  - chrome
   - elevenlabs
   - gemini
+  - nodejs
 builders:
   - name: Kishan Kumar

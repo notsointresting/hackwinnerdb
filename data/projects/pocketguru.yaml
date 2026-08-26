@@ -18,6 +18,7 @@ technologies:
   - gemini
   - postgresql
   - python
+  - vite
 builders:
   - name: Huy Nguyen
   - name: Trang Truong

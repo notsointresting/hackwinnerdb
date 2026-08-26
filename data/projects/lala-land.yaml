@@ -16,5 +16,6 @@ categories:
 technologies:
   - c-plus-plus
   - javascript
+  - nodejs
 builders:
   - name: Yash Vardhan Singh

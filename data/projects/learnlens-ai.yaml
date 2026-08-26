@@ -16,6 +16,7 @@ categories:
   - media
 technologies:
   - javascript
+  - nodejs
   - react
 builders:
   - name: Pratham Revankar

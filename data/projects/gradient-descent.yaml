@@ -15,8 +15,10 @@ categories:
   - gaming
 technologies:
   - claude
+  - codex
   - javascript
   - typescript
+  - vite
 builders:
   - name: Matthew Ma
   - name: Ayaan Malik

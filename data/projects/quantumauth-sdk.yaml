@@ -15,8 +15,11 @@ categories:
   - blockchain
 technologies:
   - fastapi
+  - nextjs
+  - pnpm
   - python
   - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Sanjana N

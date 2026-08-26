@@ -17,6 +17,8 @@ technologies:
   - flask
   - gemini
   - mongodb
+  - nextjs
+  - three-js
 builders:
   - name: Bryan Yee
   - name: Martin Lam

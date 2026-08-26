@@ -17,5 +17,6 @@ categories:
   - cybersecurity
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Phu Quach

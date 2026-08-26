@@ -17,6 +17,7 @@ categories:
 technologies:
   - claude
   - docker
+  - gpt-5
   - python
   - react
 builders:

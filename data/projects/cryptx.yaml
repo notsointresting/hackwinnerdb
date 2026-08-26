@@ -18,8 +18,10 @@ technologies:
   - arduino
   - gemini
   - mongodb
+  - nextjs
   - react
   - solana
+  - tailwind-css
   - typescript
   - vercel
 builders:

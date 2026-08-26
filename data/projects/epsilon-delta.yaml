@@ -15,6 +15,7 @@ categories:
   - iot
 technologies:
   - claude
+  - elevenlabs
   - firebase
   - python
   - react-native

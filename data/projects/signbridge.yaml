@@ -20,9 +20,16 @@ technologies:
   - fastapi
   - gemini
   - google-ai-studio
+  - hugging-face
+  - nextjs
+  - pydantic
+  - pytest
   - python
   - react
+  - tailwind-css
   - typescript
+  - uvicorn
+  - web-audio-api
 builders:
   - name: Mohneet Kaur Amandeep Singh Sandhu
   - name: Mohammed Afaan Mohammed Arif Ansari

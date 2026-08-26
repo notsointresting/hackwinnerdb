@@ -16,7 +16,11 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nodejs
   - python
+  - three-js
   - typescript
+  - uv
+  - vite
 builders:
   - name: abssi mustapha

@@ -18,8 +18,12 @@ categories:
 technologies:
   - docker
   - javascript
+  - openai-api
+  - pytest
   - python
   - react
+  - ruff
+  - typer
 builders:
   - name: David Ghiberdic Cristian
   - name: Justin Stefan Stoica-Tica

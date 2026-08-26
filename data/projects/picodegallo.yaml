@@ -11,6 +11,9 @@ video_url: https://www.youtube.com/embed/ske_miA6Y_U
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/510/845/datas/gallery.jpg
 categories:
   - other
-technologies: []
+technologies:
+  - three-js
+  - vite
+  - webgl
 builders:
   - name: Cofeecake Paider

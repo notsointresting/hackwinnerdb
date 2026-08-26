@@ -15,6 +15,7 @@ categories:
   - infrastructure
 technologies:
   - java
+  - nextjs
   - typescript
 builders:
   - name: Manit Guliani

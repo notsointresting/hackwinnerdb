@@ -13,7 +13,9 @@ categories:
   - education
   - ar-vr
 technologies:
+  - c
   - esp32
+  - meta-quest
   - unity
 builders:
   - name: brendancurtis05 Curtis

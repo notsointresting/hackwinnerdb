@@ -14,9 +14,14 @@ categories:
   - iot
 technologies:
   - fastapi
+  - nextjs
+  - pydantic
+  - pytest
   - python
   - sqlite
+  - three-js
   - typescript
+  - uvicorn
 builders:
   - name: Ethan Olchik
   - name: Khush Mehta

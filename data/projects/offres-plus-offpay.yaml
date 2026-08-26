@@ -20,6 +20,7 @@ technologies:
   - react
   - sqlite
   - typescript
+  - vite
 builders:
   - name: George Dorton IV
   - name: Christopher Guzman

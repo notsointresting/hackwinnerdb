@@ -15,8 +15,11 @@ categories:
 technologies:
   - javascript
   - mongodb
+  - nextjs
+  - nodejs
   - react
   - solana
+  - tailwind-css
   - typescript
 builders:
   - name: Silas Wu

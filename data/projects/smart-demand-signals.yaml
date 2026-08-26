@@ -15,6 +15,7 @@ categories:
 technologies:
   - docker
   - mongodb
+  - nodejs
   - react
 builders:
   - name: pere pages

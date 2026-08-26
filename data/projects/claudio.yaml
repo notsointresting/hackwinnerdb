@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - react
+  - vite
 builders:
   - name: Ahmad Al-Jabi
   - name: Jawdat Al-Jabi

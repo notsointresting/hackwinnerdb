@@ -17,6 +17,7 @@ categories:
 technologies:
   - docker
   - gemini
+  - nodejs
   - python
   - react
   - sqlite
@@ -24,5 +25,6 @@ technologies:
   - tailwind-css
   - typescript
   - vertex-ai
+  - vite
 builders:
   - name: Amir Lotfy

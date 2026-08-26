@@ -19,6 +19,7 @@ technologies:
   - gemini
   - python
   - react
+  - tailwind-css
 builders:
   - name: Adithya lakshmikanth
   - name: Parker Anderson

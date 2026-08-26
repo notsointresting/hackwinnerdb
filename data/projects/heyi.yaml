@@ -17,8 +17,10 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - hugging-face
   - javascript
   - mongodb
+  - nodejs
   - python
 builders:
   - name: Isabel Difabio

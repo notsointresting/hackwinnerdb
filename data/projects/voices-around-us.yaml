@@ -15,8 +15,10 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - netlify
   - postgresql
   - react
+  - react-native
   - sql
   - supabase
 builders:

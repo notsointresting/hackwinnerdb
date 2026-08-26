@@ -15,12 +15,16 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nodejs
   - postgresql
+  - pydantic
   - python
   - react
   - supabase
+  - three-js
   - twilio
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: Madhav Patel

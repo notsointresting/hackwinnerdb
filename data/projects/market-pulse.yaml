@@ -16,5 +16,6 @@ technologies:
   - fastapi
   - python
   - streamlit
+  - uvicorn
 builders:
   - name: Rajanya Saha

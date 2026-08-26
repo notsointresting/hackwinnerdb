@@ -14,10 +14,12 @@ categories:
   - education
 technologies:
   - fastapi
+  - hugging-face
   - python
   - pytorch
   - react
   - typescript
+  - vite
 builders:
   - name: Adam Najmeddine
   - name: Snackie911 Najmeddine

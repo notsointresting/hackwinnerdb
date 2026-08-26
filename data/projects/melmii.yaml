@@ -15,7 +15,9 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - python
+  - tailwind-css
   - yolo
 builders:
   - name: Tselmeg Uranchimeg

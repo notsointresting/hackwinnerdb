@@ -18,9 +18,12 @@ categories:
 technologies:
   - docker
   - fastapi
+  - github-actions
+  - pydantic
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Dheeraj Shrivastav
   - name: Nikhil Tale

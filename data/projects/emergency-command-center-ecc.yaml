@@ -17,9 +17,12 @@ categories:
   - social-impact
 technologies:
   - claude
+  - codex
   - elevenlabs
   - javascript
   - mapbox
+  - mcp
+  - nextjs
   - supabase
   - twilio
   - typescript

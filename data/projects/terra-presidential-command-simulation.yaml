@@ -18,4 +18,5 @@ categories:
 technologies:
   - javascript
   - react
+  - vite
 builders: []

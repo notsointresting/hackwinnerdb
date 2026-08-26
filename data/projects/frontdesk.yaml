@@ -15,10 +15,13 @@ technologies:
   - anthropic
   - claude
   - javascript
+  - nextjs
+  - nodejs
   - postgresql
   - react
   - supabase
   - tailwind-css
+  - vitest
 builders:
   - name: Anne Nolte
   - name: Adam Zheng

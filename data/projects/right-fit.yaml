@@ -14,6 +14,7 @@ categories:
 technologies:
   - nextjs
   - supabase
+  - tailwind-css
   - typescript
 builders:
   - name: Bruce Huang

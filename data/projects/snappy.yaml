@@ -15,6 +15,7 @@ categories:
   - robotics
   - ar-vr
 technologies:
+  - c
   - javascript
   - typescript
   - unity

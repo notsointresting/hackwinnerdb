@@ -15,6 +15,7 @@ categories:
   - blockchain
   - infrastructure
 technologies:
+  - nodejs
   - python
   - rust
   - tailwind-css

@@ -19,6 +19,7 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Aadya Patel
   - name: Anish Kushwaha

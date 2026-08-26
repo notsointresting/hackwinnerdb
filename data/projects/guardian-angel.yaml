@@ -18,6 +18,7 @@ technologies:
   - firebase
   - openai
   - python
+  - uvicorn
 builders:
   - name: Gema Robles
   - name: starpebble Zumkhawala

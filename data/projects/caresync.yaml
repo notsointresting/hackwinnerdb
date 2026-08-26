@@ -17,9 +17,11 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
   - react
   - sqlite
   - typescript
   - vercel
+  - vite
 builders:
   - name: Michael GTA Fan

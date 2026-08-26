@@ -17,6 +17,7 @@ technologies:
   - gemini
   - react
   - typescript
+  - vite
 builders:
   - name: Andrew Rafal
   - name: Archith Datta Erigineni

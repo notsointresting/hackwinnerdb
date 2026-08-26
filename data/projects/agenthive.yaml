@@ -16,5 +16,7 @@ categories:
   - climate
 technologies:
   - javascript
+  - nodejs
+  - three-js
 builders:
   - name: nestor andres santos vidales

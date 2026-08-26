@@ -16,6 +16,7 @@ categories:
   - cloud
 technologies:
   - react
+  - vite
 builders:
   - name: Alex Zheng
   - name: Nathan Zhang

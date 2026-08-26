@@ -20,6 +20,7 @@ technologies:
   - javascript
   - python
   - react
+  - vite
 builders:
   - name: eilyn Resendez
   - name: Victor-123321 Velázquez

@@ -17,8 +17,13 @@ categories:
   - climate
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
+  - react-three-fiber
   - sqlite
+  - three-js
   - vercel
+  - webgl
 builders:
   - name: Harsh Shah

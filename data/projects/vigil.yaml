@@ -16,8 +16,11 @@ categories:
 technologies:
   - base
   - docker
+  - nextjs
+  - nodejs
   - openai
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Laksh Goyal

@@ -17,11 +17,14 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nodejs
   - postgresql
   - python
   - react
   - supabase
   - tailwind-css
+  - uvicorn
+  - vite
 builders:
   - name: Nicolas Rodriguez
   - name: Travis Chauvin

@@ -15,10 +15,14 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nodejs
+  - openai-api
   - python
   - react
   - tailwind-css
   - typescript
   - vercel
+  - vite
+  - web-audio-api
 builders:
   - name: Svarna Shukla

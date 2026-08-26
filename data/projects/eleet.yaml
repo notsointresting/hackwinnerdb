@@ -15,6 +15,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Selina Zheng
   - name: Ryan Kim

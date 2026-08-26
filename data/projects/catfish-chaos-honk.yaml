@@ -14,8 +14,13 @@ categories:
   - gaming
 technologies:
   - react
+  - react-three-fiber
+  - three-js
   - typescript
   - vercel
+  - vite
+  - web-audio-api
+  - zustand
 builders:
   - name: Yeetogami Goyal
   - name: Shivam Shrivastav

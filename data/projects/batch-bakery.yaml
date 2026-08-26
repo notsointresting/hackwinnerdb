@@ -14,5 +14,6 @@ categories:
 technologies:
   - javascript
   - react
+  - vite
 builders:
   - name: Damon Cao

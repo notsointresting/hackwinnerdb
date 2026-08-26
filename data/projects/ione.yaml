@@ -13,11 +13,14 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - nodejs
   - postgresql
   - react
   - supabase
   - tailwind-css
+  - three-js
   - typescript
+  - vite
 builders:
   - name: Matthew Kim
   - name: Joshua Kim

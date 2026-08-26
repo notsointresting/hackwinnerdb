@@ -15,6 +15,9 @@ categories:
   - education
 technologies:
   - docker
+  - github-actions
+  - pydantic
   - python
+  - uv
 builders:
   - name: Tabib Hasan

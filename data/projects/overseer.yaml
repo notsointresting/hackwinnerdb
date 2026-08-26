@@ -16,6 +16,7 @@ categories:
   - cybersecurity
 technologies:
   - claude
+  - codex
 builders:
   - name: Arnav Pandey
   - name: aarav mishra

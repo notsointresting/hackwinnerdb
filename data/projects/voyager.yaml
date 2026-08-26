@@ -12,11 +12,16 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - other
 technologies:
+  - c
   - firebase
   - javascript
   - mapbox
   - python
   - react
+  - react-three-fiber
+  - three-js
+  - typescript
+  - vite
 builders:
   - name: Carlos Mbendera
   - name: Om Ghonasgi

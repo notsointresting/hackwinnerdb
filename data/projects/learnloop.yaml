@@ -17,6 +17,7 @@ categories:
 technologies:
   - google-cloud
   - javascript
+  - nodejs
   - tailwind-css
 builders:
   - name: Harshal Saraf

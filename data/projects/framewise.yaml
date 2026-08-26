@@ -18,7 +18,9 @@ technologies:
   - gemini
   - javascript
   - mongodb
+  - nodejs
   - react
+  - vite
 builders:
   - name: Tugba Irem Demirci
   - name: Ayse Sule Ekiz

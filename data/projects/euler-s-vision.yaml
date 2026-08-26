@@ -17,6 +17,8 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
+  - web-audio-api
 builders:
   - name: evansu200 Su
   - name: esther-h-li Li

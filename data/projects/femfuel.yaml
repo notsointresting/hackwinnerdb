@@ -13,6 +13,8 @@ categories:
   - healthcare
 technologies:
   - javascript
+  - tailwind-css
   - vercel
+  - vite
 builders:
   - name: Suha Qazi

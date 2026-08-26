@@ -16,6 +16,7 @@ categories:
   - infrastructure
 technologies:
   - react
+  - vite
 builders:
   - name: Harshith Sai Mannaru
   - name: Tirth  Suba

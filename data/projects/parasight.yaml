@@ -16,9 +16,11 @@ technologies:
   - fastapi
   - gemini
   - groq
+  - pydantic
   - python
   - react
   - typescript
+  - uvicorn
 builders:
   - name: Yoseph Ephrem
   - name: xNIGMAx Essawi

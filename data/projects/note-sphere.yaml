@@ -14,5 +14,6 @@ categories:
   - education
 technologies:
   - react
+  - tailwind-css
 builders:
   - name: SUPAN ROY

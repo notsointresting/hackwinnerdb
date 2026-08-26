@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - javascript
   - python
+  - react
 builders:
   - name: Shivansh Bansal
   - name: Anish Gupta

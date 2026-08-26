@@ -13,7 +13,9 @@ categories:
   - education
 technologies:
   - arduino
+  - c
   - c-plus-plus
+  - codex
   - esp32
   - javascript
   - python

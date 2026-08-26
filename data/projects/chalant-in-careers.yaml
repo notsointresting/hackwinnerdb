@@ -16,6 +16,7 @@ categories:
   - gaming
 technologies:
   - openai
+  - openai-api
   - python
 builders:
   - name: Michelle Yap

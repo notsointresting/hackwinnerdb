@@ -21,6 +21,7 @@ technologies:
   - javascript
   - python
   - sqlite
+  - three-js
   - vertex-ai
 builders:
   - name: Rayhan Basheer Patel

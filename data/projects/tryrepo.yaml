@@ -16,7 +16,10 @@ categories:
   - education
 technologies:
   - docker
+  - nextjs
+  - nodejs
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Ken Taniguchi

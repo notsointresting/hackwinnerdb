@@ -23,6 +23,7 @@ technologies:
   - javascript
   - python
   - react
+  - uvicorn
 builders:
   - name: Samudera Aubreyasta
   - name: Olo Silitonga

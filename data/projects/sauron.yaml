@@ -15,9 +15,19 @@ categories:
 technologies:
   - arduino
   - c-plus-plus
+  - claude
   - esp32
+  - fastapi
+  - javascript
+  - mapbox
+  - nextjs
+  - postgresql
   - python
   - raspberry-pi
+  - react
+  - three-js
+  - typescript
+  - zustand
 builders:
   - name: Pratheek Madderla
   - name: Chahel Paatur

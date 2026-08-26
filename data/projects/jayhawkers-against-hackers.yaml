@@ -12,7 +12,8 @@ video_url: https://www.youtube.com/embed/XLlpaDqIT5E
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/589/035/datas/gallery.jpg
 categories:
   - gaming
-technologies: []
+technologies:
+  - c
 builders:
   - name: Trey Campbell
   - name: Simeon Geib

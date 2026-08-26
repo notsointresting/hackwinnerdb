@@ -15,6 +15,7 @@ categories:
   - iot
 technologies:
   - anthropic
+  - nextjs
   - python
 builders:
   - name: Sissi Wang

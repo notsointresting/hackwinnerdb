@@ -17,6 +17,7 @@ categories:
 technologies:
   - javascript
   - mistral
+  - nodejs
   - react
   - react-native
   - sqlite

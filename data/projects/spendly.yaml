@@ -20,6 +20,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Aashir4 Ali
   - name: Mohammed Nihad

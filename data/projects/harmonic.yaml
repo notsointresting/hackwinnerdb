@@ -16,6 +16,7 @@ categories:
 technologies:
   - javascript
   - python
+  - webgl
 builders:
   - name: M K
   - name: Ekaagar Chawla

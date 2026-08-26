@@ -15,8 +15,13 @@ categories:
   - education
 technologies:
   - fastapi
+  - flask
+  - javascript
   - python
   - react
+  - sqlite
+  - tailwind-css
+  - vite
 builders:
   - name: Chirag Sharma
   - name: Aafreen Khan

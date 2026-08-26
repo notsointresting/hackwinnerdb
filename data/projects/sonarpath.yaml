@@ -18,6 +18,7 @@ technologies:
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Emily Tsai
   - name: Samson Du

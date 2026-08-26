@@ -19,6 +19,8 @@ technologies:
   - mongodb
   - python
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Bhupen Sai Bandi
   - name: Aryaman Mishra

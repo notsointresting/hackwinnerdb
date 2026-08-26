@@ -17,6 +17,7 @@ categories:
 technologies:
   - c-plus-plus
   - postgresql
+  - python
   - react-native
   - tensorflow
   - typescript

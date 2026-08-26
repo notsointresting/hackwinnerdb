@@ -20,5 +20,7 @@ technologies:
   - javascript
   - python
   - pytorch
+  - three-js
+  - web-audio-api
 builders:
   - name: Abhinav K

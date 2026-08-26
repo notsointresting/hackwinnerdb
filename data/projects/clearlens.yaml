@@ -16,6 +16,7 @@ categories:
 technologies:
   - dart
   - flutter
+  - nodejs
   - python
   - supabase
   - vercel

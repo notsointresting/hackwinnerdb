@@ -15,10 +15,14 @@ categories:
   - education
   - social-impact
 technologies:
+  - fastapi
   - gemini
   - javascript
   - python
   - raspberry-pi
+  - react
+  - uvicorn
+  - vite
 builders:
   - name: Hong Yi Zhang
   - name: Lena Conde-Araujo

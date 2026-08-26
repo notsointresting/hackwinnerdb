@@ -16,6 +16,8 @@ categories:
   - cybersecurity
   - gaming
 technologies:
+  - nextjs
+  - nodejs
   - postgresql
   - supabase
   - typescript

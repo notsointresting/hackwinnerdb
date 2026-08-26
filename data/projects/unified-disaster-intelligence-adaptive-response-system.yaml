@@ -16,5 +16,7 @@ categories:
 technologies:
   - gemini
   - javascript
+  - netlify
+  - nodejs
 builders:
   - name: Ansh Saini

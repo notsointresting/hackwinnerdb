@@ -16,6 +16,7 @@ technologies:
   - gemini
   - react
   - typescript
+  - vite
 builders:
   - name: Chenyu (Eric) Lu
   - name: Sulaiman Qazi

@@ -15,7 +15,11 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - hugging-face
+  - nextjs
+  - nodejs
   - openai
+  - pydantic
   - python
   - react
   - typescript

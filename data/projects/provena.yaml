@@ -14,7 +14,9 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Sai Tejo Kiran E

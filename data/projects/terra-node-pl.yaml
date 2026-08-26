@@ -17,8 +17,10 @@ technologies:
   - fastapi
   - groq
   - mapbox
+  - nextjs
   - python
   - react
+  - react-three-fiber
   - tailwind-css
   - typescript
 builders:

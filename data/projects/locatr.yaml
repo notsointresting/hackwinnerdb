@@ -17,6 +17,8 @@ technologies:
   - fastapi
   - langchain
   - mapbox
+  - nextjs
+  - nodejs
   - python
   - react
   - sql

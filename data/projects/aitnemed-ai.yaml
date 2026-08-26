@@ -18,6 +18,7 @@ technologies:
   - gemini
   - groq
   - java
+  - nodejs
   - openai
 builders:
   - name: Kori Bui

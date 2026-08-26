@@ -14,12 +14,15 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - artificial-intelligence
 technologies:
+  - github-actions
+  - nodejs
   - postgresql
   - react
   - supabase
   - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: CHEO CHLOE _
   - name: JAYDON SOONG YU CHEN _

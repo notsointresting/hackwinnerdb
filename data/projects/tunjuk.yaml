@@ -15,6 +15,7 @@ categories:
   - education
   - blockchain
 technologies:
+  - nextjs
   - react
   - redis
   - tailwind-css

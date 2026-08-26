@@ -17,6 +17,8 @@ technologies:
   - base
   - claude
   - fastapi
+  - nextjs
+  - nodejs
   - openai
   - opencv
   - python

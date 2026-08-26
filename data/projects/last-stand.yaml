@@ -20,7 +20,11 @@ technologies:
   - javascript
   - python
   - react
+  - tailwind-css
+  - three-js
   - typescript
+  - vite
+  - webgl
 builders:
   - name: Afthab Shiraz
   - name: Nicholas Tchakov

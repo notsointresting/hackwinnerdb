@@ -15,6 +15,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - hugging-face
   - python
 builders:
   - name: Mason Earp

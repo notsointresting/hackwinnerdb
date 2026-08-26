@@ -17,6 +17,7 @@ categories:
 technologies:
   - firebase
   - typescript
+  - vite
 builders:
   - name: Alexis Mupole
   - name: Kizito Ronald

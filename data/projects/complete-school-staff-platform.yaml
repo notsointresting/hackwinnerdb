@@ -16,10 +16,12 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - postgresql
   - react
   - sqlite
   - supabase
   - vercel
+  - vite
 builders:
   - name: Muhammed Saud

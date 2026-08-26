@@ -17,8 +17,10 @@ categories:
 technologies:
   - anthropic
   - elevenlabs
+  - nodejs
   - react
   - typescript
+  - vite
   - webrtc
 builders:
   - name: Efe Bolukbasi

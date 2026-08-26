@@ -13,6 +13,7 @@ image_url: null
 categories:
   - artificial-intelligence
 technologies:
+  - nodejs
   - react
 builders:
   - name: Malek Khemakhem Malek

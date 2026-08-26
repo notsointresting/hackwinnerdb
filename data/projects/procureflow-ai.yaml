@@ -17,6 +17,7 @@ categories:
   - iot
 technologies:
   - javascript
+  - nodejs
   - redis
 builders:
   - name: Saksham Yadav

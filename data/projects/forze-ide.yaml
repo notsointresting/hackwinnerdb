@@ -17,10 +17,15 @@ technologies:
   - anthropic
   - gemini
   - javascript
+  - nodejs
+  - pnpm
   - react
   - rust
   - sql
   - sqlite
   - supabase
   - typescript
+  - vite
+  - vitest
+  - zustand
 builders: []

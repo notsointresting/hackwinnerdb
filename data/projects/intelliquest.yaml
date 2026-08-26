@@ -15,6 +15,7 @@ categories:
   - education
   - social-impact
 technologies:
+  - c
   - javascript
   - sqlite
 builders:

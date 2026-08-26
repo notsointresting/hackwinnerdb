@@ -16,5 +16,6 @@ technologies:
   - anthropic
   - claude
   - javascript
+  - tailwind-css
 builders:
   - name: Michael Odubiyi

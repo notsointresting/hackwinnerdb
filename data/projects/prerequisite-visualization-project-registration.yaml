@@ -15,6 +15,7 @@ categories:
   - other
 technologies:
   - javascript
+  - nodejs
   - typescript
 builders:
   - name: Rafael Hermoza

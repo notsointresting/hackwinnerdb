@@ -16,6 +16,7 @@ categories:
   - robotics
 technologies:
   - arduino
+  - c
   - python
   - pytorch
   - raspberry-pi

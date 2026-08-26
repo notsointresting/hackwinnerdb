@@ -17,5 +17,6 @@ technologies:
   - elevenlabs
   - gemini
   - javascript
+  - nodejs
 builders:
   - name: Ashmeet Singh

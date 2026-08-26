@@ -16,10 +16,13 @@ categories:
   - healthcare
   - education
 technologies:
+  - nodejs
+  - playwright
   - postgresql
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Dakota Bowles
   - name: brett fulks

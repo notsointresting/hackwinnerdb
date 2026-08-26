@@ -17,9 +17,11 @@ technologies:
   - fastapi
   - google-maps
   - nextjs
+  - nodejs
   - python
   - react
   - supabase
+  - tailwind-css
   - typescript
   - whisper
 builders:

@@ -20,6 +20,7 @@ technologies:
   - gemini
   - python
   - react
+  - vite
 builders:
   - name: ted-cc6 Wang
   - name: Morgan Klutzke

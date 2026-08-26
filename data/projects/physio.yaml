@@ -19,6 +19,8 @@ technologies:
   - fastapi
   - gemini
   - sqlite
+  - vertex-ai
+  - vite
 builders:
   - name: Atreya Jariwala
   - name: Surya Thirukonda

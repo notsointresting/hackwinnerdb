@@ -15,7 +15,10 @@ categories:
   - education
 technologies:
   - fastapi
+  - mcp
   - python
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Yordanos Kassa

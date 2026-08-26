@@ -15,8 +15,11 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - chatgpt
+  - codex
   - react
   - typescript
+  - vite
 builders:
   - name: Nayde valerio monteforte
   - name: ManuGiuly26 Murolo

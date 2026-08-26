@@ -14,7 +14,8 @@ image_url: null
 categories:
   - artificial-intelligence
   - education
-technologies: []
+technologies:
+  - vite
 builders:
   - name: Purav Kanda
   - name: Ali Fadoo

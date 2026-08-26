@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - react
 builders:
   - name: obro79 Fisher

@@ -17,6 +17,7 @@ categories:
 technologies:
   - gemini
   - supabase
+  - typescript
 builders:
   - name: Tracy (Xinran) Li
   - name: Uttam Grandhi

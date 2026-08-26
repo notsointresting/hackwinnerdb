@@ -15,6 +15,7 @@ categories:
   - education
   - iot
 technologies:
+  - nextjs
   - redis
 builders:
   - name: Abid Faisal

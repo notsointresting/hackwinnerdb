@@ -16,5 +16,6 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - powershell
   - python
 builders: []

@@ -17,5 +17,6 @@ categories:
   - iot
 technologies:
   - tailwind-css
+  - vite
 builders:
   - name: Mayur S

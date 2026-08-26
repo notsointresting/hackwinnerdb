@@ -18,7 +18,11 @@ technologies:
   - docker
   - fastapi
   - google-cloud
+  - hugging-face
+  - mcp
+  - pytest
   - python
+  - uvicorn
 builders:
   - name: Kishan Raj Vandhavasi Goutham Kumar
   - name: Jaswanth  Thundlam

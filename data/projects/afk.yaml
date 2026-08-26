@@ -12,8 +12,10 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - social-impact
 technologies:
+  - chrome
   - elevenlabs
   - javascript
+  - web-workers
 builders:
   - name: Jennifer Saphira Evani Tjen
   - name: Jennifer Olive Tanojo

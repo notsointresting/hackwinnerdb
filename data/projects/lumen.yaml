@@ -14,7 +14,9 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - react-native
+  - vite
 builders:
   - name: Zachary T
   - name: Serena L

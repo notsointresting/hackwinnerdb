@@ -12,7 +12,9 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - other
 technologies:
+  - nextjs
   - react
+  - three-js
 builders:
   - name: Jeremy Whatts
   - name: Maxwell Lokshin

@@ -16,6 +16,7 @@ categories:
 technologies:
   - docker
   - javascript
+  - nodejs
   - tailwind-css
   - typescript
 builders:

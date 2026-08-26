@@ -17,6 +17,7 @@ categories:
   - gaming
 technologies:
   - fastapi
+  - vite
 builders:
   - name: Shreeram Sankar
   - name: Vishnu S

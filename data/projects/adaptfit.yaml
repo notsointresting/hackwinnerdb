@@ -13,12 +13,16 @@ categories:
   - education
   - social-impact
 technologies:
+  - nodejs
   - postgresql
   - react
   - react-native
   - sqlite
   - supabase
   - typescript
+  - vite
+  - vitest
+  - zustand
 builders:
   - name: Devi kanumilli
   - name: Andreas Tsang

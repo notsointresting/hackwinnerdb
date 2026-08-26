@@ -12,9 +12,12 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - gaming
 technologies:
+  - nextjs
+  - playwright
   - supabase
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Harnake Reehal
   - name: Rohan Gottipati

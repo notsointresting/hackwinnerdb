@@ -16,9 +16,12 @@ categories:
   - iot
 technologies:
   - nextjs
+  - nodejs
   - tailwind-css
   - typescript
   - vercel
+  - vitest
+  - zustand
 builders:
   - name: Luciano Suen
   - name: Johnathan

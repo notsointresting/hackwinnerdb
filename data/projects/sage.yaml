@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - typescript
   - vercel
 builders:

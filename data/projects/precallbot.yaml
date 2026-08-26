@@ -19,12 +19,17 @@ technologies:
   - anthropic
   - docker
   - graphql
+  - mcp
   - nextjs
+  - nodejs
   - openai
+  - pnpm
   - postgresql
   - react
   - redis
   - typescript
+  - vite
+  - vitest
   - webrtc
 builders:
   - name: Nicolás Pujia

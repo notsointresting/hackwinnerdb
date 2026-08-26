@@ -16,9 +16,11 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - pydantic
   - python
   - pytorch
   - react
+  - vite
 builders:
   - name: Dhruv Avirneni
   - name: Siva Ram

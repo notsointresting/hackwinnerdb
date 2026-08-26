@@ -14,8 +14,12 @@ categories:
   - artificial-intelligence
   - blockchain
 technologies:
+  - github-actions
+  - nodejs
   - react
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Ashiha Mahesh Kumar
   - name: Atharv Mantri

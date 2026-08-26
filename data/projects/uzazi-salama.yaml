@@ -16,7 +16,9 @@ categories:
   - education
 technologies:
   - firebase
+  - nodejs
   - tailwind-css
+  - vite
 builders:
   - name: Prince Bamba
   - name: stephaneansima-glitch

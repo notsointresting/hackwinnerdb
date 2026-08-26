@@ -15,7 +15,8 @@ categories:
   - artificial-intelligence
   - healthcare
   - education
-technologies: []
+technologies:
+  - mcp
 builders:
   - name: Sagar Sahu
   - name: Pari Ahuja

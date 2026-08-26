@@ -19,8 +19,11 @@ technologies:
   - anthropic
   - claude
   - fastapi
+  - github-actions
+  - nextjs
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Marco Anthony Ayuste

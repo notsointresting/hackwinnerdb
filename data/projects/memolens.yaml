@@ -14,12 +14,14 @@ categories:
   - education
 technologies:
   - flask
+  - openai-api
   - python
   - pytorch
   - react
   - sql
   - sqlite
   - typescript
+  - vite
 builders:
   - name: Bingjie Zhu
   - name: Zheyuan Yang

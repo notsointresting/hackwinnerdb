@@ -23,6 +23,7 @@ technologies:
   - react
   - sqlite
   - typescript
+  - vite
   - whisper
 builders:
   - name: Fabrizio Guccione

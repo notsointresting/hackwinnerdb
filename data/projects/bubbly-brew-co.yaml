@@ -16,6 +16,8 @@ categories:
   - gaming
 technologies:
   - javascript
+  - vite
+  - web-audio-api
 builders:
   - name: Vien Le
   - name: Winston Ta

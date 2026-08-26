@@ -17,6 +17,7 @@ technologies:
   - javascript
   - nextjs
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: MOHAMMED NOUFAL V IT

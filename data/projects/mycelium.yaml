@@ -15,6 +15,7 @@ categories:
   - sustainability
   - social-impact
 technologies:
+  - figma
   - postgresql
   - supabase
   - typescript

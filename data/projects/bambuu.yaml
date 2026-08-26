@@ -17,6 +17,7 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Sara Shaikh
   - name: Zineb Alaoui

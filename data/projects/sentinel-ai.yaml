@@ -16,10 +16,12 @@ categories:
   - govtech
 technologies:
   - fastapi
+  - nodejs
   - python
   - react
   - solana
   - typescript
+  - vite
 builders:
   - name: Rameez Malik
   - name: Ahmed Hassan

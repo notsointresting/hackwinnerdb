@@ -13,10 +13,13 @@ categories:
   - social-impact
 technologies:
   - gemini
+  - nextjs
+  - nodejs
   - react
   - supabase
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Hailey Chen
   - name: Jasmine Houde

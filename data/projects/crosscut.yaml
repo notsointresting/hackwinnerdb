@@ -15,8 +15,12 @@ categories:
   - education
   - productivity
 technologies:
+  - mypy
+  - nextjs
+  - pytest
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: pritesh kumar

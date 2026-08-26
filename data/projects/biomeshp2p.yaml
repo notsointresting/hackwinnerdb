@@ -16,6 +16,8 @@ categories:
   - climate
 technologies:
   - javascript
+  - nodejs
+  - vite
 builders:
   - name: Héctor Fernández de Sevilla Martínez
   - name: Salipoke

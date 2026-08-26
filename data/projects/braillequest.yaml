@@ -16,6 +16,7 @@ categories:
   - media
 technologies:
   - figma
+  - nextjs
   - typescript
 builders:
   - name: Sahil Gupta

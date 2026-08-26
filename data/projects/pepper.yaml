@@ -19,12 +19,15 @@ technologies:
   - elevenlabs
   - fastapi
   - gemini
+  - nextjs
   - python
   - react
   - sql
   - supabase
+  - three-js
   - typescript
   - vercel
+  - vertex-ai
 builders:
   - name: Dio Silveira
   - name: Ethan Lawson

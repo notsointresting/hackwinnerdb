@@ -19,5 +19,6 @@ technologies:
   - react
   - supabase
   - typescript
+  - zustand
 builders:
   - name: Stuti Thummala

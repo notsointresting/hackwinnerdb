@@ -16,4 +16,5 @@ categories:
 technologies:
   - typescript
   - vercel
+  - vitest
 builders: []

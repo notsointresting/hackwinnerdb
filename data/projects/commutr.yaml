@@ -19,6 +19,7 @@ technologies:
   - google-cloud
   - google-maps
   - javascript
+  - nodejs
   - python
   - react
 builders:

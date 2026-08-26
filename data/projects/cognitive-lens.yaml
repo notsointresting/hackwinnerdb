@@ -14,7 +14,10 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - chrome
   - groq
+  - nextjs
+  - nodejs
   - react
   - tailwind-css
   - typescript

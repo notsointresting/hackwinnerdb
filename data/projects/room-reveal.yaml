@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - docker
+  - three-js
 builders:
   - name: Akash Ravandhu
   - name: Dev Das

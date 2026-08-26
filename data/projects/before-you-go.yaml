@@ -15,6 +15,7 @@ categories:
   - ar-vr
   - gaming
 technologies:
+  - c
   - unity
 builders:
   - name: Adam Maatouk

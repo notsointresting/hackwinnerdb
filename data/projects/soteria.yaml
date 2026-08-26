@@ -19,6 +19,7 @@ technologies:
   - nextjs
   - opencv
   - python
+  - tailwind-css
   - typescript
 builders:
   - name: janiehacker Ossine

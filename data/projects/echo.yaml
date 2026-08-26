@@ -16,10 +16,14 @@ categories:
   - cybersecurity
 technologies:
   - claude
+  - django
+  - docker
   - fastapi
   - nextjs
+  - postgresql
   - python
   - react
+  - redis
   - typescript
   - vercel
 builders:

@@ -17,6 +17,7 @@ technologies:
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Ariv Chaudhry
   - name: Anay Kushwaha

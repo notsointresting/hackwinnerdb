@@ -15,7 +15,9 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
   - openai
+  - powershell
 builders:
   - name: Isaac Pressman
   - name: Dash Pickrell

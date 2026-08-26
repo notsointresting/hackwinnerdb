@@ -17,10 +17,12 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nextjs
   - python
   - react
   - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Aditya Sharma
   - name: Tamanna Nolastname

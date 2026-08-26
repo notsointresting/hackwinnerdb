@@ -15,8 +15,12 @@ categories:
   - education
   - fintech
 technologies:
+  - mcp
+  - playwright
+  - pydantic
   - python
   - react
+  - vite
 builders:
   - name: Abdullah Al Mahmud
   - name: A K M Mahmudul Kabir

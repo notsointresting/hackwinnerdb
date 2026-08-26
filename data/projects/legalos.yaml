@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
 technologies:
   - elevenlabs
+  - nextjs
   - react
   - tailwind-css
   - vercel

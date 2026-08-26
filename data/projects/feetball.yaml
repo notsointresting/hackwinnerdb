@@ -18,9 +18,16 @@ technologies:
   - elevenlabs
   - mapbox
   - nextjs
+  - nodejs
+  - playwright
   - python
   - react
+  - react-three-fiber
+  - tailwind-css
+  - three-js
   - typescript
+  - vitest
+  - zustand
 builders:
   - name: Steric Tsui
   - name: Jack Le

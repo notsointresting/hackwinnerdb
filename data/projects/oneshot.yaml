@@ -18,14 +18,18 @@ technologies:
   - fastapi
   - google-cloud
   - javascript
+  - nodejs
   - opencv
   - postgresql
+  - pydantic
   - python
   - react
   - sql
   - sqlite
   - tailwind-css
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Divyansh Pramanick
   - name: Samuel Ford

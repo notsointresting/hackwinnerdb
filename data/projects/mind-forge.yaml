@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nextjs
   - react
   - tailwind-css
   - typescript

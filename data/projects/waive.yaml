@@ -16,9 +16,13 @@ categories:
   - social-impact
 technologies:
   - claude
+  - nextjs
+  - nodejs
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Skyler Xiao
   - name: Aryan Thakur

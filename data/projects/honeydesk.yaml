@@ -14,10 +14,13 @@ categories:
   - education
 technologies:
   - fastapi
+  - nextjs
+  - nodejs
   - python
   - react
   - sqlite
   - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Aaron Dutta

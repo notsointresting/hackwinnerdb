@@ -16,8 +16,10 @@ categories:
   - healthcare
   - education
 technologies:
+  - pnpm
   - react
   - react-native
+  - three-js
   - typescript
 builders:
   - name: Mario A Flores

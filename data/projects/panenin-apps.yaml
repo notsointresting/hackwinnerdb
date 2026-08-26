@@ -19,6 +19,7 @@ technologies:
   - flutter
   - gemini
   - groq
+  - nodejs
   - postgresql
   - python
   - supabase

@@ -23,5 +23,6 @@ technologies:
   - react
   - twilio
   - typescript
+  - vite
 builders:
   - name: Matthias Kullbach

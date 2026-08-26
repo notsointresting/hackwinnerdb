@@ -14,6 +14,8 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - mongodb
+  - nodejs
   - react
 builders:
   - name: AJAY KUMAR

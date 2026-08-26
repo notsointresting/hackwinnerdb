@@ -17,6 +17,7 @@ categories:
 technologies:
   - elevenlabs
   - flask
+  - nextjs
   - twilio
 builders:
   - name: Sahas Sharma

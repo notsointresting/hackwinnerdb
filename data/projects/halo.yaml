@@ -12,7 +12,15 @@ image_url: null
 categories:
   - artificial-intelligence
 technologies:
+  - fastapi
+  - flask
   - javascript
+  - mistral
+  - mongodb
+  - nextjs
+  - opencv
+  - python
+  - react
 builders:
   - name: Kavan Gill
   - name: Kevin Renjith

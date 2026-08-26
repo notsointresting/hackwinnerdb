@@ -16,9 +16,11 @@ categories:
   - fintech
 technologies:
   - claude
+  - powershell
   - python
   - raspberry-pi
   - react
+  - vite
 builders:
   - name: marcebd Billingslea
   - name: Jana Hazimeh

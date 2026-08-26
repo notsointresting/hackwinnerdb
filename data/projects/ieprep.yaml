@@ -16,7 +16,10 @@ categories:
 technologies:
   - anthropic
   - claude
+  - nextjs
+  - nodejs
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Alagumuthu Bagirathan

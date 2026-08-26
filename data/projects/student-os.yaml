@@ -17,6 +17,7 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - zustand
 builders:
   - name: Dara Adedeji
   - name: Ricky Chen

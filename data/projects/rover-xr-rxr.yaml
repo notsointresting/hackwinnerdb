@@ -15,6 +15,7 @@ categories:
   - media
 technologies:
   - arduino
+  - c
   - python
   - unity
 builders:

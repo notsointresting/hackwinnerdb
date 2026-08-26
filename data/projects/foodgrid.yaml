@@ -14,9 +14,12 @@ categories:
 technologies:
   - django
   - javascript
+  - nodejs
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Aum Ghelani
   - name: Sanjiv Sridhar

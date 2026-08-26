@@ -14,9 +14,12 @@ categories:
 technologies:
   - fastapi
   - groq
+  - pydantic
   - python
   - react
   - tailwind-css
+  - uvicorn
   - vercel
+  - vite
 builders:
   - name: Sithranjan Suresh

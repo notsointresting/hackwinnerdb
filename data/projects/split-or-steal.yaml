@@ -19,5 +19,6 @@ technologies:
   - supabase
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Prajjawal Vaishya

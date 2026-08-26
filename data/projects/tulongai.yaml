@@ -17,9 +17,11 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - github-actions
   - python
   - react
   - tailwind-css
+  - vite
 builders:
   - name: matthewkiefe undefined
   - name: Kristina Diane Aviles

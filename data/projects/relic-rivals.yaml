@@ -15,6 +15,7 @@ categories:
   - media
 technologies:
   - arduino
+  - c
   - raspberry-pi
 builders:
   - name: Oliver Fogelin

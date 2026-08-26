@@ -15,6 +15,7 @@ categories:
   - education
   - media
 technologies:
+  - chrome
   - fastapi
   - javascript
 builders:

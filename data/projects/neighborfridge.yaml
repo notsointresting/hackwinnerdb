@@ -20,6 +20,7 @@ technologies:
   - python
   - react
   - sqlite
+  - tailwind-css
 builders:
   - name: Anthony Le
   - name: MendezCarl Mendez

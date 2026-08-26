@@ -18,6 +18,7 @@ technologies:
   - javascript
   - postgresql
   - redis
+  - tailwind-css
   - typescript
 builders:
   - name: Medhansh Rawat

@@ -17,7 +17,15 @@ categories:
   - iot
 technologies:
   - arduino
+  - nodejs
+  - postgresql
   - python
+  - react
+  - supabase
+  - tailwind-css
+  - typescript
+  - vite
+  - web-audio-api
 builders:
   - name: Vela Benedicto
   - name: Nate Murphy

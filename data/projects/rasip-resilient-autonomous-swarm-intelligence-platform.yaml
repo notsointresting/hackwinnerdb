@@ -28,6 +28,7 @@ technologies:
   - redis
   - sql
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Daniel Muthama

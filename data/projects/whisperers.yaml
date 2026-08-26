@@ -14,13 +14,19 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - codex
   - elevenlabs
   - fastapi
   - javascript
+  - nextjs
   - openai
+  - pydantic
   - python
   - react
+  - tailwind-css
   - typescript
+  - uv
+  - uvicorn
 builders:
   - name: Gabriele Loreti
   - name: Daniele Giovanardi

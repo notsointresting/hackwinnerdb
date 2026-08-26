@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - claude
+  - pydantic
   - python
   - stripe
 builders:

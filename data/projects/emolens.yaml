@@ -17,9 +17,11 @@ categories:
 technologies:
   - groq
   - langchain
+  - nextjs
   - react
   - supabase
   - tailwind-css
+  - three-js
   - typescript
   - vercel
 builders:

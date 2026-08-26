@@ -19,6 +19,7 @@ technologies:
   - groq
   - javascript
   - python
+  - web-audio-api
   - whisper
 builders:
   - name: Aadi Tiwari

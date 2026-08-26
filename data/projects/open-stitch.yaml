@@ -16,8 +16,12 @@ categories:
 technologies:
   - fastapi
   - postgresql
+  - pydantic
   - redis
   - typescript
+  - uvicorn
+  - vite
+  - zustand
 builders:
   - name: LapFung Chan
   - name: Himanshu Pallath

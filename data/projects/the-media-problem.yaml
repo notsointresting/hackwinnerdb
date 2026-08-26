@@ -16,7 +16,9 @@ categories:
   - education
   - social-impact
 technologies:
+  - nodejs
   - react
   - typescript
+  - vite
 builders:
   - name: Patrick Lahoud

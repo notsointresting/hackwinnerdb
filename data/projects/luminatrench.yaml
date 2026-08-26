@@ -12,6 +12,7 @@ video_url: null
 image_url: null
 categories:
   - artificial-intelligence
-technologies: []
+technologies:
+  - webgl
 builders:
   - name: Arav Goyal

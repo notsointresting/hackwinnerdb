@@ -15,5 +15,7 @@ categories:
   - education
 technologies:
   - javascript
+  - three-js
+  - vite
 builders:
   - name: Kaden Tennent

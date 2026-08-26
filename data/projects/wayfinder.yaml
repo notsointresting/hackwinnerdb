@@ -15,7 +15,9 @@ categories:
   - education
   - social-impact
 technologies:
+  - chrome
   - javascript
+  - nextjs
   - postgresql
   - react
   - sql

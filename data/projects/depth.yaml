@@ -19,6 +19,8 @@ technologies:
   - javascript
   - python
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Samuel Kim
   - name: Jonathan Aslam

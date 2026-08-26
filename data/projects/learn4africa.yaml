@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - claude
+  - nextjs
   - typescript
   - vercel
 builders:

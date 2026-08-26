@@ -16,7 +16,9 @@ categories:
   - iot
 technologies:
   - fastapi
+  - nextjs
   - postgresql
+  - pydantic
   - python
   - tailwind-css
   - typescript

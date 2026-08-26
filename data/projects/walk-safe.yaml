@@ -12,6 +12,7 @@ image_url: null
 categories:
   - social-impact
 technologies:
+  - c
   - python
 builders:
   - name: The Armstrongs

@@ -17,6 +17,8 @@ categories:
 technologies:
   - tailwind-css
   - vercel
+  - vite
+  - web-audio-api
 builders:
   - name: Tanush Shah
   - name: Krishang Parmar

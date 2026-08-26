@@ -15,8 +15,10 @@ categories:
   - education
 technologies:
   - gemini
+  - nextjs
   - react
   - supabase
+  - tailwind-css
   - typescript
   - vercel
 builders:

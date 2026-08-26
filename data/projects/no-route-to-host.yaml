@@ -14,7 +14,9 @@ categories:
   - other
 technologies:
   - docker
+  - mcp
   - react
   - typescript
+  - vite
 builders:
   - name: McChicken Lim

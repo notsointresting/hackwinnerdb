@@ -20,5 +20,7 @@ technologies:
   - javascript
   - python
   - react
+  - uvicorn
+  - vite
 builders:
   - name: Chinedu Chukwu

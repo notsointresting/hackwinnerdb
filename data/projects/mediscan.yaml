@@ -15,6 +15,7 @@ categories:
   - healthcare
   - education
 technologies:
+  - nextjs
   - openai
   - vercel
 builders:

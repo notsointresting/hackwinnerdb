@@ -17,6 +17,8 @@ categories:
   - social-impact
 technologies:
   - cloudflare
+  - github-actions
+  - nextjs
   - postgresql
   - react
   - stripe

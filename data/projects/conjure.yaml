@@ -14,9 +14,14 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
+  - pydantic
+  - pytest
   - python
   - react
+  - react-three-fiber
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Paul Chike-Igwe

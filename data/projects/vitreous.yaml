@@ -17,7 +17,9 @@ technologies:
   - fastapi
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: ada Huang
   - name: Ella Pang

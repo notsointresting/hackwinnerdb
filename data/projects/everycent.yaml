@@ -13,10 +13,12 @@ image_url: null
 categories:
   - social-impact
 technologies:
+  - nodejs
   - python
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Tenzing Gurung
   - name: Smaran Pokharel

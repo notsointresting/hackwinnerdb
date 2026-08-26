@@ -13,9 +13,14 @@ image_url: null
 categories:
   - other
 technologies:
+  - github-actions
+  - nextjs
+  - nodejs
   - postgresql
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Aadit Kedia

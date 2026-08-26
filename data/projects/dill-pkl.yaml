@@ -16,9 +16,12 @@ categories:
 technologies:
   - docker
   - fastapi
+  - pytest
   - python
   - react
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Harshita Chandani
   - name: Jasmehar Kaur

@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - gemini
+  - hugging-face
   - javascript
   - python
   - react

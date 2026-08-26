@@ -17,6 +17,7 @@ categories:
 technologies:
   - cloudflare
   - fastapi
+  - hugging-face
   - python
 builders:
   - name: ibra-zhan Tleukulov

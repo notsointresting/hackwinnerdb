@@ -15,5 +15,6 @@ categories:
   - education
 technologies:
   - nextjs
+  - tailwind-css
 builders:
   - name: Abdullah Al Noman

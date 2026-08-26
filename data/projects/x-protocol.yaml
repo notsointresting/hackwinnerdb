@@ -21,5 +21,6 @@ technologies:
   - openai
   - python
   - react
+  - vite
 builders:
   - name: Dhanraj Nandurkar

@@ -18,6 +18,7 @@ technologies:
   - javascript
   - python
   - pytorch
+  - three-js
 builders:
   - name: Rohun Bakshi
   - name: Ethan Remedios

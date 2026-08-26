@@ -19,8 +19,11 @@ technologies:
   - elevenlabs
   - python
   - react
+  - react-three-fiber
+  - three-js
   - typescript
   - vercel
+  - vite
 builders:
   - name: Qinchuan Zhang
   - name: Will Park

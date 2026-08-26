@@ -16,10 +16,12 @@ categories:
   - fintech
 technologies:
   - fastapi
+  - hugging-face
   - python
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Josep Audenis
   - name: Guillem Cadevall Ferreres

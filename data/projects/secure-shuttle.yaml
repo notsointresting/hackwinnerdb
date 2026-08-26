@@ -14,7 +14,9 @@ categories:
   - other
 technologies:
   - fastapi
+  - pydantic
   - typescript
+  - uvicorn
 builders:
   - name: Justin W
   - name: Riley Boakes

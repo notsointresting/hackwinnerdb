@@ -16,6 +16,7 @@ categories:
   - healthcare
   - education
 technologies:
+  - chatgpt
   - elevenlabs
 builders:
   - name: Julie  Maughan

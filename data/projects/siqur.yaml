@@ -15,9 +15,13 @@ categories:
   - cybersecurity
 technologies:
   - fastapi
+  - nextjs
   - opencv
   - pytorch
   - react
+  - tailwind-css
+  - three-js
+  - uvicorn
   - yolo
 builders:
   - name: David Wang

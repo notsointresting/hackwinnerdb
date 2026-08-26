@@ -16,7 +16,9 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - nextjs
   - openai
+  - pydantic
   - python
   - react
   - typescript

@@ -16,6 +16,8 @@ technologies:
   - arduino
   - c-plus-plus
   - esp32
+  - meta-quest
+  - raspberry-pi
 builders:
   - name: Angelo Rivera
   - name: richa

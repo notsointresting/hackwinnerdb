@@ -19,6 +19,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Aman Palanati
   - name: Luis Corona

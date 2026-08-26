@@ -16,9 +16,11 @@ technologies:
   - arduino
   - c-plus-plus
   - esp32
+  - nodejs
   - python
   - react
   - sqlite
+  - vite
 builders:
   - name: KRISHNA MAHARAJWALA
   - name: Rohit Ramesh

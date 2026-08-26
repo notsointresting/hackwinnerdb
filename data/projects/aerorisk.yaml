@@ -13,6 +13,7 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - python
   - react
   - streamlit

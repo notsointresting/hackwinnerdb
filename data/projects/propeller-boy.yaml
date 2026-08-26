@@ -14,6 +14,7 @@ categories:
   - other
 technologies:
   - arduino
+  - c
   - python
 builders:
   - name: Connor Langan

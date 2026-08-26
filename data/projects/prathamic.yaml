@@ -15,9 +15,12 @@ categories:
   - education
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - postgresql
   - react
   - supabase
+  - three-js
   - typescript
   - vercel
 builders:

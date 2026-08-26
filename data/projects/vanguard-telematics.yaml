@@ -20,6 +20,7 @@ technologies:
   - python
   - react
   - redis
+  - vite
 builders:
   - name: Angela Xu
   - name: Bence Danko

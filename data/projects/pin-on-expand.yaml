@@ -19,5 +19,7 @@ technologies:
   - docker
   - fastapi
   - python
+  - tiktoken
+  - uvicorn
 builders:
   - name: Gaurav Gupte

@@ -15,5 +15,7 @@ categories:
 technologies:
   - cloudflare
   - javascript
+  - nodejs
+  - vite
 builders:
   - name: Lincoln Rwodzi

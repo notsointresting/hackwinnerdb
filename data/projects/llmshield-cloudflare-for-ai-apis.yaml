@@ -19,6 +19,8 @@ technologies:
   - docker
   - groq
   - javascript
+  - nextjs
+  - nodejs
   - postgresql
   - redis
 builders:

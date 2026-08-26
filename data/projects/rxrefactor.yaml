@@ -18,6 +18,7 @@ categories:
 technologies:
   - claude
   - fastapi
+  - nextjs
   - react
   - sqlite
 builders:

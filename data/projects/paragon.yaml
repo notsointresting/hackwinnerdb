@@ -15,8 +15,10 @@ categories:
   - blockchain
 technologies:
   - foundry
+  - nextjs
   - solidity
   - supabase
+  - tailwind-css
   - typescript
 builders:
   - name: Kirill Rybkov

@@ -19,6 +19,7 @@ technologies:
   - dart
   - firebase
   - flutter
+  - nodejs
 builders:
   - name: Prithvi Saran Sathyasaran
   - name: Roshini Venkateswaran

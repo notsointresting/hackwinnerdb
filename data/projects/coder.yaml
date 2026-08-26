@@ -16,6 +16,7 @@ technologies:
   - groq
   - javascript
   - langchain
+  - pydantic
   - python
   - react
 builders:

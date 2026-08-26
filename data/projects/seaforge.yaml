@@ -17,6 +17,7 @@ categories:
   - defi
 technologies:
   - javascript
+  - three-js
 builders:
   - name: Sabal Poudel
   - name: sdev2098

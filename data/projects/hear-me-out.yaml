@@ -20,6 +20,9 @@ technologies:
   - javascript
   - python
   - sqlite
+  - three-js
+  - web-audio-api
+  - webgl
 builders:
   - name: Syed Taswar Mahbub
   - name: MANIK SHARMA

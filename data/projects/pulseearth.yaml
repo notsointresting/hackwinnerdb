@@ -16,7 +16,10 @@ categories:
   - social-impact
 technologies:
   - docker
+  - nextjs
+  - nodejs
   - react
+  - three-js
   - typescript
   - vercel
 builders:

@@ -14,6 +14,10 @@ categories:
   - iot
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
+  - three-js
+  - webgl
 builders:
   - name: Abdussalam-popsy Popoola

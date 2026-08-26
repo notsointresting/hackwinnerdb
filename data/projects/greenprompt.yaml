@@ -14,5 +14,6 @@ categories:
   - gaming
 technologies:
   - gemini
+  - nodejs
 builders:
   - name: Ram Bhagat

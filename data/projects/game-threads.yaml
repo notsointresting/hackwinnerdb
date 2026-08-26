@@ -15,5 +15,7 @@ categories:
   - gaming
 technologies:
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Todd Roberts

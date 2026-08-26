@@ -19,6 +19,8 @@ categories:
 technologies:
   - gemini
   - langchain
+  - nextjs
+  - tailwind-css
   - typescript
 builders:
   - name: GAURAV CHAUDHARY

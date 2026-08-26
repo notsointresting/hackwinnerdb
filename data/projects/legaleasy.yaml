@@ -14,9 +14,11 @@ categories:
   - creative-tools
   - enterprise
 technologies:
+  - nodejs
   - openai
   - react
   - typescript
+  - vite
 builders:
   - name: Venkata Siva Lalitaaditya Duggi
   - name: Rohiith Krishnan. R

@@ -14,6 +14,7 @@ categories:
   - cybersecurity
   - blockchain
 technologies:
+  - codex
   - docker
   - react
 builders:

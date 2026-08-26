@@ -13,10 +13,14 @@ categories:
   - education
   - infrastructure
 technologies:
+  - mcp
+  - nextjs
+  - nodejs
   - postgresql
   - react
   - rust
   - solana
+  - tailwind-css
   - typescript
 builders:
   - name: Ben Zhou

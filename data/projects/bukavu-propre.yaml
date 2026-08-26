@@ -18,6 +18,7 @@ technologies:
   - firebase
   - flutter
   - google-cloud
+  - nextjs
   - react
 builders:
   - name: Evariste Ngongo

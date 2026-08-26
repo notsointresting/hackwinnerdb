@@ -18,7 +18,9 @@ technologies:
   - gemini
   - python
   - react
+  - tailwind-css
   - typescript
   - vertex-ai
+  - vite
 builders:
   - name: Tony y

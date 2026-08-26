@@ -18,6 +18,7 @@ technologies:
   - flask
   - gemini
   - react
+  - vite
 builders:
   - name: Abdalla shaldam
   - name: Dantes1nfern0 Vo

@@ -15,6 +15,7 @@ categories:
   - cybersecurity
   - social-impact
 technologies:
+  - pnpm
   - typescript
   - vercel
 builders:

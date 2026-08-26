@@ -16,6 +16,8 @@ categories:
   - social-impact
 technologies:
   - figma
+  - nextjs
+  - nodejs
   - react
   - typescript
   - vercel

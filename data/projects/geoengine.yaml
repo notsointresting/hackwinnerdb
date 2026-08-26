@@ -18,6 +18,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Anush Jain
   - name: Yanqing Yang

@@ -16,6 +16,10 @@ categories:
 technologies:
   - python
   - react
+  - react-three-fiber
+  - three-js
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Tianyi Li

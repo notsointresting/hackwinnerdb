@@ -16,6 +16,7 @@ categories:
   - media
 technologies:
   - gemini
+  - nextjs
   - postgresql
   - react
   - typescript

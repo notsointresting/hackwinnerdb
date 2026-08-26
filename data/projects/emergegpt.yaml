@@ -14,7 +14,8 @@ categories:
   - artificial-intelligence
   - education
   - productivity
-technologies: []
+technologies:
+  - codex
 builders:
   - name: isayah culbertson
   - name: Dean Hu

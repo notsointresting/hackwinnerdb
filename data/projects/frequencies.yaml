@@ -17,6 +17,7 @@ technologies:
   - react
   - supabase
   - vercel
+  - vite
 builders:
   - name: Andy Atmadja
   - name: Naman Lalwani

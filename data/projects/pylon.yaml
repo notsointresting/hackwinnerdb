@@ -17,9 +17,15 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nextjs
+  - nodejs
+  - pytest
   - python
   - react
+  - tailwind-css
   - typescript
+  - uvicorn
+  - zustand
 builders:
   - name: Dat Nguyen
   - name: William Stobaugh

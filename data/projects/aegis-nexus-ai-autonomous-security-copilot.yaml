@@ -17,6 +17,7 @@ categories:
   - social-impact
 technologies:
   - elevenlabs
+  - nodejs
   - sqlite
   - twilio
 builders:

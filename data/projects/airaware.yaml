@@ -14,8 +14,10 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - openai
   - react
+  - vite
 builders:
   - name: Prince Sutariya
   - name: Kartik Solanki

@@ -14,6 +14,8 @@ categories:
   - artificial-intelligence
   - education
   - fintech
-technologies: []
+technologies:
+  - tailwind-css
+  - vite
 builders:
   - name: Pratham Nanekar

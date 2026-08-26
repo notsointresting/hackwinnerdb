@@ -17,6 +17,7 @@ categories:
 technologies:
   - fastapi
   - hugging-face
+  - nextjs
   - python
   - react
 builders:

@@ -17,6 +17,8 @@ categories:
 technologies:
   - fastapi
   - mongodb
+  - nextjs
+  - pydantic
   - python
   - react
   - tailwind-css

@@ -14,6 +14,7 @@ categories:
   - education
 technologies:
   - nextjs
+  - three-js
   - vercel
 builders:
   - name: Anchal Singh

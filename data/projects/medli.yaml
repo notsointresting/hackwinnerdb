@@ -16,6 +16,7 @@ categories:
 technologies:
   - javascript
   - mongodb
+  - nodejs
   - react
 builders:
   - name: Divyanshu Kapale

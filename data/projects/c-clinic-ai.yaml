@@ -14,8 +14,10 @@ categories:
   - education
   - gaming
 technologies:
+  - nodejs
   - python
   - react
+  - three-js
   - typescript
 builders:
   - name: Will Barnard

@@ -17,9 +17,13 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - pydantic
   - python
   - react
+  - tailwind-css
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Melvin Karupati
   - name: Chanuth Devnaka Jayatissa

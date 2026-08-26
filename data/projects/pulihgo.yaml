@@ -14,11 +14,13 @@ categories:
   - education
   - social-impact
 technologies:
+  - nodejs
   - postgresql
   - react
   - react-native
   - supabase
   - typescript
+  - vite
 builders:
   - name: Sulthan Dhiyazka
   - name: adnankurniawann

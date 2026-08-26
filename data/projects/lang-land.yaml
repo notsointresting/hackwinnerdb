@@ -16,6 +16,8 @@ categories:
 technologies:
   - gemini
   - react
+  - three-js
+  - vite
 builders:
   - name: Muzan Al Muzanen
   - name: Mohammed Al-Oda

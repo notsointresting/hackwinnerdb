@@ -15,7 +15,9 @@ categories:
   - media
 technologies:
   - javascript
+  - nodejs
   - tensorflow
+  - vite
 builders:
   - name: Henry Zhao
   - name: Austin Luo

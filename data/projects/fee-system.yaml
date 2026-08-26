@@ -13,5 +13,6 @@ categories:
   - fintech
 technologies:
   - nextjs
+  - nodejs
 builders:
   - name: Neununa Faith

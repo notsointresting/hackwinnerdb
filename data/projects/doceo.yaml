@@ -22,5 +22,6 @@ technologies:
   - python
   - react
   - typescript
+  - uvicorn
 builders:
   - name: David Chen

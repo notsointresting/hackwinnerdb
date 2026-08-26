@@ -24,6 +24,7 @@ technologies:
   - google-cloud
   - javascript
   - mongodb
+  - nodejs
   - solana
   - yolo
 builders:

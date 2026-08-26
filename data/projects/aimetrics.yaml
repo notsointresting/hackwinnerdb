@@ -14,7 +14,10 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - nodejs
   - react
+  - three-js
+  - vite
 builders:
   - name: Ian Mason
   - name: Bishop Akalusi

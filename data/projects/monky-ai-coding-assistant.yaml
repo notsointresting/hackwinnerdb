@@ -18,5 +18,6 @@ technologies:
   - javascript
   - mongodb
   - nextjs
+  - nodejs
 builders:
   - name: Kshitiz Jain

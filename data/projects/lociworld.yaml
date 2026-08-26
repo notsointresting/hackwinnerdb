@@ -18,5 +18,7 @@ categories:
 technologies:
   - claude
   - cloudflare
+  - three-js
+  - vite
 builders:
   - name: Micah Corcoran

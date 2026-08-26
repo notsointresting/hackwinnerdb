@@ -17,6 +17,7 @@ categories:
   - climate
 technologies:
   - fastapi
+  - github-actions
   - javascript
   - python
 builders:

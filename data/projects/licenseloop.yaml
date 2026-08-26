@@ -15,6 +15,7 @@ categories:
   - blockchain
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Giacomo Scagliola
   - name: Leonardo Valentino

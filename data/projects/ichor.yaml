@@ -14,7 +14,9 @@ categories:
 technologies:
   - cloudflare
   - svelte
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: nunera Kryvonis
   - name: Zachary Stubbs

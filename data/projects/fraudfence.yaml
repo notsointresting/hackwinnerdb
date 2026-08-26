@@ -17,6 +17,7 @@ categories:
   - fintech
 technologies:
   - fastapi
+  - nextjs
   - opencv
   - python
   - react

@@ -18,7 +18,9 @@ categories:
 technologies:
   - figma
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Trisha Bej
   - name: Tanisha Debnath

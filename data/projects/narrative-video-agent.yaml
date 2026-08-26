@@ -16,7 +16,10 @@ categories:
 technologies:
   - fastapi
   - groq
+  - pydantic
   - tailwind-css
+  - uvicorn
   - vercel
+  - vite
 builders:
   - name: Kritika Ghosh

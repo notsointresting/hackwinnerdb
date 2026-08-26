@@ -17,11 +17,13 @@ categories:
 technologies:
   - arduino
   - c-plus-plus
+  - nextjs
   - python
   - react
   - tailwind-css
   - twilio
   - typescript
   - webrtc
+  - zustand
 builders:
   - name: Shawn Sony

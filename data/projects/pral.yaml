@@ -14,6 +14,7 @@ categories:
 technologies:
   - fastapi
   - mapbox
+  - nextjs
   - python
   - react
 builders:

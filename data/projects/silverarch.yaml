@@ -17,6 +17,8 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
+  - openai-api
 builders:
   - name: Danvern Poo
   - name: Yong Wei

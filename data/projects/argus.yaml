@@ -14,8 +14,14 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - elevenlabs
+  - fastapi
   - gemini
+  - playwright
   - python
+  - react
+  - sqlite
+  - three-js
   - typescript
 builders:
   - name: Sequoia Samuel

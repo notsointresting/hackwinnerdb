@@ -17,9 +17,14 @@ technologies:
   - firebase
   - javascript
   - mapbox
+  - playwright
   - react
+  - tailwind-css
   - tensorflow
   - typescript
+  - vite
+  - vitest
+  - webgl
   - webrtc
 builders:
   - name: Viktor Nedev

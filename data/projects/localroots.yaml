@@ -15,6 +15,7 @@ categories:
   - fintech
   - blockchain
 technologies:
+  - nextjs
   - supabase
 builders:
   - name: Zachary Tang

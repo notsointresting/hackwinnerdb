@@ -17,9 +17,11 @@ technologies:
   - arduino
   - elevenlabs
   - javascript
+  - nodejs
   - react
   - sqlite
   - typescript
+  - vite
 builders:
   - name: Guim Casadellà Cors
   - name: Pol Resina Martínez

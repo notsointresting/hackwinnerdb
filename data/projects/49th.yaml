@@ -14,9 +14,11 @@ categories:
 technologies:
   - elevenlabs
   - javascript
+  - nodejs
   - react
   - twilio
   - typescript
+  - vite
 builders:
   - name: Akash Nagabhirava
   - name: Sehreen Basara

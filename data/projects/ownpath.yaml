@@ -16,6 +16,8 @@ categories:
   - education
 technologies:
   - javascript
+  - netlify
   - react
+  - vite
 builders:
   - name: Aishwarya Singh

@@ -15,7 +15,10 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Hrithik Turaka
   - name: Navin Roy

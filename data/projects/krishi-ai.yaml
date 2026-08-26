@@ -17,5 +17,6 @@ technologies:
   - gemini
   - react
   - typescript
+  - vite
 builders:
   - name: Shreearu Bisoi

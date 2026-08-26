@@ -15,6 +15,7 @@ categories:
   - education
   - enterprise
 technologies:
+  - nextjs
   - react
   - tailwind-css
   - typescript

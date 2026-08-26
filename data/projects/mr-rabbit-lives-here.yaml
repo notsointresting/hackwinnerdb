@@ -19,6 +19,7 @@ technologies:
   - flask
   - google-cloud
   - mongodb
+  - nodejs
   - python
   - react
 builders:

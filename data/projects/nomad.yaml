@@ -13,9 +13,12 @@ categories:
   - artificial-intelligence
   - blockchain
 technologies:
+  - nodejs
   - rust
   - solana
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Nicholas Kim
   - name: Hanze Lou

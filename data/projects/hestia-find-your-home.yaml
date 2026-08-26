@@ -21,6 +21,7 @@ technologies:
   - react
   - redis
   - typescript
+  - vite
 builders:
   - name: Aonghus Cooke
   - name: Lachlan Horn

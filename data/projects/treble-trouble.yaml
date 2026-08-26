@@ -18,6 +18,7 @@ technologies:
   - fastapi
   - javascript
   - python
+  - three-js
 builders:
   - name: Jordan Joelson
   - name: Tushaar Sood

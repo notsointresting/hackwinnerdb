@@ -18,6 +18,7 @@ technologies:
   - fastapi
   - groq
   - javascript
+  - netlify
   - python
 builders:
   - name: Rhea Shastri

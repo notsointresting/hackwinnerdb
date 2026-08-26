@@ -19,6 +19,7 @@ technologies:
   - gemini
   - python
   - react
+  - vite
 builders:
   - name: Shayne Yong
   - name: Angle 0

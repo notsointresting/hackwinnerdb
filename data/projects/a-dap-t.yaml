@@ -16,9 +16,12 @@ categories:
   - blockchain
 technologies:
   - fastapi
+  - nextjs
+  - pydantic
   - python
   - react
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: Akshhaya Isa

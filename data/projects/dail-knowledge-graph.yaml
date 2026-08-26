@@ -20,6 +20,7 @@ technologies:
   - gemini
   - python
   - react
+  - vite
 builders:
   - name: Shrey Jain
   - name: Nikhil Arethiya

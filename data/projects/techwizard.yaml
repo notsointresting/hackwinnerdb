@@ -17,6 +17,7 @@ categories:
   - creative-tools
 technologies:
   - javascript
+  - nodejs
   - react
   - vercel
 builders:

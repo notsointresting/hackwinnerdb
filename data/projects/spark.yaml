@@ -11,7 +11,11 @@ video_url: https://www.youtube.com/embed/s5GVI3ibZUA
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/076/376/datas/gallery.jpg
 categories:
   - climate
-technologies: []
+technologies:
+  - claude
+  - firebase
+  - javascript
+  - react
 builders:
   - name: Matthew Sakhno
   - name: Jack Le

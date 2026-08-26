@@ -15,6 +15,7 @@ categories:
   - healthcare
 technologies:
   - docker
+  - nodejs
   - postgresql
   - react
   - redis

@@ -16,8 +16,10 @@ categories:
 technologies:
   - fastapi
   - groq
+  - nextjs
   - postgresql
   - python
+  - uvicorn
 builders:
   - name: folashewa olaniyi
   - name: Ashirwad Dahal

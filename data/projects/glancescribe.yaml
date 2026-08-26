@@ -17,8 +17,10 @@ technologies:
   - elevenlabs
   - gemini
   - javascript
+  - nodejs
   - python
   - swift
+  - three-js
 builders:
   - name: hanyariz Rizvi
   - name: M4r1um Habib

@@ -16,6 +16,7 @@ technologies:
   - c-plus-plus
   - claude
   - flask
+  - netlify
   - python
 builders:
   - name: Vikas Sethuraman

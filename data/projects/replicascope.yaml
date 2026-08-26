@@ -19,7 +19,9 @@ technologies:
   - claude
   - docker
   - fastapi
+  - pytest
   - python
+  - uv
 builders:
   - name: Andrew Johnson
   - name: Luis Garcia

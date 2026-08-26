@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - javascript
   - mongodb
+  - nextjs
   - opencv
   - python
   - pytorch

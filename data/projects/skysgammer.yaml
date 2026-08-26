@@ -16,9 +16,11 @@ categories:
 technologies:
   - fastapi
   - gemini
+  - nextjs
   - python
   - react
   - typescript
+  - uvicorn
 builders:
   - name: Martina Vichino Gallardo
   - name: David Vargas

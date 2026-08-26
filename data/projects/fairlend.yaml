@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - python
   - react
+  - vite
 builders:
   - name: Sashank K
   - name: Vijay Pratap Singh

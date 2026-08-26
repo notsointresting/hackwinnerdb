@@ -16,6 +16,8 @@ categories:
   - education
   - ar-vr
 technologies:
+  - three-js
+  - webgl
   - webrtc
 builders:
   - name: yolanda xing

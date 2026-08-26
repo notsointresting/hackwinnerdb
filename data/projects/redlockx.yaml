@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - groq
+  - hugging-face
   - javascript
   - python
   - supabase

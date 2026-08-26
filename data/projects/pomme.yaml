@@ -20,8 +20,10 @@ technologies:
   - c-plus-plus
   - javascript
   - mongodb
+  - nodejs
   - python
   - react
+  - three-js
   - vercel
 builders:
   - name: Daniel Liu

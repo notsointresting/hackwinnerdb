@@ -17,6 +17,7 @@ categories:
 technologies:
   - llama
   - mistral
+  - nextjs
   - python
   - solana
   - swift

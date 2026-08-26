@@ -14,6 +14,8 @@ categories:
   - artificial-intelligence
   - education
   - social-impact
-technologies: []
+technologies:
+  - tailwind-css
+  - vite
 builders:
   - name: teper hoor

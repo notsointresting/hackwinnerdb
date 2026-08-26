@@ -17,5 +17,6 @@ categories:
 technologies:
   - javascript
   - typescript
+  - vite
 builders:
   - name: RAJAT KUMAR

@@ -14,7 +14,9 @@ categories:
 technologies:
   - javascript
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Gustavo Silva
   - name: Fabrício Santos

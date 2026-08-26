@@ -14,10 +14,13 @@ categories:
   - social-impact
 technologies:
   - flask
+  - nextjs
+  - nodejs
   - postgresql
   - python
   - react
   - supabase
+  - tailwind-css
   - typescript
 builders:
   - name: Sanskar Mishra

@@ -19,5 +19,6 @@ technologies:
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Supriya Rai

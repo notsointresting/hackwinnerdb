@@ -16,6 +16,7 @@ categories:
   - e-commerce
 technologies:
   - mongodb
+  - nextjs
   - react
   - tailwind-css
   - typescript

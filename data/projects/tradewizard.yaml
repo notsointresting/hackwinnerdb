@@ -14,6 +14,7 @@ categories:
   - other
 technologies:
   - nextjs
+  - supabase
 builders:
   - name: Ademola Balogun
   - name: Olabode Aka

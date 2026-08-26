@@ -16,7 +16,9 @@ technologies:
   - fastapi
   - gemini
   - mongodb
+  - nextjs
   - python
+  - tailwind-css
   - typescript
 builders:
   - name: zophia laud

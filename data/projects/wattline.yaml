@@ -17,6 +17,8 @@ technologies:
   - fastapi
   - python
   - react
+  - uvicorn
+  - vite
 builders:
   - name: Vinh Le
   - name: NiyakoA

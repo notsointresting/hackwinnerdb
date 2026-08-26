@@ -15,6 +15,7 @@ categories:
   - education
   - productivity
 technologies:
+  - nextjs
   - react
   - supabase
 builders:

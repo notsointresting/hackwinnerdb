@@ -15,5 +15,6 @@ technologies:
   - javascript
   - react
   - typescript
+  - vite
 builders:
   - name: Soham Roy

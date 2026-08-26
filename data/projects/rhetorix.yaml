@@ -25,6 +25,7 @@ technologies:
   - sql
   - sqlite
   - typescript
+  - vite
 builders:
   - name: Alan Gruszkiewicz
   - name: Reyansh Tellis

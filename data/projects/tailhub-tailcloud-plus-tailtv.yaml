@@ -18,6 +18,7 @@ technologies:
   - opencv
   - python
   - sqlite
+  - vite
 builders:
   - name: Anastasiya Volgina
   - name: Rosie Chai

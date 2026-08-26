@@ -13,5 +13,6 @@ categories:
   - other
 technologies:
   - javascript
+  - python
 builders:
   - name: mikesharma253 Sharma

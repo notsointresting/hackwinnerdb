@@ -19,6 +19,7 @@ technologies:
   - rust
   - solana
   - solidity
+  - vite
 builders:
   - name: Eesh Kapoor
   - name: DerekEtc Lo

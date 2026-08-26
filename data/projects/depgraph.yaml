@@ -17,5 +17,7 @@ categories:
 technologies:
   - python
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: Shailesh Hawale

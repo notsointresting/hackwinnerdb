@@ -16,6 +16,7 @@ categories:
   - gaming
 technologies:
   - mongodb
+  - nodejs
   - solana
   - vercel
 builders:

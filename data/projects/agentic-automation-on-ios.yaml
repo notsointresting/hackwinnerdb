@@ -16,6 +16,7 @@ categories:
 technologies:
   - claude
   - javascript
+  - nodejs
   - swift
 builders:
   - name: Bryan Ramirez-Gonzalez

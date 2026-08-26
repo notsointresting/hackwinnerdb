@@ -14,7 +14,10 @@ categories:
 technologies:
   - elevenlabs
   - fastapi
+  - nextjs
+  - pydantic
   - python
+  - uvicorn
 builders:
   - name: Jinay Desai
   - name: smit patel

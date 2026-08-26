@@ -18,7 +18,9 @@ technologies:
   - elevenlabs
   - gemini
   - javascript
+  - nodejs
   - react
+  - vite
 builders:
   - name: Keichara Fleeks
   - name: Francisco Medina

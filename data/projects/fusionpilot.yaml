@@ -14,6 +14,8 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - nodejs
   - python
+  - three-js
 builders:
   - name: Jose Contreras

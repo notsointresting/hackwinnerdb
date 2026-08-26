@@ -15,6 +15,7 @@ categories:
   - education
   - iot
 technologies:
+  - nextjs
   - python
 builders:
   - name: Pranjal Adhikari

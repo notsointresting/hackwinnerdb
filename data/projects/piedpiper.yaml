@@ -16,6 +16,7 @@ categories:
   - media
 technologies:
   - hugging-face
+  - openai-api
   - python
   - pytorch
 builders:

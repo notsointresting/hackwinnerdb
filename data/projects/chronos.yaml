@@ -14,5 +14,7 @@ categories:
   - education
 technologies:
   - javascript
+  - nodejs
+  - three-js
 builders:
   - name: Aritra Roy

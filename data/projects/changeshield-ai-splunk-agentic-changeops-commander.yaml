@@ -15,6 +15,7 @@ categories:
   - artificial-intelligence
   - education
   - cybersecurity
-technologies: []
+technologies:
+  - mcp
 builders:
   - name: Frank douzi

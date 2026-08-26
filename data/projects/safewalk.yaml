@@ -19,9 +19,12 @@ technologies:
   - fastapi
   - javascript
   - mongodb
+  - nodejs
+  - pydantic
   - python
   - react
   - twilio
+  - uvicorn
 builders:
   - name: Shivani Rao
   - name: Samantha Sy-Perez

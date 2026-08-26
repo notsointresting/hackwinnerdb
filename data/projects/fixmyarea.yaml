@@ -16,6 +16,7 @@ categories:
   - govtech
 technologies:
   - javascript
+  - netlify
   - react
   - tailwind-css
 builders:

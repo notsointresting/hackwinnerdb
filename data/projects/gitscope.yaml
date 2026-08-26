@@ -18,5 +18,6 @@ technologies:
   - flask
   - javascript
   - python
+  - vite
 builders:
   - name: Akene Crosse

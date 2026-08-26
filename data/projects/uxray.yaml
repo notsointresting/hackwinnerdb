@@ -16,5 +16,7 @@ categories:
   - gaming
 technologies:
   - javascript
+  - nodejs
+  - openai-api
 builders:
   - name: NAFIZ SHAHRIAR SAMI

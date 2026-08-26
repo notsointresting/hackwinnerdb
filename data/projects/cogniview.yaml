@@ -19,10 +19,12 @@ technologies:
   - anthropic
   - fastapi
   - gemini
+  - nextjs
   - openai
   - python
   - react
   - typescript
+  - uvicorn
 builders:
   - name: Jørgen Bergh
   - name: Noah Lund  Syrdal

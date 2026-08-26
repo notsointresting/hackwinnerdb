@@ -16,6 +16,7 @@ categories:
   - healthcare
   - education
 technologies:
+  - pydantic
   - python
 builders:
   - name: Mitchell Coplan

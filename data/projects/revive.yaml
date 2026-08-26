@@ -17,6 +17,8 @@ technologies:
   - arduino
   - elevenlabs
   - fastapi
+  - nextjs
+  - nodejs
   - python
   - react
   - typescript

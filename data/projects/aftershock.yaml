@@ -16,8 +16,11 @@ categories:
   - ar-vr
 technologies:
   - javascript
+  - nodejs
   - openai
   - react
+  - three-js
+  - webgl
 builders:
   - name: Valentina Rosas
   - name: Ishani Patel

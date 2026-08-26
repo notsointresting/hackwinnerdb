@@ -16,6 +16,7 @@ categories:
   - education
   - social-impact
 technologies:
+  - nextjs
   - react
   - tailwind-css
   - typescript

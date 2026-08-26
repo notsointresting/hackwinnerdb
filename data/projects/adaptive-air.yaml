@@ -22,6 +22,7 @@ technologies:
   - llama
   - react
   - typescript
+  - vite
 builders:
   - name: Bhagyasri Uddandam
   - name: krupa patel

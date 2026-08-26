@@ -12,6 +12,7 @@ image_url: null
 categories:
   - other
 technologies:
+  - nextjs
   - react
 builders:
   - name: Brandon Fong

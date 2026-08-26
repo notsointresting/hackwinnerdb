@@ -23,6 +23,7 @@ technologies:
   - mongodb
   - python
   - raspberry-pi
+  - three-js
 builders:
   - name: Kaysarul Anas
   - name: Arkesh Rupan

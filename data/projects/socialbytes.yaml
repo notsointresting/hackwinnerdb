@@ -22,6 +22,7 @@ technologies:
   - mongodb
   - python
   - vercel
+  - vite
 builders:
   - name: Bode Polhemus
   - name: Bailey McCalmont

@@ -16,9 +16,12 @@ categories:
   - social-impact
 technologies:
   - mongodb
+  - nodejs
   - openai
   - react
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Janhavee Singh
   - name: Rishika Mehta

@@ -17,6 +17,8 @@ technologies:
   - javascript
   - python
   - react
+  - uvicorn
   - vercel
+  - vite
 builders:
   - name: Sithranjan Suresh

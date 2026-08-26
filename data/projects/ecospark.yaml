@@ -14,6 +14,8 @@ categories:
   - artificial-intelligence
   - healthcare
   - education
-technologies: []
+technologies:
+  - vite
+  - zustand
 builders:
   - name: Amitesh Yadav

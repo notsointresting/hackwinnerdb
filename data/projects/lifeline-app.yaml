@@ -17,6 +17,7 @@ technologies:
   - firebase
   - gemini
   - javascript
+  - nodejs
   - react
   - react-native
 builders:

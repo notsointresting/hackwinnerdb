@@ -16,6 +16,7 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - vite
   - vue
 builders:
   - name: Akshaya Muthusamy

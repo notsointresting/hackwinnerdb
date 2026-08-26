@@ -15,9 +15,11 @@ categories:
   - cybersecurity
   - enterprise
 technologies:
+  - chrome
   - gpt-4
   - javascript
   - openai
   - typescript
+  - vite
 builders:
   - name: Stephane Colmant

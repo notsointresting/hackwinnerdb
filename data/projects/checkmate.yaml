@@ -13,9 +13,11 @@ categories:
   - healthcare
 technologies:
   - openai
+  - pydantic
   - python
   - pytorch
   - streamlit
+  - uvicorn
 builders:
   - name: Akshay Vakharia
   - name: Sanil Desai

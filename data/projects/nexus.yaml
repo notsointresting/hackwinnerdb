@@ -15,9 +15,14 @@ categories:
   - education
 technologies:
   - anthropic
+  - fastapi
+  - google-ai-studio
+  - google-cloud
   - javascript
+  - python
   - react
   - vercel
+  - vite
   - webrtc
 builders:
   - name: michaelcraft17 Chang

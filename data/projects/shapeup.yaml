@@ -18,6 +18,7 @@ technologies:
   - firebase
   - nextjs
   - python
+  - three-js
   - typescript
   - vercel
 builders:

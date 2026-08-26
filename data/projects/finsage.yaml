@@ -16,6 +16,7 @@ categories:
   - creative-tools
 technologies:
   - claude
+  - nodejs
   - python
 builders:
   - name: Tung Le

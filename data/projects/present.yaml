@@ -14,6 +14,8 @@ categories:
 technologies:
   - elevenlabs
   - gemini
+  - nextjs
+  - playwright
   - react
   - supabase
   - twilio

@@ -15,7 +15,9 @@ categories:
   - other
 technologies:
   - javascript
+  - nodejs
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Vivienne Hnin

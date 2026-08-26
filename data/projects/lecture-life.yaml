@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - tailwind-css
+  - vite
 builders:
   - name: Zakia Yesmin
   - name: Saranya Rajan

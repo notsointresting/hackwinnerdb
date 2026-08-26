@@ -17,8 +17,11 @@ categories:
   - iot
 technologies:
   - fastapi
+  - nextjs
   - python
   - react
+  - tailwind-css
   - typescript
+  - uv
 builders:
   - name: Bhavesh Gupta

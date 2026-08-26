@@ -16,6 +16,7 @@ technologies:
   - c-plus-plus
   - esp32
   - javascript
+  - nodejs
 builders:
   - name: Clement Darmadi
   - name: jonathan andrew

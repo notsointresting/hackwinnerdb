@@ -13,6 +13,7 @@ categories:
   - social-impact
 technologies:
   - claude
+  - nextjs
   - react
 builders:
   - name: Nico Zametto

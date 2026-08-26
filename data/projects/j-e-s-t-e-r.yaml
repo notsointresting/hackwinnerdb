@@ -14,5 +14,9 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - nodejs
   - openai
+  - three-js
+  - web-audio-api
+  - webgl
 builders: []

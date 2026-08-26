@@ -16,6 +16,8 @@ categories:
   - govtech
   - media
 technologies:
+  - nodejs
   - react
+  - tailwind-css
 builders:
   - name: Praveen Kumar S

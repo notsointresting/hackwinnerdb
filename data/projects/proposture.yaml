@@ -15,9 +15,12 @@ categories:
   - social-impact
 technologies:
   - flask
+  - hugging-face
   - opencv
   - pytorch
   - react
+  - vite
+  - windows
 builders:
   - name: Ethan Harter
   - name: Kevin Sabbe

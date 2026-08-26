@@ -13,6 +13,7 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - python
 builders:
   - name: Allison Tao

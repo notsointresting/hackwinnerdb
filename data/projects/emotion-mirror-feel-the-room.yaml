@@ -15,5 +15,6 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - webgl
 builders:
   - name: Salma Agrirane

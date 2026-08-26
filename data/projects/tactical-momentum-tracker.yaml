@@ -21,5 +21,6 @@ technologies:
   - gemini
   - google-cloud
   - python
+  - vite
 builders:
   - name: yudha e

@@ -17,9 +17,15 @@ categories:
   - social-impact
 technologies:
   - claude
+  - elevenlabs
   - groq
   - javascript
+  - postgresql
   - react
+  - tailwind-css
+  - twilio
+  - typescript
+  - vite
 builders:
   - name: Aditya Ranjith
   - name: Siddhartha Khajuria

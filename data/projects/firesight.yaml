@@ -18,7 +18,10 @@ categories:
 technologies:
   - elevenlabs
   - javascript
+  - nodejs
   - react
+  - three-js
+  - vite
 builders:
   - name: Xiya Tang
   - name: Alfred Sjöqvist

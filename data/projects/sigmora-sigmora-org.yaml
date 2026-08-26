@@ -26,6 +26,7 @@ technologies:
   - redis
   - sqlite
   - stripe
+  - tailwind-css
   - typescript
   - vercel
 builders:

@@ -14,6 +14,7 @@ categories:
   - other
 technologies:
   - javascript
+  - nextjs
   - postgresql
   - python
   - typescript

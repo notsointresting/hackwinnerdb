@@ -16,9 +16,11 @@ technologies:
   - docker
   - gemini
   - mongodb
+  - nodejs
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Aleksander Tacconi
   - name: Christopher White

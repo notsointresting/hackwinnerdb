@@ -16,6 +16,7 @@ technologies:
   - ipfs
   - javascript
   - typescript
+  - vite
 builders:
   - name: Rexy .
   - name: Sandipan Dey

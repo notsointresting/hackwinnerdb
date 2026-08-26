@@ -25,6 +25,8 @@ technologies:
   - supabase
   - tailwind-css
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: Himanshu Nimonkar
   - name: Avni-K Kandya

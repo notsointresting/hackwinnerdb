@@ -15,6 +15,7 @@ categories:
   - fintech
   - infrastructure
 technologies:
+  - nodejs
   - react
   - tailwind-css
 builders:

@@ -14,6 +14,7 @@ categories:
   - infrastructure
 technologies:
   - mongodb
+  - nodejs
   - react-native
   - rust
   - solana

@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - claude
+  - nextjs
   - react
   - typescript
   - vercel

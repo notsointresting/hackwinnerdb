@@ -16,6 +16,9 @@ categories:
   - education
   - media
 technologies:
+  - nextjs
+  - nodejs
+  - openai-api
   - react
   - tailwind-css
   - typescript

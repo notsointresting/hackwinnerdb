@@ -19,6 +19,7 @@ technologies:
   - gemini
   - react
   - typescript
+  - webgl
   - webrtc
 builders:
   - name: Eric Ramirez

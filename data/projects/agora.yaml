@@ -15,6 +15,7 @@ categories:
 technologies:
   - groq
   - javascript
+  - nodejs
   - webrtc
   - whisper
 builders:

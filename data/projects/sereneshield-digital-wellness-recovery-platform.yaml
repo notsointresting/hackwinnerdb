@@ -16,5 +16,6 @@ categories:
 technologies:
   - react
   - typescript
+  - vite
 builders:
   - name: Samriddha Das

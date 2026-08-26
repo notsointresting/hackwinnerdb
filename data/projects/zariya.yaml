@@ -16,6 +16,7 @@ categories:
   - infrastructure
 technologies:
   - flask
+  - nextjs
   - python
   - react
   - tailwind-css

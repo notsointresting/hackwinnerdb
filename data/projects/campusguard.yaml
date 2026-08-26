@@ -18,6 +18,7 @@ technologies:
   - gemini
   - opencv
   - python
+  - web-audio-api
 builders:
   - name: Hooman Afshari
   - name: Mohamed-Ltf Loutfi

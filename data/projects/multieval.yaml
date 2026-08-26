@@ -17,9 +17,12 @@ technologies:
   - anthropic
   - claude
   - gemini
+  - mcp
+  - pytest
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Alfred Sjöqvist
   - name: Lamek Tsegay

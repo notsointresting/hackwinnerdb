@@ -17,9 +17,11 @@ technologies:
   - flask
   - gemini
   - google-cloud
+  - nodejs
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Jack CS
   - name: OwenPainter Painter

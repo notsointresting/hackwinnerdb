@@ -21,6 +21,7 @@ technologies:
   - python
   - react
   - tailwind-css
+  - vite
 builders:
   - name: Chetas Parekh
   - name: Pranav Patel

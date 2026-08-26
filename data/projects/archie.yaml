@@ -15,8 +15,11 @@ categories:
   - education
   - gaming
 technologies:
+  - nextjs
+  - nodejs
   - react
   - tailwind-css
+  - three-js
   - typescript
 builders:
   - name: Basil Liu

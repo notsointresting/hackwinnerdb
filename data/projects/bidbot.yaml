@@ -19,6 +19,8 @@ technologies:
   - gemini
   - google-cloud
   - groq
+  - nextjs
+  - tailwind-css
   - twilio
   - typescript
 builders:

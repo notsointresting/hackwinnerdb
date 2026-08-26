@@ -16,5 +16,6 @@ categories:
 technologies:
   - javascript
   - python
+  - vite
 builders:
   - name: asthana7 Asthana

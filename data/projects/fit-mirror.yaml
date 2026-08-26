@@ -16,6 +16,7 @@ technologies:
   - javascript
   - react
   - solana
+  - vite
 builders:
   - name: Ryan Barcarse
   - name: Jan Kirvey Montemayor

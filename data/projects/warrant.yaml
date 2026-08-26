@@ -17,7 +17,9 @@ technologies:
   - javascript
   - mapbox
   - mongodb
+  - nodejs
   - react
+  - vite
 builders:
   - name: Zakari Bautista
   - name: Evan Lee

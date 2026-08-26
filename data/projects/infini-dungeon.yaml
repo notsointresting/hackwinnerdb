@@ -16,8 +16,10 @@ categories:
 technologies:
   - elevenlabs
   - gemini
+  - google-ai-studio
   - react
   - typescript
+  - vite
 builders:
   - name: Chris Lam
   - name: Benjamin Guerrieri

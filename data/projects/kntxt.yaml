@@ -14,6 +14,7 @@ categories:
   - education
   - creative-tools
 technologies:
+  - hugging-face
   - rust
 builders:
   - name: Miroslav Ondroušek

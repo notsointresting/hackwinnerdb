@@ -19,6 +19,7 @@ technologies:
   - javascript
   - react
   - tailwind-css
+  - three-js
 builders:
   - name: satvika alamuri
   - name: aubreyclairetanner-hub Marcelo-Tanner

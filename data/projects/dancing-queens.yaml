@@ -16,5 +16,6 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Serena L

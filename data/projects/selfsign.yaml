@@ -15,6 +15,7 @@ categories:
   - media
 technologies:
   - react
+  - vite
 builders:
   - name: Sania A
   - name: Lindsay Beauliere

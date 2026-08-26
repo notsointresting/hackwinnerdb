@@ -16,8 +16,10 @@ categories:
 technologies:
   - firebase
   - react
+  - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Saurabh Raj Shekhar
   - name: GAURAV

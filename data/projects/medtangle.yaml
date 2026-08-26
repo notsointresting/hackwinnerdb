@@ -14,7 +14,10 @@ categories:
   - healthcare
   - social-impact
 technologies:
+  - nextjs
+  - nodejs
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

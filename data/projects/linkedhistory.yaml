@@ -14,6 +14,7 @@ categories:
 technologies:
   - claude
   - firebase
+  - nextjs
   - react
 builders:
   - name: Stanley Ho

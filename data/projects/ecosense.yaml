@@ -16,6 +16,7 @@ categories:
   - cybersecurity
 technologies:
   - gemini
+  - nodejs
   - postgresql
   - react
   - typescript

@@ -17,8 +17,11 @@ technologies:
   - cloudflare
   - elevenlabs
   - gemini
+  - nodejs
   - python
+  - three-js
   - typescript
+  - vite
 builders:
   - name: Camilla C
   - name: Kevin Toren

@@ -16,12 +16,16 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - postgresql
+  - pydantic
+  - pytest
   - python
   - react
   - supabase
   - tailwind-css
   - typescript
+  - uvicorn
 builders:
   - name: Benjamin Namayandeh
   - name: Ian Tan

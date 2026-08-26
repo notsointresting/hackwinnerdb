@@ -18,6 +18,7 @@ technologies:
   - react
   - sqlite
   - typescript
+  - vite
 builders:
   - name: Amy Miller
   - name: Pranav Kumar

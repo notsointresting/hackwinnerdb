@@ -13,12 +13,14 @@ categories:
   - other
 technologies:
   - fastapi
+  - nodejs
   - openai
   - postgresql
   - python
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Shi yu Ho
   - name: kaiiyingg Kai Ying

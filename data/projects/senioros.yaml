@@ -14,7 +14,8 @@ categories:
   - artificial-intelligence
   - healthcare
   - education
-technologies: []
+technologies:
+  - nodejs
 builders:
   - name: Rishi Ramani
   - name: Shubh Tyagi

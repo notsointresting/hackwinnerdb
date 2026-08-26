@@ -15,5 +15,7 @@ categories:
   - media
 technologies:
   - javascript
+  - nodejs
+  - vite
 builders:
   - name: Arnav Mathur

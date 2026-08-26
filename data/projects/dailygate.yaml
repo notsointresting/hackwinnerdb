@@ -16,10 +16,12 @@ categories:
   - education
 technologies:
   - fastapi
+  - nodejs
   - python
   - react
   - sqlite
   - typescript
+  - vite
 builders:
   - name: SashaSkind Skinderev
   - name: Tvisha Shah

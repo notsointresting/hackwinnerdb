@@ -14,7 +14,11 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - docker
+  - fastapi
   - javascript
+  - python
   - typescript
+  - vertex-ai
 builders:
   - name: AMAN MAURYA

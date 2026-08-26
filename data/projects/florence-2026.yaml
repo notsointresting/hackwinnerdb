@@ -18,6 +18,7 @@ technologies:
   - react
   - twilio
   - typescript
+  - vite
 builders:
   - name: Morrison Chang
   - name: Douglas MacKrell

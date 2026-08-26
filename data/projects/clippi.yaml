@@ -19,6 +19,7 @@ technologies:
   - mistral
   - opencv
   - react
+  - zustand
 builders:
   - name: Sherwin Vishesh Jathanna
   - name: katsdivi Kataria

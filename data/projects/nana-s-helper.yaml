@@ -17,6 +17,7 @@ technologies:
   - elevenlabs
   - fastapi
   - mongodb
+  - nextjs
   - openai
   - python
   - react

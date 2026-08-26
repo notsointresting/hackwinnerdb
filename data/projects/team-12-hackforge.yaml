@@ -17,6 +17,7 @@ categories:
   - productivity
 technologies:
   - docker
+  - nextjs
   - postgresql
 builders:
   - name: Dipesh Gupta

@@ -15,6 +15,7 @@ categories:
   - fintech
   - blockchain
 technologies:
+  - nodejs
   - react-native
 builders:
   - name: Etienne Perche

@@ -16,6 +16,8 @@ categories:
   - education
   - gaming
 technologies:
+  - nextjs
+  - nodejs
   - react
   - sql
   - sqlite

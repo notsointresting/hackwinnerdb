@@ -19,8 +19,13 @@ technologies:
   - fastapi
   - gemini
   - google-cloud
+  - mcp
+  - nextjs
+  - playwright
+  - pytest
   - python
   - react
+  - tailwind-css
   - typescript
   - vertex-ai
 builders:

@@ -18,6 +18,7 @@ technologies:
   - fastapi
   - gemini
   - javascript
+  - mcp
   - python
   - vertex-ai
 builders:

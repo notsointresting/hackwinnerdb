@@ -19,5 +19,6 @@ technologies:
   - llama
   - python
   - react
+  - vite
 builders:
   - name: Soujanya Chatti

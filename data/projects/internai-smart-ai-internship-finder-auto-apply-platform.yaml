@@ -17,6 +17,8 @@ categories:
   - social-impact
 technologies:
   - groq
+  - nextjs
+  - playwright
   - python
   - react
   - tailwind-css

@@ -14,6 +14,7 @@ categories:
   - other
 technologies:
   - arduino
+  - c
   - c-plus-plus
   - esp32
   - javascript

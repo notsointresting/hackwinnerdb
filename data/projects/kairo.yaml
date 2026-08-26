@@ -16,7 +16,9 @@ categories:
   - education
 technologies:
   - groq
+  - nextjs
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Kenechukwu Goodluck

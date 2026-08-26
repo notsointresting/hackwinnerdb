@@ -21,7 +21,9 @@ technologies:
   - pytorch
   - react
   - tailwind-css
+  - three-js
   - vercel
+  - vite
 builders:
   - name: Neal Cha
   - name: Jeffrey  Thi

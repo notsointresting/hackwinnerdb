@@ -18,6 +18,7 @@ technologies:
   - javascript
   - mongodb
   - react
+  - react-native
 builders:
   - name: Karen Cervantes Alvarez
   - name: Diego Martell Rodríguez

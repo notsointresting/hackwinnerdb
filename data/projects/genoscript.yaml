@@ -16,6 +16,8 @@ categories:
 technologies:
   - gemini
   - mongodb
+  - nextjs
+  - nodejs
   - react
   - typescript
   - vercel

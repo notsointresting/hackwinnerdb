@@ -17,5 +17,7 @@ categories:
 technologies:
   - claude
   - react
+  - three-js
+  - vite
 builders:
   - name: arjun sharma

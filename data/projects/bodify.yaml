@@ -15,7 +15,10 @@ categories:
   - healthcare
   - education
 technologies:
+  - chatgpt
   - langchain
+  - nextjs
+  - pydantic
   - react
   - supabase
   - tailwind-css

@@ -18,6 +18,7 @@ categories:
 technologies:
   - javascript
   - python
+  - uvicorn
 builders:
   - name: Rishi Kothalanka
   - name: Neelima Talasila

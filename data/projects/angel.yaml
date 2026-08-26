@@ -16,6 +16,7 @@ categories:
   - education
 technologies:
   - claude
+  - codex
   - react
   - stripe
   - supabase

@@ -17,6 +17,7 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
 builders:
   - name: JosueDS27 Sanchez
   - name: Rohama60 Mulugeta

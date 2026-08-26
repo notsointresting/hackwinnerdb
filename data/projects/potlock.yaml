@@ -17,6 +17,7 @@ technologies:
   - solana
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Jacob Gutsin
   - name: arosen64 Rosen

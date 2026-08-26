@@ -20,6 +20,7 @@ technologies:
   - docker
   - fastapi
   - gemini
+  - nextjs
   - python
   - typescript
 builders:

@@ -20,6 +20,7 @@ technologies:
   - javascript
   - python
   - pytorch
+  - three-js
 builders:
   - name: Gregor Koch
   - name: Ken Gamble

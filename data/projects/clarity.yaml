@@ -12,8 +12,13 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - artificial-intelligence
 technologies:
+  - dart
   - elevenlabs
+  - fastapi
+  - flutter
   - mongodb
+  - python
+  - sqlite
   - typescript
 builders:
   - name: Samit Hegde

@@ -20,5 +20,7 @@ technologies:
   - openai
   - python
   - react
+  - uvicorn
+  - vite
 builders:
   - name: Madu Diop

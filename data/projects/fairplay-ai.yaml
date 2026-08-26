@@ -19,6 +19,7 @@ technologies:
   - opencv
   - python
   - react-native
+  - uvicorn
 builders:
   - name: Dunsin Komolafe
   - name: Agrima Gupta

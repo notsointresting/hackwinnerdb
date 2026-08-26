@@ -17,6 +17,7 @@ technologies:
   - groq
   - llama
   - mapbox
+  - nextjs
   - postgresql
   - python
   - typescript

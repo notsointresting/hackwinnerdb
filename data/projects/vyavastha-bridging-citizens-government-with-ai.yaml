@@ -19,9 +19,12 @@ technologies:
   - docker
   - fastapi
   - mongodb
+  - nodejs
   - python
   - pytorch
   - react
+  - vite
+  - zustand
 builders:
   - name: V  R
   - name: UNNATHI KRISHNA RAMANABOYANA

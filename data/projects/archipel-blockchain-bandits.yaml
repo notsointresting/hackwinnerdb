@@ -15,7 +15,8 @@ categories:
   - artificial-intelligence
   - education
   - cybersecurity
-technologies: []
+technologies:
+  - nodejs
 builders:
   - name: Jean A. KODIO
   - name: anumuliberta

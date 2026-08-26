@@ -15,7 +15,9 @@ categories:
   - gaming
 technologies:
   - javascript
+  - nodejs
   - typescript
+  - vite
 builders:
   - name: Dorothy Zheng
   - name: Aman Shah

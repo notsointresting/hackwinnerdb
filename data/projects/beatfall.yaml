@@ -13,6 +13,7 @@ categories:
   - iot
   - gaming
   - media
-technologies: []
+technologies:
+  - three-js
 builders:
   - name: Andrew Nguyen

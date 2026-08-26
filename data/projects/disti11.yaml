@@ -17,9 +17,12 @@ technologies:
   - elevenlabs
   - fastapi
   - javascript
+  - pydantic
   - python
   - sqlite
   - typescript
+  - uvicorn
+  - vite
 builders:
   - name: leokelly0 Kelly
   - name: Isaac Mukiri

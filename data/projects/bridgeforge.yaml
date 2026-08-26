@@ -16,5 +16,6 @@ technologies:
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: callooloo AI

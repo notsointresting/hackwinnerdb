@@ -15,7 +15,9 @@ categories:
 technologies:
   - claude
   - react
+  - three-js
   - typescript
+  - vite
 builders:
   - name: Md Sadat Hossain
   - name: ahmedtan-crypto Ahmedtanov

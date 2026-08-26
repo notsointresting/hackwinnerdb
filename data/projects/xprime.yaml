@@ -15,6 +15,7 @@ categories:
   - blockchain
 technologies:
   - ethereum
+  - nextjs
   - typescript
 builders:
   - name: Ethan L

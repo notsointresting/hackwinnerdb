@@ -15,6 +15,7 @@ categories:
   - gaming
 technologies:
   - gemini
+  - nextjs
   - react
   - supabase
   - typescript

@@ -19,6 +19,8 @@ technologies:
   - python
   - react
   - typescript
+  - vite
+  - zustand
 builders:
   - name: Om Shukla
   - name: Ayush Shukla

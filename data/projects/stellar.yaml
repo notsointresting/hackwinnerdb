@@ -16,6 +16,7 @@ technologies:
   - claude
   - javascript
   - react
+  - vite
 builders:
   - name: chailattee Norris
   - name: Jason Wang

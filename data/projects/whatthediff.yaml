@@ -14,8 +14,11 @@ categories:
   - media
   - creative-tools
 technologies:
+  - nextjs
   - react
+  - three-js
   - typescript
+  - zustand
 builders:
   - name: Neil Mewada
   - name: Shailen Sutradhar

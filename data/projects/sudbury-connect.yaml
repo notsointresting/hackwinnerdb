@@ -15,9 +15,11 @@ categories:
   - education
   - accessibility
 technologies:
+  - nodejs
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Molly Viau
   - name: Audrey Goudi

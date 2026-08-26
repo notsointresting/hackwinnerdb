@@ -16,6 +16,7 @@ categories:
   - creative-tools
 technologies:
   - firebase
+  - nextjs
   - react
 builders:
   - name: Dylan Lim

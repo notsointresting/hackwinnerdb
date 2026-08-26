@@ -20,6 +20,8 @@ technologies:
   - react
   - sql
   - sqlite
+  - uvicorn
+  - vite
 builders:
   - name: Izabela Camaj
   - name: Danielle Pagano

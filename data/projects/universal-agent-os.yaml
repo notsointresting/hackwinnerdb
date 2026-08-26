@@ -17,6 +17,8 @@ categories:
   - productivity
 technologies:
   - graphql
+  - powershell
+  - pytest
   - python
 builders:
   - name: Mehmet Aydoğan

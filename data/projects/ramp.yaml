@@ -16,6 +16,8 @@ categories:
   - fintech
 technologies:
   - fastapi
+  - hugging-face
+  - nextjs
   - python
 builders:
   - name: Gerard Perez i Carbo

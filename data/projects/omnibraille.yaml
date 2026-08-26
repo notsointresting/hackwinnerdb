@@ -16,7 +16,9 @@ categories:
 technologies:
   - arduino
   - c-plus-plus
+  - nextjs
   - react
   - vercel
+  - vite
 builders:
   - name: Nanier P. Leona

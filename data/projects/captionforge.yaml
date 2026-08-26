@@ -15,9 +15,11 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - pytest
   - python
   - react
   - typescript
+  - vite
   - whisper
 builders:
   - name: Henry Zhao

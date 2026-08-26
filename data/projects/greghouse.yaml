@@ -13,9 +13,11 @@ categories:
   - other
 technologies:
   - arduino
+  - c
   - c-plus-plus
   - cloudflare
   - esp32
+  - nodejs
   - react
 builders:
   - name: Sebastian Noel

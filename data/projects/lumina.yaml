@@ -17,8 +17,10 @@ categories:
 technologies:
   - docker
   - fastapi
+  - nextjs
   - python
   - react
+  - semgrep
   - tailwind-css
   - typescript
   - vercel

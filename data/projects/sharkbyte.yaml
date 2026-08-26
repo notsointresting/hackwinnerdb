@@ -22,6 +22,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Mahraz Ahmed
   - name: Dheer Maheshwari

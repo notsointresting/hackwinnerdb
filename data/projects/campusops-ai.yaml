@@ -17,6 +17,8 @@ categories:
   - education
 technologies:
   - mongodb
+  - nodejs
   - tailwind-css
+  - vite
 builders:
   - name: Shaurya agrawal

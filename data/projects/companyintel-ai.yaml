@@ -15,6 +15,7 @@ categories:
   - education
   - iot
 technologies:
+  - nodejs
   - openai
   - python
   - redis

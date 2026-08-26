@@ -19,8 +19,10 @@ technologies:
   - gemini
   - langchain
   - mapbox
+  - pydantic
   - python
   - typescript
+  - webgl
 builders:
   - name: Arjun Alwe
   - name: Dayyan Karedia

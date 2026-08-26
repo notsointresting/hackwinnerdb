@@ -17,11 +17,16 @@ categories:
   - media
 technologies:
   - fastapi
+  - nextjs
+  - playwright
   - postgresql
+  - pydantic
+  - pytest
   - python
   - react
   - supabase
   - typescript
   - vercel
+  - vitest
 builders:
   - name: Amir Lotfy

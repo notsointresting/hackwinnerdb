@@ -16,7 +16,10 @@ categories:
   - education
 technologies:
   - mongodb
+  - nodejs
   - react
   - redis
+  - tailwind-css
+  - vite
 builders:
   - name: Priyanshu Pandey

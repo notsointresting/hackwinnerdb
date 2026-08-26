@@ -16,9 +16,11 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - pydantic
   - python
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Deepanshu S

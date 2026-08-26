@@ -13,6 +13,7 @@ categories:
   - creative-tools
 technologies:
   - gemini
+  - three-js
   - typescript
 builders:
   - name: Kai Song

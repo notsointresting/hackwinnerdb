@@ -17,6 +17,7 @@ categories:
 technologies:
   - gemini
   - javascript
+  - nodejs
   - sqlite
 builders:
   - name: Hiwè N'DJANOUNAI

@@ -13,6 +13,7 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
   - react
 builders:
   - name: Melinda Li

@@ -18,6 +18,7 @@ technologies:
   - postgresql
   - python
   - supabase
+  - three-js
   - typescript
 builders:
   - name: Aayush Shrestha

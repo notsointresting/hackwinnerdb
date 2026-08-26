@@ -16,6 +16,7 @@ categories:
   - social-impact
 technologies:
   - fastapi
+  - nextjs
   - python
   - pytorch
   - react

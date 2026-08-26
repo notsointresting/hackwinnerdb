@@ -16,6 +16,7 @@ technologies:
   - azure
   - elevenlabs
   - gemini
+  - nextjs
   - supabase
   - typescript
 builders:

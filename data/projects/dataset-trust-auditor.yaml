@@ -15,7 +15,10 @@ categories:
   - education
 technologies:
   - claude
+  - github-actions
+  - hugging-face
   - javascript
+  - pytest
   - python
   - streamlit
   - supabase

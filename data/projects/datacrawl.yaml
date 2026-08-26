@@ -17,11 +17,13 @@ technologies:
   - fastapi
   - firebase
   - gemini
+  - pydantic
   - python
   - react
   - solana
   - stripe
   - typescript
+  - uvicorn
 builders:
   - name: James Wright
   - name: Aidan Lee

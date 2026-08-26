@@ -14,8 +14,10 @@ categories:
   - artificial-intelligence
   - social-impact
 technologies:
+  - nodejs
   - react
   - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Simarjit Kaur

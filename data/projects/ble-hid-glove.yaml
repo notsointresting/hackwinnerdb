@@ -17,6 +17,7 @@ categories:
   - gaming
 technologies:
   - arduino
+  - c
   - c-plus-plus
 builders:
   - name: Purple-Chicken Kurasinski

@@ -20,6 +20,7 @@ technologies:
   - nextjs
   - python
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Shivansh Bansal

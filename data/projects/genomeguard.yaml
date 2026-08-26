@@ -15,7 +15,10 @@ categories:
   - education
   - productivity
 technologies:
+  - chatgpt
+  - codex
   - openai
+  - pytest
   - python
   - sqlite
 builders:

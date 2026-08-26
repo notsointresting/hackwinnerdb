@@ -17,6 +17,8 @@ categories:
   - sustainability
 technologies:
   - react
+  - tailwind-css
+  - vite
 builders:
   - name: M S Abhishek
   - name: Aayushi Goel

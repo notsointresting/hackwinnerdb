@@ -14,10 +14,15 @@ categories:
 technologies:
   - docker
   - fastapi
+  - pydantic
+  - pytest
   - python
   - react
   - sqlite
   - typescript
+  - uvicorn
+  - vite
+  - vitest
 builders:
   - name: Rithvik Duddupudi
   - name: Sameer Sahai

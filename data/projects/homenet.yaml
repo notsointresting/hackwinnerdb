@@ -17,6 +17,7 @@ technologies:
   - javascript
   - python
   - typescript
+  - uvicorn
 builders:
   - name: Ragib Majumder
   - name: Marcos Amaya

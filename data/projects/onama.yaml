@@ -15,6 +15,7 @@ categories:
   - fintech
   - media
 technologies:
+  - chatgpt
   - opencv
   - python
 builders:

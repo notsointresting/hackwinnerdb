@@ -20,6 +20,7 @@ technologies:
   - groq
   - openai
   - postgresql
+  - pydantic
   - python
   - vercel
 builders:

@@ -17,5 +17,6 @@ technologies:
   - fastapi
   - python
   - pytorch
+  - uvicorn
 builders:
   - name: ELGIN  EB

@@ -16,10 +16,14 @@ categories:
   - education
   - e-commerce
 technologies:
+  - chrome
   - fastapi
   - javascript
+  - playwright
   - python
   - react
   - sqlite
+  - three-js
+  - uvicorn
 builders:
   - name: Manasvin Surya B J

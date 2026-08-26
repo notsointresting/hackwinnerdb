@@ -14,8 +14,13 @@ categories:
   - other
 technologies:
   - javascript
+  - nextjs
+  - nodejs
   - react
   - tailwind-css
+  - three-js
   - vercel
+  - web-audio-api
+  - webgl
 builders:
   - name: rohit singh

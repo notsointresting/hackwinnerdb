@@ -15,5 +15,6 @@ categories:
   - iot
 technologies:
   - arduino
+  - powershell
 builders:
   - name: Andrew Cooper

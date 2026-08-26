@@ -16,8 +16,10 @@ categories:
   - robotics
 technologies:
   - fastapi
+  - mcp
   - python
   - sqlite
+  - uv
 builders:
   - name: Cofee Coder
   - name: ezzy1630 Rappeport

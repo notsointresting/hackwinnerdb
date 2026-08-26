@@ -15,8 +15,10 @@ categories:
   - education
   - social-impact
 technologies:
+  - nodejs
   - react
   - sqlite
+  - tailwind-css
   - typescript
 builders:
   - name: Esrom Mulugeta

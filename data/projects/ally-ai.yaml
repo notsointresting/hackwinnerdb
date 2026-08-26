@@ -16,10 +16,13 @@ categories:
   - healthcare
 technologies:
   - javascript
+  - nodejs
+  - openai-api
   - postgresql
   - react
   - supabase
   - typescript
+  - vite
 builders:
   - name: Adnan Fazulbhoy
   - name: Sanjit Saji

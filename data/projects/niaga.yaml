@@ -20,7 +20,9 @@ technologies:
   - google-cloud
   - python
   - react
+  - tailwind-css
   - typescript
+  - vite
 builders:
   - name: Abiyyu Avicena Ismunandar
   - name: Shenny Laurencia

@@ -19,5 +19,6 @@ technologies:
   - tailwind-css
   - typescript
   - vercel
+  - vite
 builders:
   - name: Yelena Smirnov

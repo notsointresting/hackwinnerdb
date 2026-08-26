@@ -18,6 +18,7 @@ technologies:
   - docker
   - fastapi
   - langchain
+  - pytest
   - python
   - react
   - stripe

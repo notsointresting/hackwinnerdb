@@ -15,8 +15,11 @@ categories:
   - education
   - social-impact
 technologies:
+  - chatgpt
   - cloudflare
+  - codex
   - firebase
+  - nextjs
   - typescript
 builders:
   - name: Axel Domingo Padilla Arriaga

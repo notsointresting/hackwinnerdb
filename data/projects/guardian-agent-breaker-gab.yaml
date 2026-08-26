@@ -18,6 +18,8 @@ categories:
 technologies:
   - docker
   - javascript
+  - nodejs
+  - powershell
   - redis
   - sql
 builders:

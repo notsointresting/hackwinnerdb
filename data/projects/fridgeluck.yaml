@@ -14,6 +14,7 @@ categories:
   - artificial-intelligence
   - healthcare
 technologies:
+  - pydantic
   - python
   - swift
 builders:

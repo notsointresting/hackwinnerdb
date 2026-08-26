@@ -18,11 +18,14 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nextjs
   - openai
   - python
   - react
+  - three-js
   - typescript
   - vercel
+  - zustand
 builders:
   - name: Divyansh Kumar
   - name: Vivekjeet patel

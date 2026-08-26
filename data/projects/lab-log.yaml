@@ -19,6 +19,7 @@ technologies:
   - claude
   - gemini
   - javascript
+  - nextjs
   - typescript
 builders:
   - name: Matthew Luk

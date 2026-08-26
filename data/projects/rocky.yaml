@@ -15,6 +15,7 @@ categories:
   - education
 technologies:
   - elevenlabs
+  - nextjs
   - supabase
   - typescript
   - vercel

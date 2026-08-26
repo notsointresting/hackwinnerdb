@@ -13,7 +13,9 @@ image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_phot
 categories:
   - other
 technologies:
+  - chatgpt
   - claude
+  - codex
   - gemini
   - react
 builders:

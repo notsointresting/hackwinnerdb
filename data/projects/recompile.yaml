@@ -18,6 +18,8 @@ technologies:
   - elevenlabs
   - gemini
   - mongodb
+  - nextjs
+  - nodejs
   - react
   - typescript
 builders:

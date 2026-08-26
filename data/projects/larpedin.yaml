@@ -14,8 +14,10 @@ categories:
   - artificial-intelligence
 technologies:
   - javascript
+  - nodejs
   - react
   - typescript
   - vercel
+  - vite
 builders:
   - name: Aksh Jain

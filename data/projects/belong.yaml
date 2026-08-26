@@ -18,6 +18,7 @@ technologies:
   - anthropic
   - claude
   - firebase
+  - nextjs
   - react
   - typescript
   - vercel

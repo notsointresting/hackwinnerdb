@@ -17,6 +17,7 @@ technologies:
   - postgresql
   - supabase
   - svelte
+  - tailwind-css
   - typescript
   - vercel
 builders:

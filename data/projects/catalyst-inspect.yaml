@@ -17,8 +17,10 @@ categories:
   - media
 technologies:
   - claude
+  - codex
   - fastapi
   - openai
+  - openai-api
   - opencv
   - python
   - react

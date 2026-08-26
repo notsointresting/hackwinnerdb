@@ -17,6 +17,7 @@ technologies:
   - docker
   - fastapi
   - google-ai-studio
+  - pydantic
   - python
   - react
   - typescript

@@ -17,6 +17,7 @@ categories:
   - enterprise
 technologies:
   - elevenlabs
+  - nextjs
   - openai
   - react
   - typescript

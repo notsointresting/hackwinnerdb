@@ -15,7 +15,9 @@ categories:
   - social-impact
 technologies:
   - react
+  - three-js
   - typescript
+  - vite
 builders:
   - name: Anish Gathani
   - name: Kedar Deshmukh

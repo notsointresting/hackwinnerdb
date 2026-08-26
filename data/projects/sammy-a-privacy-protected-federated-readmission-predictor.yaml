@@ -17,12 +17,16 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nextjs
   - postgresql
   - python
   - react
+  - react-three-fiber
   - sql
   - tailwind-css
+  - three-js
   - typescript
+  - uvicorn
   - vercel
 builders:
   - name: Priyanshu Ranjan

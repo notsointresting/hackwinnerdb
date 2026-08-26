@@ -21,5 +21,6 @@ technologies:
   - javascript
   - python
   - stripe
+  - tailwind-css
 builders:
   - name: Derek Soltis

@@ -16,6 +16,7 @@ categories:
   - creative-tools
 technologies:
   - elevenlabs
+  - nextjs
   - react
 builders:
   - name: Oumaima A

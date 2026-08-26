@@ -17,7 +17,9 @@ technologies:
   - fastapi
   - flutter
   - opencv
+  - pydantic
   - pytorch
+  - uvicorn
 builders:
   - name: Duy Anh Hong
   - name: Ryan Zheng

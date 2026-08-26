@@ -19,6 +19,7 @@ technologies:
   - supabase
   - typescript
   - vercel
+  - zustand
 builders:
   - name: Allen Li
   - name: Annie  Li

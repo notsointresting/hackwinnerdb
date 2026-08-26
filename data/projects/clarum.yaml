@@ -20,6 +20,9 @@ technologies:
   - python
   - react
   - sqlite
+  - tailwind-css
+  - uvicorn
   - vercel
+  - vite
 builders:
   - name: Blaze Hellsinger

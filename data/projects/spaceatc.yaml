@@ -16,6 +16,8 @@ categories:
 technologies:
   - docker
   - fastapi
+  - hugging-face
   - python
+  - three-js
 builders:
   - name: Rishet Mehra

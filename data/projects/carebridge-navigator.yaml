@@ -16,5 +16,7 @@ categories:
 technologies:
   - react
   - typescript
+  - vite
+  - vitest
 builders:
   - name: Mikita Kizevich

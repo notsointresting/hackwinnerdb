@@ -17,12 +17,15 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - pydantic
   - python
   - pytorch
   - react
   - redis
   - tailwind-css
   - typescript
+  - uvicorn
+  - vite
   - whisper
 builders:
   - name: Dhruv Bhargava

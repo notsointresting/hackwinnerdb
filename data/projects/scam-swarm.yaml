@@ -17,6 +17,7 @@ technologies:
   - firebase
   - gemini
   - groq
+  - nodejs
   - react
 builders:
   - name: Immanuel Thomas J

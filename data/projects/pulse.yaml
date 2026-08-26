@@ -16,9 +16,11 @@ categories:
   - social-impact
 technologies:
   - codex
+  - docker
   - fastapi
   - groq
   - javascript
+  - langchain
   - nextjs
   - openai
   - playwright

@@ -19,6 +19,7 @@ technologies:
   - groq
   - kubernetes
   - mongodb
+  - nextjs
   - openai
   - python
   - react

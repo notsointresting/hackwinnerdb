@@ -18,5 +18,6 @@ technologies:
   - groq
   - java
   - react
+  - vite
 builders:
   - name: Amaris Palanga

@@ -13,6 +13,7 @@ categories:
   - other
 technologies:
   - react
+  - react-native
   - tailwind-css
   - typescript
 builders:

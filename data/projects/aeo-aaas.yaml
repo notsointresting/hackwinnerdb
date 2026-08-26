@@ -19,12 +19,15 @@ technologies:
   - gemini
   - javascript
   - llama
+  - nextjs
+  - nodejs
   - openai
   - postgresql
   - react
   - sql
   - stripe
   - supabase
+  - tailwind-css
   - typescript
   - vercel
 builders:

@@ -17,9 +17,11 @@ categories:
   - cybersecurity
 technologies:
   - fastapi
+  - hugging-face
   - python
   - pytorch
   - react
+  - tailwind-css
   - typescript
   - vercel
 builders:

@@ -14,11 +14,16 @@ categories:
   - education
   - climate
 technologies:
+  - github-actions
   - javascript
+  - nodejs
   - openai
   - postgresql
   - react
   - supabase
+  - tailwind-css
   - typescript
   - vercel
+  - vite
+  - vitest
 builders: []

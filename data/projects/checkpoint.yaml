@@ -15,6 +15,7 @@ categories:
   - education
   - productivity
 technologies:
+  - nodejs
   - react-native
   - typescript
 builders:

@@ -17,6 +17,8 @@ technologies:
   - firebase
   - gemini
   - javascript
+  - nextjs
+  - nodejs
   - typescript
 builders:
   - name: Aryan Kumar

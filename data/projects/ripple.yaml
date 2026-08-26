@@ -16,6 +16,9 @@ categories:
 technologies:
   - arduino
   - c-plus-plus
+  - gemini
+  - sql
+  - sqlite
 builders:
   - name: Jjosephi Johanna Josephine
   - name: Claire O'Brien

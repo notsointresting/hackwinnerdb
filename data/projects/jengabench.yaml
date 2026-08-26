@@ -18,7 +18,10 @@ technologies:
   - docker
   - fastapi
   - javascript
+  - pydantic
   - python
+  - uvicorn
+  - webgl
 builders:
   - name: Mikhail Aristarkhov
   - name: Peter Bun

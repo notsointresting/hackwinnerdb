@@ -15,7 +15,12 @@ categories:
 technologies:
   - anthropic
   - claude
+  - nextjs
+  - postgresql
+  - react
   - sqlite
+  - supabase
   - swift
+  - typescript
 builders:
   - name: Imad Baida

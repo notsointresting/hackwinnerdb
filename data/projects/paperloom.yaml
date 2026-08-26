@@ -17,5 +17,6 @@ categories:
 technologies:
   - gemini
   - postgresql
+  - tailwind-css
 builders:
   - name: Noba Aier

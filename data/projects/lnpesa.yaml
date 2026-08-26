@@ -14,7 +14,8 @@ image_url: null
 categories:
   - fintech
   - social-impact
-technologies: []
+technologies:
+  - nodejs
 builders:
   - name: DENVER MTANGE
   - name: Kendi Litala

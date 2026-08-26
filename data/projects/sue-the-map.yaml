@@ -16,6 +16,8 @@ categories:
 technologies:
   - javascript
   - python
+  - three-js
+  - webgl
 builders:
   - name: Hidhayath Nisha Mohamed Idris
   - name: Anaswara Raghuthaman

@@ -15,6 +15,7 @@ categories:
   - social-impact
   - media
 technologies:
+  - nextjs
   - tailwind-css
 builders:
   - name: Jessie Li

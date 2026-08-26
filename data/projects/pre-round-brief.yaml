@@ -17,6 +17,7 @@ categories:
   - education
 technologies:
   - docker
+  - nodejs
   - openai
 builders:
   - name: Domingo Lupo

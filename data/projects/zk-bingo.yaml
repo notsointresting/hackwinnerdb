@@ -13,6 +13,7 @@ categories:
   - blockchain
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Raghav Ojha
   - name: Nikunj  S

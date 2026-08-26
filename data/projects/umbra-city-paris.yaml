@@ -14,5 +14,8 @@ categories:
 technologies:
   - javascript
   - python
+  - three-js
+  - vite
+  - web-audio-api
 builders:
   - name: Abhinav K

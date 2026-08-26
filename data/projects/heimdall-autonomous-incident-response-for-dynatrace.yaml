@@ -18,13 +18,16 @@ technologies:
   - docker
   - fastapi
   - gemini
+  - github-actions
   - google-cloud
+  - mcp
   - nextjs
   - postgresql
   - python
   - react
   - redis
   - supabase
+  - tailwind-css
   - typescript
   - vertex-ai
 builders: []

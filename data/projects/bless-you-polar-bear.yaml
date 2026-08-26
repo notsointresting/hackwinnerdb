@@ -15,6 +15,7 @@ categories:
   - healthcare
   - creative-tools
 technologies:
+  - chatgpt
   - elevenlabs
   - gemini
   - javascript

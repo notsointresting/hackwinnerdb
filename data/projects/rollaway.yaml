@@ -18,8 +18,13 @@ categories:
 technologies:
   - google-maps
   - mapbox
+  - nodejs
   - react
+  - tailwind-css
   - typescript
+  - vite
+  - vitest
+  - zustand
 builders:
   - name: Bryan Pham
   - name: Dat Nguyen

@@ -17,6 +17,7 @@ technologies:
   - python
   - react
   - typescript
+  - uvicorn
 builders:
   - name: Lucy Yang
   - name: Antonio Mendis

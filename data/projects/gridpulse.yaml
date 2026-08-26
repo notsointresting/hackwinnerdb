@@ -15,5 +15,7 @@ technologies:
   - fastapi
   - python
   - streamlit
+  - uv
+  - uvicorn
 builders:
   - name: Absolute-Martin Shakya

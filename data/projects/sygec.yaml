@@ -16,7 +16,9 @@ categories:
 technologies:
   - firebase
   - gemini
+  - nodejs
   - react
+  - tailwind-css
 builders:
   - name: Johanna Binja
   - name: Dorcas Bagalwa

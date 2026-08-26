@@ -14,9 +14,11 @@ categories:
   - artificial-intelligence
   - education
 technologies:
+  - openai-api
   - postgresql
   - react
   - sql
+  - tailwind-css
   - typescript
 builders:
   - name: Myreen Malik

@@ -18,6 +18,7 @@ technologies:
   - gemini
   - google-cloud
   - javascript
+  - nextjs
   - react
   - typescript
 builders:

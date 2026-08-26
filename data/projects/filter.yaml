@@ -15,6 +15,7 @@ categories:
   - fintech
   - social-impact
 technologies:
+  - nodejs
   - typescript
 builders:
   - name: John Osezele

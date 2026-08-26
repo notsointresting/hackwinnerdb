@@ -18,6 +18,9 @@ technologies:
   - claude
   - elevenlabs
   - gemini
+  - nextjs
+  - nodejs
+  - playwright
   - postgresql
   - react
   - supabase

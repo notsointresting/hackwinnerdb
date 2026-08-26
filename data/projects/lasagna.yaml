@@ -19,6 +19,7 @@ technologies:
   - gemini
   - pytorch
   - react
+  - vite
 builders:
   - name: Ivan Zhang
   - name: richardzhu255

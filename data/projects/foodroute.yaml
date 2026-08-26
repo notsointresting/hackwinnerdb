@@ -18,6 +18,9 @@ technologies:
   - mapbox
   - mongodb
   - nextjs
+  - react-three-fiber
+  - tailwind-css
+  - three-js
   - typescript
   - vercel
 builders:

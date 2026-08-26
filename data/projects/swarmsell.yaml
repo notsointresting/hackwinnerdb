@@ -19,9 +19,12 @@ technologies:
   - javascript
   - llama
   - opencv
+  - playwright
+  - pydantic
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: aidenhongg Hong
   - name: William Yang

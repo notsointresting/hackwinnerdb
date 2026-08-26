@@ -16,7 +16,9 @@ categories:
   - education
   - cybersecurity
 technologies:
+  - chrome
   - docker
+  - playwright
 builders:
   - name: Clara Yee
   - name: CHRISTINA WANG

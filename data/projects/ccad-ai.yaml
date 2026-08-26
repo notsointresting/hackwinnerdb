@@ -17,6 +17,7 @@ technologies:
   - fastapi
   - gemini
   - javascript
+  - nextjs
   - python
   - sqlite
 builders:

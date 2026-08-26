@@ -21,6 +21,7 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Kent Concengco
   - name: EL-J Diaz

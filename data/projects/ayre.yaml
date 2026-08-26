@@ -14,7 +14,8 @@ categories:
   - artificial-intelligence
   - education
   - gaming
-technologies: []
+technologies:
+  - three-js
 builders:
   - name: Shasha Alvares
   - name: Sara Cheakdkaipejchara

@@ -14,7 +14,8 @@ categories:
   - artificial-intelligence
   - healthcare
   - education
-technologies: []
+technologies:
+  - chatgpt
 builders:
   - name: Nirja Sehgal
   - name: Ananyaa Tiwari

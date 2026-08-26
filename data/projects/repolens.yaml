@@ -20,5 +20,6 @@ technologies:
   - python
   - react
   - typescript
+  - vite
 builders:
   - name: Aadil Mubasshar

@@ -15,6 +15,7 @@ categories:
   - social-impact
 technologies:
   - javascript
+  - nodejs
 builders:
   - name: Joel Adjei
   - name: Victor Pinto

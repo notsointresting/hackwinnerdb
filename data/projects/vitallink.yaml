@@ -14,6 +14,8 @@ categories:
 technologies:
   - fastapi
   - javascript
+  - nextjs
+  - nodejs
   - python
   - react
   - typescript

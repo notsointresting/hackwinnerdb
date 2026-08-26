@@ -18,6 +18,10 @@ technologies:
   - groq
   - javascript
   - python
+  - tailwind-css
+  - three-js
+  - uvicorn
+  - vite
 builders:
   - name: Alvin Official
   - name: JENNA THERESE

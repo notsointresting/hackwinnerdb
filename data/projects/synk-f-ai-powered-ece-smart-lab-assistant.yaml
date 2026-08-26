@@ -16,5 +16,6 @@ categories:
 technologies:
   - react
   - vercel
+  - vite
 builders:
   - name: Fahmitha  Thasneem.A

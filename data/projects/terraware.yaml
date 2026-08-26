@@ -14,6 +14,7 @@ categories:
   - climate
   - social-impact
 technologies:
+  - nextjs
   - react
   - vercel
 builders:

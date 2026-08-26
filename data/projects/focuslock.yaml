@@ -17,5 +17,7 @@ technologies:
   - react
   - tailwind-css
   - typescript
+  - web-audio-api
+  - zustand
 builders:
   - name: Jollen Dai

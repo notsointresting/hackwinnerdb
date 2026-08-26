@@ -15,6 +15,7 @@ categories:
   - education
   - climate
 technologies:
+  - nextjs
   - openai
   - solana
   - supabase

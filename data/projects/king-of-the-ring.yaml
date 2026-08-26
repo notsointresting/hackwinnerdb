@@ -16,6 +16,9 @@ categories:
   - iot
 technologies:
   - javascript
+  - nodejs
+  - three-js
+  - webgl
 builders:
   - name: Kevin Yang
   - name: Hong Yi (Eric) Wang

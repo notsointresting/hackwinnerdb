@@ -12,6 +12,7 @@ video_url: https://www.youtube.com/embed/NUs6iipEnUQ
 image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/867/426/datas/gallery.jpg
 categories:
   - education
-technologies: []
+technologies:
+  - nodejs
 builders:
   - name: Sabelo Mkhabela
