@@ -15,7 +15,12 @@ import fs from "node:fs";
 import path from "node:path";
 import { stringify } from "yaml";
 import { fetchPage } from "./http";
-import { discoverEvents, yearFromDates, type DiscoveredEvent } from "./discover";
+import {
+  discoverEvents,
+  parseSubmissionDates,
+  yearFromDates,
+  type DiscoveredEvent,
+} from "./discover";
 import { awardTypeFor, categoriesFor, generatedSummary } from "./classify";
 import { parseGallery, parseProject, mapTechnologies, type GalleryProject, type ProjectDetail } from "./devpost-parse";
 import { slugify } from "../../src/lib/utils";
@@ -118,10 +123,16 @@ async function main() {
 
   for (let idx = 0; idx < queue.length; idx++) {
     const event = queue[idx];
-    const eventYear = yearFromDates(event.submissionDates) ?? CURRENT_YEAR;
+    const submissionWindow = parseSubmissionDates(event.submissionDates);
+    const eventYear =
+      (submissionWindow.startDate ? Number(submissionWindow.startDate.slice(0, 4)) : null) ??
+      yearFromDates(event.submissionDates) ??
+      CURRENT_YEAR;
     const hackathonYear = Math.max(1990, Math.min(CURRENT_YEAR + 1, eventYear));
     const hackathonId = slugify(event.title) || `devpost-${event.id}`;
-    const galleryUrl = `${event.url.replace(/\/$/, "")}/project-gallery?filter=winner`;
+    // Devpost's ?filter=winner serves a page without the winner ribbons parseGallery
+    // needs, so it silently matched nothing. The plain gallery sorts winners first.
+    const galleryUrl = `${event.url.replace(/\/$/, "")}/project-gallery`;
 
     console.log(`[${idx + 1}/${queue.length}] Processing: ${event.title} (${event.url})`);
 
@@ -153,6 +164,8 @@ async function main() {
         slug: hackathonId,
         organizer: [],
         year: hackathonYear,
+        start_date: submissionWindow.startDate,
+        end_date: submissionWindow.endDate,
         sources: [event.url, galleryUrl],
         website_url: event.url,
         platform: "devpost" as const,

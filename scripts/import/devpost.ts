@@ -16,17 +16,20 @@ import fs from "node:fs";
 import path from "node:path";
 import { stringify } from "yaml";
 import { fetchPage } from "./http";
-import { parseGallery, parseProject, mapTechnologies } from "./devpost-parse";
+import { parseGallery, parseProject, mapTechnologies, parseHackathon } from "./devpost-parse";
+import type { GalleryProject, HackathonDetail } from "./devpost-parse";
 import { slugify } from "../../src/lib/utils";
 import { loadRaw } from "../lib-load";
 
 const STAGING = path.join(process.cwd(), "data", "_staging");
+const MAX_GALLERY_PAGES = 25;
 
 async function main() {
   const galleryUrl = process.argv[2];
   if (!galleryUrl || !galleryUrl.includes("devpost.com")) {
     console.error("Usage: tsx scripts/import/devpost.ts <devpost project-gallery URL>");
-    console.error("Tip: append ?filter=winner so only awarded projects are considered.");
+    console.error("Pass the plain gallery URL. Do not add ?filter=winner: on some events");
+    console.error("that filter returns a paginated list with no winner ribbons at all.");
     process.exit(1);
   }
   if (/^https:\/\/devpost\.com\/software\/?$/.test(galleryUrl)) {
@@ -43,11 +46,32 @@ async function main() {
     raw.projects.map(({ data }) => String((data as { id: string }).id)),
   );
 
-  console.log(`Fetching gallery: ${galleryUrl}`);
-  const gallery = parseGallery(await fetchPage(galleryUrl));
+  // Devpost's own ?filter=winner drops the winner ribbons the parser keys off, so
+  // strip it and read the plain gallery, which sorts winners first.
+  const base = new URL(galleryUrl);
+  if (base.searchParams.has("filter")) {
+    console.log("Ignoring ?filter=winner - it hides the ribbons this importer needs.");
+    base.searchParams.delete("filter");
+  }
+  base.searchParams.delete("page");
+
+  console.log(`Fetching gallery: ${base.toString()}`);
+  const gallery: GalleryProject[] = [];
+  const seenSlugs = new Set<string>();
+  for (let page = 1; page <= MAX_GALLERY_PAGES; page++) {
+    const pageUrl = new URL(base.toString());
+    if (page > 1) pageUrl.searchParams.set("page", String(page));
+    const html = await fetchPage(pageUrl.toString());
+    const found = parseGallery(html).filter((item) => !seenSlugs.has(item.slug));
+    for (const item of found) seenSlugs.add(item.slug);
+    gallery.push(...found);
+    console.log(`  page ${page}: ${found.length} winner(s)`);
+    // Winners sort first, so a page with none means there are none left to find.
+    if (!found.length || !/rel="next"/.test(html)) break;
+  }
   console.log(`  ${gallery.length} winning project(s) found\n`);
   if (!gallery.length) {
-    console.error("No winner ribbons on that page. Is ?filter=winner set, and are winners public?");
+    console.error("No winner ribbons on that page. Are the winners public yet?");
     process.exit(1);
   }
 
@@ -121,6 +145,13 @@ async function main() {
   for (const [id, hackathon] of hackathons) {
     const file = path.join(STAGING, `hackathon-${id}.yaml`);
     if (fs.existsSync(file)) continue;
+    // The gallery never carries dates; the event homepage does.
+    let detail: HackathonDetail | null = null;
+    try {
+      detail = parseHackathon(await fetchPage(hackathon.url));
+    } catch {
+      console.log(`  ! could not read ${hackathon.url} for dates`);
+    }
     fs.writeFileSync(
       file,
       stringify(
@@ -129,7 +160,13 @@ async function main() {
           name: hackathon.name,
           slug: id,
           organizer: [],
-          year: "TODO: the year the hackathon ran",
+          year: detail?.year ?? "TODO: the year the hackathon ran",
+          start_date: detail?.startDate ?? null,
+          end_date: detail?.endDate ?? null,
+          mode: detail?.mode ?? null,
+          participant_count: detail?.participantCount ?? null,
+          prize_pool: detail?.prizePool ?? null,
+          currency: detail?.currency ?? null,
           website_url: hackathon.url,
           sources: [hackathon.url],
           platform: "devpost",

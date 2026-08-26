@@ -115,3 +115,50 @@ export function mapTechnologies(tags: string[], known: Set<string>) {
   }
   return { mapped: [...new Set(mapped)], unknown: [...new Set(unknown)] };
 }
+
+export interface HackathonDetail {
+  startDate: string | null;
+  endDate: string | null;
+  year: number | null;
+  mode: "online" | "in-person" | "hybrid" | null;
+  participantCount: number | null;
+  prizePool: number | null;
+  currency: string | null;
+}
+
+/**
+ * Parses a Devpost event homepage for the facts the gallery does not carry.
+ *
+ * Dates are the reason this exists: without them every imported hackathon fell
+ * back to a placeholder year, so nothing could be sorted or filtered by date.
+ */
+export function parseHackathon(html: string): HackathonDetail {
+  const iso = (raw: string | undefined) =>
+    raw && /^\d{4}-\d{2}-\d{2}/.test(raw) ? raw.slice(0, 10) : null;
+
+  const startDate = iso(html.match(/"startDate"\s*:\s*"([^"]+)"/)?.[1]);
+  const endDate = iso(html.match(/"endDate"\s*:\s*"([^"]+)"/)?.[1]);
+
+  const participantsRaw = html.match(/Participants\s*\((\d[\d,]*)\)/i)?.[1];
+  const prizeRaw = html.match(/\$([\d,]+)\s*in prizes/i)?.[1];
+
+  const modeRaw = html.match(/\b(online|in[- ]person|hybrid)\b/i)?.[1]?.toLowerCase();
+  const mode =
+    modeRaw === "online"
+      ? "online"
+      : modeRaw === "hybrid"
+        ? "hybrid"
+        : modeRaw
+          ? "in-person"
+          : null;
+
+  return {
+    startDate,
+    endDate,
+    year: startDate ? Number(startDate.slice(0, 4)) : null,
+    mode,
+    participantCount: participantsRaw ? Number(participantsRaw.replace(/,/g, "")) : null,
+    prizePool: prizeRaw ? Number(prizeRaw.replace(/,/g, "")) : null,
+    currency: prizeRaw ? "USD" : null,
+  };
+}
