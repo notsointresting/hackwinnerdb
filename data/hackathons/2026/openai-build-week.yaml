@@ -1,0 +1,17 @@
+id: openai-build-week
+name: OpenAI Build Week
+slug: openai-build-week
+organizer:
+  - OpenAI
+year: 2026
+start_date: 2026-07-13
+end_date: 2026-07-21
+mode: online
+participant_count: 46725
+website_url: https://openai.devpost.com/
+sources:
+  - https://openai.devpost.com/
+platform: devpost
+description: A week-long online hackathon run by OpenAI in July 2026, in which participants built
+  applications with Codex and the GPT-5.6 model family across four tracks.
+location: null

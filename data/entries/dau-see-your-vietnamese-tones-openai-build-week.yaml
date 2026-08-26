@@ -1,0 +1,16 @@
+id: dau-see-your-vietnamese-tones-openai-build-week
+project_id: dau-see-your-vietnamese-tones
+hackathon_id: openai-build-week
+submission_url: https://devpost.com/software/d-u-see-your-vietnamese-tones
+source:
+  platform: devpost
+  url: https://devpost.com/software/d-u-see-your-vietnamese-tones
+awards:
+  - type: second-place
+    title: 2nd Place | Education
+    track: Education
+verification:
+  status: unverified
+  checked_at: 2026-08-26
+  notes: Imported from the Devpost winner gallery. A maintainer must confirm the source before this is
+    marked verified.

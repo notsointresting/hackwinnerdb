@@ -1,0 +1,23 @@
+id: echo-canvas
+name: Echo Canvas
+slug: echo-canvas
+tagline: A browser workbench for authoring, hearing, and explaining interactive spatial acoustics
+  before committing to a game-engine-like audio pipeline.
+summary: Echo Canvas is a browser workbench for authoring and auditioning interactive spatial
+  acoustics before they are committed to a game-engine audio pipeline. Authors can hear a scene as
+  they build it and get an explanation of why it sounds the way it does.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/JQgU6qzILEQ
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/987/923/datas/medium.png
+categories:
+  - creative-tools
+  - developer-tools
+  - media
+technologies:
+  - openai
+  - react
+  - typescript
+builders:
+  - name: Kevin_Yang_tw Yang

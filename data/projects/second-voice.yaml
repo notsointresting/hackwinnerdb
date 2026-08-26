@@ -1,0 +1,21 @@
+id: second-voice
+name: Second Voice
+slug: second-voice
+tagline: A zero-training AI communication aid that turns unclear speech from people with dysarthria
+  into clear, confirmable sentences using GPT-5.6, then speaks them alo
+summary: Second Voice listens to speech affected by dysarthria and reconstructs it into a clear
+  sentence that the speaker confirms before it is spoken aloud. It needs no per-user voice training,
+  so someone can pick it up and be understood on the first attempt.
+website_url: null
+github_url: https://github.com/dondetir/SecondVoice
+demo_url: null
+video_url: https://www.youtube.com/embed/6HqoqgsnvRU
+image_url: null
+categories:
+  - accessibility
+  - healthcare
+  - artificial-intelligence
+technologies:
+  - openai
+builders:
+  - name: Ravitez Dondeti

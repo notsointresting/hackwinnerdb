@@ -1,0 +1,23 @@
+id: vetriage-safety-first-vet-phone-triage-pwa-built-in-a-week
+name: veTriage—Safety-First Vet Phone Triage PWA Built in a Week
+slug: vetriage-safety-first-vet-phone-triage-pwa-built-in-a-week
+tagline: Built by a veterinarian & practice owner with no coding experience, this app turns clinical
+  triage expertise into a structured safety net for vet clinic staff.
+summary: veTriage gives veterinary reception staff a structured script for triaging phone calls, so
+  time-critical cases are escalated rather than booked as routine appointments. It was built by a
+  practising veterinarian and clinic owner who had not written code before.
+website_url: null
+github_url: https://github.com/paolivetcare/vetriage
+demo_url: null
+video_url: https://www.youtube.com/embed/FK9-uFwTJhI
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/959/265/datas/medium.png
+categories:
+  - healthcare
+  - productivity
+  - artificial-intelligence
+technologies:
+  - cloudflare
+  - react
+  - typescript
+builders:
+  - name: Erin Downes VMD
