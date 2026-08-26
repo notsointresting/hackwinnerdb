@@ -28,6 +28,7 @@ import { loadRaw } from "../lib-load";
 import { ENTRIES_DIR, HACKATHONS_DIR, PROJECTS_DIR } from "../../src/lib/paths";
 import { CURRENT_YEAR } from "../../src/schemas";
 
+const MAX_GALLERY_PAGES = 25;
 const STATE_FILE = path.join(process.cwd(), ".cache", "sync-state.json");
 
 interface State {
@@ -136,10 +137,19 @@ async function main() {
 
     console.log(`[${idx + 1}/${queue.length}] Processing: ${event.title} (${event.url})`);
 
-    let gallery: GalleryProject[] = [];
+    const gallery: GalleryProject[] = [];
     try {
-      const html = await fetchPage(galleryUrl);
-      gallery = parseGallery(html);
+      // Winners sort first, so walk pages until one yields none. Without this a
+      // large event silently lost every winner past the first page.
+      const seen = new Set<string>();
+      for (let page = 1; page <= MAX_GALLERY_PAGES; page++) {
+        const pageUrl = page === 1 ? galleryUrl : `${galleryUrl}?page=${page}`;
+        const html = await fetchPage(pageUrl);
+        const found = parseGallery(html).filter((item) => !seen.has(item.slug));
+        for (const item of found) seen.add(item.slug);
+        gallery.push(...found);
+        if (!found.length || !/rel="next"/.test(html)) break;
+      }
     } catch (error) {
       console.warn(`  ! Could not fetch winner gallery (${galleryUrl}): ${error instanceof Error ? error.message : error}`);
       state.processedEventIds.push(event.id);
