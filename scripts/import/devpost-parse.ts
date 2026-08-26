@@ -105,12 +105,24 @@ export function parseProject(html: string): ProjectDetail {
 }
 
 /** Maps a Devpost "built with" tag onto a canonical slug, or reports it as unknown. */
+/**
+ * Hyphenation is the only difference in a lot of Devpost tags, so "node-js" and
+ * "next-js" were being reported as unknown while `nodejs` and `nextjs` sat in
+ * the taxonomy. Compare with the separators removed before giving up on a tag.
+ */
+function resolveSlug(slug: string, known: Set<string>, collapsed: Map<string, string>) {
+  if (known.has(slug)) return slug;
+  return collapsed.get(slug.replace(/-/g, "")) ?? null;
+}
+
 export function mapTechnologies(tags: string[], known: Set<string>) {
+  const collapsed = new Map([...known].map((slug) => [slug.replace(/-/g, ""), slug]));
   const mapped: string[] = [];
   const unknown: string[] = [];
   for (const tag of tags) {
     const slug = slugify(tag);
-    if (known.has(slug)) mapped.push(slug);
+    const resolved = resolveSlug(slug, known, collapsed);
+    if (resolved) mapped.push(resolved);
     else unknown.push(slug);
   }
   return { mapped: [...new Set(mapped)], unknown: [...new Set(unknown)] };

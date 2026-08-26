@@ -200,3 +200,27 @@ describe("parseHackathon", () => {
     expect(detail.prizePool).toBeNull();
   });
 });
+
+describe("mapTechnologies slug resolution", () => {
+  const known = new Set(["nodejs", "nextjs", "tailwind-css", "python"]);
+
+  it("maps a tag that already matches a known slug", () => {
+    expect(mapTechnologies(["Python"], known).mapped).toEqual(["python"]);
+  });
+
+  it("resolves hyphenation differences instead of reporting them unknown", () => {
+    const result = mapTechnologies(["Node.js", "Next.js", "Tailwind CSS"], known);
+    expect(result.mapped.sort()).toEqual(["nextjs", "nodejs", "tailwind-css"]);
+    expect(result.unknown).toEqual([]);
+  });
+
+  it("still reports a genuinely unknown tag", () => {
+    const result = mapTechnologies(["Some Vendor SDK"], known);
+    expect(result.mapped).toEqual([]);
+    expect(result.unknown).toEqual(["some-vendor-sdk"]);
+  });
+
+  it("does not emit the same slug twice", () => {
+    expect(mapTechnologies(["Node.js", "nodejs"], known).mapped).toEqual(["nodejs"]);
+  });
+});

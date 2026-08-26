@@ -87,13 +87,12 @@ async function main() {
     const tech = mapTechnologies(detail.technologies, knownTech);
     for (const slug of tech.unknown) unknownTech.add(slug);
 
-    if (existingProjects.has(id)) {
-      console.log(`  = ${id} (already in data/projects, skipped)`);
-      skipped++;
-      continue;
-    }
+    // A project we already hold can still have won something we have no record
+    // of, so only its project file is skipped here - its awards are staged below.
+    const isKnown = existingProjects.has(id);
+    if (isKnown) skipped++;
 
-    fs.writeFileSync(
+    if (!isKnown) fs.writeFileSync(
       path.join(STAGING, `project-${id}.yaml`),
       stringify(
         {
@@ -138,8 +137,11 @@ async function main() {
         ),
       );
     }
-    console.log(`  + ${id} (${detail.awards.length} award record(s))`);
-    written++;
+    console.log(
+      `  ${isKnown ? "~" : "+"} ${id} (${detail.awards.length} award record(s))` +
+        (isKnown ? " - project already held, awards only" : ""),
+    );
+    if (!isKnown) written++;
   }
 
   for (const [id, hackathon] of hackathons) {
