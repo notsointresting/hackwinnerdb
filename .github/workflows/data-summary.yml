@@ -21,15 +21,23 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # GITHUB_STEP_SUMMARY is a different file for every step, so the comment
+      # step below cannot read what this one wrote. Keep our own copy.
       - name: Build summary
         id: summary
-        run: npx tsx scripts/data-summary.ts "origin/${{ github.base_ref }}" >> "$GITHUB_STEP_SUMMARY"
+        run: |
+          npx tsx scripts/data-summary.ts "origin/${{ github.base_ref }}" > data-summary.md
+          cat data-summary.md >> "$GITHUB_STEP_SUMMARY"
       - name: Comment on PR
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require("fs");
-            const body = fs.readFileSync(process.env.GITHUB_STEP_SUMMARY, "utf8");
+            const body = fs.readFileSync("data-summary.md", "utf8").trim();
+            if (!body) {
+              core.info("No data change summary to post.");
+              return;
+            }
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
