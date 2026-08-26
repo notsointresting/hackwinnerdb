@@ -16,8 +16,13 @@ categories:
   - developer-tools
   - media
 technologies:
+  - codex
+  - nextjs
   - openai
+  - openai-api
   - react
   - typescript
+  - web-audio-api
+  - web-workers
 builders:
   - name: Kevin_Yang_tw Yang

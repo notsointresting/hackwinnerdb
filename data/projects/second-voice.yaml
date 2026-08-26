@@ -16,6 +16,7 @@ categories:
   - healthcare
   - artificial-intelligence
 technologies:
+  - codex
   - openai
 builders:
   - name: Ravitez Dondeti

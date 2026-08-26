@@ -16,8 +16,16 @@ categories:
   - consumer
   - artificial-intelligence
 technologies:
+  - apple-tv
+  - c
+  - chrome
+  - codex
   - javascript
+  - nodejs
   - openai
+  - powershell
   - python
+  - responses-api
+  - windows
 builders:
   - name: Adam Tarantino

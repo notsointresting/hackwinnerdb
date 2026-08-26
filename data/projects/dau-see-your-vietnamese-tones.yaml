@@ -15,6 +15,8 @@ categories:
   - education
   - accessibility
   - artificial-intelligence
-technologies: []
+technologies:
+  - chatgpt
+  - codex
 builders:
   - name: Robert Huynh

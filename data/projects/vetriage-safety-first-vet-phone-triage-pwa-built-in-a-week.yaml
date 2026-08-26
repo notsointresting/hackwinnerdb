@@ -16,8 +16,14 @@ categories:
   - productivity
   - artificial-intelligence
 technologies:
+  - chatgpt
   - cloudflare
+  - codex
+  - netlify
+  - nextjs
+  - progressive-web-app
   - react
+  - tailwind-css
   - typescript
 builders:
   - name: Erin Downes VMD

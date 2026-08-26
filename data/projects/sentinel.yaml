@@ -13,9 +13,23 @@ categories:
   - education
   - productivity
 technologies:
+  - codex
+  - docker
   - fastapi
   - gemini
+  - github-actions
+  - mcp
+  - mypy
+  - openai
+  - pydantic
+  - pytest
+  - python
   - react
+  - ruff
+  - semgrep
+  - tiktoken
+  - typer
+  - uv
 builders:
   - name: Agastya Mittal
   - name: Kedar Kalluri

@@ -16,10 +16,23 @@ categories:
   - creative-tools
   - artificial-intelligence
 technologies:
+  - codex
+  - github-actions
+  - i18next
+  - nodejs
   - openai
+  - playwright
+  - pnpm
   - react
+  - react-three-fiber
+  - responses-api
+  - three-js
   - typescript
   - vercel
+  - vite
+  - vitest
+  - webgl
+  - zustand
 builders:
   - name: Caleb0796 wei
   - name: yukunl Li
