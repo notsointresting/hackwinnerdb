@@ -1,5 +1,5 @@
 import "server-only";
-import { getDataset } from "@/lib/repository";
+import { getGeneratedDataset } from "@/lib/repository";
 import { createSearchProvider, searchWinners } from "@/lib/search";
 import { filterWinners, sortWinners, winnersForHackathon } from "@/lib/queries";
 import { SITE } from "@/lib/site";
@@ -10,10 +10,6 @@ export { SERVER_INSTRUCTIONS };
 
 const MAX_LIMIT = 50;
 
-// ponytail: reuses getDataset(), which parses the YAML corpus on first touch —
-// roughly 15s cold, then memoized for the life of the worker. Fine while the
-// route stays warm; if cold starts hurt, read public/dataset/hackwinnerdb.json
-// instead and rebuild `winners` from it.
 
 let provider: ReturnType<typeof createSearchProvider> | undefined;
 function searchProvider(dataset: Dataset) {
@@ -127,7 +123,7 @@ export const TOOLS = [
 ] as const;
 
 export function callTool(name: string, args: Record<string, unknown>) {
-  const dataset = getDataset();
+  const dataset = getGeneratedDataset();
 
   switch (name) {
     case "search_winners": {

@@ -9,6 +9,7 @@ import {
 } from "@/schemas";
 import type { Dataset, DataStats, WinnerRecord } from "@/types";
 import {
+  DATASET_DIR,
   ENTRIES_DIR,
   HACKATHONS_DIR,
   PROJECTS_DIR,
@@ -16,6 +17,7 @@ import {
   TAXONOMIES_DIR,
 } from "./paths";
 import { readYaml, readYamlDir } from "./yaml-files";
+import fs from "node:fs";
 import path from "node:path";
 
 /**
@@ -43,6 +45,22 @@ function loadDataset(): Dataset {
   const projects = readYamlDir(PROJECTS_DIR).map(({ data }) => projectSchema.parse(data));
   const entries = readYamlDir(ENTRIES_DIR).map(({ data }) => entrySchema.parse(data));
 
+  return assembleDataset({
+    hackathons,
+    projects,
+    entries,
+    categories,
+    technologies,
+    awardTypes,
+    sources,
+  });
+}
+
+type DatasetParts = Omit<Dataset, "winners" | "generatedAt">;
+
+/** Joins entries to their project and hackathon, then ranks them by award. */
+export function assembleDataset(parts: DatasetParts): Dataset {
+  const { hackathons, projects, entries, awardTypes } = parts;
   const weights = new Map(awardTypes.map((a) => [a.slug, a.weight]));
   const projectById = new Map(projects.map((p) => [p.id, p]));
   const hackathonById = new Map(hackathons.map((h) => [h.id, h]));
@@ -71,20 +89,37 @@ function loadDataset(): Dataset {
       a.project.name.localeCompare(b.project.name),
   );
 
-  return {
-    hackathons,
-    projects,
-    entries,
-    categories,
-    technologies,
-    awardTypes,
-    sources,
-    winners,
-    generatedAt: new Date().toISOString(),
-  };
+  return { ...parts, winners, generatedAt: new Date().toISOString() };
 }
 
 export const yamlRepository: DataRepository = { getDataset: loadDataset };
+
+/**
+ * Reads the dataset the build already generated instead of re-parsing several
+ * thousand YAML files. Parsing the corpus takes roughly fifteen seconds, which
+ * is fine for a static build but not for an API route answering a request.
+ *
+ * The generated file is gitignored and absent until `generate:data` has run, so
+ * fall back to YAML rather than failing - that is the normal case in `next dev`.
+ */
+function loadGeneratedDataset(): Dataset {
+  const file = path.join(DATASET_DIR, "hackwinnerdb.json");
+  if (!fs.existsSync(file)) return loadDataset();
+
+  const raw = JSON.parse(fs.readFileSync(file, "utf8")) as Record<string, unknown>;
+  return assembleDataset({
+    hackathons: raw.hackathons as Dataset["hackathons"],
+    projects: raw.projects as Dataset["projects"],
+    entries: raw.entries as Dataset["entries"],
+    categories: raw.categories as Dataset["categories"],
+    technologies: raw.technologies as Dataset["technologies"],
+    awardTypes: raw.award_types as Dataset["awardTypes"],
+    sources: raw.sources as Dataset["sources"],
+  });
+}
+
+/** Same `Dataset`, loaded from the build artifact. Used by the MCP route. */
+export const generatedRepository: DataRepository = { getDataset: loadGeneratedDataset };
 
 export function computeStats(dataset: Dataset): DataStats {
   const years = dataset.hackathons.map((h) => h.year);
