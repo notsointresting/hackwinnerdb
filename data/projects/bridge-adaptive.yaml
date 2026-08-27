@@ -1,0 +1,22 @@
+id: bridge-adaptive
+name: Bridge ADAPTIVE
+slug: bridge-adaptive
+tagline: "Bridge Adaptive uses AI to transform standard Islamic lessons into personalized,
+  sensory-friendly experiences for neurodivergent children, adapting to how they "
+summary: Bridge ADAPTIVE received the 2nd Place - Best Overall Award award at TechNisa Hacks  in
+  2026. This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/alvinaanwarr/TechNisa2026
+demo_url: null
+video_url: https://www.youtube.com/embed/P3w7cUMKL5E
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/162/383/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - education
+  - social-impact
+technologies:
+  - typescript
+builders:
+  - name: Alvina Anwar
+  - name: Rania773 Halabi
+  - name: Syeda Nasr

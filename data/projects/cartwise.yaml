@@ -1,0 +1,24 @@
+id: cartwise
+name: CartWise
+slug: cartwise
+tagline: Find nearby grocery deals and track your savings.
+summary: CartWise received the 1st Place - Best Overall Award award at TechNisa Hacks  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/0XInE_GdCMA
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/162/453/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - javascript
+  - python
+  - react
+  - supabase
+builders:
+  - name: sufia hajirah
+  - name: Hajar Farag
+  - name: Zil Pavdighada
+  - name: Ayesha Faisal ♣

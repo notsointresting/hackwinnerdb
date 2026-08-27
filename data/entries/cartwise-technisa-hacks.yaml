@@ -1,0 +1,14 @@
+id: cartwise-technisa-hacks
+project_id: cartwise
+hackathon_id: technisa-hacks
+submission_url: https://devpost.com/software/cartwise-lh6a1m
+source:
+  platform: devpost
+  url: https://devpost.com/software/cartwise-lh6a1m
+awards:
+  - type: first-place
+    title: 1st Place - Best Overall Award
+verification:
+  status: unverified
+  checked_at: 2026-08-27
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

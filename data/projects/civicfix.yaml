@@ -1,0 +1,21 @@
+id: civicfix
+name: CivicFix
+slug: civicfix
+tagline: Let's cut through the paper work!
+summary: CivicFix received the 3rd Place - Best Overall Award award at TechNisa Hacks  in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/iL94rQuddWI
+image_url: null
+categories:
+  - education
+  - social-impact
+  - govtech
+technologies:
+  - python
+builders:
+  - name: Fatimah K
+  - name: Esra Abdulwahab
+  - name: Tooba Mir

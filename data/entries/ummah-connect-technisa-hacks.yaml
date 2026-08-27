@@ -1,0 +1,14 @@
+id: ummah-connect-technisa-hacks
+project_id: ummah-connect
+hackathon_id: technisa-hacks
+submission_url: https://devpost.com/software/ummahconnect
+source:
+  platform: devpost
+  url: https://devpost.com/software/ummahconnect
+awards:
+  - type: category-winner
+    title: Best Beginner Project Award
+verification:
+  status: unverified
+  checked_at: 2026-08-27
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.
