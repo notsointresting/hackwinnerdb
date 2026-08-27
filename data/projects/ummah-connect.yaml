@@ -1,0 +1,27 @@
+id: ummah-connect
+name: Ummah Connect
+slug: ummah-connect
+tagline: A personalized discovery app that helps Muslim students, newcomers, and professionals find
+  the people, events, and communities already around them.
+summary: Ummah Connect received the Best Beginner Project Award award at TechNisa Hacks  in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Rida-2006/ummahconnect.git
+demo_url: null
+video_url: https://www.youtube.com/embed/VBgE11llKKU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/162/418/datas/gallery.jpg
+categories:
+  - education
+  - social-impact
+technologies:
+  - codex
+  - firebase
+  - javascript
+  - react
+  - tailwind-css
+  - typescript
+builders:
+  - name: Zainab Jamil
+  - name: Rida Fathima
+  - name: Mariam Khaled Abdelaal
+  - name: Noor  Alharam
