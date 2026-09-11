@@ -1,0 +1,26 @@
+id: asl-aura-battle
+name: ASL Aura Battle
+slug: asl-aura-battle
+tagline: ASL Aura Battle is a real-time multiplayer app that turns learning ASL into a game. Join
+  private rooms, sign prompts via webcam, and get instant scores. Use Lea
+summary: ASL Aura Battle received the 1st Place (Beginner) - Presented by Superteam award at
+  CloudHacks 2026 Singapore in 2026. This record was imported automatically; the summary and source
+  check are still pending.
+website_url: null
+github_url: https://github.com/KanXDelta/asl-aura-battle-final-version.git
+demo_url: null
+video_url: https://www.youtube.com/embed/7mlpOkK6r0U
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/277/378/datas/gallery.jpg
+categories:
+  - education
+  - gaming
+technologies:
+  - javascript
+  - nodejs
+  - react
+  - tailwind-css
+  - vite
+  - webrtc
+builders:
+  - name: Kanav Dhingra
+  - name: Rishi Krishnan

@@ -1,0 +1,29 @@
+id: singapore-2050-climate-resilience-quest
+name: Singapore 2050 Climate Resilience Quest
+slug: singapore-2050-climate-resilience-quest
+tagline: Singapore 2050 is a playable 3D neighbourhood where you tackle heat, floods and haze, make
+  tough trade-offs and see how climate decisions affect real people.
+summary: Singapore 2050 Climate Resilience Quest received the People’s Choice award at CloudHacks
+  2026 Singapore in 2026. This record was imported automatically; the summary and source check are
+  still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/WOdsbVGBK1o
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/279/723/datas/gallery.jpg
+categories:
+  - climate
+technologies:
+  - nextjs
+  - playwright
+  - react
+  - react-three-fiber
+  - tailwind-css
+  - three-js
+  - typescript
+  - vitest
+  - webgl
+  - zustand
+builders:
+  - name: jiaman Lee
+  - name: Xavier Ong

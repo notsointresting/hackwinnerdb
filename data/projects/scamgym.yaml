@@ -1,0 +1,20 @@
+id: scamgym
+name: ScamGym
+slug: scamgym
+tagline: ScamGym is a project designed to help teach seniors identify common scam techniques used by
+  scammers, such as fear, rushing the victims, and more.
+summary: ScamGym received the ElevenLabs Best Project award at CloudHacks 2026 Singapore in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ripjkgaming/scamgym-fused
+demo_url: null
+video_url: https://www.youtube.com/embed/7ZTnShZOcGE
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/279/867/datas/gallery.jpg
+categories:
+  - creative-tools
+technologies:
+  - javascript
+  - typescript
+builders:
+  - name: Kyler Chan
+  - name: rip_ jk

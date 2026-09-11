@@ -1,0 +1,14 @@
+id: packwise-cloudhacks-2026-singapore
+project_id: packwise
+hackathon_id: cloudhacks-2026-singapore
+submission_url: https://devpost.com/software/packwise-ye8tbw
+source:
+  platform: devpost
+  url: https://devpost.com/software/packwise-ye8tbw
+awards:
+  - type: second-place
+    title: 2nd Place (Beginner)
+verification:
+  status: unverified
+  checked_at: 2026-09-11
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.
