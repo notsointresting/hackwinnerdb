@@ -1,0 +1,14 @@
+id: loredrop-cloudhacks-2026-singapore
+project_id: loredrop
+hackathon_id: cloudhacks-2026-singapore
+submission_url: https://devpost.com/software/loredrop
+source:
+  platform: devpost
+  url: https://devpost.com/software/loredrop
+awards:
+  - type: second-place
+    title: 2nd Place (Advanced)
+verification:
+  status: unverified
+  checked_at: 2026-09-11
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

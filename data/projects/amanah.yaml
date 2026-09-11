@@ -1,0 +1,20 @@
+id: amanah
+name: Amanah
+slug: amanah
+tagline: Explore local stories, protect living traditions and reconnect with Singapore’s heritage by
+  shaping its neighbourhoods, one meaningful decision at a time.
+summary: Amanah received the 1st Place (Advanced) - Presented by Superteam award at CloudHacks 2026
+  Singapore in 2026. This record was imported automatically; the summary and source check are still
+  pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: https://www.youtube.com/embed/TozjW5SgiPs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/278/083/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+builders:
+  - name: darrylTung1 Tung
+  - name: ZY LEE

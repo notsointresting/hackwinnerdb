@@ -1,0 +1,14 @@
+id: amanah-cloudhacks-2026-singapore
+project_id: amanah
+hackathon_id: cloudhacks-2026-singapore
+submission_url: https://devpost.com/software/amanah-vmner1
+source:
+  platform: devpost
+  url: https://devpost.com/software/amanah-vmner1
+awards:
+  - type: first-place
+    title: 1st Place (Advanced) - Presented by Superteam
+verification:
+  status: unverified
+  checked_at: 2026-09-11
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

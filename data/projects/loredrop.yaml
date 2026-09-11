@@ -1,0 +1,28 @@
+id: loredrop
+name: LoreDrop
+slug: loredrop
+tagline: Can't study on your own? We help turn your boring lecture slides into a gossip podcast,
+  then call you out if you stop paying attention.
+summary: LoreDrop received the 2nd Place (Advanced) award at CloudHacks 2026 Singapore in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/uunwen/cloudhack-2026.git
+demo_url: null
+video_url: https://www.youtube.com/embed/FN22CxgEtAs
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/279/229/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - elevenlabs
+  - javascript
+  - nodejs
+  - openai
+  - react
+  - tailwind-css
+  - typescript
+  - vite
+builders:
+  - name: dak-v1 V
+  - name: Li
+  - name: uunwen
+  - name: shaneqwaszx-dev
