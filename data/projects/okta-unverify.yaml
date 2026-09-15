@@ -1,0 +1,21 @@
+id: okta-unverify
+name: OKTA UNVERIFY
+slug: okta-unverify
+tagline: So basically as we unimelb students know okta verify is already very annoying so, we
+  decided that we are going to create okta unverify which makes your life eve
+summary: OKTA UNVERIFY received the 1st Place award at Scuffathon 2026 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/eyelens24/Okta-unverify.git
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/307/078/datas/medium.png
+categories:
+  - education
+technologies:
+  - javascript
+builders:
+  - name: Tanzeem Ahmed Choudhury
+  - name: EyeLens Konstantin
+  - name: Sumin Lee
+  - name: Lakshay Yadav
