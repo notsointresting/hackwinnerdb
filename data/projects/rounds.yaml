@@ -1,0 +1,21 @@
+id: rounds
+name: Rounds
+slug: rounds
+tagline: Pre-flight for house-call veterinarians.
+summary: Rounds received the Grand Prize award at LOCALHOST 2.0 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/Mohammad4844/localhost-2.0
+demo_url: null
+video_url: https://www.youtube.com/embed/1oc-QahzxCU
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/303/148/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - claude
+  - javascript
+  - python
+builders:
+  - name: Mohammad Arjamand Ali

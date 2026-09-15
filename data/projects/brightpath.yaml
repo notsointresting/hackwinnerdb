@@ -1,0 +1,19 @@
+id: brightpath
+name: BrightPath
+slug: brightpath
+tagline: BrightPath is an interactive storytelling app for kids that helps caregivers notice early
+  anxiety and depression signals through gentle, adaptive story play.
+summary: BrightPath received the Third Place award at LOCALHOST 2.0 in 2026. This record was
+  imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/epastapur/BrightPathDemo
+demo_url: null
+video_url: https://www.youtube.com/embed/ZoKqUeuMRek
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/302/035/datas/gallery.jpg
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies: []
+builders:
+  - name: epastapur Pastapur
