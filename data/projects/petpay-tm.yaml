@@ -1,0 +1,17 @@
+id: petpay-tm
+name: PetPay TM
+slug: petpay-tm
+tagline: Dont we all just love dogs. What if you could have your own digital dog that you could feed
+  and take care of. Introducing PetPay.
+summary: PetPay TM received the 3rd Place award at Scuffathon 2026 in 2026. This record was imported
+  automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/ryan1of0/digitaldog
+demo_url: null
+video_url: null
+image_url: null
+categories:
+  - other
+technologies: []
+builders:
+  - name: Aakanksha Bagal
