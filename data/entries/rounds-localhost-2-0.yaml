@@ -1,0 +1,14 @@
+id: rounds-localhost-2-0
+project_id: rounds
+hackathon_id: localhost-2-0
+submission_url: https://devpost.com/software/rounds-mw0ke4
+source:
+  platform: devpost
+  url: https://devpost.com/software/rounds-mw0ke4
+awards:
+  - type: grand-prize
+    title: Grand Prize
+verification:
+  status: unverified
+  checked_at: 2026-09-19
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.

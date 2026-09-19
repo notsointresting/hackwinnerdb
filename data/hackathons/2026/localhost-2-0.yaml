@@ -1,0 +1,16 @@
+id: localhost-2-0
+name: LOCALHOST 2.0
+slug: localhost-2-0
+organizer: []
+year: 2026
+start_date: 2026-09-12
+end_date: 2026-09-12
+sources:
+  - https://localhost2.devpost.com/
+  - https://localhost2.devpost.com/project-gallery
+website_url: https://localhost2.devpost.com/
+platform: devpost
+participant_count: 16
+prize_pool: 500
+currency: USD
+description: "Devpost hackathon: LOCALHOST 2.0. Imported automatically."

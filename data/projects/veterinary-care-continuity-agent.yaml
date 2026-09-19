@@ -1,0 +1,27 @@
+id: veterinary-care-continuity-agent
+name: Veterinary Care Continuity Agent
+slug: veterinary-care-continuity-agent
+tagline: "Post-op veterinary follow-up, automated but not autonomous: Claude structures the notes
+  and the owner conversation; deterministic rules decide escalation; the v"
+summary: Veterinary Care Continuity Agent received the Second Place award at LOCALHOST 2.0 in 2026.
+  This record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: https://github.com/omarRmalik/vet_care_continuity_agent
+demo_url: null
+video_url: https://www.youtube.com/embed/bjfH5MIVdlE
+image_url: null
+categories:
+  - artificial-intelligence
+  - healthcare
+  - education
+technologies:
+  - anthropic
+  - claude
+  - fastapi
+  - javascript
+  - pydantic
+  - pytest
+  - python
+  - uvicorn
+builders:
+  - name: Omar Malik

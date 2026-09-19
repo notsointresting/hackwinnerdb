@@ -1,0 +1,19 @@
+id: totally-necessary-calculator
+name: Totally Necessary Calculator
+slug: totally-necessary-calculator
+tagline: You thought life couldn't be more efficient. Then you saw this. The totally necessary
+  calculator. Full Alpha Build Release in 3077
+summary: Totally Necessary Calculator received the 2nd Place award at Scuffathon 2026 in 2026. This
+  record was imported automatically; the summary and source check are still pending.
+website_url: null
+github_url: null
+demo_url: null
+video_url: null
+image_url: https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/005/307/537/datas/gallery.jpg
+categories:
+  - other
+technologies:
+  - react
+  - vite
+builders:
+  - name: Rafael Sitorus

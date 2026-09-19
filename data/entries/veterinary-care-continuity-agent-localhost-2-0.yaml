@@ -1,0 +1,14 @@
+id: veterinary-care-continuity-agent-localhost-2-0
+project_id: veterinary-care-continuity-agent
+hackathon_id: localhost-2-0
+submission_url: https://devpost.com/software/veterinary-care-continuity-agent
+source:
+  platform: devpost
+  url: https://devpost.com/software/veterinary-care-continuity-agent
+awards:
+  - type: second-place
+    title: Second Place
+verification:
+  status: unverified
+  checked_at: 2026-09-19
+  notes: Imported automatically via Devpost discovery sync. A maintainer must confirm the source.
